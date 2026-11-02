@@ -1,0 +1,13 @@
+body{font-family:system-ui,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;margin:0;background:#f5f6fa;color:#222}
+header{background:#1d3557;padding:14px 20px}header a{color:#fff;font-weight:700;text-decoration:none}
+main{max-width:860px;margin:20px auto;padding:0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.card{background:#fff;border-radius:10px;padding:16px;box-shadow:0 1px 4px #0002;text-decoration:none;color:inherit;display:block}
+.card.off{opacity:.55}.tag{font-size:12px;padding:2px 8px;border-radius:10px;background:#ddd;margin-left:6px}
+.tag.build-next{background:#ffd166}.tag.demo{background:#ef476f;color:#fff}
+.q{background:#fff;border-radius:10px;padding:14px;margin:12px 0;white-space:pre-wrap}
+.q label{display:block;margin:6px 0}input[type=text]{width:100%;padding:8px;font-size:16px;box-sizing:border-box}
+button{background:#1d3557;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:16px;cursor:pointer}
+.timer{position:sticky;top:0;background:#fff;padding:8px;border-radius:8px;font-weight:700}
+.remind{background:#fff3cd;border:3px solid #e63946;border-radius:10px;padding:14px;font-size:18px;font-weight:700;color:#9b2226;margin:14px 0}
+.wrong{border-left:5px solid #e63946}.ok{color:#2a9d8f}.bad{color:#e63946}.banner{background:#ef476f;color:#fff;padding:8px 12px;border-radius:8px}

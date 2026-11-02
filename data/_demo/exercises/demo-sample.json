@@ -1,0 +1,62 @@
+{
+  "id": "demo-sample",
+  "title": "[DEMO] 사이트 시험용 샘플 (교재 문제 아님)",
+  "demo": true,
+  "timeLimitSec": 300,
+  "questions": [
+    {
+      "id": 1,
+      "type": "TMC",
+      "question": "[DEMO] Choose the correct word.\nShe ___ to school every day.",
+      "answers": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "corAns": "2",
+      "explainKo": "주어 She는 3인칭 단수이므로 goes가 맞습니다."
+    },
+    {
+      "id": 2,
+      "type": "TMC",
+      "question": "[DEMO] Choose the correct word.\nI want ___ a doctor.",
+      "answers": [
+        "be",
+        "to be",
+        "being"
+      ],
+      "corAns": "2",
+      "explainKo": "want는 to부정사를 목적어로 씁니다: want to be."
+    },
+    {
+      "id": 3,
+      "type": "TMC",
+      "question": "[DEMO] Choose the opposite of 'hot'.",
+      "answers": [
+        "cold",
+        "warm",
+        "big"
+      ],
+      "corAns": "1",
+      "explainKo": "hot(뜨거운)의 반대말은 cold(차가운)입니다."
+    },
+    {
+      "id": 4,
+      "type": "TST",
+      "question": "[DEMO] 빈칸에 알맞은 말을 쓰시오.\n나는 어제 영화를 봤다. → I ____ a movie yesterday. (watch)",
+      "answers": [
+        "watched"
+      ],
+      "explainKo": "yesterday가 있으므로 과거형 watched를 씁니다."
+    },
+    {
+      "id": 5,
+      "type": "TST",
+      "question": "[DEMO] 우리말에 맞게 쓰시오.\n그는 키가 크다. → He ____ tall.",
+      "answers": [
+        "is"
+      ],
+      "explainKo": "주어 He + be동사 현재형 is."
+    }
+  ]
+}
