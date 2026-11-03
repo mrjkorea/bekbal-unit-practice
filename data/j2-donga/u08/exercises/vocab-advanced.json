@@ -1,0 +1,194 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": "pp.186-187",
+  "questionCount": 13,
+  "omitted": [
+    {
+      "n": "12",
+      "reason": "(A)~(C) 선택 표가 15번 선택지와 두 단으로 겹친다. 보이는 행은 appeared/possible/whispered, appeared/impossible/whispered, appeared/possible, disappeared/impossible(④), disappeared/possible/whispered(⑤)이고 shouted가 두 번 떨어져 ③·④의 (C)를 확정할 수 없다. 해설의 정답 조합은 appeared, impossible, whispered. 정답 번호 칸은 비어 있다."
+    },
+    {
+      "n": "15",
+      "reason": "문장 ⓐ He studied hard, so the cause of the test was very good. ⓑ Don't panic. Everything will be okay. ⓒ We looked around the store before buying clothes. ⓓ She has been my friend before we were 10. 는 읽힌다. 선택지는 ① a, c ② b, c ③ c, d ⑤ a, c, d만 보이고 ④는 없다. 해설상 올바른 것은 ⓑ, ⓒ이고 정답 번호는 ②. 빠진 선택지는 만들지 않음."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "except : including",
+        "inside : outside",
+        "soft : rough",
+        "silent : quiet",
+        "huge : tiny"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④. silent : quiet는 '조용한'이라는 의미로 유의어 관계이고, 나머지는 모두 반의어 관계이다. ① ~을 제외하고는 : ~을 포함하여 ② 안으로 : 밖으로 ③ 부드러운 : 거친 ⑤ 거대한 : 작은"
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "What is the correct word for each definition?\n( ) : wet earth that is soft and sticky\n( ) : silly or not wise",
+      "answers": [
+        "path / confused",
+        "fog / shocked",
+        "mud / foolish",
+        "fog / foolish",
+        "mud / confused"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ mud / foolish. 부드럽고 끈적한 젖은 흙 → mud(진흙). path: 길, 오솔길 / fog: 안개. 어리석거나 현명하지 않은 → foolish(어리석은). confused: 혼란스러워하는 / shocked: 충격을 받은."
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 단어의 의미가 보기와 같은 것은?\n보기: The time machine returned to the _present_.",
+      "answers": [
+        "He will _present_ a new topic.",
+        "I bought a _present_ for my friend.",
+        "All the students were _present_ in class.",
+        "Live in the _present_, not in the past.",
+        "This watch is a _present_ from my parents."
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④. 보기와 ④의 present는 '현재'라는 의미로 쓰였다. 보기: 타임머신은 현재로 돌아왔다. ① 그는 새로운 주제를 제시할 것이다. ② 나는 친구를 위한 선물을 샀다. ③ 모든 학생들이 수업에 참석했다. ④ 과거가 아니라 현재에 살아라. ⑤ 이 시계는 부모님이 주신 선물이다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\nIf you need help, ask me ______ any time.\nHe stared ______ the painting in the museum.",
+      "answers": [
+        "at"
+      ],
+      "explainKo": "정답: at. at any time: 어떤 때라도, 언제라도. stare at: ~을 응시하다, 빤히 쳐다보다. 도움이 필요하면 언제든지 내게 부탁해. 그는 박물관에 있는 그림을 빤히 쳐다보았다."
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "[05-06] 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.\nHe was so _scared_ that he couldn't speak or move.",
+      "answers": [
+        "worried",
+        "excited",
+        "shocked",
+        "terrified",
+        "embarrassed"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ terrified. scared: 무서워하는 (= terrified). 그는 너무 무서워서 말을 할 수도 움직일 수도 없었다. ① 걱정하는 ② 신이 난 ③ 충격을 받은 ④ 무서운 ⑤ 당황한"
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TMC",
+      "question": "[05-06] 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.\nHis wish _came true_ when he met his favorite singer.",
+      "answers": [
+        "looked strange",
+        "was realized",
+        "was impossible",
+        "was fixed",
+        "was changed"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: ② was realized. come true: 이루어지다, 실현되다 (= be realized). 그가 가장 좋아하는 가수를 만났을 때 그의 바람은 이루어졌다. ① 이상하게 보였다 ② 이루어졌다 ③ 불가능했다 ④ 수리되었다 ⑤ 바뀌었다"
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TMC",
+      "question": "다음 영영풀이에 해당하는 단어가 들어간 문장은?\nthe state of not speaking or making noise",
+      "answers": [
+        "Take a deep breath and relax.",
+        "He gave us clear instructions.",
+        "There was silence in the room.",
+        "We heard a roar in the distance.",
+        "Stay on the path and don't leave it."
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③. 말하거나 소리를 내지 않는 상태 → silence(고요). ① 심호흡을 하고 긴장을 풀어라. ② 그는 우리에게 명확한 지시를 했다. ③ 방 안에 침묵이 있었다. ④ 우리는 멀리서 포효하는 소리를 들었다. ⑤ 길에 머물고 길을 벗어나지 마라."
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TMC",
+      "question": "다음 중 빈칸에 들어갈 전치사가 나머지와 다른 것은?",
+      "answers": [
+        "Can you take me ______ the airport?",
+        "She said ______ herself, \"I can do it.\"",
+        "Finally, he returned ______ his hometown.",
+        "The traffic accident was due ______ his carelessness.",
+        "They looked ______ each other with a smile."
+      ],
+      "corAns": "5",
+      "explainKo": "정답: ⑤. ⑤에는 at이 들어가고, 나머지는 모두 to가 들어간다. ① 나를 공항에 데려다 줄 수 있니? (take A to B) ② 그녀는 '나는 할 수 있어.'라고 혼잣말을 했다. (say to oneself) ③ 마침내, 그는 고향으로 돌아갔다. (return to) ④ 그 교통사고는 그의 부주의 때문이었다. (due to) ⑤ 그들은 미소 지으며 서로를 바라보았다. (look at)"
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n그 화재는 많은 사람들을 위험에 빠뜨렸다.\nThe fire put a lot of people ______.",
+      "answers": [
+        "in danger",
+        "indanger",
+        "in  danger"
+      ],
+      "explainKo": "정답: in danger. put in danger: ~을 위험에 빠뜨리다."
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 그를 오랫동안 알고 지내왔다.\nI have known him ______.",
+      "answers": [
+        "for a long time",
+        "foralongtime",
+        "for  a  long  time"
+      ],
+      "explainKo": "정답: for a long time. for a long time: 오랫동안."
+    },
+    {
+      "id": 11,
+      "group": "11",
+      "type": "TST",
+      "question": "다음 빈칸에 들어갈 알맞은 말을 쓰시오.\nThe population of the city is 2,000,000. It has two ______ people.",
+      "answers": [
+        "million"
+      ],
+      "explainKo": "정답: million. million: 백만의, 백만. 그 도시의 인구는 2백만 명이다. 그곳에는 2백만 명의 사람들이 있다."
+    },
+    {
+      "id": 12,
+      "group": "13",
+      "type": "TMC",
+      "question": "다음 빈칸 ⓐ-ⓒ에 들어갈 말이 바르게 짝지어진 것은?\nIt is important to stay ⓐ ______ during the test.\nWe should ⓑ ______ traffic rules to stay safe.\nⓒ ______, a loud noise came from outside.",
+      "answers": [
+        "close / follow / Carefully",
+        "close / explain / Suddenly",
+        "calm / follow / Suddenly",
+        "calm / roar / Quietly",
+        "calm / explain / Suddenly"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ calm / follow / Suddenly. ⓐ calm: 침착한 (close: 가까운). ⓑ follow: 따르다 (explain: 설명하다 / roar: 포효하다, 으르렁거리다). ⓒ suddenly: 갑자기 (carefully: 주의 깊게 / quietly: 조용히). 시험을 보는 동안 침착함을 유지하는 것이 중요하다. 우리는 안전을 위해 교통 규칙을 따라야 한다. 갑자기 밖에서 큰 소리가 났다."
+    },
+    {
+      "id": 13,
+      "group": "14",
+      "type": "TST",
+      "question": "다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오.\nto take air into your body and let it out again\nHe tried to ______ slowly to relax his mind.",
+      "answers": [
+        "breathe"
+      ],
+      "explainKo": "정답: breathe. 공기를 몸 안으로 들이마셨다가 다시 내보내다 → breathe(숨을 쉬다). 그는 마음을 편안하게 하기 위해 천천히 숨을 쉬려고 노력했다."
+    }
+  ]
+}

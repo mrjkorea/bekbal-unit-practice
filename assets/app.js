@@ -25,7 +25,8 @@ async function unit(){
    c.sections.map(s=>`<h2>${esc(s.title)}</h2>`+(s.exercises.length?`<div class="grid">${s.exercises.map(e=>{
      if(e.deferred) return `<div class="card off">${esc(e.title)}<span class="tag deferred">확인 필요</span>${e.reason?`<br><small>${esc(e.reason)}</small>`:''}</div>`;
      const n=e.questionCount?` <small>(${e.questionCount})</small>`:'';
-     return `<a class="card" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">${esc(e.title)}${n}</a>`;
+     const hold=e.omittedCount?`<br><small>OCR 확인 보류 ${e.omittedCount}문항</small>`:'';
+     return `<a class="card" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">${esc(e.title)}${n}${hold}</a>`;
    }).join('')}</div>`:`<p class="card off">Coming soon</p>`)).join('');
 }
 function timeFor(ex){ if(ex.timeLimitSec) return ex.timeLimitSec;

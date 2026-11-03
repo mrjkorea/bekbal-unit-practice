@@ -1,0 +1,92 @@
+{
+  "id": "plus-practice",
+  "title": "Plus 기타 지문 실전 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": [
+    "220",
+    "221"
+  ],
+  "questionCount": 5,
+  "omitted": [
+    {
+      "n": 1,
+      "reason": "빈칸 ⓐ·ⓑ 짝짓기 선택지가 깨져 있고 정답란이 O로 번호를 확정할 수 없음"
+    },
+    {
+      "n": 5,
+      "reason": "밑줄 ②·③·④를 읽을 수 없음"
+    }
+  ],
+  "questions": [
+    {
+      "id": 2,
+      "group": "01-03",
+      "type": "TST",
+      "question": "[02] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글을 읽고, 질문에 대한 답을 완성하시오.\n\nQ. What rule did Travis give before starting the trip?\n→ Do not ______",
+      "answers": [
+        "leave the path",
+        "leave the path."
+      ],
+      "explainKo": "Travis는 여행자들에게 길을 벗어나지 말라고 말했다. 질문: Travis는 여행을 시작하기 전에 어떤 규칙을 전달했는가?"
+    },
+    {
+      "id": 3,
+      "group": "01-03",
+      "type": "TMC",
+      "question": "[03] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\nWhat can we learn from the passage?",
+      "answers": [
+        "Time travel is not interesting.",
+        "Dinosaurs were very dangerous animals.",
+        "Even small actions can change the future.",
+        "You should not leave the group during a trip.",
+        "We should protect the present for a better future."
+      ],
+      "corAns": "3",
+      "explainKo": "타임머신을 타고 과거로 여행을 갔던 Eckels가 저지른 사소한 실수 때문에 세상이 달라졌다는 내용의 글로, ③ '작은 행동도 미래를 바꿀 수 있다.'는 것을 보여주는 글이다. ① 시간 여행은 흥미롭지 않다. ② 공룡은 매우 위험한 동물이었다. ④ 여행 중에 무리를 떠나면 안 된다. ⑤ 더 나은 미래를 위해 현재를 보호해야 한다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TMC",
+      "question": "[04] 다음 글을 읽고, 물음에 답하시오.\n\nDear Future Me,\n\nHi. How are you? I'm now in the second grade in middle school. You've always wanted to be a pilot. I hope your dream has come true. Hope you're happy.\n\nWith love,\nMina\n\nWhat type is the passage?",
+      "answers": [
+        "diary",
+        "letter",
+        "novel",
+        "poem",
+        "article"
+      ],
+      "corAns": "2",
+      "explainKo": "Dear(~에게)라는 인사말로 시작하여 With love(사랑을 담아)라는 맺음말로 마무리하고 있으므로 글의 종류는 ② 편지이다. ① 일기 ③ 소설 ④ 시 ⑤ 기사"
+    },
+    {
+      "id": 6,
+      "group": "05-07",
+      "type": "TST",
+      "question": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\n윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(can / nothing / do / you / there's)",
+      "answers": [
+        "there's nothing you can do",
+        "There's nothing you can do",
+        "There's nothing you can do.",
+        "there's nothing you can do."
+      ],
+      "explainKo": "관계대명사절 you can do가 선행사 nothing을 수식하는 구조이며, 목적격 관계대명사가 생략된 문장이다."
+    },
+    {
+      "id": 7,
+      "group": "05-07",
+      "type": "TMC",
+      "question": "[07] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\nAccording to the passage, which one is true?",
+      "answers": [
+        "The world hasn't changed at all.",
+        "Eckels felt happy for the changes.",
+        "Eckels went to see Travis for advice.",
+        "Travis said everything returned to normal.",
+        "Eckels saw nothing strange outside."
+      ],
+      "corAns": "3",
+      "explainKo": "Eckels는 Travis에게 자신이 무엇을 할 수 있을지 물어보러 갔다고 했으므로 ③은 내용과 일치한다. ① 세상은 전혀 변하지 않았다. (→ 변했음) ② Eckels는 변화에 대해 기뻐했다. (→ 충격을 받음) ④ Travis는 모든 것이 정상으로 돌아왔다고 말했다. (→ 할 수 있는 일이 없다고 말했음) ⑤ Eckels는 밖에서 이상한 것을 보지 못했다. (→ 상상할 수 없는 것을 보았음)"
+    }
+  ]
+}

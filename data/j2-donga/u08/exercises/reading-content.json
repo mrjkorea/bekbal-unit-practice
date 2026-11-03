@@ -1,0 +1,224 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": [
+    "200",
+    "201"
+  ],
+  "questionCount": 20,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "-1-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nThe big sign on the wall said, \"NAME ANY YEAR IN THE PAST. WE TAKE YOU THERE.\"\nsay의 뜻:",
+      "answers": [
+        "~라고 되어[쓰여] 있다",
+        "~라고 되어 있다",
+        "~라고 쓰여 있다",
+        "~라고 되어 쓰여 있다"
+      ],
+      "explainKo": "정답: ~라고 되어[쓰여] 있다"
+    },
+    {
+      "id": 2,
+      "group": "-1-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels.\n「have + 과거분사」: ~해 왔다 (현재완료: )",
+      "answers": [
+        "계속"
+      ],
+      "explainKo": "정답: 계속"
+    },
+    {
+      "id": 3,
+      "group": "-1-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"You're lucky. There's a time machine that leaves in 10 minutes,\" said Mr. Parker.\n관계대명사 that:",
+      "answers": [
+        "주격"
+      ],
+      "explainKo": "정답: 주격"
+    },
+    {
+      "id": 4,
+      "group": "-1-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"To stay safe, you must follow his instructions.\"\n(    )적 용법의 to부정사 (목적)",
+      "answers": [
+        "부사"
+      ],
+      "explainKo": "정답: 부사"
+    },
+    {
+      "id": 5,
+      "group": "-2-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nHe felt the machine moving under his feet.\n「지각동사 feel + 목적어 + 목적격보어(현재분사)」의 뜻:",
+      "answers": [
+        "~가 ...하고 있는 것을 느끼다",
+        "~가 하고 있는 것을 느끼다",
+        "~가 …하고 있는 것을 느끼다"
+      ],
+      "explainKo": "정답: ~가 ...하고 있는 것을 느끼다"
+    },
+    {
+      "id": 6,
+      "group": "-2-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained.\n「have + 과거분사」: ~했다 (현재완료: )",
+      "answers": [
+        "완료"
+      ],
+      "explainKo": "정답: 완료"
+    },
+    {
+      "id": 7,
+      "group": "-2-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nYou might kill something by accident.\nby accident의 뜻:",
+      "answers": [
+        "실수로: 우연히",
+        "실수로; 우연히"
+      ],
+      "explainKo": "정답: 실수로: 우연히"
+    },
+    {
+      "id": 8,
+      "group": "-2-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nA little change here can cause something unthinkable in the future.\n-thing으로 끝나는 부정대명사는 (    )가 (    )에서 수식한다.",
+      "answers": [
+        "형용사, 뒤",
+        "형용사 뒤"
+      ],
+      "explainKo": "정답: 형용사, 뒤"
+    },
+    {
+      "id": 9,
+      "group": "-3-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nSlowly, everyone got out of the time machine.\nget out of의 뜻:",
+      "answers": [
+        "~에서 내리다; ~에서 나오다",
+        "~에서 내리다: ~에서 나오다"
+      ],
+      "explainKo": "정답: ~에서 내리다; ~에서 나오다"
+    },
+    {
+      "id": 10,
+      "group": "-3-",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어를 올바른 형태로 쓰시오.\nThe jungle was (cover) in fog.",
+      "answers": [
+        "covered"
+      ],
+      "explainKo": "정답: covered"
+    },
+    {
+      "id": 11,
+      "group": "-3-",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어를 올바른 형태로 쓰시오.\n\"Be careful. Some of the dinosaurs (be) hungry,\" said Travis.",
+      "answers": [
+        "are"
+      ],
+      "explainKo": "정답: are"
+    },
+    {
+      "id": 12,
+      "group": "-3-",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어를 올바른 형태로 쓰시오.\n\"Just stay calm. I don't want you (do) anything foolish.\"",
+      "answers": [
+        "to do"
+      ],
+      "explainKo": "정답: to do"
+    },
+    {
+      "id": 13,
+      "group": "-4-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n「have + 과거분사」: ~한 적이 있다 (현재완료: )",
+      "answers": [
+        "경험"
+      ],
+      "explainKo": "정답: 경험"
+    },
+    {
+      "id": 14,
+      "group": "-4-",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어를 올바른 형태로 쓰시오.\n\"You don't want it (see) you.\"",
+      "answers": [
+        "to see"
+      ],
+      "explainKo": "정답: to see"
+    },
+    {
+      "id": 15,
+      "group": "-4-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nHe was so terrified that he left the path by accident.\n「so + 형용사[부사] + that + 주어 + 동사」의 뜻:",
+      "answers": [
+        "너무[매우] ~해서 (그 결과)...하다",
+        "너무 매우 ~해서 (그 결과)...하다",
+        "너무 ~해서 (그 결과)...하다"
+      ],
+      "explainKo": "정답: 너무[매우] ~해서 (그 결과)...하다"
+    },
+    {
+      "id": 16,
+      "group": "-4-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nThe T. rex heard Travis and turned its head toward him and the other travelers.\nhim이 가리키는 것:",
+      "answers": [
+        "Travis"
+      ],
+      "explainKo": "정답: Travis"
+    },
+    {
+      "id": 17,
+      "group": "-5-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"You put all of us in danger,\" said Travis to Eckels in an angry voice.\nput ~ in danger의 뜻:",
+      "answers": [
+        "~을 위험에 빠뜨리다"
+      ],
+      "explainKo": "정답: ~을 위험에 빠뜨리다"
+    },
+    {
+      "id": 18,
+      "group": "-5-",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어를 올바른 형태로 쓰시오.\nTravis stared at Eckels for a long time without (say) anything.",
+      "answers": [
+        "saying"
+      ],
+      "explainKo": "정답: saying"
+    },
+    {
+      "id": 19,
+      "group": "-6-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nEverything looked the same, except the big sign on the wall.\nexcept의 뜻:",
+      "answers": [
+        "~을 제외하고는"
+      ],
+      "explainKo": "정답: ~을 제외하고는"
+    },
+    {
+      "id": 20,
+      "group": "-6-",
+      "type": "TST",
+      "question": "다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\nthis little thing이 가리키는 것:",
+      "answers": [
+        "죽은 작은 나비 한 마리"
+      ],
+      "explainKo": "정답: 죽은 작은 나비 한 마리"
+    }
+  ]
+}

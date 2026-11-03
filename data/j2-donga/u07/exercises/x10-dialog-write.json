@@ -1,0 +1,568 @@
+{
+  "id": "x10-dialog-write",
+  "title": "대화 영작하기",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "34-35",
+  "questionCount": 40,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "1 Watch and Talk A-1-B-01",
+      "type": "TST",
+      "question": "1 Watch and Talk A-1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 우리는 페이스 페인팅이나 가상현실 게임을 할 수 있어. 어느 것이 더 좋아?",
+      "answers": [
+        "We can do face painting or play VR games. Which do you like more?",
+        "WecandofacepaintingorplayVRgames.Whichdoyoulikemore?",
+        "We  can  do  face  painting  or  play  VR  games.  Which  do  you  like  more?",
+        "We can do face painting or play VR games. Which do you like more"
+      ],
+      "explainKo": "정답: We can do face painting or play VR games. Which do you like more?"
+    },
+    {
+      "id": 2,
+      "group": "1 Watch and Talk A-1-G-02",
+      "type": "TST",
+      "question": "1 Watch and Talk A-1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 나는 페이스 페인팅이 더 좋아. 너는 어때?",
+      "answers": [
+        "I like face painting more. What about you?",
+        "Ilikefacepaintingmore.Whataboutyou?",
+        "I  like  face  painting  more.  What  about  you?",
+        "I like face painting more. What about you"
+      ],
+      "explainKo": "정답: I like face painting more. What about you?"
+    },
+    {
+      "id": 3,
+      "group": "1 Watch and Talk A-1-B-03",
+      "type": "TST",
+      "question": "1 Watch and Talk A-1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 나는 가상현실 게임을 하고 싶어. 나는 다시 세수하고 싶지 않아.",
+      "answers": [
+        "I want to play VR games. I don't want to wash my face again.",
+        "IwanttoplayVRgames.Idon'twanttowashmyfaceagain.",
+        "I  want  to  play  VR  games.  I  don't  want  to  wash  my  face  again.",
+        "I want to play VR games. I don't want to wash my face again"
+      ],
+      "explainKo": "정답: I want to play VR games. I don't want to wash my face again."
+    },
+    {
+      "id": 4,
+      "group": "1 Watch and Talk A-1-G-04",
+      "type": "TST",
+      "question": "1 Watch and Talk A-1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 가상현실 게임하는 것도 괜찮아. 같이 가상현실 게임 하러 가자.",
+      "answers": [
+        "Playing VR games is OK, too. Let's go play VR games together.",
+        "PlayingVRgamesisOK,too.Let'sgoplayVRgamestogether.",
+        "Playing  VR  games  is  OK,  too.  Let's  go  play  VR  games  together.",
+        "Playing VR games is OK,too. Let's go play VR games together.",
+        "Playing VR games is OK too. Let's go play VR games together.",
+        "Playing VR games is OK, too. Let's go play VR games together"
+      ],
+      "explainKo": "정답: Playing VR games is OK, too. Let's go play VR games together."
+    },
+    {
+      "id": 5,
+      "group": "2 Watch and Talk A-2-B-01",
+      "type": "TST",
+      "question": "2 Watch and Talk A-2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 여기 떡볶이랑 김밥이 있어. 둘 중에 어느 것이 더 좋아?",
+      "answers": [
+        "They have tteokbokki and gimbap here. Which of the two do you like better?",
+        "Theyhavetteokbokkiandgimbaphere.Whichofthetwodoyoulikebetter?",
+        "They  have  tteokbokki  and  gimbap  here.  Which  of  the  two  do  you  like  better?",
+        "They have tteokbokki and gimbap here. Which of the two do you like better"
+      ],
+      "explainKo": "정답: They have tteokbokki and gimbap here. Which of the two do you like better?"
+    },
+    {
+      "id": 6,
+      "group": "2 Watch and Talk A-2-G-02",
+      "type": "TST",
+      "question": "2 Watch and Talk A-2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 나는 떡볶이가 훨씬 더 좋아. 나는 매운 음식을 좋아해.",
+      "answers": [
+        "I like tteokbokki much better. I like spicy food.",
+        "Iliketteokbokkimuchbetter.Ilikespicyfood.",
+        "I  like  tteokbokki  much  better.  I  like  spicy  food.",
+        "I like tteokbokki much better. I like spicy food"
+      ],
+      "explainKo": "정답: I like tteokbokki much better. I like spicy food."
+    },
+    {
+      "id": 7,
+      "group": "2 Watch and Talk A-2-B-03",
+      "type": "TST",
+      "question": "2 Watch and Talk A-2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 그럼, 떡볶이를 주문하자. 맛있어 보여.",
+      "answers": [
+        "Then, let's order tteokbokki. It looks delicious.",
+        "Then,let'sordertteokbokki.Itlooksdelicious.",
+        "Then,  let's  order  tteokbokki.  It  looks  delicious.",
+        "Then,let's order tteokbokki. It looks delicious.",
+        "Then let's order tteokbokki. It looks delicious.",
+        "Then, let's order tteokbokki. It looks delicious"
+      ],
+      "explainKo": "정답: Then, let's order tteokbokki. It looks delicious."
+    },
+    {
+      "id": 8,
+      "group": "2 Watch and Talk A-2-G-04",
+      "type": "TST",
+      "question": "2 Watch and Talk A-2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 알겠어. 너무 배고파!",
+      "answers": [
+        "OK. I'm so hungry!",
+        "OK.I'msohungry!",
+        "OK.  I'm  so  hungry!",
+        "OK. I'm so hungry"
+      ],
+      "explainKo": "정답: OK. I'm so hungry!"
+    },
+    {
+      "id": 9,
+      "group": "3 Watch and Talk A-3-G-01",
+      "type": "TST",
+      "question": "3 Watch and Talk A-3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 기념품을 사자.",
+      "answers": [
+        "Let's get a souvenir.",
+        "Let'sgetasouvenir.",
+        "Let's  get  a  souvenir.",
+        "Let's get a souvenir"
+      ],
+      "explainKo": "정답: Let's get a souvenir."
+    },
+    {
+      "id": 10,
+      "group": "3 Watch and Talk A-3-B-02",
+      "type": "TST",
+      "question": "3 Watch and Talk A-3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 티셔츠와 모자 중에서 어느 것이 더 마음에 들어?",
+      "answers": [
+        "Which do you like better, the T-shirt or the cap?",
+        "Whichdoyoulikebetter,theT-shirtorthecap?",
+        "Which  do  you  like  better,  the  T-shirt  or  the  cap?",
+        "Which do you like better,the T-shirt or the cap?",
+        "Which do you like better the T-shirt or the cap?",
+        "Which do you like better, the T-shirt or the cap"
+      ],
+      "explainKo": "정답: Which do you like better, the T-shirt or the cap?"
+    },
+    {
+      "id": 11,
+      "group": "3 Watch and Talk A-3-G-03",
+      "type": "TST",
+      "question": "3 Watch and Talk A-3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 나는 티셔츠가 더 마음에 들어.",
+      "answers": [
+        "I like the T-shirt better.",
+        "IliketheT-shirtbetter.",
+        "I  like  the  T-shirt  better.",
+        "I like the T-shirt better"
+      ],
+      "explainKo": "정답: I like the T-shirt better."
+    },
+    {
+      "id": 12,
+      "group": "3 Watch and Talk A-3-B-04",
+      "type": "TST",
+      "question": "3 Watch and Talk A-3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 왜?",
+      "answers": [
+        "Why?",
+        "Why"
+      ],
+      "explainKo": "정답: Why?"
+    },
+    {
+      "id": 13,
+      "group": "3 Watch and Talk A-3-G-05",
+      "type": "TST",
+      "question": "3 Watch and Talk A-3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 티셔츠에 축제의 멋있는 그림이 있어서.",
+      "answers": [
+        "There is a nice picture of the festival on it.",
+        "Thereisanicepictureofthefestivalonit.",
+        "There  is  a  nice  picture  of  the  festival  on  it.",
+        "There is a nice picture of the festival on it"
+      ],
+      "explainKo": "정답: There is a nice picture of the festival on it."
+    },
+    {
+      "id": 14,
+      "group": "4 Watch and Talk A-4-G-01",
+      "type": "TST",
+      "question": "4 Watch and Talk A-4\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 봐! 여기 예쁜 꽃들이 많이 있어.",
+      "answers": [
+        "Look! There are lots of pretty flowers here.",
+        "Look!Therearelotsofprettyflowershere.",
+        "Look!  There  are  lots  of  pretty  flowers  here.",
+        "Look! There are lots of pretty flowers here"
+      ],
+      "explainKo": "정답: Look! There are lots of pretty flowers here."
+    },
+    {
+      "id": 15,
+      "group": "4 Watch and Talk A-4-B-02",
+      "type": "TST",
+      "question": "4 Watch and Talk A-4\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 빨간색 꽃과 노란색 꽃 중에 뭐가 더 마음에 들어?",
+      "answers": [
+        "Which do you like more, the red flowers or the yellow flowers?",
+        "Whichdoyoulikemore,theredflowersortheyellowflowers?",
+        "Which  do  you  like  more,  the  red  flowers  or  the  yellow  flowers?",
+        "Which do you like more,the red flowers or the yellow flowers?",
+        "Which do you like more the red flowers or the yellow flowers?",
+        "Which do you like more, the red flowers or the yellow flowers"
+      ],
+      "explainKo": "정답: Which do you like more, the red flowers or the yellow flowers?"
+    },
+    {
+      "id": 16,
+      "group": "4 Watch and Talk A-4-G-03",
+      "type": "TST",
+      "question": "4 Watch and Talk A-4\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 나는 노란색 꽃이 더 마음에 들어.",
+      "answers": [
+        "I like the yellow flowers more.",
+        "Iliketheyellowflowersmore.",
+        "I  like  the  yellow  flowers  more.",
+        "I like the yellow flowers more"
+      ],
+      "explainKo": "정답: I like the yellow flowers more."
+    },
+    {
+      "id": 17,
+      "group": "4 Watch and Talk A-4-B-04",
+      "type": "TST",
+      "question": "4 Watch and Talk A-4\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 왜 그게 더 마음에 드니?",
+      "answers": [
+        "Why do you like them more?",
+        "Whydoyoulikethemmore?",
+        "Why  do  you  like  them  more?",
+        "Why do you like them more"
+      ],
+      "explainKo": "정답: Why do you like them more?"
+    },
+    {
+      "id": 18,
+      "group": "4 Watch and Talk A-4-G-05",
+      "type": "TST",
+      "question": "4 Watch and Talk A-4\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 음, 노란색은 내가 가장 좋아하는 색이야.",
+      "answers": [
+        "Well, yellow is my favorite color.",
+        "Well,yellowismyfavoritecolor.",
+        "Well,  yellow  is  my  favorite  color.",
+        "Well,yellow is my favorite color.",
+        "Well yellow is my favorite color.",
+        "Well, yellow is my favorite color"
+      ],
+      "explainKo": "정답: Well, yellow is my favorite color."
+    },
+    {
+      "id": 19,
+      "group": "5 Watch and Talk C-G-01",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 안녕, 지한아. 놀랍다!",
+      "answers": [
+        "Hi, Jihan. What a surprise!",
+        "Hi,Jihan.Whatasurprise!",
+        "Hi,  Jihan.  What  a  surprise!",
+        "Hi,Jihan. What a surprise!",
+        "Hi Jihan. What a surprise!",
+        "Hi, Jihan. What a surprise"
+      ],
+      "explainKo": "정답: Hi, Jihan. What a surprise!"
+    },
+    {
+      "id": 20,
+      "group": "5 Watch and Talk C-B-02",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 안녕, Emma. 너도 여기 불꽃놀이 보러 왔니?",
+      "answers": [
+        "Hey, Emma. Are you here to see the fireworks, too?",
+        "Hey,Emma.Areyouheretoseethefireworks,too?",
+        "Hey,  Emma.  Are  you  here  to  see  the  fireworks,  too?",
+        "Hey,Emma. Are you here to see the fireworks,too?",
+        "Hey Emma. Are you here to see the fireworks too?",
+        "Hey, Emma. Are you here to see the fireworks, too"
+      ],
+      "explainKo": "정답: Hey, Emma. Are you here to see the fireworks, too?"
+    },
+    {
+      "id": 21,
+      "group": "5 Watch and Talk C-G-03",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 응. 올해는 중국, 이탈리아, 그리고 미국이 참가한다고 들었어.",
+      "answers": [
+        "Yes. I hear China, Italy, and the USA are participating this year.",
+        "Yes.IhearChina,Italy,andtheUSAareparticipatingthisyear.",
+        "Yes.  I  hear  China,  Italy,  and  the  USA  are  participating  this  year.",
+        "Yes. I hear China,Italy,and the USA are participating this year.",
+        "Yes. I hear China Italy and the USA are participating this year.",
+        "Yes. I hear China, Italy, and the USA are participating this year"
+      ],
+      "explainKo": "정답: Yes. I hear China, Italy, and the USA are participating this year."
+    },
+    {
+      "id": 22,
+      "group": "5 Watch and Talk C-B-04",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 한국을 잊지마.",
+      "answers": [
+        "Don't forget Korea.",
+        "Don'tforgetKorea.",
+        "Don't  forget  Korea.",
+        "Don't forget Korea",
+        "Don'tforgetKorea",
+        "Don't  forget  Korea"
+      ],
+      "explainKo": "정답: Don't forget Korea."
+    },
+    {
+      "id": 23,
+      "group": "5 Watch and Talk C-G-05",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 당연하지. 한국도. 그래서 불꽃놀이는 오후 7시에 시작해 맞지?",
+      "answers": [
+        "Of course, Korea, too. So, the fireworks start at 7 p.m. Right?",
+        "Ofcourse,Korea,too.So,thefireworksstartat7p.m.Right?",
+        "Of  course,  Korea,  too.  So,  the  fireworks  start  at  7  p.m.  Right?",
+        "Of course,Korea,too. So,the fireworks start at 7 p.m. Right?",
+        "Of course Korea too. So the fireworks start at 7 p.m. Right?",
+        "Of course, Korea, too. So, the fireworks start at 7p.m. Right?",
+        "Of course, Korea, too. So, the fireworks start at 7 p.m. Right",
+        "Of  course,  Korea,  too.  So,  the  fireworks  start  at  7p.m.  Right?",
+        "Of course,Korea,too. So,the fireworks start at 7p.m. Right?",
+        "Of course Korea too. So the fireworks start at 7p.m. Right?",
+        "Of course, Korea, too. So, the fireworks start at 7p.m. Right"
+      ],
+      "explainKo": "정답: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?"
+    },
+    {
+      "id": 24,
+      "group": "5 Watch and Talk C-B-06",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 응. 그때까지 같이 뭔가 하자.",
+      "answers": [
+        "Yeah. Let's do something together until then.",
+        "Yeah.Let'sdosomethingtogetheruntilthen.",
+        "Yeah.  Let's  do  something  together  until  then.",
+        "Yeah. Let's do something together until then"
+      ],
+      "explainKo": "정답: Yeah. Let's do something together until then."
+    },
+    {
+      "id": 25,
+      "group": "5 Watch and Talk C-G-07",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 자전거를 타거나 배 타러 갈 수 있을 거 같아. 너는 뭐가 더 좋아?",
+      "answers": [
+        "I guess we can ride bikes or go for a boat ride. Which do you like more?",
+        "Iguesswecanridebikesorgoforaboatride.Whichdoyoulikemore?",
+        "I  guess  we  can  ride  bikes  or  go  for  a  boat  ride.  Which  do  you  like  more?",
+        "I guess we can ride bikes or go for a boat ride. Which do you like more"
+      ],
+      "explainKo": "정답: I guess we can ride bikes or go for a boat ride. Which do you like more?"
+    },
+    {
+      "id": 26,
+      "group": "5 Watch and Talk C-B-08",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 배 타러 가는 것. 그게 더 재미있을 거 같아.",
+      "answers": [
+        "Going for a boat ride. I think it'll be more fun.",
+        "Goingforaboatride.Ithinkit'llbemorefun.",
+        "Going  for  a  boat  ride.  I  think  it'll  be  more  fun.",
+        "Going for a boat ride. I think it'll be more fun"
+      ],
+      "explainKo": "정답: Going for a boat ride. I think it'll be more fun."
+    },
+    {
+      "id": 27,
+      "group": "5 Watch and Talk C-G-09",
+      "type": "TST",
+      "question": "5 Watch and Talk C\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 그럼 배 타러 가자.",
+      "answers": [
+        "Then, let's go for a boat ride.",
+        "Then,let'sgoforaboatride.",
+        "Then,  let's  go  for  a  boat  ride.",
+        "Then,let's go for a boat ride.",
+        "Then let's go for a boat ride.",
+        "Then, let's go for a boat ride"
+      ],
+      "explainKo": "정답: Then, let's go for a boat ride."
+    },
+    {
+      "id": 28,
+      "group": "6 Listen Up-M-01",
+      "type": "TST",
+      "question": "6 Listen Up\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nM: ABC 세계 음식 축제에 오신 것을 환영합니다! 매년, 저희는 전 세계의 훌륭한 요리사들을 초대합니다. 올해는 세계적으로 유명한 인도인 요리사인 Kumar 씨를 초대했습니다. 인도 음식을 좋아하시나요? 그렇다면, 그의 요리 수업을 놓치지 마세요. 그의 요리책도 무료로 받을 수 있습니다.",
+      "answers": [
+        "Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free.",
+        "WelcometotheABCWorldFoodFestival!Everyyear,weinvitegreatchefsfromaroundtheworld.Thisyear,weinvitedMr.Kumar,aworld-famousIndianchef.DoyoulikeIndianfood?Then,don'tmisshiscookingclass.Youcanalsogethisrecipebookforfree.",
+        "Welcome  to  the  ABC  World  Food  Festival!  Every  year,  we  invite  great  chefs  from  around  the  world.  This  year,  we  invited  Mr.  Kumar,  a  world-famous  Indian  chef.  Do  you  like  Indian  food?  Then,  don't  miss  his  cooking  class.  You  can  also  get  his  recipe  book  for  free.",
+        "Welcome to the ABC World Food Festival! Every year,we invite great chefs from around the world. This year,we invited Mr. Kumar,a world-famous Indian chef. Do you like Indian food? Then,don't miss his cooking class. You can also get his recipe book for free.",
+        "Welcome to the ABC World Food Festival! Every year we invite great chefs from around the world. This year we invited Mr. Kumar a world-famous Indian chef. Do you like Indian food? Then don't miss his cooking class. You can also get his recipe book for free.",
+        "Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free"
+      ],
+      "explainKo": "정답: Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free."
+    },
+    {
+      "id": 29,
+      "group": "7 Review 1-B-01",
+      "type": "TST",
+      "question": "7 Review 1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 이번 주말에 영화 보러 가자.",
+      "answers": [
+        "Let's go to the movies this weekend.",
+        "Let'sgotothemoviesthisweekend.",
+        "Let's  go  to  the  movies  this  weekend.",
+        "Let's go to the movies this weekend"
+      ],
+      "explainKo": "정답: Let's go to the movies this weekend."
+    },
+    {
+      "id": 30,
+      "group": "7 Review 1-G-02",
+      "type": "TST",
+      "question": "7 Review 1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 미안하지만 못 가. 월요일에 시험이 있어.",
+      "answers": [
+        "I'm sorry, but I can't. I have an exam on Monday.",
+        "I'msorry,butIcan't.IhaveanexamonMonday.",
+        "I'm  sorry,  but  I  can't.  I  have  an  exam  on  Monday.",
+        "I'm sorry,but I can't. I have an exam on Monday.",
+        "I'm sorry but I can't. I have an exam on Monday.",
+        "I'm sorry, but I can't. I have an exam on Monday"
+      ],
+      "explainKo": "정답: I'm sorry, but I can't. I have an exam on Monday."
+    },
+    {
+      "id": 31,
+      "group": "7 Review 1-B-03",
+      "type": "TST",
+      "question": "7 Review 1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 그럼 주말 내내 도서관에 있을 거야?",
+      "answers": [
+        "So, you're going to be in the library all weekend?",
+        "So,you'regoingtobeinthelibraryallweekend?",
+        "So,  you're  going  to  be  in  the  library  all  weekend?",
+        "So,you're going to be in the library all weekend?",
+        "So you're going to be in the library all weekend?",
+        "So, you're going to be in the library all weekend"
+      ],
+      "explainKo": "정답: So, you're going to be in the library all weekend?"
+    },
+    {
+      "id": 32,
+      "group": "7 Review 1-G-04",
+      "type": "TST",
+      "question": "7 Review 1\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 아니. 집에 있을 거야. 도서관보다 집에서 공부하는 게 더 좋아.",
+      "answers": [
+        "No. I'll be home. I like studying at home more than at the library.",
+        "No.I'llbehome.Ilikestudyingathomemorethanatthelibrary.",
+        "No.  I'll  be  home.  I  like  studying  at  home  more  than  at  the  library.",
+        "No. I'll be home. I like studying at home more than at the library"
+      ],
+      "explainKo": "정답: No. I'll be home. I like studying at home more than at the library."
+    },
+    {
+      "id": 33,
+      "group": "8 Review 2-B-01",
+      "type": "TST",
+      "question": "8 Review 2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 할머니께 드릴 선물을 찾고 있어요.",
+      "answers": [
+        "I'm looking for a gift for my grandmother.",
+        "I'mlookingforagiftformygrandmother.",
+        "I'm  looking  for  a  gift  for  my  grandmother.",
+        "I'm looking for a gift for my grandmother"
+      ],
+      "explainKo": "정답: I'm looking for a gift for my grandmother."
+    },
+    {
+      "id": 34,
+      "group": "8 Review 2-W-02",
+      "type": "TST",
+      "question": "8 Review 2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nW: 이 가방은 어때요?",
+      "answers": [
+        "How about this bag?",
+        "Howaboutthisbag?",
+        "How  about  this  bag?",
+        "How about this bag"
+      ],
+      "explainKo": "정답: How about this bag?"
+    },
+    {
+      "id": 35,
+      "group": "8 Review 2-B-03",
+      "type": "TST",
+      "question": "8 Review 2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 너무 커요. 무거울 것도 같고요.",
+      "answers": [
+        "It's too big. I think it'll be heavy, too.",
+        "It'stoobig.Ithinkit'llbeheavy,too.",
+        "It's  too  big.  I  think  it'll  be  heavy,  too.",
+        "It's too big. I think it'll be heavy,too.",
+        "It's too big. I think it'll be heavy too.",
+        "It's too big. I think it'll be heavy, too"
+      ],
+      "explainKo": "정답: It's too big. I think it'll be heavy, too."
+    },
+    {
+      "id": 36,
+      "group": "8 Review 2-W-04",
+      "type": "TST",
+      "question": "8 Review 2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nW: 전혀 그렇지 않아요. 크지만 매우 가벼워요. 나이 많은 여성에게 완벽해요.",
+      "answers": [
+        "Not at all. It's big but very light. It's perfect for older women.",
+        "Notatall.It'sbigbutverylight.It'sperfectforolderwomen.",
+        "Not  at  all.  It's  big  but  very  light.  It's  perfect  for  older  women.",
+        "Not at all. It's big but very light. It's perfect for older women"
+      ],
+      "explainKo": "정답: Not at all. It's big but very light. It's perfect for older women."
+    },
+    {
+      "id": 37,
+      "group": "8 Review 2-B-05",
+      "type": "TST",
+      "question": "8 Review 2\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 정말요? 그럼, 그걸로 살게요.",
+      "answers": [
+        "Really? Then, I'll take it.",
+        "Really?Then,I'lltakeit.",
+        "Really?  Then,  I'll  take  it.",
+        "Really? Then,I'll take it.",
+        "Really? Then I'll take it.",
+        "Really? Then, I'll take it"
+      ],
+      "explainKo": "정답: Really? Then, I'll take it."
+    },
+    {
+      "id": 38,
+      "group": "9 Review 3-B-01",
+      "type": "TST",
+      "question": "9 Review 3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: Alice, 배고파. 점심 먹자.",
+      "answers": [
+        "Alice, I'm hungry. Let's have lunch.",
+        "Alice,I'mhungry.Let'shavelunch.",
+        "Alice,  I'm  hungry.  Let's  have  lunch.",
+        "Alice,I'm hungry. Let's have lunch.",
+        "Alice I'm hungry. Let's have lunch.",
+        "Alice, I'm hungry. Let's have lunch"
+      ],
+      "explainKo": "정답: Alice, I'm hungry. Let's have lunch."
+    },
+    {
+      "id": 39,
+      "group": "9 Review 3-G-02",
+      "type": "TST",
+      "question": "9 Review 3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nG: 좋아. 피자나 파스타를 주문하자.",
+      "answers": [
+        "OK. Let's order pizza or pasta.",
+        "OK.Let'sorderpizzaorpasta.",
+        "OK.  Let's  order  pizza  or  pasta.",
+        "OK. Let's order pizza or pasta"
+      ],
+      "explainKo": "정답: OK. Let's order pizza or pasta."
+    },
+    {
+      "id": 40,
+      "group": "9 Review 3-B-03",
+      "type": "TST",
+      "question": "9 Review 3\n다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오.\nB: 어느 게 더 좋아?",
+      "answers": [
+        "Which do you like more?",
+        "Whichdoyoulikemore?",
+        "Which  do  you  like  more?",
+        "Which do you like more"
+      ],
+      "explainKo": "정답: Which do you like more?"
+    }
+  ]
+}
