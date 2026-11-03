@@ -9,7 +9,7 @@
     "218",
     "219"
   ],
-  "questionCount": 25,
+  "questionCount": 27,
   "omitted": [],
   "questions": [
     {
@@ -110,36 +110,45 @@
       "sourceId": 5,
       "group": "01-05",
       "explainKo": "Eckels는 Parker 씨가 아니라 여행 가이드인 Travis와 시간 여행을 하게 될 것이다.",
-      "promptEn": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels walked into the office of Time Travel. The big sign on the wall said, \"NAME ANY YEAR IN THE ⓐ ______. WE TAKE YOU THERE.\" There was a TV on the wall, and Mr. Keith, the new president, (A)[was / were] on the news.\n\n\"How can we help you?\" said Mr. Parker, the founder of Time Travel.\n\n\"(a) Is it possible?\" asked Eckels.\n\n\"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\"\n\n\"Great,\" said Eckels. \"Can you take me (b)there now?\"\n\n\"You're ⓑ ______. There's a time machine that (B)[leave / leaves] in 10 minutes,\" said Mr. Parker.\n\n\"This is Travis, your travel guide,\" he continued. \"To stay (C)[safe / safely], you must follow his instructions.\"\n\n윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.\n\nEckels will travel to the past with Mr. Parker in a time machine to see a dinosaur.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "Mr. Parker"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "Travis"
-          ]
-        }
-      ],
-      "id": "5",
       "section": "s5",
-      "sectionTitle": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "sectionInstructionKo": "윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "5"
+      "sectionTitle": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "5-wrong",
+      "label": "5-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Mr. Parker"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels walked into the office of Time Travel. The big sign on the wall said, \"NAME ANY YEAR IN THE ⓐ ______. WE TAKE YOU THERE.\" There was a TV on the wall, and Mr. Keith, the new president, (A)[was / were] on the news.\n\n\"How can we help you?\" said Mr. Parker, the founder of Time Travel.\n\n\"(a) Is it possible?\" asked Eckels.\n\n\"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\"\n\n\"Great,\" said Eckels. \"Can you take me (b)there now?\"\n\n\"You're ⓑ ______. There's a time machine that (B)[leave / leaves] in 10 minutes,\" said Mr. Parker.\n\n\"This is Travis, your travel guide,\" he continued. \"To stay (C)[safe / safely], you must follow his instructions.\"\n\n틀린 말만 쓰시오.\n\nEckels will travel to the past with Mr. Parker in a time machine to see a dinosaur.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 5,
+      "group": "01-05",
+      "explainKo": "Eckels는 Parker 씨가 아니라 여행 가이드인 Travis와 시간 여행을 하게 될 것이다.",
+      "section": "s5",
+      "sectionTitle": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "5-fix",
+      "label": "5-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Travis"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels walked into the office of Time Travel. The big sign on the wall said, \"NAME ANY YEAR IN THE ⓐ ______. WE TAKE YOU THERE.\" There was a TV on the wall, and Mr. Keith, the new president, (A)[was / were] on the news.\n\n\"How can we help you?\" said Mr. Parker, the founder of Time Travel.\n\n\"(a) Is it possible?\" asked Eckels.\n\n\"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\"\n\n\"Great,\" said Eckels. \"Can you take me (b)there now?\"\n\n\"You're ⓑ ______. There's a time machine that (B)[leave / leaves] in 10 minutes,\" said Mr. Parker.\n\n\"This is Travis, your travel guide,\" he continued. \"To stay (C)[safe / safely], you must follow his instructions.\"\n\n바르게 고친 말만 쓰시오.\n\nEckels will travel to the past with Mr. Parker in a time machine to see a dinosaur.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 6,
@@ -254,37 +263,47 @@
       "sourceId": 9,
       "group": "06-09",
       "explainKo": "You must not leave it(=the path) at any time. Do not touch anything.에서 하지 말아야 할 일을 말하고 있다. 질문: Travis가 여행객들에게 하지 말라고 말한 두 가지는 무엇인가?",
-      "promptEn": "[09] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there ①were two other travelers. Eckels sat down and closed his eyes. He felt the machine ②moving under his feet. After ③only a little minutes, the machine stopped.\n\n\"(A) We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.\n\nQ. What two things did Travis tell the travelers not to do?\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "phraseBlank": true,
-      "id": "9",
       "section": "s9",
       "sectionTitle": "Section I · 윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
-      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "9",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "(1)",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "길을 절대 벗어나지 말 것"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "(2)",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "아무것도 건드리지 말 것"
-          ]
-        }
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-n1",
+      "label": "9-(1)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "길을 절대 벗어나지 말 것"
       ],
-      "promptKo": "각 번호의 칸에 그 번호 말만 쓰세요."
+      "phraseBlank": true,
+      "directionKo": "(1)만 우리말로 쓰시오.",
+      "ruleKo": "(1)만 우리말로 간략히 쓰세요.",
+      "promptKo": "(1)만 우리말로 간략히 쓰세요.",
+      "promptEn": "[09] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there ①were two other travelers. Eckels sat down and closed his eyes. He felt the machine ②moving under his feet. After ③only a little minutes, the machine stopped.\n\n\"(A) We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n(1)만 우리말로 쓰시오.\n\nQ. What two things did Travis tell the travelers not to do?\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "(1)",
+      "focusBlank": "1"
+    },
+    {
+      "sourceId": 9,
+      "group": "06-09",
+      "explainKo": "You must not leave it(=the path) at any time. Do not touch anything.에서 하지 말아야 할 일을 말하고 있다. 질문: Travis가 여행객들에게 하지 말라고 말한 두 가지는 무엇인가?",
+      "section": "s9",
+      "sectionTitle": "Section I · 윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-n2",
+      "label": "9-(2)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "아무것도 건드리지 말 것"
+      ],
+      "phraseBlank": true,
+      "directionKo": "(2)만 우리말로 쓰시오.",
+      "ruleKo": "(2)만 우리말로 간략히 쓰세요.",
+      "promptKo": "(2)만 우리말로 간략히 쓰세요.",
+      "promptEn": "[09] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there ①were two other travelers. Eckels sat down and closed his eyes. He felt the machine ②moving under his feet. After ③only a little minutes, the machine stopped.\n\n\"(A) We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n(2)만 우리말로 쓰시오.\n\nQ. What two things did Travis tell the travelers not to do?\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "(2)",
+      "focusBlank": "2"
     },
     {
       "sourceId": 10,
@@ -743,13 +762,13 @@
     },
     {
       "id": "s5",
-      "title": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "directionKo": "윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
     },
     {
       "id": "s6",
@@ -784,12 +803,12 @@
     {
       "id": "s9",
       "title": "Section I · 윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
-      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "instructionKo": "윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "answerMode": "parts",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s10",

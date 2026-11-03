@@ -7,7 +7,7 @@
     144,
     145
   ],
-  "questionCount": 30,
+  "questionCount": 35,
   "omitted": [],
   "questions": [
     {
@@ -814,176 +814,221 @@
       "sourceId": 26,
       "group": "2-C-01",
       "explainKo": "정답: she → her. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
-      "promptEn": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\nI always call she a walking dictionary.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "she"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "her"
-          ]
-        }
-      ],
-      "id": "26",
       "section": "s6",
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "sectionInstructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "26"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "26-wrong",
+      "label": "26-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "she"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nI always call she a walking dictionary.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 26,
+      "group": "2-C-01",
+      "explainKo": "정답: she → her. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "26-fix",
+      "label": "26-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "her"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nI always call she a walking dictionary.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 27,
       "group": "2-C-02",
       "explainKo": "정답: king him → him king. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
-      "promptEn": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\nThey elected king him after the battle.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "king him"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "him king"
-          ]
-        }
-      ],
-      "id": "27",
       "section": "s6",
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "sectionInstructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "27"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "27-wrong",
+      "label": "27-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "king him"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nThey elected king him after the battle.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 27,
+      "group": "2-C-02",
+      "explainKo": "정답: king him → him king. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "27-fix",
+      "label": "27-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "him king"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nThey elected king him after the battle.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 28,
       "group": "2-C-03",
       "explainKo": "정답: to → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
-      "promptEn": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\nPractice and effort can make you to a winner.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "to"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "삭제"
-          ]
-        }
-      ],
-      "id": "28",
       "section": "s6",
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "sectionInstructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "28"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "28-wrong",
+      "label": "28-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "to"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nPractice and effort can make you to a winner.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 28,
+      "group": "2-C-03",
+      "explainKo": "정답: to → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "28-fix",
+      "label": "28-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "삭제"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nPractice and effort can make you to a winner.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 29,
       "group": "2-C-04",
       "explainKo": "정답: for → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
-      "promptEn": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\nThe explorers named for the island Green Land.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "for"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "삭제"
-          ]
-        }
-      ],
-      "id": "29",
       "section": "s6",
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "sectionInstructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "29"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "29-wrong",
+      "label": "29-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "for"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nThe explorers named for the island Green Land.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 29,
+      "group": "2-C-04",
+      "explainKo": "정답: for → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "29-fix",
+      "label": "29-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "삭제"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nThe explorers named for the island Green Land.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 30,
       "group": "2-C-05",
       "explainKo": "정답: by → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
-      "promptEn": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\nMany people consider the man by the true artist.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "by"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "삭제"
-          ]
-        }
-      ],
-      "id": "30",
       "section": "s6",
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "sectionInstructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "30"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "30-wrong",
+      "label": "30-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "by"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nMany people consider the man by the true artist.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 30,
+      "group": "2-C-05",
+      "explainKo": "정답: by → 삭제. 동사 call, elect, make, name, consider 등은 「주어 + 동사 + 목적어 + 목적격보어(명사(구))」 형태의 5형식 문장으로 쓰인다. 목적어는 목적격으로 쓰고 목적격보어 앞에 전치사는 쓰지 않는다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "30-fix",
+      "label": "30-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "삭제"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nMany people consider the man by the true artist.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     }
   ],
   "sectionsVersion": 2,
@@ -1042,12 +1087,12 @@
     {
       "id": "s6",
       "title": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
-      "directionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 5
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
     }
   ]
 }

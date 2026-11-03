@@ -4,7 +4,7 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "96-99",
-  "questionCount": 29,
+  "questionCount": 30,
   "omitted": [],
   "questions": [
     {
@@ -517,36 +517,45 @@
       "sourceId": 16,
       "group": "16",
       "explainKo": "부정대명사 anything을 수식하는 형용사는 뒤에 와야 하므로 foolish anything을 anything foolish로 고쳐야 한다.",
-      "promptEn": "[16-17] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓐfoolish anything.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "foolish anything"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "anything foolish"
-          ]
-        }
-      ],
-      "id": "16",
       "section": "s17",
-      "sectionTitle": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "20"
+      "sectionTitle": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-wrong",
+      "label": "20-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "foolish anything"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[16-17] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓐfoolish anything.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n틀린 말만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 16,
+      "group": "16",
+      "explainKo": "부정대명사 anything을 수식하는 형용사는 뒤에 와야 하므로 foolish anything을 anything foolish로 고쳐야 한다.",
+      "section": "s17",
+      "sectionTitle": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-fix",
+      "label": "20-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "anything foolish"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "[16-17] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓐfoolish anything.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n바르게 고친 말만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 17,
@@ -943,13 +952,13 @@
     },
     {
       "id": "s17",
-      "title": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "directionKo": "윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
     },
     {
       "id": "s18",

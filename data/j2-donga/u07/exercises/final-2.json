@@ -4,7 +4,7 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "88-91",
-  "questionCount": 26,
+  "questionCount": 27,
   "omitted": [],
   "questions": [
     {
@@ -283,36 +283,45 @@
       "sourceId": 11,
       "group": "11",
       "explainKo": "It은 가주어이고 common 뒤에 진주어인 to부정사구가 와야 하므로 see를 to see로 고친다. 사람들이 공원에서 운동하는 것을 보는 것은 흔한 일이다.",
-      "promptEn": "다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.\n\nIt's common see people exercising in the park.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "see"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "to see"
-          ]
-        }
-      ],
-      "id": "11",
       "section": "s11",
-      "sectionTitle": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "sectionInstructionKo": "다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "12"
+      "sectionTitle": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "11-wrong",
+      "label": "12-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "see"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\n\nIt's common see people exercising in the park.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 11,
+      "group": "11",
+      "explainKo": "It은 가주어이고 common 뒤에 진주어인 to부정사구가 와야 하므로 see를 to see로 고친다. 사람들이 공원에서 운동하는 것을 보는 것은 흔한 일이다.",
+      "section": "s11",
+      "sectionTitle": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "11-fix",
+      "label": "12-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "to see"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\n\nIt's common see people exercising in the park.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 12,
@@ -779,13 +788,13 @@
     },
     {
       "id": "s11",
-      "title": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "directionKo": "다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
     },
     {
       "id": "s12",

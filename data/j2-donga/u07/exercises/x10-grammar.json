@@ -4,7 +4,7 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "36-37",
-  "questionCount": 30,
+  "questionCount": 35,
   "omitted": [],
   "questions": [
     {
@@ -326,180 +326,225 @@
       "sourceId": 16,
       "group": "P2-01",
       "explainKo": "정답: as → 삭제",
-      "promptEn": "Point 2 call A B\n교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\n01. People call Chicago as the Windy City.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "as"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "삭제"
-          ]
-        }
-      ],
-      "id": "16",
       "section": "s3",
       "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "sectionInstructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "16"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-wrong",
+      "label": "16-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "as"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n틀린 말만 쓰시오.\n01. People call Chicago as the Windy City.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 16,
+      "group": "P2-01",
+      "explainKo": "정답: as → 삭제",
+      "section": "s3",
+      "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-fix",
+      "label": "16-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "삭제"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n바르게 고친 말만 쓰시오.\n01. People call Chicago as the Windy City.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 17,
       "group": "P2-02",
       "explainKo": "정답: my → me",
-      "promptEn": "Point 2 call A B\n교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\n02. My name is Robert, but my friends call my Bob.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "my"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "me"
-          ]
-        }
-      ],
-      "id": "17",
       "section": "s3",
       "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "sectionInstructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "17"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-wrong",
+      "label": "17-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "my"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n틀린 말만 쓰시오.\n02. My name is Robert, but my friends call my Bob.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 17,
+      "group": "P2-02",
+      "explainKo": "정답: my → me",
+      "section": "s3",
+      "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-fix",
+      "label": "17-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "me"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n바르게 고친 말만 쓰시오.\n02. My name is Robert, but my friends call my Bob.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 18,
       "group": "P2-03",
       "explainKo": "정답: Rocky the robot → the robot Rocky",
-      "promptEn": "Point 2 call A B\n교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\n03. Mia calls Rocky the robot.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "Rocky the robot",
-            "Rockytherobot"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "the robot Rocky",
-            "therobotRocky"
-          ]
-        }
-      ],
-      "id": "18",
       "section": "s3",
       "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "sectionInstructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "18"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "18-wrong",
+      "label": "18-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Rocky the robot",
+        "Rockytherobot"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n틀린 말만 쓰시오.\n03. Mia calls Rocky the robot.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 18,
+      "group": "P2-03",
+      "explainKo": "정답: Rocky the robot → the robot Rocky",
+      "section": "s3",
+      "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "18-fix",
+      "label": "18-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "the robot Rocky",
+        "therobotRocky"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n바르게 고친 말만 쓰시오.\n03. Mia calls Rocky the robot.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 19,
       "group": "P2-04",
       "explainKo": "정답: for → 삭제",
-      "promptEn": "Point 2 call A B\n교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\n04. They call it for the Midsummer festival.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "for"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "삭제"
-          ]
-        }
-      ],
-      "id": "19",
       "section": "s3",
       "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "sectionInstructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "19"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-wrong",
+      "label": "19-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "for"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n틀린 말만 쓰시오.\n04. They call it for the Midsummer festival.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 19,
+      "group": "P2-04",
+      "explainKo": "정답: for → 삭제",
+      "section": "s3",
+      "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-fix",
+      "label": "19-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "삭제"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n바르게 고친 말만 쓰시오.\n04. They call it for the Midsummer festival.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 20,
       "group": "P2-05",
       "explainKo": "정답: this day's → this day",
-      "promptEn": "Point 2 call A B\n교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\n05. They call this day's the Day of the Dead.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "this day's",
-            "thisday's"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "this day",
-            "thisday"
-          ]
-        }
-      ],
-      "id": "20",
       "section": "s3",
       "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "sectionInstructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "20"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "20-wrong",
+      "label": "20-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "this day's",
+        "thisday's"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n틀린 말만 쓰시오.\n05. They call this day's the Day of the Dead.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 20,
+      "group": "P2-05",
+      "explainKo": "정답: this day's → this day",
+      "section": "s3",
+      "sectionTitle": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "20-fix",
+      "label": "20-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "this day",
+        "thisday"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "Point 2 call A B\n바르게 고친 말만 쓰시오.\n05. They call this day's the Day of the Dead.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 21,
@@ -758,12 +803,12 @@
     {
       "id": "s3",
       "title": "Section C · 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 …",
-      "directionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 5
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
     },
     {
       "id": "s4",

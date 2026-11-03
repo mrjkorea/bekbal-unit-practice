@@ -89,8 +89,50 @@ function legacyExercise(ex) {
   return ex;
 }
 
-function promptHtml(raw) {
-  return esc(raw).replace(/_{3,}/g, '<span class="blank-mark">______</span>').replace(/\n/g, "<br>");
+function blankLabel(fb) {
+  const s = String(fb || "");
+  return /^\d+$/.test(s) ? "(" + s + ")" : s;
+}
+
+function promptHtml(raw, item) {
+  const text = String(raw ?? "");
+  const focus = item && item.focusBlank ? String(item.focusBlank) : "";
+  if (!focus) {
+    return esc(text).replace(/_{3,}/g, '<span class="blank-mark">______</span>').replace(/\n/g, "<br>");
+  }
+  const re = /[（(]\s*(\d+)\s*[)）]\s*_{2,}|([ⓐ-ⓙ])(?:\s*_{2,}|\s*\([^)\n]+\)|\s*[A-Za-z][A-Za-z'’]*)|[（(]([A-Z])[)）]\s*\[[^\]\n]+\]|_{3,}/g;
+  const parts = [];
+  let last = 0;
+  let plainN = 0;
+  let m;
+  while ((m = re.exec(text))) {
+    parts.push({ type: "text", s: text.slice(last, m.index) });
+    if (m[1]) parts.push({ type: "slot", id: m[1], label: "(" + m[1] + ")", show: m[0], kind: "slot" });
+    else if (m[2]) {
+      const show = m[0];
+      parts.push({ type: "slot", id: m[2], label: m[2], show, kind: /_{2,}/.test(show) ? "slot" : "word" });
+    }
+    else if (m[3]) parts.push({ type: "slot", id: m[3], label: "(" + m[3] + ")", show: m[0], kind: "slot" });
+    else {
+      plainN += 1;
+      parts.push({ type: "slot", id: String(plainN), label: "(" + plainN + ")", show: m[0], kind: "slot", plain: true });
+    }
+    last = m.index + m[0].length;
+  }
+  parts.push({ type: "text", s: text.slice(last) });
+  const slots = parts.filter((p) => p.type === "slot");
+  const explicit = new Set(slots.filter((p) => !p.plain).map((p) => p.id));
+  return parts.map((p) => {
+    if (p.type === "text") return esc(p.s);
+    const active = p.id === focus && (!p.plain || !explicit.has(focus));
+    if (!active) {
+      if (p.kind === "word") return `<span class="blank-idle">${esc(p.show)}</span>`;
+      return `<span class="blank-idle">${esc(p.label)} ···</span>`;
+    }
+    const tag = esc(blankLabel(focus));
+    if (p.kind === "word") return `<span class="blank-live"><span class="blank-live-tag">이 칸 ${tag}</span> ${esc(p.show)} → ______</span>`;
+    return `<span class="blank-live"><span class="blank-live-tag">이 칸 ${tag}</span> ______</span>`;
+  }).join("").replace(/\n/g, "<br>");
 }
 
 function timeFor(ex) {
@@ -124,8 +166,92 @@ function readResponse(item, card) {
       }),
     };
   }
+  if (item.type === "match") {
+    const node = card.querySelector("[data-match]");
+    let links = [];
+    try { links = JSON.parse(node && node.dataset.links ? node.dataset.links : "[]"); } catch (e) { links = []; }
+    return { links };
+  }
   const inp = card.querySelector('input[type="text"], textarea');
   return { value: inp ? inp.value : "" };
+}
+
+function shuffle(list) {
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const tmp = a[i];
+    a[i] = a[j];
+    a[j] = tmp;
+  }
+  return a;
+}
+
+function renderMatch(card, item) {
+  const pairs = item.pairs || [];
+  const links = [];
+  let sel = null;
+  const wrap = el("div", "match-wrap");
+  wrap.dataset.match = "1";
+  wrap.dataset.links = "[]";
+  const grid = el("div", "match-grid");
+  const enCol = el("div", "match-col");
+  const koCol = el("div", "match-col");
+  enCol.appendChild(el("div", "match-col-label", "English"));
+  koCol.appendChild(el("div", "match-col-label", "우리말"));
+  const hint = el("p", "match-hint", "왼쪽 영어를 누르고, 같은 뜻의 우리말을 누르세요. 짝을 다시 누르면 풀립니다.");
+  function sync() {
+    wrap.dataset.links = JSON.stringify(links.map((l) => [l.en, l.ko]));
+  }
+  function paint() {
+    sync();
+    [...enCol.querySelectorAll(".match-chip"), ...koCol.querySelectorAll(".match-chip")].forEach((btn) => {
+      btn.className = "match-chip";
+      const side = btn.dataset.side;
+      const id = btn.dataset.id;
+      const at = links.findIndex((l) => l[side] === id);
+      if (at >= 0) btn.classList.add("is-linked", "match-c" + (at % 6));
+      if (sel && sel.side === side && sel.id === id) btn.classList.add("is-selected");
+    });
+  }
+  function tap(side, id) {
+    const existing = links.findIndex((l) => l[side] === id);
+    if (!sel) {
+      if (existing >= 0) links.splice(existing, 1);
+      else sel = { side, id };
+      paint();
+      return;
+    }
+    if (sel.side === side) {
+      sel = sel.id === id ? null : { side, id };
+      paint();
+      return;
+    }
+    const en = side === "en" ? id : sel.id;
+    const ko = side === "ko" ? id : sel.id;
+    for (let i = links.length - 1; i >= 0; i--) {
+      if (links[i].en === en || links[i].ko === ko) links.splice(i, 1);
+    }
+    links.push({ en, ko });
+    sel = null;
+    paint();
+  }
+  function chip(side, pair, text) {
+    const btn = el("button", "match-chip", text);
+    btn.type = "button";
+    btn.dataset.side = side;
+    btn.dataset.id = String(pair.id);
+    btn.onclick = () => tap(side, String(pair.id));
+    return btn;
+  }
+  shuffle(pairs).forEach((p) => enCol.appendChild(chip("en", p, p.en)));
+  shuffle(pairs).forEach((p) => koCol.appendChild(chip("ko", p, p.ko)));
+  grid.appendChild(enCol);
+  grid.appendChild(koCol);
+  wrap.appendChild(grid);
+  wrap.appendChild(hint);
+  card.appendChild(wrap);
+  paint();
 }
 
 function renderChoices(parent, name, choices, multi) {
@@ -203,11 +329,12 @@ function renderCard(item) {
   card.appendChild(head);
   if (item.promptKo) card.appendChild(el("div", "q-note", item.promptKo));
   const stem = el("div", "q-en");
-  stem.innerHTML = promptHtml(item.promptEn || "");
+  stem.innerHTML = promptHtml(item.promptEn || "", item);
   card.appendChild(stem);
   if (item.phraseBlank) card.appendChild(el("p", "q-note", "이 칸은 두 단어 이상이 될 수 있어요."));
 
-  if (item.type === "mc") renderChoices(card, "q-" + item.id, item.choices || [], item.select === "multi" || item.answerMode === "multi");
+  if (item.type === "match") renderMatch(card, item);
+  else if (item.type === "mc") renderChoices(card, "q-" + item.id, item.choices || [], item.select === "multi" || item.answerMode === "multi");
   else if (item.type === "bank") {
     const box = el("div", "word-bank bank-options");
     (item.choices || []).forEach((ch, i) => {
@@ -343,24 +470,36 @@ async function play() {
     timer = setInterval(tick, 1000);
     tick();
     form.onsubmit = (ev) => { ev.preventDefault(); clearInterval(timer); grade(); };
+    const hash = location.hash.replace(/^#/, "");
+    if (hash) {
+      const target = form.querySelector('[data-qid="' + (window.CSS && CSS.escape ? CSS.escape(hash) : hash) + '"]');
+      if (target) target.scrollIntoView();
+    }
   };
 
   const grade = () => {
     const cards = [...document.querySelectorAll(".q-card")];
+    let got = 0;
+    let total = 0;
     const res = (ex.questions || []).map((q, i) => {
       const resp = readResponse(q, cards[i]);
-      return { q, resp, ok: G.gradeItem(q, resp) };
+      const unit = G.scoreUnits(q, resp);
+      got += unit.got;
+      total += unit.total;
+      return { q, resp, ok: unit.total > 0 && unit.got === unit.total, got: unit.got, total: unit.total };
     });
     attempts++;
     sessionStorage.setItem(key, attempts);
-    const score = res.filter((r) => r.ok).length;
-    const pct = res.length ? score / res.length : 0;
+    const score = got;
+    const pct = total ? score / total : 0;
     const passed = pct >= PASS;
     const reveal = passed || attempts >= MAX_ATTEMPTS;
-    const mistakes = score < res.length;
+    const mistakes = score < total;
+    const allMatch = (ex.questions || []).length > 0 && (ex.questions || []).every((q) => q.type === "match");
+    const unitName = allMatch ? " 짝" : "";
     app.innerHTML = "";
     app.appendChild(el("h1", "practice-title", ex.title || "Practice"));
-    const head = el("h2", passed ? "ok" : "bad", `${score} / ${res.length} (${Math.round(pct * 100)}%) — ${passed ? "통과 PASS" : "미통과"}`);
+    const head = el("h2", passed ? "ok" : "bad", `${score} / ${total}${unitName} (${Math.round(pct * 100)}%) — ${passed ? "통과 PASS" : "미통과"}`);
     app.appendChild(head);
     app.appendChild(el("p", "meta", `시도 ${attempts} / ${MAX_ATTEMPTS}`));
     if (!reveal) {
@@ -383,7 +522,7 @@ async function play() {
           const box = el("article", "q-card wrong");
           box.appendChild(el("div", "q-num", r.q.label || ""));
           const stem = el("div", "q-en");
-          stem.innerHTML = promptHtml(r.q.promptEn || "");
+          stem.innerHTML = promptHtml(r.q.promptEn || "", r.q);
           box.appendChild(stem);
           box.appendChild(el("p", null, "내 답: ")).appendChild(el("span", "bad", G.formatResponse(r.q, r.resp)));
           const mine = box.lastChild;

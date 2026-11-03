@@ -43,8 +43,44 @@
       .replace(/[^a-z]/g, "");
   }
 
+  function pairById(item, id) {
+    var pairs = item.pairs || [];
+    for (var i = 0; i < pairs.length; i++) {
+      if (String(pairs[i].id) === String(id)) return pairs[i];
+    }
+    return null;
+  }
+
+  function matchDetail(item, response) {
+    var pairs = item.pairs || [];
+    var links = (response && response.links) || [];
+    var map = {};
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i] || [];
+      if (link[0] != null && String(link[0]) !== "") map[String(link[0])] = String(link[1]);
+    }
+    var correct = 0;
+    for (var j = 0; j < pairs.length; j++) {
+      if (map[String(pairs[j].id)] === String(pairs[j].id)) correct++;
+    }
+    return { correct: correct, total: pairs.length, links: links };
+  }
+
+  function scoreUnits(item, response) {
+    if (item.type === "match") {
+      var d = matchDetail(item, response);
+      return { got: d.correct, total: d.total };
+    }
+    return { got: gradeItem(item, response) ? 1 : 0, total: 1 };
+  }
+
   function gradeItem(item, response) {
     response = response || {};
+    if (item.type === "match") {
+      var detail = matchDetail(item, response);
+      var links = detail.links || [];
+      return detail.total > 0 && links.length === detail.total && detail.correct === detail.total;
+    }
     if (item.type === "mc" || item.type === "bank") {
       var got = response.indexes || [];
       var exp = item.correctIndexes || [];
@@ -92,6 +128,9 @@
   }
 
   function formatCorrect(item) {
+    if (item.type === "match") {
+      return (item.pairs || []).map(function (p) { return p.en + " → " + p.ko; }).join("\n");
+    }
     if (item.type === "mc" || item.type === "bank") {
       return (item.correctIndexes || [])
         .map(function (n) { return n + ". " + choiceText(item, n); })
@@ -119,6 +158,18 @@
 
   function formatResponse(item, response) {
     response = response || {};
+    if (item.type === "match") {
+      var links = response.links || [];
+      if (!links.length) return "(무응답)";
+      return links.map(function (link) {
+        var left = pairById(item, link[0]);
+        var right = pairById(item, link[1]);
+        var en = left ? left.en : link[0];
+        var ko = right ? right.ko : link[1];
+        var mark = left && right && String(left.id) === String(right.id) ? "✓ " : "× ";
+        return mark + en + " → " + ko;
+      }).join("\n");
+    }
     if (item.type === "mc" || item.type === "bank") {
       var idxs = response.indexes || [];
       if (!idxs.length) return "(무응답)";
@@ -154,6 +205,7 @@
 
   function secondsFor(item) {
     if (item.seconds) return item.seconds;
+    if (item.type === "match") return Math.max(60, 18 * ((item.pairs && item.pairs.length) || 1));
     if (item.type === "mc" || item.type === "bank" || item.type === "order") return 45;
     if (item.type === "ox") return item.rewriteAccept && item.rewriteAccept.length ? 75 : 40;
     if (item.type === "parts") return 90;
@@ -168,6 +220,8 @@
     matchAccept: matchAccept,
     letterKey: letterKey,
     gradeItem: gradeItem,
+    matchDetail: matchDetail,
+    scoreUnits: scoreUnits,
     formatCorrect: formatCorrect,
     formatResponse: formatResponse,
     secondsFor: secondsFor,

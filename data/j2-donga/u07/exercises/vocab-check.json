@@ -8,1294 +8,695 @@
   "omitted": [],
   "questions": [
     {
+      "id": "s1-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "1–5",
+      "section": "s1",
       "sourceId": 1,
-      "group": "A-01",
-      "explainKo": "정답: 기둥, 막대기",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\npole",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "기둥, 막대기",
-        "기둥",
-        "막대기"
+      "group": "s1",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "pole",
+          "ko": "기둥, 막대기",
+          "sourceId": 1,
+          "explainKo": "정답: 기둥, 막대기"
+        },
+        {
+          "id": "2",
+          "en": "participate",
+          "ko": "참여하다",
+          "sourceId": 2,
+          "explainKo": "정답: 참여하다"
+        },
+        {
+          "id": "3",
+          "en": "important",
+          "ko": "중요한, 중대한",
+          "sourceId": 3,
+          "explainKo": "정답: 중요한, 중대한"
+        },
+        {
+          "id": "4",
+          "en": "festival",
+          "ko": "축제, 기념제",
+          "sourceId": 4,
+          "explainKo": "정답: 축제, 기념제"
+        },
+        {
+          "id": "5",
+          "en": "wear",
+          "ko": "입다, 착용하다",
+          "sourceId": 5,
+          "explainKo": "정답: 입다, 착용하다"
+        }
       ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "1",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "1"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "pole — 기둥, 막대기\nparticipate — 참여하다\nimportant — 중요한, 중대한\nfestival — 축제, 기념제\nwear — 입다, 착용하다",
+      "sectionTitle": "Section A · 단어 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 2,
-      "group": "A-02",
-      "explainKo": "정답: 참여하다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nparticipate",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "참여하다"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "2",
+      "id": "s1-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "6–10",
       "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "2"
-    },
-    {
-      "sourceId": 3,
-      "group": "A-03",
-      "explainKo": "정답: 중요한, 중대한",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nimportant",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "중요한, 중대한",
-        "중요한",
-        "중대한"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "3",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "3"
-    },
-    {
-      "sourceId": 4,
-      "group": "A-04",
-      "explainKo": "정답: 축제, 기념제",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nfestival",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "축제, 기념제",
-        "축제",
-        "기념제"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "4",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "4"
-    },
-    {
-      "sourceId": 5,
-      "group": "A-05",
-      "explainKo": "정답: 입다, 착용하다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nwear",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "입다, 착용하다",
-        "입다",
-        "착용하다"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "5",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "5"
-    },
-    {
       "sourceId": 6,
-      "group": "A-06",
-      "explainKo": "정답: 거의 ~ 아니다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nhardly",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "거의 ~ 아니다",
-        "거의 아니다"
+      "group": "s1",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "hardly",
+          "ko": "거의 ~ 아니다",
+          "sourceId": 6,
+          "explainKo": "정답: 거의 ~ 아니다"
+        },
+        {
+          "id": "7",
+          "en": "miss",
+          "ko": "놓치다: 그리워하다",
+          "sourceId": 7,
+          "explainKo": "정답: 놓치다: 그리워하다"
+        },
+        {
+          "id": "8",
+          "en": "various",
+          "ko": "다양한, 여러 가지의",
+          "sourceId": 8,
+          "explainKo": "정답: 다양한, 여러 가지의"
+        },
+        {
+          "id": "9",
+          "en": "area",
+          "ko": "지역, 구역",
+          "sourceId": 9,
+          "explainKo": "정답: 지역, 구역"
+        },
+        {
+          "id": "10",
+          "en": "statue",
+          "ko": "조각상, 동상",
+          "sourceId": 10,
+          "explainKo": "정답: 조각상, 동상"
+        }
       ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "6",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "6"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "hardly — 거의 ~ 아니다\nmiss — 놓치다: 그리워하다\nvarious — 다양한, 여러 가지의\narea — 지역, 구역\nstatue — 조각상, 동상",
+      "sectionTitle": "Section A · 단어 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 7,
-      "group": "A-07",
-      "explainKo": "정답: 놓치다: 그리워하다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nmiss",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "놓치다: 그리워하다",
-        "놓치다, 그리워하다",
-        "놓치다",
-        "그리워하다"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "7",
+      "id": "s1-b3",
+      "type": "match",
+      "answerMode": "match",
+      "label": "11–15",
       "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "7"
-    },
-    {
-      "sourceId": 8,
-      "group": "A-08",
-      "explainKo": "정답: 다양한, 여러 가지의",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nvarious",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "다양한, 여러 가지의",
-        "다양한",
-        "여러 가지의"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "8",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "8"
-    },
-    {
-      "sourceId": 9,
-      "group": "A-09",
-      "explainKo": "정답: 지역, 구역",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\narea",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "지역, 구역",
-        "지역",
-        "구역"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "9",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "9"
-    },
-    {
-      "sourceId": 10,
-      "group": "A-10",
-      "explainKo": "정답: 조각상, 동상",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nstatue",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "조각상, 동상",
-        "조각상",
-        "동상"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "10",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "10"
-    },
-    {
       "sourceId": 11,
-      "group": "A-11",
-      "explainKo": "정답: 장식하다, 꾸미다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\ndecorate",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "장식하다, 꾸미다",
-        "장식하다",
-        "꾸미다"
+      "group": "s1",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "decorate",
+          "ko": "장식하다, 꾸미다",
+          "sourceId": 11,
+          "explainKo": "정답: 장식하다, 꾸미다"
+        },
+        {
+          "id": "12",
+          "en": "order",
+          "ko": "주문하다: 명령하다: 주문: 명령: 순서",
+          "sourceId": 12,
+          "explainKo": "정답: 주문하다: 명령하다: 주문: 명령: 순서"
+        },
+        {
+          "id": "13",
+          "en": "costume",
+          "ko": "의상, 복장",
+          "sourceId": 13,
+          "explainKo": "정답: 의상, 복장"
+        },
+        {
+          "id": "14",
+          "en": "fireworks",
+          "ko": "불꽃놀이",
+          "sourceId": 14,
+          "explainKo": "정답: 불꽃놀이"
+        },
+        {
+          "id": "15",
+          "en": "perfect",
+          "ko": "완벽한, 완전한",
+          "sourceId": 15,
+          "explainKo": "정답: 완벽한, 완전한"
+        }
       ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "11",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "11"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "decorate — 장식하다, 꾸미다\norder — 주문하다: 명령하다: 주문: 명령: 순서\ncostume — 의상, 복장\nfireworks — 불꽃놀이\nperfect — 완벽한, 완전한",
+      "sectionTitle": "Section A · 단어 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 12,
-      "group": "A-12",
-      "explainKo": "정답: 주문하다: 명령하다: 주문: 명령: 순서",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\norder",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "주문하다: 명령하다: 주문: 명령: 순서",
-        "주문하다",
-        "명령하다",
-        "주문",
-        "명령",
-        "순서"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "12",
+      "id": "s1-b4",
+      "type": "match",
+      "answerMode": "match",
+      "label": "16–20",
       "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "12"
-    },
-    {
-      "sourceId": 13,
-      "group": "A-13",
-      "explainKo": "정답: 의상, 복장",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\ncostume",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "의상, 복장",
-        "의상",
-        "복장"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "13",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "13"
-    },
-    {
-      "sourceId": 14,
-      "group": "A-14",
-      "explainKo": "정답: 불꽃놀이",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nfireworks",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "불꽃놀이"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "14",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "14"
-    },
-    {
-      "sourceId": 15,
-      "group": "A-15",
-      "explainKo": "정답: 완벽한, 완전한",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nperfect",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "완벽한, 완전한",
-        "완벽한",
-        "완전한"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "15",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "15"
-    },
-    {
       "sourceId": 16,
-      "group": "A-16",
-      "explainKo": "정답: 거대한",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\ngiant",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "거대한"
+      "group": "s1",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "giant",
+          "ko": "거대한",
+          "sourceId": 16,
+          "explainKo": "정답: 거대한"
+        },
+        {
+          "id": "17",
+          "en": "puzzle",
+          "ko": "퍼즐, 수수께끼",
+          "sourceId": 17,
+          "explainKo": "정답: 퍼즐, 수수께끼"
+        },
+        {
+          "id": "18",
+          "en": "parade",
+          "ko": "퍼레이드, 행진",
+          "sourceId": 18,
+          "explainKo": "정답: 퍼레이드, 행진"
+        },
+        {
+          "id": "19",
+          "en": "spicy",
+          "ko": "매운: 양념 맛이 강한",
+          "sourceId": 19,
+          "explainKo": "정답: 매운: 양념 맛이 강한"
+        },
+        {
+          "id": "20",
+          "en": "surprise",
+          "ko": "놀라운 일, 깜짝 놀람; 놀라게 하다",
+          "sourceId": 20,
+          "explainKo": "정답: 놀라운 일, 깜짝 놀람; 놀라게 하다"
+        }
       ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "16",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "16"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "giant — 거대한\npuzzle — 퍼즐, 수수께끼\nparade — 퍼레이드, 행진\nspicy — 매운: 양념 맛이 강한\nsurprise — 놀라운 일, 깜짝 놀람; 놀라게 하다",
+      "sectionTitle": "Section A · 단어 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 17,
-      "group": "A-17",
-      "explainKo": "정답: 퍼즐, 수수께끼",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\npuzzle",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "퍼즐, 수수께끼",
-        "퍼즐",
-        "수수께끼"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "17",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "17"
-    },
-    {
-      "sourceId": 18,
-      "group": "A-18",
-      "explainKo": "정답: 퍼레이드, 행진",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nparade",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "퍼레이드, 행진",
-        "퍼레이드",
-        "행진"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "18",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "18"
-    },
-    {
-      "sourceId": 19,
-      "group": "A-19",
-      "explainKo": "정답: 매운: 양념 맛이 강한",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nspicy",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "매운: 양념 맛이 강한",
-        "매운, 양념 맛이 강한",
-        "매운",
-        "양념 맛이 강한"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "19",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "19"
-    },
-    {
-      "sourceId": 20,
-      "group": "A-20",
-      "explainKo": "정답: 놀라운 일, 깜짝 놀람; 놀라게 하다",
-      "promptEn": "다음 영어를 우리말로 쓰시오.\nsurprise",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "놀라운 일, 깜짝 놀람; 놀라게 하다",
-        "놀라운 일, 깜짝 놀람",
-        "놀라운 일",
-        "깜짝 놀람",
-        "놀라게 하다"
-      ],
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "20",
-      "section": "s1",
-      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "20"
-    },
-    {
+      "id": "s2-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "21–25",
+      "section": "s2",
       "sourceId": 21,
-      "group": "B-01",
-      "explainKo": "정답: celebrate",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n축하하다, 기념하다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "celebrate"
+      "group": "s2",
+      "pairs": [
+        {
+          "id": "21",
+          "en": "celebrate",
+          "ko": "축하하다, 기념하다",
+          "sourceId": 21,
+          "explainKo": "정답: celebrate"
+        },
+        {
+          "id": "22",
+          "en": "possible",
+          "ko": "가능한",
+          "sourceId": 22,
+          "explainKo": "정답: possible"
+        },
+        {
+          "id": "23",
+          "en": "invite",
+          "ko": "초대하다",
+          "sourceId": 23,
+          "explainKo": "정답: invite"
+        },
+        {
+          "id": "24",
+          "en": "set",
+          "ko": "(해·달이) 지다: 놓다",
+          "sourceId": 24,
+          "explainKo": "정답: set"
+        },
+        {
+          "id": "25",
+          "en": "souvenir",
+          "ko": "기념품: 선물",
+          "sourceId": 25,
+          "explainKo": "정답: souvenir"
+        }
       ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "21",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "21"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "celebrate — 축하하다, 기념하다\npossible — 가능한\ninvite — 초대하다\nset — (해·달이) 지다: 놓다\nsouvenir — 기념품: 선물",
+      "sectionTitle": "Section B · 단어 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 22,
-      "group": "B-02",
-      "explainKo": "정답: possible",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n가능한",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "possible"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "22",
+      "id": "s2-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "26–30",
       "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "22"
-    },
-    {
-      "sourceId": 23,
-      "group": "B-03",
-      "explainKo": "정답: invite",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n초대하다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "invite"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "23",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "23"
-    },
-    {
-      "sourceId": 24,
-      "group": "B-04",
-      "explainKo": "정답: set",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n(해·달이) 지다: 놓다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "set"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "24",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "24"
-    },
-    {
-      "sourceId": 25,
-      "group": "B-05",
-      "explainKo": "정답: souvenir",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n기념품: 선물",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "souvenir"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "25",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "25"
-    },
-    {
       "sourceId": 26,
-      "group": "B-06",
-      "explainKo": "정답: skeleton",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n해골; 뼈대",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "skeleton"
+      "group": "s2",
+      "pairs": [
+        {
+          "id": "26",
+          "en": "skeleton",
+          "ko": "해골; 뼈대",
+          "sourceId": 26,
+          "explainKo": "정답: skeleton"
+        },
+        {
+          "id": "27",
+          "en": "reindeer",
+          "ko": "순록",
+          "sourceId": 27,
+          "explainKo": "정답: reindeer"
+        },
+        {
+          "id": "28",
+          "en": "altar",
+          "ko": "제단",
+          "sourceId": 28,
+          "explainKo": "정답: altar"
+        },
+        {
+          "id": "29",
+          "en": "light",
+          "ko": "가벼운",
+          "sourceId": 29,
+          "explainKo": "정답: light"
+        },
+        {
+          "id": "30",
+          "en": "matter",
+          "ko": "중요하다: 문제, 일",
+          "sourceId": 30,
+          "explainKo": "정답: matter"
+        }
       ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "26",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "26"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "skeleton — 해골; 뼈대\nreindeer — 순록\naltar — 제단\nlight — 가벼운\nmatter — 중요하다: 문제, 일",
+      "sectionTitle": "Section B · 단어 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 27,
-      "group": "B-07",
-      "explainKo": "정답: reindeer",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n순록",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "reindeer"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "27",
+      "id": "s2-b3",
+      "type": "match",
+      "answerMode": "match",
+      "label": "31–35",
       "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "27"
-    },
-    {
-      "sourceId": 28,
-      "group": "B-08",
-      "explainKo": "정답: altar",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n제단",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "altar"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "28",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "28"
-    },
-    {
-      "sourceId": 29,
-      "group": "B-09",
-      "explainKo": "정답: light",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n가벼운",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "light"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "29",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "29"
-    },
-    {
-      "sourceId": 30,
-      "group": "B-10",
-      "explainKo": "정답: matter",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n중요하다: 문제, 일",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "matter"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "30",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "30"
-    },
-    {
       "sourceId": 31,
-      "group": "B-11",
-      "explainKo": "정답: traditional",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n전통의, 전통적인",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "traditional"
+      "group": "s2",
+      "pairs": [
+        {
+          "id": "31",
+          "en": "traditional",
+          "ko": "전통의, 전통적인",
+          "sourceId": 31,
+          "explainKo": "정답: traditional"
+        },
+        {
+          "id": "32",
+          "en": "dark",
+          "ko": "어두운",
+          "sourceId": 32,
+          "explainKo": "정답: dark"
+        },
+        {
+          "id": "33",
+          "en": "world-famous",
+          "ko": "세계적으로 유명한",
+          "sourceId": 33,
+          "explainKo": "정답: world-famous"
+        },
+        {
+          "id": "34",
+          "en": "recipe",
+          "ko": "요리법",
+          "sourceId": 34,
+          "explainKo": "정답: recipe"
+        },
+        {
+          "id": "35",
+          "en": "midsummer",
+          "ko": "한여름",
+          "sourceId": 35,
+          "explainKo": "정답: midsummer"
+        }
       ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "31",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "31"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "traditional — 전통의, 전통적인\ndark — 어두운\nworld-famous — 세계적으로 유명한\nrecipe — 요리법\nmidsummer — 한여름",
+      "sectionTitle": "Section B · 단어 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 32,
-      "group": "B-12",
-      "explainKo": "정답: dark",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n어두운",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "dark"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "32",
+      "id": "s2-b4",
+      "type": "match",
+      "answerMode": "match",
+      "label": "36–40",
       "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "32"
-    },
-    {
-      "sourceId": 33,
-      "group": "B-13",
-      "explainKo": "정답: world-famous",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n세계적으로 유명한",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "world-famous",
-        "world famous"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "33",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "33"
-    },
-    {
-      "sourceId": 34,
-      "group": "B-14",
-      "explainKo": "정답: recipe",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n요리법",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "recipe"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "34",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "34"
-    },
-    {
-      "sourceId": 35,
-      "group": "B-15",
-      "explainKo": "정답: midsummer",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n한여름",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "midsummer"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "35",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "35"
-    },
-    {
       "sourceId": 36,
-      "group": "B-16",
-      "explainKo": "정답: symbolize",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n상징하다; 나타내다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "symbolize"
+      "group": "s2",
+      "pairs": [
+        {
+          "id": "36",
+          "en": "symbolize",
+          "ko": "상징하다; 나타내다",
+          "sourceId": 36,
+          "explainKo": "정답: symbolize"
+        },
+        {
+          "id": "37",
+          "en": "burn",
+          "ko": "태우다; 불에 타다",
+          "sourceId": 37,
+          "explainKo": "정답: burn"
+        },
+        {
+          "id": "38",
+          "en": "forget",
+          "ko": "잊다",
+          "sourceId": 38,
+          "explainKo": "정답: forget"
+        },
+        {
+          "id": "39",
+          "en": "seasonal",
+          "ko": "계절의",
+          "sourceId": 39,
+          "explainKo": "정답: seasonal"
+        },
+        {
+          "id": "40",
+          "en": "dead",
+          "ko": "죽은, 사망한",
+          "sourceId": 40,
+          "explainKo": "정답: dead"
+        }
       ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "36",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "36"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "symbolize — 상징하다; 나타내다\nburn — 태우다; 불에 타다\nforget — 잊다\nseasonal — 계절의\ndead — 죽은, 사망한",
+      "sectionTitle": "Section B · 단어 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 37,
-      "group": "B-17",
-      "explainKo": "정답: burn",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n태우다; 불에 타다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "burn"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "37",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "37"
-    },
-    {
-      "sourceId": 38,
-      "group": "B-18",
-      "explainKo": "정답: forget",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n잊다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "forget"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "38",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "38"
-    },
-    {
-      "sourceId": 39,
-      "group": "B-19",
-      "explainKo": "정답: seasonal",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n계절의",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "seasonal"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "39",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "39"
-    },
-    {
-      "sourceId": 40,
-      "group": "B-20",
-      "explainKo": "정답: dead",
-      "promptEn": "다음 우리말을 영어로 쓰시오.\n죽은, 사망한",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "dead"
-      ],
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": false,
-      "id": "40",
-      "section": "s2",
-      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "40"
-    },
-    {
+      "id": "s3-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "41–45",
+      "section": "s3",
       "sourceId": 41,
-      "group": "C-01",
-      "explainKo": "정답: 파티를 열다[하다]",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nhave a party",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "파티를 열다[하다]",
-        "파티를 열다",
-        "파티를 하다"
+      "group": "s3",
+      "pairs": [
+        {
+          "id": "41",
+          "en": "have a party",
+          "ko": "파티를 열다[하다]",
+          "sourceId": 41,
+          "explainKo": "정답: 파티를 열다[하다]"
+        },
+        {
+          "id": "42",
+          "en": "at the end of",
+          "ko": "~의 말에, ~의 끝에",
+          "sourceId": 42,
+          "explainKo": "정답: ~의 말에, ~의 끝에"
+        },
+        {
+          "id": "43",
+          "en": "go for a ride",
+          "ko": "타러 가다",
+          "sourceId": 43,
+          "explainKo": "정답: 타러 가다"
+        },
+        {
+          "id": "44",
+          "en": "Welcome to ~.",
+          "ko": "~에 오신 것을 환영합니다",
+          "sourceId": 44,
+          "explainKo": "정답: ~에 오신 것을 환영합니다."
+        },
+        {
+          "id": "45",
+          "en": "participate in",
+          "ko": "~에 참가하다",
+          "sourceId": 45,
+          "explainKo": "정답: ~에 참가하다"
+        }
       ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "41",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "41"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "have a party — 파티를 열다[하다]\nat the end of — ~의 말에, ~의 끝에\ngo for a ride — 타러 가다\nWelcome to ~. — ~에 오신 것을 환영합니다\nparticipate in — ~에 참가하다",
+      "sectionTitle": "Section C · 표현 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 42,
-      "group": "C-02",
-      "explainKo": "정답: ~의 말에, ~의 끝에",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nat the end of",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "~의 말에, ~의 끝에",
-        "~의 말에",
-        "~의 끝에"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "42",
+      "id": "s3-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "46–50",
       "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "42"
-    },
-    {
-      "sourceId": 43,
-      "group": "C-03",
-      "explainKo": "정답: 타러 가다",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\ngo for a ride",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "타러 가다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "43",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "43"
-    },
-    {
-      "sourceId": 44,
-      "group": "C-04",
-      "explainKo": "정답: ~에 오신 것을 환영합니다.",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nWelcome to ~.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "~에 오신 것을 환영합니다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "44",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "44"
-    },
-    {
-      "sourceId": 45,
-      "group": "C-05",
-      "explainKo": "정답: ~에 참가하다",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nparticipate in",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "~에 참가하다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "45",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "45"
-    },
-    {
       "sourceId": 46,
-      "group": "C-06",
-      "explainKo": "정답: 밤새도록",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nall night long",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "밤새도록"
+      "group": "s3",
+      "pairs": [
+        {
+          "id": "46",
+          "en": "all night long",
+          "ko": "밤새도록",
+          "sourceId": 46,
+          "explainKo": "정답: 밤새도록"
+        },
+        {
+          "id": "47",
+          "en": "go to the movies",
+          "ko": "영화 보러 가다",
+          "sourceId": 47,
+          "explainKo": "정답: 영화 보러 가다"
+        },
+        {
+          "id": "48",
+          "en": "say hello to",
+          "ko": "~에게 인사를 하다. ~에게 안부를 전하다",
+          "sourceId": 48,
+          "explainKo": "정답: ~에게 인사를 하다. ~에게 안부를 전하다"
+        },
+        {
+          "id": "49",
+          "en": "once a year",
+          "ko": "일 년에 한 번",
+          "sourceId": 49,
+          "explainKo": "정답: 일 년에 한 번"
+        },
+        {
+          "id": "50",
+          "en": "come back",
+          "ko": "돌아오다",
+          "sourceId": 50,
+          "explainKo": "정답: 돌아오다"
+        }
       ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "46",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "46"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "all night long — 밤새도록\ngo to the movies — 영화 보러 가다\nsay hello to — ~에게 인사를 하다. ~에게 안부를 전하다\nonce a year — 일 년에 한 번\ncome back — 돌아오다",
+      "sectionTitle": "Section C · 표현 짝짓기 · 영어 ↔ 우리말",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 47,
-      "group": "C-07",
-      "explainKo": "정답: 영화 보러 가다",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\ngo to the movies",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "영화 보러 가다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "47",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "47"
-    },
-    {
-      "sourceId": 48,
-      "group": "C-08",
-      "explainKo": "정답: ~에게 인사를 하다. ~에게 안부를 전하다",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nsay hello to",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "~에게 인사를 하다. ~에게 안부를 전하다",
-        "~에게 인사를 하다",
-        "~에게 안부를 전하다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "48",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "48"
-    },
-    {
-      "sourceId": 49,
-      "group": "C-09",
-      "explainKo": "정답: 일 년에 한 번",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nonce a year",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "일 년에 한 번"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "49",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "49"
-    },
-    {
-      "sourceId": 50,
-      "group": "C-10",
-      "explainKo": "정답: 돌아오다",
-      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\ncome back",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "돌아오다"
-      ],
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "phraseBlank": false,
-      "id": "50",
-      "section": "s3",
-      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "50"
-    },
-    {
+      "id": "s4-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "51–55",
+      "section": "s4",
       "sourceId": 51,
-      "group": "D-01",
-      "explainKo": "정답: between A and B",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\nA와 B 사이에",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "between A and B"
+      "group": "s4",
+      "pairs": [
+        {
+          "id": "51",
+          "en": "between A and B",
+          "ko": "A와 B 사이에",
+          "sourceId": 51,
+          "explainKo": "정답: between A and B"
+        },
+        {
+          "id": "52",
+          "en": "hundreds of",
+          "ko": "수백의; 아주 많은",
+          "sourceId": 52,
+          "explainKo": "정답: hundreds of"
+        },
+        {
+          "id": "53",
+          "en": "set up",
+          "ko": "설치하다, 세우다",
+          "sourceId": 53,
+          "explainKo": "정답: set up"
+        },
+        {
+          "id": "54",
+          "en": "decorate A with B",
+          "ko": "A를 B로 장식하다",
+          "sourceId": 54,
+          "explainKo": "정답: decorate A with B"
+        },
+        {
+          "id": "55",
+          "en": "take place",
+          "ko": "개최되다, 열리다",
+          "sourceId": 55,
+          "explainKo": "정답: take place"
+        }
       ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "51",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "51"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "between A and B — A와 B 사이에\nhundreds of — 수백의; 아주 많은\nset up — 설치하다, 세우다\ndecorate A with B — A를 B로 장식하다\ntake place — 개최되다, 열리다",
+      "sectionTitle": "Section D · 표현 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     },
     {
-      "sourceId": 52,
-      "group": "D-02",
-      "explainKo": "정답: hundreds of",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n수백의; 아주 많은",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "hundreds of"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "52",
+      "id": "s4-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "56–60",
       "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "52"
-    },
-    {
-      "sourceId": 53,
-      "group": "D-03",
-      "explainKo": "정답: set up",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n설치하다, 세우다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "set up"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "53",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "53"
-    },
-    {
-      "sourceId": 54,
-      "group": "D-04",
-      "explainKo": "정답: decorate A with B",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\nA를 B로 장식하다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "decorate A with B"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "54",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "54"
-    },
-    {
-      "sourceId": 55,
-      "group": "D-05",
-      "explainKo": "정답: take place",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n개최되다, 열리다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "take place"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "55",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "55"
-    },
-    {
       "sourceId": 56,
-      "group": "D-06",
-      "explainKo": "정답: keep a diary",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n일기를 쓰다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "keep a diary"
+      "group": "s4",
+      "pairs": [
+        {
+          "id": "56",
+          "en": "keep a diary",
+          "ko": "일기를 쓰다",
+          "sourceId": 56,
+          "explainKo": "정답: keep a diary"
+        },
+        {
+          "id": "57",
+          "en": "at this time of year",
+          "ko": "일 년 중 이맘때에",
+          "sourceId": 57,
+          "explainKo": "정답: at this time of year"
+        },
+        {
+          "id": "58",
+          "en": "hold a festival",
+          "ko": "축제를 열다",
+          "sourceId": 58,
+          "explainKo": "정답: hold a festival"
+        },
+        {
+          "id": "59",
+          "en": "at any age",
+          "ko": "어떤 나이에든",
+          "sourceId": 59,
+          "explainKo": "정답: at any age"
+        },
+        {
+          "id": "60",
+          "en": "dress up",
+          "ko": "분장하다; 옷을 차려입다",
+          "sourceId": 60,
+          "explainKo": "정답: dress up"
+        }
       ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "56",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "56"
-    },
-    {
-      "sourceId": 57,
-      "group": "D-07",
-      "explainKo": "정답: at this time of year",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n일 년 중 이맘때에",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "at this time of year"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "57",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "57"
-    },
-    {
-      "sourceId": 58,
-      "group": "D-08",
-      "explainKo": "정답: hold a festival",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n축제를 열다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "hold a festival"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "58",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "58"
-    },
-    {
-      "sourceId": 59,
-      "group": "D-09",
-      "explainKo": "정답: at any age",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n어떤 나이에든",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "at any age"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "59",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "59"
-    },
-    {
-      "sourceId": 60,
-      "group": "D-10",
-      "explainKo": "정답: dress up",
-      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n분장하다; 옷을 차려입다",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "dress up"
-      ],
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "phraseBlank": true,
-      "id": "60",
-      "section": "s4",
-      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "60"
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "keep a diary — 일기를 쓰다\nat this time of year — 일 년 중 이맘때에\nhold a festival — 축제를 열다\nat any age — 어떤 나이에든\ndress up — 분장하다; 옷을 차려입다",
+      "sectionTitle": "Section D · 표현 짝짓기 · 우리말 ↔ 영어",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요."
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "이 연습은 다음 영어를 우리말로 쓰시오. 20문항, 다음 우리말을 영어로 쓰시오. 20문항, 다음 영어 표현을 우리말로 쓰시오. 10문항, 다음 우리말 표현을 영어로 쓰시오. 10문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "introKo": "Vocabulary 확인은 짝짓기입니다. 영어 60쌍을 다섯 쌍씩 보여 줍니다. 왼쪽 영어를 누르고 같은 뜻의 우리말을 누르세요. 타자는 없습니다. 통과는 짝 60개 중 80%입니다.",
   "sections": [
     {
       "id": "s1",
-      "title": "Section A · 다음 영어를 우리말로 쓰시오.",
-      "directionKo": "다음 영어를 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "instructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "title": "Section A · 단어 짝짓기 · 영어 ↔ 우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
       "itemCount": 20
     },
     {
       "id": "s2",
-      "title": "Section B · 다음 우리말을 영어로 쓰시오.",
-      "directionKo": "다음 우리말을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "instructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "title": "Section B · 단어 짝짓기 · 우리말 ↔ 영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
       "itemCount": 20
     },
     {
       "id": "s3",
-      "title": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
-      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "instructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "title": "Section C · 표현 짝짓기 · 영어 ↔ 우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
       "itemCount": 10
     },
     {
       "id": "s4",
-      "title": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
-      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
-      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "instructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "title": "Section D · 표현 짝짓기 · 우리말 ↔ 영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
       "itemCount": 10
     }
   ]

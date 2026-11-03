@@ -145,40 +145,130 @@
       "group": "Fallas Festival in Valencia, Spain",
       "explainKo": "정답: During the festival, people enjoy parades and fireworks.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n축제 기간 동안 사람들은 퍼레이드와 불꽃놀이를 즐긴다.\n(the / enjoy / festival / parades / people / During / fireworks. / and)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "During the festival, people enjoy parades and fireworks"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "3",
       "section": "s2",
       "sectionTitle": "Section B · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "3"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "3",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "the"
+        },
+        {
+          "id": "c1",
+          "text": "enjoy"
+        },
+        {
+          "id": "c2",
+          "text": "festival"
+        },
+        {
+          "id": "c3",
+          "text": "parades"
+        },
+        {
+          "id": "c4",
+          "text": "people"
+        },
+        {
+          "id": "c5",
+          "text": "During"
+        },
+        {
+          "id": "c6",
+          "text": "fireworks."
+        },
+        {
+          "id": "c7",
+          "text": "and"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c0",
+        "c2",
+        "c4",
+        "c1",
+        "c3",
+        "c7",
+        "c6"
+      ]
     },
     {
       "sourceId": 4,
       "group": "Fallas Festival in Valencia, Spain",
       "explainKo": "정답: The stars of the festival are fallas, giant wooden statues.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.\n(wooden / are / fallas, / statues. / of / stars / giant / festival / the / The)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "The stars of the festival are fallas, giant wooden statues"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "4",
       "section": "s2",
       "sectionTitle": "Section B · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "4"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "4",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "wooden"
+        },
+        {
+          "id": "c1",
+          "text": "are"
+        },
+        {
+          "id": "c2",
+          "text": "fallas,"
+        },
+        {
+          "id": "c3",
+          "text": "statues."
+        },
+        {
+          "id": "c4",
+          "text": "of"
+        },
+        {
+          "id": "c5",
+          "text": "stars"
+        },
+        {
+          "id": "c6",
+          "text": "giant"
+        },
+        {
+          "id": "c7",
+          "text": "festival"
+        },
+        {
+          "id": "c8",
+          "text": "the"
+        },
+        {
+          "id": "c9",
+          "text": "The"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c5",
+        "c4",
+        "c9",
+        "c7",
+        "c1",
+        "c2",
+        "c6",
+        "c0",
+        "c3"
+      ]
     },
     {
       "sourceId": 5,
@@ -255,20 +345,80 @@
       "group": "Fallas Festival in Valencia, Spain",
       "explainKo": "정답: Surprisingly, the fallas are burned on the last day of the festival.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.\n(the / burned / day / Surprisingly, / of / the / are / last / festival. / the / on / fallas)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "Surprisingly, the fallas are burned on the last day of the festival"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "6",
       "section": "s4",
       "sectionTitle": "Section D · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "6"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "the"
+        },
+        {
+          "id": "c1",
+          "text": "burned"
+        },
+        {
+          "id": "c2",
+          "text": "day"
+        },
+        {
+          "id": "c3",
+          "text": "Surprisingly,"
+        },
+        {
+          "id": "c4",
+          "text": "of"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "are"
+        },
+        {
+          "id": "c7",
+          "text": "last"
+        },
+        {
+          "id": "c8",
+          "text": "festival."
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "on"
+        },
+        {
+          "id": "c11",
+          "text": "fallas"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c0",
+        "c11",
+        "c6",
+        "c1",
+        "c10",
+        "c5",
+        "c7",
+        "c2",
+        "c4",
+        "c9",
+        "c8"
+      ]
     },
     {
       "sourceId": 7,
@@ -365,40 +515,175 @@
       "group": "Midsummer Festival in Sweden",
       "explainKo": "정답: Winter in Sweden is long and dark, so the people there especially welcome summer.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.\n(people / so / long / Winter / there / in / Sweden / the / especially / dark, / welcome / is / summer. / and)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "Winter in Sweden is long and dark, so the people there especially welcome summer"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "8",
       "section": "s6",
       "sectionTitle": "Section F · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "8"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "8",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "people"
+        },
+        {
+          "id": "c1",
+          "text": "so"
+        },
+        {
+          "id": "c2",
+          "text": "long"
+        },
+        {
+          "id": "c3",
+          "text": "Winter"
+        },
+        {
+          "id": "c4",
+          "text": "there"
+        },
+        {
+          "id": "c5",
+          "text": "in"
+        },
+        {
+          "id": "c6",
+          "text": "Sweden"
+        },
+        {
+          "id": "c7",
+          "text": "the"
+        },
+        {
+          "id": "c8",
+          "text": "especially"
+        },
+        {
+          "id": "c9",
+          "text": "dark,"
+        },
+        {
+          "id": "c10",
+          "text": "welcome"
+        },
+        {
+          "id": "c11",
+          "text": "is"
+        },
+        {
+          "id": "c12",
+          "text": "summer."
+        },
+        {
+          "id": "c13",
+          "text": "and"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c5",
+        "c6",
+        "c11",
+        "c2",
+        "c13",
+        "c9",
+        "c1",
+        "c7",
+        "c0",
+        "c4",
+        "c8",
+        "c10",
+        "c12"
+      ]
     },
     {
       "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
       "explainKo": "정답: To celebrate the longest day of the year, they have a special festival.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.\n(special / of / celebrate / have / To / the / the / festival. / year, / longest / day / they / a)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "To celebrate the longest day of the year, they have a special festival"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "9",
       "section": "s6",
       "sectionTitle": "Section F · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "9"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "9",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "special"
+        },
+        {
+          "id": "c1",
+          "text": "of"
+        },
+        {
+          "id": "c2",
+          "text": "celebrate"
+        },
+        {
+          "id": "c3",
+          "text": "have"
+        },
+        {
+          "id": "c4",
+          "text": "To"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "festival."
+        },
+        {
+          "id": "c8",
+          "text": "year,"
+        },
+        {
+          "id": "c9",
+          "text": "longest"
+        },
+        {
+          "id": "c10",
+          "text": "day"
+        },
+        {
+          "id": "c11",
+          "text": "they"
+        },
+        {
+          "id": "c12",
+          "text": "a"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c2",
+        "c5",
+        "c9",
+        "c10",
+        "c1",
+        "c6",
+        "c8",
+        "c11",
+        "c3",
+        "c12",
+        "c0",
+        "c7"
+      ]
     },
     {
       "sourceId": 10,
@@ -545,40 +830,235 @@
       "group": "Midsummer Festival in Sweden",
       "explainKo": "정답: During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위를 돌며 전통 춤을 즐긴다.\n(tall / decorate / and / people / During / green / pole / the / festival, / flowers / a / and / enjoy / it. / with / traditional / dances / around / leaves)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "12",
       "section": "s8",
       "sectionTitle": "Section H · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "12"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "12",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "tall"
+        },
+        {
+          "id": "c1",
+          "text": "decorate"
+        },
+        {
+          "id": "c2",
+          "text": "and"
+        },
+        {
+          "id": "c3",
+          "text": "people"
+        },
+        {
+          "id": "c4",
+          "text": "During"
+        },
+        {
+          "id": "c5",
+          "text": "green"
+        },
+        {
+          "id": "c6",
+          "text": "pole"
+        },
+        {
+          "id": "c7",
+          "text": "the"
+        },
+        {
+          "id": "c8",
+          "text": "festival,"
+        },
+        {
+          "id": "c9",
+          "text": "flowers"
+        },
+        {
+          "id": "c10",
+          "text": "a"
+        },
+        {
+          "id": "c11",
+          "text": "and"
+        },
+        {
+          "id": "c12",
+          "text": "enjoy"
+        },
+        {
+          "id": "c13",
+          "text": "it."
+        },
+        {
+          "id": "c14",
+          "text": "with"
+        },
+        {
+          "id": "c15",
+          "text": "traditional"
+        },
+        {
+          "id": "c16",
+          "text": "dances"
+        },
+        {
+          "id": "c17",
+          "text": "around"
+        },
+        {
+          "id": "c18",
+          "text": "leaves"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c7",
+        "c8",
+        "c3",
+        "c1",
+        "c10",
+        "c0",
+        "c6",
+        "c14",
+        "c9",
+        "c2",
+        "c5",
+        "c18",
+        "c11",
+        "c12",
+        "c15",
+        "c16",
+        "c17",
+        "c13"
+      ]
     },
     {
       "sourceId": 13,
       "group": "Midsummer Festival in Sweden",
       "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.\n(people / Because / enjoy / hardly / of / time / Sweden, / all / sun / this / long. / the / in / year / the / at / night / can / sets / festival)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "13",
       "section": "s8",
       "sectionTitle": "Section H · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "13"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "13",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "people"
+        },
+        {
+          "id": "c1",
+          "text": "Because"
+        },
+        {
+          "id": "c2",
+          "text": "enjoy"
+        },
+        {
+          "id": "c3",
+          "text": "hardly"
+        },
+        {
+          "id": "c4",
+          "text": "of"
+        },
+        {
+          "id": "c5",
+          "text": "time"
+        },
+        {
+          "id": "c6",
+          "text": "Sweden,"
+        },
+        {
+          "id": "c7",
+          "text": "all"
+        },
+        {
+          "id": "c8",
+          "text": "sun"
+        },
+        {
+          "id": "c9",
+          "text": "this"
+        },
+        {
+          "id": "c10",
+          "text": "long."
+        },
+        {
+          "id": "c11",
+          "text": "the"
+        },
+        {
+          "id": "c12",
+          "text": "in"
+        },
+        {
+          "id": "c13",
+          "text": "year"
+        },
+        {
+          "id": "c14",
+          "text": "the"
+        },
+        {
+          "id": "c15",
+          "text": "at"
+        },
+        {
+          "id": "c16",
+          "text": "night"
+        },
+        {
+          "id": "c17",
+          "text": "can"
+        },
+        {
+          "id": "c18",
+          "text": "sets"
+        },
+        {
+          "id": "c19",
+          "text": "festival"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c11",
+        "c8",
+        "c3",
+        "c18",
+        "c15",
+        "c9",
+        "c5",
+        "c4",
+        "c13",
+        "c12",
+        "c6",
+        "c0",
+        "c17",
+        "c2",
+        "c14",
+        "c19",
+        "c7",
+        "c16",
+        "c10"
+      ]
     },
     {
       "sourceId": 14,
@@ -740,20 +1220,80 @@
       "group": "Day of the Dead Festival in Mexico",
       "explainKo": "정답: To welcome dead people, Mexicans hold a festival on November 1 and 2.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.\n(people, / November 1 / and / a / 2. / dead / Mexicans / on / To / welcome / festival / hold)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "To welcome dead people, Mexicans hold a festival on November 1 and 2"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "16",
       "section": "s10",
       "sectionTitle": "Section J · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "16"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "16",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "people,"
+        },
+        {
+          "id": "c1",
+          "text": "November 1"
+        },
+        {
+          "id": "c2",
+          "text": "and"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "2."
+        },
+        {
+          "id": "c5",
+          "text": "dead"
+        },
+        {
+          "id": "c6",
+          "text": "Mexicans"
+        },
+        {
+          "id": "c7",
+          "text": "on"
+        },
+        {
+          "id": "c8",
+          "text": "To"
+        },
+        {
+          "id": "c9",
+          "text": "welcome"
+        },
+        {
+          "id": "c10",
+          "text": "festival"
+        },
+        {
+          "id": "c11",
+          "text": "hold"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c9",
+        "c5",
+        "c0",
+        "c6",
+        "c11",
+        "c3",
+        "c10",
+        "c7",
+        "c1",
+        "c2",
+        "c4"
+      ]
     },
     {
       "sourceId": 17,
@@ -825,80 +1365,370 @@
       "group": "Day of the Dead Festival in Mexico",
       "explainKo": "정답: So, people set up altars in their homes and have big parties in cemeteries.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.\n(and / in / So, / altars / set / big / have / people / up / homes / cemeteries. / in / parties / their)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "So, people set up altars in their homes and have big parties in cemeteries"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "18",
       "section": "s12",
       "sectionTitle": "Section L · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "18"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "18",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "and"
+        },
+        {
+          "id": "c1",
+          "text": "in"
+        },
+        {
+          "id": "c2",
+          "text": "So,"
+        },
+        {
+          "id": "c3",
+          "text": "altars"
+        },
+        {
+          "id": "c4",
+          "text": "set"
+        },
+        {
+          "id": "c5",
+          "text": "big"
+        },
+        {
+          "id": "c6",
+          "text": "have"
+        },
+        {
+          "id": "c7",
+          "text": "people"
+        },
+        {
+          "id": "c8",
+          "text": "up"
+        },
+        {
+          "id": "c9",
+          "text": "homes"
+        },
+        {
+          "id": "c10",
+          "text": "cemeteries."
+        },
+        {
+          "id": "c11",
+          "text": "in"
+        },
+        {
+          "id": "c12",
+          "text": "parties"
+        },
+        {
+          "id": "c13",
+          "text": "their"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c7",
+        "c4",
+        "c8",
+        "c3",
+        "c1",
+        "c13",
+        "c9",
+        "c0",
+        "c6",
+        "c5",
+        "c12",
+        "c11",
+        "c10"
+      ]
     },
     {
       "sourceId": 19,
       "group": "Day of the Dead Festival in Mexico",
       "explainKo": "정답: In some areas, people dress up like skeletons and hold big parades.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n(dress / skeletons / areas, / up / and / like / people / hold / In / parades. / some / big)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "In some areas, people dress up like skeletons and hold big parades"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "19",
       "section": "s12",
       "sectionTitle": "Section L · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "19"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "19",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "dress"
+        },
+        {
+          "id": "c1",
+          "text": "skeletons"
+        },
+        {
+          "id": "c2",
+          "text": "areas,"
+        },
+        {
+          "id": "c3",
+          "text": "up"
+        },
+        {
+          "id": "c4",
+          "text": "and"
+        },
+        {
+          "id": "c5",
+          "text": "like"
+        },
+        {
+          "id": "c6",
+          "text": "people"
+        },
+        {
+          "id": "c7",
+          "text": "hold"
+        },
+        {
+          "id": "c8",
+          "text": "In"
+        },
+        {
+          "id": "c9",
+          "text": "parades."
+        },
+        {
+          "id": "c10",
+          "text": "some"
+        },
+        {
+          "id": "c11",
+          "text": "big"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c10",
+        "c2",
+        "c6",
+        "c0",
+        "c3",
+        "c5",
+        "c1",
+        "c4",
+        "c7",
+        "c11",
+        "c9"
+      ]
     },
     {
       "sourceId": 20,
       "group": "Fur Rondy Festival in Alaska, USA",
       "explainKo": "정답: At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.\n(Alaska / the Fur Rondy festival / At / February, / in / winter / the / one / of / festivals / people / biggest / end / the / in / hold / world. / of / the)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "20",
       "section": "s12",
       "sectionTitle": "Section L · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "20"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "20",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Alaska"
+        },
+        {
+          "id": "c1",
+          "text": "the Fur Rondy festival"
+        },
+        {
+          "id": "c2",
+          "text": "At"
+        },
+        {
+          "id": "c3",
+          "text": "February,"
+        },
+        {
+          "id": "c4",
+          "text": "in"
+        },
+        {
+          "id": "c5",
+          "text": "winter"
+        },
+        {
+          "id": "c6",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "one"
+        },
+        {
+          "id": "c8",
+          "text": "of"
+        },
+        {
+          "id": "c9",
+          "text": "festivals"
+        },
+        {
+          "id": "c10",
+          "text": "people"
+        },
+        {
+          "id": "c11",
+          "text": "biggest"
+        },
+        {
+          "id": "c12",
+          "text": "end"
+        },
+        {
+          "id": "c13",
+          "text": "the"
+        },
+        {
+          "id": "c14",
+          "text": "in"
+        },
+        {
+          "id": "c15",
+          "text": "hold"
+        },
+        {
+          "id": "c16",
+          "text": "world."
+        },
+        {
+          "id": "c17",
+          "text": "of"
+        },
+        {
+          "id": "c18",
+          "text": "the"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c6",
+        "c12",
+        "c8",
+        "c3",
+        "c10",
+        "c4",
+        "c0",
+        "c15",
+        "c1",
+        "c7",
+        "c17",
+        "c13",
+        "c11",
+        "c5",
+        "c9",
+        "c14",
+        "c18",
+        "c16"
+      ]
     },
     {
       "sourceId": 21,
       "group": "Fur Rondy Festival in Alaska, USA",
       "explainKo": "정답: During this festival, visitors can enjoy various winter sports and Alaskan traditional games.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.\n(festival / Alaskan / sports / During / this / traditional / can / various / and / visitors / enjoy / games. / winter)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "During this festival, visitors can enjoy various winter sports and Alaskan traditional games"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "21",
       "section": "s12",
       "sectionTitle": "Section L · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "21"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "21",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "festival"
+        },
+        {
+          "id": "c1",
+          "text": "Alaskan"
+        },
+        {
+          "id": "c2",
+          "text": "sports"
+        },
+        {
+          "id": "c3",
+          "text": "During"
+        },
+        {
+          "id": "c4",
+          "text": "this"
+        },
+        {
+          "id": "c5",
+          "text": "traditional"
+        },
+        {
+          "id": "c6",
+          "text": "can"
+        },
+        {
+          "id": "c7",
+          "text": "various"
+        },
+        {
+          "id": "c8",
+          "text": "and"
+        },
+        {
+          "id": "c9",
+          "text": "visitors"
+        },
+        {
+          "id": "c10",
+          "text": "enjoy"
+        },
+        {
+          "id": "c11",
+          "text": "games."
+        },
+        {
+          "id": "c12",
+          "text": "winter"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c4",
+        "c0",
+        "c9",
+        "c6",
+        "c10",
+        "c7",
+        "c12",
+        "c2",
+        "c8",
+        "c1",
+        "c5",
+        "c11"
+      ]
     },
     {
       "sourceId": 22,
@@ -1125,20 +1955,50 @@
       "group": "Fur Rondy Festival in Alaska, USA",
       "explainKo": "정답: Not really, but it doesn't matter.",
       "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n사실 그렇지 않지만, 그건 중요하지 않다.\n(it / but / Not / matter. / really, / doesn't)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "Not really, but it doesn't matter"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "phraseBlank": true,
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
       "id": "25",
       "section": "s14",
       "sectionTitle": "Section N · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "25"
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "25",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "it"
+        },
+        {
+          "id": "c1",
+          "text": "but"
+        },
+        {
+          "id": "c2",
+          "text": "Not"
+        },
+        {
+          "id": "c3",
+          "text": "matter."
+        },
+        {
+          "id": "c4",
+          "text": "really,"
+        },
+        {
+          "id": "c5",
+          "text": "doesn't"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c4",
+        "c1",
+        "c0",
+        "c5",
+        "c3"
+      ]
     },
     {
       "sourceId": 26,
@@ -1203,10 +2063,10 @@
       "id": "s2",
       "title": "Section B · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 2
     },
     {
@@ -1223,10 +2083,10 @@
       "id": "s4",
       "title": "Section D · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 1
     },
     {
@@ -1243,10 +2103,10 @@
       "id": "s6",
       "title": "Section F · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 2
     },
     {
@@ -1263,10 +2123,10 @@
       "id": "s8",
       "title": "Section H · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 2
     },
     {
@@ -1283,10 +2143,10 @@
       "id": "s10",
       "title": "Section J · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 1
     },
     {
@@ -1303,10 +2163,10 @@
       "id": "s12",
       "title": "Section L · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 4
     },
     {
@@ -1323,10 +2183,10 @@
       "id": "s14",
       "title": "Section N · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
       "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
-      "ruleKo": "괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 괄호 안 말을 활용해 빈칸에 들어갈 말만 쓰세요. 형태를 바꿔야 하면 바꾼 말만 쓰세요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 1
     },
     {
