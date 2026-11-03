@@ -1,0 +1,221 @@
+{
+  "id": "reading-advanced",
+  "title": "Reading 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.162-165",
+  "questionCount": 6,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "2",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "3",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "5",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "6",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "7",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "9",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "10",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "11",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "12",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "13",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "14",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "15",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "16",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "18",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "21",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "22",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "23",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    },
+    {
+      "sourceId": "25",
+      "reason": "Reading 심화 OCR 미확정 (답지 pp.162-165)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 04)",
+      "type": "fill",
+      "promptEn": "다음 우리말을 문장 전체로 쓰시오.\n사람들은 너무 많은 자원을 낭비한다.",
+      "accept": [
+        "People waste too many resources."
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: correct. (답지 08)",
+      "type": "fill",
+      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nYou can correct the wrong answers.",
+      "accept": [
+        "correct"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 17)",
+      "type": "sentence",
+      "promptEn": "다음 우리말을 문장 전체로 쓰시오.\n헌 옷을 유용하게 만들어 봅시다.",
+      "accept": [
+        "Let's make old clothes useful."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Water. (답지 19)",
+      "type": "fill",
+      "promptEn": "주제어를 쓰시오.\nWater Saver section topic",
+      "accept": [
+        "Water"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 20)",
+      "type": "fill",
+      "promptEn": "that절을 우리말로 쓰시오.\nIt makes me sad that people waste a lot of water.",
+      "accept": [
+        "사람들이 많은 물을 낭비하는 것",
+        "사람들이 물을 많이 낭비하는 것"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 24)",
+      "type": "sentence",
+      "promptEn": "다음을 문장 전체로 쓰시오.\nI'm sure that you got the right answers.",
+      "accept": [
+        "I'm sure that you got the right answers."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 6문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 6
+    }
+  ]
+}

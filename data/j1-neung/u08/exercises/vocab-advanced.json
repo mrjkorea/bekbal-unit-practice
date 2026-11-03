@@ -1,0 +1,29 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.186-187",
+  "questionCount": 0,
+  "omitted": [
+    {
+      "sourceId": "rest",
+      "reason": "L08 vocab 심화 — 답지 p.30-31 대조 follow-up"
+    }
+  ],
+  "questions": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 0문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 0
+    }
+  ]
+}

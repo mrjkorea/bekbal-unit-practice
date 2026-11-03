@@ -1,0 +1,182 @@
+{
+  "id": "reading-lexgram",
+  "title": "Reading 적절한 어휘·어법 고르기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "p.153",
+  "questionCount": 2,
+  "omitted": [
+    {
+      "sourceId": "3",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "4",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "5",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "6",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "7",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "8",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "9",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "10",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "11",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "12",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "13",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "14",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "15",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "16",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "17",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "18",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "19",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "20",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "21",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "22",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "23",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "24",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "25",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "26",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "27",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "28",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    },
+    {
+      "sourceId": "29",
+      "reason": "Reading lexgram 보기 OCR 미확정 (답지 p.153)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: problem. (답지 p.153 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Pollution is a big [problem / problems].",
+      "choices": [
+        "problem",
+        "problems"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Luckily. (답지 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[Luckily / Lucky], three superheroes are working.",
+      "choices": [
+        "Luckily",
+        "Lucky"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}

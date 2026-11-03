@@ -1,0 +1,413 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.128-129",
+  "questionCount": 15,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ reduce. (답지 pp.128-129 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto make something less in size or amount",
+      "choices": [
+        "recycle",
+        "reduce",
+        "save",
+        "waste",
+        "join"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② break down. (답지 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어는?\nto break something into smaller pieces",
+      "choices": [
+        "break down",
+        "pick up",
+        "throw away",
+        "turn off",
+        "make sure"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② item. (답지 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nPlease check each ______ before you leave.",
+      "choices": [
+        "movement",
+        "item",
+        "receipt",
+        "container",
+        "temperature"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ wrong. (답지 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 <보기>의 관계가 서로 같도록 할 때 빈칸에 들어갈 말로 가장 적절한 것은?\nhurt : treat = right : ______",
+      "choices": [
+        "wrong",
+        "useful",
+        "useless",
+        "quick",
+        "serious"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② properly / quick. (답지 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ–ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• Sort waste ⓐ ______.\n• Take ⓑ ______ showers.",
+      "choices": [
+        "properly / quick",
+        "properly / quickly",
+        "quick / properly",
+        "quickly / quick",
+        "quickly / properly"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: for (for a long time). (답지 06)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n그들은 오랫동안 기다렸다.\n→ They waited ______ a long time.",
+      "accept": [
+        "for"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ② plant → grow. (답지 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 단어의 쓰임이 적절하지 않은 것은?\n② Farmers plant rice in the spring. (심다)",
+      "choices": [
+        "reduce",
+        "plant",
+        "grow",
+        "recycle",
+        "save"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ④ draw → grow 맥락. (답지 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 표현의 쓰임이 적절하지 않은 것은?\n④ Match the cap with the bottle.",
+      "choices": [
+        "match A with B",
+        "turn off",
+        "break down",
+        "throw away",
+        "pick up"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ⑤ Match. (답지 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\n______ the old clothes with the new items.",
+      "choices": [
+        "Match",
+        "Put",
+        "Turn",
+        "Break",
+        "Throw"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: much / many. (답지 10)",
+      "type": "fill",
+      "promptEn": "다음 빈칸 ⓐ–ⓑ에 들어갈 말을 쓰시오.\nⓐ How ______ water do you use?\nⓑ How ______ bottles do you recycle?",
+      "accept": [
+        "much",
+        "many"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ② put on = 입다. (답지 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 단어의 의미가 적절하지 않은 것은?\n② She put on her sunglasses. (입다)",
+      "choices": [
+        "wear",
+        "put on",
+        "protect",
+        "create",
+        "join"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: hurt. (답지 12)",
+      "type": "fill",
+      "promptEn": "다음 빈칸에 들어갈 말을 쓰시오.\nBe careful! You may ______ yourself.",
+      "accept": [
+        "hurt"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: threw away. (답지 13)",
+      "type": "fill",
+      "promptEn": "다음 빈칸에 들어갈 말을 쓰시오.\nHe ______ the empty bottle into the trash.",
+      "accept": [
+        "threw away"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ① take a shower / take a test. (답지 14)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 짝지어진 표현이 바르게 연결된 것은?",
+      "choices": [
+        "take a shower — 샤워하다",
+        "take a test — 시험 보다",
+        "take part in — 참석하다",
+        "take off — 입다",
+        "take away — 가져가다"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ④ light. (답지 15)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 ⓐ–ⓑ의 쓰임이 적절한 것은?\nⓐ Luckily, we saved water. ⓑ Turn on the ______.",
+      "choices": [
+        "light",
+        "right",
+        "luckily",
+        "quickly",
+        "serious"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 5문항 빈칸에 들어갈 말만 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

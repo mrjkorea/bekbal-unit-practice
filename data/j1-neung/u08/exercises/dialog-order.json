@@ -1,0 +1,454 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.194-195",
+  "questionCount": 8,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓑ → ⓔ → ⓐ → ⓒ (pp.194-195)",
+      "type": "order",
+      "promptEn": "1 다음 문장을 순서대로 누르시오.\nHere you go.\nSure. Can you show your library card to me, please?\nOkay. Thank you.\nExcuse me. I'd like to check out this book.\nThank you. Please return the book by next week.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Here you go."
+        },
+        {
+          "id": "s2",
+          "text": "Sure. Can you show your library card to me, please?"
+        },
+        {
+          "id": "s3",
+          "text": "Okay. Thank you."
+        },
+        {
+          "id": "s4",
+          "text": "Excuse me. I'd like to check out this book."
+        },
+        {
+          "id": "s5",
+          "text": "Thank you. Please return the book by next week."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s2",
+        "s5",
+        "s1",
+        "s3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓖ → ⓐ → ⓓ → ⓕ → ⓒ → ⓔ (pp.194-195)",
+      "type": "order",
+      "promptEn": "2 다음 문장을 순서대로 누르시오.\nHello. I'm looking for an interesting book. Can you help me, please?\nOf course. What do you want to read about?\nWell, I'm\nThen what about this book, Look\ninto Space? It's about the planets.\nIt sounds very interesting. Thank you.\ncurious about space.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Hello. I'm looking for an interesting book. Can you help me, please?"
+        },
+        {
+          "id": "s2",
+          "text": "Of course. What do you want to read about?"
+        },
+        {
+          "id": "s3",
+          "text": "Well, I'm"
+        },
+        {
+          "id": "s4",
+          "text": "Then what about this book, Look"
+        },
+        {
+          "id": "s5",
+          "text": "into Space? It's about the planets."
+        },
+        {
+          "id": "s6",
+          "text": "It sounds very interesting. Thank you."
+        },
+        {
+          "id": "s7",
+          "text": "curious about space."
+        }
+      ],
+      "orderIds": [
+        "s7",
+        "s1",
+        "s4",
+        "s6",
+        "s3",
+        "s5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓖ → ⓕ → ⓑ → ⓔ → ⓐ → ⓒ (pp.194-195)",
+      "type": "order",
+      "promptEn": "3 다음 문장을 순서대로 누르시오.\nSofia, what are you reading?\nI'm reading The Hobbit.\nCan you tell me about it?\nIt's a fantasy novel. It is about adventures in a magical world.\nIt sounds interesting. I'm curious about the story.\nWhy don't you borrow it? You'll like it.\nOkay. I'll try reading it.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Sofia, what are you reading?"
+        },
+        {
+          "id": "s2",
+          "text": "I'm reading The Hobbit."
+        },
+        {
+          "id": "s3",
+          "text": "Can you tell me about it?"
+        },
+        {
+          "id": "s4",
+          "text": "It's a fantasy novel. It is about adventures in a magical world."
+        },
+        {
+          "id": "s5",
+          "text": "It sounds interesting. I'm curious about the story."
+        },
+        {
+          "id": "s6",
+          "text": "Why don't you borrow it? You'll like it."
+        },
+        {
+          "id": "s7",
+          "text": "Okay. I'll try reading it."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s7",
+        "s6",
+        "s2",
+        "s5",
+        "s1",
+        "s3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓒ → ⓔ → ⓑ → ⓓ → ⓐ (pp.194-195)",
+      "type": "order",
+      "promptEn": "4 다음 문장을 순서대로 누르시오.\nWhat are you reading?\nI'm reading the book Eragon.\nCan you tell me about it?\nIt's a fantasy novel. The story is about dragons.\nIt sounds interesting. I'm curious about it.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "What are you reading?"
+        },
+        {
+          "id": "s2",
+          "text": "I'm reading the book Eragon."
+        },
+        {
+          "id": "s3",
+          "text": "Can you tell me about it?"
+        },
+        {
+          "id": "s4",
+          "text": "It's a fantasy novel. The story is about dragons."
+        },
+        {
+          "id": "s5",
+          "text": "It sounds interesting. I'm curious about it."
+        }
+      ],
+      "orderIds": [
+        "s3",
+        "s5",
+        "s2",
+        "s4",
+        "s1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓒ → ⓖ → ⓐ → ⓕ → ⓗ → ⓑ → ⓔ (pp.194-195)",
+      "type": "order",
+      "promptEn": "5 다음 문장을 순서대로 누르시오.\nExcuse me. I'm trying to choose a book. Can you help me?\nSure. What kind of book are you looking for?\nWell, I want to read about animals.\nOkay. Books about animals are on this shelf. What kind of animals are you interested in?\nI'm curious about sea life.\nThen what about this book, The Blue Planet? It's about animals in the deep sea.\nThat sounds perfect. Thank you.\nYou're welcome.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Excuse me. I'm trying to choose a book. Can you help me?"
+        },
+        {
+          "id": "s2",
+          "text": "Sure. What kind of book are you looking for?"
+        },
+        {
+          "id": "s3",
+          "text": "Well, I want to read about animals."
+        },
+        {
+          "id": "s4",
+          "text": "Okay. Books about animals are on this shelf. What kind of animals are you interested in?"
+        },
+        {
+          "id": "s5",
+          "text": "I'm curious about sea life."
+        },
+        {
+          "id": "s6",
+          "text": "Then what about this book, The Blue Planet? It's about animals in the deep sea."
+        },
+        {
+          "id": "s7",
+          "text": "That sounds perfect. Thank you."
+        },
+        {
+          "id": "s8",
+          "text": "You're welcome."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s3",
+        "s7",
+        "s1",
+        "s6",
+        "s8",
+        "s2",
+        "s5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓖ → ⓐ → ⓔ → ⓑ → ⓕ → ⓓ → ⓒ (pp.194-195)",
+      "type": "order",
+      "promptEn": "6 다음 문장을 순서대로 누르시오.\nI'm trying to choose a book. Can you help me?\nOf course. What about The Wizard of Oz?\nHmm... Can you tell me about it?\nSure. It's about the\nadventures of a young girl.\nI'd like to read it. I'm curious about adventures.\nYou'll like it.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "I'm trying to choose a book. Can you help me?"
+        },
+        {
+          "id": "s2",
+          "text": "Of course. What about The Wizard of Oz?"
+        },
+        {
+          "id": "s3",
+          "text": "Hmm... Can you tell me about it?"
+        },
+        {
+          "id": "s4",
+          "text": "Sure. It's about the"
+        },
+        {
+          "id": "s5",
+          "text": "adventures of a young girl."
+        },
+        {
+          "id": "s6",
+          "text": "I'd like to read it. I'm curious about adventures."
+        },
+        {
+          "id": "s7",
+          "text": "You'll like it."
+        }
+      ],
+      "orderIds": [
+        "s7",
+        "s1",
+        "s5",
+        "s2",
+        "s6",
+        "s4",
+        "s3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓔ → ⓑ → ⓕ → ⓗ → ⓒ → ⓘ → ⓐ → ⓖ → ⓓ (pp.194-195)",
+      "type": "order",
+      "promptEn": "7 다음 문장을 순서대로 누르시오.\nHi, everyone! Welcome to our channel! I'm Tony.\nAnd I'm Ivy. Today, we're going to talk about a good book.\nRight. The book is Charlotte's Web by E. B. White.\nCan you tell our viewers about the story?\nSure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends.\nWe can learn about true friendship from this story.\nYes. Also, there is a movie version of the story.\nHow did you like the movie? I'm curious about your opinion.\nI loved it. I think our viewers will enjoy both the book and the movie.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Hi, everyone! Welcome to our channel! I'm Tony."
+        },
+        {
+          "id": "s2",
+          "text": "And I'm Ivy. Today, we're going to talk about a good book."
+        },
+        {
+          "id": "s3",
+          "text": "Right. The book is Charlotte's Web by E. B. White."
+        },
+        {
+          "id": "s4",
+          "text": "Can you tell our viewers about the story?"
+        },
+        {
+          "id": "s5",
+          "text": "Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends."
+        },
+        {
+          "id": "s6",
+          "text": "We can learn about true friendship from this story."
+        },
+        {
+          "id": "s7",
+          "text": "Yes. Also, there is a movie version of the story."
+        },
+        {
+          "id": "s8",
+          "text": "How did you like the movie? I'm curious about your opinion."
+        },
+        {
+          "id": "s9",
+          "text": "I loved it. I think our viewers will enjoy both the book and the movie."
+        }
+      ],
+      "orderIds": [
+        "s5",
+        "s2",
+        "s6",
+        "s8",
+        "s3",
+        "s9",
+        "s1",
+        "s7",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓐ → ⓔ → ⓑ → ⓕ → ⓒ (pp.194-195)",
+      "type": "order",
+      "promptEn": "8 다음 문장을 순서대로 누르시오.\nWhich story did you choose?\nI chose Inside Out.\nCan you explain the lesson of the story to me?\nSure. The lesson is that emotions aren't good or bad.\nDo you like the lesson? I'm curious about your opinion.\nYes, I like it. I learned that all emotions are important.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Which story did you choose?"
+        },
+        {
+          "id": "s2",
+          "text": "I chose Inside Out."
+        },
+        {
+          "id": "s3",
+          "text": "Can you explain the lesson of the story to me?"
+        },
+        {
+          "id": "s4",
+          "text": "Sure. The lesson is that emotions aren't good or bad."
+        },
+        {
+          "id": "s5",
+          "text": "Do you like the lesson? I'm curious about your opinion."
+        },
+        {
+          "id": "s6",
+          "text": "Yes, I like it. I learned that all emotions are important."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s1",
+        "s5",
+        "s2",
+        "s6",
+        "s3"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 8문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 8
+    }
+  ]
+}

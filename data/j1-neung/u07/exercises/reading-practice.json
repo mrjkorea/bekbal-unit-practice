@@ -1,0 +1,223 @@
+{
+  "id": "reading-practice",
+  "title": "Reading 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.158-161",
+  "questionCount": 6,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "2",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "6",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "7",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "8",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "9",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "10",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "11",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "12",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "13",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "14",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "16",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "17",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "18",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "19",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "20",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "22",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "23",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    },
+    {
+      "sourceId": "24",
+      "reason": "Reading 실전 MC OCR 미확정 (답지 pp.158-161)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 03)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 문장을 쓰시오.\n그들은 세상을 깨끗하게 만들고 싶어 한다.",
+      "accept": [
+        "They want to make the world clean."
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: three superheroes. (답지 04)",
+      "type": "fill",
+      "promptEn": "빈칸에 들어갈 말을 쓰시오.\nLuckily, ______ superheroes are working.",
+      "accept": [
+        "three"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: properly. (답지 05)",
+      "type": "fill",
+      "promptEn": "빈칸에 들어갈 말을 쓰시오.\nThen you should recycle ______.",
+      "accept": [
+        "properly"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: clothes. (답지 15)",
+      "type": "fill",
+      "promptEn": "빈칸에 들어갈 말을 쓰시오.\nDon't buy too many ______.",
+      "accept": [
+        "clothes"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: water. (답지 21)",
+      "type": "fill",
+      "promptEn": "빈칸에 들어갈 말을 쓰시오.\nWater is very important. We can't live without ______.",
+      "accept": [
+        "it",
+        "water"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 25)",
+      "type": "sentence",
+      "promptEn": "다음 우리말을 문장 전체로 쓰시오.\n수도꼭지를 완전히 잠갔는지 확인하세요.",
+      "accept": [
+        "Make sure that you turn off the tap completely.",
+        "Also, make sure that you turn off the tap completely."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 6문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 6
+    }
+  ]
+}

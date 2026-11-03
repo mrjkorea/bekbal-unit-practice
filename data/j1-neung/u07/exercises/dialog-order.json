@@ -1,0 +1,419 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.136-137",
+  "questionCount": 8,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓐ → ⓒ → ⓓ → ⓑ (pp.136-137)",
+      "type": "order",
+      "promptEn": "1 다음 문장을 순서대로 누르시오.\nDo you know about global warming?\nYes, I do. Earth's temperature is rising. It is a big problem.\nRight. The ice is melting quickly, and polar bears are losing their homes.\nWe should do something to help them.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Do you know about global warming?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes, I do. Earth's temperature is rising. It is a big problem."
+        },
+        {
+          "id": "s3",
+          "text": "Right. The ice is melting quickly, and polar bears are losing their homes."
+        },
+        {
+          "id": "s4",
+          "text": "We should do something to help them."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s3",
+        "s4",
+        "s2"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓐ → ⓒ → ⓓ → ⓔ → ⓑ (pp.136-137)",
+      "type": "order",
+      "promptEn": "2 다음 문장을 순서대로 누르시오.\nLook at this poster.\nIt's shocking. It looks like someone drank most of Earth's water.\nYes. People waste too much water. What can we do to save water?\nWe can do a lot of things. For example, we can take quick showers.\nThat sounds good.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Look at this poster."
+        },
+        {
+          "id": "s2",
+          "text": "It's shocking. It looks like someone drank most of Earth's water."
+        },
+        {
+          "id": "s3",
+          "text": "Yes. People waste too much water. What can we do to save water?"
+        },
+        {
+          "id": "s4",
+          "text": "We can do a lot of things. For example, we can take quick showers."
+        },
+        {
+          "id": "s5",
+          "text": "That sounds good."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s3",
+        "s4",
+        "s5",
+        "s2"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓒ → ⓔ → ⓑ → ⓓ → ⓕ → ⓐ (pp.136-137)",
+      "type": "order",
+      "promptEn": "3 다음 문장을 순서대로 누르시오.\nDo you know about plastic pollution?\nYes, I do. A lot of plastic waste goes into the oceans.\nRight. It is a serious problem.\nWhat can we do to reduce plastic waste?\nWe can start making small changes. For example, we can carry our own water bottles.\nThat's a good idea.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Do you know about plastic pollution?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes, I do. A lot of plastic waste goes into the oceans."
+        },
+        {
+          "id": "s3",
+          "text": "Right. It is a serious problem."
+        },
+        {
+          "id": "s4",
+          "text": "What can we do to reduce plastic waste?"
+        },
+        {
+          "id": "s5",
+          "text": "We can start making small changes. For example, we can carry our own water bottles."
+        },
+        {
+          "id": "s6",
+          "text": "That's a good idea."
+        }
+      ],
+      "orderIds": [
+        "s3",
+        "s5",
+        "s2",
+        "s4",
+        "s6",
+        "s1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓐ → ⓑ → ⓖ → ⓔ → ⓗ → ⓒ (pp.136-137)",
+      "type": "order",
+      "promptEn": "4 다음 문장을 순서대로 누르시오.\nHey, Tom! Do you know about Earth Day?\nNo, I don't. What is it?\nIt's a special day on April 22. People take part in a global event.\nI see. What do they do?\nThey do many things. For example, some people turn off the lights for ten minutes.\nWow! But how can that help the environment?\nIt can save a lot of energy. Also, it can reduce greenhouse gases. Why don't we take part in the event?\nThat's a great idea. Let's do it.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Hey, Tom! Do you know about Earth Day?"
+        },
+        {
+          "id": "s2",
+          "text": "No, I don't. What is it?"
+        },
+        {
+          "id": "s3",
+          "text": "It's a special day on April 22. People take part in a global event."
+        },
+        {
+          "id": "s4",
+          "text": "I see. What do they do?"
+        },
+        {
+          "id": "s5",
+          "text": "They do many things. For example, some people turn off the lights for ten minutes."
+        },
+        {
+          "id": "s6",
+          "text": "Wow! But how can that help the environment?"
+        },
+        {
+          "id": "s7",
+          "text": "It can save a lot of energy. Also, it can reduce greenhouse gases. Why don't we take part in the event?"
+        },
+        {
+          "id": "s8",
+          "text": "That's a great idea. Let's do it."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s1",
+        "s2",
+        "s7",
+        "s5",
+        "s8",
+        "s3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓔ → ⓒ → ⓕ → ⓐ → ⓑ → ⓓ (pp.136-137)",
+      "type": "order",
+      "promptEn": "5 다음 문장을 순서대로 누르시오.\nDo you know about the eco club at our school?\nNo, I don't. What do the club members do?\nThey do a lot of things for Earth. For example, they grow plants.\nThat sounds fun. Let's join the club together!\nSure. Which activity do you want to do?\nI want to pick up waste.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Do you know about the eco club at our school?"
+        },
+        {
+          "id": "s2",
+          "text": "No, I don't. What do the club members do?"
+        },
+        {
+          "id": "s3",
+          "text": "They do a lot of things for Earth. For example, they grow plants."
+        },
+        {
+          "id": "s4",
+          "text": "That sounds fun. Let's join the club together!"
+        },
+        {
+          "id": "s5",
+          "text": "Sure. Which activity do you want to do?"
+        },
+        {
+          "id": "s6",
+          "text": "I want to pick up waste."
+        }
+      ],
+      "orderIds": [
+        "s5",
+        "s3",
+        "s6",
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓔ → ⓐ → ⓒ → ⓕ → ⓓ → ⓗ → ⓑ → ⓘ → ⓖ (pp.136-137)",
+      "type": "order",
+      "promptEn": "6 다음 문장을 순서대로 누르시오.\nHi, Bora. What are you going to do this weekend?\nI'm planning to go to a zero waste shop. Do you know about zero waste shops?\nNo, I don't. Please tell me about them.\nThey don't sell items in containers, so you can reduce waste. Why don't you come with me?\nThat sounds great! What can I buy there?\nYou can buy a lot of items. For example, they have bags, shampoo, and some snacks.\nI see. I'm going to buy shampoo.\nYou should bring your own container, then. You can put the shampoo in it.\nOkay.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Hi, Bora. What are you going to do this weekend?"
+        },
+        {
+          "id": "s2",
+          "text": "I'm planning to go to a zero waste shop. Do you know about zero waste shops?"
+        },
+        {
+          "id": "s3",
+          "text": "No, I don't. Please tell me about them."
+        },
+        {
+          "id": "s4",
+          "text": "They don't sell items in containers, so you can reduce waste. Why don't you come with me?"
+        },
+        {
+          "id": "s5",
+          "text": "That sounds great! What can I buy there?"
+        },
+        {
+          "id": "s6",
+          "text": "You can buy a lot of items. For example, they have bags, shampoo, and some snacks."
+        },
+        {
+          "id": "s7",
+          "text": "I see. I'm going to buy shampoo."
+        },
+        {
+          "id": "s8",
+          "text": "You should bring your own container, then. You can put the shampoo in it."
+        },
+        {
+          "id": "s9",
+          "text": "Okay."
+        }
+      ],
+      "orderIds": [
+        "s5",
+        "s1",
+        "s3",
+        "s6",
+        "s4",
+        "s8",
+        "s2",
+        "s9",
+        "s7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓓ → ⓐ → ⓒ → ⓑ (pp.136-137)",
+      "type": "order",
+      "promptEn": "7 다음 문장을 순서대로 누르시오.\nOur class will take part in a zero waste week. Do you know about \"zero waste\"?\nYes, I do! But what can we do to reduce waste?\nWe can do a lot of things. For example, I will use my own water bottle.\nThat's a good idea! I will bring my own bag to the market.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Our class will take part in a zero waste week. Do you know about \"zero waste\"?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes, I do! But what can we do to reduce waste?"
+        },
+        {
+          "id": "s3",
+          "text": "We can do a lot of things. For example, I will use my own water bottle."
+        },
+        {
+          "id": "s4",
+          "text": "That's a good idea! I will bring my own bag to the market."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s1",
+        "s3",
+        "s2"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: ⓑ → ⓓ → ⓔ → ⓒ → ⓐ (pp.136-137)",
+      "type": "order",
+      "promptEn": "8 다음 문장을 순서대로 누르시오.\nSam, do you know about air pollution?\nYes, I do. It's becoming a serious problem. What can we do about it?\nWe can do a lot of things. For example, we can ride bikes to school. Also, we can walk more often.\nGreat ideas! We can also plant trees. Trees clean the air.\nRight. Let's help the environment.",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Sam, do you know about air pollution?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes, I do. It's becoming a serious problem. What can we do about it?"
+        },
+        {
+          "id": "s3",
+          "text": "We can do a lot of things. For example, we can ride bikes to school. Also, we can walk more often."
+        },
+        {
+          "id": "s4",
+          "text": "Great ideas! We can also plant trees. Trees clean the air."
+        },
+        {
+          "id": "s5",
+          "text": "Right. Let's help the environment."
+        }
+      ],
+      "orderIds": [
+        "s2",
+        "s4",
+        "s5",
+        "s3",
+        "s1"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 8문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 8
+    }
+  ]
+}

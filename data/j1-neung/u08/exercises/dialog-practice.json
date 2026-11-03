@@ -1,0 +1,149 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.196-197",
+  "questionCount": 4,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "2",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "3",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "5",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "6",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "7",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "8",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "10",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "11",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "13",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    },
+    {
+      "sourceId": "14",
+      "reason": "Dialog 실전 MC OCR (답지 pp.196-197)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 04)",
+      "type": "fill",
+      "promptEn": "다음을 문장 전체로 쓰시오.\nI'm curious about the story.",
+      "accept": [
+        "I'm curious about the story."
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 09)",
+      "type": "fill",
+      "promptEn": "다음을 쓰시오.\nCan you help me?",
+      "accept": [
+        "Can you help me?"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: about. (답지 12)",
+      "type": "fill",
+      "promptEn": "빈칸에 들어갈 전치사를 쓰시오.\nI'm curious ______ the story.",
+      "accept": [
+        "about"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (답지 15)",
+      "type": "sentence",
+      "promptEn": "다음을 문장 전체로 쓰시오.\nI learned that all emotions are important.",
+      "accept": [
+        "I learned that all emotions are important."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 4문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 4
+    }
+  ]
+}

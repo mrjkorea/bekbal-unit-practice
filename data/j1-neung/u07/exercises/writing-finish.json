@@ -1,0 +1,158 @@
+{
+  "id": "writing-finish",
+  "title": "서술형 끝내기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.168-171",
+  "questionCount": 2,
+  "omitted": [
+    {
+      "sourceId": "3",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "4",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "5",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "6",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "7",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "8",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "9",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "10",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "11",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "12",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "13",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "14",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "15",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "16",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "17",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "18",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "19",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "20",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "21",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "22",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "23",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "24",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    },
+    {
+      "sourceId": "25",
+      "reason": "서술형 다중 빈칸 OCR 미확정 (답지 pp.168-171)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: made with. (답지 01)",
+      "type": "fill",
+      "promptEn": "This cake is ______ chocolate and vanilla.",
+      "accept": [
+        "made with"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: storm. (답지 02)",
+      "type": "fill",
+      "promptEn": "Very bad weather with strong wind and rain: ______",
+      "accept": [
+        "storm"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}
