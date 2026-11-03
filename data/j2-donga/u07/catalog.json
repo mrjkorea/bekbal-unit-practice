@@ -177,6 +177,45 @@
           "questionCount": 26
         }
       ]
+    },
+    {
+      "key": "W",
+      "title": "Word focus",
+      "lane": "focus",
+      "note": "WordMaster packs · opens in Word Master",
+      "exercises": [
+        {
+          "id": "wm-j2donga_u07_words01",
+          "title": "Words 01 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://raw.githubusercontent.com/mrjkorea/word-master/main/packs/j2donga_u07_words01.json"
+        },
+        {
+          "id": "wm-j2donga_u07_words02",
+          "title": "Words 02 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://raw.githubusercontent.com/mrjkorea/word-master/main/packs/j2donga_u07_words02.json"
+        },
+        {
+          "id": "wm-j2donga_u07_expressions01",
+          "title": "Expressions · 18 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://raw.githubusercontent.com/mrjkorea/word-master/main/packs/j2donga_u07_expressions01.json"
+        },
+        {
+          "id": "wm-j2donga_u07_wordplus01",
+          "title": "Words Plus+ · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://raw.githubusercontent.com/mrjkorea/word-master/main/packs/j2donga_u07_wordplus01.json"
+        }
+      ]
+    },
+    {
+      "key": "G",
+      "title": "Grammar focus",
+      "lane": "focus",
+      "note": "Coming soon. Grammar packs will deep-link here later.",
+      "exercises": []
     }
   ]
 }
