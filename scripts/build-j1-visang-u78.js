@@ -1711,6 +1711,31 @@ finalStub("u08", "final-3", "최종점검 모의고사 3회", "X-10 pp.104-107",
   { kind: "sentence", n: 25, prompt: "나는 너에게 아이스크림을 주고 싶다.", accept: ["I want to give you an ice cream."], explain: "정답: I want to give you an ice cream. (최종 3회 25)" },
 ]);
 
+function wmCard(pack) {
+  return {
+    id: "wm-" + pack.id,
+    title: pack.title,
+    external: true,
+    href: "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/" + pack.id + ".json",
+  };
+}
+const WORD_PACKS = {
+  u07: [
+    { id: "j1visang_u07_words01", title: "Words 01 · 20 words" },
+    { id: "j1visang_u07_words02", title: "Words 02 · 20 words" },
+    { id: "j1visang_u07_expressions01", title: "Expressions · 21 words" },
+    { id: "j1visang_u07_wordplus01", title: "Words Plus+ · 13 words" },
+  ],
+  u08: [
+    { id: "j1visang_u08_words01", title: "Words 01 · 20 words" },
+    { id: "j1visang_u08_words02", title: "Words 02 · 20 words" },
+    { id: "j1visang_u08_words03", title: "Words 03 · 7 words" },
+    { id: "j1visang_u08_expressions01", title: "Expressions 01 · 20 words" },
+    { id: "j1visang_u08_expressions02", title: "Expressions 02 · 14 words" },
+    { id: "j1visang_u08_wordplus01", title: "Words Plus+ · 15 words" },
+  ],
+};
+
 function catalog(unit, label) {
   const order = [
     ["A", "A. 본책", ["vocab-check", "vocab-practice", "vocab-advanced", "dialog-detail", "dialog-complete", "dialog-order", "dialog-practice", "dialog-advanced", "grammar-check", "grammar-practice", "grammar-advanced", "reading-content", "reading-lexgram", "reading-order", "reading-writing", "reading-practice", "reading-advanced", "plus-practice", "writing-finish"]],
@@ -1774,7 +1799,7 @@ function catalog(unit, label) {
         return row;
       }),
     })).concat([
-      { key: "W", title: "Word focus", lane: "focus", note: "Coming soon. Word packs will deep-link here later.", exercises: [] },
+      { key: "W", title: "Word focus", lane: "focus", note: "WordMaster packs · opens in Word Master", exercises: (WORD_PACKS[unit] || []).map(wmCard) },
       { key: "G", title: "Grammar focus", lane: "focus", note: "Coming soon. Grammar packs will deep-link here later.", exercises: [] },
     ]),
   };

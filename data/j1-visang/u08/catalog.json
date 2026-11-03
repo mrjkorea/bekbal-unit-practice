@@ -217,8 +217,45 @@
       "key": "W",
       "title": "Word focus",
       "lane": "focus",
-      "note": "Coming soon. Word packs will deep-link here later.",
-      "exercises": []
+      "note": "WordMaster packs · opens in Word Master",
+      "exercises": [
+        {
+          "id": "wm-j1visang_u08_words01",
+          "title": "Words 01 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_words01.json"
+        },
+        {
+          "id": "wm-j1visang_u08_words02",
+          "title": "Words 02 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_words02.json"
+        },
+        {
+          "id": "wm-j1visang_u08_words03",
+          "title": "Words 03 · 7 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_words03.json"
+        },
+        {
+          "id": "wm-j1visang_u08_expressions01",
+          "title": "Expressions 01 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_expressions01.json"
+        },
+        {
+          "id": "wm-j1visang_u08_expressions02",
+          "title": "Expressions 02 · 14 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_expressions02.json"
+        },
+        {
+          "id": "wm-j1visang_u08_wordplus01",
+          "title": "Words Plus+ · 15 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u08_wordplus01.json"
+        }
+      ]
     },
     {
       "key": "G",
