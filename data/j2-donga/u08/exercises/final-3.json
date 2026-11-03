@@ -4,13 +4,8 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "104-107",
-  "questionCount": 24,
-  "omitted": [
-    {
-      "n": 15,
-      "reason": "정답표는 15 ①, 해설은 is를 are로 고치라고 하지만, 지문의 ①~⑤ 밑줄이 ‘③is’ 등으로 어긋나 다섯 밑줄을 확정할 수 없다."
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -193,7 +188,22 @@
       "explainKo": "안전한 여행을 위해 여행 가이드의 지시를 잘 따르라고 했을 뿐 구체적인 안전 수칙은 제시되어 있지 않으므로 ④는 알 수 없다. ① Parker 씨 ② 공룡을 보고 싶어서 ③ 6천만 년 전 ⑤ 두 명."
     },
     {
-      "id": 15,
+      "type": "TMC",
+      "question": "[15-18] 다음 글을 읽고, 물음에 답하시오.\n\n\"We've ①just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ⓐ______ leave it at any time. Do not touch ②anything. You ⓑ______ kill something by accident. A little ⓒ______ here can cause something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"Be careful. Some of the dinosaurs ③is hungry,\" said Travis. \"Just stay calm. I don't want you to do ④anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all ⑤began to walk on the path.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① just",
+        "② anything",
+        "③ is",
+        "④ anything foolish",
+        "⑤ began"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③. some of the dinosaurs는 복수이므로 is가 아니라 are가 알맞다.",
+      "group": "15",
+      "id": 15
+    },
+    {
+      "id": 16,
       "group": "16",
       "type": "TMC",
       "question": "[15-18] 다음 글을 읽고 물음에 답하시오.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ⓐ______ leave it at any time. Do not touch anything. You ⓑ______ kill something by accident. A little ______ here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs is hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n① must not / might\n② must not / must\n③ must not / should\n④ don't have to / might\n⑤ don't have to / must",
@@ -208,7 +218,7 @@
       "explainKo": "ⓐ 문맥상 ‘길을 벗어나면 안 된다’는 의미가 되어야 하므로 강한 금지를 나타내는 must not(~하면 안 된다)이 알맞다. (don't have to: ~할 필요가 없다) ⓑ 문맥상 ‘실수로 무언가를 죽일 수도 있다’는 추측의 의미가 되어야 하므로 might(~할지도 모른다)가 알맞다. (should: ~하는 게 좋다 / must: ~해야 한다)"
     },
     {
-      "id": 16,
+      "id": 17,
       "group": "17",
       "type": "TMC",
       "question": "[15-18] 다음 글을 읽고 물음에 답하시오.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little ______ here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs is hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸에 들어갈 말로 가장 적절한 것은?\n① success\n② help\n③ time\n④ change\n⑤ silence",
@@ -223,7 +233,7 @@
       "explainKo": "아무것도 만지지 말라고 한 것은 변화가 생기면 미래에 상상할 수 없는 일을 초래할 수 있기 때문이라는 흐름이므로 빈칸에는 ④ ‘변화’가 가장 적절하다. ① 성공 ② 도움 ③ 시간 ⑤ 침묵."
     },
     {
-      "id": 17,
+      "id": 18,
       "group": "18",
       "type": "TMC",
       "question": "[15-18] 다음 글을 읽고 물음에 답하시오.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs is hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\nAccording to the passage, which one is NOT true?\n① The travelers arrived in an ancient jungle.\n② Travis told them not to leave the path.\n③ The jungle was foggy and silent.\n④ Eckels was calm when he arrived in the jungle.\n⑤ Travis advised Eckels to stay calm.",
@@ -238,7 +248,7 @@
       "explainKo": "Eckels가 정글에 도착해서 신이 난다고 하자 Travis가 침착하게 있으라고 당부하는 상황이므로 ④ ‘Eckels는 정글에 도착했을 때 침착했다.’는 내용과 일치하지 않는다. ① 여행객들은 아주 오래전 정글에 도착했다. ② Travis는 그들에게 길을 벗어나지 말라고 말했다. ③ 정글은 안개가 자욱하고 고요했다. ⑤ Travis는 Eckels에게 침착하게 있으라고 당부했다."
     },
     {
-      "id": 18,
+      "id": 19,
       "group": "19",
       "type": "TMC",
       "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"Sh!\"\n\n\"It is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels. (①)\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\" (②)\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" (③)\n\nEckels turned around and started to run. (④)\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar. (⑤)\n\n\"Run, everybody! Run!\" shouted Travis.\n\n윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nHe was so terrified that he left the path by accident.",
@@ -253,7 +263,7 @@
       "explainKo": "주어진 문장의 He는 Eckels를 가리키며, Eckels가 너무 무서워서 뛰어가다가 실수로 길을 벗어났다는 내용이다. 따라서 Travis가 Eckels에게 조용히 걸어서 타임머신으로 돌아가라고 한 문장과 길을 벗어나지 말라고 Travis가 소리치는 문장 사이인 ④에 들어가는 것이 가장 적절하다."
     },
     {
-      "id": 19,
+      "id": 20,
       "group": "20",
       "type": "TST",
       "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run.\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar.\n\n\"Run, everybody! Run!\" shouted Travis.\n\n윗글의 내용과 일치하지 않는 부분을 바르게 고쳐 쓰시오.\n\nEckels first saw a T. rex about 100 meters away.",
@@ -265,7 +275,7 @@
       "explainKo": "Eckels가 아니라 Travis가 100미터쯤 떨어져 있는 티라노사우루스를 처음으로 보았다."
     },
     {
-      "id": 20,
+      "id": 21,
       "group": "21",
       "type": "TMC",
       "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was so terrified that he left the path by accident.\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar.\n\n\"Run, everybody! Run!\" shouted Travis.\n\n윗글의 마지막에 나타난 분위기로 가장 적절한 것은?\n① calm and peaceful\n② urgent and fearful\n③ boring and dull\n④ joyful and exciting\n⑤ relaxed and comfortable",
@@ -280,7 +290,7 @@
       "explainKo": "티라노사우루스가 여행객들을 향해 달려와서 도망치는 ② ‘긴박하고 무서운’ 상황이다. ① 차분하고 평화로운 ③ 지루하고 재미없는 ④ 즐겁고 신이 나는 ⑤ 여유롭고 편안한."
     },
     {
-      "id": 21,
+      "id": 22,
       "group": "22",
       "type": "TMC",
       "question": "[22-24] 다음 글을 읽고 물음에 답하시오.\n\nTravis and the other travelers returned safely to the machine and found Eckels inside.\n\n\"You put all of us ⓐ______ danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud ⓑ______ my shoes.\"\n\nTravis stared ⓒ______ Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked ⓓ______ the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\"\n\nEckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going ⓔ______?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked. In the mud on his right shoe, he found (A) a small dead butterfly.\n\n윗글의 빈칸 ⓐ~ⓔ에 들어갈 전치사로 적절하지 않은 것은?\n① ⓐ: in\n② ⓑ: on\n③ ⓒ: at\n④ ⓓ: around\n⑤ ⓔ: up",
@@ -295,7 +305,7 @@
       "explainKo": "ⓔ up → on. What's going on?: 무슨 일이야? go on: (계속) 일어나다, 발생하다."
     },
     {
-      "id": 22,
+      "id": 23,
       "group": "23",
       "type": "TST",
       "question": "[22-24] 다음 글을 읽고 물음에 답하시오.\n\nTravis and the other travelers returned safely to the machine and found Eckels inside.\n\n\"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\"\n\nEckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked. In the mud on his right shoe, he found (A) a small dead butterfly.\n\n윗글의 밑줄 친 (A)로 인해 일어난 현재의 변화 두 가지를 찾아 우리말로 간략히 쓰시오.\n(1)\n(2)",
@@ -306,7 +316,7 @@
       "explainKo": "예시 답안. (1) 벽에 걸린 간판이 달라짐. (2) TV에 나오는 대통령이 바뀜. Eckels는 방에서 벽에 걸린 간판을 빼고 모든 것이 똑같아 보인다고 했고, TV에 나오는 새로운 대통령이 Keith 씨가 아니라고 했다."
     },
     {
-      "id": 23,
+      "id": 24,
       "group": "24",
       "type": "TMC",
       "question": "[22-24] 다음 글을 읽고 물음에 답하시오.\n\nTravis and the other travelers returned safely to the machine and found Eckels inside.\n\n\"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\"\n\nEckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글의 내용을 잘못 이해한 사람은?\n① 수진: 여행객 모두가 현재로 무사히 돌아왔어.\n② 진수: Travis는 Eckels가 길을 벗어난 것을 나무랐어.\n③ 소영: Eckels는 Travis에게 사과하지 않았어.\n④ 영민: 사무실의 TV에서 새 대통령이 나오고 있었어.\n⑤ 민수: Eckels는 신발에서 나비 한 마리를 발견했어.",
@@ -321,7 +331,7 @@
       "explainKo": "Eckels는 I'm sorry(미안해요)라고 말한 뒤 아무것도 죽이지 않았다고 변명하였으므로 ③의 소영이 내용을 잘못 이해하였다."
     },
     {
-      "id": 24,
+      "id": 25,
       "group": "25",
       "type": "TST",
       "question": "다음 글의 밑줄 친 (a)의 우리말을 조건에 맞게 바르게 영작하시오.\n\nEckels found some changes in the present and was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do.\n\n\"What can I do to fix the problem?\" asked Eckels.\n\n\"Well, (a) 당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw something unthinkable.\n\n[조건]\n1. there, nothing, can을 이용할 것.\n2. 축약형을 이용하여 총 5단어로 쓸 것.",

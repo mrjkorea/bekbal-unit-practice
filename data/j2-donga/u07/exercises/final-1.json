@@ -4,21 +4,8 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "84-87",
-  "questionCount": 22,
-  "omitted": [
-    {
-      "n": 11,
-      "reason": "정답표가 0으로만 보이고, ⓐ~ⓔ 짝 선택지(① a, b / ② b, c 이후)가 줄이 섞여 ⑤까지 복원되지 않는다. 해설상 옳은 문장은 ⓐ·ⓓ·ⓔ이다."
-    },
-    {
-      "n": 14,
-      "reason": "흐름상 어색한 밑줄 ①~⑤ 중 지문에 ① celebrate만 보이고 ②~④ 위치가 없다. 해설은 Building을 Burning으로 고치라고 하나 그 밑줄 번호를 지문에서 확정할 수 없다."
-    },
-    {
-      "n": 24,
-      "reason": "정답표가 240으로 보여 자리 번호가 0이다. 해설 숫자는 ①로 읽히지만, 바로 앞 문장이 순록보다 빨리 달리라는 내용인 삽입 위치와 지문의 (①)이 두 번 찍혀 ④와 ①을 가를 수 없다."
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -166,7 +153,22 @@
       "explainKo": "보기와 ①~④의 It은 가주어이고, ⑤의 It은 거리를 나타내는 비인칭 주어이다. 보기: 새로운 나라로 여행하는 것은 신난다. ① 부모님께 거짓말하는 것은 나쁜 일이다. ② 미래를 위해 돈을 저축하는 것은 현명하다. ③ 친구들과 축구를 하는 것은 재미있다. ④ 오랫동안 기다리는 것은 지루하다. ⑤ 여기서 역까지 5km이다."
     },
     {
-      "id": 11,
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ It is useful to write down your goals.\nⓑ People call his the best singer in town.\nⓒ It is interesting learn about history.\nⓓ It is natural to feel excited before a big event.\nⓔ Many people call the movie a masterpiece.",
+      "answers": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓔ",
+        "ⓐ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ ⓐ, ⓓ, ⓔ. ⓑ call his → call him. call의 목적어는 목적격이다. ⓒ interesting learn → interesting to learn. It은 가주어이고 to부정사가 진주어이다.",
+      "group": "11",
+      "id": 11
+    },
+    {
+      "id": 12,
       "group": "12",
       "type": "TST",
       "question": "다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\n\nⓐ We call the new student a genius.\nⓑ That is challenging to learn a new language.\nⓒ The parents named their son Alex.\nⓓ The coach made the winner the player.\nⓔ It is hard to finish all the work in one day.",
@@ -178,7 +180,7 @@
       "explainKo": "ⓑ That → It. 「It is+형용사+to부정사」이므로 가주어 It을 쓴다. ⓓ the winner the player → the player the winner. '코치는 그 선수를 우승자로 만들었다'가 되도록 목적어와 목적격 보어를 바꾼다. ⓐ 우리는 그 새 학생을 천재라고 부른다. ⓒ 그 부모는 아들의 이름을 Alex라고 지었다. ⓔ 하루 만에 모든 일을 끝내는 것은 어렵다."
     },
     {
-      "id": 12,
+      "id": 13,
       "group": "13",
       "type": "TST",
       "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n\n[조건]\n1. it, walk, at, scary를 이용하되 필요시 어형을 바꿀 것.\n2. 총 8단어로 쓸 것.\n3. 대소문자 및 구두점에 유의할 것.\n\n밤에 혼자 걷는 것은 무섭다.",
@@ -189,7 +191,22 @@
       "explainKo": "가주어 it을 써서 「It is+형용사+to부정사」로 쓴다. alone은 '혼자', at night은 '밤에'이다. It is scary to walk alone at night."
     },
     {
-      "id": 13,
+      "type": "TMC",
+      "question": "[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\nPeople in Valencia ①celebrate the coming of spring with the Fallas festival. This festival ②takes place from March 15 to 19. During the festival, people ③enjoy parades and fireworks. The ④stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. ⑤Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "answers": [
+        "① celebrate",
+        "② takes place",
+        "③ enjoy",
+        "④ stars",
+        "⑤ Building"
+      ],
+      "corAns": "5",
+      "explainKo": "정답: ⑤. 바로 앞에서 파야를 축제 마지막 날에 불태운다고 했으므로 Building(만드는 것)이 아니라 Burning(불태우는 것)이 자연스럽다.",
+      "group": "14",
+      "id": 14
+    },
+    {
+      "id": 15,
       "group": "15",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. This festival takes place from March 15 to 19. During the festival, people enjoy parades and fireworks. The stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글을 읽고, Fallas 축제에 대해 알 수 없는 것은?\n① 축제 기간\n② 축제의 기원\n③ 축제에서 하는 활동\n④ 축제를 개최하는 이유\n⑤ fallas를 태우는 의미",
@@ -204,7 +221,7 @@
       "explainKo": "② 축제의 기원은 이 글에서 알 수 없다. ① 3월 15일부터 19일까지. ③ 퍼레이드와 불꽃놀이를 즐기고 파야를 불태운다. ④ 봄이 오는 것을 기념하기 위해. ⑤ 오래된 것과 작별하고 새 출발을 맞이하는 것을 상징한다."
     },
     {
-      "id": 14,
+      "id": 16,
       "group": "16",
       "type": "TST",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. This festival takes place from March 15 to 19. During the festival, people enjoy parades and fireworks. The stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오.\n\nA: What is the Fallas Festival in Valencia?\nB: It's a festival to ______.\nA: What are fallas?\nB: They are ______. People burn them at the end of the festival.",
@@ -216,7 +233,7 @@
       "explainKo": "Fallas 축제는 봄이 오는 것을 기념하는 축제이고, fallas는 거대한 나무 조각상이다."
     },
     {
-      "id": 15,
+      "id": 17,
       "group": "17",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\n윗글의 밑줄 친 ⓐ의 우리말을 영작할 때 빈칸에 들어갈 말로 가장 적절한 것은?\n\nThey ______ it the Midsummer festival.\n① make\n② call\n③ find\n④ have\n⑤ take",
@@ -231,7 +248,7 @@
       "explainKo": "~을 …라고 부르다는 「call+목적어+목적격 보어」이다."
     },
     {
-      "id": 16,
+      "id": 18,
       "group": "18",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around ⓑit. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\n윗글의 밑줄 친 ⓑ가 가리키는 것으로 가장 적절한 것은?\n① a tall pole\n② a flower\n③ the sun\n④ a festival\n⑤ a green leave",
@@ -246,7 +263,7 @@
       "explainKo": "사람들이 꽃과 녹색 잎으로 장식한 긴 기둥 주위에서 전통 춤을 즐기므로 it이 가리키는 것은 ① 긴 기둥(a tall pole)이다."
     },
     {
-      "id": 17,
+      "id": 19,
       "group": "19",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\nAccording to the passage, which one is NOT true?\n① People in Sweden welcome summer because their winter is long and dark.\n② People celebrate the longest day of the year with the Midsummer festival.\n③ The Midsummer festival in Sweden begins on Monday and lasts for one week.\n④ A tall pole is decorated with flowers and green leaves during the festival.\n⑤ The sun hardly sets in Sweden at this time, so people can enjoy the festival all night.",
@@ -261,7 +278,7 @@
       "explainKo": "Midsummer 축제는 금요일에 시작해 일요일에 끝나는 3일간의 축제이다. ③ '월요일에 시작해 일주일 동안 계속된다'는 내용과 일치하지 않는다. ① 겨울이 길고 어둡기 때문에 여름을 반긴다. ② 1년 중 가장 긴 낮을 Midsummer 축제로 기념한다. ④ 축제 동안 긴 기둥이 꽃과 초록 잎으로 장식된다. ⑤ 이 시기 해가 거의 지지 않아 밤새 축제를 즐길 수 있다."
     },
     {
-      "id": 18,
+      "id": 20,
       "group": "20",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that ①once a year dead people ②come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important to remember dead people. So, people ③set up altars in their homes and ④have big parties in cemeteries. In some areas, people ⑤dress up like skeletons and hold big parades.\n\n윗글의 밑줄 친 ①~⑤의 뜻풀이가 바르지 않은 것은?\n① 일 년에 한 번\n② 돌아오다\n③ 제공하다\n④ 큰 파티를 열다\n⑤ 분장하다",
@@ -276,7 +293,7 @@
       "explainKo": "③ set up은 '설치하다, 세우다'라는 의미이다. '제공하다'는 바르지 않다."
     },
     {
-      "id": 19,
+      "id": 21,
       "group": "21",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓐto remember dead people. So, people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?\n① Do you have any questions to ask?\n② He bought clothes to wear for the party.\n③ She joined the club to meet new friends.\n④ It is hard to wake up early in the winter.\n⑤ I'm going to travel to Korea next summer.",
@@ -291,7 +308,7 @@
       "explainKo": "ⓐ to remember와 ④ to wake up은 「It+be동사+형용사+to부정사」에서 진주어 역할을 하는 명사적 용법이다. ① 물어볼 질문이 있니? (형용사적 용법) ② 그는 파티에서 입을 옷을 샀다. (형용사적 용법) ③ 그녀는 새 친구들을 만나기 위해 그 동아리에 가입했다. (부사적 용법: 목적) ⑤ be going to+동사원형은 미래 표현이다."
     },
     {
-      "id": 20,
+      "id": 22,
       "group": "22",
       "type": "TST",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important to remember dead people. So, people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n\nQ. Why do Mexicans celebrate the Day of the Dead?\n→ Mexicans celebrate the Day of the Dead to ______ dead people and ______ them.",
@@ -303,7 +320,7 @@
       "explainKo": "멕시코 사람들은 죽은 사람들을 맞이하고 그들을 기억하기 위해 죽은 자의 날을 기념한다."
     },
     {
-      "id": 21,
+      "id": 23,
       "group": "23",
       "type": "TST",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the ⓐ(big) winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run ⓑ(fast) than reindeer. Not really, but it doesn't matter. Everyone is just having fun!\n\n윗글의 괄호 ⓐ와 ⓑ 안의 단어를 어법상 적절한 형태로 바꿔 쓰시오.",
@@ -315,7 +332,22 @@
       "explainKo": "ⓐ one of the+최상급+복수명사이므로 biggest가 알맞다. ⓑ than이 있으므로 비교급 faster가 알맞다."
     },
     {
-      "id": 22,
+      "type": "TMC",
+      "question": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. (①) During this festival, visitors can enjoy various winter sports and Alaskan traditional games. (②) They can also enjoy many special events such as the Running of the Reindeer. (③) People who participate in this race wear fun costumes and try to run faster than reindeer. (④) Not really, but it doesn't matter. Everyone is just having fun! (⑤)\n\n윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nIs it possible to do so?",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④. to do so는 바로 앞의 to run faster than reindeer(순록보다 빨리 달리는 것)를 받는다. 그 뒤에 Not really가 이어진다.",
+      "group": "24",
+      "id": 24
+    },
+    {
+      "id": 25,
       "group": "25",
       "type": "TMC",
       "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't matter. Everyone is just having fun!\n\n윗글을 읽고, 대답할 수 없는 질문은?\n① When is the Fur Rondy festival held?\n② Where is the Fur Rondy festival held?\n③ How long does the Fur Rondy festival last?\n④ What can visitors enjoy during the festival?\n⑤ What do people wear when they participate in the Running of the Reindeer?",

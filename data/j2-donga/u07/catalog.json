@@ -3,7 +3,7 @@
   "unit": "u07",
   "label": "Lesson 07 Let's Enjoy Festivals",
   "status": "ready",
-  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. L07 본책은 답지로 남은 문항까지 넣었습니다.",
+  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. L07 본책과 X-10 최종점검은 질문 PDF와 답지로 대조했습니다.",
   "sections": [
     {
       "key": "A",
@@ -164,20 +164,17 @@
         {
           "id": "final-1",
           "title": "최종점검 모의고사 1회",
-          "questionCount": 22,
-          "omittedCount": 3
+          "questionCount": 25
         },
         {
           "id": "final-2",
           "title": "최종점검 모의고사 2회",
-          "questionCount": 19,
-          "omittedCount": 6
+          "questionCount": 25
         },
         {
           "id": "final-3",
           "title": "최종점검 모의고사 3회",
-          "questionCount": 22,
-          "omittedCount": 3
+          "questionCount": 25
         }
       ]
     }

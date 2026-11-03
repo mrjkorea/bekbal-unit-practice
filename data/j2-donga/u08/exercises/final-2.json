@@ -4,29 +4,8 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "100-103",
-  "questionCount": 20,
-  "omitted": [
-    {
-      "n": 7,
-      "reason": "Choose ALL 문항인데 ①번 영어 문장이 OCR에 없고 ‘not’만 남아 선택지 전체를 확정할 수 없다."
-    },
-    {
-      "n": 9,
-      "reason": "정답표는 ‘09 ①’로 읽히는데 해설은 has gone to를 설명하고, 선택지에서 ① goes to와 ④ has gone to가 겹쳐 번호를 확정할 수 없다."
-    },
-    {
-      "n": 12,
-      "reason": "(A)(B)(C) 선택 표가 열끼리 섞여 founder/lucky/must의 번호를 확정할 수 없다. 정답표도 ‘12 O’이다."
-    },
-    {
-      "n": 20,
-      "reason": "해설은 ③ such를 so로 고쳐야 한다고 하지만, 지문의 ①~⑤ 밑줄 위치를 모두 특정할 수 없다."
-    },
-    {
-      "n": 24,
-      "reason": "해설은 ② looked for를 looked around로 고쳐야 한다고 하지만, ④·⑤ 밑줄이 OCR에 없다."
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -109,7 +88,22 @@
       "explainKo": "⑤는 ‘그가 일본에 가서 현재 여기에 없다’는 의미로 현재완료의 ‘결과’를 나타내고, 나머지는 모두 ‘경험’을 나타낸다. ① 너는 유럽에 가 본 적이 있니? ② 나는 유성을 본 적이 없다. ③ 그녀는 전에 멕시코 음식을 먹어 본 적이 있다. ④ 우리는 제주도를 여러 번 방문했다. ⑤ 그는 삼촌을 뵈러 일본에 갔다."
     },
     {
-      "id": 7,
+      "type": "TST",
+      "question": "Which ones are NOT grammatically correct? Choose ALL.\n\n① I've just finished my report.\n② Don't say anything bad about him.\n③ I have met him in Busan last summer.\n④ Has she ever tried bungee jumping?\n⑤ There wasn't nothing wrong in the machine.",
+      "answers": [
+        "3, 5",
+        "3,5",
+        "③, ⑤",
+        "③,⑤",
+        "3, ⑤",
+        "③, 5"
+      ],
+      "explainKo": "정답: ③, ⑤. ③ last summer는 과거 시점과 함께 쓰이므로 have met이 아니라 met이다. ⑤ wasn't와 nothing을 같이 쓰면 이중부정이므로 wasn't anything 또는 was nothing이 되어야 한다.",
+      "group": "07",
+      "id": 7
+    },
+    {
+      "id": 8,
       "group": "08",
       "type": "TST",
       "question": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.\n\nWe ⓐ(know) each other since elementary school.\nThey ⓑ(arrive) at the meeting 30 minutes ago.",
@@ -122,7 +116,22 @@
       "explainKo": "ⓐ 초등학교 이후부터 지금까지 알고 지내는 것이므로 현재완료 have known이 알맞다. ⓑ ‘30분 전’은 명백한 과거 시점이므로 과거시제 arrived가 알맞다. 우리는 초등학교 때부터 서로 알고 지내 왔다. 그들은 30분 전에 회의에 도착했다."
     },
     {
-      "id": 8,
+      "type": "TMC",
+      "question": "다음 우리말을 영작할 때 빈칸에 들어갈 말로 가장 적절한 것은?\n\n나의 상사는 중국에 출장을 가서 지금 사무실에 없다.\n→ My boss ______ China on business, so he isn't in the office now.",
+      "answers": [
+        "goes to",
+        "was in",
+        "was going to",
+        "has gone to",
+        "has been to"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ has gone to. 지금 사무실에 없는 결과이므로 현재완료 has gone to가 알맞다. has been to는 다녀온 경험이다.",
+      "group": "09",
+      "id": 9
+    },
+    {
+      "id": 10,
       "group": "10",
       "type": "TST",
       "question": "다음 문장에서 어법상 틀린 부분을 모두 고쳐 문장을 다시 쓰시오.\n\nDon't do dangerous nothing.",
@@ -133,7 +142,7 @@
       "explainKo": "부정 명령문이므로 nothing을 anything으로 고치고, -thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 Don't do anything dangerous.가 되어야 한다. 위험한 것을 하지 마라."
     },
     {
-      "id": 9,
+      "id": 11,
       "group": "11",
       "type": "TMC",
       "question": "[11-12] 다음 글을 읽고 물음에 답하시오.\n\nEckels walked ⓐ______ the office of Time Travel. The big sign on the wall said, \"NAME ANY YEAR ⓑ______ THE PAST. WE TAKE YOU THERE.\" There was a TV on the wall, and Mr. Keith, the new president, was ⓒ______ the news.\n\n\"How can we help you?\" said Mr. Parker, the (A)[finder / founder] of Time Travel.\n\n\"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels.\n\n\"Sure,\" said Mr. Parker. \"We can take you back ⓓ______ the jungle of 60 million years ago.\"\n\n\"Great,\" said Eckels. \"Can you take me there now?\"\n\n\"You're (B)[lucky / unlucky]. There's a time machine that leaves ⓔ______ 10 minutes,\" said Mr. Parker.\n\n\"This is Travis, your travel guide,\" he continued. \"To stay safe, you (C)[must / don't have to] follow his instructions.\"\n\n윗글의 빈칸 ⓐ~ⓔ에 들어갈 말로 적절하지 않은 것은?\n① ⓐ: into\n② ⓑ: IN\n③ ⓒ: on\n④ ⓓ: from\n⑤ ⓔ: in",
@@ -148,7 +157,22 @@
       "explainKo": "④ from → to. take A back to B: A를 B로 되돌려 보내다, 데려가다."
     },
     {
-      "id": 10,
+      "type": "TMC",
+      "question": "[11-12] 다음 글을 읽고, 물음에 답하시오.\n\nEckels walked into the office of Time Travel. The big sign on the wall said, \"NAME ANY YEAR IN THE PAST. WE TAKE YOU THERE.\" There was a TV on the wall, and Mr. Keith, the new president, was on the news.\n\n\"How can we help you?\" said Mr. Parker, the (A)[finder / founder] of Time Travel.\n\n\"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels.\n\n\"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\"\n\n\"Great,\" said Eckels. \"Can you take me there now?\"\n\n\"You're (B)[lucky / unlucky]. There's a time machine that leaves in 10 minutes,\" said Mr. Parker.\n\n\"This is Travis, your travel guide,\" he continued. \"To stay safe, you (C)[must / don't have to] follow his instructions.\"\n\n윗글의 (A)~(C)의 각 괄호 안에서 문맥상 적절한 것을 골라 바르게 짝지은 것은?\n\n① finder / lucky / don't have to\n② finder / unlucky / don't have to\n③ founder / lucky / must\n④ founder / unlucky / must\n⑤ founder / lucky / don't have to",
+      "answers": [
+        "finder / lucky / don't have to",
+        "finder / unlucky / don't have to",
+        "founder / lucky / must",
+        "founder / unlucky / must",
+        "founder / lucky / don't have to"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ founder / lucky / must. (A) Time Travel을 세운 사람이므로 founder이다. (B) 10분 뒤 출발하는 타임머신이 있으므로 lucky이다. (C) 가이드의 지시를 따라야 하므로 must이다.",
+      "group": "12",
+      "id": 12
+    },
+    {
+      "id": 13,
       "group": "13",
       "type": "TMC",
       "question": "[13-15] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there ⓐ[was / were] two other travelers. Eckels sat down and closed his eyes. He felt the machine ⓑ[to move / moving] under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? (A) You must not leave it at any time. Do not touch ⓒ[anything / nothing]. You might kill something by accident. (B) 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글의 ⓐ~ⓒ의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지은 것은?\n① was / to move / anything\n② was / moving / nothing\n③ were / to move / anything\n④ were / to move / nothing\n⑤ were / moving / anything",
@@ -163,7 +187,7 @@
       "explainKo": "ⓐ there+be동사 구문에서 be동사 뒤에 오는 주어 two other travelers가 복수이므로 were가 알맞다. ⓑ 지각동사 felt는 목적격보어로 현재분사나 동사원형을 쓰므로 moving이 알맞다. ⓒ 앞에 부정어 not이 이미 있으므로 anything이 알맞다."
     },
     {
-      "id": 11,
+      "id": 14,
       "group": "14",
       "type": "TMC",
       "question": "[13-15] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moving under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? (A) You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글의 내용으로 보아, 밑줄 친 (A)와 같이 말한 이유로 가장 적절한 것은?\n① 정글에서 길을 잃기 쉬워서\n② 정글에 위험한 동물이 많아서\n③ 정글을 여행하는 시간이 짧아서\n④ 정글에서 인원을 통제하기 힘들어서\n⑤ 길을 벗어나면 정글을 훼손할 수 있어서",
@@ -178,7 +202,7 @@
       "explainKo": "길을 벗어나지 말라고 한 것은 길을 벗어났다가 실수로 정글을 훼손할 수도 있기 때문이다. 이 경우, 미래에 상상할 수 없는 결과를 초래할 수 있다고 하였다."
     },
     {
-      "id": 12,
+      "id": 15,
       "group": "15",
       "type": "TMC",
       "question": "[13-15] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moving under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? (A) You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글의 밑줄 친 (B)의 우리말을 다음과 같이 영작할 때, something이 들어갈 위치로 가장 알맞은 곳은?\n\nA little (①) change (②) here can cause (③) unthinkable (④) in the future (⑤).",
@@ -193,7 +217,7 @@
       "explainKo": "-thing으로 끝나는 부정대명사는 「부정대명사+형용사」의 어순으로 쓰이므로 형용사 unthinkable 앞인 ③에 들어가야 한다."
     },
     {
-      "id": 13,
+      "id": 16,
       "group": "16",
       "type": "TMC",
       "question": "[16-18] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone ⓐgot out of the time machine. The jungle ⓑwas covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. (A) 나는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\nⓒAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex ⓓslowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It ... is huge. ⓔI've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n윗글의 밑줄 친 ⓐ~ⓔ의 뜻풀이가 바르지 않은 것은?\n① ⓐ: ~에서 내렸다\n② ⓑ: ~을 가리고 있었다\n③ ⓒ: 얼마 후에\n④ ⓓ: 서서히 나타났다\n⑤ ⓔ: 나는 본 적이 없다",
@@ -208,7 +232,7 @@
       "explainKo": "ⓑ be covered in은 ‘~로 덮여 있다’라는 의미이다. ‘~을 가리고 있었다’는 바르지 않다."
     },
     {
-      "id": 14,
+      "id": 17,
       "group": "17",
       "type": "TST",
       "question": "[16-18] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. (A) 나는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 밑줄 친 (A)의 우리말에 맞도록 <보기>에서 알맞은 단어를 골라 문장을 완성하시오. (필요시 어형을 바꿀 것)\n\n<보기>\nanything / do / nothing / fool\n\nI don't want ______.",
@@ -220,7 +244,7 @@
       "explainKo": "want는 to부정사를 목적격보어로 쓰므로 don't want you to do가 되고, 부정어 don't가 있으므로 anything과 fool의 형용사형 foolish를 사용하여 anything foolish를 이어 쓴다."
     },
     {
-      "id": 15,
+      "id": 18,
       "group": "18",
       "type": "TMC",
       "question": "[16-18] 다음 글을 읽고 물음에 답하시오.\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. (A) 나는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It ... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n윗글에 드러난 Eckels의 심경 변화로 가장 적절한 것은?\n① calm → bored\n② excited → terrified\n③ happy → angry\n④ confused → scared\n⑤ hopeful → disappointed",
@@ -235,7 +259,7 @@
       "explainKo": "Eckels는 정글에 도착하여 공룡을 볼 생각에 신이 났지만 실제로 공룡이 나타나자 무서워했으므로 심경 변화로는 ② ‘신이 난 → 무서워하는’이 가장 적절하다. ① 침착한 → 지루해하는 ③ 행복한 → 화가 난 ④ 혼란스러운 → 무서워하는 ⑤ 희망에 찬 → 실망한."
     },
     {
-      "id": 16,
+      "id": 19,
       "group": "19",
       "type": "TST",
       "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis.\n\n(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" Eckels turned around and started to run. He was such terrified that he left the path by accident.\n\n(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence.\n\n윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
@@ -248,7 +272,22 @@
       "explainKo": "Eckels가 이곳에서 나가게 해달라는 말에 이어, Travis가 타임머신으로 돌아가라고 말하는 (B)가 오고, Eckels가 길을 벗어나자 Travis가 소리치는 (C)가 온 다음, 마지막으로 그 소리를 들은 티라노사우루스가 그들을 향해 달려오는 (A)로 이어지는 흐름이 자연스럽다."
     },
     {
-      "id": 17,
+      "type": "TMC",
+      "question": "[19-21] 다음 글을 읽고, 물음에 답하시오.\n\n\"I can't breathe,\" said Eckels. \"①Get me out of here!\"\n\n(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis.\n\n(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk ②quietly back to the machine.\" Eckels turned around and started to run. He was ③such terrified that he left the path by accident.\n\n(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and ④turned its head toward him and the other travelers. There ⑤was a moment of silence.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① Get",
+        "② quietly",
+        "③ such",
+        "④ turned",
+        "⑤ was"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③. terrified는 형용사이므로 such가 아니라 so가 알맞다. so terrified that.",
+      "group": "20",
+      "id": 20
+    },
+    {
+      "id": 21,
       "group": "21",
       "type": "TST",
       "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis.\n\n(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" Eckels turned around and started to run. He was such terrified that he left the path by accident.\n\n(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
@@ -261,7 +300,7 @@
       "explainKo": "ⓐ의 it은 티라노사우루스를 가리키고, ⓑ의 them은 티라노사우루스가 돌진한 대상인 Travis와 다른 여행객들을 가리킨다."
     },
     {
-      "id": 18,
+      "id": 22,
       "group": "22",
       "type": "TMC",
       "question": "[22-23] 다음 글을 읽고, 물음에 답하시오.\n\nTravis and the other travelers returned safely to the machine and found Eckels inside.\n\n\"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill ⓐ______,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying ⓑ______.\n\n\"Let's go home,\" said Travis finally.\n\n윗글의 빈칸 ⓐ와 ⓑ에 공통으로 들어갈 말로 가장 적절한 것은?\n① thing\n② anything\n③ nothing\n④ anyone\n⑤ everything",
@@ -276,7 +315,7 @@
       "explainKo": "ⓐ는 부정문이므로 anything이나 anyone이 들어갈 수 있는데, ⓑ가 ‘아무 말도 하지 않고’의 의미이므로 공통으로 알맞은 말은 anything이다."
     },
     {
-      "id": 19,
+      "id": 23,
       "group": "23",
       "type": "TMC",
       "question": "[22-23] 다음 글을 읽고, 물음에 답하시오.\n\nTravis and the other travelers returned safely to the machine and found Eckels inside.\n\n\"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nAccording to the passage, which one is NOT true?\n① 모든 여행객이 안전하게 타임머신으로 돌아왔다.\n② Travis는 Eckels의 부주의한 행동에 대해 화를 냈다.\n③ Eckels는 사과하고 어떠한 변명도 하지 않았다.\n④ Travis는 Eckels를 말없이 쳐다보았다.\n⑤ Travis는 결국 집으로 돌아가기로 했다.",
@@ -291,7 +330,22 @@
       "explainKo": "Eckels는 I'm sorry라고 사과의 말을 하기는 했지만, 아무것도 죽이지 않았다고 변명하고 있으므로 ③은 내용과 일치하지 않는다."
     },
     {
-      "id": 20,
+      "type": "TMC",
+      "question": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n\nThe machine stopped. They all ①returned to the present safely.\n\"Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\nEckels ②looked for the room carefully. Everything looked the same, ③except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\nHe sat down and ④looked closely at the mud on his shoes.\n\"No, it can't be,\" said Eckels. \"It's all ⑤because of this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글의 밑줄 친 ①~⑤ 중 흐름상 적절하지 않은 것은?",
+      "answers": [
+        "① returned",
+        "② looked for",
+        "③ except",
+        "④ looked closely",
+        "⑤ because of"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: ②. 방을 찾았다는 looked for가 아니라, 방 안을 둘러보았다는 looked around가 문맥에 맞다.",
+      "group": "24",
+      "id": 24
+    },
+    {
+      "id": 25,
       "group": "25",
       "type": "TMC",
       "question": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked for the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\"\n\nEckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글의 내용을 다음과 같이 요약할 때, 빈칸에 들어갈 말로 가장 적절한 것은?\n\nAfter he returned to the present, Eckels noticed something strange. The sign on the wall was changed, and the president on TV was different. He finally realized that ______ caused these differences.\n① a mistake in the present\n② following the travel rules\n③ a small change in the past\n④ the travelers' careful behavior\n⑤ the errors in the time machine",

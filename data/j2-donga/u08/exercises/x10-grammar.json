@@ -7,14 +7,8 @@
     "46",
     "47"
   ],
-  "questionCount": 28,
-  "omitted": [
-    {
-      "id": "grammar-p1m-01",
-      "group": "P1M-01",
-      "reason": "우리말 문장과 영어 문장 틀이 모두 읽히지 않음. 단어 (have / several / Japan / visit / times)와 정답 have visited Japan several times만 남음."
-    }
-  ],
+  "questionCount": 29,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -77,7 +71,20 @@
       "explainKo": "정답: have just arrived"
     },
     {
-      "id": 6,
+      "type": "TST",
+      "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n나는 일본을 여러 번 방문해 봤다. (have / several / Japan / visit / times)\n→ I __________.",
+      "answers": [
+        "have visited Japan several times",
+        "havevisitedJapanseveraltimes",
+        "I have visited Japan several times",
+        "I have visited Japan several times."
+      ],
+      "explainKo": "정답: have visited Japan several times. 여러 번 방문한 경험이므로 현재완료 have visited를 쓴다.",
+      "group": "P1M-01",
+      "id": 6
+    },
+    {
+      "id": 7,
       "group": "P1M-02",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(you / ever / to / have / be)\n→ __________ a music festival?",
@@ -89,7 +96,7 @@
       "explainKo": "정답: Have you ever been to"
     },
     {
-      "id": 7,
+      "id": 8,
       "group": "P1M-03",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(just arrive / at / have / the airport)\n→ They __________ after a long journey.",
@@ -101,7 +108,7 @@
       "explainKo": "정답: have just arrived at the airport"
     },
     {
-      "id": 8,
+      "id": 9,
       "group": "P1M-04",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(never / delicious food / such / eat / have)\n__________ before.",
@@ -113,7 +120,7 @@
       "explainKo": "정답: have never eaten such delicious food"
     },
     {
-      "id": 9,
+      "id": 10,
       "group": "P1M-05",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(finish / have / not / my homework)\n__________ yet, so I can't go out.",
@@ -125,7 +132,7 @@
       "explainKo": "정답: have not finished my homework"
     },
     {
-      "id": 10,
+      "id": 11,
       "group": "P1M-06",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n나는 지갑을 잃어버려서 지금 식사 값을 낼 수 없다. (lose / wallet / have / my)\n→ I __________ so I can't pay for the meal now.",
@@ -137,7 +144,7 @@
       "explainKo": "정답: have lost my wallet"
     },
     {
-      "id": 11,
+      "id": 12,
       "group": "P1M-07",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(prepare / have / everything / already)\n→ We __________ for the party tonight.",
@@ -149,7 +156,7 @@
       "explainKo": "정답: have already prepared everything"
     },
     {
-      "id": 12,
+      "id": 13,
       "group": "P1M-08",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(go / Busan / on vacation / have / to)\n→ He __________ and he will come back next week.",
@@ -161,7 +168,7 @@
       "explainKo": "정답: has gone to Busan on vacation"
     },
     {
-      "id": 13,
+      "id": 14,
       "group": "P1M-09",
       "type": "TST",
       "question": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n(stay / for / in / have / two weeks / Seoul)\nShe __________ on a trip.",
@@ -173,7 +180,7 @@
       "explainKo": "정답: has stayed in Seoul for two weeks"
     },
     {
-      "id": 14,
+      "id": 15,
       "group": "P2-01",
       "type": "TST",
       "question": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nThere's wrong nothing with his answer",
@@ -194,7 +201,7 @@
       "explainKo": "정답: wrong nothing → nothing wrong"
     },
     {
-      "id": 15,
+      "id": 16,
       "group": "P2-02",
       "type": "TST",
       "question": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nI saw something strangely in the dark",
@@ -213,7 +220,7 @@
       "explainKo": "정답: strangely → strange"
     },
     {
-      "id": 16,
+      "id": 17,
       "group": "P2-03",
       "type": "TST",
       "question": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nIs there interesting anything on TV?",
@@ -234,7 +241,7 @@
       "explainKo": "정답: interesting anything → anything interesting"
     },
     {
-      "id": 17,
+      "id": 18,
       "group": "P2-04",
       "type": "TST",
       "question": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nI don't want you to do anything fool",
@@ -253,7 +260,7 @@
       "explainKo": "정답: fool → foolish"
     },
     {
-      "id": 18,
+      "id": 19,
       "group": "P2-05",
       "type": "TST",
       "question": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nA little change can cause unthinkable something",
@@ -274,7 +281,7 @@
       "explainKo": "정답: unthinkable something → something unthinkable"
     },
     {
-      "id": 19,
+      "id": 20,
       "group": "P2M-01",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(new / in / something / class)\nWe learned __________ today.",
@@ -286,7 +293,7 @@
       "explainKo": "정답: something new in class"
     },
     {
-      "id": 20,
+      "id": 21,
       "group": "P2M-02",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(famous / at / someone / the event)\n→ I met __________.",
@@ -298,7 +305,7 @@
       "explainKo": "정답: someone famous at the event"
     },
     {
-      "id": 21,
+      "id": 22,
       "group": "P2M-03",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(is / nothing / there / special)\n__________ about this place.",
@@ -310,7 +317,7 @@
       "explainKo": "정답: There is nothing special"
     },
     {
-      "id": 22,
+      "id": 23,
       "group": "P2M-04",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(creative / in / something / the meeting)\n→ He said __________.",
@@ -322,7 +329,7 @@
       "explainKo": "정답: something creative in the meeting"
     },
     {
-      "id": 23,
+      "id": 24,
       "group": "P2M-05",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(in / helpful / anything / the book)\nShe didn't find __________.",
@@ -334,7 +341,7 @@
       "explainKo": "정답: anything helpful in the book"
     },
     {
-      "id": 24,
+      "id": 25,
       "group": "P2M-06",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(outside / strange / something / the window)\n→ He saw __________.",
@@ -346,7 +353,7 @@
       "explainKo": "정답: something strange outside the window"
     },
     {
-      "id": 25,
+      "id": 26,
       "group": "P2M-07",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(wrong / computer / something / my / with)\nThere is __________.",
@@ -358,7 +365,7 @@
       "explainKo": "정답: something wrong with my computer"
     },
     {
-      "id": 26,
+      "id": 27,
       "group": "P2M-08",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(hear / unusual / did / anything / you)\n__________ last night?",
@@ -370,7 +377,7 @@
       "explainKo": "정답: Did you hear anything unusual"
     },
     {
-      "id": 27,
+      "id": 28,
       "group": "P2M-09",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(nobody / to leave / ready)\n→ There is __________ for the trip.",
@@ -382,7 +389,7 @@
       "explainKo": "정답: nobody ready to leave"
     },
     {
-      "id": 28,
+      "id": 29,
       "group": "P2M-10",
       "type": "TST",
       "question": "Point 2 thing +. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(sweet / eat / something / to)\nHe bought __________ after dinner.",
