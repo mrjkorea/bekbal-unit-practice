@@ -26,6 +26,7 @@ function numberList(s) {
 function mcAsWrite(item) {
   if (item.type === "mc" || item.type === "bank" || item.type === "order" || item.type === "ox") return false;
   if (item.type === "parts" && (item.parts || []).some((p) => p.kind === "mc")) return false;
+  if (item.type === "parts" && !(item.parts || []).some((p) => (p.accept || []).some(numberList))) return false;
   if (!asksChoose(item)) return false;
   const accepts = item.accept || [];
   if (accepts.some(numberList)) return true;
@@ -77,6 +78,25 @@ function shortCommaList(s) {
   if (bits.some((b) => b.split(/\s+/).length > 4)) return false;
   return true;
 }
+function packedNumberSlots(s) {
+  const t = String(s || "");
+  const marks = t.match(/\(\s*\d+\s*\)/g) || [];
+  if (marks.length >= 2) return true;
+  return marks.length === 1 && /\S\s+\(\s*\d+\s*\)/.test(t);
+}
+function numberedBlankCount(text) {
+  return [...String(text || "").matchAll(/[（(]\s*\d+\s*[)）]\s*_{2,}/g)].length;
+}
+function listedNumberSlots(text) {
+  return String(text || "").split("\n").map((l) => l.trim()).filter((l) => /^\(\s*[1-9]\s*\)$/.test(l)).length;
+}
+function answerStrings(item) {
+  const list = (item.accept || []).slice();
+  for (const part of item.parts || []) {
+    for (const a of part.accept || []) list.push(a);
+  }
+  return list;
+}
 function packedAccept(s, accepts) {
   const t = String(s || "").trim();
   if (!t) return false;
@@ -88,11 +108,16 @@ function packedAccept(s, accepts) {
   return false;
 }
 function packedKind(item) {
+  const answers = answerStrings(item);
+  if (item.type === "fill" || item.type === "parts") {
+    if (answers.some(packedNumberSlots)) return "multi-blank";
+  }
   if (item.type !== "fill") return null;
   const accepts = item.accept || [];
   if (accepts.some(letterSequence) || compactOrderLetters(item)) return "letter-seq";
   if (item.focusBlank) return null;
   if (accepts.some((a) => packedAccept(a, accepts))) return "multi-blank";
+  if (numberedBlankCount(item.promptEn) >= 2 || listedNumberSlots(item.promptEn) >= 2) return "multi-blank";
   const n = markers(item.promptEn);
   if (n < 2) return null;
   const bits = commaBits(accepts[0]);

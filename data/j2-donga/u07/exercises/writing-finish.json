@@ -9,7 +9,7 @@
     "170",
     "171"
   ],
-  "questionCount": 33,
+  "questionCount": 30,
   "omitted": [],
   "questions": [
     {
@@ -419,56 +419,17 @@
           "label": "고친 문장 전체",
           "placeholder": "고친 문장 전체",
           "accept": [
-            "People call m"
+            "People call me Ben instead of Benjamin"
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓐ만 고칩니다.",
+      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 그중 하나만 고칩니다.",
       "id": "15-1",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
       "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
       "answerModeTag": "Choose · 기호 + 고친 문장",
-      "label": "18"
-    },
-    {
-      "sourceId": 15,
-      "group": "15",
-      "explainKo": "ⓐ to 삭제. 「call + 목적어 + 목적격 보어」 형태로 쓰며 목적격 보어 앞에 전치사는 필요 없다. ⓑ 목적격 보어는 목적어 뒤에 온다. ⓐ 사람들은 나를 Benjamin 대신 Ben이라고 부른다. ⓑ 그녀는 그를 최고의 친구로 여긴다. ⓒ 우리는 그 책이 좋은 안내서임을 알게 되었다.",
-      "promptEn": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\nⓐ People call me to Ben instead of Benjamin.\nⓑ She considers her best friend him.\nⓒ We found the book a good guide.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.",
-      "ruleKo": "틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "parts": [
-        {
-          "kind": "mc",
-          "label": "틀린 문장의 기호",
-          "choices": [
-            "ⓐ",
-            "ⓑ",
-            "ⓒ"
-          ],
-          "correctIndexes": [
-            1
-          ]
-        },
-        {
-          "kind": "sentence",
-          "label": "고친 문장 전체",
-          "placeholder": "고친 문장 전체",
-          "accept": [
-            "Ben instead of Benjamin"
-          ]
-        }
-      ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓔ만 고칩니다.",
-      "id": "15-2",
-      "section": "s16",
-      "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
-      "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "answerModeTag": "Choose · 기호 + 고친 문장",
-      "label": "19"
+      "label": "15-1"
     },
     {
       "sourceId": 15,
@@ -501,91 +462,13 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓑ만 고칩니다.",
-      "id": "15-3",
+      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 나머지 하나를 고칩니다.",
+      "id": "15-2",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
       "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
       "answerModeTag": "Choose · 기호 + 고친 문장",
-      "label": "20"
-    },
-    {
-      "sourceId": 15,
-      "group": "15",
-      "explainKo": "ⓐ to 삭제. 「call + 목적어 + 목적격 보어」 형태로 쓰며 목적격 보어 앞에 전치사는 필요 없다. ⓑ 목적격 보어는 목적어 뒤에 온다. ⓐ 사람들은 나를 Benjamin 대신 Ben이라고 부른다. ⓑ 그녀는 그를 최고의 친구로 여긴다. ⓒ 우리는 그 책이 좋은 안내서임을 알게 되었다.",
-      "promptEn": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\nⓐ People call me to Ben instead of Benjamin.\nⓑ She considers her best friend him.\nⓒ We found the book a good guide.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.",
-      "ruleKo": "틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "parts": [
-        {
-          "kind": "mc",
-          "label": "틀린 문장의 기호",
-          "choices": [
-            "ⓐ",
-            "ⓑ",
-            "ⓒ"
-          ],
-          "correctIndexes": [
-            1
-          ]
-        },
-        {
-          "kind": "sentence",
-          "label": "고친 문장 전체",
-          "placeholder": "고친 문장 전체",
-          "accept": [
-            "Ben instead of Benjamin. (2) She considers him her best friend"
-          ]
-        }
-      ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓔ만 고칩니다.",
-      "id": "15-4",
-      "section": "s16",
-      "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
-      "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "answerModeTag": "Choose · 기호 + 고친 문장",
-      "label": "21"
-    },
-    {
-      "sourceId": 15,
-      "group": "15",
-      "explainKo": "ⓐ to 삭제. 「call + 목적어 + 목적격 보어」 형태로 쓰며 목적격 보어 앞에 전치사는 필요 없다. ⓑ 목적격 보어는 목적어 뒤에 온다. ⓐ 사람들은 나를 Benjamin 대신 Ben이라고 부른다. ⓑ 그녀는 그를 최고의 친구로 여긴다. ⓒ 우리는 그 책이 좋은 안내서임을 알게 되었다.",
-      "promptEn": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\nⓐ People call me to Ben instead of Benjamin.\nⓑ She considers her best friend him.\nⓒ We found the book a good guide.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.",
-      "ruleKo": "틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "parts": [
-        {
-          "kind": "mc",
-          "label": "틀린 문장의 기호",
-          "choices": [
-            "ⓐ",
-            "ⓑ",
-            "ⓒ"
-          ],
-          "correctIndexes": [
-            1
-          ]
-        },
-        {
-          "kind": "sentence",
-          "label": "고친 문장 전체",
-          "placeholder": "고친 문장 전체",
-          "accept": [
-            "Ben instead of Benjamin. She considers him her best friend"
-          ]
-        }
-      ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓔ만 고칩니다.",
-      "id": "15-5",
-      "section": "s16",
-      "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
-      "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
-      "answerModeTag": "Choose · 기호 + 고친 문장",
-      "label": "22"
+      "label": "15-2"
     },
     {
       "sourceId": 16,
@@ -975,7 +858,7 @@
       "instructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
       "answerMode": "parts",
       "answerModeTag": "Choose · 기호 + 고친 문장",
-      "itemCount": 5
+      "itemCount": 2
     },
     {
       "id": "s17",

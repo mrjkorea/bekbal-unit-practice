@@ -9,7 +9,7 @@
     "224",
     "225"
   ],
-  "questionCount": 33,
+  "questionCount": 34,
   "omitted": [],
   "questions": [
     {
@@ -690,45 +690,68 @@
       "sourceId": 21,
       "group": "19-21",
       "explainKo": "정답: (1) scared[terrified] (2) walk, quietly (3) left the path",
-      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n(1) How did Eckels feel when he saw the T. rex?\n→ He felt very ______\n(2) What did Travis tell Eckels to do?\n→ He told him to turn around and ______ back to the machine.\n(3) What mistake did Eckels make?\n→ He ______ by accident.",
+      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n(1) How did Eckels feel when he saw the T. rex?\n→ He felt very (1)______\n(2) What did Travis tell Eckels to do?\n→ He told him to turn around and (2)______ back to the machine.\n(3) What mistake did Eckels make?\n→ He (3)______ by accident.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
-        "scared (2) walk"
+        "scared",
+        "terrified"
       ],
-      "focusBlank": "ⓐ",
-      "phraseBlank": true,
+      "focusBlank": "1",
+      "phraseBlank": false,
       "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
-      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
-      "promptKo": "이 문항은 ⓐ 빈칸만 씁니다.",
-      "id": "21-ⓐ",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "21-1",
       "section": "s21",
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
-      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "26"
+      "label": "21-1"
     },
     {
       "sourceId": 21,
       "group": "19-21",
       "explainKo": "정답: (1) scared[terrified] (2) walk, quietly (3) left the path",
-      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n(1) How did Eckels feel when he saw the T. rex?\n→ He felt very ______\n(2) What did Travis tell Eckels to do?\n→ He told him to turn around and ______ back to the machine.\n(3) What mistake did Eckels make?\n→ He ______ by accident.",
+      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n(1) How did Eckels feel when he saw the T. rex?\n→ He felt very (1)______\n(2) What did Travis tell Eckels to do?\n→ He told him to turn around and (2)______ back to the machine.\n(3) What mistake did Eckels make?\n→ He (3)______ by accident.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
-        "quietly (3) left the path"
+        "walk quietly"
       ],
-      "focusBlank": "ⓑ",
+      "focusBlank": "2",
       "phraseBlank": true,
       "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
-      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
-      "promptKo": "이 문항은 ⓑ 빈칸만 씁니다.",
-      "id": "21-ⓑ",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "21-2",
       "section": "s21",
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
-      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "27"
+      "label": "21-2"
+    },
+    {
+      "sourceId": 21,
+      "group": "19-21",
+      "explainKo": "정답: (1) scared[terrified] (2) walk, quietly (3) left the path",
+      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n(1) How did Eckels feel when he saw the T. rex?\n→ He felt very (1)______\n(2) What did Travis tell Eckels to do?\n→ He told him to turn around and (2)______ back to the machine.\n(3) What mistake did Eckels make?\n→ He (3)______ by accident.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "left the path"
+      ],
+      "focusBlank": "3",
+      "phraseBlank": true,
+      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "promptKo": "이 문항은 (3) 빈칸만 씁니다.",
+      "id": "21-3",
+      "section": "s21",
+      "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21-3"
     },
     {
       "sourceId": 22,
@@ -825,20 +848,36 @@
       "group": "22-25",
       "explainKo": "정답: (1) 벽에 걸린 간판의 철자가 바뀜 (2) TV에 나온 대통령이 바뀜",
       "promptEn": "[24] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.\n(1)\n(2)",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "(1) 벽에 걸린 간판의 철자가 바뀜 (2) TV에 나온 대통령이 바뀜"
-      ],
+      "type": "parts",
+      "answerMode": "parts",
       "directionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
       "phraseBlank": true,
       "id": "24",
       "section": "s24",
       "sectionTitle": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
-      "sectionInstructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "sectionInstructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "30"
+      "label": "30",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "(1)",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "벽에 걸린 간판의 철자가 바뀜"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "(2)",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "TV에 나온 대통령이 바뀜"
+          ]
+        }
+      ],
+      "promptKo": "각 번호의 칸에 그 번호 말만 쓰세요."
     },
     {
       "sourceId": 25,
@@ -1128,11 +1167,11 @@
       "id": "s21",
       "title": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
       "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
-      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "instructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 2
+      "itemCount": 3
     },
     {
       "id": "s22",
@@ -1158,9 +1197,9 @@
       "id": "s24",
       "title": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
       "directionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.",
-      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "instructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
-      "answerMode": "words",
+      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
+      "instructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
+      "answerMode": "parts",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 1
     },
