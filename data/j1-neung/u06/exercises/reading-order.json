@@ -1,0 +1,1788 @@
+{
+  "id": "reading-order",
+  "title": "Reading 순서배열하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "96",
+    "97"
+  ],
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": 1,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "October 9,"
+        },
+        {
+          "id": "c1",
+          "text": "alphabet."
+        },
+        {
+          "id": "c2",
+          "text": "Today"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "day"
+        },
+        {
+          "id": "c5",
+          "text": "Hangeul,"
+        },
+        {
+          "id": "c6",
+          "text": "special"
+        },
+        {
+          "id": "c7",
+          "text": "the"
+        },
+        {
+          "id": "c8",
+          "text": "is"
+        },
+        {
+          "id": "c9",
+          "text": "for"
+        },
+        {
+          "id": "c10",
+          "text": "Korean"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c8",
+        "c0",
+        "c3",
+        "c6",
+        "c4",
+        "c9",
+        "c5",
+        "c7",
+        "c10",
+        "c1"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n01. 오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.\nReporter: (October 9, / alphabet. / Today / a / day / Hangeul, / special / the / is / for / Korean)",
+      "explainKo": "답지 p.183. 정답: Today is October 9, a special day for Hangeul, the Korean alphabet.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": 2,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "a"
+        },
+        {
+          "id": "c1",
+          "text": "at"
+        },
+        {
+          "id": "c2",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c3",
+          "text": "now."
+        },
+        {
+          "id": "c4",
+          "text": "I'm"
+        },
+        {
+          "id": "c5",
+          "text": "festival"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c1",
+        "c0",
+        "c2",
+        "c5",
+        "c3"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n02. 저는 지금 한글 축제에 와 있습니다.\n(a / at / Hangeul / now. / I'm / festival)",
+      "explainKo": "답지 p.183. 정답: I'm at a Hangeul festival now.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": 3,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "fun"
+        },
+        {
+          "id": "c1",
+          "text": "People"
+        },
+        {
+          "id": "c2",
+          "text": "are"
+        },
+        {
+          "id": "c3",
+          "text": "activities"
+        },
+        {
+          "id": "c4",
+          "text": "enjoying"
+        },
+        {
+          "id": "c5",
+          "text": "here."
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c2",
+        "c4",
+        "c0",
+        "c3",
+        "c5"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n03. 사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.\n(fun / People / are / activities / enjoying / here.)",
+      "explainKo": "답지 p.183. 정답: People are enjoying fun activities here.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": 4,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "They"
+        },
+        {
+          "id": "c1",
+          "text": "and"
+        },
+        {
+          "id": "c2",
+          "text": "happy"
+        },
+        {
+          "id": "c3",
+          "text": "excited."
+        },
+        {
+          "id": "c4",
+          "text": "look"
+        }
+      ],
+      "orderIds": [
+        "c0",
+        "c4",
+        "c2",
+        "c1",
+        "c3"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n04. 그들은 행복하고 신나 보입니다.\n(They / and / happy / excited. / look)",
+      "explainKo": "답지 p.183. 정답: They look happy and excited.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": 5,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "lovers."
+        },
+        {
+          "id": "c1",
+          "text": "going"
+        },
+        {
+          "id": "c2",
+          "text": "three"
+        },
+        {
+          "id": "c3",
+          "text": "I'm"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c6",
+          "text": "interview"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c1",
+        "c4",
+        "c6",
+        "c2",
+        "c5",
+        "c0"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n05. 저는 세 명의 한글 애호가를 인터뷰할 것입니다.\n(lovers. / going / three / I'm / to / Hangeul / interview)",
+      "explainKo": "답지 p.183. 정답: I'm going to interview three Hangeul lovers.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": 6,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "first"
+        },
+        {
+          "id": "c1",
+          "text": "Here"
+        },
+        {
+          "id": "c2",
+          "text": "my"
+        },
+        {
+          "id": "c3",
+          "text": "is"
+        },
+        {
+          "id": "c4",
+          "text": "question."
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c3",
+        "c2",
+        "c0",
+        "c4"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n06. 저의 첫 번째 질문입니다.\nReporter: (first / Here / my / is / question.)",
+      "explainKo": "답지 p.183. 정답: Here is my first question.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": 7,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "like"
+        },
+        {
+          "id": "c1",
+          "text": "do"
+        },
+        {
+          "id": "c2",
+          "text": "Why"
+        },
+        {
+          "id": "c3",
+          "text": "you"
+        },
+        {
+          "id": "c4",
+          "text": "Hangeul?"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c1",
+        "c3",
+        "c0",
+        "c4"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n07. 당신은 왜 한글을 좋아하시나요?\n(like / do / Why / you / Hangeul?)",
+      "explainKo": "답지 p.183. 정답: Why do you like Hangeul?",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": 8,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "easy"
+        },
+        {
+          "id": "c1",
+          "text": "is"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "because"
+        },
+        {
+          "id": "c4",
+          "text": "it"
+        },
+        {
+          "id": "c5",
+          "text": "learn."
+        },
+        {
+          "id": "c6",
+          "text": "like"
+        },
+        {
+          "id": "c7",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c6",
+        "c7",
+        "c3",
+        "c4",
+        "c1",
+        "c0",
+        "c8",
+        "c5"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n08. 저는 한글이 배우기 쉽기 때문에 좋아해요.\nPueng: (easy / is / I / because / it / learn. / like / Hangeul / to)",
+      "explainKo": "답지 p.183. 정답: I like Hangeul because it is easy to learn.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "9",
+      "label": "09",
+      "sourceId": 9,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "am"
+        },
+        {
+          "id": "c1",
+          "text": "any"
+        },
+        {
+          "id": "c2",
+          "text": "Hangeul,"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "of"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "able"
+        },
+        {
+          "id": "c8",
+          "text": "24 letters"
+        },
+        {
+          "id": "c9",
+          "text": "Korean"
+        },
+        {
+          "id": "c10",
+          "text": "read"
+        },
+        {
+          "id": "c11",
+          "text": "now."
+        },
+        {
+          "id": "c12",
+          "text": "learned"
+        },
+        {
+          "id": "c13",
+          "text": "and"
+        },
+        {
+          "id": "c14",
+          "text": "to"
+        },
+        {
+          "id": "c15",
+          "text": "word"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c12",
+        "c4",
+        "c8",
+        "c5",
+        "c2",
+        "c13",
+        "c6",
+        "c0",
+        "c7",
+        "c14",
+        "c10",
+        "c1",
+        "c9",
+        "c15",
+        "c11"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n09. 저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.\n(am / any / Hangeul, / I / the / of / I / able / 24 letters / Korean / read / now. / learned / and / to / word)",
+      "explainKo": "답지 p.183. 정답: I learned the 24 letters of Hangeul, and I am able to read any Korean word now.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "and"
+        },
+        {
+          "id": "c1",
+          "text": "look"
+        },
+        {
+          "id": "c2",
+          "text": "The"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "unique"
+        },
+        {
+          "id": "c5",
+          "text": "beautiful."
+        },
+        {
+          "id": "c6",
+          "text": "shapes"
+        },
+        {
+          "id": "c7",
+          "text": "Hangeul"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c6",
+        "c3",
+        "c7",
+        "c1",
+        "c4",
+        "c0",
+        "c5"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n10. 한글의 모양은 독특하고 아름다워 보여요.\nAnna: (and / look / The / of / unique / beautiful. / shapes / Hangeul)",
+      "explainKo": "답지 p.183. 정답: The shapes of Hangeul look unique and beautiful.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Switzerland,"
+        },
+        {
+          "id": "c1",
+          "text": "like"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "word"
+        },
+        {
+          "id": "c5",
+          "text": "\"스위스 [seu-wi-seu].\""
+        },
+        {
+          "id": "c6",
+          "text": "for"
+        },
+        {
+          "id": "c7",
+          "text": "Korean"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c1",
+        "c3",
+        "c7",
+        "c4",
+        "c6",
+        "c0",
+        "c5"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n11. 저는 스위스를 나타내는 한글 단어 \"스위스\"를 좋아해요.\n(Switzerland, / like / I / the / word / \"스위스 [seu-wi-seu].\" / for / Korean)",
+      "explainKo": "답지 p.183. 정답: I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\"",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "two"
+        },
+        {
+          "id": "c1",
+          "text": "a"
+        },
+        {
+          "id": "c2",
+          "text": "It"
+        },
+        {
+          "id": "c3",
+          "text": "soldier"
+        },
+        {
+          "id": "c4",
+          "text": "like"
+        },
+        {
+          "id": "c5",
+          "text": "looks"
+        },
+        {
+          "id": "c6",
+          "text": "mountains."
+        },
+        {
+          "id": "c7",
+          "text": "between"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c5",
+        "c4",
+        "c1",
+        "c3",
+        "c7",
+        "c0",
+        "c6"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n12. 그것은 두 개의 산 사이에 있는 군인처럼 보여요.\n(two / a / It / soldier / like / looks / mountains. / between)",
+      "explainKo": "답지 p.183. 정답: It looks like a soldier between two mountains.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "It"
+        },
+        {
+          "id": "c1",
+          "text": "great!"
+        },
+        {
+          "id": "c2",
+          "text": "looks"
+        }
+      ],
+      "orderIds": [
+        "c0",
+        "c2",
+        "c1"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n13. 그것은 멋져 보여요.\n(It / great! / looks)",
+      "explainKo": "답지 p.183. 정답: It looks great!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c1",
+          "text": "I"
+        },
+        {
+          "id": "c2",
+          "text": "its"
+        },
+        {
+          "id": "c3",
+          "text": "is"
+        },
+        {
+          "id": "c4",
+          "text": "like"
+        },
+        {
+          "id": "c5",
+          "text": "because"
+        },
+        {
+          "id": "c6",
+          "text": "history"
+        },
+        {
+          "id": "c7",
+          "text": "amazing."
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c4",
+        "c0",
+        "c5",
+        "c2",
+        "c6",
+        "c3",
+        "c7"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n14. 저는 한글의 역사가 대단하기 때문에 그것을 좋아해요.\nWilliam: (Hangeul / I / its / is / like / because / history / amazing.)",
+      "explainKo": "답지 p.183. 정답: I like Hangeul because its history is amazing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "group": "-1-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "ago,"
+        },
+        {
+          "id": "c1",
+          "text": "couldn't"
+        },
+        {
+          "id": "c2",
+          "text": "A"
+        },
+        {
+          "id": "c3",
+          "text": "time"
+        },
+        {
+          "id": "c4",
+          "text": "Koreans"
+        },
+        {
+          "id": "c5",
+          "text": "read"
+        },
+        {
+          "id": "c6",
+          "text": "write."
+        },
+        {
+          "id": "c7",
+          "text": "long"
+        },
+        {
+          "id": "c8",
+          "text": "most"
+        },
+        {
+          "id": "c9",
+          "text": "or"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c7",
+        "c3",
+        "c0",
+        "c8",
+        "c4",
+        "c1",
+        "c5",
+        "c9",
+        "c6"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n15. 오래전, 대부분의 한국인은 읽거나 쓸 수 없었어요.\n(ago, / couldn't / A / time / Koreans / read / write. / long / most / or)",
+      "explainKo": "답지 p.183. 정답: A long time ago, most Koreans couldn't read or write.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "new"
+        },
+        {
+          "id": "c1",
+          "text": "about"
+        },
+        {
+          "id": "c2",
+          "text": "King Sejong"
+        },
+        {
+          "id": "c3",
+          "text": "so"
+        },
+        {
+          "id": "c4",
+          "text": "bad"
+        },
+        {
+          "id": "c5",
+          "text": "this,"
+        },
+        {
+          "id": "c6",
+          "text": "he"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        },
+        {
+          "id": "c9",
+          "text": "alphabet"
+        },
+        {
+          "id": "c10",
+          "text": "people."
+        },
+        {
+          "id": "c11",
+          "text": "felt"
+        },
+        {
+          "id": "c12",
+          "text": "created"
+        },
+        {
+          "id": "c13",
+          "text": "his"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c11",
+        "c4",
+        "c1",
+        "c5",
+        "c3",
+        "c6",
+        "c12",
+        "c7",
+        "c0",
+        "c9",
+        "c8",
+        "c13",
+        "c10"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n16. 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n(new / about / King Sejong / so / bad / this, / he / a / for / alphabet / people. / felt / created / his)",
+      "explainKo": "답지 p.183. 정답: King Sejong felt bad about this, so he created a new alphabet for his people.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Hangeul!"
+        },
+        {
+          "id": "c1",
+          "text": "really"
+        },
+        {
+          "id": "c2",
+          "text": "You"
+        },
+        {
+          "id": "c3",
+          "text": "all"
+        },
+        {
+          "id": "c4",
+          "text": "love"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c3",
+        "c1",
+        "c4",
+        "c0"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n17. 여러분 모두는 한글을 정말 사랑하시네요!\nReporter: (Hangeul! / really / You / all / love)",
+      "explainKo": "답지 p.183. 정답: You all really love Hangeul!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "did"
+        },
+        {
+          "id": "c1",
+          "text": "it?"
+        },
+        {
+          "id": "c2",
+          "text": "start"
+        },
+        {
+          "id": "c3",
+          "text": "How"
+        },
+        {
+          "id": "c4",
+          "text": "you"
+        },
+        {
+          "id": "c5",
+          "text": "learning"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c0",
+        "c4",
+        "c2",
+        "c5",
+        "c1"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n18. 당신은 어떻게 그것을 배우기 시작했나요?\n(did / it? / start / How / you / learning)",
+      "explainKo": "답지 p.183. 정답: How did you start learning it?",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "K-pop"
+        },
+        {
+          "id": "c1",
+          "text": "I'm"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "fan"
+        },
+        {
+          "id": "c4",
+          "text": "songs."
+        },
+        {
+          "id": "c5",
+          "text": "big"
+        },
+        {
+          "id": "c6",
+          "text": "of"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c2",
+        "c5",
+        "c3",
+        "c6",
+        "c0",
+        "c4"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n19. 저는 케이팝 노래의 열렬한 팬이에요.\nPueng: (K-pop / I'm / a / fan / songs. / big / of)",
+      "explainKo": "답지 p.183. 정답: I'm a big fan of K-pop songs.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Because"
+        },
+        {
+          "id": "c1",
+          "text": "songs,"
+        },
+        {
+          "id": "c2",
+          "text": "wanted"
+        },
+        {
+          "id": "c3",
+          "text": "started"
+        },
+        {
+          "id": "c4",
+          "text": "sing"
+        },
+        {
+          "id": "c5",
+          "text": "learning"
+        },
+        {
+          "id": "c6",
+          "text": "Korean"
+        },
+        {
+          "id": "c7",
+          "text": "to"
+        },
+        {
+          "id": "c8",
+          "text": "Hangeul."
+        },
+        {
+          "id": "c9",
+          "text": "I"
+        },
+        {
+          "id": "c10",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c0",
+        "c9",
+        "c2",
+        "c7",
+        "c4",
+        "c6",
+        "c1",
+        "c10",
+        "c3",
+        "c5",
+        "c8"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n20. 저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.\n(Because / songs, / wanted / started / sing / learning / Korean / to / Hangeul. / I / I)",
+      "explainKo": "답지 p.183. 정답: Because I wanted to sing Korean songs, I started learning Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "songs!"
+        },
+        {
+          "id": "c1",
+          "text": "K-pop"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "can"
+        },
+        {
+          "id": "c4",
+          "text": "many"
+        },
+        {
+          "id": "c5",
+          "text": "Now"
+        },
+        {
+          "id": "c6",
+          "text": "sing"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c2",
+        "c3",
+        "c6",
+        "c4",
+        "c1",
+        "c0"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n21. 이제 저는 많은 케이팝 노래를 부를 수 있어요!\n(songs! / K-pop / I / can / many / Now / sing)",
+      "explainKo": "답지 p.183. 정답: Now I can sing many K-pop songs!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "in"
+        },
+        {
+          "id": "c1",
+          "text": "I"
+        },
+        {
+          "id": "c2",
+          "text": "my"
+        },
+        {
+          "id": "c3",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c4",
+          "text": "interested"
+        },
+        {
+          "id": "c5",
+          "text": "using"
+        },
+        {
+          "id": "c6",
+          "text": "in"
+        },
+        {
+          "id": "c7",
+          "text": "designs."
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c8",
+        "c4",
+        "c0",
+        "c5",
+        "c3",
+        "c6",
+        "c2",
+        "c7"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n22. 저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.\nAnna: (in / I / my / Hangeul / interested / using / in / designs. / was)",
+      "explainKo": "답지 p.183. 정답: I was interested in using Hangeul in my designs.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "the"
+        },
+        {
+          "id": "c1",
+          "text": "Hangeul."
+        },
+        {
+          "id": "c2",
+          "text": "studied"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "shapes"
+        },
+        {
+          "id": "c5",
+          "text": "So"
+        },
+        {
+          "id": "c6",
+          "text": "of"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c3",
+        "c2",
+        "c0",
+        "c4",
+        "c6",
+        "c1"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n23. 그래서 저는 한글의 모양을 공부했어요.\n(the / Hangeul. / studied / I / shapes / So / of)",
+      "explainKo": "답지 p.183. 정답: So I studied the shapes of Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "Hangeul."
+        },
+        {
+          "id": "c1",
+          "text": "patterns"
+        },
+        {
+          "id": "c2",
+          "text": "can"
+        },
+        {
+          "id": "c3",
+          "text": "make"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "unique"
+        },
+        {
+          "id": "c6",
+          "text": "clothes"
+        },
+        {
+          "id": "c7",
+          "text": "with"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c2",
+        "c3",
+        "c5",
+        "c1",
+        "c8",
+        "c6",
+        "c7",
+        "c0"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n24. 저는 한글로 옷에 독특한 무늬를 만들 수 있어요.\n(Hangeul. / patterns / can / make / I / unique / clothes / with / for)",
+      "explainKo": "답지 p.183. 정답: I can make unique patterns for clothes with Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "science"
+        },
+        {
+          "id": "c1",
+          "text": "I"
+        },
+        {
+          "id": "c2",
+          "text": "wanted"
+        },
+        {
+          "id": "c3",
+          "text": "Hangeul"
+        },
+        {
+          "id": "c4",
+          "text": "teach"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "of"
+        },
+        {
+          "id": "c7",
+          "text": "my"
+        },
+        {
+          "id": "c8",
+          "text": "students."
+        },
+        {
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c10",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c2",
+        "c9",
+        "c4",
+        "c5",
+        "c0",
+        "c6",
+        "c3",
+        "c10",
+        "c7",
+        "c8"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n25. 저는 저의 학생들에게 한글의 과학을 가르치고 싶었어요.\nWilliam: (science / I / wanted / Hangeul / teach / the / of / my / students. / to / to)",
+      "explainKo": "답지 p.183. 정답: I wanted to teach the science of Hangeul to my students.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "look"
+        },
+        {
+          "id": "c1",
+          "text": "letters"
+        },
+        {
+          "id": "c2",
+          "text": "and"
+        },
+        {
+          "id": "c3",
+          "text": "mouth"
+        },
+        {
+          "id": "c4",
+          "text": "like"
+        },
+        {
+          "id": "c5",
+          "text": "shape"
+        },
+        {
+          "id": "c6",
+          "text": "tongue"
+        },
+        {
+          "id": "c7",
+          "text": "of"
+        },
+        {
+          "id": "c8",
+          "text": "their"
+        },
+        {
+          "id": "c9",
+          "text": "sounds."
+        },
+        {
+          "id": "c10",
+          "text": "Some"
+        },
+        {
+          "id": "c11",
+          "text": "the"
+        },
+        {
+          "id": "c12",
+          "text": "the"
+        },
+        {
+          "id": "c13",
+          "text": "for"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c1",
+        "c0",
+        "c4",
+        "c11",
+        "c5",
+        "c7",
+        "c12",
+        "c3",
+        "c2",
+        "c6",
+        "c13",
+        "c8",
+        "c9"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n26. 몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.\n(look / letters / and / mouth / like / shape / tongue / of / their / sounds. / Some / the / the / for)",
+      "explainKo": "답지 p.183. 정답: Some letters look like the shape of the mouth and tongue for their sounds.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "that"
+        },
+        {
+          "id": "c1",
+          "text": "King Sejong"
+        },
+        {
+          "id": "c2",
+          "text": "it"
+        },
+        {
+          "id": "c3",
+          "text": "way."
+        },
+        {
+          "id": "c4",
+          "text": "made"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c4",
+        "c2",
+        "c0",
+        "c3"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n27. 세종대왕이 그런 식으로 그것을 만들었죠.\n(that / King Sejong / it / way. / made)",
+      "explainKo": "답지 p.183. 정답: King Sejong made it that way.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "very"
+        },
+        {
+          "id": "c1",
+          "text": "It's"
+        },
+        {
+          "id": "c2",
+          "text": "scientific."
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c0",
+        "c2"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n28. 그것은 매우 과학적이에요.\n(very / It's / scientific.)",
+      "explainKo": "답지 p.183. 정답: It's very scientific.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "you"
+        },
+        {
+          "id": "c1",
+          "text": "your"
+        },
+        {
+          "id": "c2",
+          "text": "Thank"
+        },
+        {
+          "id": "c3",
+          "text": "sharing"
+        },
+        {
+          "id": "c4",
+          "text": "stories."
+        },
+        {
+          "id": "c5",
+          "text": "for"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c0",
+        "c5",
+        "c3",
+        "c1",
+        "c4"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n29. 여러분의 이야기를 공유해 주셔서 감사드립니다.\nReporter: (you / your / Thank / sharing / stories. / for)",
+      "explainKo": "답지 p.183. 정답: Thank you for sharing your stories.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "group": "-2-",
+      "type": "order",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "festival!"
+        },
+        {
+          "id": "c1",
+          "text": "Enjoy"
+        },
+        {
+          "id": "c2",
+          "text": "this"
+        }
+      ],
+      "orderIds": [
+        "c1",
+        "c2",
+        "c0"
+      ],
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n30. 이 축제를 즐기세요!\n(festival! / Enjoy / this)",
+      "explainKo": "답지 p.183. 정답: Enjoy this festival!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "sectionInstructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 30문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "directionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 30
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "94"
+  ],
+  "questionCount": 20,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": 1,
+      "group": "-1-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "at"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n01. I'm ______ a Hangeul festival now.\n(장소의 전치사)",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: at. 장소 앞에 쓰는 전치사.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": 2,
+      "group": "-1-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "are enjoying",
+        "enjoying"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n02. People (enjoy) fun activities here.\n현재진행형으로 쓰시오.",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: are enjoying. enjoy를 현재진행형으로 쓴다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": 3,
+      "group": "-1-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~하게 보인다",
+        "~하게 보이다"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n03. They look happy and excited.\nlook의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~하게 보인다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": 4,
+      "group": "-1-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~할 것이다"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n04. I'm going to interview three Hangeul lovers.\nbe going to의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~할 것이다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": 5,
+      "group": "-2-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "왜냐하면"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n05. I like Hangeul because it is easy to learn.\nbecause의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 왜냐하면.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": 6,
+      "group": "-2-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~할 수 있다"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n06. I am able to read any Korean word now.\nam able to의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~할 수 있다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": 7,
+      "group": "-2-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~처럼"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n07. It looks like a soldier between two mountains.\nlike의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~처럼.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": 8,
+      "group": "-3-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "because"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n08. I like Hangeul ______ its history is amazing.\n접속사:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: because. 이유를 나타내는 접속사.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "9",
+      "label": "09",
+      "sourceId": 9,
+      "group": "-3-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "한글의 역사"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n09. I like Hangeul because its history is amazing.\nits history의 우리말:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 한글의 역사.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "group": "-3-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "오래전에",
+        "오래전"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n10. A long time ago, most Koreans couldn't read or write.\nA long time ago의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 오래전에.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "group": "-3-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~할 수 없었다"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n11. A long time ago, most Koreans couldn't read or write.\ncouldn't의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~할 수 없었다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "-3-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "so"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n12. King Sejong felt bad about this, ______ he created a new alphabet for his people.\n접속사:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: so. 결과를 나타내는 접속사.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "group": "-4-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "열혈 팬",
+        "열혈팬"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n13. I'm a big fan of K-pop songs.\nbig fan의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 열혈 팬.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "group": "-4-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "to sing"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n14. Because I wanted (sing) Korean songs, I started learning Hangeul.\n괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: to sing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "group": "-4-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "~에 관심이 있다"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n15. I was interested in using Hangeul in my designs.\nbe interested in의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: ~에 관심이 있다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "-5-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "look like"
+      ],
+      "phraseBlank": true,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n16. Some letters ______ the shape of the mouth and tongue for their sounds.\n(~처럼 보이다)",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: look like.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "group": "-5-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "소리"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n17. Some letters look like the shape of the mouth and tongue for their sounds.\nsounds의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 소리.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "-5-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "Hangeul",
+        "한글",
+        "Hangeul[한글]",
+        "한글[Hangeul]"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n18. King Sejong made it that way.\nit이 가리키는 것:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: Hangeul[한글].",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "group": "-5-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "과학적인"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n19. It's very scientific.\nscientific의 뜻:",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: 과학적인.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "-5-",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "sharing"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "promptEn": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.\n20. Thank you for (share) your stories.\n괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "explainKo": "답지 p.182 Reading 내용 확인하기. 정답: sharing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 20문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형…",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "instructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 뜻을 물으면 우리말만, 영어 표현을 물으면 그 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 20
+    }
+  ]
+}

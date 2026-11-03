@@ -1,0 +1,522 @@
+{
+  "id": "grammar-practice",
+  "title": "Grammar 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "88-89",
+  "questionCount": 14,
+  "omitted": [
+    {
+      "sourceId": "03",
+      "reason": "p.181 정답란이 A이고 해설이 beautifully를 ①로 적어, 인쇄된 ④ beautifully와 번호가 맞지 않음"
+    },
+    {
+      "sourceId": "08",
+      "reason": "p.181 정답란이 A이고 밑줄 ①~⑤ 인쇄가 깨져, 해설이 because를 몇 번으로 지정하지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "gp-01",
+      "label": "01",
+      "sourceId": "01",
+      "group": "01",
+      "section": "g1",
+      "sectionTitle": "빈칸에 가장 적절한 것",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "These oranges ______ sweet.",
+      "promptKo": "",
+      "explainKo": "p.181 해설: 주어가 These oranges로 복수이고 형용사가 이어지므로 감각동사의 복수형 ① taste가 적절하다. 뒤에 형용사가 이어지므로 전치사 like는 올 수 없다. 이 오렌지들은 맛이 달다.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "taste",
+        "tastes",
+        "taste like",
+        "tastes like",
+        "are tasting"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "gp-02",
+      "label": "02",
+      "sourceId": "02",
+      "group": "02",
+      "section": "g1",
+      "sectionTitle": "빈칸에 가장 적절한 것",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "This cake ______ strawberries.",
+      "promptKo": "",
+      "explainKo": "p.181 해설: 주어가 단수명사 This cake이고 빈칸 뒤에 명사가 이어지므로 ④ smells like가 적절하다. 이 케이크는 딸기 냄새가 난다.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "smell",
+        "smells",
+        "smell like",
+        "smells like",
+        "is smelling"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "gp-04",
+      "label": "04",
+      "sourceId": "04",
+      "group": "04",
+      "section": "g2",
+      "sectionTitle": "원인 because",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "Sam은 다리를 다쳤기 때문에 학교에 가지 않았다.\n→ Sam didn't go to school ______ he hurt his leg.",
+      "promptKo": "",
+      "explainKo": "p.181 해설: 빈칸 뒤에 앞 절에 대한 원인의 내용이 「주어+동사」로 구성된 절로 이어지므로 ④ because가 적절하다.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "So",
+        "but",
+        "and",
+        "because",
+        "because of"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "gp-05",
+      "label": "05",
+      "sourceId": "05",
+      "group": "05",
+      "section": "g3",
+      "sectionTitle": "쓰임이 다른 하나",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "① The soup tastes delicious.\n② These flowers smell good.\n③ Please look at your teacher.\n④ That movie sounds interesting.\n⑤ My new sofa feels very comfortable.",
+      "promptKo": "",
+      "explainKo": "p.181 해설: ③은 '보다'라는 의미의 동사이고 나머지는 모두 감각동사이다. ① 그 수프는 맛있다. ② 이 꽃들은 향기가 좋다. ③ 선생님을 보세요. ④ 그 영화는 흥미롭게 들린다. ⑤ 새 소파가 아주 편하게 느껴진다. 정답은 ③.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "The soup tastes delicious.",
+        "These flowers smell good.",
+        "Please look at your teacher.",
+        "That movie sounds interesting.",
+        "My new sofa feels very comfortable."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-06-1",
+      "label": "06 (1)",
+      "sourceId": "06-1",
+      "group": "06",
+      "section": "g4",
+      "sectionTitle": "그림 문장 한 칸",
+      "sectionInstructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "(1) He took off the coat (1) ______\n(2) It started raining, (2) ______\n\n보기: because, so, it, hot, be, stay, home, she\n필요시 어형을 바꿀 것.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "explainKo": "p.181 해설: 「결과 + because + 원인」. 접속사 because 뒤에 코트를 벗은 이유인 it was hot을 쓴다. 주절의 동사가 took off로 과거이므로 과거형 was로 쓴다. (1) because it was hot.",
+      "type": "fill",
+      "accept": [
+        "because it was hot"
+      ],
+      "phraseBlank": true,
+      "focusBlank": "1"
+    },
+    {
+      "id": "gp-06-2",
+      "label": "06 (2)",
+      "sourceId": "06-2",
+      "group": "06",
+      "section": "g4",
+      "sectionTitle": "그림 문장 한 칸",
+      "sectionInstructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "(1) He took off the coat (1) ______\n(2) It started raining, (2) ______\n\n보기: because, so, it, hot, be, stay, home, she\n필요시 어형을 바꿀 것.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "explainKo": "p.181 해설: 「원인 + so + 결과」. 접속사 so 뒤에 결과의 내용인 she stayed home을 쓴다. 주절의 동사가 started로 과거이므로 종속절의 동사도 과거형 stayed로 쓴다. (2) so she stayed home.",
+      "type": "fill",
+      "accept": [
+        "so she stayed home"
+      ],
+      "phraseBlank": true,
+      "focusBlank": "2"
+    },
+    {
+      "id": "gp-07",
+      "label": "07",
+      "sourceId": "07",
+      "group": "07",
+      "section": "g5",
+      "sectionTitle": "look와 look like",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "그녀는 슬퍼 보였다. → She ______\n그녀는 로봇처럼 보였다. → She ______",
+      "promptKo": "",
+      "explainKo": "p.181 해설: 「look + 형용사」는 '~하게 보이다'이고 「look like + 명사」는 '~처럼 보이다'이다. She looked sad. / She looked like a robot. 정답은 ③.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "looked sad / looked a robot",
+        "looks like sad / looks a robot",
+        "looked sad / looked like a robot",
+        "looked like sad / looked a robot",
+        "looked sadly / looked like a robot"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-09",
+      "label": "09",
+      "sourceId": "09",
+      "group": "09",
+      "section": "g6",
+      "sectionTitle": "because를 so로",
+      "sectionInstructionKo": "다음 두 문장이 같은 의미가 되도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 두 문장이 같은 의미가 되도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "He ate a sandwich because he was hungry.\n= He was hungry, ______ he ate a sandwich.",
+      "promptKo": "",
+      "explainKo": "p.181 해설: 「결과 + because + 원인」은 「원인 + so + 결과」로 바꿔 쓸 수 있다. 접속사 because가 이끄는 부사절이 있는 문장은 결과를 나타내는 접속사 so를 이용하여 바꿔 쓴다. 그는 배가 고파서 샌드위치를 먹었다. 정답은 ③ so.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "or",
+        "but",
+        "so",
+        "because",
+        "because of"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-10",
+      "label": "10",
+      "sourceId": "10",
+      "group": "10",
+      "section": "g7",
+      "sectionTitle": "어법상 틀린 문장",
+      "sectionInstructionKo": "다음 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "① This pizza tastes strange.\n② Jenny looks like a movie star.\n③ The steak smells wonderfully.\n④ The sunshine feels warm.\n⑤ Your idea sounds amazing.",
+      "promptKo": "",
+      "explainKo": "p.182 해설: ③ 감각동사 smell 뒤에는 형용사가 와야 하므로 wonderfully를 wonderful로 고쳐야 한다. ① 이 피자는 맛이 이상하다. ② Jenny는 유명 영화배우처럼 보인다. ③ 스테이크는 훌륭한 냄새가 난다. ④ 햇볕은 따뜻하게 느껴진다. ⑤ 너의 아이디어는 놀랍게 들린다. 정답은 ③.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "This pizza tastes strange.",
+        "Jenny looks like a movie star.",
+        "The steak smells wonderfully.",
+        "The sunshine feels warm.",
+        "Your idea sounds amazing."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-11",
+      "label": "11",
+      "sourceId": "11",
+      "group": "11",
+      "section": "g8",
+      "sectionTitle": "because it is heavy",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 눌러 배열하시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 눌러 배열하시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "promptEn": "그 테이블은 무거워서 내가 옮길 수가 없다.\n(it / heavy / is / because)\n\n→ I can't move the table ______",
+      "promptKo": "",
+      "explainKo": "p.181 정답: because it is heavy. p.182 해설: 원인의 접속사 because를 쓰고 the table을 대명사 it로 받아서 쓴다.",
+      "type": "order",
+      "orderChunks": [
+        {
+          "id": "it",
+          "text": "it"
+        },
+        {
+          "id": "heavy",
+          "text": "heavy"
+        },
+        {
+          "id": "is",
+          "text": "is"
+        },
+        {
+          "id": "because",
+          "text": "because"
+        }
+      ],
+      "orderIds": [
+        "because",
+        "it",
+        "is",
+        "heavy"
+      ]
+    },
+    {
+      "id": "gp-12",
+      "label": "12",
+      "sourceId": "12",
+      "group": "12",
+      "section": "g9",
+      "sectionTitle": "soft와 friendly",
+      "sectionInstructionKo": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "This sweater feels ⓐ ______\nMy English teacher looks ⓑ ______",
+      "promptKo": "",
+      "explainKo": "p.182 해설: ⓐ 감각동사 feels 뒤에는 형용사 soft가 적절하다. 이 스웨터는 부드럽게 느껴진다. ⓑ 감각동사 looks 뒤에는 형용사 friendly가 적절하다. 나의 영어 선생님은 상냥하게 보인다. 정답 짝은 soft / friendly, 즉 ③.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "soft / friend",
+        "softly / friend",
+        "soft / friendly",
+        "softly / friendly",
+        "soft / friendship"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-13",
+      "label": "13",
+      "sourceId": "13",
+      "group": "13",
+      "section": "g10",
+      "sectionTitle": "빈칸의 말이 다른 하나",
+      "sectionInstructionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "① She was happy ______ she won the game.\n② I can't go to the park ______ it is closed.\n③ We were late ______ the snow.\n④ I didn't have breakfast ______ I felt sick.\n⑤ Jason wants to be a soccer player ______ he likes soccer.",
+      "promptKo": "",
+      "explainKo": "p.182 해설: ③번의 빈칸 뒤에는 명사가 나오므로 because of가 들어가야 하고, 나머지는 모두 빈칸 뒤에 「주어+동사」의 완전한 절이 이어지므로 접속사 because가 들어가야 한다. ① 그녀는 게임에서 이겨서 행복했다. ② 공원이 문을 닫아서 우리는 갈 수가 없다. ③ 눈 때문에 우리는 늦었다. ④ 나는 속이 안 좋아서 아침을 안 먹었다. ⑤ Jason은 축구를 좋아해서 축구 선수가 되고 싶어 한다. 정답은 ③.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "She was happy ______ she won the game.",
+        "I can't go to the park ______ it is closed.",
+        "We were late ______ the snow.",
+        "I didn't have breakfast ______ I felt sick.",
+        "Jason wants to be a soccer player ______ he likes soccer."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "gp-14-1",
+      "label": "14 (1)",
+      "sourceId": "14-1",
+      "group": "14",
+      "section": "g11",
+      "sectionTitle": "아이디어는 좋은 계획처럼",
+      "sectionInstructionKo": "다음에 맞게 우리말을 바르게 영작하시오. 문장 전체를 쓰시오. 문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "directionKo": "다음에 맞게 우리말을 바르게 영작하시오. 문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "promptEn": "조건\n1. 주어진 표현을 모두 포함할 것.\n2. 필요시 단어를 추가하고 어형을 바꿀 것.\n3. 대소문자 및 구두점에 유의할 것.\n\n(1) 너의 아이디어는 좋은 계획처럼 들린다.\n(a, sound, plan, good, idea)",
+      "promptKo": "",
+      "explainKo": "p.181 정답: Your idea sounds like a good plan. p.182 해설: 주어는 Your idea이고 동사는 sounds로 쓴 다음, 명사구 a good plan처럼 들리는 것이므로 like를 추가해서 쓴다.",
+      "type": "sentence",
+      "accept": [
+        "Your idea sounds like a good plan."
+      ]
+    },
+    {
+      "id": "gp-14-2",
+      "label": "14 (2)",
+      "sourceId": "14-2",
+      "group": "14",
+      "section": "g12",
+      "sectionTitle": "비 때문에 버스를 놓쳤다",
+      "sectionInstructionKo": "다음에 맞게 우리말을 영작할 때, 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "다음에 맞게 우리말을 영작할 때, 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "조건\n1. 주어진 표현을 모두 포함할 것.\n2. 필요시 단어를 추가하고 어형을 바꿀 것.\n3. 대소문자 및 구두점에 유의할 것.\n\n(2) 나는 비 때문에 버스를 놓쳤다.\n(the rain, because, the bus, miss)\n→ ______",
+      "promptKo": "",
+      "explainKo": "p.181 정답: missed the bus because of the rain. p.182 해설: 이유에 해당하는 부분이 명사 the rain이므로 of를 추가해서 because of로 쓴다.",
+      "type": "fill",
+      "accept": [
+        "missed the bus because of the rain"
+      ],
+      "phraseBlank": true
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "Lesson 06 Amazing Korea Grammar 실전 문제입니다. 정답과 해설은 답지 p.181과 p.182에 적힌 것만 넣었습니다. 정답란이 O 또는 A인데 해설이 선지를 특정하지 못한 문항은 빼 두었습니다.",
+  "sections": [
+    {
+      "id": "g1",
+      "title": "빈칸에 가장 적절한 것",
+      "directionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "g2",
+      "title": "원인 because",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g3",
+      "title": "쓰임이 다른 하나",
+      "directionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g4",
+      "title": "그림 문장 한 칸",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "g5",
+      "title": "look와 look like",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g6",
+      "title": "because를 so로",
+      "directionKo": "다음 두 문장이 같은 의미가 되도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 두 문장이 같은 의미가 되도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g7",
+      "title": "어법상 틀린 문장",
+      "directionKo": "다음 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g8",
+      "title": "because it is heavy",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 눌러 배열하시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 눌러 배열하시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g9",
+      "title": "soft와 friendly",
+      "directionKo": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g10",
+      "title": "빈칸의 말이 다른 하나",
+      "directionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "g11",
+      "title": "아이디어는 좋은 계획처럼",
+      "directionKo": "다음에 맞게 우리말을 바르게 영작하시오. 문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "instructionKo": "다음에 맞게 우리말을 바르게 영작하시오. 문장 전체를 쓰시오. 문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "g12",
+      "title": "비 때문에 버스를 놓쳤다",
+      "directionKo": "다음에 맞게 우리말을 영작할 때, 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음에 맞게 우리말을 영작할 때, 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    }
+  ]
+}

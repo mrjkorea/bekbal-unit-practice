@@ -1,0 +1,440 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "78-79",
+  "questionCount": 8,
+  "omitted": [],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "01",
+      "explainKo": "정답 순서: Sure → They are playing tuho → What is tuho? → It's a traditional Korean game → It looks fun. 인쇄된 Listen and Talk A-1 (book-txt p068). 답지 p.180 기호는 OCR이 깨져 본문 대화 순서를 따름.",
+      "promptEn": "01 다음 대화를 나오는 순서대로 누르시오.\n시작 문장은 이미 나와 있습니다. 그다음부터 누르세요.\n시작: There are many games here. Why don't we play a game?\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "1",
+      "orderChunks": [
+        {
+          "id": "b",
+          "text": "Sure! Oh, look over there. Why are people throwing sticks into a pot?"
+        },
+        {
+          "id": "c",
+          "text": "They are playing tuho."
+        },
+        {
+          "id": "a",
+          "text": "What is tuho?"
+        },
+        {
+          "id": "f",
+          "text": "It's a traditional Korean game. You throw sticks into a pot. Then you get points."
+        },
+        {
+          "id": "e",
+          "text": "It looks fun! Let's play it."
+        }
+      ],
+      "orderIds": [
+        "b",
+        "c",
+        "a",
+        "f",
+        "e"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "02",
+      "explainKo": "정답 순서: I can hear it too → What is nongak? → traditional Korean music → clothes look nice → dance and play → That sounds great. Listen and Talk A-2 (p068).",
+      "promptEn": "02 다음 대화를 나오는 순서대로 누르시오.\n시작 문장은 이미 나와 있습니다. 그다음부터 누르세요.\n시작: I hear some exciting music.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "2",
+      "orderChunks": [
+        {
+          "id": "g",
+          "text": "I can hear it too. Oh, people are playing nongak."
+        },
+        {
+          "id": "d",
+          "text": "What is nongak?"
+        },
+        {
+          "id": "c",
+          "text": "It is traditional Korean music. The performers play many different instruments."
+        },
+        {
+          "id": "e",
+          "text": "Their clothes look nice too."
+        },
+        {
+          "id": "f",
+          "text": "Yeah. They even dance and play at the same time. Why don't we go and watch them?"
+        },
+        {
+          "id": "b",
+          "text": "That sounds great!"
+        }
+      ],
+      "orderIds": [
+        "g",
+        "d",
+        "c",
+        "e",
+        "f",
+        "b"
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "03",
+      "explainKo": "정답 순서: Why are those people → They are playing yunnori → What is yunnori? → board game → I want to try it → It's simple → That sounds fun. Listen and Talk A-3 (p068).",
+      "promptEn": "03 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "3",
+      "orderChunks": [
+        {
+          "id": "c",
+          "text": "Why are those people throwing sticks in the air?"
+        },
+        {
+          "id": "b",
+          "text": "They are playing yunnori."
+        },
+        {
+          "id": "a",
+          "text": "What is yunnori?"
+        },
+        {
+          "id": "d",
+          "text": "It is a traditional Korean board game."
+        },
+        {
+          "id": "g",
+          "text": "I want to try it, but I don't know the rules."
+        },
+        {
+          "id": "e",
+          "text": "It's simple. You just throw four sticks, and they decide your moves. Why don't we play the game?"
+        },
+        {
+          "id": "f",
+          "text": "Okay. That sounds fun!"
+        }
+      ],
+      "orderIds": [
+        "c",
+        "b",
+        "a",
+        "d",
+        "g",
+        "e",
+        "f"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "04",
+      "explainKo": "정답 순서: What is this instrument? → janggu → Why don't we play it together? → Sure. Listen and Talk B (p068).",
+      "promptEn": "04 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "4",
+      "orderChunks": [
+        {
+          "id": "b",
+          "text": "What is this instrument?"
+        },
+        {
+          "id": "c",
+          "text": "It is a janggu. It's a traditional Korean instrument."
+        },
+        {
+          "id": "d",
+          "text": "I see. Why don't we play it together?"
+        },
+        {
+          "id": "a",
+          "text": "Sure."
+        }
+      ],
+      "orderIds": [
+        "b",
+        "c",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "05",
+      "explainKo": "정답 순서: Hey, Tate → It is a gat → It looks nice → In the past → try on a gat → Where can we do that? → hanbok shop. Listen and Talk C (p069). 'It goes well with hanbok'은 이 배열 보기 밖에 있다.",
+      "promptEn": "05 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "5",
+      "orderChunks": [
+        {
+          "id": "c",
+          "text": "Hey, Tate. That man is wearing a unique hat. What is it?"
+        },
+        {
+          "id": "a",
+          "text": "It is a gat. It's a traditional Korean hat."
+        },
+        {
+          "id": "b",
+          "text": "I see. It looks nice."
+        },
+        {
+          "id": "f",
+          "text": "Yes. In the past, men wore a gat when they went out."
+        },
+        {
+          "id": "d",
+          "text": "Right. And it's light and cool. Why don't we try on a gat?"
+        },
+        {
+          "id": "g",
+          "text": "Sure. Where can we do that?"
+        },
+        {
+          "id": "e",
+          "text": "There's a hanbok shop over there. Let's go."
+        }
+      ],
+      "orderIds": [
+        "c",
+        "a",
+        "b",
+        "f",
+        "d",
+        "g",
+        "e"
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "06",
+      "explainKo": "정답 순서: introduce → What is neolttwigi? → stand on a board → Why don't we play → That's a great idea. Listen and Talk D (p069).",
+      "promptEn": "06 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6",
+      "orderChunks": [
+        {
+          "id": "c",
+          "text": "I want to introduce neolttwigi to you."
+        },
+        {
+          "id": "b",
+          "text": "What is neolttwigi?"
+        },
+        {
+          "id": "d",
+          "text": "It is a traditional Korean game. Players stand on a board and jump high."
+        },
+        {
+          "id": "e",
+          "text": "I see. Why don't we play it together?"
+        },
+        {
+          "id": "a",
+          "text": "That's a great idea."
+        }
+      ],
+      "orderIds": [
+        "c",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "07",
+      "explainKo": "정답 순서: Hi, Yejun → talchum performance → What is Hahoe talchum? → dance drama → What else → jjimdak → want to try it → Why don't we eat → I'd love to. Real-Life Communication (p069).",
+      "promptEn": "07 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "7",
+      "orderChunks": [
+        {
+          "id": "g",
+          "text": "Hi, Yejun! How was your trip to Andong?"
+        },
+        {
+          "id": "d",
+          "text": "It was great! I watched a Hahoe talchum performance."
+        },
+        {
+          "id": "f",
+          "text": "What is Hahoe talchum?"
+        },
+        {
+          "id": "b",
+          "text": "It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music."
+        },
+        {
+          "id": "a",
+          "text": "Sounds interesting! What else did you do?"
+        },
+        {
+          "id": "i",
+          "text": "I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious."
+        },
+        {
+          "id": "h",
+          "text": "Wow, I really want to try it."
+        },
+        {
+          "id": "e",
+          "text": "Why don't we eat jjimdak together sometime?"
+        },
+        {
+          "id": "c",
+          "text": "I'd love to!"
+        }
+      ],
+      "orderIds": [
+        "g",
+        "d",
+        "f",
+        "b",
+        "a",
+        "i",
+        "h",
+        "e",
+        "c"
+      ]
+    },
+    {
+      "sourceId": 8,
+      "group": "08",
+      "explainKo": "정답 순서: what are you reading → beautiful places → Sounds interesting → looks so amazing → What is Jungnogwon? → bamboo forest → this Sunday → fantastic idea. Lesson Review A (p069).",
+      "promptEn": "08 다음 대화를 나오는 순서대로 누르시오.\n",
+      "type": "order",
+      "answerMode": "order",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "id": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "sectionInstructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "8",
+      "orderChunks": [
+        {
+          "id": "f",
+          "text": "Mom, what are you reading?"
+        },
+        {
+          "id": "d",
+          "text": "I'm reading a book about beautiful places in Korea."
+        },
+        {
+          "id": "a",
+          "text": "Sounds interesting."
+        },
+        {
+          "id": "c",
+          "text": "Jungnogwon looks so amazing!"
+        },
+        {
+          "id": "b",
+          "text": "What is Jungnogwon?"
+        },
+        {
+          "id": "e",
+          "text": "It is a bamboo forest in Damyang."
+        },
+        {
+          "id": "g",
+          "text": "It looks wonderful! Why don't we go there this Sunday?"
+        },
+        {
+          "id": "h",
+          "text": "That's a fantastic idea."
+        }
+      ],
+      "orderIds": [
+        "f",
+        "d",
+        "a",
+        "c",
+        "b",
+        "e",
+        "g",
+        "h"
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "문장을 나오는 순서대로 누릅니다. 기호를 쓰지 않습니다. 순서는 같은 단원 자세히 보기의 인쇄된 대화입니다. 답지 p.180의 기호 OCR은 깨져 있습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 대화를 나오는 순서대로 누르시오.",
+      "directionKo": "다음 대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "instructionKo": "다음 대화를 나오는 순서대로 누르시오. 문장을 나올 순서대로 누르세요. b-d-c처럼 기호를 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 8
+    }
+  ]
+}

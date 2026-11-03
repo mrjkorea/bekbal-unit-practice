@@ -1,0 +1,448 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "82-83",
+  "questionCount": 13,
+  "omitted": [
+    {
+      "sourceId": "05",
+      "reason": "p.180 정답란이 '0. 2. O'로 깨졌고, 해설은 제안에 수락하는 표현이 와야 한다고만 하여 선지 번호를 확정할 수 없음"
+    },
+    {
+      "sourceId": "11",
+      "reason": "p.180 정답란이 O이고 해설 'introduce: (톰 소개하다'가 깨져 적절하지 않은 뜻을 번호로 지정하지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "da-01",
+      "label": "01",
+      "sourceId": "01",
+      "group": "01",
+      "section": "a1",
+      "sectionTitle": "빈칸에 가장 적절한 말",
+      "sectionInstructionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "A: What is a janggu?\nB: ______ a traditional Korean instrument.",
+      "promptKo": "",
+      "explainKo": "p.180 해설: What is a janggu?는 '장구는 무엇이니?'라는 설명을 요청하는 표현이므로 무엇인지 설명하는 대답이 와야 하는데 a janggu가 단수명사이므로 It is로 답한다. 정답은 ③ It is.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "I like",
+        "They are",
+        "It is",
+        "I have",
+        "I'm playing"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "da-02",
+      "label": "02",
+      "sourceId": "02",
+      "group": "02",
+      "section": "a1",
+      "sectionTitle": "빈칸에 가장 적절한 말",
+      "sectionInstructionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "A: How about coming to my house today?\nB: ______. I have a lot of homework.",
+      "promptKo": "",
+      "explainKo": "p.180 해설: '나는 숙제가 아주 많아.'라는 말이 이어지므로 제안에 대해 거절하는 표현이 들어가야 적절하다. ① 왜 안 하겠어? ② 물론이야. ③ 응, 할 수 있어. ④ 그러고 싶어. ⑤ 미안한데 할 수 없어. 정답은 ⑤.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "Why not?",
+        "Of course.",
+        "Sure, I can.",
+        "I'd like to.",
+        "I'm afraid I can't."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "da-03",
+      "label": "03",
+      "sourceId": "03",
+      "group": "03",
+      "section": "a2",
+      "sectionTitle": "바꿔 쓸 수 있는 말",
+      "sectionInstructionKo": "다음 대화의 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "다음 대화의 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "A: Why don't we eat pasta for dinner?\nB: Sure!",
+      "promptKo": "",
+      "explainKo": "p.180 해설: Why don't we+동사원형~?는 '~하는 것이 어때?'이고 How about + -ing~?와 같다. ② 저녁으로 파스타를 먹는 것이 어때? ① 왜 그들은 저녁으로 파스타를 먹고 있니? ③ 너는 저녁으로 파스타를 먹을 수 있니? ④ 어법상 틀린 문장. ⑤ 너는 저녁으로 왜 파스타를 먹었니? 정답은 ②.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "Why are they eating pasta for dinner?",
+        "How about eating pasta for dinner?",
+        "Can you eat pasta for dinner?",
+        "What about you eat pasta for dinner?",
+        "Why did you eat pasta for dinner?"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "da-04-1",
+      "label": "04 (A)",
+      "sourceId": "04-A",
+      "group": "04",
+      "section": "a3",
+      "sectionTitle": "(A)~(C) 한 칸씩",
+      "sectionInstructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "G: Hi, Yejun! (1) ______ was your trip to Andong?\nB: It was great! I watched a Hahoe talchum performance.\nG: (2) ______ is Hahoe talchum?\nB: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.\nG: Sounds interesting! (3) ______ else did you do?\nB: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.\nG: Wow, I really want to try it.\nB: Why don't we eat jjimdak together sometime?\nG: (D) (빈칸)",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "explainKo": "p.180 해설: (A) '은 어땠니?'라고 물을 때는 How is[was] ~?를 사용한다. (1) How. How was your trip to Andong?",
+      "type": "fill",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "focusBlank": "1"
+    },
+    {
+      "id": "da-04-2",
+      "label": "04 (B)",
+      "sourceId": "04-B",
+      "group": "04",
+      "section": "a3",
+      "sectionTitle": "(A)~(C) 한 칸씩",
+      "sectionInstructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "G: Hi, Yejun! (1) ______ was your trip to Andong?\nB: It was great! I watched a Hahoe talchum performance.\nG: (2) ______ is Hahoe talchum?\nB: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.\nG: Sounds interesting! (3) ______ else did you do?\nB: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.\nG: Wow, I really want to try it.\nB: Why don't we eat jjimdak together sometime?\nG: (D) (빈칸)",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "explainKo": "p.180 해설: (B) '~은 무엇이니?'라고 설명을 요청할 때는 What is ~?를 사용한다. (2) What. What is Hahoe talchum?",
+      "type": "fill",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "focusBlank": "2"
+    },
+    {
+      "id": "da-04-3",
+      "label": "04 (C)",
+      "sourceId": "04-C",
+      "group": "04",
+      "section": "a3",
+      "sectionTitle": "(A)~(C) 한 칸씩",
+      "sectionInstructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "G: Hi, Yejun! (1) ______ was your trip to Andong?\nB: It was great! I watched a Hahoe talchum performance.\nG: (2) ______ is Hahoe talchum?\nB: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.\nG: Sounds interesting! (3) ______ else did you do?\nB: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.\nG: Wow, I really want to try it.\nB: Why don't we eat jjimdak together sometime?\nG: (D) (빈칸)",
+      "promptKo": "이 문항은 (3) 빈칸만 씁니다.",
+      "explainKo": "p.180 해설: (C) '그 밖에 너는 무엇을 했니?'라고 물을 때는 What(무엇을)을 사용해서 묻는다. (3) What. What else did you do?",
+      "type": "fill",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "focusBlank": "3"
+    },
+    {
+      "id": "da-06",
+      "label": "06",
+      "sourceId": "06",
+      "group": "06",
+      "section": "a4",
+      "sectionTitle": "대답할 수 없는 질문",
+      "sectionInstructionKo": "위 대화를 읽고, 대답할 수 없는 질문은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "위 대화를 읽고, 대답할 수 없는 질문은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "G: Hi, Yejun! (A) ______ was your trip to Andong?\nB: It was great! I watched a Hahoe talchum performance.\nG: (B) ______ is Hahoe talchum?\nB: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.\nG: Sounds interesting! (C) ______ else did you do?\nB: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.\nG: Wow, I really want to try it.\nB: Why don't we eat jjimdak together sometime?\nG: (D) ______",
+      "promptKo": "",
+      "explainKo": "p.180 해설: ① 예준이는 여행을 어디로 갔나? (안동) ② 예준이는 안동에서 무엇을 봤나? (하회탈춤) ③ 하회탈춤이란 무엇인가? (한국의 전통 무용극) ④ 예준이는 안동에서 무엇을 먹었나? (찜닭) ⑤ 그들은 언제 함께 찜닭을 먹나? (알 수 없음). 정답은 ⑤.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "Where did Yejun go on his trip?",
+        "What did Yejun watch in Andong?",
+        "What is Hahoe talchum?",
+        "What did Yejun eat in Andong?",
+        "When will they eat jjimdak together?"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "da-07",
+      "label": "07",
+      "sourceId": "07",
+      "group": "07",
+      "section": "a5",
+      "sectionTitle": "갓이 무엇이니",
+      "sectionInstructionKo": "위 대화의 빈칸 (A)에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "G: Hey, Tate. That man is wearing a unique hat. (A) ______\nB: It is a gat. It's a traditional Korean hat.\nG: I see. It looks nice.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. It goes ⓐ ______ with hanbok.\nB: Right. And it's light and cool. Why don't we try ⓑ ______ a gat?\nG: Sure. Where can we do (B) that?\nB: There's a hanbok shop over there. Let's go.",
+      "promptKo": "",
+      "explainKo": "p.180 해설: 소년이 '그것은 갓이야.'라고 답하고 있으므로 ② '그것은 무엇이니?'라고 묻는 표현이 와야 적절하다. ① 누구니? ③ 그것은 어디에 있니? ④ 그것들은 무엇이니? ⑤ 그는 무엇을 하고 있니?",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "Who is it?",
+        "What is it?",
+        "Where is it?",
+        "What are they?",
+        "What is he doing?"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "da-08",
+      "label": "08",
+      "sourceId": "08",
+      "group": "08",
+      "section": "a6",
+      "sectionTitle": "ⓐ와 ⓑ의 짝",
+      "sectionInstructionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "G: Hey, Tate. That man is wearing a unique hat. (A) ______\nB: It is a gat. It's a traditional Korean hat.\nG: I see. It looks nice.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. It goes ⓐ ______ with hanbok.\nB: Right. And it's light and cool. Why don't we try ⓑ ______ a gat?\nG: Sure. Where can we do (B) that?\nB: There's a hanbok shop over there. Let's go.",
+      "promptKo": "",
+      "explainKo": "p.180 해설: ⓐ go well with는 '~와 잘 어울리다', ⓑ try on은 '~을 해[입어/신어/착용해] 보다'이다. It goes well with hanbok. / Why don't we try on a gat? 정답은 ① well / on.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "well / on",
+        "well / off",
+        "good / on",
+        "good / off",
+        "nice / over"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "da-09",
+      "label": "09",
+      "sourceId": "09",
+      "group": "09",
+      "section": "a7",
+      "sectionTitle": "(B)가 가리키는 말",
+      "sectionInstructionKo": "위 대화의 밑줄 친 (B)가 가리키는 것은 무엇인지 6자 내외의 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "위 대화의 밑줄 친 (B)가 가리키는 것은 무엇인지 6자 내외의 우리말로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "G: Hey, Tate. That man is wearing a unique hat. (A) (빈칸)\nB: It is a gat. It's a traditional Korean hat.\nG: I see. It looks nice.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. It goes ⓐ (빈칸) with hanbok.\nB: Right. And it's light and cool. Why don't we try ⓑ (빈칸) a gat?\nG: Sure. Where can we do (B) that?\nB: There's a hanbok shop over there. Let's go.\n\n(B) that가 가리키는 것: ______",
+      "promptKo": "",
+      "explainKo": "p.180 해설: 소년이 갓을 써 보자고 제안을 했고 소녀는 '어디서 그것을 할 수 있냐?'고 묻고 있다. 예시 답안은 갓을 써 보는 것이다.",
+      "type": "fill",
+      "accept": [
+        "갓을 써 보는 것"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "da-10",
+      "label": "10",
+      "sourceId": "10",
+      "group": "10",
+      "section": "a8",
+      "sectionTitle": "대화 후 할 일",
+      "sectionInstructionKo": "위 대화를 읽고, 다음 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "directionKo": "위 대화를 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "promptEn": "G: Hey, Tate. That man is wearing a unique hat. (A) (빈칸)\nB: It is a gat. It's a traditional Korean hat.\nG: I see. It looks nice.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. It goes ⓐ (빈칸) with hanbok.\nB: Right. And it's light and cool. Why don't we try ⓑ (빈칸) a gat?\nG: Sure. Where can we do (B) that?\nB: There's a hanbok shop over there. Let's go.\n\nQ. What will the boy and the girl do after the conversation?\nThey will ______ at a hanbok shop.",
+      "promptKo": "",
+      "explainKo": "p.180 해설: 대화의 마지막에서 한복 가게에 가자고 했으므로 그들은 한복 가게로 가서 갓을 써 볼 것임을 알 수 있다. 질문: 대화 후 소년과 소녀는 무엇을 할 것인가? 정답은 try on a gat.",
+      "type": "fill",
+      "accept": [
+        "try on a gat"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "da-12",
+      "label": "12",
+      "sourceId": "12",
+      "group": "12",
+      "section": "a9",
+      "sectionTitle": "(A)와 다른 하나",
+      "sectionInstructionKo": "위 대화의 빈칸 (A)에 들어갈 말과 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 말과 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "promptEn": "A: I want to ①introduce neolttwigi to you.\nB: (A) ______ is neolttwigi?\nA: It is a ②traditional Korean game. Players ③stand on a ④board and jump ⑤high.\nB: I see. (B) 우리 함께 그것을 해볼래?\nA: That's a great idea.",
+      "promptKo": "",
+      "explainKo": "p.180–p.181 해설: ④에는 '~하는 게 어때'라는 의미의 Why don't we+동사원형~?의 Why가 들어가야 하고, (A)와 나머지 모두에는 '무엇'이라는 의미의 의문사 What이 들어가야 한다. (A)는 What is neolttwigi?이다. 정답은 ④.",
+      "type": "mc",
+      "select": "one",
+      "choices": [
+        "______ time is it?",
+        "______ are you doing?",
+        "______ do you like to eat?",
+        "______ don't we go to the beach?",
+        "______ is your favorite movie?"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "da-13",
+      "label": "13",
+      "sourceId": "13",
+      "group": "13",
+      "section": "a10",
+      "sectionTitle": "우리 함께 그것을 해볼래",
+      "sectionInstructionKo": "위 대화의 밑줄 친 (B)의 우리말을 조건에 맞게 영작하시오. 문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "directionKo": "위 대화의 밑줄 친 (B)의 우리말을 조건에 맞게 영작하시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "promptEn": "A: I want to ①introduce neolttwigi to you.\nB: (A) ______ is neolttwigi?\nA: It is a ②traditional Korean game. Players ③stand on a ④board and jump ⑤high.\nB: I see. (B) 우리 함께 그것을 해볼래?\nA: That's a great idea.\n\n(B) 우리 함께 그것을 해볼래?\n\n조건\n1. we, it, together, play를 포함해서 쓸 것.\n2. 단어를 추가하여 총 6단어로 쓸 것.\n3. 대소문자 및 구두점에 유의할 것.",
+      "promptKo": "",
+      "explainKo": "p.180 정답: Why don't we play it together? p.181 해설: 상대방에게 '우리 ~하는 게 어때?'라며 제안이나 권유하는 말을 할 때는 Why don't we + 동사원형~?으로 표현할 수 있다.",
+      "type": "sentence",
+      "accept": [
+        "Why don't we play it together?"
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "Lesson 06 Amazing Korea Dialog 심화 문제입니다. 정답과 해설은 답지 p.180과 p.181에 적힌 것만 넣었습니다. 정답 표기가 깨진 문항은 빼 두었습니다.",
+  "sections": [
+    {
+      "id": "a1",
+      "title": "빈칸에 가장 적절한 말",
+      "directionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "a2",
+      "title": "바꿔 쓸 수 있는 말",
+      "directionKo": "다음 대화의 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 대화의 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "a3",
+      "title": "(A)~(C) 한 칸씩",
+      "directionKo": "이 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "이 빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 3
+    },
+    {
+      "id": "a4",
+      "title": "대답할 수 없는 질문",
+      "directionKo": "위 대화를 읽고, 대답할 수 없는 질문은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화를 읽고, 대답할 수 없는 질문은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "a5",
+      "title": "갓이 무엇이니",
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 (A)에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "a6",
+      "title": "ⓐ와 ⓑ의 짝",
+      "directionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "a7",
+      "title": "(B)가 가리키는 말",
+      "directionKo": "위 대화의 밑줄 친 (B)가 가리키는 것은 무엇인지 6자 내외의 우리말로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "위 대화의 밑줄 친 (B)가 가리키는 것은 무엇인지 6자 내외의 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "a8",
+      "title": "대화 후 할 일",
+      "directionKo": "위 대화를 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "위 대화를 읽고, 다음 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "a9",
+      "title": "(A)와 다른 하나",
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 말과 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 (A)에 들어갈 말과 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "a10",
+      "title": "우리 함께 그것을 해볼래",
+      "directionKo": "위 대화의 밑줄 친 (B)의 우리말을 조건에 맞게 영작하시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "instructionKo": "위 대화의 밑줄 친 (B)의 우리말을 조건에 맞게 영작하시오. 문장 전체를 쓰세요. 대소문자와 문장 부호를 맞추세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    }
+  ]
+}
