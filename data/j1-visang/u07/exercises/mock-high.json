@@ -1,0 +1,248 @@
+{
+  "id": "mock-high",
+  "title": "고득점 모의고사",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.176-179",
+  "questionCount": 7,
+  "omitted": [
+    {
+      "sourceId": "2",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "3",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "4",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "6",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "7",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "8",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "10",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "12",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "14",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "15",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "16",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "17",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "18",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "19",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "20",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "22",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "23",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "24",
+      "reason": "고득점 보기 영어 순서가 OCR에서 확정되지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: looks like. (답지 pp.176-179 01)",
+      "type": "fill",
+      "promptEn": "~처럼 보이다, ~와 닮다. 답지 표현을 쓰시오.",
+      "accept": [
+        "looks like",
+        "look like"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: That's a good idea. (답지 09)",
+      "type": "fill",
+      "promptEn": "제안에 긍정으로 답하는 말을 쓰시오.",
+      "accept": [
+        "That's a good idea.",
+        "That's a good idea"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to go*ing* → to go. (답지 13)",
+      "type": "fill",
+      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nto go*ing*",
+      "accept": [
+        "to go"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: was → were. (답지 25)",
+      "type": "fill",
+      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nwas",
+      "accept": [
+        "were"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm worried about the sea animals. (답지 05)",
+      "type": "sentence",
+      "promptEn": "바다 동물들이 걱정된다는 문장 전체를 쓰시오.",
+      "accept": [
+        "I'm worried about the sea animals.",
+        "I am worried about the sea animals."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: To read books is very important. (답지 11)",
+      "type": "sentence",
+      "promptEn": "책을 읽는 것은 매우 중요하다. to부정사 주어로 문장 전체를 쓰시오.",
+      "accept": [
+        "To read books is very important."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How long the journey is! (답지 21)",
+      "type": "sentence",
+      "promptEn": "그 여행은 얼마나 긴지! How 감탄문으로 문장 전체를 쓰시오.",
+      "accept": [
+        "How long the journey is!"
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 4문항 문장 전체를 쓰시오. 3문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 3
+    }
+  ]
+}

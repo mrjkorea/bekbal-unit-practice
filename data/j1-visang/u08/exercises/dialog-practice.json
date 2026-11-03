@@ -1,0 +1,112 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.196-197",
+  "questionCount": 2,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "2",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "3",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "4",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "5",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "6",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "9",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "10",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "11",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "12",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "13",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "14",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The club is sending clothes and food to help others. (답지 07)",
+      "type": "sentence",
+      "promptEn": "동아리가 옷과 음식을 보내는 이유를 영어 문장으로 쓰시오.",
+      "accept": [
+        "The club is sending clothes and food to help others."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How was your weekend? (답지 08)",
+      "type": "sentence",
+      "promptEn": "과거의 경험을 물을 때 쓰는 질문을 문장으로 쓰시오.",
+      "accept": [
+        "How was your weekend?"
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 2
+    }
+  ]
+}

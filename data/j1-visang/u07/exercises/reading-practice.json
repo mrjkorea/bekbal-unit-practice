@@ -1,0 +1,158 @@
+{
+  "id": "reading-practice",
+  "title": "Reading 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.158-161",
+  "questionCount": 2,
+  "omitted": [
+    {
+      "sourceId": "2",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "3",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "5",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "6",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "7",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "8",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "9",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "10",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "11",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "12",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "13",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "14",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "15",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "16",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "17",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "18",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "19",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "20",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "21",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "22",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "23",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "24",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "25",
+      "reason": "실전 지문 문항의 영어 보기가 두 단 OCR에서 순서를 확정하지 못함"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: in the middle of. I'm in the middle of the ocean. (답지 01)",
+      "type": "fill",
+      "promptEn": "윗글의 밑줄 친 우리말에 맞도록 문장의 빈칸만 쓰시오.\n난 대양 한가운데 있어.\n→ I'm ______ the ocean.",
+      "accept": [
+        "in the middle of"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: accident. (답지 04)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 본문에서 찾아 쓰시오.\nan unfortunate and unplanned event",
+      "accept": [
+        "accident"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}

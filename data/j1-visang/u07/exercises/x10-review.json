@@ -1,0 +1,537 @@
+{
+  "id": "x10-review",
+  "title": "핵심 문장 Review",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "X-10 pp.42-43",
+  "questionCount": 24,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "In the ocean, the plastic duck met a lot of sea animals.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "\"Where am I going now?,\" the duck thought.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "There were a few people at the beach.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "One day, a weak storm freed the duck.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Luckily, plastic ducks could get out of the boxes.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "After weeks, the duck finally reached island.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Then the waves took the duck to a giant trash island.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X meeted → met (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "One time, I meeted a sea turtle in a fishing net.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "met"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "I am in the middle of the ocean.",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X lasting → lasts (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "People made us with plastic because it is light and lasting long.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "lasts"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X they → them (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "But many of they were in trouble.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "them"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "12",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X luck → lucky (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "How luck I am!",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "lucky"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X helping → to help (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "I wanted helping, but I couldn't.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "to help"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "14",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "I saw a lot of plastic waste.",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "15",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The wind was strong, so the waves took us apart. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nThe wind was strong, so the waves took (we) apart.",
+      "accept": [
+        "The wind was strong, so the waves took us apart."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But many of them were in trouble. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nBut many of (they) were in trouble.",
+      "accept": [
+        "But many of them were in trouble."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "17",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I wanted to get out of there. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nI wanted (get) out of there.",
+      "accept": [
+        "I wanted to get out of there."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "18",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Luckily, we could get out of the boxes. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\n(Lucky), we could get out of the boxes.",
+      "accept": [
+        "Luckily, we could get out of the boxes."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "19",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But the boxes fell into the ocean in an accident. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nBut the boxes (fall) into the ocean in an accident.",
+      "accept": [
+        "But the boxes fell into the ocean in an accident."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Hi! I am a plastic duck and I am a bath toy. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nHi! I am a plastic duck but I am a bath toy.",
+      "accept": [
+        "Hi! I am a plastic duck and I am a bath toy."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "21",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: There were a lot of people at the beach. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nThere was a lot of people at the beach.",
+      "accept": [
+        "There were a lot of people at the beach."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "22",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I am finally in a bathtub with this boy, Mike. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nI am finally in a bathtub with these boy, Mike.",
+      "accept": [
+        "I am finally in a bathtub with this boy, Mike."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "23",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: \"Where am I going now?,\" I thought. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\n\"Where I am going now?,\" I thought.",
+      "accept": [
+        "\"Where am I going now?,\" I thought."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "24",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Then the waves took me to a giant trash island. (X-10 Review C·D)",
+      "type": "sentence",
+      "promptEn": "괄호 또는 틀린 곳을 고쳐 문장 전체를 쓰시오.\nThen the waves took me to a giant trash island*s*.",
+      "accept": [
+        "Then the waves took me to a giant trash island."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 내용과 같으면 T, 다르면 F를 고르시오. 7문항 밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. 7문항 문장 전체를 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    },
+    {
+      "id": "s2",
+      "title": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "instructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "itemCount": 7
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 10
+    }
+  ]
+}

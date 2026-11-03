@@ -1,0 +1,137 @@
+{
+  "id": "plus-practice",
+  "title": "Plus 기타 지문 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "p.167",
+  "questionCount": 3,
+  "omitted": [
+    {
+      "sourceId": "3",
+      "reason": "답지 번호가 두 단 OCR에서 비거나 선택 영어가 없음"
+    },
+    {
+      "sourceId": "5",
+      "reason": "답지 번호가 두 단 OCR에서 비거나 선택 영어가 없음"
+    },
+    {
+      "sourceId": "6",
+      "reason": "답지 번호가 두 단 OCR에서 비거나 선택 영어가 없음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. reach는 여기서 ‘~에 도착하다’. (답지 p.167 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "윗글의 밑줄 친 ⓐ–ⓔ 중 문맥상 의미가 바르지 않은 것은?\nOne day, a plastic duck fell into the ocean in an accident. … Can the duck reach land?",
+      "choices": [
+        "ⓐ fell into: ~에 빠졌다",
+        "ⓑ in an accident: 사고로",
+        "ⓒ arrived at: ~에 도착했다",
+        "ⓓ in trouble: 곤경에 처한",
+        "ⓔ reach: 손을 뻗다"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ 설명하기. Green Challenge를 설명한다. (답지 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "윗글을 쓴 목적으로 알맞은 것은?",
+      "choices": [
+        "조언하기",
+        "사과하기",
+        "요청하기",
+        "설명하기",
+        "비교하기"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s2",
+      "sectionTitle": "Section B · 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: (B)-(C)-(A). (답지 02)",
+      "type": "order",
+      "promptEn": "다음 (A)–(C)를 흐름에 맞게 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s3",
+          "text": "(C) Sadly, many of them were in trouble."
+        },
+        {
+          "id": "s2",
+          "text": "(B) In the ocean, the duck met a lot of sea animals."
+        },
+        {
+          "id": "s1",
+          "text": "(A) Then the duck arrived at a giant trash island."
+        }
+      ],
+      "orderIds": [
+        "s2",
+        "s3",
+        "s1"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 2문항 나오는 순서대로 누르시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 1
+    }
+  ]
+}

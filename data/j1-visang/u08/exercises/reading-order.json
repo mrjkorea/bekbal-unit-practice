@@ -1,0 +1,1735 @@
+{
+  "id": "reading-order",
+  "title": "Reading 순서배열하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.212-213",
+  "questionCount": 22,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I'm blind. I walk with a stick. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "1 나는 시각 장애인이야. 나는 지팡이를 이용해서 걸어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "stick"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "with"
+        },
+        {
+          "id": "c4",
+          "text": "walk"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "blind"
+        },
+        {
+          "id": "c7",
+          "text": "I'm"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\" (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "2 어느 날, 나의 담임 선생님이 말씀하셨어. ‘우정 마라톤’이라는 학교 행사가 있을 거야.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "Marathon"
+        },
+        {
+          "id": "c2",
+          "text": "Friendship"
+        },
+        {
+          "id": "c3",
+          "text": "event"
+        },
+        {
+          "id": "c4",
+          "text": "school"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "be"
+        },
+        {
+          "id": "c7",
+          "text": "will"
+        },
+        {
+          "id": "c8",
+          "text": "There"
+        },
+        {
+          "id": "c9",
+          "text": "said"
+        },
+        {
+          "id": "c10",
+          "text": "teacher"
+        },
+        {
+          "id": "c11",
+          "text": "homeroom"
+        },
+        {
+          "id": "c12",
+          "text": "my"
+        },
+        {
+          "id": "c13",
+          "text": "day"
+        },
+        {
+          "id": "c14",
+          "text": "One"
+        }
+      ],
+      "orderIds": [
+        "c14",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: In this event, two people run as a team. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "3 이 행사에서는 두 사람이 한 팀으로 달려.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "team"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "as"
+        },
+        {
+          "id": "c4",
+          "text": "run"
+        },
+        {
+          "id": "c5",
+          "text": "people"
+        },
+        {
+          "id": "c6",
+          "text": "two"
+        },
+        {
+          "id": "c7",
+          "text": "event"
+        },
+        {
+          "id": "c8",
+          "text": "this"
+        },
+        {
+          "id": "c9",
+          "text": "In"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Everyone talked about it. I also got interested. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "4 모든 사람들이 그것에 대해 이야기했어. 나도 관심이 생겼어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "interested"
+        },
+        {
+          "id": "c2",
+          "text": "got"
+        },
+        {
+          "id": "c3",
+          "text": "also"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "it"
+        },
+        {
+          "id": "c6",
+          "text": "about"
+        },
+        {
+          "id": "c7",
+          "text": "talked"
+        },
+        {
+          "id": "c8",
+          "text": "Everyone"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"But can I run?\" I was not sure. So I talked about it with my best friend, Junha. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "5 하지만 내가 달릴 수 있을까? 나는 확신할 수 없었어. 그래서 나는 가장 친한 친구 준하와 그것에 대해 이야기했어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "Junha"
+        },
+        {
+          "id": "c2",
+          "text": "friend"
+        },
+        {
+          "id": "c3",
+          "text": "best"
+        },
+        {
+          "id": "c4",
+          "text": "my"
+        },
+        {
+          "id": "c5",
+          "text": "with"
+        },
+        {
+          "id": "c6",
+          "text": "it"
+        },
+        {
+          "id": "c7",
+          "text": "about"
+        },
+        {
+          "id": "c8",
+          "text": "talked"
+        },
+        {
+          "id": "c9",
+          "text": "I"
+        },
+        {
+          "id": "c10",
+          "text": "So"
+        },
+        {
+          "id": "c11",
+          "text": "sure"
+        },
+        {
+          "id": "c12",
+          "text": "not"
+        },
+        {
+          "id": "c13",
+          "text": "was"
+        },
+        {
+          "id": "c14",
+          "text": "I"
+        },
+        {
+          "id": "c15",
+          "text": "run"
+        },
+        {
+          "id": "c16",
+          "text": "I"
+        },
+        {
+          "id": "c17",
+          "text": "can"
+        },
+        {
+          "id": "c18",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c18",
+        "c17",
+        "c9",
+        "c15",
+        "c14",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c16",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: He said, \"Don't worry! I'll run with you.\" (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "6 그가 말했어. “걱정하지 마! 내가 너와 함께 달릴게.”",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "you"
+        },
+        {
+          "id": "c2",
+          "text": "with"
+        },
+        {
+          "id": "c3",
+          "text": "run"
+        },
+        {
+          "id": "c4",
+          "text": "I'll"
+        },
+        {
+          "id": "c5",
+          "text": "worry"
+        },
+        {
+          "id": "c6",
+          "text": "Don't"
+        },
+        {
+          "id": "c7",
+          "text": "said"
+        },
+        {
+          "id": "c8",
+          "text": "He"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: On the day of the marathon, we tied a string around our fingers to feel each other's movement. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "7 마라톤 당일에, 우리는 서로의 움직임을 느끼기 위해 손가락에 끈을 묶었어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "movement"
+        },
+        {
+          "id": "c2",
+          "text": "other's"
+        },
+        {
+          "id": "c3",
+          "text": "each"
+        },
+        {
+          "id": "c4",
+          "text": "feel"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "fingers"
+        },
+        {
+          "id": "c7",
+          "text": "our"
+        },
+        {
+          "id": "c8",
+          "text": "around"
+        },
+        {
+          "id": "c9",
+          "text": "string"
+        },
+        {
+          "id": "c10",
+          "text": "a"
+        },
+        {
+          "id": "c11",
+          "text": "tied"
+        },
+        {
+          "id": "c12",
+          "text": "we"
+        },
+        {
+          "id": "c13",
+          "text": "marathon"
+        },
+        {
+          "id": "c14",
+          "text": "the"
+        },
+        {
+          "id": "c15",
+          "text": "of"
+        },
+        {
+          "id": "c16",
+          "text": "day"
+        },
+        {
+          "id": "c17",
+          "text": "the"
+        },
+        {
+          "id": "c18",
+          "text": "On"
+        }
+      ],
+      "orderIds": [
+        "c18",
+        "c14",
+        "c16",
+        "c15",
+        "c17",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I listened to him very carefully and ran with him. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "8 나는 그의 말을 매우 주의 깊게 들으며 그와 함께 달렸어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "him"
+        },
+        {
+          "id": "c2",
+          "text": "with"
+        },
+        {
+          "id": "c3",
+          "text": "ran"
+        },
+        {
+          "id": "c4",
+          "text": "and"
+        },
+        {
+          "id": "c5",
+          "text": "carefully"
+        },
+        {
+          "id": "c6",
+          "text": "very"
+        },
+        {
+          "id": "c7",
+          "text": "him"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c9",
+          "text": "listened"
+        },
+        {
+          "id": "c10",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c1",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: The wind was blowing through me and it felt great! (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "9 바람이 내게 불어오고 그 느낌이 정말 좋았어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "great"
+        },
+        {
+          "id": "c2",
+          "text": "felt"
+        },
+        {
+          "id": "c3",
+          "text": "it"
+        },
+        {
+          "id": "c4",
+          "text": "and"
+        },
+        {
+          "id": "c5",
+          "text": "me"
+        },
+        {
+          "id": "c6",
+          "text": "through"
+        },
+        {
+          "id": "c7",
+          "text": "blowing"
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        },
+        {
+          "id": "c9",
+          "text": "wind"
+        },
+        {
+          "id": "c10",
+          "text": "The"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: At the finish line, everyone cheered for us. I was proud of myself. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "10 결승선에서 모든 사람들이 우리를 응원했어. 나는 나 자신이 자랑스러웠어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "myself"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c3",
+          "text": "proud"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "us"
+        },
+        {
+          "id": "c7",
+          "text": "for"
+        },
+        {
+          "id": "c8",
+          "text": "cheered"
+        },
+        {
+          "id": "c9",
+          "text": "everyone"
+        },
+        {
+          "id": "c10",
+          "text": "line"
+        },
+        {
+          "id": "c11",
+          "text": "finish"
+        },
+        {
+          "id": "c12",
+          "text": "the"
+        },
+        {
+          "id": "c13",
+          "text": "At"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Before the marathon, I thought that I couldn't do it. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "11 마라톤 전에는 나는 그것을 할 수 없을 거라고 생각했어.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "it"
+        },
+        {
+          "id": "c2",
+          "text": "do"
+        },
+        {
+          "id": "c3",
+          "text": "couldn't"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "that"
+        },
+        {
+          "id": "c6",
+          "text": "thought"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "marathon"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "Before"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c4",
+        "c6",
+        "c5",
+        "c7",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But now, I want to try other things. I think that I can try a bike ride next time. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "12 하지만 지금 나는 다른 것들을 시도하고 싶다. 다음에는 자전거 타기를 해볼 수 있다고 생각한다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "time"
+        },
+        {
+          "id": "c2",
+          "text": "next"
+        },
+        {
+          "id": "c3",
+          "text": "ride"
+        },
+        {
+          "id": "c4",
+          "text": "bike"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "try"
+        },
+        {
+          "id": "c7",
+          "text": "can"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        },
+        {
+          "id": "c9",
+          "text": "that"
+        },
+        {
+          "id": "c10",
+          "text": "think"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c12",
+          "text": "things"
+        },
+        {
+          "id": "c13",
+          "text": "other"
+        },
+        {
+          "id": "c14",
+          "text": "try"
+        },
+        {
+          "id": "c15",
+          "text": "to"
+        },
+        {
+          "id": "c16",
+          "text": "want"
+        },
+        {
+          "id": "c17",
+          "text": "I"
+        },
+        {
+          "id": "c18",
+          "text": "now"
+        },
+        {
+          "id": "c19",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c19",
+        "c18",
+        "c8",
+        "c16",
+        "c15",
+        "c6",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c17",
+        "c7",
+        "c14",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Andy and I signed up for Friendship Marathon. I was his guide runner. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "13 Andy와 나는 우정 마라톤에 등록했다. 나는 그의 가이드 러너였다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "runner"
+        },
+        {
+          "id": "c2",
+          "text": "guide"
+        },
+        {
+          "id": "c3",
+          "text": "his"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "Marathon"
+        },
+        {
+          "id": "c7",
+          "text": "Friendship"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        },
+        {
+          "id": "c9",
+          "text": "up"
+        },
+        {
+          "id": "c10",
+          "text": "signed"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c12",
+          "text": "and"
+        },
+        {
+          "id": "c13",
+          "text": "Andy"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c5",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c11",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: We ran together every day with a string. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "14 우리는 끈을 가지고 매일 함께 달렸다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "string"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "with"
+        },
+        {
+          "id": "c4",
+          "text": "day"
+        },
+        {
+          "id": "c5",
+          "text": "every"
+        },
+        {
+          "id": "c6",
+          "text": "together"
+        },
+        {
+          "id": "c7",
+          "text": "ran"
+        },
+        {
+          "id": "c8",
+          "text": "We"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I told him, \"Andy, a bike is coming. So let's move to the right.\" (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "15 나는 그에게 말했다. “Andy, 자전거가 오고 있어. 그러니 오른쪽으로 움직이자.”",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "right"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "move"
+        },
+        {
+          "id": "c5",
+          "text": "let's"
+        },
+        {
+          "id": "c6",
+          "text": "So"
+        },
+        {
+          "id": "c7",
+          "text": "coming"
+        },
+        {
+          "id": "c8",
+          "text": "is"
+        },
+        {
+          "id": "c9",
+          "text": "bike"
+        },
+        {
+          "id": "c10",
+          "text": "a"
+        },
+        {
+          "id": "c11",
+          "text": "Andy"
+        },
+        {
+          "id": "c12",
+          "text": "him"
+        },
+        {
+          "id": "c13",
+          "text": "told"
+        },
+        {
+          "id": "c14",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c14",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: As a team, we practiced hard to win the marathon. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "16 팀으로서 우리는 마라톤에서 우승하기 위해 열심히 연습했다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "marathon"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "win"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "hard"
+        },
+        {
+          "id": "c6",
+          "text": "practiced"
+        },
+        {
+          "id": "c7",
+          "text": "we"
+        },
+        {
+          "id": "c8",
+          "text": "team"
+        },
+        {
+          "id": "c9",
+          "text": "a"
+        },
+        {
+          "id": "c10",
+          "text": "As"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: During the marathon, I ran with Andy and guided him at the same time. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "17 마라톤 동안 나는 Andy와 달리며 동시에 그를 안내했다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "time"
+        },
+        {
+          "id": "c2",
+          "text": "same"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "at"
+        },
+        {
+          "id": "c5",
+          "text": "him"
+        },
+        {
+          "id": "c6",
+          "text": "guided"
+        },
+        {
+          "id": "c7",
+          "text": "and"
+        },
+        {
+          "id": "c8",
+          "text": "Andy"
+        },
+        {
+          "id": "c9",
+          "text": "with"
+        },
+        {
+          "id": "c10",
+          "text": "ran"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c12",
+          "text": "marathon"
+        },
+        {
+          "id": "c13",
+          "text": "the"
+        },
+        {
+          "id": "c14",
+          "text": "During"
+        }
+      ],
+      "orderIds": [
+        "c14",
+        "c3",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c13",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: It was hard, but we didn't stop running. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "18 힘들었지만 우리는 달리기를 멈추지 않았다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "running"
+        },
+        {
+          "id": "c2",
+          "text": "stop"
+        },
+        {
+          "id": "c3",
+          "text": "didn't"
+        },
+        {
+          "id": "c4",
+          "text": "we"
+        },
+        {
+          "id": "c5",
+          "text": "but"
+        },
+        {
+          "id": "c6",
+          "text": "hard"
+        },
+        {
+          "id": "c7",
+          "text": "was"
+        },
+        {
+          "id": "c8",
+          "text": "It"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: At last, we made it to the finish line. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "19 마침내 우리는 결승선에 도착했다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "line"
+        },
+        {
+          "id": "c2",
+          "text": "finish"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "it"
+        },
+        {
+          "id": "c6",
+          "text": "made"
+        },
+        {
+          "id": "c7",
+          "text": "we"
+        },
+        {
+          "id": "c8",
+          "text": "last"
+        },
+        {
+          "id": "c9",
+          "text": "At"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: We didn't win the race. But I knew that we did our best. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "20 우리는 경주에서 이기지 못했다. 하지만 최선을 다했다는 것을 알았다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "best"
+        },
+        {
+          "id": "c2",
+          "text": "our"
+        },
+        {
+          "id": "c3",
+          "text": "did"
+        },
+        {
+          "id": "c4",
+          "text": "we"
+        },
+        {
+          "id": "c5",
+          "text": "that"
+        },
+        {
+          "id": "c6",
+          "text": "knew"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "But"
+        },
+        {
+          "id": "c9",
+          "text": "race"
+        },
+        {
+          "id": "c10",
+          "text": "the"
+        },
+        {
+          "id": "c11",
+          "text": "win"
+        },
+        {
+          "id": "c12",
+          "text": "didn't"
+        },
+        {
+          "id": "c13",
+          "text": "We"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c13",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Finishing something was not easy for me. But this time I did it! (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "21 무언가를 끝내는 것은 나에게 쉽지 않았다. 하지만 이번에는 해냈다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "it"
+        },
+        {
+          "id": "c2",
+          "text": "did"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "time"
+        },
+        {
+          "id": "c5",
+          "text": "this"
+        },
+        {
+          "id": "c6",
+          "text": "But"
+        },
+        {
+          "id": "c7",
+          "text": "me"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        },
+        {
+          "id": "c9",
+          "text": "easy"
+        },
+        {
+          "id": "c10",
+          "text": "not"
+        },
+        {
+          "id": "c11",
+          "text": "was"
+        },
+        {
+          "id": "c12",
+          "text": "something"
+        },
+        {
+          "id": "c13",
+          "text": "Finishing"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I was very happy. Andy looked happy, too. (답지 pp.212-215)",
+      "type": "order",
+      "promptEn": "22 나는 매우 기뻤다. Andy도 기뻐 보였다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "too"
+        },
+        {
+          "id": "c2",
+          "text": "happy"
+        },
+        {
+          "id": "c3",
+          "text": "looked"
+        },
+        {
+          "id": "c4",
+          "text": "Andy"
+        },
+        {
+          "id": "c5",
+          "text": "happy"
+        },
+        {
+          "id": "c6",
+          "text": "very"
+        },
+        {
+          "id": "c7",
+          "text": "was"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c2",
+        "c4",
+        "c3",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 22문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 단어 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 22
+    }
+  ]
+}

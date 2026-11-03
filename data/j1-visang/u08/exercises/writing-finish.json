@@ -1,0 +1,156 @@
+{
+  "id": "writing-finish",
+  "title": "서술형 끝내기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.226-229",
+  "questionCount": 2,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "2",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "3",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "4",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "5",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "6",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "7",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "8",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "9",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "10",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "11",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "12",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "13",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "14",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "15",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "16",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "17",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "20",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "21",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "22",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "23",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "24",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    },
+    {
+      "sourceId": "25",
+      "reason": "서술형 끝내기 문항 줄이 두 단 OCR에서 답과 분리됨"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 서술",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I thought that I couldn't do it. (답지 서술형 19)",
+      "type": "sentence",
+      "promptEn": "나는 그것을 할 수 없을 거라고 생각했다.",
+      "accept": [
+        "I thought that I couldn't do it."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 서술",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: They practiced hard to win the marathon. (답지 18)",
+      "type": "sentence",
+      "promptEn": "그들은 마라톤에서 우승하기 위해 열심히 연습했다.",
+      "accept": [
+        "They practiced hard to win the marathon."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인된 서술",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 2
+    }
+  ]
+}

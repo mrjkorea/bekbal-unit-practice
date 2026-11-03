@@ -1,0 +1,430 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.194-195",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 1)",
+      "type": "order",
+      "promptEn": "1 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Sure."
+        },
+        {
+          "id": "s3",
+          "text": "Yes, I did. Can you look for my phone with me?"
+        },
+        {
+          "id": "s2",
+          "text": "Did you bring it home from school?"
+        },
+        {
+          "id": "s1",
+          "text": "I can't find my phone."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 2)",
+      "type": "order",
+      "promptEn": "2 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Sure."
+        },
+        {
+          "id": "s3",
+          "text": "Then can you return a book for me?"
+        },
+        {
+          "id": "s2",
+          "text": "I'm going to the library."
+        },
+        {
+          "id": "s1",
+          "text": "Where are you going, Joan?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 3)",
+      "type": "order",
+      "promptEn": "3 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Okay."
+        },
+        {
+          "id": "s3",
+          "text": "Can you buy some milk and eggs at the store?"
+        },
+        {
+          "id": "s2",
+          "text": "Not really, Dad. Why?"
+        },
+        {
+          "id": "s1",
+          "text": "Susan, are you busy?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 4)",
+      "type": "order",
+      "promptEn": "4 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s5",
+          "text": "Oh, great! Thank you."
+        },
+        {
+          "id": "s4",
+          "text": "Yes, of course. I can bring some clothes, too."
+        },
+        {
+          "id": "s3",
+          "text": "Our club is going to send clothes and food to help others. Do you want to join us?"
+        },
+        {
+          "id": "s2",
+          "text": "Sure, Dylan. What is it?"
+        },
+        {
+          "id": "s1",
+          "text": "Can you help me, Lena?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 5)",
+      "type": "order",
+      "promptEn": "5 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Yes, I did. It was great."
+        },
+        {
+          "id": "s3",
+          "text": "Did you like the movie?"
+        },
+        {
+          "id": "s2",
+          "text": "I watched a movie called Black. It's about a blind girl and her teacher."
+        },
+        {
+          "id": "s1",
+          "text": "Hi, James. What did you do last Sunday?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 6)",
+      "type": "order",
+      "promptEn": "6 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "They couldn't use smartphones well. So I taught them."
+        },
+        {
+          "id": "s3",
+          "text": "What did you do?"
+        },
+        {
+          "id": "s2",
+          "text": "Good. I went to a nursing home and helped out."
+        },
+        {
+          "id": "s1",
+          "text": "How was your weekend?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 7)",
+      "type": "order",
+      "promptEn": "7 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "We went to the beach. The snowy beach was so beautiful."
+        },
+        {
+          "id": "s3",
+          "text": "Sounds great. What did you do there?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes. I visited my uncle in Sokcho."
+        },
+        {
+          "id": "s1",
+          "text": "Did you have a good holiday?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 8)",
+      "type": "order",
+      "promptEn": "8 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "My dad played the violin, and my mom played the piano. I sang a few songs. It was the best day of the year."
+        },
+        {
+          "id": "s3",
+          "text": "A small concert? That's great."
+        },
+        {
+          "id": "s2",
+          "text": "My family and I held a small concert at a children's hospital."
+        },
+        {
+          "id": "s1",
+          "text": "What did you do over the weekend, Lena?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 9)",
+      "type": "order",
+      "promptEn": "9 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Sure. No problem."
+        },
+        {
+          "id": "s3",
+          "text": "Can you take out the trash?"
+        },
+        {
+          "id": "s2",
+          "text": "Yes, Mom. What can I do for you?"
+        },
+        {
+          "id": "s1",
+          "text": "Jim, can you come and help me?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화 순서. (X-10 대화 영작하기 10)",
+      "type": "order",
+      "promptEn": "10 다음 대화를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Sounds fun."
+        },
+        {
+          "id": "s3",
+          "text": "I watched a movie with my friends."
+        },
+        {
+          "id": "s2",
+          "text": "Yes. I went fishing with my family. How about you, Sam?"
+        },
+        {
+          "id": "s1",
+          "text": "Did you have a good weekend, Amy?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

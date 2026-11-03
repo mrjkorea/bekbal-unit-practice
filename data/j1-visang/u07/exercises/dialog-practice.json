@@ -1,0 +1,155 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.138-139",
+  "questionCount": 4,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "2",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "3",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "4",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "6",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "8",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "9",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "11",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "12",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    },
+    {
+      "sourceId": "14",
+      "reason": "실전 문제 보기 영어가 두 단 OCR에서 순서를 확정하기 어려움"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 쓰기",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm worried about sea animals. (답지 pp.138-139 05)",
+      "type": "sentence",
+      "promptEn": "걱정을 나타내는 말로 빈칸을 채워 문장 전체를 쓰시오.\n나는 바다 동물들이 걱정돼.\n→ ________________",
+      "accept": [
+        "I'm worried about sea animals.",
+        "I am worried about sea animals."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 쓰기",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: 사람들 앞에서 말하는 것. (답지 07)",
+      "type": "sentence",
+      "promptEn": "밑줄 친 it이 가리키는 말을 우리말로 쓰시오.\nSpeaking in front of people is not easy.",
+      "accept": [
+        "사람들 앞에서 말하는 것"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 쓰기",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm worried about the polar bears. (답지 13)",
+      "type": "sentence",
+      "promptEn": "다음 우리말에 맞도록 문장 전체를 쓰시오.\n나는 북극곰들이 걱정돼.",
+      "accept": [
+        "I'm worried about the polar bears.",
+        "I am worried about the polar bears."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s2",
+      "sectionTitle": "Section B · 고치기",
+      "directionKo": "틀린 말을 바른 말로만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요.",
+      "sectionInstructionKo": "틀린 말을 바른 말로만 쓰시오. 고친 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: making → make. Why don't we + 동사원형. (답지 10)",
+      "type": "fill",
+      "promptEn": "어법상 틀린 부분을 바른 말로만 쓰시오.\nWhy don't we making a video?",
+      "accept": [
+        "make"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 3문항 틀린 말을 바른 말로만 쓰시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 쓰기",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 3
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 고치기",
+      "directionKo": "틀린 말을 바른 말로만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "틀린 말을 바른 말로만 쓰시오. 고친 말만 쓰세요.",
+      "itemCount": 1
+    }
+  ]
+}

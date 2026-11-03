@@ -1,0 +1,1557 @@
+{
+  "id": "x10-vocab",
+  "title": "어휘 확인 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "X-10 pp.44-45",
+  "questionCount": 97,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "s1-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "race — 경주\ncarefully — 주의 깊게\nhospital — 병원\ntie — 묶다\njoin — 참여하다",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "race",
+          "ko": "경주",
+          "sourceId": 1,
+          "explainKo": "정답: 경주"
+        },
+        {
+          "id": "2",
+          "en": "carefully",
+          "ko": "주의 깊게",
+          "sourceId": 2,
+          "explainKo": "정답: 주의 깊게"
+        },
+        {
+          "id": "3",
+          "en": "hospital",
+          "ko": "병원",
+          "sourceId": 3,
+          "explainKo": "정답: 병원"
+        },
+        {
+          "id": "4",
+          "en": "tie",
+          "ko": "묶다",
+          "sourceId": 4,
+          "explainKo": "정답: 묶다"
+        },
+        {
+          "id": "5",
+          "en": "join",
+          "ko": "참여하다",
+          "sourceId": 5,
+          "explainKo": "정답: 참여하다"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "teach — 가르치다\nhope — 희망하다\nstring — 줄, 끈\nreturn — 반납하다\nhard — 열심히; 어려운",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "teach",
+          "ko": "가르치다",
+          "sourceId": 6,
+          "explainKo": "정답: 가르치다"
+        },
+        {
+          "id": "7",
+          "en": "hope",
+          "ko": "희망하다",
+          "sourceId": 7,
+          "explainKo": "정답: 희망하다"
+        },
+        {
+          "id": "8",
+          "en": "string",
+          "ko": "줄, 끈",
+          "sourceId": 8,
+          "explainKo": "정답: 줄, 끈"
+        },
+        {
+          "id": "9",
+          "en": "return",
+          "ko": "반납하다",
+          "sourceId": 9,
+          "explainKo": "정답: 반납하다"
+        },
+        {
+          "id": "10",
+          "en": "hard",
+          "ko": "열심히; 어려운",
+          "sourceId": 10,
+          "explainKo": "정답: 열심히; 어려운"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "snowy — 눈 덮인\nspecial — 특별한\nguess — 추측하다\nblow — 불다\nrecycle — 재활용하다",
+      "type": "match",
+      "group": "11",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "snowy",
+          "ko": "눈 덮인",
+          "sourceId": 11,
+          "explainKo": "정답: 눈 덮인"
+        },
+        {
+          "id": "12",
+          "en": "special",
+          "ko": "특별한",
+          "sourceId": 12,
+          "explainKo": "정답: 특별한"
+        },
+        {
+          "id": "13",
+          "en": "guess",
+          "ko": "추측하다",
+          "sourceId": 13,
+          "explainKo": "정답: 추측하다"
+        },
+        {
+          "id": "14",
+          "en": "blow",
+          "ko": "불다",
+          "sourceId": 14,
+          "explainKo": "정답: 불다"
+        },
+        {
+          "id": "15",
+          "en": "recycle",
+          "ko": "재활용하다",
+          "sourceId": 15,
+          "explainKo": "정답: 재활용하다"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "smartphone — 스마트폰\ndrink — 음료\npractice — 연습하다\nfriendship — 우정\nreporter — 기자",
+      "type": "match",
+      "group": "16",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "smartphone",
+          "ko": "스마트폰",
+          "sourceId": 16,
+          "explainKo": "정답: 스마트폰"
+        },
+        {
+          "id": "17",
+          "en": "drink",
+          "ko": "음료",
+          "sourceId": 17,
+          "explainKo": "정답: 음료"
+        },
+        {
+          "id": "18",
+          "en": "practice",
+          "ko": "연습하다",
+          "sourceId": 18,
+          "explainKo": "정답: 연습하다"
+        },
+        {
+          "id": "19",
+          "en": "friendship",
+          "ko": "우정",
+          "sourceId": 19,
+          "explainKo": "정답: 우정"
+        },
+        {
+          "id": "20",
+          "en": "reporter",
+          "ko": "기자",
+          "sourceId": 20,
+          "explainKo": "정답: 기자"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "stick — 지팡이\nfinger — 손가락\nwear — 입다\nviolin — 바이올린\nmovement — 움직임",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "stick",
+          "ko": "지팡이",
+          "sourceId": 1,
+          "explainKo": "정답: stick"
+        },
+        {
+          "id": "2",
+          "en": "finger",
+          "ko": "손가락",
+          "sourceId": 2,
+          "explainKo": "정답: finger"
+        },
+        {
+          "id": "3",
+          "en": "wear",
+          "ko": "입다",
+          "sourceId": 3,
+          "explainKo": "정답: wear"
+        },
+        {
+          "id": "4",
+          "en": "violin",
+          "ko": "바이올린",
+          "sourceId": 4,
+          "explainKo": "정답: violin"
+        },
+        {
+          "id": "5",
+          "en": "movement",
+          "ko": "움직임",
+          "sourceId": 5,
+          "explainKo": "정답: movement"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "through — ~를 통해\nright — 오른쪽: 올바른\numbrella — 우산\naround — 주위에\nproud — 자랑스러운",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "through",
+          "ko": "~를 통해",
+          "sourceId": 6,
+          "explainKo": "정답: through"
+        },
+        {
+          "id": "7",
+          "en": "right",
+          "ko": "오른쪽: 올바른",
+          "sourceId": 7,
+          "explainKo": "정답: right"
+        },
+        {
+          "id": "8",
+          "en": "umbrella",
+          "ko": "우산",
+          "sourceId": 8,
+          "explainKo": "정답: umbrella"
+        },
+        {
+          "id": "9",
+          "en": "around",
+          "ko": "주위에",
+          "sourceId": 9,
+          "explainKo": "정답: around"
+        },
+        {
+          "id": "10",
+          "en": "proud",
+          "ko": "자랑스러운",
+          "sourceId": 10,
+          "explainKo": "정답: proud"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "busy — 바쁜\nprepare — 준비하다\nvisit — 방문하다\nholiday — 휴일\nguide — 안내자",
+      "type": "match",
+      "group": "11",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "busy",
+          "ko": "바쁜",
+          "sourceId": 11,
+          "explainKo": "정답: busy"
+        },
+        {
+          "id": "12",
+          "en": "prepare",
+          "ko": "준비하다",
+          "sourceId": 12,
+          "explainKo": "정답: prepare"
+        },
+        {
+          "id": "13",
+          "en": "visit",
+          "ko": "방문하다",
+          "sourceId": 13,
+          "explainKo": "정답: visit"
+        },
+        {
+          "id": "14",
+          "en": "holiday",
+          "ko": "휴일",
+          "sourceId": 14,
+          "explainKo": "정답: holiday"
+        },
+        {
+          "id": "15",
+          "en": "guide",
+          "ko": "안내자",
+          "sourceId": 15,
+          "explainKo": "정답: guide"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "marathon — 마라톤\ntry — 시도하다\nclub — 동아리, 동호회\nblind — 시각 장애인의\nrainy — 비가 오는",
+      "type": "match",
+      "group": "16",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "marathon",
+          "ko": "마라톤",
+          "sourceId": 16,
+          "explainKo": "정답: marathon"
+        },
+        {
+          "id": "17",
+          "en": "try",
+          "ko": "시도하다",
+          "sourceId": 17,
+          "explainKo": "정답: try"
+        },
+        {
+          "id": "18",
+          "en": "club",
+          "ko": "동아리, 동호회",
+          "sourceId": 18,
+          "explainKo": "정답: club"
+        },
+        {
+          "id": "19",
+          "en": "blind",
+          "ko": "시각 장애인의",
+          "sourceId": 19,
+          "explainKo": "정답: blind"
+        },
+        {
+          "id": "20",
+          "en": "rainy",
+          "ko": "비가 오는",
+          "sourceId": 20,
+          "explainKo": "정답: rainy"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s3-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s3",
+      "sectionTitle": "Section C · 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "do one's best — 최선을 다하다\nfor sure — 확실히\nmove to — ~로 이동하다\nchildren's clothes — 아동복\nat the same time — 동시에",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "do one's best",
+          "ko": "최선을 다하다",
+          "sourceId": 1,
+          "explainKo": "정답: 최선을 다하다"
+        },
+        {
+          "id": "2",
+          "en": "for sure",
+          "ko": "확실히",
+          "sourceId": 2,
+          "explainKo": "정답: 확실히"
+        },
+        {
+          "id": "3",
+          "en": "move to",
+          "ko": "~로 이동하다",
+          "sourceId": 3,
+          "explainKo": "정답: ~로 이동하다"
+        },
+        {
+          "id": "4",
+          "en": "children's clothes",
+          "ko": "아동복",
+          "sourceId": 4,
+          "explainKo": "정답: 아동복"
+        },
+        {
+          "id": "5",
+          "en": "at the same time",
+          "ko": "동시에",
+          "sourceId": 5,
+          "explainKo": "정답: 동시에"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s3-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s3",
+      "sectionTitle": "Section C · 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "take a guess — 추측해보다\neach other — 서로\nhelp out — 도와주다\ngive one's hand — 도움을 주다\nthe best day — 최고의 날",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "take a guess",
+          "ko": "추측해보다",
+          "sourceId": 6,
+          "explainKo": "정답: 추측해보다"
+        },
+        {
+          "id": "7",
+          "en": "each other",
+          "ko": "서로",
+          "sourceId": 7,
+          "explainKo": "정답: 서로"
+        },
+        {
+          "id": "8",
+          "en": "help out",
+          "ko": "도와주다",
+          "sourceId": 8,
+          "explainKo": "정답: 도와주다"
+        },
+        {
+          "id": "9",
+          "en": "give one's hand",
+          "ko": "도움을 주다",
+          "sourceId": 9,
+          "explainKo": "정답: 도움을 주다"
+        },
+        {
+          "id": "10",
+          "en": "the best day",
+          "ko": "최고의 날",
+          "sourceId": 10,
+          "explainKo": "정답: 최고의 날"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s4-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "take pictures — 사진을 찍다\nfinish line — 결승선\nlook for — ~를 찾다\nrun together — 함께 달리다\nno way — 말도 안 돼",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "take pictures",
+          "ko": "사진을 찍다",
+          "sourceId": 1,
+          "explainKo": "정답: take pictures"
+        },
+        {
+          "id": "2",
+          "en": "finish line",
+          "ko": "결승선",
+          "sourceId": 2,
+          "explainKo": "정답: finish line"
+        },
+        {
+          "id": "3",
+          "en": "look for",
+          "ko": "~를 찾다",
+          "sourceId": 3,
+          "explainKo": "정답: look for"
+        },
+        {
+          "id": "4",
+          "en": "run together",
+          "ko": "함께 달리다",
+          "sourceId": 4,
+          "explainKo": "정답: run together"
+        },
+        {
+          "id": "5",
+          "en": "no way",
+          "ko": "말도 안 돼",
+          "sourceId": 5,
+          "explainKo": "정답: no way"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s4-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "sign up for — ~에 등록하다\nat last — 마침내\nnursing home — 요양원\nin need — 어려움에 처한\ncheer for — ~를 응원하다",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "sign up for",
+          "ko": "~에 등록하다",
+          "sourceId": 6,
+          "explainKo": "정답: sign up for"
+        },
+        {
+          "id": "7",
+          "en": "at last",
+          "ko": "마침내",
+          "sourceId": 7,
+          "explainKo": "정답: at last"
+        },
+        {
+          "id": "8",
+          "en": "nursing home",
+          "ko": "요양원",
+          "sourceId": 8,
+          "explainKo": "정답: nursing home"
+        },
+        {
+          "id": "9",
+          "en": "in need",
+          "ko": "어려움에 처한",
+          "sourceId": 9,
+          "explainKo": "정답: in need"
+        },
+        {
+          "id": "10",
+          "en": "cheer for",
+          "ko": "~를 응원하다",
+          "sourceId": 10,
+          "explainKo": "정답: cheer for"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "61",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: join (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "I want to ______ the school choir this year.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "62",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: teach (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "My sister plans to ______ English in Korea.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "63",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: hope (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "We ______ to see you at the party tonight.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "64",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: return (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Please ______ the library books by Friday.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "65",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: guess (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Let me ______ what you're thinking.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        8
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "66",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: blow (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The wind will ______ strongly tomorrow.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        9
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "67",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: recycle (X-10 E)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "It's important to ______ plastic bottles.",
+      "choices": [
+        "tie",
+        "join",
+        "teach",
+        "hope",
+        "return",
+        "hard",
+        "special",
+        "guess",
+        "blow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        10
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "68",
+      "label": "w1",
+      "sourceId": "w1",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: busy (X-10 F)",
+      "type": "fill",
+      "promptEn": "having a lot to do\n영어 단어만 쓰시오.",
+      "accept": [
+        "busy"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "69",
+      "label": "k1",
+      "sourceId": "k1",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 바쁜 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "busy의 우리말을 쓰시오.",
+      "accept": [
+        "바쁜"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "70",
+      "label": "w2",
+      "sourceId": "w2",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: visit (X-10 F)",
+      "type": "fill",
+      "promptEn": "to go to see a person or place\n영어 단어만 쓰시오.",
+      "accept": [
+        "visit"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "71",
+      "label": "k2",
+      "sourceId": "k2",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 방문하다 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "visit의 우리말을 쓰시오.",
+      "accept": [
+        "방문하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "72",
+      "label": "w3",
+      "sourceId": "w3",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: club (X-10 F)",
+      "type": "fill",
+      "promptEn": "a group of people who meet to share an interest or activity\n영어 단어만 쓰시오.",
+      "accept": [
+        "club"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "73",
+      "label": "k3",
+      "sourceId": "k3",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 동아리, 동호회 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "club의 우리말을 쓰시오.",
+      "accept": [
+        "동아리, 동호회"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "74",
+      "label": "w4",
+      "sourceId": "w4",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: proud (X-10 F)",
+      "type": "fill",
+      "promptEn": "feeling very pleased about something you have done\n영어 단어만 쓰시오.",
+      "accept": [
+        "proud"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "75",
+      "label": "k4",
+      "sourceId": "k4",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 자랑스러운 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "proud의 우리말을 쓰시오.",
+      "accept": [
+        "자랑스러운"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "76",
+      "label": "w5",
+      "sourceId": "w5",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: blow (X-10 F)",
+      "type": "fill",
+      "promptEn": "to cause air to move\n영어 단어만 쓰시오.",
+      "accept": [
+        "blow"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "77",
+      "label": "k5",
+      "sourceId": "k5",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 불다 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "blow의 우리말을 쓰시오.",
+      "accept": [
+        "불다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "78",
+      "label": "w6",
+      "sourceId": "w6",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: teach (X-10 F)",
+      "type": "fill",
+      "promptEn": "to help someone learn something\n영어 단어만 쓰시오.",
+      "accept": [
+        "teach"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "79",
+      "label": "k6",
+      "sourceId": "k6",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 가르치다 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "teach의 우리말을 쓰시오.",
+      "accept": [
+        "가르치다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "80",
+      "label": "w7",
+      "sourceId": "w7",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: holiday (X-10 F)",
+      "type": "fill",
+      "promptEn": "a day when you don't have to go to work or school\n영어 단어만 쓰시오.",
+      "accept": [
+        "holiday"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "81",
+      "label": "k7",
+      "sourceId": "k7",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 휴일 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "holiday의 우리말을 쓰시오.",
+      "accept": [
+        "휴일"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "82",
+      "label": "w8",
+      "sourceId": "w8",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: snowy (X-10 F)",
+      "type": "fill",
+      "promptEn": "covered with snow or having a lot of snow falling\n영어 단어만 쓰시오.",
+      "accept": [
+        "snowy"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "83",
+      "label": "k8",
+      "sourceId": "k8",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 눈 덮인 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "snowy의 우리말을 쓰시오.",
+      "accept": [
+        "눈 덮인"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "84",
+      "label": "w9",
+      "sourceId": "w9",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: practice (X-10 F)",
+      "type": "fill",
+      "promptEn": "to do something over and over to get better at it\n영어 단어만 쓰시오.",
+      "accept": [
+        "practice"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "85",
+      "label": "k9",
+      "sourceId": "k9",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 연습하다 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "practice의 우리말을 쓰시오.",
+      "accept": [
+        "연습하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "86",
+      "label": "w10",
+      "sourceId": "w10",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: race (X-10 F)",
+      "type": "fill",
+      "promptEn": "a contest to see who can go fastest\n영어 단어만 쓰시오.",
+      "accept": [
+        "race"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "87",
+      "label": "k10",
+      "sourceId": "k10",
+      "section": "s6",
+      "sectionTitle": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 경주 (X-10 F 뜻)",
+      "type": "fill",
+      "promptEn": "race의 우리말을 쓰시오.",
+      "accept": [
+        "경주"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "88",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: movement (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "move : ______ = entertain : entertainment",
+      "accept": [
+        "movement"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "89",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: agreement (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "invest : investment = agree : ______",
+      "accept": [
+        "agreement"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "90",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: excite (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "______ : excitement = punish : punishment",
+      "accept": [
+        "excite"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "91",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: friendship (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "friend : ______ = relation : relationship",
+      "accept": [
+        "friendship"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "92",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: membership (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "leader : leadership = member : ______",
+      "accept": [
+        "membership"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "93",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: start (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "finish (반의어)",
+      "accept": [
+        "start"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "94",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: vacation (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "holiday (유의어)",
+      "accept": [
+        "vacation"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "95",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: beverage (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "drink (유의어)",
+      "accept": [
+        "beverage"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "96",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: borrow (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "return (반의어)",
+      "accept": [
+        "borrow"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "97",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: unique (X-10 Words Plus+)",
+      "type": "fill",
+      "promptEn": "special (유의어)",
+      "accept": [
+        "unique"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 영어와 같은 뜻의 우리말을 누르세요. 20문항 다음 우리말과 같은 뜻의 영어를 누르세요. 20문항 다음 영어 표현과 같은 뜻의 우리말을 누르세요. 10문항 다음 우리말 표현과 같은 뜻의 영어를 누르세요. 10문항 알맞은 것을 고르시오. 7문항 빈칸에 들어갈 말만 쓰시오. 20문항 빈칸에 들어갈 말만 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 20
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 20
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 10
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 10
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 보기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 7
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 단어",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 20
+    },
+    {
+      "id": "s7",
+      "title": "Section G · Words Plus",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

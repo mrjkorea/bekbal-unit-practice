@@ -1,0 +1,242 @@
+{
+  "id": "mock-100",
+  "title": "100발 100중 모의고사",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.230-233",
+  "questionCount": 7,
+  "omitted": [
+    {
+      "sourceId": "2",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "3",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "4",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "6",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "7",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "9",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "10",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "11",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "12",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "14",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "15",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "16",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "17",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "18",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "19",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "21",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "23",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "24",
+      "reason": "100발 모의 보기 순서가 OCR에서 확정되지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: snowy. (답지 pp.230-233 01)",
+      "type": "fill",
+      "promptEn": "sun : sunny = snow : ______",
+      "accept": [
+        "snowy"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Then can you return a book for me? (답지 05)",
+      "type": "sentence",
+      "promptEn": "그럼 나 대신 책을 반납해 줄래? 문장 전체를 쓰시오.",
+      "accept": [
+        "Then can you return a book for me?"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: He practiced hard to draw better. (답지 08)",
+      "type": "sentence",
+      "promptEn": "그는 더 잘 그리기 위해 열심히 연습했다. 문장 전체를 쓰시오.",
+      "accept": [
+        "He practiced hard to draw better."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: We are sure that they will win. (답지 13)",
+      "type": "sentence",
+      "promptEn": "우리는 그들이 이길 것이라고 확신한다. 문장 전체를 쓰시오.",
+      "accept": [
+        "We are sure that they will win."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: They ran together with a string. (답지 20)",
+      "type": "sentence",
+      "promptEn": "그들은 끈을 가지고 함께 달렸다. 문장 전체를 쓰시오.",
+      "accept": [
+        "They ran together with a string."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: we made it to the finish line. (답지 22)",
+      "type": "sentence",
+      "promptEn": "우리는 결승선에 도착했다. 문장 전체를 쓰시오.",
+      "accept": [
+        "We made it to the finish line."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I want to give you an ice cream to thank you. (답지 25)",
+      "type": "sentence",
+      "promptEn": "고마워서 아이스크림을 주고 싶다. 문장 전체를 쓰시오.",
+      "accept": [
+        "I want to give you an ice cream to thank you."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 1문항 문장 전체를 쓰시오. 6문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 6
+    }
+  ]
+}

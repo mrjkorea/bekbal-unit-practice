@@ -1,0 +1,625 @@
+{
+  "id": "reading-writing",
+  "title": "Reading 영작하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.156-157",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Hi! I am a plastic duck and I am a bath toy. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "1 안녕! 나는 플라스틱 오리이고 목욕 장난감이야.",
+      "accept": [
+        "Hi! I am a plastic duck and I am a bath toy.",
+        "Hi! I am a plastic duck and I am a bath toy"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But look! I am not in a bathroom. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "2 하지만, 봐! 나는 목욕탕에 있지 않아.",
+      "accept": [
+        "But look! I am not in a bathroom.",
+        "But look! I am not in a bathroom"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I am in the middle of the ocean. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "3 나는 바다 한가운데 있어.",
+      "accept": [
+        "I am in the middle of the ocean.",
+        "I am in the middle of the ocean"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How did I get here? (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "4 내가 어떻게 여기에 오게 됐을까?",
+      "accept": [
+        "How did I get here?",
+        "How did I get here"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I was from a factory with other ducks. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "5 나는 다른 오리들과 함께 공장에서 왔어.",
+      "accept": [
+        "I was from a factory with other ducks.",
+        "I was from a factory with other ducks"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: People made us with plastic because it is light and lasts long. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "6 사람들은 플라스틱이 가볍고 오래 가기 때문에 그것으로 우리를 만들었어.",
+      "accept": [
+        "People made us with plastic because it is light and lasts long.",
+        "People made us with plastic because it is light and lasts long"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: People put us in boxes and we went out to sea. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "7 사람들은 우리를 상자 속에 넣었고 우리는 바다로 나갔지.",
+      "accept": [
+        "People put us in boxes and we went out to sea.",
+        "People put us in boxes and we went out to sea"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But the boxes fell into the ocean in an accident. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "8 하지만 그 상자들이 사고로 바다에 빠진 거야.",
+      "accept": [
+        "But the boxes fell into the ocean in an accident.",
+        "But the boxes fell into the ocean in an accident"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Luckily, we could get out of the boxes. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "9 다행히도, 우리는 상자들 밖으로 나올 수 있었어.",
+      "accept": [
+        "Luckily, we could get out of the boxes.",
+        "Luckily, we could get out of the boxes"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The wind was strong, so the waves took us apart. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "10 바람이 강해서 파도가 우리를 떨어뜨려 놓았어.",
+      "accept": [
+        "The wind was strong, so the waves took us apart.",
+        "The wind was strong, so the waves took us apart"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: In the ocean, I met a lot of sea animals. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "11 바다에서 나는 많은 바다 동물을 만났어.",
+      "accept": [
+        "In the ocean, I met a lot of sea animals.",
+        "In the ocean, I met a lot of sea animals"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But many of them were in trouble. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "12 하지만 그들 중 많은 이들이 어려움에 빠져 있었어.",
+      "accept": [
+        "But many of them were in trouble.",
+        "But many of them were in trouble"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: One time, I met a sea turtle in a fishing net. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "13 한번은, 내가 낚시 그물에 걸린 바다거북을 만났어.",
+      "accept": [
+        "One time, I met a sea turtle in a fishing net.",
+        "One time, I met a sea turtle in a fishing net"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: \"Get me out of this,\" the sea turtle cried. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "14 “이것으로부터 나를 꺼내 줘.” 바다거북이 외쳤지.",
+      "accept": [
+        "\"Get me out of this,\" the sea turtle cried.",
+        "\"Get me out of this,\" the sea turtle cried"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I wanted to help, but I couldn't. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "15 나는 도와주고 싶었지만, 할 수 없었어.",
+      "accept": [
+        "I wanted to help, but I couldn't.",
+        "I wanted to help, but I couldn't"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I was so sad. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "16 나는 매우 슬펐어.",
+      "accept": [
+        "I was so sad.",
+        "I was so sad"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Then the waves took me to a giant trash island. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "17 그때 파도가 나를 거대한 쓰레기 섬으로 데리고 갔어.",
+      "accept": [
+        "Then the waves took me to a giant trash island.",
+        "Then the waves took me to a giant trash island"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I saw a lot of plastic waste. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "18 나는 많은 플라스틱 쓰레기를 보았지.",
+      "accept": [
+        "I saw a lot of plastic waste.",
+        "I saw a lot of plastic waste"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I wanted to get out of there. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "19 나는 그곳에서 벗어나고 싶었어.",
+      "accept": [
+        "I wanted to get out of there.",
+        "I wanted to get out of there"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: One day, a strong storm freed me. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "20 어느 날, 강한 폭풍이 나를 빼내 주었어.",
+      "accept": [
+        "One day, a strong storm freed me.",
+        "One day, a strong storm freed me"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: After weeks, I finally reached land. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "21 몇 주 후에 나는 마침내 육지에 도착했지.",
+      "accept": [
+        "After weeks, I finally reached land.",
+        "After weeks, I finally reached land"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: There were a lot of people at the beach. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "22 해변에는 많은 사람들이 있었어.",
+      "accept": [
+        "There were a lot of people at the beach.",
+        "There were a lot of people at the beach"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Oh, someone picked me up. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "23 아, 누군가가 나를 집어 들었어.",
+      "accept": [
+        "Oh, someone picked me up.",
+        "Oh, someone picked me up"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: \"Where am I going now?,\" I thought. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "24 “내가 지금 어디로 가고 있는 걸까?” 나는 생각했어.",
+      "accept": [
+        "\"Where am I going now?,\" I thought.",
+        "\"Where am I going now?,\" I thought"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: What a long journey! (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "25 정말 긴 여행이었어!",
+      "accept": [
+        "What a long journey!",
+        "What a long journey"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I am finally in a bathtub with this boy, Mike. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "26 나는 드디어 Mike라는 이 소년과 함께 목욕 욕조에 있어.",
+      "accept": [
+        "I am finally in a bathtub with this boy, Mike.",
+        "I am finally in a bathtub with this boy, Mike"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How lucky I am! (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "27 나는 얼마나 운이 좋은지!",
+      "accept": [
+        "How lucky I am!",
+        "How lucky I am"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But sometimes I think about my other duck friends. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "28 하지만 난 가끔 내 다른 오리 친구들을 생각해.",
+      "accept": [
+        "But sometimes I think about my other duck friends.",
+        "But sometimes I think about my other duck friends"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Are they still in the ocean? (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "29 그들은 아직도 바다에 있을까?",
+      "accept": [
+        "Are they still in the ocean?",
+        "Are they still in the ocean"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I hope to see them all someday. (답지 pp.154-157)",
+      "type": "sentence",
+      "promptEn": "30 나는 언젠가 그들 모두를 만나기를 바라.",
+      "accept": [
+        "I hope to see them all someday.",
+        "I hope to see them all someday"
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 우리말에 맞도록 문장 전체를 쓰시오. 30문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영작",
+      "directionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "다음 우리말에 맞도록 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 30
+    }
+  ]
+}

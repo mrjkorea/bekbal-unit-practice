@@ -1,0 +1,1815 @@
+{
+  "id": "reading-order",
+  "title": "Reading 순서배열하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.154-155",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Hi! I am a plastic duck and I am a bath toy. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "1 안녕! 나는 플라스틱 오리이고 목욕 장난감이야.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "toy"
+        },
+        {
+          "id": "c2",
+          "text": "bath"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "am"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "and"
+        },
+        {
+          "id": "c7",
+          "text": "duck"
+        },
+        {
+          "id": "c8",
+          "text": "plastic"
+        },
+        {
+          "id": "c9",
+          "text": "a"
+        },
+        {
+          "id": "c10",
+          "text": "am"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c12",
+          "text": "Hi"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c5",
+        "c4",
+        "c3",
+        "c8",
+        "c7",
+        "c6",
+        "c11",
+        "c10",
+        "c9",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But look! I am not in a bathroom. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "2 하지만, 봐! 나는 목욕탕에 있지 않아.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "bathroom"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "in"
+        },
+        {
+          "id": "c4",
+          "text": "not"
+        },
+        {
+          "id": "c5",
+          "text": "am"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "look"
+        },
+        {
+          "id": "c8",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I am in the middle of the ocean. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "3 나는 바다 한가운데 있어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "ocean"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "middle"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "in"
+        },
+        {
+          "id": "c7",
+          "text": "am"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c2",
+        "c4",
+        "c3",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: How did I get here? (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "4 내가 어떻게 여기에 오게 됐을까?\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "here"
+        },
+        {
+          "id": "c2",
+          "text": "get"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "did"
+        },
+        {
+          "id": "c5",
+          "text": "How"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I was from a factory with other ducks. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "5 나는 다른 오리들과 함께 공장에서 왔어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "ducks"
+        },
+        {
+          "id": "c2",
+          "text": "other"
+        },
+        {
+          "id": "c3",
+          "text": "with"
+        },
+        {
+          "id": "c4",
+          "text": "factory"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "from"
+        },
+        {
+          "id": "c7",
+          "text": "was"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: People made us with plastic because it is light and lasts long. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "6 사람들은 플라스틱이 가볍고 오래 가기 때문에 그것으로 우리를 만들었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "long"
+        },
+        {
+          "id": "c2",
+          "text": "lasts"
+        },
+        {
+          "id": "c3",
+          "text": "and"
+        },
+        {
+          "id": "c4",
+          "text": "light"
+        },
+        {
+          "id": "c5",
+          "text": "is"
+        },
+        {
+          "id": "c6",
+          "text": "it"
+        },
+        {
+          "id": "c7",
+          "text": "because"
+        },
+        {
+          "id": "c8",
+          "text": "plastic"
+        },
+        {
+          "id": "c9",
+          "text": "with"
+        },
+        {
+          "id": "c10",
+          "text": "us"
+        },
+        {
+          "id": "c11",
+          "text": "made"
+        },
+        {
+          "id": "c12",
+          "text": "People"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: People put us in boxes and we went out to sea. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "7 사람들은 우리를 상자 속에 넣었고 우리는 바다로 나갔지.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "sea"
+        },
+        {
+          "id": "c2",
+          "text": "to"
+        },
+        {
+          "id": "c3",
+          "text": "out"
+        },
+        {
+          "id": "c4",
+          "text": "went"
+        },
+        {
+          "id": "c5",
+          "text": "we"
+        },
+        {
+          "id": "c6",
+          "text": "and"
+        },
+        {
+          "id": "c7",
+          "text": "boxes"
+        },
+        {
+          "id": "c8",
+          "text": "in"
+        },
+        {
+          "id": "c9",
+          "text": "us"
+        },
+        {
+          "id": "c10",
+          "text": "put"
+        },
+        {
+          "id": "c11",
+          "text": "People"
+        }
+      ],
+      "orderIds": [
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But the boxes fell into the ocean in an accident. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "8 하지만 그 상자들이 사고로 바다에 빠진 거야.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "accident"
+        },
+        {
+          "id": "c2",
+          "text": "an"
+        },
+        {
+          "id": "c3",
+          "text": "in"
+        },
+        {
+          "id": "c4",
+          "text": "ocean"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "into"
+        },
+        {
+          "id": "c7",
+          "text": "fell"
+        },
+        {
+          "id": "c8",
+          "text": "boxes"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c5",
+        "c8",
+        "c7",
+        "c6",
+        "c9",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Luckily, we could get out of the boxes. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "9 다행히도, 우리는 상자들 밖으로 나올 수 있었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "boxes"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "out"
+        },
+        {
+          "id": "c5",
+          "text": "get"
+        },
+        {
+          "id": "c6",
+          "text": "could"
+        },
+        {
+          "id": "c7",
+          "text": "we"
+        },
+        {
+          "id": "c8",
+          "text": "Luckily"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: The wind was strong, so the waves took us apart. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "10 바람이 강해서 파도가 우리를 떨어뜨려 놓았어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "apart"
+        },
+        {
+          "id": "c2",
+          "text": "us"
+        },
+        {
+          "id": "c3",
+          "text": "took"
+        },
+        {
+          "id": "c4",
+          "text": "waves"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "so"
+        },
+        {
+          "id": "c7",
+          "text": "strong"
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        },
+        {
+          "id": "c9",
+          "text": "wind"
+        },
+        {
+          "id": "c10",
+          "text": "The"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c10",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: In the ocean, I met a lot of sea animals. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "11 바다에서 나는 많은 바다 동물을 만났어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "animals"
+        },
+        {
+          "id": "c2",
+          "text": "sea"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "lot"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "met"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "ocean"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "In"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But many of them were in trouble. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "12 하지만 그들 중 많은 이들이 어려움에 빠져 있었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "trouble"
+        },
+        {
+          "id": "c2",
+          "text": "in"
+        },
+        {
+          "id": "c3",
+          "text": "were"
+        },
+        {
+          "id": "c4",
+          "text": "them"
+        },
+        {
+          "id": "c5",
+          "text": "of"
+        },
+        {
+          "id": "c6",
+          "text": "many"
+        },
+        {
+          "id": "c7",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: One time, I met a sea turtle in a fishing net. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "13 한번은, 내가 낚시 그물에 걸린 바다거북을 만났어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "net"
+        },
+        {
+          "id": "c2",
+          "text": "fishing"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "in"
+        },
+        {
+          "id": "c5",
+          "text": "turtle"
+        },
+        {
+          "id": "c6",
+          "text": "sea"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "met"
+        },
+        {
+          "id": "c9",
+          "text": "I"
+        },
+        {
+          "id": "c10",
+          "text": "time"
+        },
+        {
+          "id": "c11",
+          "text": "One"
+        }
+      ],
+      "orderIds": [
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c3",
+        "c6",
+        "c5",
+        "c4",
+        "c7",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"Get me out of this,\" the sea turtle cried. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "14 “이것으로부터 나를 꺼내 줘.” 바다거북이 외쳤지.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "cried"
+        },
+        {
+          "id": "c2",
+          "text": "turtle"
+        },
+        {
+          "id": "c3",
+          "text": "sea"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "this"
+        },
+        {
+          "id": "c6",
+          "text": "of"
+        },
+        {
+          "id": "c7",
+          "text": "out"
+        },
+        {
+          "id": "c8",
+          "text": "me"
+        },
+        {
+          "id": "c9",
+          "text": "Get"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I wanted to help, but I couldn't. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "15 나는 도와주고 싶었지만, 할 수 없었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "couldn't"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "but"
+        },
+        {
+          "id": "c4",
+          "text": "help"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "wanted"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c7",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I was so sad. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "16 나는 매우 슬펐어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "sad"
+        },
+        {
+          "id": "c2",
+          "text": "so"
+        },
+        {
+          "id": "c3",
+          "text": "was"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Then the waves took me to a giant trash island. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "17 그때 파도가 나를 거대한 쓰레기 섬으로 데리고 갔어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "island"
+        },
+        {
+          "id": "c2",
+          "text": "trash"
+        },
+        {
+          "id": "c3",
+          "text": "giant"
+        },
+        {
+          "id": "c4",
+          "text": "a"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "me"
+        },
+        {
+          "id": "c7",
+          "text": "took"
+        },
+        {
+          "id": "c8",
+          "text": "waves"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "Then"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I saw a lot of plastic waste. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "18 나는 많은 플라스틱 쓰레기를 보았지.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "waste"
+        },
+        {
+          "id": "c2",
+          "text": "plastic"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "lot"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "saw"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I wanted to get out of there. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "19 나는 그곳에서 벗어나고 싶었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "there"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c3",
+          "text": "out"
+        },
+        {
+          "id": "c4",
+          "text": "get"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "wanted"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: One day, a strong storm freed me. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "20 어느 날, 강한 폭풍이 나를 빼내 주었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "me"
+        },
+        {
+          "id": "c2",
+          "text": "freed"
+        },
+        {
+          "id": "c3",
+          "text": "storm"
+        },
+        {
+          "id": "c4",
+          "text": "strong"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "day"
+        },
+        {
+          "id": "c7",
+          "text": "One"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: After weeks, I finally reached land. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "21 몇 주 후에 나는 마침내 육지에 도착했지.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "land"
+        },
+        {
+          "id": "c2",
+          "text": "reached"
+        },
+        {
+          "id": "c3",
+          "text": "finally"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "weeks"
+        },
+        {
+          "id": "c6",
+          "text": "After"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: There were a lot of people at the beach. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "22 해변에는 많은 사람들이 있었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "beach"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "at"
+        },
+        {
+          "id": "c4",
+          "text": "people"
+        },
+        {
+          "id": "c5",
+          "text": "of"
+        },
+        {
+          "id": "c6",
+          "text": "lot"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "were"
+        },
+        {
+          "id": "c9",
+          "text": "There"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Oh, someone picked me up. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "23 아, 누군가가 나를 집어 들었어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "up"
+        },
+        {
+          "id": "c2",
+          "text": "me"
+        },
+        {
+          "id": "c3",
+          "text": "picked"
+        },
+        {
+          "id": "c4",
+          "text": "someone"
+        },
+        {
+          "id": "c5",
+          "text": "Oh"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"Where am I going now?,\" I thought. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "24 “내가 지금 어디로 가고 있는 걸까?” 나는 생각했어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "thought"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "now"
+        },
+        {
+          "id": "c4",
+          "text": "going"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "am"
+        },
+        {
+          "id": "c7",
+          "text": "Where"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c2",
+        "c4",
+        "c3",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: What a long journey! (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "25 정말 긴 여행이었어!\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "journey"
+        },
+        {
+          "id": "c2",
+          "text": "long"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "What"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I am finally in a bathtub with this boy, Mike. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "26 나는 드디어 Mike라는 이 소년과 함께 목욕 욕조에 있어.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "Mike"
+        },
+        {
+          "id": "c2",
+          "text": "boy"
+        },
+        {
+          "id": "c3",
+          "text": "this"
+        },
+        {
+          "id": "c4",
+          "text": "with"
+        },
+        {
+          "id": "c5",
+          "text": "bathtub"
+        },
+        {
+          "id": "c6",
+          "text": "a"
+        },
+        {
+          "id": "c7",
+          "text": "in"
+        },
+        {
+          "id": "c8",
+          "text": "finally"
+        },
+        {
+          "id": "c9",
+          "text": "am"
+        },
+        {
+          "id": "c10",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: How lucky I am! (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "27 나는 얼마나 운이 좋은지!\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "am"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "lucky"
+        },
+        {
+          "id": "c4",
+          "text": "How"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But sometimes I think about my other duck friends. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "28 하지만 난 가끔 내 다른 오리 친구들을 생각해.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "friends"
+        },
+        {
+          "id": "c2",
+          "text": "duck"
+        },
+        {
+          "id": "c3",
+          "text": "other"
+        },
+        {
+          "id": "c4",
+          "text": "my"
+        },
+        {
+          "id": "c5",
+          "text": "about"
+        },
+        {
+          "id": "c6",
+          "text": "think"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "sometimes"
+        },
+        {
+          "id": "c9",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Are they still in the ocean? (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "29 그들은 아직도 바다에 있을까?\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "ocean"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "in"
+        },
+        {
+          "id": "c4",
+          "text": "still"
+        },
+        {
+          "id": "c5",
+          "text": "they"
+        },
+        {
+          "id": "c6",
+          "text": "Are"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I hope to see them all someday. (답지 pp.154-157)",
+      "type": "order",
+      "promptEn": "30 나는 언젠가 그들 모두를 만나기를 바라.\n보기를 순서대로 누르시오.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "someday"
+        },
+        {
+          "id": "c2",
+          "text": "all"
+        },
+        {
+          "id": "c3",
+          "text": "them"
+        },
+        {
+          "id": "c4",
+          "text": "see"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "hope"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 괄호 안 단어를 문장이 되도록 순서대로 누르시오. 30문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 단어 순서",
+      "directionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "괄호 안 단어를 문장이 되도록 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 30
+    }
+  ]
+}

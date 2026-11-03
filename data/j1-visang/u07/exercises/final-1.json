@@ -1,0 +1,146 @@
+{
+  "id": "final-1",
+  "title": "최종점검 모의고사 1회",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "X-10 pp.84-87",
+  "questionCount": 6,
+  "omitted": [
+    {
+      "sourceId": "rest",
+      "reason": "최종점검 본문 선택지가 두 단 OCR이라 답 번호와 영어 보기를 한 줄로 확정하지 못한 번호는 넣지 않았습니다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: factory. (Lesson 07 최종 1회 01)",
+      "type": "fill",
+      "promptEn": "‘물건이 만들어지는 건물’에 해당하는 단어를 f로 시작하여 쓰시오.",
+      "accept": [
+        "factory"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: in front of. (최종 1회 03)",
+      "type": "fill",
+      "promptEn": "‘~ 앞에’를 영어로 쓰시오.",
+      "accept": [
+        "in front of"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How big the house is! (최종 1회 09)",
+      "type": "sentence",
+      "promptEn": "집이 정말 크구나! How 감탄문으로 문장 전체를 쓰시오.",
+      "accept": [
+        "How big the house is!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I plan to bring snacks and water. (최종 1회 13)",
+      "type": "sentence",
+      "promptEn": "(1) 나는 과자와 물을 가져갈 계획이다.",
+      "accept": [
+        "I plan to bring snacks and water."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "13-2",
+      "sourceId": "13-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I want to make great memories with them. (최종 1회 13)",
+      "type": "sentence",
+      "promptEn": "(2) 나는 그들과 멋진 추억을 만들고 싶다.",
+      "accept": [
+        "I want to make great memories with them."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I hope to see them all someday. (최종 1회 24)",
+      "type": "sentence",
+      "promptEn": "나는 그들 모두를 언젠가 보기를 바란다.",
+      "accept": [
+        "I hope to see them all someday."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 6문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 6
+    }
+  ]
+}

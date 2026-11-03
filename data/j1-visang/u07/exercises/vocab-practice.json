@@ -1,0 +1,233 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "p.127",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 관계",
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: easy. first:last는 반의어 관계이므로 difficult의 반의어 easy. (답지 p.127 01)",
+      "type": "fill",
+      "promptEn": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오.\nfirst : last = difficult : ______",
+      "accept": [
+        "easy"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s2",
+      "sectionTitle": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ trash. 쓰레기를 바다에 버리지 말라는 뜻. (답지 p.127 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nDon't throw away the ______ into the ocean.",
+      "choices": [
+        "wave",
+        "wind",
+        "island",
+        "trash",
+        "beach"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ print. (답지 p.127 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어는?\nto make letters, words, or pictures on paper using a machine",
+      "choices": [
+        "draw",
+        "lose",
+        "print",
+        "put up",
+        "reach"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s3",
+      "sectionTitle": "Section C · 빈칸",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: in the middle of. (답지 p.127 04)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n북극곰은 얼음의 한가운데에 서 있다.\n→ The polar bear is standing ______ the ice.",
+      "accept": [
+        "in the middle of"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s4",
+      "sectionTitle": "Section D · 어색한 표현",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. in trouble로 써야 한다. (답지 p.127 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 표현이 어색한 것은?",
+      "choices": [
+        "I will put up the poster.",
+        "This was not a good idea.",
+        "He is going to be at trouble.",
+        "My mom is worried about me.",
+        "He decided to play soccer today."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 어색한 표현",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ finally / light / reach. (답지 p.127 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ–ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• I ⓐ ______ finished my homework.\n• This chair is ⓑ ______, so I can move it easily.\n• We can ⓒ ______ the top of the mountain.",
+      "choices": [
+        "sadly / light / reach",
+        "sadly / bright / arrive",
+        "finally / bright / arrive",
+        "finally / light / reach",
+        "finally / light / arrive"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s5",
+      "sectionTitle": "Section E · 첫 철자",
+      "directionKo": "영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Earth. (답지 p.127 07)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.\nthe planet we live on → E______",
+      "accept": [
+        "Earth"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오. 1문항 알맞은 것을 고르시오. 2문항 다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오. 1문항 알맞은 것을 고르시오. 2문항 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 관계",
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 빈칸",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 어색한 표현",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 첫 철자",
+      "directionKo": "영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    }
+  ]
+}

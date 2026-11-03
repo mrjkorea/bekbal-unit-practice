@@ -1,0 +1,172 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.140-141",
+  "questionCount": 5,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "2",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "3",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "4",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "5",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "6",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "8",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "9",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "11",
+      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: a good idea. (답지 pp.140-141 07)",
+      "type": "fill",
+      "promptEn": "제안에 긍정으로 답하는 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nA: Why don't we make fun recycling boxes?\nB: Sounds like ______.",
+      "accept": [
+        "a good idea"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: throw a surprise party for. (답지 10)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n우리는 그를 위해 깜짝 파티를 열 것이다.\n→ We will ______ him.",
+      "accept": [
+        "throw a surprise party for"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: bright all night. (답지 12)",
+      "type": "fill",
+      "promptEn": "대화의 빈칸에 들어갈 말을 쓰시오.\nIt is ______, so the birds cannot sleep well.",
+      "accept": [
+        "bright all night"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "13-1",
+      "sourceId": "13-1",
+      "section": "s2",
+      "sectionTitle": "Section B · 한 단어",
+      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: beautiful. beautiful, bright 중 첫 말. (답지 pp.140-141 13)",
+      "type": "fill",
+      "promptEn": "서울은 밤에 아름다워 보인다. 답지 13의 첫 형용사만 쓰시오.",
+      "accept": [
+        "beautiful"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "13-2",
+      "sourceId": "13-2",
+      "section": "s2",
+      "sectionTitle": "Section B · 한 단어",
+      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: bright. beautiful, bright 중 둘째 말. (답지 pp.140-141 13)",
+      "type": "fill",
+      "promptEn": "불빛이 너무 밝다. 답지 13의 둘째 형용사만 쓰시오.",
+      "accept": [
+        "bright"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 3문항 답지의 형용사를 한 칸에 하나씩 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 3
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 한 단어",
+      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}

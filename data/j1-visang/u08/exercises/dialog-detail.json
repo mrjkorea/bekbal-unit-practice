@@ -1,0 +1,265 @@
+{
+  "id": "dialog-detail",
+  "title": "Dialog 자세히 보기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.190-191",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "남자는 전화기를 찾지 못한다. (답지 01 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The man can find his phone.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "빌리는 것이 아니라 반납을 부탁한다. (답지 02 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The man asks Joan to borrow a book for him.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 03 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Susan agrees to go to the store.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 04 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Dylan's club is collecting clothes and food to help others.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "시각 장애 소녀에 관한 영화이다. (답지 05 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "James watched a movie about a black girl last Sunday.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "스마트폰 사용법을 가르쳤다. (답지 06 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The man taught the elderly how to use computers.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "삼촌을 방문했다. (답지 07 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The woman visited her aunt in Sokcho.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 08 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Lena sang songs during the concert.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 09 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Jim's mother asks him to take out the trash.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 10 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Sam watched a movie with his friends.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 내용과 같으면 T, 다르면 F를 고르시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

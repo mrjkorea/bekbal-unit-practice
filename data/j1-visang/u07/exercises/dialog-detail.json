@@ -1,0 +1,265 @@
+{
+  "id": "dialog-detail",
+  "title": "Dialog 자세히 보기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.132-133",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "여자는 바다 동물을 걱정한다. (답지 01 T)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The woman is concerned about sea animals.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "영어 말하기 시험을 걱정한다. (답지 02 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The woman is worried about a math test.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "남자는 이유를 물을 뿐, 둘 다 걱정하는 것은 아니다. (답지 03 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "They're worried that birds cannot sleep well in Seoul.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 04 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Both the man and woman are worried about polar bears.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "남자는 학교 웹사이트에 올리자고 제안한다. (답지 05 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The man wants to put up the concert poster around the school.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 06 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The students plan to throw a surprise party for Mr. Green.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "여자는 재활용을 더 해야 한다고 한다. (답지 07 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The woman thinks recycling is unnecessary.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "답지 08 T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Jessica made her bag from old jeans.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "쓰레기가 많다. (답지 09 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The beach is clean and free of trash.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "가족 사진으로 비디오를 만들 계획이다. (답지 10 F)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The woman wants to buy a gift for her mother's birthday.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 내용과 같으면 T, 다르면 F를 고르시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

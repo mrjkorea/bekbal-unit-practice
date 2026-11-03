@@ -31,14 +31,29 @@ async function unit() {
   const b = qs.get("b"), u = qs.get("u");
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
+  const exerciseCard = (e) => {
+    if (e.external && /^https:\/\//.test(e.href || "")) {
+      return `<a class="card" href="${esc(e.href)}" target="_blank" rel="noopener">${esc(e.title)}</a>`;
+    }
+    if (e.deferred) return `<div class="card off">${esc(e.title)}<span class="tag deferred">확인 필요</span>${e.reason ? `<br><small>${esc(e.reason)}</small>` : ""}</div>`;
+    const n = e.questionCount ? ` <small>(${e.questionCount})</small>` : "";
+    const hold = e.omittedCount ? `<br><small>OCR 확인 보류 ${e.omittedCount}문항</small>` : "";
+    return `<a class="card" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">${esc(e.title)}${n}${hold}</a>`;
+  };
+  const sectionBody = (s) => {
+    const exercises = s.exercises || [];
+    if (!exercises.length) {
+      if (s.lane === "focus") {
+        return `<div class="card off">${esc(s.title)}<span class="tag coming-soon">Coming soon</span>${s.note ? `<br><small>${esc(s.note)}</small>` : ""}</div>`;
+      }
+      return `<p class="card off">Coming soon</p>`;
+    }
+    const note = s.lane === "focus" && s.note ? `<p><small>${esc(s.note)}</small></p>` : "";
+    return note + `<div class="grid">${exercises.map(exerciseCard).join("")}</div>`;
+  };
   app.innerHTML = `<p><a href="book.html?b=${b}">← 단원 목록</a></p><h1>${esc(c.label)} <span class="tag ${c.status}">${STATUS[c.status] || c.status}</span></h1>` +
     (c.note ? `<p>${esc(c.note)}</p>` : "") +
-    c.sections.map((s) => `<h2>${esc(s.title)}</h2>` + (s.exercises.length ? `<div class="grid">${s.exercises.map((e) => {
-      if (e.deferred) return `<div class="card off">${esc(e.title)}<span class="tag deferred">확인 필요</span>${e.reason ? `<br><small>${esc(e.reason)}</small>` : ""}</div>`;
-      const n = e.questionCount ? ` <small>(${e.questionCount})</small>` : "";
-      const hold = e.omittedCount ? `<br><small>OCR 확인 보류 ${e.omittedCount}문항</small>` : "";
-      return `<a class="card" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">${esc(e.title)}${n}${hold}</a>`;
-    }).join("")}</div>` : `<p class="card off">Coming soon</p>`)).join("");
+    c.sections.map((s) => `<h2>${esc(s.title)}</h2>` + sectionBody(s)).join("");
 }
 
 function legacyExercise(ex) {
@@ -142,7 +157,7 @@ function timeFor(ex) {
 
 function readResponse(item, card) {
   if (item.type === "mc" || item.type === "bank") {
-    const inputs = [...card.querySelectorAll("input")];
+    const inputs = [...card.querySelectorAll('input[type="radio"], input[type="checkbox"]')];
     return { indexes: inputs.filter((i) => i.checked).map((i) => Number(i.value)) };
   }
   if (item.type === "order") {

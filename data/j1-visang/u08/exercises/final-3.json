@@ -1,0 +1,165 @@
+{
+  "id": "final-3",
+  "title": "최종점검 모의고사 3회",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "X-10 pp.104-107",
+  "questionCount": 7,
+  "omitted": [
+    {
+      "sourceId": "rest",
+      "reason": "최종점검 본문 선택지가 두 단 OCR이라 답 번호와 영어 보기를 한 줄로 확정하지 못한 번호는 넣지 않았습니다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: proud. (Lesson 08 최종 3회 03)",
+      "type": "fill",
+      "promptEn": "자랑스러운. 영어 단어를 쓰시오.",
+      "accept": [
+        "proud"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: What did you do over the weekend. (최종 3회 07)",
+      "type": "sentence",
+      "promptEn": "주말에 무엇을 했니? 문장 전체를 쓰시오.",
+      "accept": [
+        "What did you do over the weekend?"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "13-1",
+      "sourceId": "13-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: worked hard to earn enough money. (최종 3회 13 (1))",
+      "type": "sentence",
+      "promptEn": "(1) 충분한 돈을 벌려고 열심히 일했다.",
+      "accept": [
+        "worked hard to earn enough money"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "13-2",
+      "sourceId": "13-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: hope that you have a wonderful day. (최종 3회 13 (2))",
+      "type": "sentence",
+      "promptEn": "(2) 멋진 하루 보내기를 바란다.",
+      "accept": [
+        "hope that you have a wonderful day"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I was proud of myself. (최종 3회 18)",
+      "type": "sentence",
+      "promptEn": "나는 나 자신이 자랑스러웠다.",
+      "accept": [
+        "I was proud of myself."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: signed up for Friendship Marathon. (최종 3회 21)",
+      "type": "fill",
+      "promptEn": "우정 마라톤에 등록했다. 표현만 쓰시오.",
+      "accept": [
+        "signed up for Friendship Marathon"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I want to give you an ice cream. (최종 3회 25)",
+      "type": "sentence",
+      "promptEn": "나는 너에게 아이스크림을 주고 싶다.",
+      "accept": [
+        "I want to give you an ice cream."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 답지가 문장으로 남은 문항",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 7
+    }
+  ]
+}

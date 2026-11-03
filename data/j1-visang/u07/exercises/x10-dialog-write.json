@@ -1,0 +1,225 @@
+{
+  "id": "x10-dialog-write",
+  "title": "대화 영작하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "X-10 pp.34-35",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 1번 대화.",
+      "type": "sentence",
+      "promptEn": "1 여자: 바다에 있는 큰 플라스틱 섬을 봐. 남자: 오, 이게 모두 플라스틱이야? 여자: 응. 난 바다 동물들이 걱정돼. 남자: 나도. 그들이 플라스틱 쓰레기를 먹고 병에 걸릴 수 있어.",
+      "accept": [
+        "W: Look at the big plastic island in the ocean.\nM: Oh, is this all plastic?\nW: Yes. I'm worried about the sea animals.\nM: Me, too. They can eat plastic waste and get sick.",
+        "W: Look at the big plastic island in the ocean. M: Oh, is this all plastic? W: Yes. I'm worried about the sea animals. M: Me, too. They can eat plastic waste and get sick."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 2번 대화.",
+      "type": "sentence",
+      "promptEn": "2 남자: 너 걱정돼 보여. 무슨 일이야? 여자: 영어 말하기 시험이 걱정돼. 남자: 아, 그렇구나. 사람들 앞에서 말하는 것은 쉽지 않지. 여자: 응, 나한테는 항상 어려워.",
+      "accept": [
+        "M: You look worried. What's wrong?\nW: I'm worried about the English speaking test.\nM: Oh, I see. Speaking in front of people is not easy.\nW: Yeah, it is always hard for me.",
+        "M: You look worried. What's wrong? W: I'm worried about the English speaking test. M: Oh, I see. Speaking in front of people is not easy. W: Yeah, it is always hard for me."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 3번 대화.",
+      "type": "sentence",
+      "promptEn": "3 남자: 서울은 밤에 정말 아름다워. 여자: 응, 그래. 하지만 난 새들이 걱정돼. 남자: 왜? 여자: 밤새도록 밝아서 새들이 잠을 잘 수가 없어.",
+      "accept": [
+        "M: Seoul is so beautiful at night.\nW: Yeah, it is. But I'm worried about the birds.\nM: Why?\nW: It is bright all night, so they cannot sleep well.",
+        "M: Seoul is so beautiful at night. W: Yeah, it is. But I'm worried about the birds. M: Why? W: It is bright all night, so they cannot sleep well."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 4번 대화.",
+      "type": "sentence",
+      "promptEn": "4 남자: Jessica, 뭘 그리고 있어? 여자: 북극곰에 대한 포스터를 그리고 있어. 남자: 얼음 위의 북극곰들이 너무 슬퍼 보여. 여자: 그들은 집을 잃어가고 있어. 남자: 우리가 그들을 위해 뭔가를 해야 해. 여자: 그들에게 시간이 별로 없을지도 몰라.",
+      "accept": [
+        "M: What are you drawing, Jessica?\nW: I'm drawing a poster about polar bears.\nM: I see. Oh, the polar bears on the ice look so sad.\nW: Yeah, I'm worried about the polar bears. They are losing their homes.\nM: You're right. We need to do something for them.\nW: Right. They may not have much time.",
+        "M: What are you drawing, Jessica? W: I'm drawing a poster about polar bears. M: I see. Oh, the polar bears on the ice look so sad. W: Yeah, I'm worried about the polar bears. They are losing their homes. M: You're right. We need to do something for them. W: Right. They may not have much time."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 5번 대화.",
+      "type": "sentence",
+      "promptEn": "5 남자: 이게 우리 콘서트 포스터 디자인이야. 여자: 멋지다. 인쇄해서 학교 주변에 붙이자. 남자: 그건 종이 낭비야. 학교 웹사이트에 게시하는 게 어때? 여자: 좋은 생각이야.",
+      "accept": [
+        "M: Look! This is the design for our concert poster.\nW: Oh, it's cool. Let's print and put up posters around the school.\nM: Well, that is a waste of paper. Why don't we post it on the school website?\nW: That's a good idea.",
+        "M: Look! This is the design for our concert poster. W: Oh, it's cool. Let's print and put up posters around the school. M: Well, that is a waste of paper. Why don't we post it on the school website? W: That's a good idea."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 6번 대화.",
+      "type": "sentence",
+      "promptEn": "6 남자: 내일은 Green 선생님의 학교 마지막 날이야. 미국으로 돌아가실 거야. 여자: 너무 슬퍼. 그 분의 수업을 정말 좋아했어. 남자: 깜짝 파티를 열면 어떨까? 여자: 함께 준비하자.",
+      "accept": [
+        "M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.\nW: I feel so sad. I really liked his class.\nM: Me, too. Why don't we throw a surprise party for him?\nW: Great idea. Let's prepare it together.",
+        "M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S. W: I feel so sad. I really liked his class. M: Me, too. Why don't we throw a surprise party for him? W: Great idea. Let's prepare it together."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 7번 대화.",
+      "type": "sentence",
+      "promptEn": "7 남자: 교실에 플라스틱 쓰레기가 너무 많아. 여자: 더 많이 재활용해야 해. 남자: 재미있는 재활용 상자를 만들어 교실에 놓자. 여자: 좋은 생각 같아.",
+      "accept": [
+        "M: Oh, there is too much plastic waste in our classroom.\nW: Yeah.... We need to recycle more. Do you have any ideas?\nM: Why don't we make fun recycling boxes and put them in our classroom?\nW: Sounds like a great idea.",
+        "M: Oh, there is too much plastic waste in our classroom. W: Yeah.... We need to recycle more. Do you have any ideas? M: Why don't we make fun recycling boxes and put them in our classroom? W: Sounds like a great idea."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 8번 대화.",
+      "type": "sentence",
+      "promptEn": "8 남자: Jessica, 네 가방 예쁘다. 여자: 오래된 청바지로 만들었어. 지구의 날 프로젝트야. 남자: 나도 지구의 날에 뭔가 하고 싶어. 여자: 오래된 옷을 재사용하는 짧은 동영상을 함께 만들자.",
+      "accept": [
+        "M: Your bag is pretty, Jessica.\nW: Thank you, Toby. I made it with my old jeans. It's my Earth Day project.\nM: That's cool. I want to do something on Earth Day.\nW: Why don't we make a short video about reusing old clothes together?\nM: That's a good idea.",
+        "M: Your bag is pretty, Jessica. W: Thank you, Toby. I made it with my old jeans. It's my Earth Day project. M: That's cool. I want to do something on Earth Day. W: Why don't we make a short video about reusing old clothes together? M: That's a good idea."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 9번 대화.",
+      "type": "sentence",
+      "promptEn": "9 남자: 해변의 쓰레기를 봐. 여자: 쓰레기가 많아. 남자: 큰 문제야. 여자: 바다 동물들이 걱정돼.",
+      "accept": [
+        "M: Look at all the trash on the beach.\nW: Yeah. There is a lot of trash.\nM: It's a big problem.\nW: Yes, it is. I'm worried about the sea animals.",
+        "M: Look at all the trash on the beach. W: Yeah. There is a lot of trash. M: It's a big problem. W: Yes, it is. I'm worried about the sea animals."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 10번 대화.",
+      "type": "sentence",
+      "promptEn": "10 여자: 이번 주 금요일이 엄마 생신이야. 특별한 선물을 드리고 싶어. 남자: 좋은 생각이 있니? 여자: 가족 사진으로 비디오를 만들자. 남자: 엄마가 좋아하실 거야.",
+      "accept": [
+        "W: This Friday is Mom's birthday. I want to give her a special present.\nM: Sounds good. Do you have any ideas?\nW: Well, why don't we make a video with our family pictures?\nM: That's a good idea. She will love it.",
+        "W: This Friday is Mom's birthday. I want to give her a special present. M: Sounds good. Do you have any ideas? W: Well, why don't we make a video with our family pictures? M: That's a good idea. She will love it."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 전체",
+      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 10
+    }
+  ]
+}

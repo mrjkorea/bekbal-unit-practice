@@ -1,0 +1,225 @@
+{
+  "id": "x10-dialog-write",
+  "title": "대화 영작하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "X-10 pp.48-49",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 1번.",
+      "type": "sentence",
+      "promptEn": "남자: 핸드폰을 못 찾겠어. 여자: 학교에서 집에 가져왔니? 남자: 응. 나랑 같이 찾아줄래? 여자: 물론이지.",
+      "accept": [
+        "M: I can't find my phone.\nW: Did you bring it home from school?\nM: Yes, I did. Can you look for my phone with me?\nW: Sure.",
+        "M: I can't find my phone. W: Did you bring it home from school? M: Yes, I did. Can you look for my phone with me? W: Sure."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 2번.",
+      "type": "sentence",
+      "promptEn": "남자: Joan, 어디 가니? 여자: 도서관에 가. 남자: 그럼 나 대신 책을 반납해 줄래? 여자: 물론이지.",
+      "accept": [
+        "M: Where are you going, Joan?\nW: I'm going to the library.\nM: Then can you return a book for me?\nW: Sure.",
+        "M: Where are you going, Joan? W: I'm going to the library. M: Then can you return a book for me? W: Sure."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 3번.",
+      "type": "sentence",
+      "promptEn": "남자: Susan, 바쁘니? 여자: 별로, 아빠. 왜? 남자: 가게에서 우유랑 달걀 좀 사줄래? 여자: 알겠어.",
+      "accept": [
+        "M: Susan, are you busy?\nW: Not really, Dad. Why?\nM: Can you buy some milk and eggs at the store?\nW: Okay.",
+        "M: Susan, are you busy? W: Not really, Dad. Why? M: Can you buy some milk and eggs at the store? W: Okay."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 4번.",
+      "type": "sentence",
+      "promptEn": "남자: Lena, 나 좀 도와줄래? 여자: 물론이지, Dylan. 뭔데? 남자: 우리 동아리가 다른 사람을 도우려고 옷과 음식을 보낼 거야. 같이 할래? 여자: 응. 나도 옷을 가져갈게. 남자: 고마워.",
+      "accept": [
+        "M: Can you help me, Lena?\nW: Sure, Dylan. What is it?\nM: Our club is going to send clothes and food to help others. Do you want to join us?\nW: Yes, of course. I can bring some clothes, too.\nM: Oh, great! Thank you.",
+        "M: Can you help me, Lena? W: Sure, Dylan. What is it? M: Our club is going to send clothes and food to help others. Do you want to join us? W: Yes, of course. I can bring some clothes, too. M: Oh, great! Thank you."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 5번.",
+      "type": "sentence",
+      "promptEn": "여자: James, 지난 일요일에 뭐 했어? 남자: Black이라는 영화를 봤어. 시각 장애 소녀와 선생님 이야기야. 여자: 영화 좋았어? 남자: 응, 정말 좋았어.",
+      "accept": [
+        "W: Hi, James. What did you do last Sunday?\nM: I watched a movie called Black. It's about a blind girl and her teacher.\nW: Did you like the movie?\nM: Yes, I did. It was great.",
+        "W: Hi, James. What did you do last Sunday? M: I watched a movie called Black. It's about a blind girl and her teacher. W: Did you like the movie? M: Yes, I did. It was great."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 6번.",
+      "type": "sentence",
+      "promptEn": "여자: 주말 어땠어? 남자: 좋았어. 요양원에 가서 도왔어. 여자: 뭐 했는데? 남자: 노인들이 스마트폰을 잘 못 쓰셔서 내가 가르쳐 드렸어.",
+      "accept": [
+        "W: How was your weekend?\nM: Good. I went to a nursing home and helped out.\nW: What did you do?\nM: They couldn't use smartphones well. So I taught them.",
+        "W: How was your weekend? M: Good. I went to a nursing home and helped out. W: What did you do? M: They couldn't use smartphones well. So I taught them."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 7번.",
+      "type": "sentence",
+      "promptEn": "남자: 휴일 잘 보냈어? 여자: 응. 속초에 있는 삼촌을 방문했어. 남자: 거기서 뭐 했는데? 여자: 해변에 갔어. 눈 덮인 해변이 정말 아름다웠어.",
+      "accept": [
+        "M: Did you have a good holiday?\nW: Yes. I visited my uncle in Sokcho.\nM: Sounds great. What did you do there?\nW: We went to the beach. The snowy beach was so beautiful.",
+        "M: Did you have a good holiday? W: Yes. I visited my uncle in Sokcho. M: Sounds great. What did you do there? W: We went to the beach. The snowy beach was so beautiful."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 8번.",
+      "type": "sentence",
+      "promptEn": "남자: Lena, 주말에 뭐 했어? 여자: 가족과 어린이 병원에서 작은 콘서트를 열었어. 아빠는 바이올린, 엄마는 피아노, 나는 노래를 몇 곡 불렀어. 올해 최고의 날이었어.",
+      "accept": [
+        "M: What did you do over the weekend, Lena?\nW: My family and I held a small concert at a children's hospital.\nM: A small concert? That's great.\nW: My dad played the violin, and my mom played the piano. I sang a few songs. It was the best day of the year.",
+        "M: What did you do over the weekend, Lena? W: My family and I held a small concert at a children's hospital. M: A small concert? That's great. W: My dad played the violin, and my mom played the piano. I sang a few songs. It was the best day of the year."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 9번.",
+      "type": "sentence",
+      "promptEn": "여자: Jim, 와서 나 좀 도와줄래? 남자: 네, 엄마. 뭘 하면 돼요? 여자: 쓰레기 좀 내다 줄래? 남자: 물론이지.",
+      "accept": [
+        "W: Jim, can you come and help me?\nM: Yes, Mom. What can I do for you?\nW: Can you take out the trash?\nM: Sure. No problem.",
+        "W: Jim, can you come and help me? M: Yes, Mom. What can I do for you? W: Can you take out the trash? M: Sure. No problem."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답은 X-10 대화 영작하기 10번.",
+      "type": "sentence",
+      "promptEn": "남자: Amy, 주말 잘 보냈어? 여자: 응. 가족이랑 낚시 갔어. Sam은? 남자: 친구들과 영화를 봤어. 여자: 재미있었겠다.",
+      "accept": [
+        "M: Did you have a good weekend, Amy?\nW: Yes. I went fishing with my family. How about you, Sam?\nM: I watched a movie with my friends.\nW: Sounds fun.",
+        "M: Did you have a good weekend, Amy? W: Yes. I went fishing with my family. How about you, Sam? M: I watched a movie with my friends. W: Sounds fun."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 영어 대화 전체를 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화",
+      "directionKo": "영어 대화 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "영어 대화 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 10
+    }
+  ]
+}
