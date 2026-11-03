@@ -120,6 +120,42 @@ Exercise.prototype.matchPairs = function (pairs) {
   }
   this._sec.itemCount = pairs.length;
 };
+Exercise.prototype.splitMarked = function (sourceId, title, marked, words, cite) {
+  words.forEach((word, i) => {
+    const phrase = String(word).trim().split(/\s+/).length > 1;
+    this.add({
+      type: "fill",
+      answerMode: "words",
+      sourceId,
+      group: String(sourceId).padStart(2, "0"),
+      id: sourceId + "-" + (i + 1),
+      label: String(sourceId),
+      focusBlank: String(i + 1),
+      phraseBlank: phrase,
+      promptEn: title + "\n\n이 대화의 빈칸에 들어갈 말을 쓰시오.\n\n" + marked,
+      promptKo: "이 문항은 (" + (i + 1) + ")번 빈칸만 씁니다.",
+      accept: [String(word).trim()],
+      explainKo: "정답: " + word + (cite ? " (" + cite + ")" : ""),
+    });
+  });
+};
+Exercise.prototype.bankBlank = function (sourceId, group, promptEn, choices, focusBlank, correctIndex, explainKo, extra) {
+  const ch = choices.slice();
+  this.add(Object.assign({
+    type: "bank",
+    select: "one",
+    sourceId,
+    group,
+    promptEn,
+    choices: ch,
+    correctIndexes: [correctIndex],
+    focusBlank: String(focusBlank),
+    answerMode: "bank",
+    answerModeTag: "Choose · 보기에서 고르기",
+    promptKo: "이 문항은 (" + focusBlank + ") 빈칸만 고릅니다.",
+    explainKo: explainKo || "",
+  }, extra || {}));
+};
 Exercise.prototype.splitWords = function (sourceId, title, text, words, cite) {
   let marked;
   try {
@@ -336,7 +372,13 @@ function buildVocabCheck(unit, pages, A, B, C, D) {
 function buildDialogComplete(unit, pages, dialogs) {
   build(unit, "dialog-complete", "Dialog 완성하기", pages, (ex) => {
     ex.section("Section A · 이 빈칸에 들어갈 말만 쓰시오.", "이 빈칸에 들어갈 말만 쓰시오.", FILL.ruleKo, "words", FILL.answerModeTag);
-    dialogs.forEach((d, i) => ex.splitWords(i + 1, d[0] + "\n\n이 대화의 빈칸에 들어갈 말을 쓰시오.", d[1], d[2], d[3]));
+    dialogs.forEach((d, i) => {
+      if (d.length >= 5 && d[4]) {
+        ex.splitMarked(i + 1, d[0], d[4], d[2], d[3]);
+      } else {
+        ex.splitWords(i + 1, d[0] + "\n\n이 대화의 빈칸에 들어갈 말을 쓰시오.", d[1], d[2], d[3]);
+      }
+    });
   });
 }
 

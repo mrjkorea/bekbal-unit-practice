@@ -22,7 +22,7 @@
         {
           "id": "vocab-advanced",
           "title": "Vocabulary 심화 문제",
-          "questionCount": 15
+          "questionCount": 18
         },
         {
           "id": "dialog-detail",
@@ -47,8 +47,7 @@
         {
           "id": "dialog-advanced",
           "title": "Dialog 심화 문제",
-          "questionCount": 4,
-          "omittedCount": 9
+          "questionCount": 13
         },
         {
           "id": "grammar-check",
@@ -59,26 +58,22 @@
         {
           "id": "grammar-practice",
           "title": "Grammar 실전 문제",
-          "questionCount": 7,
-          "omittedCount": 7
+          "questionCount": 14
         },
         {
           "id": "grammar-advanced",
           "title": "Grammar 심화 문제",
-          "questionCount": 4,
-          "omittedCount": 10
+          "questionCount": 16
         },
         {
           "id": "reading-content",
           "title": "Reading 내용 확인하기",
-          "questionCount": 5,
-          "omittedCount": 15
+          "questionCount": 30
         },
         {
           "id": "reading-lexgram",
           "title": "Reading 적절한 어휘·어법 고르기",
-          "questionCount": 2,
-          "omittedCount": 27
+          "questionCount": 36
         },
         {
           "id": "reading-order",
@@ -93,38 +88,33 @@
         {
           "id": "reading-practice",
           "title": "Reading 실전 문제",
-          "questionCount": 6,
-          "omittedCount": 19
+          "questionCount": 26
         },
         {
           "id": "reading-advanced",
           "title": "Reading 심화 문제",
-          "questionCount": 6,
-          "omittedCount": 19
+          "questionCount": 24
         },
         {
           "id": "plus-practice",
           "title": "Plus 기타 지문 실전 문제",
-          "questionCount": 3,
-          "omittedCount": 3
+          "questionCount": 7
         },
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "questionCount": 2,
-          "omittedCount": 23
+          "questionCount": 25
         },
         {
           "id": "mock-100",
           "title": "100발 100중 모의고사",
-          "questionCount": 0,
-          "omittedCount": 37
+          "questionCount": 27,
+          "omittedCount": 10
         },
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "questionCount": 0,
-          "omittedCount": 30
+          "questionCount": 30
         }
       ]
     },
@@ -135,44 +125,37 @@
         {
           "id": "x10-vocab",
           "title": "어휘 확인 문제",
-          "questionCount": 20,
-          "omittedCount": 10
+          "questionCount": 59
         },
         {
           "id": "x10-dialog-cloze",
           "title": "대화 빈칸 완성하기",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 90
         },
         {
           "id": "x10-dialog-write",
           "title": "대화 영작하기",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 47
         },
         {
           "id": "x10-grammar",
           "title": "핵심 Grammar 확인 문제",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 35
         },
         {
           "id": "x10-reading-sentence",
           "title": "Reading 문장 완성하기",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 101
         },
         {
           "id": "x10-reading-cloze",
           "title": "Reading 빈칸 완성하기",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 106
         },
         {
           "id": "x10-review",
           "title": "핵심 문장 Review",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 17
         }
       ]
     },
@@ -183,20 +166,17 @@
         {
           "id": "final-1",
           "title": "최종점검 모의고사 1회",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 25
         },
         {
           "id": "final-2",
           "title": "최종점검 모의고사 2회",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 25
         },
         {
           "id": "final-3",
           "title": "최종점검 모의고사 3회",
-          "questionCount": 0,
-          "omittedCount": 1
+          "questionCount": 25
         }
       ]
     },

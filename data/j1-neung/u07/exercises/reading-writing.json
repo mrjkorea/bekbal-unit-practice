@@ -18,9 +18,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Pollution is a big problem. (답지 pp.154-157)",
+      "explainKo": "정답: Pollution is a big problem.",
       "type": "sentence",
-      "promptEn": "1 오염은 큰 문제입니다.",
+      "promptEn": "1 ",
       "accept": [
         "Pollution is a big problem.",
         "Pollution is a big problem"
@@ -38,9 +38,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Luckily, three superheroes are working to protect the environment. (답지 pp.154-157)",
+      "explainKo": "정답: Luckily, three superheroes are working to protect the environment.",
       "type": "sentence",
-      "promptEn": "2 다행히 세 명의 슈퍼히어로가 환경을 보호하고 있습니다.",
+      "promptEn": "2 ",
       "accept": [
         "Luckily, three superheroes are working to protect the environment.",
         "Luckily, three superheroes are working to protect the environment"
@@ -58,9 +58,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: They want to make the world clean. Will you join them? (답지 pp.154-157)",
+      "explainKo": "정답: They want to make the world clean. Will you join them?",
       "type": "sentence",
-      "promptEn": "3 그들은 세상을 깨끗하게 만들고 싶어 합니다.",
+      "promptEn": "3 ",
       "accept": [
         "They want to make the world clean. Will you join them?",
         "They want to make the world clean. Will you join them"
@@ -78,9 +78,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Hi! I'm Recycle Wizard. (답지 pp.154-157)",
+      "explainKo": "정답: Hi! I'm Recycle Wizard.",
       "type": "sentence",
-      "promptEn": "4 안녕하세요! 저는 재활용 마법사예요.",
+      "promptEn": "4 ",
       "accept": [
         "Hi! I'm Recycle Wizard.",
         "Hi! I'm Recycle Wizard"
@@ -98,9 +98,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: People waste too many resources. But recycling can save them. (답지 pp.154-157)",
+      "explainKo": "정답: People waste too many resources. But recycling can save them.",
       "type": "sentence",
-      "promptEn": "5 사람들은 너무 많은 자원을 낭비합니다.",
+      "promptEn": "5 ",
       "accept": [
         "People waste too many resources. But recycling can save them.",
         "People waste too many resources. But recycling can save them"
@@ -118,9 +118,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water. (답지 pp.154-157)",
+      "explainKo": "정답: For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.",
       "type": "sentence",
-      "promptEn": "6 예를 들어, 종이 1,000kg을 재활용하면 나무와 물을 절약할 수 있어요.",
+      "promptEn": "6 ",
       "accept": [
         "For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.",
         "For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water"
@@ -138,9 +138,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Do you want to be a wizard at recycling? Then you should recycle properly! (답지 pp.154-157)",
+      "explainKo": "정답: Do you want to be a wizard at recycling? Then you should recycle properly!",
       "type": "sentence",
-      "promptEn": "7 재활용을 제대로 해야 합니다.",
+      "promptEn": "7 ",
       "accept": [
         "Do you want to be a wizard at recycling? Then you should recycle properly!",
         "Do you want to be a wizard at recycling? Then you should recycle properly"
@@ -158,9 +158,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Put plastic, paper, food waste, and glass in the correct bins. (답지 pp.154-157)",
+      "explainKo": "정답: Put plastic, paper, food waste, and glass in the correct bins.",
       "type": "sentence",
-      "promptEn": "8 알맞은 쓰레기통에 넣으세요.",
+      "promptEn": "8 ",
       "accept": [
         "Put plastic, paper, food waste, and glass in the correct bins.",
         "Put plastic, paper, food waste, and glass in the correct bins"
@@ -178,9 +178,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Look at the waste below. Draw a line from each piece of waste to the right bin. (답지 pp.154-157)",
+      "explainKo": "정답: Look at the waste below. Draw a line from each piece of waste to the right bin.",
       "type": "sentence",
-      "promptEn": "9 쓰레기통까지 선을 그으세요.",
+      "promptEn": "9 ",
       "accept": [
         "Look at the waste below. Draw a line from each piece of waste to the right bin.",
         "Look at the waste below. Draw a line from each piece of waste to the right bin"
@@ -198,9 +198,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Good job! (답지 pp.154-157)",
+      "explainKo": "정답: Good job!",
       "type": "sentence",
-      "promptEn": "10 잘했어요!",
+      "promptEn": "10 ",
       "accept": [
         "Good job!",
         "Good job"
@@ -218,9 +218,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I'm Fashion Clever. (답지 pp.154-157)",
+      "explainKo": "정답: I'm Fashion Clever.",
       "type": "sentence",
-      "promptEn": "11 저는 패션 똑똑이예요.",
+      "promptEn": "11 ",
       "accept": [
         "I'm Fashion Clever.",
         "I'm Fashion Clever"
@@ -238,9 +238,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: People throw away clothes too often. They become waste and hurt the environment. (답지 pp.154-157)",
+      "explainKo": "정답: People throw away clothes too often. They become waste and hurt the environment.",
       "type": "sentence",
-      "promptEn": "12 옷을 너무 자주 버립니다.",
+      "promptEn": "12 ",
       "accept": [
         "People throw away clothes too often. They become waste and hurt the environment.",
         "People throw away clothes too often. They become waste and hurt the environment"
@@ -258,9 +258,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Did you know that some clothes take over 200 years to break down? (답지 pp.154-157)",
+      "explainKo": "정답: Did you know that some clothes take over 200 years to break down?",
       "type": "sentence",
-      "promptEn": "13 옷이 분해되는 데 200년이 넘게 걸립니다.",
+      "promptEn": "13 ",
       "accept": [
         "Did you know that some clothes take over 200 years to break down?",
         "Did you know that some clothes take over 200 years to break down"
@@ -278,9 +278,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Don't buy too many clothes. Wear your clothes for a long time. (답지 pp.154-157)",
+      "explainKo": "정답: Don't buy too many clothes. Wear your clothes for a long time.",
       "type": "sentence",
-      "promptEn": "14 너무 많은 옷을 사지 마세요.",
+      "promptEn": "14 ",
       "accept": [
         "Don't buy too many clothes. Wear your clothes for a long time.",
         "Don't buy too many clothes. Wear your clothes for a long time"
@@ -298,9 +298,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: You can also create new items from your old clothes! (답지 pp.154-157)",
+      "explainKo": "정답: You can also create new items from your old clothes!",
       "type": "sentence",
-      "promptEn": "15 헌 옷으로 새 물건을 만들 수 있어요.",
+      "promptEn": "15 ",
       "accept": [
         "You can also create new items from your old clothes!",
         "You can also create new items from your old clothes"
@@ -318,9 +318,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Let's make old clothes useful. (답지 pp.154-157)",
+      "explainKo": "정답: Let's make old clothes useful.",
       "type": "sentence",
-      "promptEn": "16 헌 옷을 유용하게 만들어 봅시다.",
+      "promptEn": "16 ",
       "accept": [
         "Let's make old clothes useful.",
         "Let's make old clothes useful"
@@ -338,9 +338,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: There are some items below. What can you make with these old clothes? (답지 pp.154-157)",
+      "explainKo": "정답: There are some items below. What can you make with these old clothes?",
       "type": "sentence",
-      "promptEn": "17 헌 옷으로 무엇을 만들 수 있나요?",
+      "promptEn": "17 ",
       "accept": [
         "There are some items below. What can you make with these old clothes?",
         "There are some items below. What can you make with these old clothes"
@@ -358,9 +358,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Match the old clothes with the new items. (답지 pp.154-157)",
+      "explainKo": "정답: Match the old clothes with the new items.",
       "type": "sentence",
-      "promptEn": "18 헌 옷과 새 물건을 연결하세요.",
+      "promptEn": "18 ",
       "accept": [
         "Match the old clothes with the new items.",
         "Match the old clothes with the new items"
@@ -378,9 +378,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Now you can be clever at fashion too! (답지 pp.154-157)",
+      "explainKo": "정답: Now you can be clever at fashion too!",
       "type": "sentence",
-      "promptEn": "19 패션에 영리해질 수 있어요.",
+      "promptEn": "19 ",
       "accept": [
         "Now you can be clever at fashion too!",
         "Now you can be clever at fashion too"
@@ -398,9 +398,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Hi! I'm Water Saver. (답지 pp.154-157)",
+      "explainKo": "정답: Hi! I'm Water Saver.",
       "type": "sentence",
-      "promptEn": "20 저는 물 절약이에요.",
+      "promptEn": "20 ",
       "accept": [
         "Hi! I'm Water Saver.",
         "Hi! I'm Water Saver"
@@ -418,9 +418,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Water is very important. We can't live without it. (답지 pp.154-157)",
+      "explainKo": "정답: Water is very important. We can't live without it.",
       "type": "sentence",
-      "promptEn": "21 물은 매우 중요합니다.",
+      "promptEn": "21 ",
       "accept": [
         "Water is very important. We can't live without it.",
         "Water is very important. We can't live without it"
@@ -438,9 +438,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: But people waste a lot of water. It makes me sad. (답지 pp.154-157)",
+      "explainKo": "정답: But people waste a lot of water. It makes me sad.",
       "type": "sentence",
-      "promptEn": "22 사람들은 물을 많이 낭비합니다.",
+      "promptEn": "22 ",
       "accept": [
         "But people waste a lot of water. It makes me sad.",
         "But people waste a lot of water. It makes me sad"
@@ -458,9 +458,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: How can we save water? (답지 pp.154-157)",
+      "explainKo": "정답: How can we save water?",
       "type": "sentence",
-      "promptEn": "23 어떻게 물을 절약할까요?",
+      "promptEn": "23 ",
       "accept": [
         "How can we save water?",
         "How can we save water"
@@ -478,9 +478,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Take quick showers. Turn off the tap while you brush your teeth. (답지 pp.154-157)",
+      "explainKo": "정답: Take quick showers. Turn off the tap while you brush your teeth.",
       "type": "sentence",
-      "promptEn": "24 샤워를 빨리 하고, 양치할 때 수도꼭지를 잠그세요.",
+      "promptEn": "24 ",
       "accept": [
         "Take quick showers. Turn off the tap while you brush your teeth.",
         "Take quick showers. Turn off the tap while you brush your teeth"
@@ -498,9 +498,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Also, make sure that you turn off the tap completely. (답지 pp.154-157)",
+      "explainKo": "정답: Also, make sure that you turn off the tap completely.",
       "type": "sentence",
-      "promptEn": "25 수도꼭지를 완전히 잠갔는지 확인하세요.",
+      "promptEn": "25 ",
       "accept": [
         "Also, make sure that you turn off the tap completely.",
         "Also, make sure that you turn off the tap completely"
@@ -518,9 +518,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Look at the pictures below. Which are ways to save water and which are not? (답지 pp.154-157)",
+      "explainKo": "정답: Look at the pictures below. Which are ways to save water and which are not?",
       "type": "sentence",
-      "promptEn": "26 물 절약 방법을 구분하세요.",
+      "promptEn": "26 ",
       "accept": [
         "Look at the pictures below. Which are ways to save water and which are not?",
         "Look at the pictures below. Which are ways to save water and which are not"
@@ -538,9 +538,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Write an O or X on each picture. (답지 pp.154-157)",
+      "explainKo": "정답: Write an O or X on each picture.",
       "type": "sentence",
-      "promptEn": "27 각 그림에 O 또는 X를 쓰세요.",
+      "promptEn": "27 ",
       "accept": [
         "Write an O or X on each picture.",
         "Write an O or X on each picture"
@@ -558,9 +558,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I'm sure that you got the right answers. (답지 pp.154-157)",
+      "explainKo": "정답: I'm sure that you got the right answers.",
       "type": "sentence",
-      "promptEn": "28 정답을 맞혔을 거예요.",
+      "promptEn": "28 ",
       "accept": [
         "I'm sure that you got the right answers.",
         "I'm sure that you got the right answers"
@@ -578,9 +578,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: You are amazing at saving water! (답지 pp.154-157)",
+      "explainKo": "정답: You are amazing at saving water!",
       "type": "sentence",
-      "promptEn": "29 물 절약에 뛰어나요!",
+      "promptEn": "29 ",
       "accept": [
         "You are amazing at saving water!",
         "You are amazing at saving water"

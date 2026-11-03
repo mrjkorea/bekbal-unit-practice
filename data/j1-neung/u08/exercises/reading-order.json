@@ -3,27 +3,2273 @@
   "title": "Reading 순서배열하기",
   "book": "중1 능률 김기택",
   "unit": "Lesson 08 Dive into Stories",
-  "sourcePages": "L08 본책/X-10",
-  "questionCount": 0,
-  "omitted": [
+  "sourcePages": "pp.154-157",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
     {
-      "sourceId": "rest",
-      "reason": "L08 reading-order — 답지 p.179+ 대조 follow-up (book-txt p060+)"
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: For Beatrice, Friday began like any other day.",
+      "type": "order",
+      "promptEn": "1 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "day"
+        },
+        {
+          "id": "c2",
+          "text": "other"
+        },
+        {
+          "id": "c3",
+          "text": "any"
+        },
+        {
+          "id": "c4",
+          "text": "like"
+        },
+        {
+          "id": "c5",
+          "text": "began"
+        },
+        {
+          "id": "c6",
+          "text": "Friday"
+        },
+        {
+          "id": "c7",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c8",
+          "text": "For"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She wore the same white socks on both of her feet. Then she made a sandwich.",
+      "type": "order",
+      "promptEn": "2 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "sandwich"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "made"
+        },
+        {
+          "id": "c4",
+          "text": "she"
+        },
+        {
+          "id": "c5",
+          "text": "Then"
+        },
+        {
+          "id": "c6",
+          "text": "feet"
+        },
+        {
+          "id": "c7",
+          "text": "her"
+        },
+        {
+          "id": "c8",
+          "text": "of"
+        },
+        {
+          "id": "c9",
+          "text": "both"
+        },
+        {
+          "id": "c10",
+          "text": "on"
+        },
+        {
+          "id": "c11",
+          "text": "socks"
+        },
+        {
+          "id": "c12",
+          "text": "white"
+        },
+        {
+          "id": "c13",
+          "text": "same"
+        },
+        {
+          "id": "c14",
+          "text": "the"
+        },
+        {
+          "id": "c15",
+          "text": "wore"
+        },
+        {
+          "id": "c16",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c15",
+        "c14",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c16",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She put exactly the same amount of peanut butter on each piece of bread.",
+      "type": "order",
+      "promptEn": "3 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "bread"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c3",
+          "text": "piece"
+        },
+        {
+          "id": "c4",
+          "text": "each"
+        },
+        {
+          "id": "c5",
+          "text": "on"
+        },
+        {
+          "id": "c6",
+          "text": "butter"
+        },
+        {
+          "id": "c7",
+          "text": "peanut"
+        },
+        {
+          "id": "c8",
+          "text": "of"
+        },
+        {
+          "id": "c9",
+          "text": "amount"
+        },
+        {
+          "id": "c10",
+          "text": "same"
+        },
+        {
+          "id": "c11",
+          "text": "the"
+        },
+        {
+          "id": "c12",
+          "text": "exactly"
+        },
+        {
+          "id": "c13",
+          "text": "put"
+        },
+        {
+          "id": "c14",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c14",
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c2",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c8",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: On her way to school, her neighbor said, \"Good morning, Perfect Girl.\"",
+      "type": "order",
+      "promptEn": "4 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "Girl"
+        },
+        {
+          "id": "c2",
+          "text": "Perfect"
+        },
+        {
+          "id": "c3",
+          "text": "morning"
+        },
+        {
+          "id": "c4",
+          "text": "Good"
+        },
+        {
+          "id": "c5",
+          "text": "said"
+        },
+        {
+          "id": "c6",
+          "text": "neighbor"
+        },
+        {
+          "id": "c7",
+          "text": "her"
+        },
+        {
+          "id": "c8",
+          "text": "school"
+        },
+        {
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c10",
+          "text": "way"
+        },
+        {
+          "id": "c11",
+          "text": "her"
+        },
+        {
+          "id": "c12",
+          "text": "On"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c7",
+        "c10",
+        "c9",
+        "c8",
+        "c11",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: People called Beatrice \"Perfect Girl\" because she never made mistakes.",
+      "type": "order",
+      "promptEn": "5 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "mistakes"
+        },
+        {
+          "id": "c2",
+          "text": "made"
+        },
+        {
+          "id": "c3",
+          "text": "never"
+        },
+        {
+          "id": "c4",
+          "text": "she"
+        },
+        {
+          "id": "c5",
+          "text": "because"
+        },
+        {
+          "id": "c6",
+          "text": "Girl"
+        },
+        {
+          "id": "c7",
+          "text": "Perfect"
+        },
+        {
+          "id": "c8",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c9",
+          "text": "called"
+        },
+        {
+          "id": "c10",
+          "text": "People"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"Are you ready for tonight's talent show?\" her neighbor asked.",
+      "type": "order",
+      "promptEn": "6 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "asked"
+        },
+        {
+          "id": "c2",
+          "text": "neighbor"
+        },
+        {
+          "id": "c3",
+          "text": "her"
+        },
+        {
+          "id": "c4",
+          "text": "show"
+        },
+        {
+          "id": "c5",
+          "text": "talent"
+        },
+        {
+          "id": "c6",
+          "text": "tonight's"
+        },
+        {
+          "id": "c7",
+          "text": "for"
+        },
+        {
+          "id": "c8",
+          "text": "ready"
+        },
+        {
+          "id": "c9",
+          "text": "you"
+        },
+        {
+          "id": "c10",
+          "text": "Are"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Beatrice just smiled. She was a juggling champion.",
+      "type": "order",
+      "promptEn": "7 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "champion"
+        },
+        {
+          "id": "c2",
+          "text": "juggling"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "She"
+        },
+        {
+          "id": "c6",
+          "text": "smiled"
+        },
+        {
+          "id": "c7",
+          "text": "just"
+        },
+        {
+          "id": "c8",
+          "text": "Beatrice"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She won the talent show every year. How wonderful she was!",
+      "type": "order",
+      "promptEn": "8 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "was"
+        },
+        {
+          "id": "c2",
+          "text": "she"
+        },
+        {
+          "id": "c3",
+          "text": "wonderful"
+        },
+        {
+          "id": "c4",
+          "text": "How"
+        },
+        {
+          "id": "c5",
+          "text": "year"
+        },
+        {
+          "id": "c6",
+          "text": "every"
+        },
+        {
+          "id": "c7",
+          "text": "show"
+        },
+        {
+          "id": "c8",
+          "text": "talent"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "won"
+        },
+        {
+          "id": "c11",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c11",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: At school, Beatrice had a cooking class.",
+      "type": "order",
+      "promptEn": "9 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "class"
+        },
+        {
+          "id": "c2",
+          "text": "cooking"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "had"
+        },
+        {
+          "id": "c5",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c6",
+          "text": "school"
+        },
+        {
+          "id": "c7",
+          "text": "At"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: To make a cake, she carefully took some eggs out of the refrigerator.",
+      "type": "order",
+      "promptEn": "10 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "refrigerator"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "out"
+        },
+        {
+          "id": "c5",
+          "text": "eggs"
+        },
+        {
+          "id": "c6",
+          "text": "some"
+        },
+        {
+          "id": "c7",
+          "text": "took"
+        },
+        {
+          "id": "c8",
+          "text": "carefully"
+        },
+        {
+          "id": "c9",
+          "text": "she"
+        },
+        {
+          "id": "c10",
+          "text": "cake"
+        },
+        {
+          "id": "c11",
+          "text": "a"
+        },
+        {
+          "id": "c12",
+          "text": "make"
+        },
+        {
+          "id": "c13",
+          "text": "To"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: When she turned around, she stepped on something slippery.",
+      "type": "order",
+      "promptEn": "11 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "slippery"
+        },
+        {
+          "id": "c2",
+          "text": "something"
+        },
+        {
+          "id": "c3",
+          "text": "on"
+        },
+        {
+          "id": "c4",
+          "text": "stepped"
+        },
+        {
+          "id": "c5",
+          "text": "she"
+        },
+        {
+          "id": "c6",
+          "text": "around"
+        },
+        {
+          "id": "c7",
+          "text": "turned"
+        },
+        {
+          "id": "c8",
+          "text": "she"
+        },
+        {
+          "id": "c9",
+          "text": "When"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c5",
+        "c7",
+        "c6",
+        "c8",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She was about to fall! But she didn't.",
+      "type": "order",
+      "promptEn": "12 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "didn't"
+        },
+        {
+          "id": "c2",
+          "text": "she"
+        },
+        {
+          "id": "c3",
+          "text": "But"
+        },
+        {
+          "id": "c4",
+          "text": "fall"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "about"
+        },
+        {
+          "id": "c7",
+          "text": "was"
+        },
+        {
+          "id": "c8",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c8",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"That was close!\" she thought. She almost made a mistake.",
+      "type": "order",
+      "promptEn": "13 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "mistake"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "made"
+        },
+        {
+          "id": "c4",
+          "text": "almost"
+        },
+        {
+          "id": "c5",
+          "text": "She"
+        },
+        {
+          "id": "c6",
+          "text": "thought"
+        },
+        {
+          "id": "c7",
+          "text": "she"
+        },
+        {
+          "id": "c8",
+          "text": "close"
+        },
+        {
+          "id": "c9",
+          "text": "was"
+        },
+        {
+          "id": "c10",
+          "text": "That"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c5",
+        "c6",
+        "c7",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Because of this, she began to feel nervous.",
+      "type": "order",
+      "promptEn": "14 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "nervous"
+        },
+        {
+          "id": "c2",
+          "text": "feel"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "began"
+        },
+        {
+          "id": "c5",
+          "text": "she"
+        },
+        {
+          "id": "c6",
+          "text": "this"
+        },
+        {
+          "id": "c7",
+          "text": "of"
+        },
+        {
+          "id": "c8",
+          "text": "Because"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: It was time for the talent show. The school gym was full of people.",
+      "type": "order",
+      "promptEn": "15 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "people"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c3",
+          "text": "full"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "gym"
+        },
+        {
+          "id": "c6",
+          "text": "school"
+        },
+        {
+          "id": "c7",
+          "text": "The"
+        },
+        {
+          "id": "c8",
+          "text": "show"
+        },
+        {
+          "id": "c9",
+          "text": "talent"
+        },
+        {
+          "id": "c10",
+          "text": "the"
+        },
+        {
+          "id": "c11",
+          "text": "for"
+        },
+        {
+          "id": "c12",
+          "text": "time"
+        },
+        {
+          "id": "c13",
+          "text": "was"
+        },
+        {
+          "id": "c14",
+          "text": "It"
+        }
+      ],
+      "orderIds": [
+        "c14",
+        "c4",
+        "c12",
+        "c11",
+        "c7",
+        "c9",
+        "c8",
+        "c10",
+        "c6",
+        "c5",
+        "c13",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: They said, \"Look! That's Perfect Girl!\" Beatrice had butterflies in her stomach.",
+      "type": "order",
+      "promptEn": "16 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "stomach"
+        },
+        {
+          "id": "c2",
+          "text": "her"
+        },
+        {
+          "id": "c3",
+          "text": "in"
+        },
+        {
+          "id": "c4",
+          "text": "butterflies"
+        },
+        {
+          "id": "c5",
+          "text": "had"
+        },
+        {
+          "id": "c6",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c7",
+          "text": "Girl"
+        },
+        {
+          "id": "c8",
+          "text": "Perfect"
+        },
+        {
+          "id": "c9",
+          "text": "That's"
+        },
+        {
+          "id": "c10",
+          "text": "Look"
+        },
+        {
+          "id": "c11",
+          "text": "said"
+        },
+        {
+          "id": "c12",
+          "text": "They"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"Will I mess up? I'm worried,\" she thought.",
+      "type": "order",
+      "promptEn": "17 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "thought"
+        },
+        {
+          "id": "c2",
+          "text": "she"
+        },
+        {
+          "id": "c3",
+          "text": "worried"
+        },
+        {
+          "id": "c4",
+          "text": "I'm"
+        },
+        {
+          "id": "c5",
+          "text": "up"
+        },
+        {
+          "id": "c6",
+          "text": "mess"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "Will"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Beatrice threw an egg into the air. Next, she added a salt shaker.",
+      "type": "order",
+      "promptEn": "18 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "shaker"
+        },
+        {
+          "id": "c2",
+          "text": "salt"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "added"
+        },
+        {
+          "id": "c5",
+          "text": "she"
+        },
+        {
+          "id": "c6",
+          "text": "Next"
+        },
+        {
+          "id": "c7",
+          "text": "air"
+        },
+        {
+          "id": "c8",
+          "text": "the"
+        },
+        {
+          "id": "c9",
+          "text": "into"
+        },
+        {
+          "id": "c10",
+          "text": "egg"
+        },
+        {
+          "id": "c11",
+          "text": "an"
+        },
+        {
+          "id": "c12",
+          "text": "threw"
+        },
+        {
+          "id": "c13",
+          "text": "Beatrice"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Finally, she added a water balloon. What a good start!",
+      "type": "order",
+      "promptEn": "19 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "start"
+        },
+        {
+          "id": "c2",
+          "text": "good"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "What"
+        },
+        {
+          "id": "c5",
+          "text": "balloon"
+        },
+        {
+          "id": "c6",
+          "text": "water"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "added"
+        },
+        {
+          "id": "c9",
+          "text": "she"
+        },
+        {
+          "id": "c10",
+          "text": "Finally"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c3",
+        "c6",
+        "c5",
+        "c4",
+        "c7",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: But then she felt something strange... Uh-oh!",
+      "type": "order",
+      "promptEn": "20 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "oh"
+        },
+        {
+          "id": "c2",
+          "text": "Uh"
+        },
+        {
+          "id": "c3",
+          "text": "strange"
+        },
+        {
+          "id": "c4",
+          "text": "something"
+        },
+        {
+          "id": "c5",
+          "text": "felt"
+        },
+        {
+          "id": "c6",
+          "text": "she"
+        },
+        {
+          "id": "c7",
+          "text": "then"
+        },
+        {
+          "id": "c8",
+          "text": "But"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Beatrice's nose started to itch. The salt shaker was full of... pepper!",
+      "type": "order",
+      "promptEn": "21 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "pepper"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c3",
+          "text": "full"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "shaker"
+        },
+        {
+          "id": "c6",
+          "text": "salt"
+        },
+        {
+          "id": "c7",
+          "text": "The"
+        },
+        {
+          "id": "c8",
+          "text": "itch"
+        },
+        {
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c10",
+          "text": "started"
+        },
+        {
+          "id": "c11",
+          "text": "nose"
+        },
+        {
+          "id": "c12",
+          "text": "Beatrice's"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: \"ACHOO!\" Beatrice missed the water balloon, and it fell to the floor.",
+      "type": "order",
+      "promptEn": "22 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "floor"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "fell"
+        },
+        {
+          "id": "c5",
+          "text": "it"
+        },
+        {
+          "id": "c6",
+          "text": "and"
+        },
+        {
+          "id": "c7",
+          "text": "balloon"
+        },
+        {
+          "id": "c8",
+          "text": "water"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "missed"
+        },
+        {
+          "id": "c11",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c12",
+          "text": "ACHOO"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c2",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c9",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Then... OOPS! The egg broke on top of her head.",
+      "type": "order",
+      "promptEn": "23 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "head"
+        },
+        {
+          "id": "c2",
+          "text": "her"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "top"
+        },
+        {
+          "id": "c5",
+          "text": "on"
+        },
+        {
+          "id": "c6",
+          "text": "broke"
+        },
+        {
+          "id": "c7",
+          "text": "egg"
+        },
+        {
+          "id": "c8",
+          "text": "The"
+        },
+        {
+          "id": "c9",
+          "text": "OOPS"
+        },
+        {
+          "id": "c10",
+          "text": "Then"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: For the first time ever, Beatrice made a mistake. What a surprise!",
+      "type": "order",
+      "promptEn": "24 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "surprise"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "What"
+        },
+        {
+          "id": "c4",
+          "text": "mistake"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "made"
+        },
+        {
+          "id": "c7",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c8",
+          "text": "ever"
+        },
+        {
+          "id": "c9",
+          "text": "time"
+        },
+        {
+          "id": "c10",
+          "text": "first"
+        },
+        {
+          "id": "c11",
+          "text": "the"
+        },
+        {
+          "id": "c12",
+          "text": "For"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c2",
+        "c4",
+        "c3",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She thought, \"What should I do? Cry? Run off the stage?\"",
+      "type": "order",
+      "promptEn": "25 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "stage"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "off"
+        },
+        {
+          "id": "c4",
+          "text": "Run"
+        },
+        {
+          "id": "c5",
+          "text": "Cry"
+        },
+        {
+          "id": "c6",
+          "text": "do"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "should"
+        },
+        {
+          "id": "c9",
+          "text": "What"
+        },
+        {
+          "id": "c10",
+          "text": "thought"
+        },
+        {
+          "id": "c11",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Suddenly, she began to laugh loudly. The people looked at each other.",
+      "type": "order",
+      "promptEn": "26 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "other"
+        },
+        {
+          "id": "c2",
+          "text": "each"
+        },
+        {
+          "id": "c3",
+          "text": "at"
+        },
+        {
+          "id": "c4",
+          "text": "looked"
+        },
+        {
+          "id": "c5",
+          "text": "people"
+        },
+        {
+          "id": "c6",
+          "text": "The"
+        },
+        {
+          "id": "c7",
+          "text": "loudly"
+        },
+        {
+          "id": "c8",
+          "text": "laugh"
+        },
+        {
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c10",
+          "text": "began"
+        },
+        {
+          "id": "c11",
+          "text": "she"
+        },
+        {
+          "id": "c12",
+          "text": "Suddenly"
+        }
+      ],
+      "orderIds": [
+        "c12",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Then everyone started to laugh together.",
+      "type": "order",
+      "promptEn": "27 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "together"
+        },
+        {
+          "id": "c2",
+          "text": "laugh"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "started"
+        },
+        {
+          "id": "c5",
+          "text": "everyone"
+        },
+        {
+          "id": "c6",
+          "text": "Then"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c2",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: That night, Beatrice had a deep sleep. The next morning, she woke up with a smile.",
+      "type": "order",
+      "promptEn": "28 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "smile"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "with"
+        },
+        {
+          "id": "c4",
+          "text": "up"
+        },
+        {
+          "id": "c5",
+          "text": "woke"
+        },
+        {
+          "id": "c6",
+          "text": "she"
+        },
+        {
+          "id": "c7",
+          "text": "morning"
+        },
+        {
+          "id": "c8",
+          "text": "next"
+        },
+        {
+          "id": "c9",
+          "text": "The"
+        },
+        {
+          "id": "c10",
+          "text": "sleep"
+        },
+        {
+          "id": "c11",
+          "text": "deep"
+        },
+        {
+          "id": "c12",
+          "text": "a"
+        },
+        {
+          "id": "c13",
+          "text": "had"
+        },
+        {
+          "id": "c14",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c15",
+          "text": "night"
+        },
+        {
+          "id": "c16",
+          "text": "That"
+        }
+      ],
+      "orderIds": [
+        "c16",
+        "c15",
+        "c14",
+        "c13",
+        "c2",
+        "c11",
+        "c10",
+        "c9",
+        "c8",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c3",
+        "c12",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: She put a white sock on her left foot... and a green sock on her right foot!",
+      "type": "order",
+      "promptEn": "29 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "foot"
+        },
+        {
+          "id": "c2",
+          "text": "right"
+        },
+        {
+          "id": "c3",
+          "text": "her"
+        },
+        {
+          "id": "c4",
+          "text": "on"
+        },
+        {
+          "id": "c5",
+          "text": "sock"
+        },
+        {
+          "id": "c6",
+          "text": "green"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "and"
+        },
+        {
+          "id": "c9",
+          "text": "foot"
+        },
+        {
+          "id": "c10",
+          "text": "left"
+        },
+        {
+          "id": "c11",
+          "text": "her"
+        },
+        {
+          "id": "c12",
+          "text": "on"
+        },
+        {
+          "id": "c13",
+          "text": "sock"
+        },
+        {
+          "id": "c14",
+          "text": "white"
+        },
+        {
+          "id": "c15",
+          "text": "a"
+        },
+        {
+          "id": "c16",
+          "text": "put"
+        },
+        {
+          "id": "c17",
+          "text": "She"
+        }
+      ],
+      "orderIds": [
+        "c17",
+        "c16",
+        "c7",
+        "c14",
+        "c5",
+        "c4",
+        "c3",
+        "c10",
+        "c1",
+        "c8",
+        "c15",
+        "c6",
+        "c13",
+        "c12",
+        "c11",
+        "c2",
+        "c9"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Now, people no longer call her \"Perfect Girl.\" They just call her Beatrice.",
+      "type": "order",
+      "promptEn": "30 보기를 순서대로 누르세요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "Beatrice"
+        },
+        {
+          "id": "c2",
+          "text": "her"
+        },
+        {
+          "id": "c3",
+          "text": "call"
+        },
+        {
+          "id": "c4",
+          "text": "just"
+        },
+        {
+          "id": "c5",
+          "text": "They"
+        },
+        {
+          "id": "c6",
+          "text": "Girl"
+        },
+        {
+          "id": "c7",
+          "text": "Perfect"
+        },
+        {
+          "id": "c8",
+          "text": "her"
+        },
+        {
+          "id": "c9",
+          "text": "call"
+        },
+        {
+          "id": "c10",
+          "text": "longer"
+        },
+        {
+          "id": "c11",
+          "text": "no"
+        },
+        {
+          "id": "c12",
+          "text": "people"
+        },
+        {
+          "id": "c13",
+          "text": "Now"
+        }
+      ],
+      "orderIds": [
+        "c13",
+        "c12",
+        "c11",
+        "c10",
+        "c3",
+        "c2",
+        "c7",
+        "c6",
+        "c5",
+        "c4",
+        "c9",
+        "c8",
+        "c1"
+      ],
+      "seconds": 75
     }
   ],
-  "questions": [],
   "sectionsVersion": 2,
-  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 0문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 30문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "sections": [
     {
       "id": "s1",
-      "title": "Section A · digitize",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 0
+      "title": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 30
     }
   ]
 }

@@ -3,27 +3,538 @@
   "title": "핵심 Grammar 확인 문제",
   "book": "중1 능률 김기택",
   "unit": "Lesson 08 Dive into Stories",
-  "sourcePages": "L08 본책/X-10",
-  "questionCount": 0,
-  "omitted": [
+  "sourcePages": "X-10 pp.36-37",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
     {
-      "sourceId": "rest",
-      "reason": "L08 x10-grammar — 답지 p.179+ 대조 follow-up (book-txt p060+)"
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How",
+      "type": "fill",
+      "promptEn": "1 Grammar in Text (답지)",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What",
+      "type": "fill",
+      "promptEn": "2 Grammar in Text (답지)",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How",
+      "type": "fill",
+      "promptEn": "3 Grammar in Text (답지)",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How",
+      "type": "fill",
+      "promptEn": "4 Grammar in Text (답지)",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What",
+      "type": "fill",
+      "promptEn": "5 Grammar in Text (답지)",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How",
+      "type": "fill",
+      "promptEn": "6 Grammar in Text (답지)",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What",
+      "type": "fill",
+      "promptEn": "7 Grammar in Text (답지)",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What",
+      "type": "fill",
+      "promptEn": "8 Grammar in Text (답지)",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How",
+      "type": "fill",
+      "promptEn": "9 Grammar in Text (답지)",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · make+O+C",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What",
+      "type": "fill",
+      "promptEn": "10 Grammar in Text (답지)",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: What a terrible mistake it is!",
+      "type": "sentence",
+      "promptEn": "11 문장 (답지 More)",
+      "accept": [
+        "What a terrible mistake it is!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s2",
+      "sectionTitle": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How tall that building is!",
+      "type": "sentence",
+      "promptEn": "12 문장 (답지 More)",
+      "accept": [
+        "How tall that building is!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: What a strange noise it is!",
+      "type": "sentence",
+      "promptEn": "13 문장 (답지 More)",
+      "accept": [
+        "What a strange noise it is!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s2",
+      "sectionTitle": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How cold it is today!",
+      "type": "sentence",
+      "promptEn": "14 문장 (답지 More)",
+      "accept": [
+        "How cold it is today!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s2",
+      "sectionTitle": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: What a great idea you had!",
+      "type": "sentence",
+      "promptEn": "15 문장 (답지 More)",
+      "accept": [
+        "What a great idea you had!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: something",
+      "type": "fill",
+      "promptEn": "1 something+adj (답지)",
+      "accept": [
+        "something"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: something",
+      "type": "fill",
+      "promptEn": "2 something+adj (답지)",
+      "accept": [
+        "something"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: cold",
+      "type": "fill",
+      "promptEn": "3 something+adj (답지)",
+      "accept": [
+        "cold"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: unusual",
+      "type": "fill",
+      "promptEn": "4 something+adj (답지)",
+      "accept": [
+        "unusual"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: somebody",
+      "type": "fill",
+      "promptEn": "5 something+adj (답지)",
+      "accept": [
+        "somebody"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: anybody new",
+      "type": "fill",
+      "promptEn": "6 something+adj (답지)",
+      "accept": [
+        "anybody new"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: interesting",
+      "type": "fill",
+      "promptEn": "7 something+adj (답지)",
+      "accept": [
+        "interesting"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: nothing",
+      "type": "fill",
+      "promptEn": "8 something+adj (답지)",
+      "accept": [
+        "nothing"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: anything cold",
+      "type": "fill",
+      "promptEn": "9 something+adj (답지)",
+      "accept": [
+        "anything cold"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s3",
+      "sectionTitle": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: strange",
+      "type": "fill",
+      "promptEn": "10 something+adj (답지)",
+      "accept": [
+        "strange"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
     }
   ],
-  "questions": [],
   "sectionsVersion": 2,
-  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 0문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 10문항 문장 전체를 쓰시오. 5문항 빈칸에 들어갈 말만 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "sections": [
     {
       "id": "s1",
-      "title": "Section A · digitize",
+      "title": "Section A · make+O+C",
       "directionKo": "빈칸에 들어갈 말만 쓰시오.",
       "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
       "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 0
+      "itemCount": 10
+    },
+    {
+      "id": "s2",
+      "title": "Section B · More",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 5
+    },
+    {
+      "id": "s3",
+      "title": "Section C · that",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 10
     }
   ]
 }

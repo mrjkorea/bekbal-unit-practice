@@ -8,7 +8,6 @@ module.exports = function run(ctx) {
 
   buildVocabCheck("u07", "p.126", payload.L07_A, payload.L07_B, payload.L07_C, payload.L07_D);
   buildVocabCheck("u08", "p.184", payload.L08_A, payload.L08_B, payload.L08_C, payload.L08_D);
-  buildDialogComplete("u07", "pp.134-135", payload.D07_COMPLETE);
   buildDialogComplete("u08", "pp.192-193", payload.D08_COMPLETE);
 
   build("u07", "dialog-detail", "Dialog 자세히 보기", "pp.132-133", (ex) => {
@@ -91,5 +90,5 @@ module.exports = function run(ctx) {
     Object.keys(pack).forEach((id) => applyPack(unit, Object.assign({ id }, pack[id])));
   });
 
-  require("./j1-neung-u78-book.js")(ctx);
+  require("./j1-neung-u78-bulk.js")(ctx);
 };

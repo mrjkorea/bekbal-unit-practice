@@ -23,9 +23,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: The rain makes the ground wet. (답지 p.144 A 01)",
+      "explainKo": "정답: The rain makes the ground wet",
       "type": "order",
-      "promptEn": "01 비는 땅을 젖게 한다.\n보기: makes / wet / the ground / The rain",
+      "promptEn": "1 비는 땅/농담 등 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -73,9 +73,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: (답지 A 02)",
+      "explainKo": "정답: The joke makes me happy",
       "type": "order",
-      "promptEn": "02 그 농담은 나를 행복하게 한다.\n보기: me / makes / happy / The joke",
+      "promptEn": "2 비는 땅/농담 등 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -118,9 +118,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: make their garden green. (답지 A 03)",
+      "explainKo": "정답: They make their garden green",
       "type": "order",
-      "promptEn": "03 그들은 정원을 푸르게 만들었다.\n보기: their / green / make / garden / They",
+      "promptEn": "3 비는 땅/농담 등 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -163,9 +163,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: (답지 A 04)",
+      "explainKo": "정답: The festival makes the city colorful",
       "type": "order",
-      "promptEn": "04 그 축제는 도시를 다채롭게 만든다.\n보기: the city / makes / colorful / The festival",
+      "promptEn": "4 비는 땅/농담 등 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -213,9 +213,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: makes me excited every day. (답지 A 05)",
+      "explainKo": "정답: My dog makes me excited every day",
       "type": "order",
-      "promptEn": "05 내 강아지는 매일 나를 신나게 만든다.\n보기: me / every day / excited / makes / My dog",
+      "promptEn": "5 비는 땅/농담 등 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -268,7 +268,7 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: He made the room clean. (답지 p.144 B)",
+      "explainKo": "정답: He made the room clean.",
       "type": "sentence",
       "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nHe made clean the room.",
       "accept": [
@@ -287,7 +287,7 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: The lamp makes the desk bright. (답지 p.144 B)",
+      "explainKo": "정답: The lamp makes the desk bright.",
       "type": "sentence",
       "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nThe lamp makes the desk brightly.",
       "accept": [
@@ -306,7 +306,7 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: The doctor makes the patient healthy. (답지 p.144 B)",
+      "explainKo": "정답: The doctor makes the patient healthy.",
       "type": "sentence",
       "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nThe doctor makes the patient health.",
       "accept": [
@@ -325,7 +325,7 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: The movie made me sad. (답지 p.144 B)",
+      "explainKo": "정답: The movie made me sad.",
       "type": "sentence",
       "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nThe movie made I sad.",
       "accept": [
@@ -344,7 +344,7 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Does he make the story interesting? (답지 p.144 B)",
+      "explainKo": "정답: Does he make the story interesting?",
       "type": "sentence",
       "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nDoes he make the story interest?",
       "accept": [
@@ -363,9 +363,9 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: us. (답지 C 01)",
+      "explainKo": "정답: us",
       "type": "fill",
-      "promptEn": "The game makes ______ excited.",
+      "promptEn": "The game makes ______ excited. (답지 C)",
       "accept": [
         "us"
       ],
@@ -383,9 +383,9 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: surprised. (답지 C 02)",
+      "explainKo": "정답: surprised",
       "type": "fill",
-      "promptEn": "The news made me ______.",
+      "promptEn": "The game makes ______ excited. (답지 C)",
       "accept": [
         "surprised"
       ],
@@ -403,9 +403,9 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: sleepy. (답지 C 03)",
+      "explainKo": "정답: sleepy",
       "type": "fill",
-      "promptEn": "The music makes me ______.",
+      "promptEn": "The game makes ______ excited. (답지 C)",
       "accept": [
         "sleepy"
       ],
@@ -423,9 +423,9 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: beautiful. (답지 C 04)",
+      "explainKo": "정답: beautiful",
       "type": "fill",
-      "promptEn": "The morning makes the sky ______.",
+      "promptEn": "The game makes ______ excited. (답지 C)",
       "accept": [
         "beautiful"
       ],
@@ -443,9 +443,9 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: tired. (답지 C 05)",
+      "explainKo": "정답: tired",
       "type": "fill",
-      "promptEn": "The long walk made them ______.",
+      "promptEn": "The game makes ______ excited. (답지 C)",
       "accept": [
         "tired"
       ],
@@ -463,9 +463,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: said that she was tired. (답지 p.145 A 01)",
+      "explainKo": "정답: said that she was tired",
       "type": "order",
-      "promptEn": "01 She said that she was tired.\n보기: she / was / said / tired / that",
+      "promptEn": "16 that절 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -508,9 +508,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: (답지 A 02)",
+      "explainKo": "정답: think that it will rain tomorrow",
       "type": "order",
-      "promptEn": "02 I think that it will rain tomorrow.\n보기: it / rain / that / think / will / tomorrow",
+      "promptEn": "17 that절 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -558,9 +558,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: (답지 A 03)",
+      "explainKo": "정답: know she is a good teacher",
       "type": "order",
-      "promptEn": "03 I know she is a good teacher.\n보기: she / a / know / is / teacher / good",
+      "promptEn": "18 that절 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -608,9 +608,9 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: (답지 A 05)",
+      "explainKo": "정답: don't feel that this movie is interesting",
       "type": "order",
-      "promptEn": "05 I don't feel that this movie is interesting.\n보기: this / that / feel / movie / don't / is / interesting",
+      "promptEn": "20 that절 배열",
       "orderChunks": [
         {
           "id": "c1",
@@ -663,9 +663,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I heard that they moved to a new city. (답지 p.145 B)",
+      "explainKo": "정답: I heard that they moved to a new city.",
       "type": "sentence",
-      "promptEn": "접속사 that을 추가하여 문장 전체를 쓰시오.\nI heard they moved to a new city.",
+      "promptEn": "that을 추가하여 문장 전체를 쓰시오.\nI heard they moved to a new city.",
       "accept": [
         "I heard that they moved to a new city."
       ],
@@ -682,9 +682,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: She promised that she would call later. (답지 p.145 B)",
+      "explainKo": "정답: She promised that she would call later.",
       "type": "sentence",
-      "promptEn": "접속사 that을 추가하여 문장 전체를 쓰시오.\nShe promised she would call later.",
+      "promptEn": "that을 추가하여 문장 전체를 쓰시오.\nShe promised she would call later.",
       "accept": [
         "She promised that she would call later."
       ],
@@ -701,9 +701,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: We all believe that she is a great writer. (답지 p.145 B)",
+      "explainKo": "정답: We all believe that she is a great writer.",
       "type": "sentence",
-      "promptEn": "접속사 that을 추가하여 문장 전체를 쓰시오.\nWe all believe she is a great writer.",
+      "promptEn": "that을 추가하여 문장 전체를 쓰시오.\nWe all believe she is a great writer.",
       "accept": [
         "We all believe that she is a great writer."
       ],
@@ -720,9 +720,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: He doesn't remember that he met her before. (답지 p.145 B)",
+      "explainKo": "정답: He doesn't remember that he met her before.",
       "type": "sentence",
-      "promptEn": "접속사 that을 추가하여 문장 전체를 쓰시오.\nHe doesn't remember he met her before.",
+      "promptEn": "that을 추가하여 문장 전체를 쓰시오.\nHe doesn't remember he met her before.",
       "accept": [
         "He doesn't remember that he met her before."
       ],
@@ -739,9 +739,9 @@
       "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerMode": "sentence",
       "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Do you understand that hard work leads to success? (답지 p.145 B)",
+      "explainKo": "정답: Do you understand that hard work leads to success?",
       "type": "sentence",
-      "promptEn": "접속사 that을 추가하여 문장 전체를 쓰시오.\nDo you understand hard work leads to success?",
+      "promptEn": "that을 추가하여 문장 전체를 쓰시오.\nDo you understand hard work leads to success?",
       "accept": [
         "Do you understand that hard work leads to success?"
       ],
@@ -758,17 +758,17 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: S. (답지 p.145 C)",
+      "explainKo": "정답: undefined",
       "type": "mc",
       "select": "one",
-      "promptEn": "다음 that절의 역할은?\nThat she loves cats is clear.",
+      "promptEn": "that절의 역할은?\n26",
       "choices": [
         "S",
         "O",
         "C"
       ],
       "correctIndexes": [
-        1
+        "That she loves cats is clear."
       ],
       "seconds": 60
     },
@@ -783,17 +783,17 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: O. (답지 p.145 C)",
+      "explainKo": "정답: undefined",
       "type": "mc",
       "select": "one",
-      "promptEn": "다음 that절의 역할은?\nWe believe that it will snow tomorrow.",
+      "promptEn": "that절의 역할은?\n27",
       "choices": [
         "S",
         "O",
         "C"
       ],
       "correctIndexes": [
-        2
+        "We believe that it will snow tomorrow."
       ],
       "seconds": 60
     },
@@ -808,17 +808,17 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: C. (답지 p.145 C)",
+      "explainKo": "정답: undefined",
       "type": "mc",
       "select": "one",
-      "promptEn": "다음 that절의 역할은?\nThe truth is that he loves animals.",
+      "promptEn": "that절의 역할은?\n28",
       "choices": [
         "S",
         "O",
         "C"
       ],
       "correctIndexes": [
-        3
+        "The truth is that he loves animals."
       ],
       "seconds": 60
     },
@@ -833,17 +833,17 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: C. (답지 p.145 C)",
+      "explainKo": "정답: undefined",
       "type": "mc",
       "select": "one",
-      "promptEn": "다음 that절의 역할은?\nThe fact is that he forgot my birthday.",
+      "promptEn": "that절의 역할은?\n29",
       "choices": [
         "S",
         "O",
         "C"
       ],
       "correctIndexes": [
-        3
+        "The fact is that he forgot my birthday."
       ],
       "seconds": 60
     },
@@ -858,17 +858,17 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: O. (답지 p.145 C)",
+      "explainKo": "정답: undefined",
       "type": "mc",
       "select": "one",
-      "promptEn": "다음 that절의 역할은?\nWe hope that you feel better soon.",
+      "promptEn": "that절의 역할은?\n30",
       "choices": [
         "S",
         "O",
         "C"
       ],
       "correctIndexes": [
-        2
+        "We hope that you feel better soon."
       ],
       "seconds": 60
     },
