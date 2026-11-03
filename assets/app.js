@@ -254,14 +254,15 @@ function renderMatch(card, item) {
   paint();
 }
 
-function renderChoices(parent, name, choices, multi) {
+function renderChoices(parent, name, choices, multi, indexBase) {
   const box = el("div", "mc-options" + (multi ? " mc-multi" : ""));
+  const base = indexBase === 0 ? 0 : 1;
   choices.forEach((ch, i) => {
     const lab = document.createElement("label");
     const inp = document.createElement("input");
     inp.type = multi ? "checkbox" : "radio";
     inp.name = name;
-    inp.value = String(i + 1);
+    inp.value = String(i + base);
     lab.appendChild(inp);
     const span = document.createElement("span");
     span.className = "mc-choice-text";
@@ -377,7 +378,7 @@ function renderCard(item) {
     (item.parts || []).forEach((part, i) => {
       const block = el("div", "part-block");
       if (part.label) block.appendChild(el("div", "part-label", part.label));
-      if (part.kind === "mc") renderChoices(block, "p" + i, part.choices || [], false);
+      if (part.kind === "mc") renderChoices(block, "p" + i, part.choices || [], false, part.indexBase);
       else {
         const inp = document.createElement(part.kind === "sentence" ? "textarea" : "input");
         if (part.kind !== "sentence") inp.type = "text";

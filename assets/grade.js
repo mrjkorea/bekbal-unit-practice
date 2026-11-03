@@ -113,6 +113,7 @@
         var part = parts[p];
         var val = gotParts[p];
         if (part.kind === "mc") {
+          if (val === "" || val == null || !/^\d+$/.test(String(val))) return false;
           var ix = Number(val);
           if (!part.correctIndexes || part.correctIndexes[0] !== ix) return false;
         } else if (!matchAccept(val, part.accept || [])) return false;
@@ -148,7 +149,11 @@
     if (item.type === "parts") {
       return (item.parts || [])
         .map(function (part) {
-          if (part.kind === "mc") return part.label + ": " + (part.choices[(part.correctIndexes[0] || 1) - 1] || "");
+          if (part.kind === "mc") {
+            var ix = part.correctIndexes[0];
+            var shown = part.indexBase === 0 ? part.choices[ix] : part.choices[(ix || 1) - 1];
+            return part.label + ": " + (shown || "");
+          }
           return part.label + ": " + ((part.accept && part.accept[0]) || "");
         })
         .join("\n");
@@ -192,8 +197,9 @@
       var bits = (item.parts || []).map(function (part, i) {
         var val = (response.parts || [])[i];
         if (part.kind === "mc") {
-          if (!val) return part.label + ": (무응답)";
-          return part.label + ": " + (part.choices[Number(val) - 1] || val);
+          if (val === "" || val == null) return part.label + ": (무응답)";
+          var choice = part.indexBase === 0 ? part.choices[Number(val)] : part.choices[Number(val) - 1];
+          return part.label + ": " + (choice || val);
         }
         return part.label + ": " + (val ? val : "(무응답)");
       });

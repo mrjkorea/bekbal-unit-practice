@@ -169,6 +169,40 @@ function typedMultiParts(item) {
   if (item.type !== "parts") return false;
   return (item.parts || []).filter((p) => p.kind !== "mc" && p.kind !== "order").length >= 2;
 }
+function englishSentences(item) {
+  const blob = [item.promptEn, item.explainKo, item.directionKo].join("\n");
+  return [...blob.matchAll(/[A-Za-z][^.\n]{6,}\./g)].map((m) => grade.norm(m[0])).filter((s) => s.split(" ").length >= 4);
+}
+function cutOffAccept(item) {
+  const sentences = englishSentences(item);
+  if (!sentences.length) return false;
+  for (const raw of answerStrings(item)) {
+    const a = grade.norm(raw);
+    if (!a || a.split(" ").length < 2) continue;
+    for (const s of sentences) {
+      if (a === s || !s.startsWith(a)) continue;
+      const rest = s.slice(a.length);
+      if (/[a-z]$/.test(a) && /^[a-z]/.test(rest)) return true;
+    }
+  }
+  return false;
+}
+function straySymbol(item) {
+  const named = [item.promptKo, item.directionKo, item.ruleKo, item.sectionTitle, item.sectionInstructionKo].join("\n");
+  const mentioned = [...named.matchAll(/[ⓐ-ⓙ]/g)].map((m) => m[0]);
+  if (!mentioned.length) return false;
+  const stem = [
+    item.promptEn,
+    ...(item.choices || []),
+    ...(item.parts || []).flatMap((p) => [p.label || "", ...(p.choices || [])]),
+  ].join("\n");
+  const present = new Set([...stem.matchAll(/[ⓐ-ⓙ]/g)].map((m) => m[0]));
+  return mentioned.some((ch) => !present.has(ch));
+}
+function indexOutside(indexes, choiceCount, zeroBased) {
+  if (!(indexes || []).length || !choiceCount) return true;
+  return indexes.some((n) => zeroBased ? n < 0 || n >= choiceCount : n < 1 || n > choiceCount);
+}
 function typedArrangement(item) {
   if (item.type !== "fill" && item.type !== "sentence") return false;
   const dir = (item.directionKo || "") + "\n" + (item.promptEn || "");
@@ -187,7 +221,11 @@ function correctResponse(item) {
   if (item.type === "ox") return { value: item.oxMark, rewrite: (item.rewriteAccept || [])[0] || "" };
   if (item.type === "parts") {
     return {
-      parts: (item.parts || []).map((p) => p.kind === "mc" ? String((p.correctIndexes || [])[0] || "") : (p.accept || [])[0] || ""),
+      parts: (item.parts || []).map((p) => {
+        if (p.kind !== "mc") return (p.accept || [])[0] || "";
+        const n = (p.correctIndexes || [])[0];
+        return n == null ? "" : String(n);
+      }),
     };
   }
   return { value: (item.accept || [])[0] || "" };
@@ -213,6 +251,15 @@ for (const dir of UNITS) {
       if (misleadingFocus(q)) problems.push({ kind: "focus-order-write", loc, dir: q.directionKo });
       if (typedMultiParts(q)) problems.push({ kind: "parts-typed-multi", loc });
       if (typedArrangement(q)) problems.push({ kind: "typed-order", loc });
+      if (cutOffAccept(q)) problems.push({ kind: "cut-off", loc, ans: answerStrings(q)[0] });
+      if (straySymbol(q)) problems.push({ kind: "stray-symbol", loc });
+      if (q.type === "parts") {
+        for (const part of q.parts || []) {
+          if (part.kind === "mc" && indexOutside(part.correctIndexes, (part.choices || []).length, part.indexBase === 0)) {
+            problems.push({ kind: "bad-index", loc, indexes: part.correctIndexes, n: (part.choices || []).length });
+          }
+        }
+      }
       if (q.type === "match" && (!(q.pairs || []).length || (q.pairs || []).some((p) => !p.en || !p.ko || !p.id))) {
         problems.push({ kind: "bad-match", loc });
       }
@@ -243,5 +290,5 @@ for (const dir of UNITS) {
 const byKind = {};
 for (const p of problems) byKind[p.kind] = (byKind[p.kind] || 0) + 1;
 console.log(JSON.stringify({ items, gradedOk, files: files.length, byKind, sample: problems.slice(0, 40) }, null, 2));
-const block = new Set(["mc-as-write", "multi-blank", "letter-seq", "focus-order-write", "parts-typed-multi", "typed-order", "bad-match", "grade-miss", "grade-false-pass", "bad-index", "no-accept", "part-empty", "ox-no-rewrite"]);
+const block = new Set(["mc-as-write", "multi-blank", "letter-seq", "focus-order-write", "parts-typed-multi", "typed-order", "bad-match", "grade-miss", "grade-false-pass", "bad-index", "no-accept", "part-empty", "ox-no-rewrite", "cut-off", "stray-symbol"]);
 process.exit(problems.some((p) => block.has(p.kind)) ? 1 : 0);
