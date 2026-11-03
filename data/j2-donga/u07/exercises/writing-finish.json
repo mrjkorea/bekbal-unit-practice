@@ -433,8 +433,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            1
-          ]
+            0
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -445,7 +446,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 그중 하나만 고칩니다.",
+      "promptKo": "이 문항은 ⓐ만 고칩니다.",
       "id": "15-1",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
@@ -472,8 +473,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            2
-          ]
+            1
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -484,7 +486,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 나머지 하나를 고칩니다.",
+      "promptKo": "이 문항은 ⓑ만 고칩니다.",
       "id": "15-2",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",

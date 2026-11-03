@@ -203,6 +203,52 @@ function indexOutside(indexes, choiceCount, zeroBased) {
   if (!(indexes || []).length || !choiceCount) return true;
   return indexes.some((n) => zeroBased ? n < 0 || n >= choiceCount : n < 1 || n > choiceCount);
 }
+function symbolChoices(part) {
+  const choices = part.choices || [];
+  return choices.length > 0 && choices.every((c) => /^[ⓐ-ⓙ]$/.test(String(c).trim()));
+}
+function partZeroBased(part) {
+  return part.indexBase === 0 || symbolChoices(part);
+}
+function keyedLetter(part) {
+  const idx = (part.correctIndexes || [])[0];
+  if (idx == null || idx === "") return "";
+  const choices = part.choices || [];
+  return partZeroBased(part) ? (choices[idx] || "") : (choices[idx - 1] || "");
+}
+function promptOnlySymbol(item) {
+  const m = String(item.promptKo || "").match(/([ⓐ-ⓙ])만/);
+  return m ? m[1] : "";
+}
+function symbolLine(prompt, symbol) {
+  for (const line of String(prompt || "").split("\n")) {
+    const t = line.trim();
+    if (t.startsWith(symbol)) return t.replace(/^[ⓐ-ⓙ]\s*/, "");
+  }
+  return "";
+}
+function contentWords(s) {
+  return grade.norm(s).split(" ").filter((w) => w.length >= 3);
+}
+function symbolRewriteMismatch(item) {
+  if (item.type !== "parts") return null;
+  const mc = (item.parts || []).find((p) => p.kind === "mc" && symbolChoices(p));
+  if (!mc) return null;
+  const want = promptOnlySymbol(item);
+  const got = keyedLetter(mc);
+  if (!want || got !== want) return "symbol-mismatch";
+  const line = symbolLine(item.promptEn, want);
+  const accepts = (item.parts || []).filter((p) => p.kind !== "mc").flatMap((p) => p.accept || []);
+  const lineWords = new Set(contentWords(line));
+  const ratios = accepts.map((a) => {
+    const words = contentWords(a);
+    if (words.length < 2) return 1;
+    if (!lineWords.size) return 0;
+    return words.filter((w) => lineWords.has(w)).length / words.length;
+  });
+  if (!ratios.length || Math.max(...ratios) < 0.5) return "low-overlap";
+  return null;
+}
 function typedArrangement(item) {
   if (item.type !== "fill" && item.type !== "sentence") return false;
   const dir = (item.directionKo || "") + "\n" + (item.promptEn || "");
@@ -255,10 +301,12 @@ for (const dir of UNITS) {
       if (straySymbol(q)) problems.push({ kind: "stray-symbol", loc });
       if (q.type === "parts") {
         for (const part of q.parts || []) {
-          if (part.kind === "mc" && indexOutside(part.correctIndexes, (part.choices || []).length, part.indexBase === 0)) {
+          if (part.kind === "mc" && indexOutside(part.correctIndexes, (part.choices || []).length, partZeroBased(part))) {
             problems.push({ kind: "bad-index", loc, indexes: part.correctIndexes, n: (part.choices || []).length });
           }
         }
+        const symbolProblem = symbolRewriteMismatch(q);
+        if (symbolProblem) problems.push({ kind: symbolProblem, loc, promptKo: q.promptKo, indexes: ((q.parts || []).find((p) => p.kind === "mc") || {}).correctIndexes });
       }
       if (q.type === "match" && (!(q.pairs || []).length || (q.pairs || []).some((p) => !p.en || !p.ko || !p.id))) {
         problems.push({ kind: "bad-match", loc });
@@ -290,5 +338,5 @@ for (const dir of UNITS) {
 const byKind = {};
 for (const p of problems) byKind[p.kind] = (byKind[p.kind] || 0) + 1;
 console.log(JSON.stringify({ items, gradedOk, files: files.length, byKind, sample: problems.slice(0, 40) }, null, 2));
-const block = new Set(["mc-as-write", "multi-blank", "letter-seq", "focus-order-write", "parts-typed-multi", "typed-order", "bad-match", "grade-miss", "grade-false-pass", "bad-index", "no-accept", "part-empty", "ox-no-rewrite", "cut-off", "stray-symbol"]);
+const block = new Set(["mc-as-write", "multi-blank", "letter-seq", "focus-order-write", "parts-typed-multi", "typed-order", "bad-match", "grade-miss", "grade-false-pass", "bad-index", "no-accept", "part-empty", "ox-no-rewrite", "cut-off", "stray-symbol", "symbol-mismatch", "low-overlap"]);
 process.exit(problems.some((p) => block.has(p.kind)) ? 1 : 0);

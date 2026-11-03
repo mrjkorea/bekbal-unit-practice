@@ -256,8 +256,9 @@
             "ⓔ"
           ],
           "correctIndexes": [
-            1
-          ]
+            0
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -268,7 +269,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓐ만 고칩니다.",
+      "promptKo": "이 문항은 ⓐ만 고칩니다.",
       "id": "10-1",
       "section": "s10",
       "sectionTitle": "Section J · 다음 중 어법상 틀린 문장을 모두 찾아 기호를 쓰고, 바르게 고쳐 문장을…",
@@ -297,8 +298,9 @@
             "ⓔ"
           ],
           "correctIndexes": [
-            5
-          ]
+            4
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -309,7 +311,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓔ만 고칩니다.",
+      "promptKo": "이 문항은 ⓔ만 고칩니다.",
       "id": "10-2",
       "section": "s10",
       "sectionTitle": "Section J · 다음 중 어법상 틀린 문장을 모두 찾아 기호를 쓰고, 바르게 고쳐 문장을…",
