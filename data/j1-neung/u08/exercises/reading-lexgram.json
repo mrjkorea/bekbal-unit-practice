@@ -1,0 +1,835 @@
+{
+  "id": "reading-lexgram",
+  "title": "Reading 적절한 어휘·어법 고르기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "p.153",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: any (답지 p.153 1)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "1 Reading 어휘·어법\n[ any / other ]",
+      "choices": [
+        "any",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: feet (답지 p.153 2)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "2 Reading 어휘·어법\n[ feet / other ]",
+      "choices": [
+        "feet",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Then (답지 p.153 3)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "3 Reading 어휘·어법\n[ Then / other ]",
+      "choices": [
+        "Then",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: piece (답지 p.153 4)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "4 Reading 어휘·어법\n[ piece / other ]",
+      "choices": [
+        "piece",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: said (답지 p.153 5)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "5 Reading 어휘·어법\n[ said / other ]",
+      "choices": [
+        "said",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: because (답지 p.153 6)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "6 Reading 어휘·어법\n[ because / other ]",
+      "choices": [
+        "because",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ready (답지 p.153 7)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "7 Reading 어휘·어법\n[ ready / other ]",
+      "choices": [
+        "ready",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: smiled (답지 p.153 8)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "8 Reading 어휘·어법\n[ smiled / other ]",
+      "choices": [
+        "smiled",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: was (답지 p.153 9)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "9 Reading 어휘·어법\n[ was / other ]",
+      "choices": [
+        "was",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: won (답지 p.153 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 Reading 어휘·어법\n[ won / other ]",
+      "choices": [
+        "won",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: How (답지 p.153 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 Reading 어휘·어법\n[ How / other ]",
+      "choices": [
+        "How",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: cooking (답지 p.153 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 Reading 어휘·어법\n[ cooking / other ]",
+      "choices": [
+        "cooking",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: out (답지 p.153 13)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 Reading 어휘·어법\n[ out / other ]",
+      "choices": [
+        "out",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: When (답지 p.153 14)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "14 Reading 어휘·어법\n[ When / other ]",
+      "choices": [
+        "When",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: didn't (답지 p.153 15)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "15 Reading 어휘·어법\n[ didn't / other ]",
+      "choices": [
+        "didn't",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: close (답지 p.153 16)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "16 Reading 어휘·어법\n[ close / other ]",
+      "choices": [
+        "close",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: almost (답지 p.153 17)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "17 Reading 어휘·어법\n[ almost / other ]",
+      "choices": [
+        "almost",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Because (답지 p.153 18)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "18 Reading 어휘·어법\n[ Because / other ]",
+      "choices": [
+        "Because",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: of (답지 p.153 19)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "19 Reading 어휘·어법\n[ of / other ]",
+      "choices": [
+        "of",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: It (답지 p.153 20)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "20 Reading 어휘·어법\n[ It / other ]",
+      "choices": [
+        "It",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: of (답지 p.153 21)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "21 Reading 어휘·어법\n[ of / other ]",
+      "choices": [
+        "of",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Look (답지 p.153 22)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "22 Reading 어휘·어법\n[ Look / other ]",
+      "choices": [
+        "Look",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: stomach (답지 p.153 23)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "23 Reading 어휘·어법\n[ stomach / other ]",
+      "choices": [
+        "stomach",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: worried (답지 p.153 24)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "24 Reading 어휘·어법\n[ worried / other ]",
+      "choices": [
+        "worried",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: into (답지 p.153 25)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "25 Reading 어휘·어법\n[ into / other ]",
+      "choices": [
+        "into",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Next (답지 p.153 26)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "26 Reading 어휘·어법\n[ Next / other ]",
+      "choices": [
+        "Next",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Finally (답지 p.153 27)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "27 Reading 어휘·어법\n[ Finally / other ]",
+      "choices": [
+        "Finally",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: start (답지 p.153 28)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "28 Reading 어휘·어법\n[ start / other ]",
+      "choices": [
+        "start",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: something (답지 p.153 29)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "29 Reading 어휘·어법\n[ something / other ]",
+      "choices": [
+        "something",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: started (답지 p.153 30)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "30 Reading 어휘·어법\n[ started / other ]",
+      "choices": [
+        "started",
+        "wrong",
+        "items",
+        "quickly",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 30문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 괄호",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 30
+    }
+  ]
+}

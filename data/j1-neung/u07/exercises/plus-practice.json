@@ -1,0 +1,205 @@
+{
+  "id": "plus-practice",
+  "title": "Plus 기타 지문 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "p.167",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "F",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Writer will not use plastic fork on Friday.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Use both sides of paper.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "T",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Too much food → food waste.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "4 Plus (답지 p.167)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "5 Plus (답지 p.167)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "6 Plus (답지 p.167)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "7 Plus (답지 p.167)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 내용과 같으면 T, 다르면 F를 고르시오. 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    }
+  ]
+}

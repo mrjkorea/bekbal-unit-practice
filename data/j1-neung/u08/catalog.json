@@ -1,29 +1,189 @@
 {
   "book": "j1-neung",
   "unit": "u08",
-  "label": "Lesson 08",
-  "status": "coming-soon",
+  "label": "Lesson 08 Dive into Stories",
+  "status": "ready",
+  "note": "통과 80%. 중1 능률 김기택 Lesson 08 Dive into Stories. book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
   "sections": [
     {
       "key": "A",
       "title": "A. 본책",
-      "exercises": []
+      "exercises": [
+        {
+          "id": "vocab-check",
+          "title": "Vocabulary 확인 문제",
+          "questionCount": 60
+        },
+        {
+          "id": "vocab-practice",
+          "title": "Vocabulary 실전 문제",
+          "questionCount": 7
+        },
+        {
+          "id": "vocab-advanced",
+          "title": "Vocabulary 심화 문제",
+          "questionCount": 14
+        },
+        {
+          "id": "dialog-detail",
+          "title": "Dialog 자세히 보기",
+          "questionCount": 8
+        },
+        {
+          "id": "dialog-complete",
+          "title": "Dialog 완성하기",
+          "questionCount": 65
+        },
+        {
+          "id": "dialog-order",
+          "title": "Dialog 순서배열하기",
+          "questionCount": 8
+        },
+        {
+          "id": "dialog-practice",
+          "title": "Dialog 실전 문제",
+          "questionCount": 14
+        },
+        {
+          "id": "dialog-advanced",
+          "title": "Dialog 심화 문제",
+          "questionCount": 13
+        },
+        {
+          "id": "grammar-check",
+          "title": "Grammar 확인 문제",
+          "questionCount": 30
+        },
+        {
+          "id": "grammar-practice",
+          "title": "Grammar 실전 문제",
+          "questionCount": 14
+        },
+        {
+          "id": "grammar-advanced",
+          "title": "Grammar 심화 문제",
+          "questionCount": 16
+        },
+        {
+          "id": "reading-content",
+          "title": "Reading 내용 확인하기",
+          "questionCount": 30
+        },
+        {
+          "id": "reading-lexgram",
+          "title": "Reading 적절한 어휘·어법 고르기",
+          "questionCount": 30
+        },
+        {
+          "id": "reading-order",
+          "title": "Reading 순서배열하기",
+          "questionCount": 30
+        },
+        {
+          "id": "reading-writing",
+          "title": "Reading 영작하기",
+          "questionCount": 30
+        },
+        {
+          "id": "reading-practice",
+          "title": "Reading 실전 문제",
+          "questionCount": 26
+        },
+        {
+          "id": "reading-advanced",
+          "title": "Reading 심화 문제",
+          "questionCount": 24
+        },
+        {
+          "id": "plus-practice",
+          "title": "Plus 기타 지문 실전 문제",
+          "questionCount": 12
+        },
+        {
+          "id": "writing-finish",
+          "title": "서술형 끝내기",
+          "questionCount": 38
+        },
+        {
+          "id": "mock-100",
+          "title": "100발 100중 모의고사",
+          "questionCount": 27,
+          "omittedCount": 10
+        },
+        {
+          "id": "mock-high",
+          "title": "고득점 모의고사",
+          "questionCount": 30
+        }
+      ]
     },
     {
       "key": "B",
-      "title": "B. X-10 워크북",
-      "exercises": []
+      "title": "B. X-10 Part I",
+      "exercises": [
+        {
+          "id": "x10-vocab",
+          "title": "어휘 확인 문제",
+          "questionCount": 59
+        },
+        {
+          "id": "x10-dialog-cloze",
+          "title": "대화 빈칸 완성하기",
+          "questionCount": 87
+        },
+        {
+          "id": "x10-dialog-write",
+          "title": "대화 영작하기",
+          "questionCount": 51
+        },
+        {
+          "id": "x10-grammar",
+          "title": "핵심 Grammar 확인 문제",
+          "questionCount": 25
+        },
+        {
+          "id": "x10-reading-sentence",
+          "title": "Reading 문장 완성하기",
+          "questionCount": 101
+        },
+        {
+          "id": "x10-reading-cloze",
+          "title": "Reading 빈칸 완성하기",
+          "questionCount": 106
+        },
+        {
+          "id": "x10-review",
+          "title": "핵심 문장 Review",
+          "questionCount": 17
+        }
+      ]
     },
     {
       "key": "C",
-      "title": "C. 실전 테스트",
-      "exercises": []
+      "title": "C. 모의고사",
+      "exercises": [
+        {
+          "id": "final-1",
+          "title": "최종점검 모의고사 1회",
+          "questionCount": 25
+        },
+        {
+          "id": "final-2",
+          "title": "최종점검 모의고사 2회",
+          "questionCount": 25
+        },
+        {
+          "id": "final-3",
+          "title": "최종점검 모의고사 3회",
+          "questionCount": 25
+        }
+      ]
     },
     {
       "key": "W",
       "title": "Word focus",
       "lane": "focus",
-      "note": "Coming soon.",
+      "note": "Coming soon. WordMaster publish pending — pack JSON in this repo at handoff/word-packs/ (j1neung_u08_words01, j1neung_u08_words02, j1neung_u08_expressions01, j1neung_u08_wordplus01).",
       "exercises": []
     },
     {

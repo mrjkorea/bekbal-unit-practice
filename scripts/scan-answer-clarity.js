@@ -11,6 +11,8 @@ const UNITS = [
   "data/j1-visang/u07/exercises",
   "data/j1-visang/u08/exercises",
   "data/j1-neung/u06/exercises",
+  "data/j1-neung/u07/exercises",
+  "data/j1-neung/u08/exercises",
 ];
 
 function markers(text) {

@@ -1,0 +1,372 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.196-197",
+  "questionCount": 14,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "1 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "2 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "3 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "sentence",
+      "promptEn": "4 (답지)",
+      "accept": [
+        "I'm curious about the story."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "5 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "6 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "7 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "8 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "sentence",
+      "promptEn": "9 (답지)",
+      "accept": [
+        "Can you help me?"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: about",
+      "type": "fill",
+      "promptEn": "12 (답지)",
+      "accept": [
+        "about"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 Dialog 실전 (답지)",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답",
+      "type": "sentence",
+      "promptEn": "14 (답지)",
+      "accept": [
+        "I learned that all emotions are important."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 14문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 14
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "id": "reading-writing",
+  "title": "Reading 영작하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.154-157",
+  "questionCount": 29,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Pollution is a big problem.",
+      "type": "sentence",
+      "promptEn": "1 ",
+      "accept": [
+        "Pollution is a big problem.",
+        "Pollution is a big problem"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Luckily, three superheroes are working to protect the environment.",
+      "type": "sentence",
+      "promptEn": "2 ",
+      "accept": [
+        "Luckily, three superheroes are working to protect the environment.",
+        "Luckily, three superheroes are working to protect the environment"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: They want to make the world clean. Will you join them?",
+      "type": "sentence",
+      "promptEn": "3 ",
+      "accept": [
+        "They want to make the world clean. Will you join them?",
+        "They want to make the world clean. Will you join them"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Hi! I'm Recycle Wizard.",
+      "type": "sentence",
+      "promptEn": "4 ",
+      "accept": [
+        "Hi! I'm Recycle Wizard.",
+        "Hi! I'm Recycle Wizard"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: People waste too many resources. But recycling can save them.",
+      "type": "sentence",
+      "promptEn": "5 ",
+      "accept": [
+        "People waste too many resources. But recycling can save them.",
+        "People waste too many resources. But recycling can save them"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.",
+      "type": "sentence",
+      "promptEn": "6 ",
+      "accept": [
+        "For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.",
+        "For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Do you want to be a wizard at recycling? Then you should recycle properly!",
+      "type": "sentence",
+      "promptEn": "7 ",
+      "accept": [
+        "Do you want to be a wizard at recycling? Then you should recycle properly!",
+        "Do you want to be a wizard at recycling? Then you should recycle properly"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Put plastic, paper, food waste, and glass in the correct bins.",
+      "type": "sentence",
+      "promptEn": "8 ",
+      "accept": [
+        "Put plastic, paper, food waste, and glass in the correct bins.",
+        "Put plastic, paper, food waste, and glass in the correct bins"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Look at the waste below. Draw a line from each piece of waste to the right bin.",
+      "type": "sentence",
+      "promptEn": "9 ",
+      "accept": [
+        "Look at the waste below. Draw a line from each piece of waste to the right bin.",
+        "Look at the waste below. Draw a line from each piece of waste to the right bin"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Good job!",
+      "type": "sentence",
+      "promptEn": "10 ",
+      "accept": [
+        "Good job!",
+        "Good job"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm Fashion Clever.",
+      "type": "sentence",
+      "promptEn": "11 ",
+      "accept": [
+        "I'm Fashion Clever.",
+        "I'm Fashion Clever"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: People throw away clothes too often. They become waste and hurt the environment.",
+      "type": "sentence",
+      "promptEn": "12 ",
+      "accept": [
+        "People throw away clothes too often. They become waste and hurt the environment.",
+        "People throw away clothes too often. They become waste and hurt the environment"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Did you know that some clothes take over 200 years to break down?",
+      "type": "sentence",
+      "promptEn": "13 ",
+      "accept": [
+        "Did you know that some clothes take over 200 years to break down?",
+        "Did you know that some clothes take over 200 years to break down"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Don't buy too many clothes. Wear your clothes for a long time.",
+      "type": "sentence",
+      "promptEn": "14 ",
+      "accept": [
+        "Don't buy too many clothes. Wear your clothes for a long time.",
+        "Don't buy too many clothes. Wear your clothes for a long time"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: You can also create new items from your old clothes!",
+      "type": "sentence",
+      "promptEn": "15 ",
+      "accept": [
+        "You can also create new items from your old clothes!",
+        "You can also create new items from your old clothes"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Let's make old clothes useful.",
+      "type": "sentence",
+      "promptEn": "16 ",
+      "accept": [
+        "Let's make old clothes useful.",
+        "Let's make old clothes useful"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: There are some items below. What can you make with these old clothes?",
+      "type": "sentence",
+      "promptEn": "17 ",
+      "accept": [
+        "There are some items below. What can you make with these old clothes?",
+        "There are some items below. What can you make with these old clothes"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Match the old clothes with the new items.",
+      "type": "sentence",
+      "promptEn": "18 ",
+      "accept": [
+        "Match the old clothes with the new items.",
+        "Match the old clothes with the new items"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Now you can be clever at fashion too!",
+      "type": "sentence",
+      "promptEn": "19 ",
+      "accept": [
+        "Now you can be clever at fashion too!",
+        "Now you can be clever at fashion too"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Hi! I'm Water Saver.",
+      "type": "sentence",
+      "promptEn": "20 ",
+      "accept": [
+        "Hi! I'm Water Saver.",
+        "Hi! I'm Water Saver"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Water is very important. We can't live without it.",
+      "type": "sentence",
+      "promptEn": "21 ",
+      "accept": [
+        "Water is very important. We can't live without it.",
+        "Water is very important. We can't live without it"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But people waste a lot of water. It makes me sad.",
+      "type": "sentence",
+      "promptEn": "22 ",
+      "accept": [
+        "But people waste a lot of water. It makes me sad.",
+        "But people waste a lot of water. It makes me sad"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: How can we save water?",
+      "type": "sentence",
+      "promptEn": "23 ",
+      "accept": [
+        "How can we save water?",
+        "How can we save water"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Take quick showers. Turn off the tap while you brush your teeth.",
+      "type": "sentence",
+      "promptEn": "24 ",
+      "accept": [
+        "Take quick showers. Turn off the tap while you brush your teeth.",
+        "Take quick showers. Turn off the tap while you brush your teeth"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Also, make sure that you turn off the tap completely.",
+      "type": "sentence",
+      "promptEn": "25 ",
+      "accept": [
+        "Also, make sure that you turn off the tap completely.",
+        "Also, make sure that you turn off the tap completely"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Look at the pictures below. Which are ways to save water and which are not?",
+      "type": "sentence",
+      "promptEn": "26 ",
+      "accept": [
+        "Look at the pictures below. Which are ways to save water and which are not?",
+        "Look at the pictures below. Which are ways to save water and which are not"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Write an O or X on each picture.",
+      "type": "sentence",
+      "promptEn": "27 ",
+      "accept": [
+        "Write an O or X on each picture.",
+        "Write an O or X on each picture"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm sure that you got the right answers.",
+      "type": "sentence",
+      "promptEn": "28 ",
+      "accept": [
+        "I'm sure that you got the right answers.",
+        "I'm sure that you got the right answers"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: You are amazing at saving water!",
+      "type": "sentence",
+      "promptEn": "29 ",
+      "accept": [
+        "You are amazing at saving water!",
+        "You are amazing at saving water"
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 29문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 29
+    }
+  ]
+}

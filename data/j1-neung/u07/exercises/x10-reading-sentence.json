@@ -1,0 +1,2921 @@
+{
+  "id": "x10-reading-sentence",
+  "title": "Reading 문장 완성하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "X-10 pp.127-128",
+  "questionCount": 101,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Pollution, big, problem. (답지 Reading 01)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "choices": [
+        "Pollution",
+        "big",
+        "problem"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Pollution, big, problem. (답지 Reading 01)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "choices": [
+        "Pollution",
+        "big",
+        "problem"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Pollution, big, problem. (답지 Reading 01)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "choices": [
+        "Pollution",
+        "big",
+        "problem"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Luckily, working, protect. (답지 Reading 02)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "choices": [
+        "Luckily",
+        "working",
+        "protect"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Luckily, working, protect. (답지 Reading 02)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "choices": [
+        "Luckily",
+        "working",
+        "protect"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Luckily, working, protect. (답지 Reading 02)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "choices": [
+        "Luckily",
+        "working",
+        "protect"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: want, make, clean, join. (답지 Reading 03)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "choices": [
+        "want",
+        "make",
+        "clean",
+        "join"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "8",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: want, make, clean, join. (답지 Reading 03)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "choices": [
+        "want",
+        "make",
+        "clean",
+        "join"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: want, make, clean, join. (답지 Reading 03)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "choices": [
+        "want",
+        "make",
+        "clean",
+        "join"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "10",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: want, make, clean, join. (답지 Reading 03)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "choices": [
+        "want",
+        "make",
+        "clean",
+        "join"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Recycle, Wizard. (답지 Reading 04)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "Save Earth, Save Us\n04. (1)__________ (2)__________\n(Recycle , Wizard)",
+      "choices": [
+        "Recycle",
+        "Wizard"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "12",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Recycle, Wizard. (답지 Reading 04)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "Save Earth, Save Us\n04. (1)__________ (2)__________\n(Recycle , Wizard)",
+      "choices": [
+        "Recycle",
+        "Wizard"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, many, recycling, save. (답지 Reading 05)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "choices": [
+        "waste",
+        "many",
+        "recycling",
+        "save"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "14",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, many, recycling, save. (답지 Reading 05)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "choices": [
+        "waste",
+        "many",
+        "recycling",
+        "save"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "15",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, many, recycling, save. (답지 Reading 05)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "choices": [
+        "waste",
+        "many",
+        "recycling",
+        "save"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "16",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, many, recycling, save. (답지 Reading 05)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "choices": [
+        "waste",
+        "many",
+        "recycling",
+        "save"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "17",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: recycling, paper, trees, liters. (답지 Reading 06)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "choices": [
+        "recycling",
+        "paper",
+        "trees",
+        "liters"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "18",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: recycling, paper, trees, liters. (답지 Reading 06)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "choices": [
+        "recycling",
+        "paper",
+        "trees",
+        "liters"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "19",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: recycling, paper, trees, liters. (답지 Reading 06)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "choices": [
+        "recycling",
+        "paper",
+        "trees",
+        "liters"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "20",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: recycling, paper, trees, liters. (답지 Reading 06)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "choices": [
+        "recycling",
+        "paper",
+        "trees",
+        "liters"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "21",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: be, Then, should, properly. (답지 Reading 07)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "choices": [
+        "be",
+        "Then",
+        "should",
+        "properly"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "22",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: be, Then, should, properly. (답지 Reading 07)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "choices": [
+        "be",
+        "Then",
+        "should",
+        "properly"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "23",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: be, Then, should, properly. (답지 Reading 07)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "choices": [
+        "be",
+        "Then",
+        "should",
+        "properly"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "24",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: be, Then, should, properly. (답지 Reading 07)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "choices": [
+        "be",
+        "Then",
+        "should",
+        "properly"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "25",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Put, food, glass, correct. (답지 Reading 08)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "choices": [
+        "Put",
+        "food",
+        "glass",
+        "correct"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "26",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Put, food, glass, correct. (답지 Reading 08)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "choices": [
+        "Put",
+        "food",
+        "glass",
+        "correct"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "27",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Put, food, glass, correct. (답지 Reading 08)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "choices": [
+        "Put",
+        "food",
+        "glass",
+        "correct"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "28",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Put, food, glass, correct. (답지 Reading 08)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "choices": [
+        "Put",
+        "food",
+        "glass",
+        "correct"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "29",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: below, Draw, each, bin. (답지 Reading 09)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "choices": [
+        "below",
+        "Draw",
+        "each",
+        "bin"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "30",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: below, Draw, each, bin. (답지 Reading 09)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "choices": [
+        "below",
+        "Draw",
+        "each",
+        "bin"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "31",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: below, Draw, each, bin. (답지 Reading 09)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "choices": [
+        "below",
+        "Draw",
+        "each",
+        "bin"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "32",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: below, Draw, each, bin. (답지 Reading 09)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "choices": [
+        "below",
+        "Draw",
+        "each",
+        "bin"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "33",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Good, job. (답지 Reading 10)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "Save Earth, Save Us\n10. (1)__________ (2)__________\n(Good , job)",
+      "choices": [
+        "Good",
+        "job"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "34",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Good, job. (답지 Reading 10)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "Save Earth, Save Us\n10. (1)__________ (2)__________\n(Good , job)",
+      "choices": [
+        "Good",
+        "job"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "35",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Fashion, Clever. (답지 Reading 11)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-11",
+      "promptEn": "Save Earth, Save Us\n11. (1)__________ (2)__________\n(Fashion , Clever)",
+      "choices": [
+        "Fashion",
+        "Clever"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "36",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Fashion, Clever. (답지 Reading 11)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-11",
+      "promptEn": "Save Earth, Save Us\n11. (1)__________ (2)__________\n(Fashion , Clever)",
+      "choices": [
+        "Fashion",
+        "Clever"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "37",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: throw, clothes, become, hurt. (답지 Reading 12)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "choices": [
+        "throw",
+        "clothes",
+        "become",
+        "hurt"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "38",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: throw, clothes, become, hurt. (답지 Reading 12)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "choices": [
+        "throw",
+        "clothes",
+        "become",
+        "hurt"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "39",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: throw, clothes, become, hurt. (답지 Reading 12)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "choices": [
+        "throw",
+        "clothes",
+        "become",
+        "hurt"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "40",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: throw, clothes, become, hurt. (답지 Reading 12)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "choices": [
+        "throw",
+        "clothes",
+        "become",
+        "hurt"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "41",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: know, take, years, break. (답지 Reading 13)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "choices": [
+        "know",
+        "take",
+        "years",
+        "break"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "42",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: know, take, years, break. (답지 Reading 13)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "choices": [
+        "know",
+        "take",
+        "years",
+        "break"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "43",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: know, take, years, break. (답지 Reading 13)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "choices": [
+        "know",
+        "take",
+        "years",
+        "break"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "44",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: know, take, years, break. (답지 Reading 13)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "choices": [
+        "know",
+        "take",
+        "years",
+        "break"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "45",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: too, clothes, Wear, for. (답지 Reading 14)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "choices": [
+        "too",
+        "clothes",
+        "Wear",
+        "for"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "46",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: too, clothes, Wear, for. (답지 Reading 14)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "choices": [
+        "too",
+        "clothes",
+        "Wear",
+        "for"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "47",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: too, clothes, Wear, for. (답지 Reading 14)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "choices": [
+        "too",
+        "clothes",
+        "Wear",
+        "for"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "48",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: too, clothes, Wear, for. (답지 Reading 14)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "choices": [
+        "too",
+        "clothes",
+        "Wear",
+        "for"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "49",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: create, items, old. (답지 Reading 15)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "choices": [
+        "create",
+        "items",
+        "old"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "50",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: create, items, old. (답지 Reading 15)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "choices": [
+        "create",
+        "items",
+        "old"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "51",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: create, items, old. (답지 Reading 15)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "choices": [
+        "create",
+        "items",
+        "old"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "52",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Let's, old, useful. (답지 Reading 16)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "choices": [
+        "Let's",
+        "old",
+        "useful"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "53",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Let's, old, useful. (답지 Reading 16)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "choices": [
+        "Let's",
+        "old",
+        "useful"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "54",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Let's, old, useful. (답지 Reading 16)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "choices": [
+        "Let's",
+        "old",
+        "useful"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "55",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: There, items, make, these. (답지 Reading 17)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "choices": [
+        "There",
+        "items",
+        "make",
+        "these"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "56",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: There, items, make, these. (답지 Reading 17)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "choices": [
+        "There",
+        "items",
+        "make",
+        "these"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "57",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: There, items, make, these. (답지 Reading 17)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "choices": [
+        "There",
+        "items",
+        "make",
+        "these"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "58",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: There, items, make, these. (답지 Reading 17)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "choices": [
+        "There",
+        "items",
+        "make",
+        "these"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "59",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Match, clothes, correct, items. (답지 Reading 18)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "choices": [
+        "Match",
+        "clothes",
+        "correct",
+        "items"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "60",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Match, clothes, correct, items. (답지 Reading 18)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "choices": [
+        "Match",
+        "clothes",
+        "correct",
+        "items"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "61",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Match, clothes, correct, items. (답지 Reading 18)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "choices": [
+        "Match",
+        "clothes",
+        "correct",
+        "items"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "62",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Match, clothes, correct, items. (답지 Reading 18)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "choices": [
+        "Match",
+        "clothes",
+        "correct",
+        "items"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "63",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Now, clever, fashion. (답지 Reading 19)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "choices": [
+        "Now",
+        "clever",
+        "fashion"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "64",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Now, clever, fashion. (답지 Reading 19)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "choices": [
+        "Now",
+        "clever",
+        "fashion"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "65",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Now, clever, fashion. (답지 Reading 19)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "choices": [
+        "Now",
+        "clever",
+        "fashion"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "66",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, Saver. (답지 Reading 20)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-20",
+      "promptEn": "Save Earth, Save Us\n20. (1)__________ (2)__________\n(Water , Saver)",
+      "choices": [
+        "Water",
+        "Saver"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "67",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, Saver. (답지 Reading 20)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-20",
+      "promptEn": "Save Earth, Save Us\n20. (1)__________ (2)__________\n(Water , Saver)",
+      "choices": [
+        "Water",
+        "Saver"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "68",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, important, can't, without. (답지 Reading 21)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "choices": [
+        "Water",
+        "important",
+        "can't",
+        "without"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "69",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, important, can't, without. (답지 Reading 21)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "choices": [
+        "Water",
+        "important",
+        "can't",
+        "without"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "70",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, important, can't, without. (답지 Reading 21)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "choices": [
+        "Water",
+        "important",
+        "can't",
+        "without"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "71",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Water, important, can't, without. (답지 Reading 21)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "choices": [
+        "Water",
+        "important",
+        "can't",
+        "without"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "72",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, lot, makes, sad. (답지 Reading 22)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "choices": [
+        "waste",
+        "lot",
+        "makes",
+        "sad"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "73",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, lot, makes, sad. (답지 Reading 22)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "choices": [
+        "waste",
+        "lot",
+        "makes",
+        "sad"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "74",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, lot, makes, sad. (답지 Reading 22)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "choices": [
+        "waste",
+        "lot",
+        "makes",
+        "sad"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "75",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: waste, lot, makes, sad. (답지 Reading 22)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "choices": [
+        "waste",
+        "lot",
+        "makes",
+        "sad"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "76",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, save. (답지 Reading 23)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "choices": [
+        "How",
+        "can",
+        "save"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "77",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, save. (답지 Reading 23)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "choices": [
+        "How",
+        "can",
+        "save"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "78",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, save. (답지 Reading 23)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "choices": [
+        "How",
+        "can",
+        "save"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "79",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Take, showers, Turn, while, brush. (답지 Reading 24)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "choices": [
+        "Take",
+        "showers",
+        "Turn",
+        "while",
+        "brush"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "80",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Take, showers, Turn, while, brush. (답지 Reading 24)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "choices": [
+        "Take",
+        "showers",
+        "Turn",
+        "while",
+        "brush"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "81",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Take, showers, Turn, while, brush. (답지 Reading 24)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "choices": [
+        "Take",
+        "showers",
+        "Turn",
+        "while",
+        "brush"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "82",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Take, showers, Turn, while, brush. (답지 Reading 24)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "choices": [
+        "Take",
+        "showers",
+        "Turn",
+        "while",
+        "brush"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "83",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Take, showers, Turn, while, brush. (답지 Reading 24)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "choices": [
+        "Take",
+        "showers",
+        "Turn",
+        "while",
+        "brush"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "5",
+      "promptKo": "이 문항은 (5) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "84",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Also, sure, off, tap. (답지 Reading 25)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "choices": [
+        "Also",
+        "sure",
+        "off",
+        "tap"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "85",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Also, sure, off, tap. (답지 Reading 25)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "choices": [
+        "Also",
+        "sure",
+        "off",
+        "tap"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "86",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Also, sure, off, tap. (답지 Reading 25)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "choices": [
+        "Also",
+        "sure",
+        "off",
+        "tap"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "87",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Also, sure, off, tap. (답지 Reading 25)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "choices": [
+        "Also",
+        "sure",
+        "off",
+        "tap"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "88",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: at, below, ways, save, which. (답지 Reading 26)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "choices": [
+        "at",
+        "below",
+        "ways",
+        "save",
+        "which"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "89",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: at, below, ways, save, which. (답지 Reading 26)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "choices": [
+        "at",
+        "below",
+        "ways",
+        "save",
+        "which"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "90",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: at, below, ways, save, which. (답지 Reading 26)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "choices": [
+        "at",
+        "below",
+        "ways",
+        "save",
+        "which"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "91",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: at, below, ways, save, which. (답지 Reading 26)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "choices": [
+        "at",
+        "below",
+        "ways",
+        "save",
+        "which"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "92",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: at, below, ways, save, which. (답지 Reading 26)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "choices": [
+        "at",
+        "below",
+        "ways",
+        "save",
+        "which"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "5",
+      "promptKo": "이 문항은 (5) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "93",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Write, or, each. (답지 Reading 27)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "choices": [
+        "Write",
+        "or",
+        "each"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "94",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Write, or, each. (답지 Reading 27)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "choices": [
+        "Write",
+        "or",
+        "each"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "95",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Write, or, each. (답지 Reading 27)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "choices": [
+        "Write",
+        "or",
+        "each"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "96",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sure, got, right. (답지 Reading 28)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "choices": [
+        "sure",
+        "got",
+        "right"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "97",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sure, got, right. (답지 Reading 28)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "choices": [
+        "sure",
+        "got",
+        "right"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "98",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sure, got, right. (답지 Reading 28)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "choices": [
+        "sure",
+        "got",
+        "right"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "99",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: amazing, saving, water. (답지 Reading 29)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "choices": [
+        "amazing",
+        "saving",
+        "water"
+      ],
+      "correctIndexes": [
+        0
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "100",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: amazing, saving, water. (답지 Reading 29)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "choices": [
+        "amazing",
+        "saving",
+        "water"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 90
+    },
+    {
+      "id": "101",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading",
+      "directionKo": "Save Earth, Save Us 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: amazing, saving, water. (답지 Reading 29)",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "choices": [
+        "amazing",
+        "saving",
+        "water"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 101문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Reading",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 101
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "p.127",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: join. (답지 p.20 Vocab 실전 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto become a member of",
+      "choices": [
+        "draw",
+        "join",
+        "plant",
+        "grow",
+        "recycle"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: save. (답지 02)",
+      "type": "fill",
+      "promptEn": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 말을 쓰시오.\nbuy : sell = waste : ______",
+      "accept": [
+        "save"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: take (take part in). (답지 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nWill you ______ part in clubs or in study groups?",
+      "choices": [
+        "get",
+        "take",
+        "turn",
+        "have",
+        "make"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: sure (make sure). (답지 04)",
+      "type": "fill",
+      "promptEn": "다음 빈칸에 들어갈 말을 주어진 철자로 시작하여 쓰시오.\nPlease make ______ that there's paper before you start printing.",
+      "accept": [
+        "sure",
+        "(s)ure"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: away / off (throw away, turn off). (답지 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• He threw ⓐ ______ the empty bottle.\n• Don't forget to turn ⓑ ______ the stove after cooking.",
+      "choices": [
+        "into / of",
+        "into / off",
+        "away / of",
+        "away / off",
+        "away / out"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② useful ≠ 불필요한. (답지 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 단어의 의미가 적절하지 않은 것은?\n② She gave me some useful advice. (불필요한)",
+      "choices": [
+        "The ice will melt in the sun. (녹다)",
+        "She gave me some useful advice. (불필요한)",
+        "Nobody knows the correct answer. (알맞은)",
+        "Sunglasses protect your eyes from the sun. (보호하다)",
+        "She cut a small piece of cake for each of us. (조각)"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: waste. (답지 07)",
+      "type": "fill",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\nWe should not ______ water because it is very important.\nThey are trying to reduce ______ at home.",
+      "accept": [
+        "waste"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Vocabulary 실전 문제 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "itemCount": 7
+    }
+  ]
+}
