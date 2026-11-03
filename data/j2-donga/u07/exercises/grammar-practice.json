@@ -7,17 +7,8 @@
     146,
     147
   ],
-  "questionCount": 11,
-  "omitted": [
-    {
-      "group": "09",
-      "reason": "어법상 옳은 것끼리 고르는 짝 선택지가 다 읽히지 않음. 문장 ⓐ My family named the dog by Hope. ⓑ This is kind to help old people. ⓒ We usually call Los Angeles L.A. ⓓ It is useful to learning computer skills. ⓔ It is important to stay healthy. 는 보임. 선택지는 ① a, d / ③ (b), (e) / ⑤ b, c, d 만 보이고 ②와 ④의 글자는 없음. 정답 번호는 ③. 빠진 선택지는 만들지 않음."
-    },
-    {
-      "group": "10",
-      "reason": "그림 문항. 조건(exciting, watch, 총 7단어, It으로 시작, 과거)만 읽히고 그림 내용은 없음. 쪽 하단에 떨어진 'game.' 한 단어만 있음. 해설 정답 줄은 'It was exciting to watch the baseball'(7단어)로 읽히나, 그림이 없어 단독 문항으로 만들 수 없음."
-    }
-  ],
+  "questionCount": 13,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -148,6 +139,34 @@
     },
     {
       "id": 9,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ My family named the dog by Hope.\nⓑ This is kind to help old people.\nⓒ We usually call Los Angeles L.A.\nⓓ It is useful to learning computer skills.\nⓔ It is important to stay healthy.",
+      "answers": [
+        "ⓐ, ⓓ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓔ",
+        "ⓐ, ⓑ, ⓔ",
+        "ⓑ, ⓒ, ⓓ"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ ⓒ, ⓔ. ⓐ는 name의 목적격보어 앞 전치사 by를 쓰지 않는다. ⓑ는 진주어 to help가 있으므로 가주어 It을 써야 한다. ⓓ는 to learning을 to learn로 써야 한다. ⓒ call + 목적어 + 목적격보어, ⓔ It is + 형용사 + to부정사가 맞다."
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TST",
+      "question": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n그림: 야구장에서 관중들이 경기를 보며 응원하고 있다.\n조건\n1. exciting, watch를 이용하여 총 7단어로 쓸 것.\n2. It으로 문장을 시작하되 과거시제로 쓸 것.\n→ ____________________ game.",
+      "answers": [
+        "It was exciting to watch the baseball",
+        "It was exciting to watch the baseball game.",
+        "It was exciting to watch the baseball game",
+        "was exciting to watch the baseball"
+      ],
+      "explainKo": "정답: It was exciting to watch the baseball (game). 「가주어 it + be동사 + 형용사 + to부정사」이고 과거시제이므로 was를 쓴다."
+    },
+    {
+      "id": 11,
       "group": "11",
       "type": "TST",
       "question": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nPeople call she is an angel without wings.",
@@ -166,7 +185,7 @@
       "explainKo": "정답: she is → her. 「call + 목적어 + 목적격보어」 형태의 5형식 문장이 되어야 하므로 she is를 her로 바꾸어야 한다. 사람들은 그녀를 날개 없는 천사라고 부른다."
     },
     {
-      "id": 10,
+      "id": 12,
       "group": "12",
       "type": "TST",
       "question": "다음 우리말을 바르게 영작한 것을 모두 고르시오.\n새로운 문화를 배우는 것은 흥미롭다.\n① It is interesting learn new cultures.\n② To learn new cultures is interesting.\n③ It is interesting to learn new cultures.\n④ To learn new cultures are interesting.\n⑤ This is interesting to learn new cultures.",
@@ -187,7 +206,7 @@
       "explainKo": "정답: ②, ③. 가주어 it을 사용한 문장과 to부정사구를 주어로 한 문장 두 가지 형태가 가능하다. 단, to부정사구가 주어로 쓰이면 단수 취급하므로 단수동사로 써야 한다."
     },
     {
-      "id": 11,
+      "id": 13,
       "group": "13",
       "type": "TST",
       "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n[조건]\n1. it, dream, travel, around the world를 이용할 것.\n2. 총 9단어로 쓸 것.\n3. 대소문자와 구두점에 유의할 것.\n전 세계를 여행하는 것이 나의 꿈이었다.",

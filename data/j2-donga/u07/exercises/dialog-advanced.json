@@ -4,20 +4,26 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "140-141",
-  "questionCount": 10,
-  "omitted": [
-    {
-      "n": "01",
-      "reason": "흐름상 어색한 밑줄은 해설상 ③(I want to wash my face again)이지만, 대화 OCR에 밑줄 ②와 ④의 어구가 없어 ①~⑤를 모두 보여줄 수 없다."
-    },
-    {
-      "n": "05",
-      "reason": "주어진 말 뒤의 순서 배열 선택지가 OCR에서 깨져(2 b, (a) 등) 읽을 수 없다. 정답 기호 ①만 있고 그 선택지의 배열은 없다."
-    }
-  ],
+  "questionCount": 12,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "[01-02] 다음 대화를 읽고, 물음에 답하시오.\n\nB: We can do face painting or play VR games. ① Which do you like more?\nG: I like face painting more. ② What about you?\nB: I want to play VR games. ③ I want to wash my face again.\nG: ④ Playing VR games is OK, too. ⑤ Let's go play VR games together.\n\n위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "answers": [
+        "Which do you like more?",
+        "What about you?",
+        "I want to wash my face again.",
+        "Playing VR games is OK, too.",
+        "Let's go play VR games together."
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③. 페이스 페인팅보다 가상현실 게임을 하고 싶은 이유로 세수를 다시 하고 싶다는 말은 어색하다. I don't want to wash my face again.이 되어야 한다."
+    },
+    {
+      "id": 2,
       "group": "02",
       "type": "TST",
       "question": "다음 대화의 내용과 일치하도록 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nB: We can do face painting or play VR games. Which do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\nThe girl likes (1)_____ more, but she decided to (2)_____ with the boy.",
@@ -28,7 +34,7 @@
       "explainKo": "소녀는 페이스 페인팅을 더 좋아하지만, 소년과 함께 가상현실 게임을 하기로 했다."
     },
     {
-      "id": 2,
+      "id": 3,
       "group": "03",
       "type": "TMC",
       "question": "다음 중 짝지어진 대화가 어색한 것은?",
@@ -43,7 +49,7 @@
       "corAns": "4"
     },
     {
-      "id": 3,
+      "id": 4,
       "group": "04",
       "type": "TST",
       "question": "다음 대화의 빈칸에 들어갈 말로 적절하지 않은 것을 모두 고르고, 번호만 작은 수부터 쓰시오. (예: 1, 2)\n\nB: They have tteokbokki and gimbap here. ________\nG: I like tteokbokki much better.\nB: Then, let's order tteokbokki. It looks delicious.\nG: OK. I'm so hungry!\n\n① Which of the two do you like better?\n② Which do you prefer, tteokbokki or gimbap?\n③ How much do you like tteokbokki and gimbap?\n④ Which do you like better, tteokbokki or gimbap?\n⑤ Why do you like tteokbokki better than gimbap?",
@@ -58,7 +64,22 @@
       "explainKo": "떡볶이를 더 좋아한다는 소녀의 대답으로 보아, 빈칸에는 떡볶이와 김밥 중 어느 것이 더 좋은지 묻는 질문이 알맞다.\n① 둘 중에서 어느 것이 더 좋아?\n②, ④ 떡볶이와 김밥 중에서 어느 것이 더 좋아?\n③ 떡볶이와 김밥이 얼마나 좋아?\n⑤ 왜 김밥보다 떡볶이가 더 좋아?"
     },
     {
-      "id": 4,
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 주어진 말에 이어질 대화를 순서대로 배열한 것은?\n\nA: Look! There are lots of pretty flowers here.\nⓐ I like the yellow flowers more.\nⓑ Why do you like them more?\nⓒ Which do you like more, the red flowers or the yellow flowers?\nⓓ Well, yellow is my favorite color.",
+      "answers": [
+        "ⓐ - ⓒ - ⓑ - ⓓ",
+        "ⓑ - ⓐ - ⓓ - ⓒ",
+        "ⓑ - ⓓ - ⓒ - ⓐ",
+        "ⓒ - ⓐ - ⓑ - ⓓ",
+        "ⓒ - ⓑ - ⓐ - ⓓ"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ ⓒ-ⓐ-ⓑ-ⓓ. 꽃이 많다는 말에, 빨간 꽃과 노란 꽃 중 어느 것을 더 좋아하는지 묻고, 노란 꽃을 더 좋아한다고 한 뒤, 이유를 묻고, 노란색이 가장 좋아하는 색이라고 답한다."
+    },
+    {
+      "id": 6,
       "group": "06",
       "type": "TMC",
       "question": "다음 담화의 ①~⑤ 중, 다음 문장이 들어가기에 가장 적절한 곳은?\n\nThen, don't miss his cooking class.\n\nM: Welcome to the ABC World Food Festival! (①)\nEvery year, we invite great chefs from around the world. (②)\nThis year, we invited Mr. Kumar, a world-famous Indian chef. (③)\nDo you like Indian food? (④)\nYou can also get his recipe book for free. (⑤)",
@@ -73,7 +94,7 @@
       "corAns": "4"
     },
     {
-      "id": 5,
+      "id": 7,
       "group": "07",
       "type": "TST",
       "question": "다음 담화의 내용을 다음과 같이 요약할 때, 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nM: Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free.\n\nThis year, the ABC World Food Festival (1)_____ a famous Indian chef, Mr. Kumar, and offers his cooking class and a (2)_____ copy of his recipe book.",
@@ -84,7 +105,7 @@
       "explainKo": "올해 ABC 세계 음식 축제는 유명한 인도인 요리사 Kumar 씨를 초대했고, 그의 요리 교실과 무료 요리책 한 권을 제공한다."
     },
     {
-      "id": 6,
+      "id": 8,
       "group": "08",
       "type": "TST",
       "question": "다음 대화의 내용과 일치하도록 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl (1)_____ to the movies with the boy because she has to (2)_____ for an exam at (3)_____ this weekend.",
@@ -99,7 +120,7 @@
       "explainKo": "소녀는 이번 주말에 집에서 시험공부를 해야 하기 때문에 소년과 함께 영화를 보러 갈 수 없다."
     },
     {
-      "id": 7,
+      "id": 9,
       "group": "09",
       "type": "TMC",
       "question": "다음 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 없는 것은?\n\nB: I'm looking for a gift for my grandmother.\nW: ⓐ How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.",
@@ -114,7 +135,7 @@
       "corAns": "4"
     },
     {
-      "id": 8,
+      "id": 10,
       "group": "10",
       "type": "TMC",
       "question": "다음 대화의 내용과 일치하지 않는 것은?\n\nB: I'm looking for a gift for my grandmother.\nW: ⓐ How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.",
@@ -129,7 +150,7 @@
       "corAns": "3"
     },
     {
-      "id": 9,
+      "id": 11,
       "group": "11",
       "type": "TMC",
       "question": "다음 대화의 ①~⑤ 중, 다음 문장이 들어가기에 가장 적절한 곳은?\n\nWhich do you like more?\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea. (①)\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right? (②)\nB: Yeah. Let's do something together until then. (③)\nG: I guess we can ride bikes or go for a boat ride. (④)\nB: Going for a boat ride. I think it'll be more fun. (⑤)\nG: Then, let's go for a boat ride.",
@@ -144,7 +165,7 @@
       "corAns": "4"
     },
     {
-      "id": 10,
+      "id": 12,
       "group": "12",
       "type": "TMC",
       "question": "According to the dialog, which one is true?\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea. (①)\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right? (②)\nB: Yeah. Let's do something together until then. (③)\nG: I guess we can ride bikes or go for a boat ride. (④)\nB: Going for a boat ride. I think it'll be more fun. (⑤)\nG: Then, let's go for a boat ride.",

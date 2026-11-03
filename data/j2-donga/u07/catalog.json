@@ -3,7 +3,7 @@
   "unit": "u07",
   "label": "Lesson 07 Let's Enjoy Festivals",
   "status": "ready",
-  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. OCR로 확정하지 못한 문항은 연습에서 빼 두었습니다.",
+  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. 질문 PDF로 확인한 문항은 넣었고, 아직 정답 번호를 확정하지 못한 문항만 빠져 있습니다.",
   "sections": [
     {
       "key": "A",
@@ -37,20 +37,17 @@
         {
           "id": "dialog-order",
           "title": "Dialog 순서배열하기",
-          "deferred": true,
-          "reason": "순서 기호가 OCR에서 깨져 정답을 확정할 수 없음"
+          "questionCount": 9
         },
         {
           "id": "dialog-practice",
           "title": "Dialog 실전 문제",
-          "questionCount": 14,
-          "omittedCount": 1
+          "questionCount": 15
         },
         {
           "id": "dialog-advanced",
           "title": "Dialog 심화 문제",
-          "questionCount": 10,
-          "omittedCount": 2
+          "questionCount": 12
         },
         {
           "id": "grammar-check",
@@ -60,14 +57,12 @@
         {
           "id": "grammar-practice",
           "title": "Grammar 실전 문제",
-          "questionCount": 11,
-          "omittedCount": 2
+          "questionCount": 13
         },
         {
           "id": "grammar-advanced",
           "title": "Grammar 심화 문제",
-          "questionCount": 12,
-          "omittedCount": 2
+          "questionCount": 14
         },
         {
           "id": "reading-content",
@@ -92,8 +87,7 @@
         {
           "id": "reading-practice",
           "title": "Reading 실전 문제",
-          "questionCount": 20,
-          "omittedCount": 5
+          "questionCount": 25
         },
         {
           "id": "reading-advanced",

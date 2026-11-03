@@ -9,30 +9,24 @@
     "160",
     "161"
   ],
-  "questionCount": 20,
-  "omitted": [
-    {
-      "n": 1,
-      "reason": "빈칸 ⓐ·ⓑ 선택지 표가 깨져 있고 정답란이 화살표로만 남아 번호를 확정할 수 없음"
-    },
-    {
-      "n": 20,
-      "reason": "정답란이 O로만 보여 ①과 구분되지 않음"
-    },
-    {
-      "n": 21,
-      "reason": "밑줄 ①~⑤가 지문의 어디를 가리키는지 모두 읽을 수 없음"
-    },
-    {
-      "n": 22,
-      "reason": "밑줄 (A)의 우리말이 판독되지 않음"
-    },
-    {
-      "n": 23,
-      "reason": "정답란이 O로만 보여 ①과 구분되지 않음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
+    {
+      "group": "01",
+      "type": "TMC",
+      "question": "[01-06] 다음 글을 읽고, 물음에 답하시오.\n\nPeople ⓐ ______ Valencia celebrate the coming of spring with the Fallas festival.\n(A) (a) 여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다. Surprisingly, the fallas are burned ⓑ ______ the last day of the festival.\n(B) This festival takes place from March 15 to 19. During the festival, people enjoy parades and fireworks. The stars of the festival are fallas, giant wooden statues.\n(C) Burning (b) them symbolizes saying goodbye ⓒ ______ old things and hello ⓓ ______ a new start.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "answers": [
+        "at / in",
+        "at / on",
+        "in / on",
+        "in / at",
+        "on / at"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ in / on. ⓐ 도시처럼 비교적 넓은 장소 앞에는 in을 쓴다. ⓑ 특정한 날 앞에는 on을 쓴다.",
+      "id": 1
+    },
     {
       "id": 2,
       "group": "01-06",
@@ -299,7 +293,22 @@
       "explainKo": "멕시코 사람들은 일 년에 한 번 집으로 돌아오는 죽은 사람들을 맞이하기 위해 11월에 Day of the Dead를 기념한다."
     },
     {
-      "id": 24,
+      "group": "20",
+      "type": "TMC",
+      "question": "[20-25] 다음 글을 읽고, 물음에 답하시오.\n\nⓐ ______ the end of February, people ⓑ ______ Alaska hold the Fur Rondy festival, one of ① biggest winter festivals in the world. ② During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ⓒ ______ the Running of the Reindeer. People ③ who participate in this race wear fun costumes and try ④ to run faster than reindeer. (A) 그렇게 하는 것이 가능할까? Not really, but it doesn't (B) matter. Everyone ⑤ is just having fun!\n\n윗글의 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "answers": [
+        "At / in / like",
+        "In / at / as",
+        "On / at / with",
+        "At / in / as",
+        "In / on / like"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ At / in / as. at the end of: ~의 끝에. 지역명 Alaska 앞에는 in. such as: ~와 같은.",
+      "id": 20
+    },
+    {
+      "id": 21,
       "group": "20-25",
       "type": "TMC",
       "question": "[24] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\nWhich is the best title for the passage?",
@@ -314,7 +323,7 @@
       "explainKo": "알래스카의 겨울 축제인 Fur Rondy 축제를 소개하는 글이므로 제목으로는 ④ '알래스카의 겨울 축제를 즐기세요'가 가장 적절하다. ① 알래스카 여행 팁. ② 알래스카: 미지의 땅. ③ 겨울 들판에서 빠른 동물들. ⑤ 전 세계의 독특한 축제들."
     },
     {
-      "id": 25,
+      "id": 22,
       "group": "20-25",
       "type": "TST",
       "question": "[25] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\n윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.\nThe Fur Rondy festival is held in Alaska at the end of ______. Visitors can enjoy winter sports, Alaskan ______ games, and special events like the Running of the Reindeer. Many visitors take part in the event just for ______.",
@@ -326,6 +335,48 @@
         "February/ traditional/ fun"
       ],
       "explainKo": "Fur Rondy 축제는 알래스카에서 2월 말에 열린다. 방문객들은 겨울 스포츠, 알래스카 전통 게임, 그리고 순록 경주와 같은 특별한 행사를 즐길 수 있다. 많은 방문객들은 그저 재미로 그 행사에 참여한다."
+    },
+    {
+      "group": "21",
+      "type": "TMC",
+      "question": "[20-25] 다음 글을 읽고, 물음에 답하시오.\n\nⓐ ______ the end of February, people ⓑ ______ Alaska hold the Fur Rondy festival, one of ① biggest winter festivals in the world. ② During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ⓒ ______ the Running of the Reindeer. People ③ who participate in this race wear fun costumes and try ④ to run faster than reindeer. (A) 그렇게 하는 것이 가능할까? Not really, but it doesn't (B) matter. Everyone ⑤ is just having fun!\n\n윗글의 밑줄 친 ①~⑤ 중에서 어법상 틀린 것은?",
+      "answers": [
+        "biggest",
+        "During this festival",
+        "who participate",
+        "to run faster than reindeer",
+        "is just having fun"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: ①. 최상급 biggest 앞에 정관사 the가 필요하다. one of the + 최상급 + 복수명사.",
+      "id": 23
+    },
+    {
+      "group": "22",
+      "type": "TST",
+      "question": "[20-25] 다음 글을 읽고, 물음에 답하시오.\n\nⓐ ______ the end of February, people ⓑ ______ Alaska hold the Fur Rondy festival, one of ① biggest winter festivals in the world. ② During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ⓒ ______ the Running of the Reindeer. People ③ who participate in this race wear fun costumes and try ④ to run faster than reindeer. (A) 그렇게 하는 것이 가능할까? Not really, but it doesn't (B) matter. Everyone ⑤ is just having fun!\n\n윗글의 밑줄 친 (A)의 우리말에 맞게 괄호 안의 단어를 이용하여 여섯 단어로 영작하시오.\n(it, possible, so)\n(A) 그렇게 하는 것이 가능할까?",
+      "answers": [
+        "Is it possible to do so?",
+        "Is it possible to do so",
+        "isitpossibletodoso?"
+      ],
+      "explainKo": "정답: Is it possible to do so?",
+      "id": 24
+    },
+    {
+      "group": "23",
+      "type": "TMC",
+      "question": "[20-25] 다음 글을 읽고, 물음에 답하시오.\n\nⓐ ______ the end of February, people ⓑ ______ Alaska hold the Fur Rondy festival, one of ① biggest winter festivals in the world. ② During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ⓒ ______ the Running of the Reindeer. People ③ who participate in this race wear fun costumes and try ④ to run faster than reindeer. (A) 그렇게 하는 것이 가능할까? Not really, but it doesn't (B) matter. Everyone ⑤ is just having fun!\n\n다음 중 윗글의 밑줄 친 (B)와 같은 의미로 쓰인 것은?",
+      "answers": [
+        "Your opinion matters to me.",
+        "They finally solved the matter.",
+        "We need to discuss this matter.",
+        "It's an important matter for the company.",
+        "He talked to the teacher about the matter."
+      ],
+      "corAns": "1",
+      "explainKo": "정답: ①. (B) matter는 '중요하다'라는 동사이다. ②~⑤의 matter는 '문제'라는 명사이다.",
+      "id": 25
     }
   ]
 }
