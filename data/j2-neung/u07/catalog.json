@@ -18,6 +18,171 @@
       "key": "C",
       "title": "C. 실전 테스트",
       "exercises": []
+    },
+    {
+      "key": "W",
+      "title": "Word focus",
+      "lane": "focus",
+      "note": "Coming soon.",
+      "exercises": []
+    },
+    {
+      "key": "G",
+      "title": "Grammar focus",
+      "lane": "focus",
+      "note": "사역동사 make/let/have+O+V · 원급 비교 as…as",
+      "exercises": [
+        {
+          "id": "gf-green4-u04-fly",
+          "title": "사역동사 Fly",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/fly"
+        },
+        {
+          "id": "gf-green4-u04-jump",
+          "title": "사역동사 Jump",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/jump"
+        },
+        {
+          "id": "gf-green4-u04-run",
+          "title": "사역동사 Run",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/run"
+        },
+        {
+          "id": "gf-green4-u04-walk1",
+          "title": "사역동사 Walk1",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/walk1"
+        },
+        {
+          "id": "gf-green4-u04-wrap",
+          "title": "사역동사 Wrap",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/wrap"
+        },
+        {
+          "id": "gf-chunilmun2-chapter01-c01-u2-B",
+          "title": "천2 c01-u2-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u2-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter01-wb-c01-u2-A",
+          "title": "천2 wb-c01-u2-A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter01-wb-c01-u2-D",
+          "title": "천2 wb-c01-u2-D",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-D"
+        },
+        {
+          "id": "gf-green2-u04-fly",
+          "title": "as…as Fly",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/fly"
+        },
+        {
+          "id": "gf-green2-u04-jump",
+          "title": "as…as Jump",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/jump"
+        },
+        {
+          "id": "gf-green2-u04-run",
+          "title": "as…as Run",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/run"
+        },
+        {
+          "id": "gf-green2-u04-walk1",
+          "title": "as…as Walk1",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/walk1"
+        },
+        {
+          "id": "gf-green2-u04-wrap",
+          "title": "as…as Wrap",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/wrap"
+        },
+        {
+          "id": "gf-green2-u04-writing",
+          "title": "as…as Writing",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/writing"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-c10-u1-A",
+          "title": "천2 c10-u1-A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/c10-u1-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-c10-u1-B",
+          "title": "천2 c10-u1-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/c10-u1-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-c10-u1-C",
+          "title": "천2 c10-u1-C",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/c10-u1-C"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-c10-u2-A",
+          "title": "천2 c10-u2-A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/c10-u2-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-c10-u2-B",
+          "title": "천2 c10-u2-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/c10-u2-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u1-A",
+          "title": "천2 wb-c10-u1-A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u1-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u1-B",
+          "title": "천2 wb-c10-u1-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u1-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u1-C",
+          "title": "천2 wb-c10-u1-C",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u1-C"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u1-D",
+          "title": "천2 wb-c10-u1-D",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u1-D"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u2-B",
+          "title": "천2 wb-c10-u2-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u2-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter10-wb-c10-u2-D",
+          "title": "천2 wb-c10-u2-D",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u2-D"
+        }
+      ]
     }
   ]
 }

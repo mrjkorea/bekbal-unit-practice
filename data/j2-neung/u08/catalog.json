@@ -18,6 +18,75 @@
       "key": "C",
       "title": "C. 실전 테스트",
       "exercises": []
+    },
+    {
+      "key": "W",
+      "title": "Word focus",
+      "lane": "focus",
+      "note": "Coming soon.",
+      "exercises": []
+    },
+    {
+      "key": "G",
+      "title": "Grammar focus",
+      "lane": "focus",
+      "note": "가주어 it+to V · 의문사+to부정사",
+      "exercises": [
+        {
+          "id": "gf-chunilmun2-chapter05-c05-u1-A",
+          "title": "천2 가주어 it~to SB A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/c05-u1-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter05-c05-u1-B",
+          "title": "천2 가주어 it~to SB B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/c05-u1-B"
+        },
+        {
+          "id": "gf-chunilmun2-chapter05-c05-u1-C",
+          "title": "천2 가주어 it~to SB C",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/c05-u1-C"
+        },
+        {
+          "id": "gf-chunilmun2-chapter05-wb-c05-u1-A",
+          "title": "천2 가주어 it~to WB A",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/wb-c05-u1-A"
+        },
+        {
+          "id": "gf-chunilmun2-chapter05-wb-c05-u1-D",
+          "title": "천2 가주어 it~to WB D",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/wb-c05-u1-D"
+        },
+        {
+          "id": "gf-green2-u08-fly",
+          "title": "의문사+to Fly",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-08/fly"
+        },
+        {
+          "id": "gf-green2-u08-jump",
+          "title": "의문사+to Jump",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-08/jump"
+        },
+        {
+          "id": "gf-green2-u08-walk2",
+          "title": "의문사+to Walk2",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-08/walk2"
+        },
+        {
+          "id": "gf-chunilmun2-chapter05-wb-c05-u1-B",
+          "title": "천2 wb-c05-u1-B",
+          "external": true,
+          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/wb-c05-u1-B"
+        }
+      ]
     }
   ]
 }
