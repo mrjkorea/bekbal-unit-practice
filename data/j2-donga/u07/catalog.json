@@ -3,7 +3,7 @@
   "unit": "u07",
   "label": "Lesson 07 Let's Enjoy Festivals",
   "status": "ready",
-  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. L07 본책과 X-10 최종점검은 질문 PDF와 답지로 대조했습니다.",
+  "note": "통과 80%. L07 본책과 X-10 최종점검은 질문 PDF와 답지로 대조했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
   "sections": [
     {
       "key": "A",
@@ -32,7 +32,7 @@
         {
           "id": "dialog-complete",
           "title": "Dialog 완성하기",
-          "questionCount": 9
+          "questionCount": 73
         },
         {
           "id": "dialog-order",
@@ -47,7 +47,7 @@
         {
           "id": "dialog-advanced",
           "title": "Dialog 심화 문제",
-          "questionCount": 12
+          "questionCount": 16
         },
         {
           "id": "grammar-check",
@@ -57,7 +57,7 @@
         {
           "id": "grammar-practice",
           "title": "Grammar 실전 문제",
-          "questionCount": 13
+          "questionCount": 14
         },
         {
           "id": "grammar-advanced",
@@ -92,7 +92,7 @@
         {
           "id": "reading-advanced",
           "title": "Reading 심화 문제",
-          "questionCount": 25
+          "questionCount": 26
         },
         {
           "id": "plus-practice",
@@ -102,7 +102,7 @@
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "questionCount": 25
+          "questionCount": 33
         }
       ]
     },
@@ -118,7 +118,7 @@
         {
           "id": "x10-dialog-cloze",
           "title": "대화 빈칸 완성하기",
-          "questionCount": 9
+          "questionCount": 92
         },
         {
           "id": "x10-dialog-write",
@@ -133,12 +133,12 @@
         {
           "id": "x10-reading-sentence",
           "title": "Reading 문장 완성하기",
-          "questionCount": 26
+          "questionCount": 78
         },
         {
           "id": "x10-reading-cloze",
           "title": "Reading 빈칸 완성하기",
-          "questionCount": 26
+          "questionCount": 82
         },
         {
           "id": "x10-review",
@@ -159,22 +159,22 @@
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "questionCount": 25
+          "questionCount": 28
         },
         {
           "id": "final-1",
           "title": "최종점검 모의고사 1회",
-          "questionCount": 25
+          "questionCount": 29
         },
         {
           "id": "final-2",
           "title": "최종점검 모의고사 2회",
-          "questionCount": 25
+          "questionCount": 26
         },
         {
           "id": "final-3",
           "title": "최종점검 모의고사 3회",
-          "questionCount": 25
+          "questionCount": 28
         }
       ]
     }

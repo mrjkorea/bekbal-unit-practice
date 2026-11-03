@@ -8,96 +8,247 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TST",
-      "question": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nexplain : explanation = ______ : breath",
-      "answers": [
+      "explainKo": "정답: breathe. explain : explanation은 '설명하다 : 설명'이라는 의미로 동사 : 명사 관계이므로, '숨, 호흡'이라는 뜻을 지닌 명사 breath의 동사형 breathe(숨을 쉬다, 호흡하다)가 들어간다.",
+      "promptEn": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nexplain : explanation = ______ : breath",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "breathe"
       ],
-      "explainKo": "정답: breathe. explain : explanation은 '설명하다 : 설명'이라는 의미로 동사 : 명사 관계이므로, '숨, 호흡'이라는 뜻을 지닌 명사 breath의 동사형 breathe(숨을 쉬다, 호흡하다)가 들어간다."
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TMC",
-      "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\nShe will arrive ______ Valencia next Monday.\nThe desk was covered ______ dust.",
-      "answers": [
+      "explainKo": "정답: ① in. arrive in: (도시·큰 장소에) 도착하다. be covered in: ~으로 덮여 있다. 그녀는 다음 주 월요일에 발렌시아에 도착할 것이다. 책상이 먼지로 덮여 있었다.",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\nShe will arrive ______ Valencia next Monday.\nThe desk was covered ______ dust.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "in",
         "at",
         "by",
         "on",
         "from"
       ],
-      "corAns": "1",
-      "explainKo": "정답: ① in. arrive in: (도시·큰 장소에) 도착하다. be covered in: ~으로 덮여 있다. 그녀는 다음 주 월요일에 발렌시아에 도착할 것이다. 책상이 먼지로 덮여 있었다."
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TMC",
-      "question": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto look directly at someone or something for a long time",
-      "answers": [
+      "explainKo": "정답: ② stare. 누군가 또는 무언가를 오랫동안 똑바로 바라보다. ① 나타나다 ③ 일으키다, ~의 원인이 되다 ④ 따르다, 따라가다 ⑤ 겁에 질려 어쩔 줄 모르다.",
+      "promptEn": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto look directly at someone or something for a long time",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "appear",
         "stare",
         "cause",
         "follow",
         "panic"
       ],
-      "corAns": "2",
-      "explainKo": "정답: ② stare. 누군가 또는 무언가를 오랫동안 똑바로 바라보다. ① 나타나다 ③ 일으키다, ~의 원인이 되다 ④ 따르다, 따라가다 ⑤ 겁에 질려 어쩔 줄 모르다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "3",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TMC",
-      "question": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
-      "answers": [
+      "explainKo": "정답: ⑤. '그는 모든 사람이 그의 말을 들을 수 있도록 속삭였다'는 문맥상 자연스럽지 않다. shouted(소리쳤다) 정도로 바꾸는 것이 자연스럽다. ① 그는 지시사항을 주의 깊게 들었다. (carefully: 주의 깊게) ② 그가 말한 이후에 긴 침묵이 있었다. (silence: 고요, 침묵) ③ 그는 말도 없이 갑자기 떠났다. (suddenly: 갑자기) ④ 그녀는 오랜 시간의 노력 끝에 마침내 성공했다. (finally: 마침내)",
+      "promptEn": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "He listened _carefully_ to the instructions.",
         "After his words, there was a long _silence_.",
         "He _suddenly_ left without saying a word.",
         "She _finally_ succeeded after years of hard work.",
         "He _whispered_ so that everyone could hear him."
       ],
-      "corAns": "5",
-      "explainKo": "정답: ⑤. '그는 모든 사람이 그의 말을 들을 수 있도록 속삭였다'는 문맥상 자연스럽지 않다. shouted(소리쳤다) 정도로 바꾸는 것이 자연스럽다. ① 그는 지시사항을 주의 깊게 들었다. (carefully: 주의 깊게) ② 그가 말한 이후에 긴 침묵이 있었다. (silence: 고요, 침묵) ③ 그는 말도 없이 갑자기 떠났다. (suddenly: 갑자기) ④ 그녀는 오랜 시간의 노력 끝에 마침내 성공했다. (finally: 마침내)"
-    },
-    {
-      "id": 5,
-      "group": "05",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 실수로 잘못된 버튼을 눌렀다.\nI pressed the wrong button ______.",
-      "answers": [
-        "by accident",
-        "byaccident",
-        "by  accident"
+      "correctIndexes": [
+        5
       ],
-      "explainKo": "정답: by accident. by accident: 실수로, 우연히."
+      "directionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "sectionInstructionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
-      "id": 6,
+      "sourceId": 5,
+      "group": "05",
+      "explainKo": "정답: by accident. by accident: 실수로, 우연히.",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 실수로 잘못된 버튼을 눌렀다.\nI pressed the wrong button ______.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "by accident",
+        "byaccident"
+      ],
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "5",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5"
+    },
+    {
+      "sourceId": 6,
       "group": "06",
-      "type": "TMC",
-      "question": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
-      "answers": [
+      "explainKo": "정답: ④. except: ~을 제외하고는. '(~을 포함하여)'는 바르지 않다. ① 우리는 좁은 길을 따라 걸었다. ② 그 프로젝트는 백만 달러가 들었다. ③ 그들은 그 도시에서 거대한 빌딩을 보았다. ④ Tom을 제외하고 모두 파티에 왔다. ⑤ 우리 할아버지가 그 회사의 설립자이다.",
+      "promptEn": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "We walked along a narrow _path_. (길)",
         "The project cost one _million_ dollars. (백만의)",
         "They saw a _huge_ building in the city. (거대한)",
         "Everyone came to the party _except_ Tom. (~을 포함하여)",
         "My grandpa is the _founder_ of the company. (설립자)"
       ],
-      "corAns": "4",
-      "explainKo": "정답: ④. except: ~을 제외하고는. '(~을 포함하여)'는 바르지 않다. ① 우리는 좁은 길을 따라 걸었다. ② 그 프로젝트는 백만 달러가 들었다. ③ 그들은 그 도시에서 거대한 빌딩을 보았다. ④ Tom을 제외하고 모두 파티에 왔다. ⑤ 우리 할아버지가 그 회사의 설립자이다."
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "07",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.\n스마트폰은 먼 과거에는 상상할 수 없는 것이었다. (think)\nSmartphones were ______ in the distant past.",
-      "answers": [
+      "explainKo": "정답: unthinkable. unthinkable: 상상할 수 없는.",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.\n스마트폰은 먼 과거에는 상상할 수 없는 것이었다. (think)\nSmartphones were ______ in the distant past.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "unthinkable"
       ],
-      "explainKo": "정답: unthinkable. unthinkable: 상상할 수 없는."
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "7",
+      "section": "s7",
+      "sectionTitle": "Section G · 다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 1문항, 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? 1문항, 다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 1문항, 다음 중 밑줄 친 단어의 쓰임이 어색한 것은? 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "directionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "directionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "directionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
     }
   ]
 }

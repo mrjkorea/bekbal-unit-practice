@@ -8,193 +8,418 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TST",
-      "question": "01 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Playing VR games is OK, too. Let's go play VR games together.\nⓑ We can do face painting or play VR games. Which do you like more?\nⓒ I want to play VR games. I don't want to wash my face again.\nⓓ I like face painting more. What about you?",
-      "answers": [
-        "b-d-c-a",
-        "b - d - c - a",
-        "b, d, c, a",
-        "b,d,c,a",
-        "b d c a",
-        "bdca",
-        "ⓑ-ⓓ-ⓒ-ⓐ",
-        "ⓑ - ⓓ - ⓒ - ⓐ",
-        "ⓑ, ⓓ, ⓒ, ⓐ",
-        "ⓑ,ⓓ,ⓒ,ⓐ",
-        "ⓑ ⓓ ⓒ ⓐ",
-        "ⓑⓓⓒⓐ"
+      "explainKo": "정답: ⓑ-ⓓ-ⓒ-ⓐ. B가 페이스 페인팅과 가상현실 게임 중 무엇을 더 좋아하는지 묻고, G가 페이스 페인팅을 더 좋아한다고 한 뒤, B는 가상현실 게임을 하고 싶다고 하고, G가 함께 하자고 한다.",
+      "promptEn": "01 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Playing VR games is OK, too. Let's go play VR games together.\nⓑ We can do face painting or play VR games. Which do you like more?\nⓒ I want to play VR games. I don't want to wash my face again.\nⓓ I like face painting more. What about you?",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  Playing VR games is OK, too. Let's go play VR games together."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  We can do face painting or play VR games. Which do you like more?"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  I want to play VR games. I don't want to wash my face again."
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  I like face painting more. What about you?"
+        }
       ],
-      "explainKo": "정답: ⓑ-ⓓ-ⓒ-ⓐ. B가 페이스 페인팅과 가상현실 게임 중 무엇을 더 좋아하는지 묻고, G가 페이스 페인팅을 더 좋아한다고 한 뒤, B는 가상현실 게임을 하고 싶다고 하고, G가 함께 하자고 한다."
+      "orderIds": [
+        "b",
+        "d",
+        "c",
+        "a"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TST",
-      "question": "02 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ I like tteokbokki much better. I like spicy food.\nⓑ OK. I'm so hungry!\nⓒ They have tteokbokki and gimbap here. Which of the two do you like better?\nⓓ Then, let's order tteokbokki. It looks delicious.",
-      "answers": [
-        "c-a-d-b",
-        "c - a - d - b",
-        "c, a, d, b",
-        "c,a,d,b",
-        "c a d b",
-        "cadb",
-        "ⓒ-ⓐ-ⓓ-ⓑ",
-        "ⓒ - ⓐ - ⓓ - ⓑ",
-        "ⓒ, ⓐ, ⓓ, ⓑ",
-        "ⓒ,ⓐ,ⓓ,ⓑ",
-        "ⓒ ⓐ ⓓ ⓑ",
-        "ⓒⓐⓓⓑ"
+      "explainKo": "정답: ⓒ-ⓐ-ⓓ-ⓑ. 떡볶이와 김밥이 있다고 물은 뒤, 떡볶이를 더 좋아한다고 하고, 주문하자고 한 다음, 배가 고프다고 한다.",
+      "promptEn": "02 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ I like tteokbokki much better. I like spicy food.\nⓑ OK. I'm so hungry!\nⓒ They have tteokbokki and gimbap here. Which of the two do you like better?\nⓓ Then, let's order tteokbokki. It looks delicious.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  I like tteokbokki much better. I like spicy food."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  OK. I'm so hungry!"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  They have tteokbokki and gimbap here. Which of the two do you like better?"
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Then, let's order tteokbokki. It looks delicious."
+        }
       ],
-      "explainKo": "정답: ⓒ-ⓐ-ⓓ-ⓑ. 떡볶이와 김밥이 있다고 물은 뒤, 떡볶이를 더 좋아한다고 하고, 주문하자고 한 다음, 배가 고프다고 한다."
+      "orderIds": [
+        "c",
+        "a",
+        "d",
+        "b"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TST",
-      "question": "03 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ I like the T-shirt better.\nⓑ There is a nice picture of the festival on it.\nⓒ Which do you like better, the T-shirt or the cap?\nⓓ Let's get a souvenir.\nⓔ Why?",
-      "answers": [
-        "d-c-a-e-b",
-        "d - c - a - e - b",
-        "d, c, a, e, b",
-        "d,c,a,e,b",
-        "d c a e b",
-        "dcaeb",
-        "ⓓ-ⓒ-ⓐ-ⓔ-ⓑ",
-        "ⓓ - ⓒ - ⓐ - ⓔ - ⓑ",
-        "ⓓ, ⓒ, ⓐ, ⓔ, ⓑ",
-        "ⓓ,ⓒ,ⓐ,ⓔ,ⓑ",
-        "ⓓ ⓒ ⓐ ⓔ ⓑ",
-        "ⓓⓒⓐⓔⓑ"
+      "explainKo": "정답: ⓓ-ⓒ-ⓐ-ⓔ-ⓑ. 기념품을 사자고 한 뒤, 티셔츠와 모자 중 무엇을 더 좋아하는지 묻고, 티셔츠가 더 좋다고 하고, 이유를 물은 다음, 축제 그림이 있다고 답한다.",
+      "promptEn": "03 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ I like the T-shirt better.\nⓑ There is a nice picture of the festival on it.\nⓒ Which do you like better, the T-shirt or the cap?\nⓓ Let's get a souvenir.\nⓔ Why?",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  I like the T-shirt better."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  There is a nice picture of the festival on it."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Which do you like better, the T-shirt or the cap?"
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Let's get a souvenir."
+        },
+        {
+          "id": "e",
+          "text": "ⓔ  Why?"
+        }
       ],
-      "explainKo": "정답: ⓓ-ⓒ-ⓐ-ⓔ-ⓑ. 기념품을 사자고 한 뒤, 티셔츠와 모자 중 무엇을 더 좋아하는지 묻고, 티셔츠가 더 좋다고 하고, 이유를 물은 다음, 축제 그림이 있다고 답한다."
+      "orderIds": [
+        "d",
+        "c",
+        "a",
+        "e",
+        "b"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TST",
-      "question": "04 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Well, yellow is my favorite color.\nⓑ Which do you like more, the red flowers or the yellow flowers?\nⓒ I like the yellow flowers more.\nⓓ Why do you like them more?\nⓔ Look! There are lots of pretty flowers here.",
-      "answers": [
-        "e-b-c-d-a",
-        "e - b - c - d - a",
-        "e, b, c, d, a",
-        "e,b,c,d,a",
-        "e b c d a",
-        "ebcda",
-        "ⓔ-ⓑ-ⓒ-ⓓ-ⓐ",
-        "ⓔ - ⓑ - ⓒ - ⓓ - ⓐ",
-        "ⓔ, ⓑ, ⓒ, ⓓ, ⓐ",
-        "ⓔ,ⓑ,ⓒ,ⓓ,ⓐ",
-        "ⓔ ⓑ ⓒ ⓓ ⓐ",
-        "ⓔⓑⓒⓓⓐ"
+      "explainKo": "정답: ⓔ-ⓑ-ⓒ-ⓓ-ⓐ. 꽃이 많다고 한 뒤, 빨간 꽃과 노란 꽃 중 무엇을 더 좋아하는지 묻고, 노란 꽃을 더 좋아한다고 하고, 이유를 물은 다음, 노란색이 가장 좋아하는 색이라고 답한다.",
+      "promptEn": "04 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Well, yellow is my favorite color.\nⓑ Which do you like more, the red flowers or the yellow flowers?\nⓒ I like the yellow flowers more.\nⓓ Why do you like them more?\nⓔ Look! There are lots of pretty flowers here.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  Well, yellow is my favorite color."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Which do you like more, the red flowers or the yellow flowers?"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  I like the yellow flowers more."
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Why do you like them more?"
+        },
+        {
+          "id": "e",
+          "text": "ⓔ  Look! There are lots of pretty flowers here."
+        }
       ],
-      "explainKo": "정답: ⓔ-ⓑ-ⓒ-ⓓ-ⓐ. 꽃이 많다고 한 뒤, 빨간 꽃과 노란 꽃 중 무엇을 더 좋아하는지 묻고, 노란 꽃을 더 좋아한다고 하고, 이유를 물은 다음, 노란색이 가장 좋아하는 색이라고 답한다."
+      "orderIds": [
+        "e",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "05",
-      "type": "TST",
-      "question": "05 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Yeah. Let's do something together until then.\nⓑ I guess we can ride bikes or go for a boat ride. Which do you like more?\nⓒ Then, let's go for a boat ride.\nⓓ Going for a boat ride. I think it'll be more fun.\nⓔ Don't forget Korea.\nⓕ Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nⓖ Hey, Emma. Are you here to see the fireworks, too?\nⓗ Yes. I hear China, Italy, and the USA are participating this year.\nⓘ Hi, Jihan. What a surprise!",
-      "answers": [
-        "i-g-h-e-f-a-b-d-c",
-        "i - g - h - e - f - a - b - d - c",
-        "i, g, h, e, f, a, b, d, c",
-        "i,g,h,e,f,a,b,d,c",
-        "i g h e f a b d c",
-        "ighefabdc",
-        "ⓘ-ⓖ-ⓗ-ⓔ-ⓕ-ⓐ-ⓑ-ⓓ-ⓒ",
-        "ⓘ - ⓖ - ⓗ - ⓔ - ⓕ - ⓐ - ⓑ - ⓓ - ⓒ",
-        "ⓘ, ⓖ, ⓗ, ⓔ, ⓕ, ⓐ, ⓑ, ⓓ, ⓒ",
-        "ⓘ,ⓖ,ⓗ,ⓔ,ⓕ,ⓐ,ⓑ,ⓓ,ⓒ",
-        "ⓘ ⓖ ⓗ ⓔ ⓕ ⓐ ⓑ ⓓ ⓒ",
-        "ⓘⓖⓗⓔⓕⓐⓑⓓⓒ"
+      "explainKo": "정답: ⓘ-ⓖ-ⓗ-ⓔ-ⓕ-ⓐ-ⓑ-ⓓ-ⓒ. 지한과 Emma가 만나 참가국과 불꽃놀이 시작 시간을 말한 뒤, 그 전까지 함께 할 일로 배 타기를 고른다. 배열 칸은 ⓘ로 시작해 ⓕ를 거쳐 ⓒ로 끝난다.",
+      "promptEn": "05 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ Yeah. Let's do something together until then.\nⓑ I guess we can ride bikes or go for a boat ride. Which do you like more?\nⓒ Then, let's go for a boat ride.\nⓓ Going for a boat ride. I think it'll be more fun.\nⓔ Don't forget Korea.\nⓕ Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nⓖ Hey, Emma. Are you here to see the fireworks, too?\nⓗ Yes. I hear China, Italy, and the USA are participating this year.\nⓘ Hi, Jihan. What a surprise!",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  Yeah. Let's do something together until then."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  I guess we can ride bikes or go for a boat ride. Which do you like more?"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Then, let's go for a boat ride."
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Going for a boat ride. I think it'll be more fun."
+        },
+        {
+          "id": "e",
+          "text": "ⓔ  Don't forget Korea."
+        },
+        {
+          "id": "f",
+          "text": "ⓕ  Of course, Korea, too. So, the fireworks start at 7 p.m. Right?"
+        },
+        {
+          "id": "g",
+          "text": "ⓖ  Hey, Emma. Are you here to see the fireworks, too?"
+        },
+        {
+          "id": "h",
+          "text": "ⓗ  Yes. I hear China, Italy, and the USA are participating this year."
+        },
+        {
+          "id": "i",
+          "text": "ⓘ  Hi, Jihan. What a surprise!"
+        }
       ],
-      "explainKo": "정답: ⓘ-ⓖ-ⓗ-ⓔ-ⓕ-ⓐ-ⓑ-ⓓ-ⓒ. 지한과 Emma가 만나 참가국과 불꽃놀이 시작 시간을 말한 뒤, 그 전까지 함께 할 일로 배 타기를 고른다. 배열 칸은 ⓘ로 시작해 ⓕ를 거쳐 ⓒ로 끝난다."
+      "orderIds": [
+        "i",
+        "g",
+        "h",
+        "e",
+        "f",
+        "a",
+        "b",
+        "d",
+        "c"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "06",
-      "type": "TST",
-      "question": "06 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ This year, we invited Mr. Kumar, a world-famous Indian chef.\nⓑ Every year, we invite great chefs from around the world.\nⓒ Do you like Indian food? Then, don't miss his cooking class.\nⓓ Welcome to the ABC World Food Festival!\nⓔ You can also get his recipe book for free.",
-      "answers": [
-        "d-b-a-c-e",
-        "d - b - a - c - e",
-        "d, b, a, c, e",
-        "d,b,a,c,e",
-        "d b a c e",
-        "dbace",
-        "ⓓ-ⓑ-ⓐ-ⓒ-ⓔ",
-        "ⓓ - ⓑ - ⓐ - ⓒ - ⓔ",
-        "ⓓ, ⓑ, ⓐ, ⓒ, ⓔ",
-        "ⓓ,ⓑ,ⓐ,ⓒ,ⓔ",
-        "ⓓ ⓑ ⓐ ⓒ ⓔ",
-        "ⓓⓑⓐⓒⓔ"
+      "explainKo": "정답: ⓓ-ⓑ-ⓐ-ⓒ-ⓔ. 축제 환영으로 시작해, 매년 요리사를 초대한다는 말, 올해 Kumar 씨를 초대했다는 말, 요리 수업을 놓치지 말라는 말, 무료 요리책 순이다.",
+      "promptEn": "06 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ This year, we invited Mr. Kumar, a world-famous Indian chef.\nⓑ Every year, we invite great chefs from around the world.\nⓒ Do you like Indian food? Then, don't miss his cooking class.\nⓓ Welcome to the ABC World Food Festival!\nⓔ You can also get his recipe book for free.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  This year, we invited Mr. Kumar, a world-famous Indian chef."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Every year, we invite great chefs from around the world."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Do you like Indian food? Then, don't miss his cooking class."
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Welcome to the ABC World Food Festival!"
+        },
+        {
+          "id": "e",
+          "text": "ⓔ  You can also get his recipe book for free."
+        }
       ],
-      "explainKo": "정답: ⓓ-ⓑ-ⓐ-ⓒ-ⓔ. 축제 환영으로 시작해, 매년 요리사를 초대한다는 말, 올해 Kumar 씨를 초대했다는 말, 요리 수업을 놓치지 말라는 말, 무료 요리책 순이다."
+      "orderIds": [
+        "d",
+        "b",
+        "a",
+        "c",
+        "e"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "07",
-      "type": "TST",
-      "question": "07 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ No. I'll be home. I like studying at home more than at the library.\nⓑ So, you're going to be in the library all weekend?\nⓒ Let's go to the movies this weekend.\nⓓ I'm sorry, but I can't. I have an exam on Monday.",
-      "answers": [
-        "c-d-b-a",
-        "c - d - b - a",
-        "c, d, b, a",
-        "c,d,b,a",
-        "c d b a",
-        "cdba",
-        "ⓒ-ⓓ-ⓑ-ⓐ",
-        "ⓒ - ⓓ - ⓑ - ⓐ",
-        "ⓒ, ⓓ, ⓑ, ⓐ",
-        "ⓒ,ⓓ,ⓑ,ⓐ",
-        "ⓒ ⓓ ⓑ ⓐ",
-        "ⓒⓓⓑⓐ"
+      "explainKo": "정답: ⓒ-ⓓ-ⓑ-ⓐ. 영화 제안을 시험 때문에 거절하고, 도서관에 있을 것이냐는 질문에 집이라고 답한다.",
+      "promptEn": "07 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ No. I'll be home. I like studying at home more than at the library.\nⓑ So, you're going to be in the library all weekend?\nⓒ Let's go to the movies this weekend.\nⓓ I'm sorry, but I can't. I have an exam on Monday.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  No. I'll be home. I like studying at home more than at the library."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  So, you're going to be in the library all weekend?"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Let's go to the movies this weekend."
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  I'm sorry, but I can't. I have an exam on Monday."
+        }
       ],
-      "explainKo": "정답: ⓒ-ⓓ-ⓑ-ⓐ. 영화 제안을 시험 때문에 거절하고, 도서관에 있을 것이냐는 질문에 집이라고 답한다."
+      "orderIds": [
+        "c",
+        "d",
+        "b",
+        "a"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "08",
-      "type": "TST",
-      "question": "08 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ It's too big. I think it'll be heavy, too.\nⓑ Really? Then, I'll take it.\nⓒ How about this bag?\nⓓ Not at all. It's big but very light. It's perfect for older women.\nⓔ I'm looking for a gift for my grandmother.",
-      "answers": [
-        "e-c-a-d-b",
-        "e - c - a - d - b",
-        "e, c, a, d, b",
-        "e,c,a,d,b",
-        "e c a d b",
-        "ecadb",
-        "ⓔ-ⓒ-ⓐ-ⓓ-ⓑ",
-        "ⓔ - ⓒ - ⓐ - ⓓ - ⓑ",
-        "ⓔ, ⓒ, ⓐ, ⓓ, ⓑ",
-        "ⓔ,ⓒ,ⓐ,ⓓ,ⓑ",
-        "ⓔ ⓒ ⓐ ⓓ ⓑ",
-        "ⓔⓒⓐⓓⓑ"
+      "explainKo": "정답: ⓔ-ⓒ-ⓐ-ⓓ-ⓑ. 할머니 선물을 찾는다는 말에 가방을 권하고, 크고 무거울 것 같다는 걱정에 가볍다고 한 뒤 사겠다고 한다.",
+      "promptEn": "08 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ It's too big. I think it'll be heavy, too.\nⓑ Really? Then, I'll take it.\nⓒ How about this bag?\nⓓ Not at all. It's big but very light. It's perfect for older women.\nⓔ I'm looking for a gift for my grandmother.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  It's too big. I think it'll be heavy, too."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Really? Then, I'll take it."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  How about this bag?"
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Not at all. It's big but very light. It's perfect for older women."
+        },
+        {
+          "id": "e",
+          "text": "ⓔ  I'm looking for a gift for my grandmother."
+        }
       ],
-      "explainKo": "정답: ⓔ-ⓒ-ⓐ-ⓓ-ⓑ. 할머니 선물을 찾는다는 말에 가방을 권하고, 크고 무거울 것 같다는 걱정에 가볍다고 한 뒤 사겠다고 한다."
+      "orderIds": [
+        "e",
+        "c",
+        "a",
+        "d",
+        "b"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "09",
-      "type": "TST",
-      "question": "09 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ OK. Let's order pizza or pasta.\nⓑ Alice, I'm hungry. Let's have lunch.\nⓒ Which do you like more?",
-      "answers": [
-        "b-a-c",
-        "b - a - c",
-        "b, a, c",
-        "b,a,c",
-        "b a c",
-        "bac",
-        "ⓑ-ⓐ-ⓒ",
-        "ⓑ - ⓐ - ⓒ",
-        "ⓑ, ⓐ, ⓒ",
-        "ⓑ,ⓐ,ⓒ",
-        "ⓑ ⓐ ⓒ",
-        "ⓑⓐⓒ"
+      "explainKo": "정답: ⓑ-ⓐ-ⓒ. 배가 고프니 점심을 먹자는 말에 피자나 파스타를 주문하자고 하고, 어느 것을 더 좋아하는지 묻는다.",
+      "promptEn": "09 다음 대화[담화]를 순서대로 바르게 배열하시오.\n주어진 첫 문장부터 기호를 순서대로 쓰시오.\n\nⓐ OK. Let's order pizza or pasta.\nⓑ Alice, I'm hungry. Let's have lunch.\nⓒ Which do you like more?",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "ⓐ  OK. Let's order pizza or pasta."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Alice, I'm hungry. Let's have lunch."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Which do you like more?"
+        }
       ],
-      "explainKo": "정답: ⓑ-ⓐ-ⓒ. 배가 고프니 점심을 먹자는 말에 피자나 파스타를 주문하자고 하고, 어느 것을 더 좋아하는지 묻는다."
+      "orderIds": [
+        "b",
+        "a",
+        "c"
+      ],
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "id": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "sectionInstructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "9"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 주어진 첫 문장부터 기호를 순서대로 쓰시오. 9문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "directionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오.",
+      "ruleKo": "문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "instructionKo": "주어진 첫 문장부터 기호를 순서대로 쓰시오. 문장을 나올 순서대로 누르세요. b-d-c-a처럼 기호를 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 9
     }
   ]
 }

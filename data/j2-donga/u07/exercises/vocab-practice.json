@@ -8,94 +8,246 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TST",
-      "question": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nperfect : imperfect = possible : ______",
-      "answers": [
+      "explainKo": "perfect : imperfect는 '완전한 : 불완전한'이라는 의미로 반의어 관계이므로, 빈칸에는 possible(가능한)의 반의어인 impossible(불가능한)이 들어가야 한다. im은 '반대'의 의미를 나타내는 접두사이다.",
+      "promptEn": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nperfect : imperfect = possible : ______",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "impossible"
       ],
-      "explainKo": "perfect : imperfect는 '완전한 : 불완전한'이라는 의미로 반의어 관계이므로, 빈칸에는 possible(가능한)의 반의어인 impossible(불가능한)이 들어가야 한다. im은 '반대'의 의미를 나타내는 접두사이다."
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TMC",
-      "question": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nspecial clothes that you wear to look like someone or something else",
-      "answers": [
+      "explainKo": "다른 사람이나 다른 것처럼 보이기 위해 입는 특별한 옷 → costume(의상, 복장). ① 퍼레이드, 행진 ② 제단 ③ 순록 ⑤ 해골, 뼈대",
+      "promptEn": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nspecial clothes that you wear to look like someone or something else",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "parade",
         "altar",
         "reindeer",
         "costume",
         "skeleton"
       ],
-      "corAns": "4",
-      "explainKo": "다른 사람이나 다른 것처럼 보이기 위해 입는 특별한 옷 → costume(의상, 복장). ① 퍼레이드, 행진 ② 제단 ③ 순록 ⑤ 해골, 뼈대"
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TST",
-      "question": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• We will ______ a party for her birthday.\n• Did you ______ fun at the beach?",
-      "answers": [
+      "explainKo": "have a party: 파티를 열다[하다] / have fun: 즐겁게 지내다, 즐기다. 우리는 그녀의 생일 파티를 열 것이다. 해변에서 재미있었니?",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• We will ______ a party for her birthday.\n• Did you ______ fun at the beach?",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "have"
       ],
-      "explainKo": "have a party: 파티를 열다[하다] / have fun: 즐겁게 지내다, 즐기다. 우리는 그녀의 생일 파티를 열 것이다. 해변에서 재미있었니?"
+      "directionKo": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "3",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TMC",
-      "question": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?\nI will _take part in_ the volunteer program.",
-      "answers": [
+      "explainKo": "take part in: ~에 참가하다 (= participate in). 나는 자원봉사 프로그램에 참가할 것이다. ① 입다, 착용하다 ② 상징하다 ③ ~을 돌보다 ④ ~로 돌아가다",
+      "promptEn": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?\nI will _take part in_ the volunteer program.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "put on",
         "stand for",
         "take care of",
         "come back to",
         "participate in"
       ],
-      "corAns": "5",
-      "explainKo": "take part in: ~에 참가하다 (= participate in). 나는 자원봉사 프로그램에 참가할 것이다. ① 입다, 착용하다 ② 상징하다 ③ ~을 돌보다 ④ ~로 돌아가다"
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "sectionInstructionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "05",
-      "type": "TMC",
-      "question": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
-      "answers": [
+      "explainKo": "hardly는 '거의 ~ 아니다'의 의미로 부정어 역할을 한다. hard(힘든)의 부사형은 형용사와 동일한 hard(힘들게)임에 유의한다. ① 그 조각상은 돌로 만들어졌다. ② 나는 그녀의 목소리를 거의 들을 수 없었다. ③ 흰색 비둘기는 평화를 상징한다. ④ 우리는 해변에서 불꽃놀이를 즐겼다. ⑤ 거대한 호박이 가을 축제에 전시되었다.",
+      "promptEn": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "The _statue_ is made of stone. (조각상)",
         "I could _hardly_ hear her voice. (힘들게)",
         "The white dove _symbolizes_ peace. (상징하다)",
         "We enjoyed the _fireworks_ at the beach. (불꽃놀이)",
         "A _giant_ pumpkin was displayed at the fall festival. (거대한)"
       ],
-      "corAns": "2",
-      "explainKo": "hardly는 '거의 ~ 아니다'의 의미로 부정어 역할을 한다. hard(힘든)의 부사형은 형용사와 동일한 hard(힘들게)임에 유의한다. ① 그 조각상은 돌로 만들어졌다. ② 나는 그녀의 목소리를 거의 들을 수 없었다. ③ 흰색 비둘기는 평화를 상징한다. ④ 우리는 해변에서 불꽃놀이를 즐겼다. ⑤ 거대한 호박이 가을 축제에 전시되었다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "5",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "06",
-      "type": "TMC",
-      "question": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• 그 뉴스는 전국으로 퍼졌다.\n→ The news spread all ⓐ the country.\n• 우리는 풍선으로 교실을 꾸몄다.\n→ We decorated the classroom ⓑ balloons.",
-      "answers": [
+      "explainKo": "all over: 곳곳에, 전역에. decorate A with B: A를 B로 장식하다[꾸미다]. ⓐ over, ⓑ with.",
+      "promptEn": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• 그 뉴스는 전국으로 퍼졌다.\n→ The news spread all ⓐ the country.\n• 우리는 풍선으로 교실을 꾸몄다.\n→ We decorated the classroom ⓑ balloons.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "over / for",
         "over / with",
         "to / with",
         "to / for",
         "over / of"
       ],
-      "corAns": "2",
-      "explainKo": "all over: 곳곳에, 전역에. decorate A with B: A를 B로 장식하다[꾸미다]. ⓐ over, ⓑ with."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "07",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.\n월드컵은 4년마다 개최된다. (take)\n→ The World Cup ______ every four years.",
-      "answers": [
+      "explainKo": "take place: 개최되다, 열리다.",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.\n월드컵은 4년마다 개최된다. (take)\n→ The World Cup ______ every four years.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "takes place"
       ],
-      "explainKo": "take place: 개최되다, 열리다."
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "7",
+      "section": "s7",
+      "sectionTitle": "Section G · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 1문항, 다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 1문항, 다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오. 1문항, 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "directionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "directionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "directionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
     }
   ]
 }

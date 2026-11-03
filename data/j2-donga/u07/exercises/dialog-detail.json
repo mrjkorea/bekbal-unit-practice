@@ -8,112 +8,314 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TMC",
-      "question": "01 Watch and Talk A-1\n\nB: We can do face painting or play VR games. Which do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\nQ1. In the end, the girl and the boy decide to play VR games together.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
+      "explainKo": "",
+      "promptEn": "01 Watch and Talk A-1\n\nB: We can do face painting or play VR games. Which do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\nQ1. In the end, the girl and the boy decide to play VR games together.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "explainKo": "",
-      "corAns": "1"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "01 Watch and Talk A-1",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 01 Watch and Talk A-1",
+      "sectionInstructionKo": "01 Watch and Talk A-1 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TMC",
-      "question": "02 Watch and Talk A-2\n\nB: They have tteokbokki and gimbap here. Which of the two do you like better?\nG: I like tteokbokki much better. I like spicy food.\nB: Then, let's order tteokbokki. It looks delicious.\nG: OK. I'm so hungry!\n\nQ2. The girl likes gimbap more than tteokbokki.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
-        "T",
-        "F"
-      ],
       "explainKo": "소녀는 떡볶이를 훨씬 더 좋아한다고 말했다.",
-      "corAns": "2"
+      "promptEn": "02 Watch and Talk A-2\n\nB: They have tteokbokki and gimbap here. Which of the two do you like better?\nG: I like tteokbokki much better. I like spicy food.\nB: Then, let's order tteokbokki. It looks delicious.\nG: OK. I'm so hungry!\n\nQ2. The girl likes gimbap more than tteokbokki.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "02 Watch and Talk A-2",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s2",
+      "sectionTitle": "Section B · 02 Watch and Talk A-2",
+      "sectionInstructionKo": "02 Watch and Talk A-2 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TMC",
-      "question": "03 Watch and Talk A-3\n\nG: Let's get a souvenir.\nB: Which do you like better, the T-shirt or the cap?\nG: I like the T-shirt better.\nB: Why?\nG: There is a nice picture of the festival on it.\n\nQ3. The girl likes the picture of the festival on the T-shirt.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
+      "explainKo": "",
+      "promptEn": "03 Watch and Talk A-3\n\nG: Let's get a souvenir.\nB: Which do you like better, the T-shirt or the cap?\nG: I like the T-shirt better.\nB: Why?\nG: There is a nice picture of the festival on it.\n\nQ3. The girl likes the picture of the festival on the T-shirt.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "explainKo": "",
-      "corAns": "1"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "03 Watch and Talk A-3",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "3",
+      "section": "s3",
+      "sectionTitle": "Section C · 03 Watch and Talk A-3",
+      "sectionInstructionKo": "03 Watch and Talk A-3 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TMC",
-      "question": "04 Watch and Talk A-4\n\nG: Look! There are lots of pretty flowers here.\nB: Which do you like more, the red flowers or the yellow flowers?\nG: I like the yellow flowers more.\nB: Why do you like them more?\nG: Well, yellow is my favorite color.\n\nQ4. The girl likes the yellow flowers because they are big.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
-        "T",
-        "F"
-      ],
       "explainKo": "소녀는 노란색이 자신이 가장 좋아하는 색깔이기 때문에 노란 꽃을 더 좋아한다고 말했다.",
-      "corAns": "2"
+      "promptEn": "04 Watch and Talk A-4\n\nG: Look! There are lots of pretty flowers here.\nB: Which do you like more, the red flowers or the yellow flowers?\nG: I like the yellow flowers more.\nB: Why do you like them more?\nG: Well, yellow is my favorite color.\n\nQ4. The girl likes the yellow flowers because they are big.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "04 Watch and Talk A-4",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s4",
+      "sectionTitle": "Section D · 04 Watch and Talk A-4",
+      "sectionInstructionKo": "04 Watch and Talk A-4 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "05",
-      "type": "TMC",
-      "question": "05 Watch and Talk C\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. Which do you like more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\nQ5. Only three countries are participating in this year's fireworks event.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
-        "T",
-        "F"
-      ],
       "explainKo": "중국, 이탈리아, 미국, 그리고 한국이 불꽃놀이 행사에 참가한다고 했다.",
-      "corAns": "2"
+      "promptEn": "05 Watch and Talk C\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. Which do you like more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\nQ5. Only three countries are participating in this year's fireworks event.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "05 Watch and Talk C",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "5",
+      "section": "s5",
+      "sectionTitle": "Section E · 05 Watch and Talk C",
+      "sectionInstructionKo": "05 Watch and Talk C 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "06",
-      "type": "TMC",
-      "question": "06 Listen Up\n\nM: Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free.\n\nQ6. Mr. Kumar will hold a cooking class at the festival.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
+      "explainKo": "",
+      "promptEn": "06 Listen Up\n\nM: Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free.\n\nQ6. Mr. Kumar will hold a cooking class at the festival.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "explainKo": "",
-      "corAns": "1"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "06 Listen Up",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s6",
+      "sectionTitle": "Section F · 06 Listen Up",
+      "sectionInstructionKo": "06 Listen Up 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "07",
-      "type": "TMC",
-      "question": "07 Review 1\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nQ7. The girl will spend the entire weekend studying in the library.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
-        "T",
-        "F"
-      ],
       "explainKo": "소녀는 주말 동안 집에서 공부할 예정이라고 말했다.",
-      "corAns": "2"
+      "promptEn": "07 Review 1\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nQ7. The girl will spend the entire weekend studying in the library.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "07 Review 1",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s7",
+      "sectionTitle": "Section G · 07 Review 1",
+      "sectionInstructionKo": "07 Review 1 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "08",
-      "type": "TMC",
-      "question": "08 Review 2\n\nB: I'm looking for a gift for my grandmother.\nW: How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.\n\nQ8. The woman recommends a bag to the boy.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
+      "explainKo": "",
+      "promptEn": "08 Review 2\n\nB: I'm looking for a gift for my grandmother.\nW: How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.\n\nQ8. The woman recommends a bag to the boy.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "explainKo": "",
-      "corAns": "1"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "08 Review 2",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "8",
+      "section": "s8",
+      "sectionTitle": "Section H · 08 Review 2",
+      "sectionInstructionKo": "08 Review 2 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "09",
-      "type": "TMC",
-      "question": "09 Review 3\n\nB: Alice, I'm hungry. Let's have lunch.\nG: OK. Let's order pizza or pasta.\nB: Which do you like more?\n\nQ9. The boy asks Alice to eat lunch with him.\n\n대화의 내용과 같으면 T, 다르면 F.",
-      "answers": [
+      "explainKo": "",
+      "promptEn": "09 Review 3\n\nB: Alice, I'm hungry. Let's have lunch.\nG: OK. Let's order pizza or pasta.\nB: Which do you like more?\n\nQ9. The boy asks Alice to eat lunch with him.\n\n대화의 내용과 같으면 T, 다르면 F.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "explainKo": "",
-      "corAns": "1"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "09 Review 3",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "9",
+      "section": "s9",
+      "sectionTitle": "Section I · 09 Review 3",
+      "sectionInstructionKo": "09 Review 3 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 01 Watch and Talk A-1 1문항, 02 Watch and Talk A-2 1문항, 03 Watch and Talk A-3 1문항, 04 Watch and Talk A-4 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 01 Watch and Talk A-1",
+      "directionKo": "01 Watch and Talk A-1",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "01 Watch and Talk A-1 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 02 Watch and Talk A-2",
+      "directionKo": "02 Watch and Talk A-2",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "02 Watch and Talk A-2 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 03 Watch and Talk A-3",
+      "directionKo": "03 Watch and Talk A-3",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "03 Watch and Talk A-3 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 04 Watch and Talk A-4",
+      "directionKo": "04 Watch and Talk A-4",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "04 Watch and Talk A-4 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 05 Watch and Talk C",
+      "directionKo": "05 Watch and Talk C",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "05 Watch and Talk C 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 06 Listen Up",
+      "directionKo": "06 Listen Up",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "06 Listen Up 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 07 Review 1",
+      "directionKo": "07 Review 1",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "07 Review 1 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 08 Review 2",
+      "directionKo": "08 Review 2",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "08 Review 2 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 09 Review 3",
+      "directionKo": "09 Review 3",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "09 Review 3 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
     }
   ]
 }

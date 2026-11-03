@@ -5,359 +5,973 @@
   "unit": "Lesson 08 Time Travel",
   "note": "5과–8과",
   "sourcePages": "108-111",
-  "questionCount": 25,
+  "questionCount": 27,
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TMC",
-      "question": "5과-8과\n다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?\n① quiet : silent\n② fix : repair\n③ giant : huge\n④ far : close\n⑤ well-known : famous",
-      "answers": [
+      "explainKo": "④는 ‘먼 : 가까운’이라는 의미의 반의어 관계이고, 나머지는 모두 유의어 관계이다. ① 조용한 ② 고치다 ③ 거대한 ⑤ 유명한.",
+      "promptEn": "5과-8과\n다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "quiet : silent",
         "fix : repair",
         "giant : huge",
         "far : close",
         "well-known : famous"
       ],
-      "corAns": "4",
-      "explainKo": "④는 ‘먼 : 가까운’이라는 의미의 반의어 관계이고, 나머지는 모두 유의어 관계이다. ① 조용한 ② 고치다 ③ 거대한 ⑤ 유명한."
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "5과-8과",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 5과-8과",
+      "sectionInstructionKo": "5과-8과 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TMC",
-      "question": "5과-8과\n다음 중 단어의 영영풀이가 적절하지 않은 것은?\n① recipe: directions for cooking food\n② opinion: a way of thinking about something\n③ hide: to come together in one place\n④ breathe: to take air into your body and let it out again\n⑤ medicine: the study of how to treat sick people",
-      "answers": [
+      "explainKo": "③은 ‘한 곳에 함께 오다’라는 의미로 gather(모이다)의 영영풀이에 해당한다. ① 요리법: 음식을 만드는 방법에 대한 설명 ② 의견: 어떤 것에 대해 생각하는 방식 ④ 숨을 쉬다: 공기를 몸 안으로 들이마셨다가 다시 내보내다 ⑤ 의학: 아픈 사람을 치료하는 방법을 연구하는 것.",
+      "promptEn": "5과-8과\n다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "recipe: directions for cooking food",
         "opinion: a way of thinking about something",
         "hide: to come together in one place",
         "breathe: to take air into your body and let it out again",
         "medicine: the study of how to treat sick people"
       ],
-      "corAns": "3",
-      "explainKo": "③은 ‘한 곳에 함께 오다’라는 의미로 gather(모이다)의 영영풀이에 해당한다. ① 요리법: 음식을 만드는 방법에 대한 설명 ② 의견: 어떤 것에 대해 생각하는 방식 ④ 숨을 쉬다: 공기를 몸 안으로 들이마셨다가 다시 내보내다 ⑤ 의학: 아픈 사람을 치료하는 방법을 연구하는 것."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "5과-8과",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 5과-8과",
+      "sectionInstructionKo": "5과-8과 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TMC",
-      "question": "5과, 6과, 8과\n다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n\nIt's sunny. The weather is ⓐ______ for a picnic.\nI'm studying a ⓑ______ language to travel abroad.\nThey were ⓒ______ when they got lost in the foggy forest.\n\n① perfect / national / terrified\n② unthinkable / foreign / excited\n③ perfect / national / excited\n④ unthinkable / foreign / terrified\n⑤ perfect / foreign / terrified",
-      "answers": [
+      "explainKo": "ⓐ 날이 화창해. 날씨가 소풍 가기에 완벽해. (perfect) ⓑ 나는 해외여행을 가기 위해 외국어를 공부하고 있다. (foreign) ⓒ 그들은 안개 낀 숲속에서 길을 잃었을 때 겁이 났다. (terrified)",
+      "promptEn": "5과, 6과, 8과\n다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n\nIt's sunny. The weather is ⓐ______ for a picnic.\nI'm studying a ⓑ______ language to travel abroad.\nThey were ⓒ______ when they got lost in the foggy forest.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "perfect / national / terrified",
         "unthinkable / foreign / excited",
         "perfect / national / excited",
         "unthinkable / foreign / terrified",
         "perfect / foreign / terrified"
       ],
-      "corAns": "5",
-      "explainKo": "ⓐ 날이 화창해. 날씨가 소풍 가기에 완벽해. (perfect) ⓑ 나는 해외여행을 가기 위해 외국어를 공부하고 있다. (foreign) ⓒ 그들은 안개 낀 숲속에서 길을 잃었을 때 겁이 났다. (terrified)"
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "3",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TMC",
-      "question": "5과-7과\n다음 중 짝지어진 대화가 어색한 것은?\n① A: How can I get to the hospital?\nB: You can get there by subway.\n② A: What kinds of books do you like?\nB: I like mystery novels.\n③ A: How long will it take to get there?\nB: It'll take less than 20 minutes.\n④ A: Which do you like more, winter or summer?\nB: I like summer more.\n⑤ A: Why do you like math more than history?\nB: I like going to history museums.",
-      "answers": [
+      "explainKo": "⑤ 역사보다 수학을 좋아하는 이유를 묻는 질문에 역사 박물관에 가는 것을 좋아한다는 대답은 어색하다. ① A: 병원에 어떻게 갈 수 있니? B: 지하철을 타고 갈 수 있어. ② A: 너는 어떤 종류의 책을 좋아하니? B: 추리 소설을 좋아해. ③ A: 거기 가는 데 얼마나 걸릴까? B: 20분이 채 안 걸릴 거야. ④ A: 겨울과 여름 중에 어느 것을 더 좋아하니? B: 여름이 더 좋아.",
+      "promptEn": "5과-7과\n다음 중 짝지어진 대화가 어색한 것은?\nB: You can get there by subway.\nB: I like mystery novels.\nB: It'll take less than 20 minutes.\nB: I like summer more.\nB: I like going to history museums.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "A: How can I get to the hospital? B: You can get there by subway.",
         "A: What kinds of books do you like? B: I like mystery novels.",
         "A: How long will it take to get there? B: It'll take less than 20 minutes.",
         "A: Which do you like more, winter or summer? B: I like summer more.",
         "A: Why do you like math more than history? B: I like going to history museums."
       ],
-      "corAns": "5",
-      "explainKo": "⑤ 역사보다 수학을 좋아하는 이유를 묻는 질문에 역사 박물관에 가는 것을 좋아한다는 대답은 어색하다. ① A: 병원에 어떻게 갈 수 있니? B: 지하철을 타고 갈 수 있어. ② A: 너는 어떤 종류의 책을 좋아하니? B: 추리 소설을 좋아해. ③ A: 거기 가는 데 얼마나 걸릴까? B: 20분이 채 안 걸릴 거야. ④ A: 겨울과 여름 중에 어느 것을 더 좋아하니? B: 여름이 더 좋아."
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "다음 중 짝지어진 대화가 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 중 짝지어진 대화가 어색한 것은?",
+      "sectionInstructionKo": "다음 중 짝지어진 대화가 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "05",
-      "type": "TST",
-      "question": "6과\n[05-06] 다음 대화를 읽고 물음에 답하시오.\n\nG: What kinds of soft drinks do you usually have?\nB: I usually drink apple soda, but today, I want to try something else. Can you ⓐ______ some new soft drinks?\nG: Try a cherry soda. The cherry soda here is good.\nB: OK. ⓑ그럼 내가 한 번 시도해 볼게.\n\n위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?\n① make\n② buy\n③ suggest\n④ bring\n⑤ recommend",
-      "answers": [
-        "3, 5",
-        "3,5"
+      "explainKo": "소년의 질문에 소녀가 체리 소다를 먹어 보라고 추천해 주는 것으로 보아 새로운 음료를 추천해 달라고 요청하는 질문이 알맞다. 추천을 요청할 때 recommend(추천하다)나 suggest(제안하다)를 쓸 수 있다.",
+      "promptEn": "6과\n[05-06] 다음 대화를 읽고 물음에 답하시오.\n\nG: What kinds of soft drinks do you usually have?\nB: I usually drink apple soda, but today, I want to try something else. Can you ⓐ______ some new soft drinks?\nG: Try a cherry soda. The cherry soda here is good.\nB: OK. ⓑ그럼 내가 한 번 시도해 볼게.\n\n위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "type": "mc",
+      "answerMode": "multi",
+      "select": "multi",
+      "choices": [
+        "make",
+        "buy",
+        "suggest",
+        "bring",
+        "recommend"
       ],
-      "explainKo": "소년의 질문에 소녀가 체리 소다를 먹어 보라고 추천해 주는 것으로 보아 새로운 음료를 추천해 달라고 요청하는 질문이 알맞다. 추천을 요청할 때 recommend(추천하다)나 suggest(제안하다)를 쓸 수 있다."
+      "correctIndexes": [
+        3,
+        5
+      ],
+      "directionKo": "위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "id": "5",
+      "section": "s4",
+      "sectionTitle": "Section D · 위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "sectionInstructionKo": "위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 모두 고르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "06",
-      "type": "TST",
-      "question": "6과\n[05-06] 다음 대화를 읽고 물음에 답하시오.\n\nG: What kinds of soft drinks do you usually have?\nB: I usually drink apple soda, but today, I want to try something else. Can you ⓐ______ some new soft drinks?\nG: Try a cherry soda. The cherry soda here is good.\nB: OK. ⓑ그럼 내가 한 번 시도해 볼게.\n\n위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오.\n\n(give / I'll / a / it / try)",
-      "answers": [
-        "I'll give it a try.",
-        "I'll give it a try"
+      "explainKo": "give it a try: 시도하다, 한번 해 보다.",
+      "promptEn": "6과\n[05-06] 다음 대화를 읽고 물음에 답하시오.\n\nG: What kinds of soft drinks do you usually have?\nB: I usually drink apple soda, but today, I want to try something else. Can you ⓐ______ some new soft drinks?\nG: Try a cherry soda. The cherry soda here is good.\nB: OK. ⓑ그럼 내가 한 번 시도해 볼게.\n\n위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오.\n\n(give / I'll / a / it / try)",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "give"
+        },
+        {
+          "id": "c1",
+          "text": "I'll"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "it"
+        },
+        {
+          "id": "c4",
+          "text": "try"
+        }
       ],
-      "explainKo": "give it a try: 시도하다, 한번 해 보다."
+      "orderIds": [
+        "c1",
+        "c0",
+        "c3",
+        "c2",
+        "c4"
+      ],
+      "directionKo": "위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "6",
+      "section": "s5",
+      "sectionTitle": "Section E · 위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배…",
+      "sectionInstructionKo": "위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6"
     },
     {
-      "type": "TMC",
-      "question": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\n\nG: Hi, Jihan. ①What a surprise!\nB: Hey, Emma. ②Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: ③Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. ④Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. ⑤Why do you like going for a boat ride more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\n위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
-      "answers": [
+      "sourceId": 7,
+      "group": "07",
+      "explainKo": "정답: ⑤. 자전거와 보트 중 어느 것을 더 좋아하는지 묻는 자리이므로 Why do you like going for a boat ride more?가 아니라 Which do you like more?가 알맞다.",
+      "promptEn": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\n\nG: Hi, Jihan. ①What a surprise!\nB: Hey, Emma. ②Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: ③Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. ④Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. ⑤Why do you like going for a boat ride more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\n위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "① What a surprise!",
         "② Are you here to see the fireworks, too?",
         "③ Don't forget Korea.",
         "④ Let's do something together until then.",
         "⑤ Why do you like going for a boat ride more?"
       ],
-      "corAns": "5",
-      "explainKo": "정답: ⑤. 자전거와 보트 중 어느 것을 더 좋아하는지 묻는 자리이므로 Why do you like going for a boat ride more?가 아니라 Which do you like more?가 알맞다.",
-      "group": "07",
-      "id": 7
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s6",
+      "sectionTitle": "Section F · 위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "sectionInstructionKo": "위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "08",
-      "type": "TMC",
-      "question": "7과\n[07-08] 다음 대화를 읽고 물음에 답하시오.\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. Why do you like going for a boat ride more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\n위 대화의 내용과 일치하지 않는 것은?\n① 두 사람은 우연히 만났다.\n② 올해 불꽃놀이에는 4개국이 참가한다.\n③ 불꽃놀이는 저녁 7시에 시작한다.\n④ 지한이는 배를 타러 가고 싶어 한다.\n⑤ 두 사람은 의견이 일치하지 않았다.",
-      "answers": [
+      "explainKo": "대화 마지막에서 Emma가 지한이의 의견에 동의하며 함께 배를 타러 가자고 했으므로 ⑤는 내용과 일치하지 않는다.",
+      "promptEn": "7과\n[07-08] 다음 대화를 읽고 물음에 답하시오.\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea.\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right?\nB: Yeah. Let's do something together until then.\nG: I guess we can ride bikes or go for a boat ride. Why do you like going for a boat ride more?\nB: Going for a boat ride. I think it'll be more fun.\nG: Then, let's go for a boat ride.\n\n위 대화의 내용과 일치하지 않는 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "두 사람은 우연히 만났다.",
         "올해 불꽃놀이에는 4개국이 참가한다.",
         "불꽃놀이는 저녁 7시에 시작한다.",
         "지한이는 배를 타러 가고 싶어 한다.",
         "두 사람은 의견이 일치하지 않았다."
       ],
-      "corAns": "5",
-      "explainKo": "대화 마지막에서 Emma가 지한이의 의견에 동의하며 함께 배를 타러 가자고 했으므로 ⑤는 내용과 일치하지 않는다."
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "⑤ 두 사람은 의견이 일치하지 않았다.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "8",
+      "section": "s7",
+      "sectionTitle": "Section G · ⑤ 두 사람은 의견이 일치하지 않았다.",
+      "sectionInstructionKo": "⑤ 두 사람은 의견이 일치하지 않았다. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "09",
-      "type": "TMC",
-      "question": "6과-8과\n다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n\nShe watched her son ⓐ______ soccer.\nIt is fun ⓑ______ hiking with friends.\nHave you ever ⓒ______ Mexican food?\n\n① play / going / try\n② to play / to go / tried\n③ playing / to go / trying\n④ to play / going / try\n⑤ playing / to go / tried",
-      "answers": [
+      "explainKo": "ⓐ 지각동사의 목적어와 목적격보어가 능동 관계일 때 목적격보어로 현재분사나 동사원형을 쓴다. ⓑ 「it(가주어)+be동사+형용사+to부정사(진주어)」 구문이므로 to go가 알맞다. ⓒ 경험을 나타내는 현재완료이므로 과거분사 tried가 알맞다. 그녀는 아들이 축구하는 것을 지켜보았다. 친구들과 하이킹 가는 것은 재미있다. 너는 멕시코 음식을 먹어 본 적이 있니?",
+      "promptEn": "6과-8과\n다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n\nShe watched her son ⓐ______ soccer.\nIt is fun ⓑ______ hiking with friends.\nHave you ever ⓒ______ Mexican food?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "play / going / try",
         "to play / to go / tried",
         "playing / to go / trying",
         "to play / going / try",
         "playing / to go / tried"
       ],
-      "corAns": "5",
-      "explainKo": "ⓐ 지각동사의 목적어와 목적격보어가 능동 관계일 때 목적격보어로 현재분사나 동사원형을 쓴다. ⓑ 「it(가주어)+be동사+형용사+to부정사(진주어)」 구문이므로 to go가 알맞다. ⓒ 경험을 나타내는 현재완료이므로 과거분사 tried가 알맞다. 그녀는 아들이 축구하는 것을 지켜보았다. 친구들과 하이킹 가는 것은 재미있다. 너는 멕시코 음식을 먹어 본 적이 있니?"
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "9",
+      "section": "s8",
+      "sectionTitle": "Section H · 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "10",
-      "type": "TMC",
-      "question": "Which one is NOT grammatically correct?\n① He used to have long hair.\n② I want to eat something sweet.\n③ Most people call Einstein a genius.\n④ It was very cold that the lake froze.\n⑤ I have never ridden a horse before.",
-      "answers": [
+      "explainKo": "④ very → so. ‘너무 ~해서 …하다’는 「so+형용사+that+주어+동사」로 쓴다. ① 그는 머리가 길었었다. ② 나는 달콤한 것을 먹고 싶다. ③ 대부분의 사람들은 Einstein을 천재라고 부른다. ④ 날이 너무 추워서 호수가 얼었다. ⑤ 나는 전에 말을 타 본 적이 없다.",
+      "promptEn": "Which one is NOT grammatically correct?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "He used to have long hair.",
         "I want to eat something sweet.",
         "Most people call Einstein a genius.",
         "It was very cold that the lake froze.",
         "I have never ridden a horse before."
       ],
-      "corAns": "4",
-      "explainKo": "④ very → so. ‘너무 ~해서 …하다’는 「so+형용사+that+주어+동사」로 쓴다. ① 그는 머리가 길었었다. ② 나는 달콤한 것을 먹고 싶다. ③ 대부분의 사람들은 Einstein을 천재라고 부른다. ④ 날이 너무 추워서 호수가 얼었다. ⑤ 나는 전에 말을 타 본 적이 없다."
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "Which one is NOT grammatically correct?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "10",
+      "section": "s9",
+      "sectionTitle": "Section I · Which one is NOT grammatically correct?",
+      "sectionInstructionKo": "Which one is NOT grammatically correct? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "11",
-      "type": "TMC",
-      "question": "5과-8과\n다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ The boy who you met yesterday is my cousin.\nⓑ I felt the ground to shake slightly.\nⓒ This is exciting to travel to other countries.\nⓓ We named our cats Coco and Jelly.\nⓔ There is nothing special in the room.\n\n① a, b, d\n② a, d, e\n③ b, d, e\n④ b, c, e\n⑤ c, d, e",
-      "answers": [
+      "explainKo": "ⓑ to shake → shaking 또는 shake. 지각동사의 목적격보어가 능동 관계일 때 현재분사나 동사원형을 쓴다. ⓒ This → It. to travel to other countries가 진주어이므로 가주어 it을 써야 한다. ⓐ 네가 어제 만난 소년은 나의 사촌이다. ⓓ 우리는 고양이들을 Coco와 Jelly라고 이름 지었다. ⓔ 방에는 특별한 것이 없었다. 옳은 것은 ⓐ, ⓓ, ⓔ이다.",
+      "promptEn": "5과-8과\n다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ The boy who you met yesterday is my cousin.\nⓑ I felt the ground to shake slightly.\nⓒ This is exciting to travel to other countries.\nⓓ We named our cats Coco and Jelly.\nⓔ There is nothing special in the room.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "a, b, d",
         "a, d, e",
         "b, d, e",
         "b, c, e",
         "c, d, e"
       ],
-      "corAns": "2",
-      "explainKo": "ⓑ to shake → shaking 또는 shake. 지각동사의 목적격보어가 능동 관계일 때 현재분사나 동사원형을 쓴다. ⓒ This → It. to travel to other countries가 진주어이므로 가주어 it을 써야 한다. ⓐ 네가 어제 만난 소년은 나의 사촌이다. ⓓ 우리는 고양이들을 Coco와 Jelly라고 이름 지었다. ⓔ 방에는 특별한 것이 없었다. 옳은 것은 ⓐ, ⓓ, ⓔ이다."
-    },
-    {
-      "id": 12,
-      "group": "12",
-      "type": "TST",
-      "question": "5과\n다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?\n① The boy that is singing is my brother.\n② This is the bag that my mom made for me.\n③ The man that lives next door is a firefighter.\n④ I know a person that can speak three languages.\n⑤ The movie that we watched together was boring.",
-      "answers": [
-        "2, 5",
-        "2,5"
+      "correctIndexes": [
+        2
       ],
-      "explainKo": "②와 ⑤는 목적격 관계대명사이므로 생략할 수 있지만, 나머지는 모두 주격 관계대명사이므로 생략할 수 없다. ① 노래하고 있는 소년은 내 동생이다. ② 이것은 엄마가 나에게 만들어 주신 가방이다. ③ 옆집에 사는 남자는 소방관이다. ④ 나는 3개 국어를 할 수 있는 사람을 안다. ⑤ 우리가 함께 본 영화는 지루했다."
+      "directionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "11",
+      "section": "s10",
+      "sectionTitle": "Section J · 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "11"
     },
     {
-      "id": 13,
+      "sourceId": 12,
+      "group": "12",
+      "explainKo": "②와 ⑤는 목적격 관계대명사이므로 생략할 수 있지만, 나머지는 모두 주격 관계대명사이므로 생략할 수 없다. ① 노래하고 있는 소년은 내 동생이다. ② 이것은 엄마가 나에게 만들어 주신 가방이다. ③ 옆집에 사는 남자는 소방관이다. ④ 나는 3개 국어를 할 수 있는 사람을 안다. ⑤ 우리가 함께 본 영화는 지루했다.",
+      "promptEn": "5과\n다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
+      "type": "mc",
+      "answerMode": "multi",
+      "select": "multi",
+      "choices": [
+        "The boy that is singing is my brother.",
+        "This is the bag that my mom made for me.",
+        "The man that lives next door is a firefighter.",
+        "I know a person that can speak three languages.",
+        "The movie that we watched together was boring."
+      ],
+      "correctIndexes": [
+        2,
+        5
+      ],
+      "directionKo": "다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "id": "12",
+      "section": "s11",
+      "sectionTitle": "Section K · 다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 모두 고르기",
+      "label": "12"
+    },
+    {
+      "sourceId": 13,
       "group": "13",
-      "type": "TST",
-      "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n\n[조건]\n1. dangerous, something, touch, hot을 이용하여 총 7단어로 쓸 것.\n2. 가주어를 사용할 것.\n\n뜨거운 것을 만지는 것은 위험하다.",
-      "answers": [
-        "It is dangerous to touch something hot.",
+      "explainKo": "가주어 It 뒤에 ‘위험하다’를 is dangerous로 쓴 뒤 진주어인 ‘뜨거운 것을 만지는 것’을 to touch로 표현한다. -thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 to touch 뒤에 something hot을 쓴다.",
+      "promptEn": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n\n[조건]\n1. dangerous, something, touch, hot을 이용하여 총 7단어로 쓸 것.\n2. 가주어를 사용할 것.\n\n뜨거운 것을 만지는 것은 위험하다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "It is dangerous to touch something hot"
       ],
-      "explainKo": "가주어 It 뒤에 ‘위험하다’를 is dangerous로 쓴 뒤 진주어인 ‘뜨거운 것을 만지는 것’을 to touch로 표현한다. -thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 to touch 뒤에 something hot을 쓴다."
+      "directionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "13",
+      "section": "s12",
+      "sectionTitle": "Section L · 다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "14",
-      "type": "TST",
-      "question": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look (A)[close / closely]. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum (B)[that / who] people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure (C)[to / for] many people.\n\n윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
-      "answers": [
-        "(A) closely (B) that (C) to",
-        "closely, that, to",
-        "closely / that / to"
+      "explainKo": "(A) 동사 look을 수식하는 부사 closely가 알맞다. (B) 선행사 gum이 사물이므로 that이 알맞다. (C) 수여동사 give는 간접목적어를 뒤로 보낼 때 간접목적어 앞에 전치사 to를 쓴다.",
+      "promptEn": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look (A)[close / closely]. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum (B)[that / who] people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure (C)[to / for] many people.\n\n윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "close",
+        "closely"
       ],
-      "explainKo": "(A) 동사 look을 수식하는 부사 closely가 알맞다. (B) 선행사 gum이 사물이므로 that이 알맞다. (C) 수여동사 give는 간접목적어를 뒤로 보낼 때 간접목적어 앞에 전치사 to를 쓴다."
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "A",
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "ruleKo": "이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "promptKo": "이 문항은 (A)만 고릅니다.",
+      "id": "14-A",
+      "section": "s13",
+      "sectionTitle": "Section M · 윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "sectionInstructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오. 이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 14,
+      "group": "14",
+      "explainKo": "(A) 동사 look을 수식하는 부사 closely가 알맞다. (B) 선행사 gum이 사물이므로 that이 알맞다. (C) 수여동사 give는 간접목적어를 뒤로 보낼 때 간접목적어 앞에 전치사 to를 쓴다.",
+      "promptEn": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look (A)[close / closely]. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum (B)[that / who] people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure (C)[to / for] many people.\n\n윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "that",
+        "who"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "B",
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "ruleKo": "이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "promptKo": "이 문항은 (B)만 고릅니다.",
+      "id": "14-B",
+      "section": "s13",
+      "sectionTitle": "Section M · 윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "sectionInstructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오. 이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "15"
+    },
+    {
+      "sourceId": 14,
+      "group": "14",
+      "explainKo": "(A) 동사 look을 수식하는 부사 closely가 알맞다. (B) 선행사 gum이 사물이므로 that이 알맞다. (C) 수여동사 give는 간접목적어를 뒤로 보낼 때 간접목적어 앞에 전치사 to를 쓴다.",
+      "promptEn": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look (A)[close / closely]. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum (B)[that / who] people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure (C)[to / for] many people.\n\n윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "to",
+        "for"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "C",
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "ruleKo": "이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "promptKo": "이 문항은 (C)만 고릅니다.",
+      "id": "14-C",
+      "section": "s13",
+      "sectionTitle": "Section M · 윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "sectionInstructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오. 이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "16"
+    },
+    {
+      "sourceId": 15,
       "group": "15",
-      "type": "TST",
-      "question": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum that people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure to many people.\n\n윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.\n\n[조건]\n1. meet, the street, people을 이용하되 필요시 어형을 바꿀 것.\n2. 관계대명사를 사용할 것.\n3. 총 7단어로 쓸 것.\n\nHis gum paintings often carry personal messages from ______.",
-      "answers": [
+      "explainKo": "‘그가 길에서 만난 사람들’은 선행사 people 뒤에 목적격 관계대명사절 who[that] he meets on the street을 이어 쓴다. 7단어로 써야 하므로 목적격 관계대명사를 생략하지 않는다.",
+      "promptEn": "5과\n[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum that people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure to many people.\n\n윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.\n\n[조건]\n1. meet, the street, people을 이용하되 필요시 어형을 바꿀 것.\n2. 관계대명사를 사용할 것.\n3. 총 7단어로 쓸 것.\n\nHis gum paintings often carry personal messages from ______.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "people who he meets on the street",
         "people that he meets on the street"
       ],
-      "explainKo": "‘그가 길에서 만난 사람들’은 선행사 people 뒤에 목적격 관계대명사절 who[that] he meets on the street을 이어 쓴다. 7단어로 써야 하므로 목적격 관계대명사를 생략하지 않는다."
+      "directionKo": "윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "15",
+      "section": "s14",
+      "sectionTitle": "Section N · 윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "16",
-      "type": "TMC",
-      "question": "[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum that people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure to many people.\n\n윗글의 제목으로 가장 적절한 것은?\n① The History of Muswell Hill\n② Ways to Keep Streets Clean\n③ How to Make Chewing Gum Paintings\n④ Tiny Street Art with Personal Messages\n⑤ Don't Throw Chewing Gum on the Street",
-      "answers": [
+      "explainKo": "Ben Wilson의 껌 그림은 매우 작고 개인적인 메시지들을 전달한다고 했으므로 ④ ‘개인적인 메시지를 담은 아주 작은 거리 예술’이 제목으로 가장 적절하다. ① Muswell Hill의 역사 ② 거리를 깨끗하게 유지하는 방법 ③ 껌 그림을 그리는 방법 ⑤ 거리에 껌을 버리지 마시오.",
+      "promptEn": "[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum that people drop on the street. ⓐ 그의 껌 그림은 종종 그가 길에서 만난 사람들의 개인적인 메시지를 담고 있습니다. For example, the one over here is a happy birthday wish for a loved one. Wilson's gum paintings are tiny, but they give great pleasure to many people.\n\n윗글의 제목으로 가장 적절한 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "The History of Muswell Hill",
         "Ways to Keep Streets Clean",
         "How to Make Chewing Gum Paintings",
         "Tiny Street Art with Personal Messages",
         "Don't Throw Chewing Gum on the Street"
       ],
-      "corAns": "4",
-      "explainKo": "Ben Wilson의 껌 그림은 매우 작고 개인적인 메시지들을 전달한다고 했으므로 ④ ‘개인적인 메시지를 담은 아주 작은 거리 예술’이 제목으로 가장 적절하다. ① Muswell Hill의 역사 ② 거리를 깨끗하게 유지하는 방법 ③ 껌 그림을 그리는 방법 ⑤ 거리에 껌을 버리지 마시오."
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 제목으로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "16",
+      "section": "s15",
+      "sectionTitle": "Section O · 윗글의 제목으로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 제목으로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "18"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "17",
-      "type": "TST",
-      "question": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "answers": [
+      "explainKo": "ⓐ는 Schofield의 한국식 이름인 Seok Hopil을 가리키고, ⓑ는 그의 본명인 Frank W. Schofield를 가리킨다.",
+      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "(a) Seok Hopil (b) Frank W. Schofield",
         "Seok Hopil, Frank W. Schofield",
         "Seok Hopil / Frank W. Schofield"
       ],
-      "explainKo": "ⓐ는 Schofield의 한국식 이름인 Seok Hopil을 가리키고, ⓑ는 그의 본명인 Frank W. Schofield를 가리킨다."
+      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "17",
+      "section": "s16",
+      "sectionTitle": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "19"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "18",
-      "type": "TMC",
-      "question": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. It sounded similar to his real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 (A)에서 어법상 틀린 부분을 바르게 고친 것은?\n① that → which\n② every → all\n③ have → has\n④ to be → be\n⑤ so → because",
-      "answers": [
+      "explainKo": "every 뒤에는 단수명사와 단수동사가 오므로 have를 has로 고친 것이 올바르다.",
+      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. It sounded similar to his real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 (A)에서 어법상 틀린 부분을 바르게 고친 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "that → which",
         "every → all",
         "have → has",
         "to be → be",
         "so → because"
       ],
-      "corAns": "3",
-      "explainKo": "every 뒤에는 단수명사와 단수동사가 오므로 have를 has로 고친 것이 올바르다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "[17-19] 다음 글을 읽고 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "18",
+      "section": "s17",
+      "sectionTitle": "Section Q · [17-19] 다음 글을 읽고 물음에 답하시오.",
+      "sectionInstructionKo": "[17-19] 다음 글을 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "20"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "19",
-      "type": "TST",
-      "question": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. It sounded similar to his real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n\nQ. Why did Dr. Schofield study Korean?\nBecause he wanted ______.",
-      "answers": [
+      "explainKo": "Schofield 박사는 의학을 가르치기 위해 한국에 왔고, 한국어로 가르치고 싶어서 한국어를 열심히 공부했다. 질문: Schofield 박사는 왜 한국어를 배웠는가?",
+      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. It sounded similar to his real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n\nQ. Why did Dr. Schofield study Korean?\nBecause he wanted ______.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "to teach medicine in Korean",
         "to teach in Korean"
       ],
-      "explainKo": "Schofield 박사는 의학을 가르치기 위해 한국에 왔고, 한국어로 가르치고 싶어서 한국어를 열심히 공부했다. 질문: Schofield 박사는 왜 한국어를 배웠는가?"
+      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "19",
+      "section": "s18",
+      "sectionTitle": "Section R · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21"
     },
     {
-      "type": "TMC",
-      "question": "[20-22] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe ①that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. ②To welcome dead people, Mexicans hold a festival ③on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and ④having big parties in cemeteries. In some areas, people dress up ⑤like skeletons and hold big parades.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
-      "answers": [
+      "sourceId": 20,
+      "group": "20",
+      "explainKo": "정답: ④. set up과 병렬된 동사이므로 having이 아니라 have가 알맞다.",
+      "promptEn": "[20-22] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe ①that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. ②To welcome dead people, Mexicans hold a festival ③on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and ④having big parties in cemeteries. In some areas, people dress up ⑤like skeletons and hold big parades.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "① that",
         "② To welcome",
         "③ on",
         "④ having",
         "⑤ like"
       ],
-      "corAns": "4",
-      "explainKo": "정답: ④. set up과 병렬된 동사이므로 having이 아니라 have가 알맞다.",
-      "group": "20",
-      "id": 20
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "20",
+      "section": "s19",
+      "sectionTitle": "Section S · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "22"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "21",
-      "type": "TMC",
-      "question": "7과\n[20-22] 다음 글을 읽고 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and having big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 괄호 ⓐ와 ⓑ 안의 단어를 어법상 옳은 형태로 바꿔 쓴 것은?\n① to meet / to remember\n② meeting / to remember\n③ to meet / remember\n④ meeting / remembering\n⑤ meet / remember",
-      "answers": [
+      "explainKo": "ⓐ 문맥상 ‘만나기 위해서’라는 의미가 되어야 하므로 목적을 나타내는 부사적 용법의 to부정사 to meet로 써야 한다. ⓑ 가주어 it에 대한 진주어가 들어갈 자리이므로 to remember로 써야 한다.",
+      "promptEn": "7과\n[20-22] 다음 글을 읽고 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and having big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 괄호 ⓐ와 ⓑ 안의 단어를 어법상 옳은 형태로 바꿔 쓴 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "to meet / to remember",
         "meeting / to remember",
         "to meet / remember",
         "meeting / remembering",
         "meet / remember"
       ],
-      "corAns": "1",
-      "explainKo": "ⓐ 문맥상 ‘만나기 위해서’라는 의미가 되어야 하므로 목적을 나타내는 부사적 용법의 to부정사 to meet로 써야 한다. ⓑ 가주어 it에 대한 진주어가 들어갈 자리이므로 to remember로 써야 한다."
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "[20-22] 다음 글을 읽고 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "21",
+      "section": "s20",
+      "sectionTitle": "Section T · [20-22] 다음 글을 읽고 물음에 답하시오.",
+      "sectionInstructionKo": "[20-22] 다음 글을 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "23"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "22",
-      "type": "TMC",
-      "question": "[20-22] 다음 글을 읽고 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and having big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\nAccording to the passage, which one is NOT true for the Day of the Dead?\n① It is celebrated to welcome dead people.\n② It is held once a year in Mexico.\n③ People celebrate it only at home.\n④ Some people wear skeleton costumes.\n⑤ There are big parades in some areas.",
-      "answers": [
+      "explainKo": "집에 제단을 만들고 묘지에서도 큰 파티를 연다고 했으므로 ③은 내용과 일치하지 않는다. ① 그것은 죽은 사람들을 맞이하기 위해 기념된다. ② 그것은 멕시코에서 일 년에 한 번 열린다. ③ 사람들은 집에서만 그것을 기념한다. ④ 일부 사람들은 해골 복장을 한다. ⑤ 일부 지역에서는 큰 퍼레이드가 있다.",
+      "promptEn": "[20-22] 다음 글을 읽고 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home ⓐ(meet) their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓑ(remember) dead people. So, people set up altars in their homes and having big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\nAccording to the passage, which one is NOT true for the Day of the Dead?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "It is celebrated to welcome dead people.",
         "It is held once a year in Mexico.",
         "People celebrate it only at home.",
         "Some people wear skeleton costumes.",
         "There are big parades in some areas."
       ],
-      "corAns": "3",
-      "explainKo": "집에 제단을 만들고 묘지에서도 큰 파티를 연다고 했으므로 ③은 내용과 일치하지 않는다. ① 그것은 죽은 사람들을 맞이하기 위해 기념된다. ② 그것은 멕시코에서 일 년에 한 번 열린다. ③ 사람들은 집에서만 그것을 기념한다. ④ 일부 사람들은 해골 복장을 한다. ⑤ 일부 지역에서는 큰 퍼레이드가 있다."
-    },
-    {
-      "type": "TST",
-      "question": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ①moved under his feet. After only a few minutes, the machine stopped.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ②must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ③something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ④was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you ⑤to do anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began to walk on the path.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.\n(    ) → __________",
-      "answers": [
-        "1 → moving",
-        "1 → move",
-        "① → moving",
-        "① → move",
-        "1 moving",
-        "1 move",
-        "① moving",
-        "① move",
-        "1, moving",
-        "1, move",
-        "①, moving",
-        "①, move"
+      "correctIndexes": [
+        3
       ],
-      "explainKo": "정답: ① → moving 또는 move. 지각동사 felt의 목적격보어는 현재분사 moving이나 동사원형 move이다.",
-      "group": "23",
-      "id": 23
+      "directionKo": "[20-22] 다음 글을 읽고 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "22",
+      "section": "s20",
+      "sectionTitle": "Section T · [20-22] 다음 글을 읽고 물음에 답하시오.",
+      "sectionInstructionKo": "[20-22] 다음 글을 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "24"
     },
     {
-      "id": 24,
+      "sourceId": 23,
+      "group": "23",
+      "explainKo": "정답: ① → moving 또는 move. 지각동사 felt의 목적격보어는 현재분사 moving이나 동사원형 move이다.",
+      "promptEn": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ①moved under his feet. After only a few minutes, the machine stopped.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ②must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ③something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ④was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you ⑤to do anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began to walk on the path.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.\n(    ) → __________",
+      "type": "parts",
+      "answerMode": "parts",
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.",
+      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptKo": "",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "틀린 말",
+          "placeholder": "틀린 말만",
+          "accept": [
+            "1",
+            "①"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "고친 말",
+          "placeholder": "고친 말만",
+          "accept": [
+            "moving",
+            "move"
+          ]
+        }
+      ],
+      "id": "23",
+      "section": "s21",
+      "sectionTitle": "Section U · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 …",
+      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 틀린 말 / 고친 말",
+      "label": "25"
+    },
+    {
+      "sourceId": 24,
       "group": "24",
-      "type": "TMC",
-      "question": "8과\n[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moved under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?\n① Be brave.\n② Don't worry.\n③ Be careful.\n④ Do your best.\n⑤ Don't be afraid.",
-      "answers": [
+      "explainKo": "공룡이 배고픈 상태일 수도 있으니 침착하게 있고 어리석은 행동을 하지 말라고 주의를 주는 상황이므로 빈칸에는 ③ ‘조심하세요.’가 가장 적절하다. ① 용기를 가지세요. ② 걱정하지 마세요. ④ 최선을 다하세요. ⑤ 두려워하지 마세요.",
+      "promptEn": "8과\n[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moved under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "Be brave.",
         "Don't worry.",
         "Be careful.",
         "Do your best.",
         "Don't be afraid."
       ],
-      "corAns": "3",
-      "explainKo": "공룡이 배고픈 상태일 수도 있으니 침착하게 있고 어리석은 행동을 하지 말라고 주의를 주는 상황이므로 빈칸에는 ③ ‘조심하세요.’가 가장 적절하다. ① 용기를 가지세요. ② 걱정하지 마세요. ④ 최선을 다하세요. ⑤ 두려워하지 마세요."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "24",
+      "section": "s22",
+      "sectionTitle": "Section V · 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "26"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "25",
-      "type": "TMC",
-      "question": "8과\n[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moved under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 내용과 일치하지 않는 것은?\n① Eckels 외에 두 명의 여행객이 더 있었다.\n② 몇 분 만에 타임머신이 정글에 도착했다.\n③ Travis는 정글에서 주의할 사항을 안내했다.\n④ 정글은 매우 고요하고 안개가 끼어 있었다.\n⑤ Eckels는 자신이 실수할까 봐 걱정했다.",
-      "answers": [
+      "explainKo": "Travis가 바보 같은 행동을 하지 말라고 주의를 주자 Eckels는 걱정하지 말라면서 자신감을 보였으므로 ⑤는 내용과 일치하지 않는다.",
+      "promptEn": "8과\n[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moved under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause something unthinkable in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do anything foolish.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 내용과 일치하지 않는 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "Eckels 외에 두 명의 여행객이 더 있었다.",
         "몇 분 만에 타임머신이 정글에 도착했다.",
         "Travis는 정글에서 주의할 사항을 안내했다.",
         "정글은 매우 고요하고 안개가 끼어 있었다.",
         "Eckels는 자신이 실수할까 봐 걱정했다."
       ],
-      "corAns": "5",
-      "explainKo": "Travis가 바보 같은 행동을 하지 말라고 주의를 주자 Eckels는 걱정하지 말라면서 자신감을 보였으므로 ⑤는 내용과 일치하지 않는다."
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "25",
+      "section": "s23",
+      "sectionTitle": "Section W · 윗글의 내용과 일치하지 않는 것은?",
+      "sectionInstructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "27"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 5과-8과 2문항, 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? 1문항, 다음 중 짝지어진 대화가 어색한 것은? 1문항, 위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면? 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 5과-8과",
+      "directionKo": "5과-8과",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "5과-8과 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 중 짝지어진 대화가 어색한 것은?",
+      "directionKo": "다음 중 짝지어진 대화가 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 짝지어진 대화가 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "directionKo": "위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 ⓐ에 들어갈 말로 적절한 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배…",
+      "directionKo": "위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "directionKo": "위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · ⑤ 두 사람은 의견이 일치하지 않았다.",
+      "directionKo": "⑤ 두 사람은 의견이 일치하지 않았다.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "⑤ 두 사람은 의견이 일치하지 않았다. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · Which one is NOT grammatically correct?",
+      "directionKo": "Which one is NOT grammatically correct?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "Which one is NOT grammatically correct? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "directionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s11",
+      "title": "Section K · 다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
+      "directionKo": "다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s12",
+      "title": "Section L · 다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "directionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "s13",
+      "title": "Section M · 윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오.",
+      "ruleKo": "이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법상 알맞은 것을 골라 쓰시오. 이 괄호 안에서 알맞은 것을 하나 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 3
+    },
+    {
+      "id": "s14",
+      "title": "Section N · 윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.",
+      "directionKo": "윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s15",
+      "title": "Section O · 윗글의 제목으로 가장 적절한 것은?",
+      "directionKo": "윗글의 제목으로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 제목으로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s16",
+      "title": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
+      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s17",
+      "title": "Section Q · [17-19] 다음 글을 읽고 물음에 답하시오.",
+      "directionKo": "[17-19] 다음 글을 읽고 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[17-19] 다음 글을 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s18",
+      "title": "Section R · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s19",
+      "title": "Section S · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s20",
+      "title": "Section T · [20-22] 다음 글을 읽고 물음에 답하시오.",
+      "directionKo": "[20-22] 다음 글을 읽고 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[20-22] 다음 글을 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s21",
+      "title": "Section U · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 …",
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.",
+      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 틀린 말 / 고친 말",
+      "itemCount": 1
+    },
+    {
+      "id": "s22",
+      "title": "Section V · 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s23",
+      "title": "Section W · 윗글의 내용과 일치하지 않는 것은?",
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
     }
   ]
 }

@@ -11,264 +11,512 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
-      "answers": [
-        "People in Valencia celebrate the coming of spring with the Fallas festival."
+      "explainKo": "정답: People in Valencia celebrate the coming of spring with the Fallas festival.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "People in Valencia celebrate the coming of spring with the Fallas festival"
       ],
-      "explainKo": "정답: People in Valencia celebrate the coming of spring with the Fallas festival."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n이 축제는 3월 15일부터 19일까지 열린다.",
-      "answers": [
-        "This festival takes place from March 15 to 19."
+      "explainKo": "정답: This festival takes place from March 15 to 19.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n이 축제는 3월 15일부터 19일까지 열린다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "This festival takes place from March 15 to 19"
       ],
-      "explainKo": "정답: This festival takes place from March 15 to 19."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
-      "answers": [
-        "During the festival, people enjoy parades and fireworks."
+      "explainKo": "정답: During the festival, people enjoy parades and fireworks.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "During the festival, people enjoy parades and fireworks"
       ],
-      "explainKo": "정답: During the festival, people enjoy parades and fireworks."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
-      "answers": [
-        "The stars of the festival are fallas, giant wooden statues."
+      "explainKo": "정답: The stars of the festival are fallas, giant wooden statues.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The stars of the festival are fallas, giant wooden statues"
       ],
-      "explainKo": "정답: The stars of the festival are fallas, giant wooden statues."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다.",
-      "answers": [
-        "You can find hundreds of them all over the city."
+      "explainKo": "정답: You can find hundreds of them all over the city.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "You can find hundreds of them all over the city"
       ],
-      "explainKo": "정답: You can find hundreds of them all over the city."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.",
-      "answers": [
-        "Surprisingly, the fallas are burned on the last day of the festival."
+      "explainKo": "정답: Surprisingly, the fallas are burned on the last day of the festival.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Surprisingly, the fallas are burned on the last day of the festival"
       ],
-      "explainKo": "정답: Surprisingly, the fallas are burned on the last day of the festival."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
-      "answers": [
-        "Burning them symbolizes saying goodbye to old things and hello to a new start."
+      "explainKo": "정답: Burning them symbolizes saying goodbye to old things and hello to a new start.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Burning them symbolizes saying goodbye to old things and hello to a new start"
       ],
-      "explainKo": "정답: Burning them symbolizes saying goodbye to old things and hello to a new start."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
-      "answers": [
-        "Winter in Sweden is long and dark, so the people there especially welcome summer."
+      "explainKo": "정답: Winter in Sweden is long and dark, so the people there especially welcome summer.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Winter in Sweden is long and dark, so the people there especially welcome summer"
       ],
-      "explainKo": "정답: Winter in Sweden is long and dark, so the people there especially welcome summer."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
-      "answers": [
-        "To celebrate the longest day of the year, they have a special festival."
+      "explainKo": "정답: To celebrate the longest day of the year, they have a special festival.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "To celebrate the longest day of the year, they have a special festival"
       ],
-      "explainKo": "정답: To celebrate the longest day of the year, they have a special festival."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 이 축제를 Midsummer 축제라고 부른다.",
-      "answers": [
-        "They call it the Midsummer festival."
+      "explainKo": "정답: They call it the Midsummer festival.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 이 축제를 Midsummer 축제라고 부른다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They call it the Midsummer festival"
       ],
-      "explainKo": "정답: They call it the Midsummer festival."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
-      "answers": [
-        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday."
+      "explainKo": "정답: The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday"
       ],
-      "explainKo": "정답: The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "11",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "11"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위를 돌며 전통 춤을 즐긴다.",
-      "answers": [
-        "During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it."
+      "explainKo": "정답: During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위를 돌며 전통 춤을 즐긴다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it"
       ],
-      "explainKo": "정답: During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "12",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "12"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
-      "answers": [
-        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long."
+      "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long"
       ],
-      "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "13",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
-      "answers": [
-        "Many Mexicans believe that once a year dead people come back home to meet their family and friends."
+      "explainKo": "정답: Many Mexicans believe that once a year dead people come back home to meet their family and friends.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Many Mexicans believe that once a year dead people come back home to meet their family and friends"
       ],
-      "explainKo": "정답: Many Mexicans believe that once a year dead people come back home to meet their family and friends."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "14",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 이날을 Day of the Dead라고 부른다.",
-      "answers": [
-        "They call this day the Day of the Dead."
+      "explainKo": "정답: They call this day the Day of the Dead.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 이날을 Day of the Dead라고 부른다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They call this day the Day of the Dead"
       ],
-      "explainKo": "정답: They call this day the Day of the Dead."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "15",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "15"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
-      "answers": [
-        "To welcome dead people, Mexicans hold a festival on November 1 and 2."
+      "explainKo": "정답: To welcome dead people, Mexicans hold a festival on November 1 and 2.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "To welcome dead people, Mexicans hold a festival on November 1 and 2"
       ],
-      "explainKo": "정답: To welcome dead people, Mexicans hold a festival on November 1 and 2."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "16",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "16"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
-      "answers": [
-        "They believe it is important to remember dead people."
+      "explainKo": "정답: They believe it is important to remember dead people.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They believe it is important to remember dead people"
       ],
-      "explainKo": "정답: They believe it is important to remember dead people."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "17",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "17"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
-      "answers": [
-        "So, people set up altars in their homes and have big parties in cemeteries."
+      "explainKo": "정답: So, people set up altars in their homes and have big parties in cemeteries.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "So, people set up altars in their homes and have big parties in cemeteries"
       ],
-      "explainKo": "정답: So, people set up altars in their homes and have big parties in cemeteries."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "18",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "18"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
-      "answers": [
-        "In some areas, people dress up like skeletons and hold big parades."
+      "explainKo": "정답: In some areas, people dress up like skeletons and hold big parades.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "In some areas, people dress up like skeletons and hold big parades"
       ],
-      "explainKo": "정답: In some areas, people dress up like skeletons and hold big parades."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "19",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "19"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
-      "answers": [
-        "At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world."
+      "explainKo": "정답: At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world"
       ],
-      "explainKo": "정답: At the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "20",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "20"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
-      "answers": [
-        "During this festival, visitors can enjoy various winter sports and Alaskan traditional games."
+      "explainKo": "정답: During this festival, visitors can enjoy various winter sports and Alaskan traditional games.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "During this festival, visitors can enjoy various winter sports and Alaskan traditional games"
       ],
-      "explainKo": "정답: During this festival, visitors can enjoy various winter sports and Alaskan traditional games."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "21",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
-      "answers": [
-        "They can also enjoy many special events such as the Running of the Reindeer."
+      "explainKo": "정답: They can also enjoy many special events such as the Running of the Reindeer.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They can also enjoy many special events such as the Running of the Reindeer"
       ],
-      "explainKo": "정답: They can also enjoy many special events such as the Running of the Reindeer."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "22",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22"
     },
     {
-      "id": 23,
+      "sourceId": 23,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
-      "answers": [
-        "People who participate in this race wear fun costumes and try to run faster than reindeer."
+      "explainKo": "정답: People who participate in this race wear fun costumes and try to run faster than reindeer.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "People who participate in this race wear fun costumes and try to run faster than reindeer"
       ],
-      "explainKo": "정답: People who participate in this race wear fun costumes and try to run faster than reindeer."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "23",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "23"
     },
     {
-      "id": 24,
+      "sourceId": 24,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그렇게 하는 것이 가능할까?",
-      "answers": [
+      "explainKo": "정답: Is it possible to do so?",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그렇게 하는 것이 가능할까?",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "Is it possible to do so?"
       ],
-      "explainKo": "정답: Is it possible to do so?"
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "24",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "24"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n사실 그렇지 않지만, 그건 중요하지 않다.",
-      "answers": [
-        "Not really, but it doesn't matter."
+      "explainKo": "정답: Not really, but it doesn't matter.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n사실 그렇지 않지만, 그건 중요하지 않다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Not really, but it doesn't matter"
       ],
-      "explainKo": "정답: Not really, but it doesn't matter."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "25",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "25"
     },
     {
-      "id": 26,
+      "sourceId": 26,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n모두가 그저 즐기고 있을 뿐이다!",
-      "answers": [
+      "explainKo": "정답: Everyone is just having fun!",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n모두가 그저 즐기고 있을 뿐이다!",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "Everyone is just having fun!"
       ],
-      "explainKo": "정답: Everyone is just having fun!"
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "26",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "26"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 우리말에 맞도록 바르게 영작하시오. 26문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 26
     }
   ]
 }

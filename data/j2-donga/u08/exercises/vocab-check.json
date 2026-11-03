@@ -8,691 +8,1307 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "A-01",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nexcept",
-      "answers": [
+      "explainKo": "정답: ~을 제외하고는",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nexcept",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~을 제외하고는",
         "을 제외하고는"
       ],
-      "explainKo": "정답: ~을 제외하고는"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "A-02",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nterrified",
-      "answers": [
+      "explainKo": "정답: 무서워하는, 겁이 난",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nterrified",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "무서워하는, 겁이 난",
         "무서워하는",
         "겁이 난",
-        "무서워하는,겁이 난",
         "무서워하는 겁이 난"
       ],
-      "explainKo": "정답: 무서워하는, 겁이 난"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "A-03",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\ncalm",
-      "answers": [
+      "explainKo": "정답: 침착한",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\ncalm",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "침착한"
       ],
-      "explainKo": "정답: 침착한"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "A-04",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\npanic",
-      "answers": [
+      "explainKo": "정답: 겁에 질려 어쩔 줄 모르다. 극심한 공포",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\npanic",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "겁에 질려 어쩔 줄 모르다. 극심한 공포",
         "겁에 질려 어쩔 줄 모르다",
         "극심한 공포",
         "겁에 질려 어쩔 줄 모르다, 극심한 공포",
-        "겁에 질려 어쩔 줄 모르다 극심한 공포",
-        "겁에 질려 어쩔 줄 모르다,극심한 공포"
+        "겁에 질려 어쩔 줄 모르다 극심한 공포"
       ],
-      "explainKo": "정답: 겁에 질려 어쩔 줄 모르다. 극심한 공포"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "A-05",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nscared",
-      "answers": [
+      "explainKo": "정답: 무서워하는",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nscared",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "무서워하는"
       ],
-      "explainKo": "정답: 무서워하는"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "A-06",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nfinally",
-      "answers": [
+      "explainKo": "정답: 마침내",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nfinally",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "마침내"
       ],
-      "explainKo": "정답: 마침내"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "A-07",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\ninside",
-      "answers": [
+      "explainKo": "정답: 안으로",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\ninside",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "안으로"
       ],
-      "explainKo": "정답: 안으로"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "A-08",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nconfused",
-      "answers": [
+      "explainKo": "정답: 혼란스러워하는",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nconfused",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "혼란스러워하는"
       ],
-      "explainKo": "정답: 혼란스러워하는"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "A-09",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nexplain",
-      "answers": [
+      "explainKo": "정답: 설명하다",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nexplain",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "설명하다"
       ],
-      "explainKo": "정답: 설명하다"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "A-10",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nmud",
-      "answers": [
+      "explainKo": "정답: 진흙",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nmud",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "진흙"
       ],
-      "explainKo": "정답: 진흙"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "A-11",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\npresident",
-      "answers": [
+      "explainKo": "정답: 대통령",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\npresident",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "대통령"
       ],
-      "explainKo": "정답: 대통령"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "11",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "11"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "A-12",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\ncarefully",
-      "answers": [
+      "explainKo": "정답: 주의 깊게",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\ncarefully",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "주의 깊게"
       ],
-      "explainKo": "정답: 주의 깊게"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "12",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "12"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "A-13",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nroar",
-      "answers": [
+      "explainKo": "정답: 포효: 포효하다, 으르렁거리다",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nroar",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "포효: 포효하다, 으르렁거리다",
         "포효",
         "포효하다",
         "으르렁거리다",
         "포효하다, 으르렁거리다",
         "포효, 포효하다, 으르렁거리다",
-        "포효: 포효하다,으르렁거리다",
         "포효: 포효하다 으르렁거리다",
-        "포효:포효하다, 으르렁거리다",
-        "포효하다,으르렁거리다",
         "포효하다 으르렁거리다",
-        "포효,포효하다,으르렁거리다",
         "포효 포효하다 으르렁거리다"
       ],
-      "explainKo": "정답: 포효: 포효하다, 으르렁거리다"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "13",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "A-14",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nstare",
-      "answers": [
+      "explainKo": "정답: 빤히 쳐다보다. 응시하다",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nstare",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "빤히 쳐다보다. 응시하다",
         "빤히 쳐다보다",
         "응시하다",
         "빤히 쳐다보다, 응시하다",
-        "빤히 쳐다보다 응시하다",
-        "빤히 쳐다보다,응시하다"
+        "빤히 쳐다보다 응시하다"
       ],
-      "explainKo": "정답: 빤히 쳐다보다. 응시하다"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "14",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "A-15",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nfog",
-      "answers": [
+      "explainKo": "정답: 안개",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nfog",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "안개"
       ],
-      "explainKo": "정답: 안개"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "15",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "15"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "A-16",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nname",
-      "answers": [
+      "explainKo": "정답: (정확히) 말하다: 이름 짓다: 이름",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nname",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "(정확히) 말하다: 이름 짓다: 이름",
         "(정확히) 말하다",
         "이름 짓다",
         "이름",
-        "정확히 말하다",
         "(정확히) 말하다, 이름 짓다, 이름",
-        "(정확히) 말하다:이름 짓다:이름",
-        "(정확히) 말하다,이름 짓다,이름",
         "(정확히) 말하다 이름 짓다 이름"
       ],
-      "explainKo": "정답: (정확히) 말하다: 이름 짓다: 이름"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "16",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "16"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "A-17",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\ncause",
-      "answers": [
+      "explainKo": "정답: 일으키다, ~의 원인이 되다: 원인",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\ncause",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "일으키다, ~의 원인이 되다: 원인",
         "일으키다",
         "~의 원인이 되다",
         "원인",
         "일으키다, ~의 원인이 되다",
         "일으키다, ~의 원인이 되다, 원인",
-        "일으키다,~의 원인이 되다: 원인",
         "일으키다 ~의 원인이 되다: 원인",
-        "일으키다, ~의 원인이 되다:원인",
-        "일으키다,~의 원인이 되다",
         "일으키다 ~의 원인이 되다",
-        "일으키다,~의 원인이 되다,원인",
         "일으키다 ~의 원인이 되다 원인"
       ],
-      "explainKo": "정답: 일으키다, ~의 원인이 되다: 원인"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "17",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "A-18",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nquiet",
-      "answers": [
+      "explainKo": "정답: 조용한",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nquiet",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "조용한"
       ],
-      "explainKo": "정답: 조용한"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "18",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "18"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "A-19",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nfoolish",
-      "answers": [
+      "explainKo": "정답: 어리석은",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nfoolish",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "어리석은"
       ],
-      "explainKo": "정답: 어리석은"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "19",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "19"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "A-20",
-      "type": "TST",
-      "question": "다음 영어를 우리말로 쓰시오.\nmachine",
-      "answers": [
+      "explainKo": "정답: 기계",
+      "promptEn": "다음 영어를 우리말로 쓰시오.\nmachine",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "기계"
       ],
-      "explainKo": "정답: 기계"
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "20",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "20"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "B-01",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n지시(사항)",
-      "answers": [
+      "explainKo": "정답: instruction",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n지시(사항)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "instruction"
       ],
-      "explainKo": "정답: instruction"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "21",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "B-02",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n목소리",
-      "answers": [
+      "explainKo": "정답: voice",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n목소리",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "voice"
       ],
-      "explainKo": "정답: voice"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "22",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "22"
     },
     {
-      "id": 23,
+      "sourceId": 23,
       "group": "B-03",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n나타나다",
-      "answers": [
+      "explainKo": "정답: appear",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n나타나다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "appear"
       ],
-      "explainKo": "정답: appear"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "23",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "23"
     },
     {
-      "id": 24,
+      "sourceId": 24,
       "group": "B-04",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n표지판, 간판",
-      "answers": [
+      "explainKo": "정답: sign",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n표지판, 간판",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "sign"
       ],
-      "explainKo": "정답: sign"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "24",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "24"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "B-05",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n바꾸다; 변화",
-      "answers": [
+      "explainKo": "정답: change",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n바꾸다; 변화",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "change"
       ],
-      "explainKo": "정답: change"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "25",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "25"
     },
     {
-      "id": 26,
+      "sourceId": 26,
       "group": "B-06",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n갑자기",
-      "answers": [
+      "explainKo": "정답: suddenly",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n갑자기",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "suddenly"
       ],
-      "explainKo": "정답: suddenly"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "26",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "26"
     },
     {
-      "id": 27,
+      "sourceId": 27,
       "group": "B-07",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n공룡",
-      "answers": [
+      "explainKo": "정답: dinosaur",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n공룡",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "dinosaur"
       ],
-      "explainKo": "정답: dinosaur"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "27",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "27"
     },
     {
-      "id": 28,
+      "sourceId": 28,
       "group": "B-08",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n자세히; 가까이",
-      "answers": [
+      "explainKo": "정답: closely",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n자세히; 가까이",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "closely"
       ],
-      "explainKo": "정답: closely"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "28",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "28"
     },
     {
-      "id": 29,
+      "sourceId": 29,
       "group": "B-09",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n상상할 수 없는",
-      "answers": [
+      "explainKo": "정답: unthinkable",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n상상할 수 없는",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "unthinkable"
       ],
-      "explainKo": "정답: unthinkable"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "29",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "29"
     },
     {
-      "id": 30,
+      "sourceId": 30,
       "group": "B-10",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n숨을 쉬다, 호흡하다",
-      "answers": [
+      "explainKo": "정답: breathe",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n숨을 쉬다, 호흡하다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "breathe"
       ],
-      "explainKo": "정답: breathe"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "30",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "30"
     },
     {
-      "id": 31,
+      "sourceId": 31,
       "group": "B-11",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n속삭이다",
-      "answers": [
+      "explainKo": "정답: whisper",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n속삭이다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "whisper"
       ],
-      "explainKo": "정답: whisper"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "31",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "31"
     },
     {
-      "id": 32,
+      "sourceId": 32,
       "group": "B-12",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n설립자, 창립자",
-      "answers": [
+      "explainKo": "정답: founder",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n설립자, 창립자",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "founder"
       ],
-      "explainKo": "정답: founder"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "32",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "32"
     },
     {
-      "id": 33,
+      "sourceId": 33,
       "group": "B-13",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n백만의; 백만",
-      "answers": [
+      "explainKo": "정답: million",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n백만의; 백만",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "million"
       ],
-      "explainKo": "정답: million"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "33",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "33"
     },
     {
-      "id": 34,
+      "sourceId": 34,
       "group": "B-14",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n~ 이후(로)",
-      "answers": [
+      "explainKo": "정답: since",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n~ 이후(로)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "since"
       ],
-      "explainKo": "정답: since"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "34",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "34"
     },
     {
-      "id": 35,
+      "sourceId": 35,
       "group": "B-15",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n따르다; 따라가다",
-      "answers": [
+      "explainKo": "정답: follow",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n따르다; 따라가다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "follow"
       ],
-      "explainKo": "정답: follow"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "35",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "35"
     },
     {
-      "id": 36,
+      "sourceId": 36,
       "group": "B-16",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n충격을 받은",
-      "answers": [
+      "explainKo": "정답: shocked",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n충격을 받은",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "shocked"
       ],
-      "explainKo": "정답: shocked"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "36",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "36"
     },
     {
-      "id": 37,
+      "sourceId": 37,
       "group": "B-17",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n가능한",
-      "answers": [
+      "explainKo": "정답: possible",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n가능한",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "possible"
       ],
-      "explainKo": "정답: possible"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "37",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "37"
     },
     {
-      "id": 38,
+      "sourceId": 38,
       "group": "B-18",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n~을 향하여",
-      "answers": [
+      "explainKo": "정답: toward",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n~을 향하여",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "toward"
       ],
-      "explainKo": "정답: toward"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "38",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "38"
     },
     {
-      "id": 39,
+      "sourceId": 39,
       "group": "B-19",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n길, 오솔길",
-      "answers": [
+      "explainKo": "정답: path",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n길, 오솔길",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "path"
       ],
-      "explainKo": "정답: path"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "39",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "39"
     },
     {
-      "id": 40,
+      "sourceId": 40,
       "group": "B-20",
-      "type": "TST",
-      "question": "다음 우리말을 영어로 쓰시오.\n고요, 침묵",
-      "answers": [
+      "explainKo": "정답: silence",
+      "promptEn": "다음 우리말을 영어로 쓰시오.\n고요, 침묵",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "silence"
       ],
-      "explainKo": "정답: silence"
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": false,
+      "id": "40",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "40"
     },
     {
-      "id": 41,
+      "sourceId": 41,
       "group": "C-01",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nfor a long time",
-      "answers": [
+      "explainKo": "정답: 오랫동안",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nfor a long time",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "오랫동안"
       ],
-      "explainKo": "정답: 오랫동안"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "41",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "41"
     },
     {
-      "id": 42,
+      "sourceId": 42,
       "group": "C-02",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nput ~ in danger",
-      "answers": [
+      "explainKo": "정답: ~을 위험에 빠뜨리다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nput ~ in danger",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~을 위험에 빠뜨리다",
         "을 위험에 빠뜨리다"
       ],
-      "explainKo": "정답: ~을 위험에 빠뜨리다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "42",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "42"
     },
     {
-      "id": 43,
+      "sourceId": 43,
       "group": "C-03",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nreturn to",
-      "answers": [
+      "explainKo": "정답: ~로 돌아가다, ~로 복귀하다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nreturn to",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~로 돌아가다, ~로 복귀하다",
         "~로 돌아가다",
         "~로 복귀하다",
         "~로 돌아가다. ~로 복귀하다",
         "로 돌아가다",
         "로 복귀하다",
-        "~로 돌아가다,~로 복귀하다",
         "~로 돌아가다 ~로 복귀하다"
       ],
-      "explainKo": "정답: ~로 돌아가다, ~로 복귀하다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "43",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "43"
     },
     {
-      "id": 44,
+      "sourceId": 44,
       "group": "C-04",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nbecause of",
-      "answers": [
+      "explainKo": "정답: ~ 때문에",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nbecause of",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~ 때문에",
         "~때문에",
         "때문에"
       ],
-      "explainKo": "정답: ~ 때문에"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "44",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "44"
     },
     {
-      "id": 45,
+      "sourceId": 45,
       "group": "C-05",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nsit down",
-      "answers": [
+      "explainKo": "정답: 앉다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nsit down",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "앉다"
       ],
-      "explainKo": "정답: 앉다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "45",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "45"
     },
     {
-      "id": 46,
+      "sourceId": 46,
       "group": "C-06",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nclose one's eyes",
-      "answers": [
+      "explainKo": "정답: 눈을 감다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nclose one's eyes",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "눈을 감다"
       ],
-      "explainKo": "정답: 눈을 감다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "46",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "46"
     },
     {
-      "id": 47,
+      "sourceId": 47,
       "group": "C-07",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\ntake A to B",
-      "answers": [
+      "explainKo": "정답: A를 B로 데려가다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\ntake A to B",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "A를 B로 데려가다"
       ],
-      "explainKo": "정답: A를 B로 데려가다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": true,
+      "id": "47",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "47"
     },
     {
-      "id": 48,
+      "sourceId": 48,
       "group": "C-08",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\nbe covered in",
-      "answers": [
+      "explainKo": "정답: ~으로 덮여 있다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\nbe covered in",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~으로 덮여 있다",
         "으로 덮여 있다"
       ],
-      "explainKo": "정답: ~으로 덮여 있다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "48",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "48"
     },
     {
-      "id": 49,
+      "sourceId": 49,
       "group": "C-09",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\ngo on",
-      "answers": [
+      "explainKo": "정답: (계속) 일어나다, 발생하다",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\ngo on",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "(계속) 일어나다, 발생하다",
         "(계속) 일어나다",
         "발생하다",
-        "계속 일어나다",
-        "(계속) 일어나다,발생하다",
         "(계속) 일어나다 발생하다"
       ],
-      "explainKo": "정답: (계속) 일어나다, 발생하다"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "49",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "49"
     },
     {
-      "id": 50,
+      "sourceId": 50,
       "group": "C-10",
-      "type": "TST",
-      "question": "다음 영어 표현을 우리말로 쓰시오.\non the news",
-      "answers": [
+      "explainKo": "정답: 뉴스에 나오는, 보도되는",
+      "promptEn": "다음 영어 표현을 우리말로 쓰시오.\non the news",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "뉴스에 나오는, 보도되는",
         "뉴스에 나오는",
         "보도되는",
-        "뉴스에 나오는,보도되는",
         "뉴스에 나오는 보도되는"
       ],
-      "explainKo": "정답: 뉴스에 나오는, 보도되는"
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "phraseBlank": false,
+      "id": "50",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "50"
     },
     {
-      "id": 51,
+      "sourceId": 51,
       "group": "D-01",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n~을 응시하다, 빤히 쳐다보다",
-      "answers": [
+      "explainKo": "정답: stare at",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n~을 응시하다, 빤히 쳐다보다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "stare at",
-        "stareat",
-        "stare  at"
+        "stareat"
       ],
-      "explainKo": "정답: stare at"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "51",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "51"
     },
     {
-      "id": 52,
+      "sourceId": 52,
       "group": "D-02",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\nA를 B로 되돌려 보내다",
-      "answers": [
+      "explainKo": "정답: take A back to B",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\nA를 B로 되돌려 보내다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "take A back to B",
-        "takeAbacktoB",
-        "take  A  back  to  B"
+        "takeAbacktoB"
       ],
-      "explainKo": "정답: take A back to B"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "52",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "52"
     },
     {
-      "id": 53,
+      "sourceId": 53,
       "group": "D-03",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n실수로; 우연히",
-      "answers": [
+      "explainKo": "정답: by accident",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n실수로; 우연히",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "by accident",
-        "byaccident",
-        "by  accident"
+        "byaccident"
       ],
-      "explainKo": "정답: by accident"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "53",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "53"
     },
     {
-      "id": 54,
+      "sourceId": 54,
       "group": "D-04",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n~로 걸어 들어가다",
-      "answers": [
+      "explainKo": "정답: walk into",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n~로 걸어 들어가다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "walk into",
-        "walkinto",
-        "walk  into"
+        "walkinto"
       ],
-      "explainKo": "정답: walk into"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "54",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "54"
     },
     {
-      "id": 55,
+      "sourceId": 55,
       "group": "D-05",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n어떤 때라도, 언제라도",
-      "answers": [
+      "explainKo": "정답: at any time",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n어떤 때라도, 언제라도",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "at any time",
-        "atanytime",
-        "at  any  time"
+        "atanytime"
       ],
-      "explainKo": "정답: at any time"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "55",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "55"
     },
     {
-      "id": 56,
+      "sourceId": 56,
       "group": "D-06",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n둘러보다",
-      "answers": [
+      "explainKo": "정답: look around",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n둘러보다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "look around",
-        "lookaround",
-        "look  around"
+        "lookaround"
       ],
-      "explainKo": "정답: look around"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "56",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "56"
     },
     {
-      "id": 57,
+      "sourceId": 57,
       "group": "D-07",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n혼잣말하다",
-      "answers": [
+      "explainKo": "정답: say to oneself",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n혼잣말하다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "say to oneself",
-        "saytooneself",
-        "say  to  oneself"
+        "saytooneself"
       ],
-      "explainKo": "정답: say to oneself"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "57",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "57"
     },
     {
-      "id": 58,
+      "sourceId": 58,
       "group": "D-08",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n이루어지다, 실현되다",
-      "answers": [
+      "explainKo": "정답: come true",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n이루어지다, 실현되다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "come true",
-        "cometrue",
-        "come  true"
+        "cometrue"
       ],
-      "explainKo": "정답: come true"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "58",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "58"
     },
     {
-      "id": 59,
+      "sourceId": 59,
       "group": "D-09",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n~에서 내리다; ~에서 나오다",
-      "answers": [
+      "explainKo": "정답: get out of",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n~에서 내리다; ~에서 나오다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "get out of",
-        "getoutof",
-        "get  out  of"
+        "getoutof"
       ],
-      "explainKo": "정답: get out of"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "59",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "59"
     },
     {
-      "id": 60,
+      "sourceId": 60,
       "group": "D-10",
-      "type": "TST",
-      "question": "다음 우리말 표현을 영어로 쓰시오.\n돌아서다. 몸을 돌리다",
-      "answers": [
+      "explainKo": "정답: turn around",
+      "promptEn": "다음 우리말 표현을 영어로 쓰시오.\n돌아서다. 몸을 돌리다",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "turn around",
-        "turnaround",
-        "turn  around"
+        "turnaround"
       ],
-      "explainKo": "정답: turn around"
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "phraseBlank": true,
+      "id": "60",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "60"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 영어를 우리말로 쓰시오. 20문항, 다음 우리말을 영어로 쓰시오. 20문항, 다음 영어 표현을 우리말로 쓰시오. 10문항, 다음 우리말 표현을 영어로 쓰시오. 10문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "instructionKo": "다음 영어를 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 20
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "instructionKo": "다음 우리말을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 20
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 영어 표현을 우리말로 쓰시오.",
+      "directionKo": "다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "instructionKo": "다음 영어 표현을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요. 같은 뜻이면 답안에 있는 말 중 하나로 쓰면 됩니다.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 우리말 표현을 영어로 쓰시오.",
+      "directionKo": "다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "instructionKo": "다음 우리말 표현을 영어로 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
     }
   ]
 }

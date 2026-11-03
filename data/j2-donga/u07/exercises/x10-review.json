@@ -8,417 +8,612 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "A-01",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n01. People in Valencia celebrate the coming of spring with the Fallas festival.",
-      "answers": [
+      "explainKo": "정답: T",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n01. People in Valencia celebrate the coming of spring with the Fallas festival.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "1",
-      "explainKo": "정답: T"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "A-02",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n02. The Fallas festival takes place from April 15 to 19.",
-      "answers": [
+      "explainKo": "정답: F. April → March",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n02. The Fallas festival takes place from April 15 to 19.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "2",
-      "explainKo": "정답: F. April → March"
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "A-03",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n03. Winter in Sweden is short and dark, so the people there especially welcome summer.",
-      "answers": [
+      "explainKo": "정답: F. short → long",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n03. Winter in Sweden is short and dark, so the people there especially welcome summer.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "2",
-      "explainKo": "정답: F. short → long"
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "A-04",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n04. During the Midsummer festival, people decorate a tall pole with flowers and green leaves.",
-      "answers": [
+      "explainKo": "정답: T",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n04. During the Midsummer festival, people decorate a tall pole with flowers and green leaves.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "1",
-      "explainKo": "정답: T"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "A-05",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n05. To welcome dead people, Indians hold a festival on November 1 and 2.",
-      "answers": [
+      "explainKo": "정답: F. Indians → Mexicans",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n05. To welcome dead people, Indians hold a festival on November 1 and 2.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "2",
-      "explainKo": "정답: F. Indians → Mexicans"
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "A-06",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n06. At the end of February, people in Alaska hold the Fur Rondy festival.",
-      "answers": [
+      "explainKo": "정답: T",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n06. At the end of February, people in Alaska hold the Fur Rondy festival.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "1",
-      "explainKo": "정답: T"
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "A-07",
-      "type": "TMC",
-      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n07. During the Fur Rondy festival, visitors can enjoy various winter sports and Alaskan modern games.",
-      "answers": [
+      "explainKo": "정답: F. modern → traditional",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n07. During the Fur Rondy festival, visitors can enjoy various winter sports and Alaskan modern games.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "T",
         "F"
       ],
-      "corAns": "2",
-      "explainKo": "정답: F. modern → traditional"
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "B-01",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n01. The stars of the festival are fallas, giant wooden statues.",
-      "answers": [
-        "O",
-        "O.",
-        "○",
-        "○.",
-        "o",
-        "o."
-      ],
-      "explainKo": "정답: O"
+      "explainKo": "정답: O",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n01. The stars of the festival are fallas, giant wooden statues.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "8",
+      "section": "s2",
+      "sectionTitle": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "B-02",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n02. Surprisingly, the fallas burned on the last day of the festival.",
-      "answers": [
-        "X are burned",
-        "Xareburned",
-        "X  are  burned",
-        "X are burned.",
-        "X, are burned",
-        "X,areburned",
-        "X,  are  burned",
-        "X,are burned",
-        "X, are burned.",
-        "× are burned",
-        "×areburned",
-        "×  are  burned",
-        "× are burned.",
-        "burned → are burned",
-        "burned→areburned",
-        "burned  →  are  burned",
-        "burned → are burned.",
+      "explainKo": "정답: X are burned",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n02. Surprisingly, the fallas burned on the last day of the festival.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "X",
+      "rewriteAccept": [
         "are burned",
-        "areburned",
-        "are  burned",
-        "are burned.",
-        "Surprisingly, the fallas are burned on the last day of the festival.",
-        "Surprisingly,thefallasareburnedonthelastdayofthefestival.",
-        "Surprisingly,  the  fallas  are  burned  on  the  last  day  of  the  festival.",
-        "Surprisingly,the fallas are burned on the last day of the festival.",
-        "Surprisingly the fallas are burned on the last day of the festival.",
-        "Surprisingly, the fallas are burned on the last day of the festival"
+        "areburned"
       ],
-      "explainKo": "정답: X are burned"
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "9",
+      "section": "s3",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "B-03",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n03. To celebrate the longer day of the year, they have a special festival.",
-      "answers": [
-        "X longest",
-        "Xlongest",
-        "X  longest",
-        "X longest.",
-        "X, longest",
-        "X,longest",
-        "X,  longest",
-        "X, longest.",
-        "× longest",
-        "×longest",
-        "×  longest",
-        "× longest.",
-        "longer → longest",
-        "longer→longest",
-        "longer  →  longest",
-        "longer → longest.",
-        "longest",
-        "longest.",
-        "To celebrate the longest day of the year, they have a special festival.",
-        "Tocelebratethelongestdayoftheyear,theyhaveaspecialfestival.",
-        "To  celebrate  the  longest  day  of  the  year,  they  have  a  special  festival.",
-        "To celebrate the longest day of the year,they have a special festival.",
-        "To celebrate the longest day of the year they have a special festival.",
-        "To celebrate the longest day of the year, they have a special festival"
+      "explainKo": "정답: X longest",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n03. To celebrate the longer day of the year, they have a special festival.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "longest"
       ],
-      "explainKo": "정답: X longest"
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "10",
+      "section": "s3",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "B-04",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n04. They call it the Midsummer festival.",
-      "answers": [
-        "O",
-        "O.",
-        "○",
-        "○.",
-        "o",
-        "o."
-      ],
-      "explainKo": "정답: O"
+      "explainKo": "정답: O",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n04. They call it the Midsummer festival.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "11",
+      "section": "s4",
+      "sectionTitle": "Section D · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "11"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "B-05",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n05. Many Mexicans believe that once a year dead people come back home.",
-      "answers": [
-        "O",
-        "O.",
-        "○",
-        "○.",
-        "o",
-        "o."
-      ],
-      "explainKo": "정답: O"
+      "explainKo": "정답: O",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n05. Many Mexicans believe that once a year dead people come back home.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "12",
+      "section": "s4",
+      "sectionTitle": "Section D · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "12"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "B-06",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n06. In some areas, people dress up like skeletons and held big parades.",
-      "answers": [
-        "X hold",
-        "Xhold",
-        "X  hold",
-        "X hold.",
-        "X, hold",
-        "X,hold",
-        "X,  hold",
-        "X, hold.",
-        "× hold",
-        "×hold",
-        "×  hold",
-        "× hold.",
-        "held → hold",
-        "held→hold",
-        "held  →  hold",
-        "held → hold.",
-        "hold",
-        "hold.",
-        "In some areas, people dress up like skeletons and hold big parades.",
-        "Insomeareas,peopledressuplikeskeletonsandholdbigparades.",
-        "In  some  areas,  people  dress  up  like  skeletons  and  hold  big  parades.",
-        "In some areas,people dress up like skeletons and hold big parades.",
-        "In some areas people dress up like skeletons and hold big parades.",
-        "In some areas, people dress up like skeletons and hold big parades"
+      "explainKo": "정답: X hold",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n06. In some areas, people dress up like skeletons and held big parades.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "hold"
       ],
-      "explainKo": "정답: X hold"
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "13",
+      "section": "s5",
+      "sectionTitle": "Section E · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "B-07",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n07. People which participate in this race wear fun costumes.",
-      "answers": [
-        "X who",
-        "Xwho",
-        "X  who",
-        "X who.",
-        "X, who",
-        "X,who",
-        "X,  who",
-        "X, who.",
-        "× who",
-        "×who",
-        "×  who",
-        "× who.",
-        "which → who",
-        "which→who",
-        "which  →  who",
-        "which → who.",
-        "who",
-        "who.",
-        "People who participate in this race wear fun costumes.",
-        "Peoplewhoparticipateinthisracewearfuncostumes.",
-        "People  who  participate  in  this  race  wear  fun  costumes.",
-        "People who participate in this race wear fun costumes"
+      "explainKo": "정답: X who",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n07. People which participate in this race wear fun costumes.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "who"
       ],
-      "explainKo": "정답: X who"
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "14",
+      "section": "s5",
+      "sectionTitle": "Section E · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "B-08",
-      "type": "TST",
-      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n08. Is it possible to do so? Not really, but it doesn't matter.",
-      "answers": [
-        "O",
-        "O.",
-        "○",
-        "○.",
-        "o",
-        "o."
-      ],
-      "explainKo": "정답: O"
+      "explainKo": "정답: O",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n08. Is it possible to do so? Not really, but it doesn't matter.",
+      "type": "ox",
+      "answerMode": "choice",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "15",
+      "section": "s6",
+      "sectionTitle": "Section F · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "15"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "C-01",
-      "type": "TST",
-      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n01. You can find (hundred) of them all over the city.\n여러분은 도시 곳곳에서 수백 개의 그것들(조각상들)을 볼 수 있다.",
-      "answers": [
-        "You can find hundreds of them all over the city.",
-        "Youcanfindhundredsofthemalloverthecity.",
-        "You  can  find  hundreds  of  them  all  over  the  city.",
-        "You can find hundreds of them all over the city"
+      "explainKo": "정답: You can find hundreds of them all over the city.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n01. You can find (hundred) of them all over the city.\n여러분은 도시 곳곳에서 수백 개의 그것들(조각상들)을 볼 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "You can find hundreds of them all over the city",
+        "Youcanfindhundredsofthemalloverthecity"
       ],
-      "explainKo": "정답: You can find hundreds of them all over the city."
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "16",
+      "section": "s7",
+      "sectionTitle": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "16"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "C-02",
-      "type": "TST",
-      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n02. (Burn) them symbolizes saying goodbye to old things.\n그것들을 불태우는 것은 오래된 것들과 작별하는 것을 상징한다.",
-      "answers": [
-        "Burning them symbolizes saying goodbye to old things.",
-        "Burningthemsymbolizessayinggoodbyetooldthings.",
-        "Burning  them  symbolizes  saying  goodbye  to  old  things.",
-        "Burning them symbolizes saying goodbye to old things"
+      "explainKo": "정답: Burning them symbolizes saying goodbye to old things.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n02. (Burn) them symbolizes saying goodbye to old things.\n그것들을 불태우는 것은 오래된 것들과 작별하는 것을 상징한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Burning them symbolizes saying goodbye to old things",
+        "Burningthemsymbolizessayinggoodbyetooldthings"
       ],
-      "explainKo": "정답: Burning them symbolizes saying goodbye to old things."
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "17",
+      "section": "s7",
+      "sectionTitle": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "17"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "C-03",
-      "type": "TST",
-      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n03. They believe it is important (remember) dead people.\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
-      "answers": [
-        "They believe it is important to remember dead people.",
-        "Theybelieveitisimportanttorememberdeadpeople.",
-        "They  believe  it  is  important  to  remember  dead  people.",
-        "They believe it is important to remember dead people"
+      "explainKo": "정답: They believe it is important to remember dead people.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n03. They believe it is important (remember) dead people.\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They believe it is important to remember dead people",
+        "Theybelieveitisimportanttorememberdeadpeople"
       ],
-      "explainKo": "정답: They believe it is important to remember dead people."
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "18",
+      "section": "s7",
+      "sectionTitle": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "18"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "C-04",
-      "type": "TST",
-      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n04. People in Alaska hold the Fur Rondy festival, one of the (big) winter festivals in the world.\n알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
-      "answers": [
-        "People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.",
-        "PeopleinAlaskaholdtheFurRondyfestival,oneofthebiggestwinterfestivalsintheworld.",
-        "People  in  Alaska  hold  the  Fur  Rondy  festival,  one  of  the  biggest  winter  festivals  in  the  world.",
-        "People in Alaska hold the Fur Rondy festival,one of the biggest winter festivals in the world.",
-        "People in Alaska hold the Fur Rondy festival one of the biggest winter festivals in the world.",
-        "People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world"
+      "explainKo": "정답: People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n04. People in Alaska hold the Fur Rondy festival, one of the (big) winter festivals in the world.\n알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world",
+        "PeopleinAlaskaholdtheFurRondyfestival,oneofthebiggestwinterfestivalsintheworld",
+        "People in Alaska hold the Fur Rondy festival one of the biggest winter festivals in the world"
       ],
-      "explainKo": "정답: People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world."
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "19",
+      "section": "s7",
+      "sectionTitle": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "19"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "C-05",
-      "type": "TST",
-      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n05. People who participate in this race wear fun costumes and try to run (fast) than reindeer.\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
-      "answers": [
-        "People who participate in this race wear fun costumes and try to run faster than reindeer.",
-        "Peoplewhoparticipateinthisracewearfuncostumesandtrytorunfasterthanreindeer.",
-        "People  who  participate  in  this  race  wear  fun  costumes  and  try  to  run  faster  than  reindeer.",
-        "People who participate in this race wear fun costumes and try to run faster than reindeer"
+      "explainKo": "정답: People who participate in this race wear fun costumes and try to run faster than reindeer.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n05. People who participate in this race wear fun costumes and try to run (fast) than reindeer.\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "People who participate in this race wear fun costumes and try to run faster than reindeer",
+        "Peoplewhoparticipateinthisracewearfuncostumesandtrytorunfasterthanreindeer"
       ],
-      "explainKo": "정답: People who participate in this race wear fun costumes and try to run faster than reindeer."
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "20",
+      "section": "s7",
+      "sectionTitle": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "20"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "D-01",
-      "type": "TST",
-      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n01. While the festival, people enjoy parades and fireworks.\n축제 기간 동안, 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
-      "answers": [
-        "During the festival, people enjoy parades and fireworks.",
-        "Duringthefestival,peopleenjoyparadesandfireworks.",
-        "During  the  festival,  people  enjoy  parades  and  fireworks.",
-        "During the festival,people enjoy parades and fireworks.",
-        "During the festival people enjoy parades and fireworks.",
-        "During the festival, people enjoy parades and fireworks"
+      "explainKo": "정답: During the festival, people enjoy parades and fireworks.",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n01. While the festival, people enjoy parades and fireworks.\n축제 기간 동안, 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "During the festival, people enjoy parades and fireworks",
+        "Duringthefestival,peopleenjoyparadesandfireworks",
+        "During the festival people enjoy parades and fireworks"
       ],
-      "explainKo": "정답: During the festival, people enjoy parades and fireworks."
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "21",
+      "section": "s8",
+      "sectionTitle": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "D-02",
-      "type": "TST",
-      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n02. The festival starts on the Friday evening between June 19 and 25 and end on the Sunday.\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
-      "answers": [
-        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.",
-        "ThefestivalstartsontheFridayeveningbetweenJune19and25andendsontheSunday.",
-        "The  festival  starts  on  the  Friday  evening  between  June  19  and  25  and  ends  on  the  Sunday.",
-        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday"
+      "explainKo": "정답: The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n02. The festival starts on the Friday evening between June 19 and 25 and end on the Sunday.\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday",
+        "ThefestivalstartsontheFridayeveningbetweenJune19and25andendsontheSunday"
       ],
-      "explainKo": "정답: The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday."
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "22",
+      "section": "s8",
+      "sectionTitle": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22"
     },
     {
-      "id": 23,
+      "sourceId": 23,
       "group": "D-03",
-      "type": "TST",
-      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n03. Because the sun hard sets at this time of year in Sweden, people can enjoy the festival all night long.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
-      "answers": [
-        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.",
-        "BecausethesunhardlysetsatthistimeofyearinSweden,peoplecanenjoythefestivalallnightlong.",
-        "Because  the  sun  hardly  sets  at  this  time  of  year  in  Sweden,  people  can  enjoy  the  festival  all  night  long.",
-        "Because the sun hardly sets at this time of year in Sweden,people can enjoy the festival all night long.",
-        "Because the sun hardly sets at this time of year in Sweden people can enjoy the festival all night long.",
-        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long"
+      "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n03. Because the sun hard sets at this time of year in Sweden, people can enjoy the festival all night long.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long",
+        "BecausethesunhardlysetsatthistimeofyearinSweden,peoplecanenjoythefestivalallnightlong",
+        "Because the sun hardly sets at this time of year in Sweden people can enjoy the festival all night long"
       ],
-      "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long."
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "23",
+      "section": "s8",
+      "sectionTitle": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "23"
     },
     {
-      "id": 24,
+      "sourceId": 24,
       "group": "D-04",
-      "type": "TST",
-      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n04. People set up altars in their homes and have big party in cemeteries.\n사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
-      "answers": [
-        "People set up altars in their homes and have big parties in cemeteries.",
-        "Peoplesetupaltarsintheirhomesandhavebigpartiesincemeteries.",
-        "People  set  up  altars  in  their  homes  and  have  big  parties  in  cemeteries.",
-        "People set up altars in their homes and have big parties in cemeteries"
+      "explainKo": "정답: People set up altars in their homes and have big parties in cemeteries.",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n04. People set up altars in their homes and have big party in cemeteries.\n사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "People set up altars in their homes and have big parties in cemeteries",
+        "Peoplesetupaltarsintheirhomesandhavebigpartiesincemeteries"
       ],
-      "explainKo": "정답: People set up altars in their homes and have big parties in cemeteries."
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "24",
+      "section": "s8",
+      "sectionTitle": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "24"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "D-05",
-      "type": "TST",
-      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n05. They can also enjoy many special events such the Running of the Reindeer.\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
-      "answers": [
-        "They can also enjoy many special events such as the Running of the Reindeer.",
-        "TheycanalsoenjoymanyspecialeventssuchastheRunningoftheReindeer.",
-        "They  can  also  enjoy  many  special  events  such  as  the  Running  of  the  Reindeer.",
-        "They can also enjoy many special events such as the Running of the Reindeer"
+      "explainKo": "정답: They can also enjoy many special events such as the Running of the Reindeer.",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n05. They can also enjoy many special events such the Running of the Reindeer.\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They can also enjoy many special events such as the Running of the Reindeer",
+        "TheycanalsoenjoymanyspecialeventssuchastheRunningoftheReindeer"
       ],
-      "explainKo": "정답: They can also enjoy many special events such as the Running of the Reindeer."
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "25",
+      "section": "s8",
+      "sectionTitle": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "25"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를… 7문항, B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고… 1문항, B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고… 2문항, B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고… 2문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를…",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 7
+    },
+    {
+      "id": "s2",
+      "title": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 2
+    },
+    {
+      "id": "s4",
+      "title": "Section D · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 2
+    },
+    {
+      "id": "s6",
+      "title": "Section F · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고…",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
+    },
+    {
+      "id": "s8",
+      "title": "Section H · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰…",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
     }
   ]
 }
