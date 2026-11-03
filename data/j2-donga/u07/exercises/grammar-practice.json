@@ -7,7 +7,7 @@
     146,
     147
   ],
-  "questionCount": 14,
+  "questionCount": 15,
   "omitted": [],
   "questions": [
     {
@@ -287,36 +287,45 @@
       "sourceId": 11,
       "group": "11",
       "explainKo": "정답: she is → her. 「call + 목적어 + 목적격보어」 형태의 5형식 문장이 되어야 하므로 she is를 her로 바꾸어야 한다. 사람들은 그녀를 날개 없는 천사라고 부른다.",
-      "promptEn": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nPeople call she is an angel without wings.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "she is"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "her"
-          ]
-        }
-      ],
-      "id": "11",
       "section": "s9",
-      "sectionTitle": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "12"
+      "sectionTitle": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "11-wrong",
+      "label": "12-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "she is"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nPeople call she is an angel without wings.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 11,
+      "group": "11",
+      "explainKo": "정답: she is → her. 「call + 목적어 + 목적격보어」 형태의 5형식 문장이 되어야 하므로 she is를 her로 바꾸어야 한다. 사람들은 그녀를 날개 없는 천사라고 부른다.",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "11-fix",
+      "label": "12-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "her"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nPeople call she is an angel without wings.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 12,
@@ -452,13 +461,13 @@
     },
     {
       "id": "s9",
-      "title": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "directionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
     },
     {
       "id": "s10",

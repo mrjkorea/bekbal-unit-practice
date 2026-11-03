@@ -4,7 +4,7 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "230-233",
-  "questionCount": 25,
+  "questionCount": 26,
   "omitted": [],
   "questions": [
     {
@@ -452,36 +452,47 @@
       "sourceId": 19,
       "group": "19",
       "explainKo": "ⓐ 문맥상 티라노사우루스가 Eckels를 보는 것을 원치 않는다는 의미이므로 it은 a T. rex를 가리킨다. ⓑ 티라노사우루스가 Travis의 목소리를 듣고 그에게 고개를 돌렸다는 의미이므로 him은 Travis를 가리킨다.",
-      "promptEn": "다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want ⓐit to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walking quietly back to the machine.\"\n\nEckels turned around and started to run. He was so terrified that he left the path by accident.\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward ⓑhim and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "phraseBlank": true,
-      "id": "19",
       "section": "s19",
-      "sectionTitle": "Section S · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
+      "sectionTitle": "Section S · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-ca",
+      "label": "19-ⓐ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "a T. rex"
+      ],
+      "phraseBlank": true,
+      "directionKo": "밑줄 친 ⓐ가 가리키는 것만 쓰시오.",
+      "ruleKo": "ⓐ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓐ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want ⓐit to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walking quietly back to the machine.\"\n\nEckels turned around and started to run. He was so terrified that he left the path by accident.\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward ⓑhim and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar.\n\n밑줄 친 ⓐ가 가리키는 것만 쓰시오.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "ⓐ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "a T. rex"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "ⓑ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "Travis"
-          ]
-        }
-      ]
+      "partLabel": "ⓐ",
+      "focusBlank": "ⓐ"
+    },
+    {
+      "sourceId": 19,
+      "group": "19",
+      "explainKo": "ⓐ 문맥상 티라노사우루스가 Eckels를 보는 것을 원치 않는다는 의미이므로 it은 a T. rex를 가리킨다. ⓑ 티라노사우루스가 Travis의 목소리를 듣고 그에게 고개를 돌렸다는 의미이므로 him은 Travis를 가리킨다.",
+      "section": "s19",
+      "sectionTitle": "Section S · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-cb",
+      "label": "19-ⓑ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Travis"
+      ],
+      "phraseBlank": false,
+      "directionKo": "밑줄 친 ⓑ가 가리키는 것만 쓰시오.",
+      "ruleKo": "ⓑ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓑ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want ⓐit to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walking quietly back to the machine.\"\n\nEckels turned around and started to run. He was so terrified that he left the path by accident.\n\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\nThe T. rex heard Travis and turned its head toward ⓑhim and the other travelers. There was a moment of silence. Then, it suddenly started to run toward them with a loud roar.\n\n밑줄 친 ⓑ가 가리키는 것만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "ⓑ",
+      "focusBlank": "ⓑ"
     },
     {
       "sourceId": 20,
@@ -825,13 +836,13 @@
     },
     {
       "id": "s19",
-      "title": "Section S · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
-      "answerMode": "parts",
+      "title": "Section S · 표시된 빈칸 하나만 쓰기",
+      "directionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s20",

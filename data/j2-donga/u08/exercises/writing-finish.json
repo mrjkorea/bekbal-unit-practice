@@ -9,7 +9,7 @@
     "224",
     "225"
   ],
-  "questionCount": 34,
+  "questionCount": 38,
   "omitted": [],
   "questions": [
     {
@@ -224,73 +224,95 @@
       "sourceId": 9,
       "group": "09",
       "explainKo": "(1) 현재완료의 부정문은 has 뒤에 not을 쓴다. (2) 내용 흐름상 휴대폰에 문제가 있는 것이므로 nothing을 something으로 고쳐야 한다.",
-      "promptEn": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "틀린 곳이 여러 개면, 이 문항은 1번째만 고칩니다.",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "doesn't have worked"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "has not worked",
-            "hasn't worked",
-            "has not (hasn't) worked"
-          ]
-        }
-      ],
-      "id": "9-1",
       "section": "s9",
-      "sectionTitle": "Section I · [09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰…",
-      "sectionInstructionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "10"
+      "sectionTitle": "Section I · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-1-wrong",
+      "label": "10-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "doesn't have worked"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (1)만 다룹니다. 틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말",
+      "focusBlank": "1"
     },
     {
       "sourceId": 9,
       "group": "09",
       "explainKo": "(1) 현재완료의 부정문은 has 뒤에 not을 쓴다. (2) 내용 흐름상 휴대폰에 문제가 있는 것이므로 nothing을 something으로 고쳐야 한다.",
-      "promptEn": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "틀린 곳이 여러 개면, 이 문항은 2번째만 고칩니다.",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "nothing"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "something"
-          ]
-        }
-      ],
-      "id": "9-2",
       "section": "s9",
-      "sectionTitle": "Section I · [09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰…",
-      "sectionInstructionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "11"
+      "sectionTitle": "Section I · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-1-fix",
+      "label": "10-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "has not worked",
+        "hasn't worked",
+        "has not (hasn't) worked"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (1)만 다룹니다. 고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말",
+      "focusBlank": "1"
+    },
+    {
+      "sourceId": 9,
+      "group": "09",
+      "explainKo": "(1) 현재완료의 부정문은 has 뒤에 not을 쓴다. (2) 내용 흐름상 휴대폰에 문제가 있는 것이므로 nothing을 something으로 고쳐야 한다.",
+      "section": "s9",
+      "sectionTitle": "Section I · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-2-wrong",
+      "label": "11-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "nothing"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (2)만 다룹니다. 틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말",
+      "focusBlank": "2"
+    },
+    {
+      "sourceId": 9,
+      "group": "09",
+      "explainKo": "(1) 현재완료의 부정문은 has 뒤에 not을 쓴다. (2) 내용 흐름상 휴대폰에 문제가 있는 것이므로 nothing을 something으로 고쳐야 한다.",
+      "section": "s9",
+      "sectionTitle": "Section I · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "9-2-fix",
+      "label": "11-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "something"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (2)만 다룹니다. 고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nMy phone doesn't have worked since yesterday.\nThere must be nothing wrong with it.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말",
+      "focusBlank": "2"
     },
     {
       "sourceId": 10,
@@ -330,8 +352,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            1
-          ]
+            0
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -342,7 +365,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓐ만 고칩니다.",
+      "promptKo": "이 문항은 ⓐ만 고칩니다.",
       "id": "11-1",
       "section": "s11",
       "sectionTitle": "Section K · [11] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
@@ -369,8 +392,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            2
-          ]
+            1
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -381,7 +405,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 여러 개면, 이 문항은 ⓑ만 고칩니다.",
+      "promptKo": "이 문항은 ⓑ만 고칩니다.",
       "id": "11-2",
       "section": "s11",
       "sectionTitle": "Section K · [11] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
@@ -539,7 +563,7 @@
       "sourceId": 18,
       "group": "16-18",
       "explainKo": "정답: ⓐ something unthinkable ⓑ anything foolish",
-      "promptEn": "[18] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. (A) 그는 발밑에서 타임머신이 움직이는 것을 느꼈다. After only a few minutes, the machine stopped.\n\n\"(B) 우리는 이제 막 6천만 년 전 정글에 도착했습니다.\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ⓐ ______ in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓑ ______.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것)\n보기: unthinkable, foolish, something, anything, nothing",
+      "promptEn": "[18] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. (A) 그는 발밑에서 타임머신이 움직이는 것을 느꼈다. After only a few minutes, the machine stopped.\n\n\"(B) 우리는 이제 막 6천만 년 전 정글에 도착했습니다.\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ⓐ ______ in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓑ ______.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n이 카드는 ⓐ 빈칸만 순서대로 누르시오.\n보기: unthinkable, foolish, something, anything, nothing",
       "type": "order",
       "answerMode": "order",
       "orderChunks": [
@@ -569,13 +593,13 @@
         "w0"
       ],
       "focusBlank": "ⓐ",
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것)",
+      "directionKo": "이 카드는 ⓐ 빈칸만 순서대로 누르시오.",
       "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
       "promptKo": "이 문항은 ⓐ 빈칸만 고릅니다.",
       "id": "18-ⓐ",
       "section": "s18",
-      "sectionTitle": "Section R · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 …",
-      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것) 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "sectionTitle": "Section R · 표시된 빈칸만 순서대로 누르기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸만 순서대로 누르시오. 다른 번호는 누르지 않아요. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
       "answerModeTag": "Choose · 순서 누르기",
       "label": "21"
     },
@@ -583,7 +607,7 @@
       "sourceId": 18,
       "group": "16-18",
       "explainKo": "정답: ⓐ something unthinkable ⓑ anything foolish",
-      "promptEn": "[18] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. (A) 그는 발밑에서 타임머신이 움직이는 것을 느꼈다. After only a few minutes, the machine stopped.\n\n\"(B) 우리는 이제 막 6천만 년 전 정글에 도착했습니다.\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ⓐ ______ in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓑ ______.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것)\n보기: unthinkable, foolish, something, anything, nothing",
+      "promptEn": "[18] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. (A) 그는 발밑에서 타임머신이 움직이는 것을 느꼈다. After only a few minutes, the machine stopped.\n\n\"(B) 우리는 이제 막 6천만 년 전 정글에 도착했습니다.\" Travis explained. \"Do you see the path over there? You must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ⓐ ______ in the future.\"\n\nSlowly, everyone got out of the time machine. The jungle was covered in fog. It was very quiet.\n\n\"I'm so excited,\" said Eckels.\n\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you to do ⓑ ______.\"\n\n\"Don't worry. I'm not a fool,\" said Eckels.\n\nThey all began to walk on the path.\n\n이 카드는 ⓑ 빈칸만 순서대로 누르시오.\n보기: unthinkable, foolish, something, anything, nothing",
       "type": "order",
       "answerMode": "order",
       "orderChunks": [
@@ -613,13 +637,13 @@
         "w1"
       ],
       "focusBlank": "ⓑ",
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것)",
+      "directionKo": "이 카드는 ⓑ 빈칸만 순서대로 누르시오.",
       "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
       "promptKo": "이 문항은 ⓑ 빈칸만 고릅니다.",
       "id": "18-ⓑ",
       "section": "s18",
-      "sectionTitle": "Section R · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 …",
-      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것) 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "sectionTitle": "Section R · 표시된 빈칸만 순서대로 누르기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸만 순서대로 누르시오. 다른 번호는 누르지 않아요. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
       "answerModeTag": "Choose · 순서 누르기",
       "label": "22"
     },
@@ -646,7 +670,7 @@
       "sourceId": 20,
       "group": "19-21",
       "explainKo": "정답: ⓐ so ⓑ that",
-      "promptEn": "[20] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
+      "promptEn": "[20] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n이 카드는 ⓐ 빈칸에 들어갈 말만 쓰시오.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -654,13 +678,13 @@
       ],
       "focusBlank": "ⓐ",
       "phraseBlank": false,
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
+      "directionKo": "이 카드는 ⓐ 빈칸에 들어갈 말만 쓰시오.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "promptKo": "이 문항은 ⓐ 빈칸만 씁니다.",
       "id": "20-ⓐ",
       "section": "s20",
-      "sectionTitle": "Section T · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionTitle": "Section T · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
       "label": "24"
     },
@@ -668,7 +692,7 @@
       "sourceId": 20,
       "group": "19-21",
       "explainKo": "정답: ⓐ so ⓑ that",
-      "promptEn": "[20] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
+      "promptEn": "[20] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\n\nOne hundred meters away, a T. rex slowly appeared.\n\n\"It,\" whispered Eckels. \"It...\"\n\n\"Sh!\"\n\n\"It... is huge. (A) I've never see such huge a thing. I'm so scared,\" said Eckels.\n\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\n\nEckels turned around and started to run. He was ⓐ ______ terrified ⓑ ______ he left the path by accident.\n\n이 카드는 ⓑ 빈칸에 들어갈 말만 쓰시오.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -676,13 +700,13 @@
       ],
       "focusBlank": "ⓑ",
       "phraseBlank": false,
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
+      "directionKo": "이 카드는 ⓑ 빈칸에 들어갈 말만 쓰시오.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "promptKo": "이 문항은 ⓑ 빈칸만 씁니다.",
       "id": "20-ⓑ",
       "section": "s20",
-      "sectionTitle": "Section T · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionTitle": "Section T · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
       "label": "25"
     },
@@ -812,72 +836,93 @@
       "sourceId": 23,
       "group": "22-25",
       "explainKo": "didn't kill nothing은 anything이 되어야 한다. It's all because this little thing은 because of가 되어야 한다.",
-      "promptEn": "[23] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\nTravis stared at Eckels for a long time without ⓑsaying anything.\n\"Let's go home,\" said Travis finally.\nThe machine stopped. They all returned to the present safely.\n\"Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\nEckels looked around the room carefully. Everything ⓒlooked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got ⓓmore confused.\nHe sat down and looked closely at the mud on his shoes.\n\"No, it can't be,\" said Eckels. \"It's all ⓔbecause this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "phraseBlank": true,
-      "id": "23",
       "section": "s23",
-      "sectionTitle": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, …",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오. 이 빈칸 말만 쓰세요.",
+      "sectionTitle": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, … · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "23-ca",
+      "label": "29-ⓐ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "anything"
+      ],
+      "phraseBlank": false,
+      "directionKo": "ⓐ만 바르게 고친 말만 쓰시오.",
+      "ruleKo": "ⓐ를 고친 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓐ를 고친 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "[23] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\nTravis stared at Eckels for a long time without ⓑsaying anything.\n\"Let's go home,\" said Travis finally.\nThe machine stopped. They all returned to the present safely.\n\"Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\nEckels looked around the room carefully. Everything ⓒlooked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got ⓓmore confused.\nHe sat down and looked closely at the mud on his shoes.\n\"No, it can't be,\" said Eckels. \"It's all ⓔbecause this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\nⓐ만 바르게 고친 말만 쓰시오.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "29",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "ⓐ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "anything"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "ⓔ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "because of"
-          ]
-        }
-      ]
+      "partLabel": "ⓐ",
+      "focusBlank": "ⓐ"
+    },
+    {
+      "sourceId": 23,
+      "group": "22-25",
+      "explainKo": "didn't kill nothing은 anything이 되어야 한다. It's all because this little thing은 because of가 되어야 한다.",
+      "section": "s23",
+      "sectionTitle": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, … · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "23-ce",
+      "label": "29-ⓔ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "because of"
+      ],
+      "phraseBlank": true,
+      "directionKo": "ⓔ만 바르게 고친 말만 쓰시오.",
+      "ruleKo": "ⓔ를 고친 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓔ를 고친 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "[23] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\nTravis stared at Eckels for a long time without ⓑsaying anything.\n\"Let's go home,\" said Travis finally.\nThe machine stopped. They all returned to the present safely.\n\"Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\nEckels looked around the room carefully. Everything ⓒlooked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got ⓓmore confused.\nHe sat down and looked closely at the mud on his shoes.\n\"No, it can't be,\" said Eckels. \"It's all ⓔbecause this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\nⓔ만 바르게 고친 말만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "ⓔ",
+      "focusBlank": "ⓔ"
     },
     {
       "sourceId": 24,
       "group": "22-25",
       "explainKo": "정답: (1) 벽에 걸린 간판의 철자가 바뀜 (2) TV에 나온 대통령이 바뀜",
-      "promptEn": "[24] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "phraseBlank": true,
-      "id": "24",
       "section": "s24",
       "sectionTitle": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
-      "sectionInstructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "30",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "(1)",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "벽에 걸린 간판의 철자가 바뀜"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "(2)",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "TV에 나온 대통령이 바뀜"
-          ]
-        }
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "24-n1",
+      "label": "30-(1)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "벽에 걸린 간판의 철자가 바뀜"
       ],
-      "promptKo": "각 번호의 칸에 그 번호 말만 쓰세요."
+      "phraseBlank": true,
+      "directionKo": "(1)만 우리말로 쓰시오.",
+      "ruleKo": "(1)만 우리말로 간략히 쓰세요.",
+      "promptKo": "(1)만 우리말로 간략히 쓰세요.",
+      "promptEn": "[24] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n(1)만 우리말로 쓰시오.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "(1)",
+      "focusBlank": "1"
+    },
+    {
+      "sourceId": 24,
+      "group": "22-25",
+      "explainKo": "정답: (1) 벽에 걸린 간판의 철자가 바뀜 (2) TV에 나온 대통령이 바뀜",
+      "section": "s24",
+      "sectionTitle": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "24-n2",
+      "label": "30-(2)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "TV에 나온 대통령이 바뀜"
+      ],
+      "phraseBlank": true,
+      "directionKo": "(2)만 우리말로 쓰시오.",
+      "ruleKo": "(2)만 우리말로 간략히 쓰세요.",
+      "promptKo": "(2)만 우리말로 간략히 쓰세요.",
+      "promptEn": "[24] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\n\nTravis stared at Eckels for a long time without saying anything.\n\n\"Let's go home,\" said Travis finally.\n\nThe machine stopped. They all returned to the present safely.\n\n\"Is everything okay here?\" asked Travis.\n\n\"Fine. Welcome home!\" said Mr. Parker.\n\nEckels looked around the room carefully. Everything looked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\n\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n\nHe sat down and looked closely at the mud on his shoes.\n\n\"No, it can't be,\" said Eckels. \"It's all because this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n(2)만 우리말로 쓰시오.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "(2)",
+      "focusBlank": "2"
     },
     {
       "sourceId": 25,
@@ -1045,13 +1090,13 @@
     },
     {
       "id": "s9",
-      "title": "Section I · [09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰…",
-      "directionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "[09] 다음 문장에서 어법상 틀린 부분을 두 군데 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 2
+      "title": "Section I · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 4
     },
     {
       "id": "s10",
@@ -1135,10 +1180,10 @@
     },
     {
       "id": "s18",
-      "title": "Section R · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 …",
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것)",
+      "title": "Section R · 표시된 빈칸만 순서대로 누르기",
+      "directionKo": "각 카드에 표시된 빈칸만 순서대로 누르시오. 다른 번호는 누르지 않아요.",
       "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
-      "instructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 보기에서 골라 쓰시오. (단어를 한 번씩만 사용할 것) 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "각 카드에 표시된 빈칸만 순서대로 누르시오. 다른 번호는 누르지 않아요. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
       "answerMode": "order",
       "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 2
@@ -1155,10 +1200,10 @@
     },
     {
       "id": "s20",
-      "title": "Section T · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
-      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오.",
+      "title": "Section T · 표시된 빈칸 하나만 쓰기",
+      "directionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 2
@@ -1185,23 +1230,23 @@
     },
     {
       "id": "s23",
-      "title": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, …",
-      "directionKo": "윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오. 이 빈칸 말만 쓰세요.",
-      "answerMode": "parts",
+      "title": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, … · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s24",
       "title": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
-      "directionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "instructionKo": "윗글에서 밑줄 친 a small dead butterfly가 현재에 일으킨 변화 두 가지를 찾아 우리말로 쓰시오. 이 빈칸 말만 쓰세요. 해당 번호만 쓰세요.",
-      "answerMode": "parts",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s25",

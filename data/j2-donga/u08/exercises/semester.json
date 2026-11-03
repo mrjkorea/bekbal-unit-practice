@@ -5,7 +5,7 @@
   "unit": "Lesson 08 Time Travel",
   "note": "5과–8과",
   "sourcePages": "108-111",
-  "questionCount": 27,
+  "questionCount": 29,
   "omitted": [],
   "questions": [
     {
@@ -501,36 +501,47 @@
       "sourceId": 17,
       "group": "17",
       "explainKo": "ⓐ는 Schofield의 한국식 이름인 Seok Hopil을 가리키고, ⓑ는 그의 본명인 Frank W. Schofield를 가리킨다.",
-      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "phraseBlank": true,
-      "id": "17",
       "section": "s16",
-      "sectionTitle": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
+      "sectionTitle": "Section P · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-ca",
+      "label": "19-ⓐ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Seok Hopil"
+      ],
+      "phraseBlank": true,
+      "directionKo": "밑줄 친 ⓐ가 가리키는 것만 쓰시오.",
+      "ruleKo": "ⓐ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓐ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n밑줄 친 ⓐ가 가리키는 것만 쓰시오.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "ⓐ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "Seok Hopil"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "ⓑ",
-          "placeholder": "이 빈칸 말만",
-          "accept": [
-            "Frank W. Schofield"
-          ]
-        }
-      ]
+      "partLabel": "ⓐ",
+      "focusBlank": "ⓐ"
+    },
+    {
+      "sourceId": 17,
+      "group": "17",
+      "explainKo": "ⓐ는 Schofield의 한국식 이름인 Seok Hopil을 가리키고, ⓑ는 그의 본명인 Frank W. Schofield를 가리킨다.",
+      "section": "s16",
+      "sectionTitle": "Section P · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-cb",
+      "label": "19-ⓑ",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Frank W. Schofield"
+      ],
+      "phraseBlank": true,
+      "directionKo": "밑줄 친 ⓑ가 가리키는 것만 쓰시오.",
+      "ruleKo": "ⓑ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptKo": "ⓑ가 가리키는 말만 쓰세요. 다른 기호는 다른 카드입니다.",
+      "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n밑줄 친 ⓑ가 가리키는 것만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "ⓑ",
+      "focusBlank": "ⓑ"
     },
     {
       "sourceId": 18,
@@ -665,38 +676,53 @@
       "sourceId": 23,
       "group": "23",
       "explainKo": "정답: ① → moving 또는 move. 지각동사 felt의 목적격보어는 현재분사 moving이나 동사원형 move이다.",
-      "promptEn": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ①moved under his feet. After only a few minutes, the machine stopped.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ②must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ③something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ④was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you ⑤to do anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began to walk on the path.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.\n(    ) → __________",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "1",
-            "①"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "moving",
-            "move"
-          ]
-        }
-      ],
-      "id": "23",
       "section": "s21",
-      "sectionTitle": "Section U · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 …",
-      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "25"
+      "sectionTitle": "Section U · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "23-pick",
+      "label": "25-번호",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
+        "① moved under his feet",
+        "② must not leave it at any time",
+        "③ something unthinkable in the future",
+        "④ was covered in fog",
+        "⑤ to do anything foolish"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "어법상 틀린 번호만 누르시오.",
+      "ruleKo": "보기 중에서 틀린 번호 하나를 누르세요. 번호는 직접 쓰지 않아요.",
+      "promptKo": "틀린 번호만 누르세요. 고친 말은 다음 카드입니다.",
+      "promptEn": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ①moved under his feet. After only a few minutes, the machine stopped.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ②must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ③something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ④was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you ⑤to do anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began to walk on the path.\n\n어법상 틀린 번호만 고르시오.\n어법상 틀린 번호만 고르시오.",
+      "answerModeTag": "Choose · 고르기",
+      "partLabel": "틀린 번호"
+    },
+    {
+      "sourceId": 23,
+      "group": "23",
+      "explainKo": "정답: ① → moving 또는 move. 지각동사 felt의 목적격보어는 현재분사 moving이나 동사원형 move이다.",
+      "section": "s21",
+      "sectionTitle": "Section U · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "23-fix",
+      "label": "25-고친",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "moving",
+        "move"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ①moved under his feet. After only a few minutes, the machine stopped.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ②must not leave it at any time. Do not touch anything. You might kill something by accident. A little change here can cause ③something unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ④was covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"ⓐ______ Some of the dinosaurs are hungry,\" said Travis. \"Just stay calm. I don't want you ⑤to do anything foolish.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began to walk on the path.\n\n바르게 고친 말만 쓰시오.\n바르게 고친 말만 쓰시오.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 24,
@@ -908,13 +934,13 @@
     },
     {
       "id": "s16",
-      "title": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "ruleKo": "이 빈칸 말만 쓰세요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
-      "answerMode": "parts",
+      "title": "Section P · 표시된 빈칸 하나만 쓰기",
+      "directionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s17",
@@ -958,13 +984,13 @@
     },
     {
       "id": "s21",
-      "title": "Section U · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 …",
-      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것을 찾아 번호를 쓰고, 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section U · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "한 가지씩",
+      "itemCount": 2
     },
     {
       "id": "s22",

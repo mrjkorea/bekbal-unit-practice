@@ -9,7 +9,7 @@
     "170",
     "171"
   ],
-  "questionCount": 30,
+  "questionCount": 32,
   "omitted": [],
   "questions": [
     {
@@ -248,71 +248,93 @@
       "sourceId": 10,
       "group": "10",
       "explainKo": "가주어 it을 쓰고 진주어는 to부정사로 쓴다. 다양한 문화의 새로운 음식을 맛보는 것은 흥미롭다.",
-      "promptEn": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오.\nThat is interesting try new food from different cultures.\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "틀린 곳이 여러 개면, 이 문항은 1번째만 고칩니다.",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "That"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "It"
-          ]
-        }
-      ],
-      "id": "10-1",
       "section": "s11",
-      "sectionTitle": "Section K · [10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰…",
-      "sectionInstructionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "12"
+      "sectionTitle": "Section K · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "10-1-wrong",
+      "label": "12-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "That"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (1)만 다룹니다. 틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nThat is interesting try new food from different cultures.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말",
+      "focusBlank": "1"
     },
     {
       "sourceId": 10,
       "group": "10",
       "explainKo": "가주어 it을 쓰고 진주어는 to부정사로 쓴다. 다양한 문화의 새로운 음식을 맛보는 것은 흥미롭다.",
-      "promptEn": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오.\nThat is interesting try new food from different cultures.\n(1)\n(2)",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "틀린 곳이 여러 개면, 이 문항은 2번째만 고칩니다.",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "try"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "to try"
-          ]
-        }
-      ],
-      "id": "10-2",
       "section": "s11",
-      "sectionTitle": "Section K · [10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰…",
-      "sectionInstructionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "13"
+      "sectionTitle": "Section K · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "10-1-fix",
+      "label": "12-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "It"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (1)만 다룹니다. 고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nThat is interesting try new food from different cultures.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말",
+      "focusBlank": "1"
+    },
+    {
+      "sourceId": 10,
+      "group": "10",
+      "explainKo": "가주어 it을 쓰고 진주어는 to부정사로 쓴다. 다양한 문화의 새로운 음식을 맛보는 것은 흥미롭다.",
+      "section": "s11",
+      "sectionTitle": "Section K · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "10-2-wrong",
+      "label": "13-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "try"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (2)만 다룹니다. 틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nThat is interesting try new food from different cultures.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말",
+      "focusBlank": "2"
+    },
+    {
+      "sourceId": 10,
+      "group": "10",
+      "explainKo": "가주어 it을 쓰고 진주어는 to부정사로 쓴다. 다양한 문화의 새로운 음식을 맛보는 것은 흥미롭다.",
+      "section": "s11",
+      "sectionTitle": "Section K · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "10-2-fix",
+      "label": "13-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "to try"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 카드는 (2)만 다룹니다. 고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nThat is interesting try new food from different cultures.\n(1) ______\n(2) ______",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말",
+      "focusBlank": "2"
     },
     {
       "sourceId": 11,
@@ -411,8 +433,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            1
-          ]
+            0
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -423,7 +446,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 그중 하나만 고칩니다.",
+      "promptKo": "이 문항은 ⓐ만 고칩니다.",
       "id": "15-1",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
@@ -450,8 +473,9 @@
             "ⓒ"
           ],
           "correctIndexes": [
-            2
-          ]
+            1
+          ],
+          "indexBase": 0
         },
         {
           "kind": "sentence",
@@ -462,7 +486,7 @@
           ]
         }
       ],
-      "promptKo": "틀린 문장이 두 개입니다. 이 문항은 나머지 하나를 고칩니다.",
+      "promptKo": "이 문항은 ⓑ만 고칩니다.",
       "id": "15-2",
       "section": "s16",
       "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
@@ -535,7 +559,7 @@
       "sourceId": 19,
       "group": "18-20",
       "explainKo": "ⓑ 요일 앞에는 전치사 on을 쓴다. ⓒ between A and B: A와 B 사이에.",
-      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ 그들은 그것을 Midsummer 축제라고 부른다. The festival starts ⓑ ______ the Friday evening between June 19 ⓒ ______ 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival 밤새도록.\n\n윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
+      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ 그들은 그것을 Midsummer 축제라고 부른다. The festival starts ⓑ ______ the Friday evening between June 19 ⓒ ______ 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival 밤새도록.\n\n이 카드는 ⓑ 빈칸에 들어갈 말만 쓰시오.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -543,13 +567,13 @@
       ],
       "focusBlank": "ⓑ",
       "phraseBlank": false,
-      "directionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
+      "directionKo": "이 카드는 ⓑ 빈칸에 들어갈 말만 쓰시오.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "promptKo": "이 문항은 ⓑ 빈칸만 씁니다.",
       "id": "19-ⓑ",
       "section": "s20",
-      "sectionTitle": "Section T · 윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionTitle": "Section T · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
       "label": "26"
     },
@@ -557,7 +581,7 @@
       "sourceId": 19,
       "group": "18-20",
       "explainKo": "ⓑ 요일 앞에는 전치사 on을 쓴다. ⓒ between A and B: A와 B 사이에.",
-      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ 그들은 그것을 Midsummer 축제라고 부른다. The festival starts ⓑ ______ the Friday evening between June 19 ⓒ ______ 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival 밤새도록.\n\n윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
+      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ 그들은 그것을 Midsummer 축제라고 부른다. The festival starts ⓑ ______ the Friday evening between June 19 ⓒ ______ 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival 밤새도록.\n\n이 카드는 ⓒ 빈칸에 들어갈 말만 쓰시오.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -565,13 +589,13 @@
       ],
       "focusBlank": "ⓒ",
       "phraseBlank": false,
-      "directionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
+      "directionKo": "이 카드는 ⓒ 빈칸에 들어갈 말만 쓰시오.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "promptKo": "이 문항은 ⓒ 빈칸만 씁니다.",
       "id": "19-ⓒ",
       "section": "s20",
-      "sectionTitle": "Section T · 윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionTitle": "Section T · 표시된 빈칸 하나만 쓰기",
+      "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
       "label": "27"
     },
@@ -802,13 +826,13 @@
     },
     {
       "id": "s11",
-      "title": "Section K · [10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰…",
-      "directionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "[10] 다음 문장에서 어법상 틀린 부분 두 군데를 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 2
+      "title": "Section K · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 4
     },
     {
       "id": "s12",
@@ -892,10 +916,10 @@
     },
     {
       "id": "s20",
-      "title": "Section T · 윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
-      "directionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오.",
+      "title": "Section T · 표시된 빈칸 하나만 쓰기",
+      "directionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요.",
       "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 빈칸 ⓑ와 ⓒ에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 2

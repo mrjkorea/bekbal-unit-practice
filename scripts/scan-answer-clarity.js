@@ -126,13 +126,152 @@ function packedKind(item) {
   return null;
 }
 
+function keyOf(s) {
+  return grade.norm(s).replace(/[“”"']/g, "").replace(/[,;:!?().]/g, " ").replace(/\s+/g, " ").trim();
+}
+function parenChunks(text) {
+  const groups = [...String(text || "").matchAll(/\(([^()\n]{2,})\)/g)].map((m) => m[1]).filter((s) => s.includes("/"));
+  const bits = groups.flatMap((g) => g.split("/").map((s) => s.trim()).filter(Boolean));
+  return bits.length >= 2 ? bits : null;
+}
+function coversOrder(answer, chunks) {
+  let rest = keyOf(answer);
+  const pool = chunks.map((c, i) => ({ i, n: keyOf(c) }));
+  const order = [];
+  while (rest.length) {
+    rest = rest.replace(/^\s+/, "");
+    let hit = -1;
+    let hitLen = -1;
+    for (let i = 0; i < pool.length; i++) {
+      const n = pool[i].n;
+      if (!n) continue;
+      if ((rest === n || rest.startsWith(n + " ")) && n.length > hitLen) {
+        hit = i;
+        hitLen = n.length;
+      }
+    }
+    if (hit < 0) return null;
+    order.push(pool[hit].i);
+    rest = rest.slice(pool[hit].n.length).replace(/^\s+/, "");
+    pool.splice(hit, 1);
+  }
+  if (pool.length) return null;
+  return order.length ? order : null;
+}
+function misleadingFocus(item) {
+  if (!item.focusBlank) return false;
+  const blob = [item.directionKo, item.promptEn, item.ruleKo, item.sectionTitle, item.sectionInstructionKo].join("\n");
+  if (/순서대로\s*쓰|번호\s*순서대로|빈칸\s*순서대로/.test(blob)) return true;
+  if (/[ⓐ-ⓙ]\s*와\s*[ⓐ-ⓙ].{0,80}(?:쓰시오|고르시오|쓰세요|고르세요)/.test(blob)) return true;
+  return false;
+}
+function typedMultiParts(item) {
+  if (item.type !== "parts") return false;
+  return (item.parts || []).filter((p) => p.kind !== "mc" && p.kind !== "order").length >= 2;
+}
+function englishSentences(item) {
+  const blob = [item.promptEn, item.explainKo, item.directionKo].join("\n");
+  return [...blob.matchAll(/[A-Za-z][^.\n]{6,}\./g)].map((m) => grade.norm(m[0])).filter((s) => s.split(" ").length >= 4);
+}
+function cutOffAccept(item) {
+  const sentences = englishSentences(item);
+  if (!sentences.length) return false;
+  for (const raw of answerStrings(item)) {
+    const a = grade.norm(raw);
+    if (!a || a.split(" ").length < 2) continue;
+    for (const s of sentences) {
+      if (a === s || !s.startsWith(a)) continue;
+      const rest = s.slice(a.length);
+      if (/[a-z]$/.test(a) && /^[a-z]/.test(rest)) return true;
+    }
+  }
+  return false;
+}
+function straySymbol(item) {
+  const named = [item.promptKo, item.directionKo, item.ruleKo, item.sectionTitle, item.sectionInstructionKo].join("\n");
+  const mentioned = [...named.matchAll(/[ⓐ-ⓙ]/g)].map((m) => m[0]);
+  if (!mentioned.length) return false;
+  const stem = [
+    item.promptEn,
+    ...(item.choices || []),
+    ...(item.parts || []).flatMap((p) => [p.label || "", ...(p.choices || [])]),
+  ].join("\n");
+  const present = new Set([...stem.matchAll(/[ⓐ-ⓙ]/g)].map((m) => m[0]));
+  return mentioned.some((ch) => !present.has(ch));
+}
+function indexOutside(indexes, choiceCount, zeroBased) {
+  if (!(indexes || []).length || !choiceCount) return true;
+  return indexes.some((n) => zeroBased ? n < 0 || n >= choiceCount : n < 1 || n > choiceCount);
+}
+function symbolChoices(part) {
+  const choices = part.choices || [];
+  return choices.length > 0 && choices.every((c) => /^[ⓐ-ⓙ]$/.test(String(c).trim()));
+}
+function partZeroBased(part) {
+  return part.indexBase === 0 || symbolChoices(part);
+}
+function keyedLetter(part) {
+  const idx = (part.correctIndexes || [])[0];
+  if (idx == null || idx === "") return "";
+  const choices = part.choices || [];
+  return partZeroBased(part) ? (choices[idx] || "") : (choices[idx - 1] || "");
+}
+function promptOnlySymbol(item) {
+  const m = String(item.promptKo || "").match(/([ⓐ-ⓙ])만/);
+  return m ? m[1] : "";
+}
+function symbolLine(prompt, symbol) {
+  for (const line of String(prompt || "").split("\n")) {
+    const t = line.trim();
+    if (t.startsWith(symbol)) return t.replace(/^[ⓐ-ⓙ]\s*/, "");
+  }
+  return "";
+}
+function contentWords(s) {
+  return grade.norm(s).split(" ").filter((w) => w.length >= 3);
+}
+function symbolRewriteMismatch(item) {
+  if (item.type !== "parts") return null;
+  const mc = (item.parts || []).find((p) => p.kind === "mc" && symbolChoices(p));
+  if (!mc) return null;
+  const want = promptOnlySymbol(item);
+  const got = keyedLetter(mc);
+  if (!want || got !== want) return "symbol-mismatch";
+  const line = symbolLine(item.promptEn, want);
+  const accepts = (item.parts || []).filter((p) => p.kind !== "mc").flatMap((p) => p.accept || []);
+  const lineWords = new Set(contentWords(line));
+  const ratios = accepts.map((a) => {
+    const words = contentWords(a);
+    if (words.length < 2) return 1;
+    if (!lineWords.size) return 0;
+    return words.filter((w) => lineWords.has(w)).length / words.length;
+  });
+  if (!ratios.length || Math.max(...ratios) < 0.5) return "low-overlap";
+  return null;
+}
+function typedArrangement(item) {
+  if (item.type !== "fill" && item.type !== "sentence") return false;
+  const dir = (item.directionKo || "") + "\n" + (item.promptEn || "");
+  if (!/배열/.test(dir)) return false;
+  if (/어형|형태로 바|문장 전체/.test(dir)) return false;
+  if (/문장 전체/.test(item.ruleKo || "")) return false;
+  const chunks = parenChunks(item.promptEn);
+  if (!chunks) return false;
+  return (item.accept || []).some((a) => coversOrder(a, chunks));
+}
+
 function correctResponse(item) {
+  if (item.type === "match") return { links: (item.pairs || []).map((p) => [String(p.id), String(p.id)]) };
   if (item.type === "mc" || item.type === "bank") return { indexes: (item.correctIndexes || []).slice() };
   if (item.type === "order") return { order: (item.orderIds || []).slice() };
   if (item.type === "ox") return { value: item.oxMark, rewrite: (item.rewriteAccept || [])[0] || "" };
   if (item.type === "parts") {
     return {
-      parts: (item.parts || []).map((p) => p.kind === "mc" ? String((p.correctIndexes || [])[0] || "") : (p.accept || [])[0] || ""),
+      parts: (item.parts || []).map((p) => {
+        if (p.kind !== "mc") return (p.accept || [])[0] || "";
+        const n = (p.correctIndexes || [])[0];
+        return n == null ? "" : String(n);
+      }),
     };
   }
   return { value: (item.accept || [])[0] || "" };
@@ -155,6 +294,23 @@ for (const dir of UNITS) {
       if (mcAsWrite(q)) problems.push({ kind: "mc-as-write", loc, dir: q.directionKo });
       const packed = packedKind(q);
       if (packed) problems.push({ kind: packed, loc, ans: (q.accept || [])[0] });
+      if (misleadingFocus(q)) problems.push({ kind: "focus-order-write", loc, dir: q.directionKo });
+      if (typedMultiParts(q)) problems.push({ kind: "parts-typed-multi", loc });
+      if (typedArrangement(q)) problems.push({ kind: "typed-order", loc });
+      if (cutOffAccept(q)) problems.push({ kind: "cut-off", loc, ans: answerStrings(q)[0] });
+      if (straySymbol(q)) problems.push({ kind: "stray-symbol", loc });
+      if (q.type === "parts") {
+        for (const part of q.parts || []) {
+          if (part.kind === "mc" && indexOutside(part.correctIndexes, (part.choices || []).length, partZeroBased(part))) {
+            problems.push({ kind: "bad-index", loc, indexes: part.correctIndexes, n: (part.choices || []).length });
+          }
+        }
+        const symbolProblem = symbolRewriteMismatch(q);
+        if (symbolProblem) problems.push({ kind: symbolProblem, loc, promptKo: q.promptKo, indexes: ((q.parts || []).find((p) => p.kind === "mc") || {}).correctIndexes });
+      }
+      if (q.type === "match" && (!(q.pairs || []).length || (q.pairs || []).some((p) => !p.en || !p.ko || !p.id))) {
+        problems.push({ kind: "bad-match", loc });
+      }
       if ((q.type === "mc" || q.type === "bank") && (!(q.choices || []).length || !(q.correctIndexes || []).length)) {
         problems.push({ kind: "bad-choice", loc });
       }
@@ -172,7 +328,7 @@ for (const dir of UNITS) {
       const ok = grade.gradeItem(q, correctResponse(q));
       if (!ok) problems.push({ kind: "grade-miss", loc, type: q.type, correct: grade.formatCorrect(q) });
       else gradedOk++;
-      const bad = grade.gradeItem(q, q.type === "mc" || q.type === "bank" ? { indexes: [99] } : q.type === "order" ? { order: ["zz"] } : q.type === "ox" ? { value: q.oxMark === "O" ? "X" : "O", rewrite: "nope" } : q.type === "parts" ? { parts: (q.parts || []).map(() => "___nope___") } : { value: "___nope___" });
+      const bad = grade.gradeItem(q, q.type === "match" ? { links: [] } : q.type === "mc" || q.type === "bank" ? { indexes: [99] } : q.type === "order" ? { order: ["zz"] } : q.type === "ox" ? { value: q.oxMark === "O" ? "X" : "O", rewrite: "nope" } : q.type === "parts" ? { parts: (q.parts || []).map(() => "___nope___") } : { value: "___nope___" });
       if (bad) problems.push({ kind: "grade-false-pass", loc });
     }
     files.push(file);
@@ -182,5 +338,5 @@ for (const dir of UNITS) {
 const byKind = {};
 for (const p of problems) byKind[p.kind] = (byKind[p.kind] || 0) + 1;
 console.log(JSON.stringify({ items, gradedOk, files: files.length, byKind, sample: problems.slice(0, 40) }, null, 2));
-const blockers = problems.filter((p) => p.kind === "mc-as-write" || p.kind === "multi-blank" || p.kind === "letter-seq");
-process.exit(blockers.length || problems.some((p) => p.kind === "grade-miss" || p.kind === "bad-index" || p.kind === "no-accept" || p.kind === "part-empty" || p.kind === "ox-no-rewrite") ? 1 : 0);
+const block = new Set(["mc-as-write", "multi-blank", "letter-seq", "focus-order-write", "parts-typed-multi", "typed-order", "bad-match", "grade-miss", "grade-false-pass", "bad-index", "no-accept", "part-empty", "ox-no-rewrite", "cut-off", "stray-symbol", "symbol-mismatch", "low-overlap"]);
+process.exit(problems.some((p) => block.has(p.kind)) ? 1 : 0);

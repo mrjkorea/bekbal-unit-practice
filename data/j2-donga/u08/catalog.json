@@ -67,7 +67,7 @@
         {
           "id": "reading-advanced",
           "title": "Reading 심화 문제",
-          "questionCount": 25
+          "questionCount": 27
         },
         {
           "id": "plus-practice",
@@ -77,7 +77,7 @@
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "questionCount": 34
+          "questionCount": 38
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "id": "x10-grammar",
           "title": "핵심 Grammar 확인 문제",
-          "questionCount": 29
+          "questionCount": 34
         },
         {
           "id": "x10-reading-sentence",
@@ -124,27 +124,27 @@
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "questionCount": 25
+          "questionCount": 26
         },
         {
           "id": "final-1",
           "title": "최종점검 모의고사 1회",
-          "questionCount": 29
+          "questionCount": 30
         },
         {
           "id": "final-2",
           "title": "최종점검 모의고사 2회",
-          "questionCount": 25
+          "questionCount": 27
         },
         {
           "id": "final-3",
           "title": "최종점검 모의고사 3회",
-          "questionCount": 25
+          "questionCount": 26
         },
         {
           "id": "semester",
           "title": "2학기 모의고사",
-          "questionCount": 27
+          "questionCount": 29
         }
       ]
     }

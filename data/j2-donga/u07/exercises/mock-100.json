@@ -4,7 +4,7 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "172-175",
-  "questionCount": 25,
+  "questionCount": 26,
   "omitted": [],
   "questions": [
     {
@@ -141,38 +141,47 @@
       "sourceId": 6,
       "group": "06",
       "explainKo": "소녀는 이번 주말에 도서관(집)에서 시험공부할 것이다.",
-      "promptEn": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl is going to study for an exam at the library this weekend.",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "the library",
-            "thelibrary",
-            "library"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "home"
-          ]
-        }
-      ],
-      "id": "6",
       "section": "s6",
-      "sectionTitle": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "sectionInstructionKo": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "6"
+      "sectionTitle": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "6-wrong",
+      "label": "6-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "the library",
+        "thelibrary",
+        "library"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl is going to study for an exam at the library this weekend.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 6,
+      "group": "06",
+      "explainKo": "소녀는 이번 주말에 도서관(집)에서 시험공부할 것이다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "6-fix",
+      "label": "6-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "home"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl is going to study for an exam at the library this weekend.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 7,
@@ -709,13 +718,13 @@
     },
     {
       "id": "s6",
-      "title": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "directionKo": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 1
+      "title": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
     },
     {
       "id": "s7",

@@ -43,8 +43,44 @@
       .replace(/[^a-z]/g, "");
   }
 
+  function pairById(item, id) {
+    var pairs = item.pairs || [];
+    for (var i = 0; i < pairs.length; i++) {
+      if (String(pairs[i].id) === String(id)) return pairs[i];
+    }
+    return null;
+  }
+
+  function matchDetail(item, response) {
+    var pairs = item.pairs || [];
+    var links = (response && response.links) || [];
+    var map = {};
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i] || [];
+      if (link[0] != null && String(link[0]) !== "") map[String(link[0])] = String(link[1]);
+    }
+    var correct = 0;
+    for (var j = 0; j < pairs.length; j++) {
+      if (map[String(pairs[j].id)] === String(pairs[j].id)) correct++;
+    }
+    return { correct: correct, total: pairs.length, links: links };
+  }
+
+  function scoreUnits(item, response) {
+    if (item.type === "match") {
+      var d = matchDetail(item, response);
+      return { got: d.correct, total: d.total };
+    }
+    return { got: gradeItem(item, response) ? 1 : 0, total: 1 };
+  }
+
   function gradeItem(item, response) {
     response = response || {};
+    if (item.type === "match") {
+      var detail = matchDetail(item, response);
+      var links = detail.links || [];
+      return detail.total > 0 && links.length === detail.total && detail.correct === detail.total;
+    }
     if (item.type === "mc" || item.type === "bank") {
       var got = response.indexes || [];
       var exp = item.correctIndexes || [];
@@ -77,6 +113,7 @@
         var part = parts[p];
         var val = gotParts[p];
         if (part.kind === "mc") {
+          if (val === "" || val == null || !/^\d+$/.test(String(val))) return false;
           var ix = Number(val);
           if (!part.correctIndexes || part.correctIndexes[0] !== ix) return false;
         } else if (!matchAccept(val, part.accept || [])) return false;
@@ -92,6 +129,9 @@
   }
 
   function formatCorrect(item) {
+    if (item.type === "match") {
+      return (item.pairs || []).map(function (p) { return p.en + " → " + p.ko; }).join("\n");
+    }
     if (item.type === "mc" || item.type === "bank") {
       return (item.correctIndexes || [])
         .map(function (n) { return n + ". " + choiceText(item, n); })
@@ -109,7 +149,11 @@
     if (item.type === "parts") {
       return (item.parts || [])
         .map(function (part) {
-          if (part.kind === "mc") return part.label + ": " + (part.choices[(part.correctIndexes[0] || 1) - 1] || "");
+          if (part.kind === "mc") {
+            var ix = part.correctIndexes[0];
+            var shown = part.indexBase === 0 ? part.choices[ix] : part.choices[(ix || 1) - 1];
+            return part.label + ": " + (shown || "");
+          }
           return part.label + ": " + ((part.accept && part.accept[0]) || "");
         })
         .join("\n");
@@ -119,6 +163,18 @@
 
   function formatResponse(item, response) {
     response = response || {};
+    if (item.type === "match") {
+      var links = response.links || [];
+      if (!links.length) return "(무응답)";
+      return links.map(function (link) {
+        var left = pairById(item, link[0]);
+        var right = pairById(item, link[1]);
+        var en = left ? left.en : link[0];
+        var ko = right ? right.ko : link[1];
+        var mark = left && right && String(left.id) === String(right.id) ? "✓ " : "× ";
+        return mark + en + " → " + ko;
+      }).join("\n");
+    }
     if (item.type === "mc" || item.type === "bank") {
       var idxs = response.indexes || [];
       if (!idxs.length) return "(무응답)";
@@ -141,8 +197,9 @@
       var bits = (item.parts || []).map(function (part, i) {
         var val = (response.parts || [])[i];
         if (part.kind === "mc") {
-          if (!val) return part.label + ": (무응답)";
-          return part.label + ": " + (part.choices[Number(val) - 1] || val);
+          if (val === "" || val == null) return part.label + ": (무응답)";
+          var choice = part.indexBase === 0 ? part.choices[Number(val)] : part.choices[Number(val) - 1];
+          return part.label + ": " + (choice || val);
         }
         return part.label + ": " + (val ? val : "(무응답)");
       });
@@ -154,6 +211,7 @@
 
   function secondsFor(item) {
     if (item.seconds) return item.seconds;
+    if (item.type === "match") return Math.max(60, 18 * ((item.pairs && item.pairs.length) || 1));
     if (item.type === "mc" || item.type === "bank" || item.type === "order") return 45;
     if (item.type === "ox") return item.rewriteAccept && item.rewriteAccept.length ? 75 : 40;
     if (item.type === "parts") return 90;
@@ -168,6 +226,8 @@
     matchAccept: matchAccept,
     letterKey: letterKey,
     gradeItem: gradeItem,
+    matchDetail: matchDetail,
+    scoreUnits: scoreUnits,
     formatCorrect: formatCorrect,
     formatResponse: formatResponse,
     secondsFor: secondsFor,

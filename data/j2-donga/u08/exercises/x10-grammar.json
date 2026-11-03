@@ -7,7 +7,7 @@
     "46",
     "47"
   ],
-  "questionCount": 29,
+  "questionCount": 34,
   "omitted": [],
   "questions": [
     {
@@ -309,182 +309,227 @@
       "sourceId": 15,
       "group": "P2-01",
       "explainKo": "정답: wrong nothing → nothing wrong",
-      "promptEn": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nThere's wrong nothing with his answer",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "wrong nothing",
-            "wrongnothing"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "nothing wrong",
-            "nothingwrong"
-          ]
-        }
-      ],
-      "id": "15",
       "section": "s3",
       "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "sectionInstructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "15"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "15-wrong",
+      "label": "15-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "wrong nothing",
+        "wrongnothing"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nThere's wrong nothing with his answer",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 15,
+      "group": "P2-01",
+      "explainKo": "정답: wrong nothing → nothing wrong",
+      "section": "s3",
+      "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "15-fix",
+      "label": "15-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "nothing wrong",
+        "nothingwrong"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nThere's wrong nothing with his answer",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 16,
       "group": "P2-02",
       "explainKo": "정답: strangely → strange",
-      "promptEn": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nI saw something strangely in the dark",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "strangely"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "strange"
-          ]
-        }
-      ],
-      "id": "16",
       "section": "s3",
       "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "sectionInstructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "16"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-wrong",
+      "label": "16-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "strangely"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nI saw something strangely in the dark",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 16,
+      "group": "P2-02",
+      "explainKo": "정답: strangely → strange",
+      "section": "s3",
+      "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "16-fix",
+      "label": "16-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "strange"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nI saw something strangely in the dark",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 17,
       "group": "P2-03",
       "explainKo": "정답: interesting anything → anything interesting",
-      "promptEn": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nIs there interesting anything on TV?",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "interesting anything",
-            "interestinganything"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "anything interesting",
-            "anythinginteresting"
-          ]
-        }
-      ],
-      "id": "17",
       "section": "s3",
       "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "sectionInstructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "17"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-wrong",
+      "label": "17-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "interesting anything",
+        "interestinganything"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nIs there interesting anything on TV?",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 17,
+      "group": "P2-03",
+      "explainKo": "정답: interesting anything → anything interesting",
+      "section": "s3",
+      "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "17-fix",
+      "label": "17-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "anything interesting",
+        "anythinginteresting"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nIs there interesting anything on TV?",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 18,
       "group": "P2-04",
       "explainKo": "정답: fool → foolish",
-      "promptEn": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nI don't want you to do anything fool",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "fool"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "foolish"
-          ]
-        }
-      ],
-      "id": "18",
       "section": "s3",
       "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "sectionInstructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "18"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "18-wrong",
+      "label": "18-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "fool"
+      ],
+      "phraseBlank": false,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nI don't want you to do anything fool",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 18,
+      "group": "P2-04",
+      "explainKo": "정답: fool → foolish",
+      "section": "s3",
+      "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "18-fix",
+      "label": "18-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "foolish"
+      ],
+      "phraseBlank": false,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nI don't want you to do anything fool",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 19,
       "group": "P2-05",
       "explainKo": "정답: unthinkable something → something unthinkable",
-      "promptEn": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nA little change can cause unthinkable something",
-      "type": "parts",
-      "answerMode": "parts",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "promptKo": "",
-      "parts": [
-        {
-          "kind": "words",
-          "label": "틀린 말",
-          "placeholder": "틀린 말만",
-          "accept": [
-            "unthinkable something",
-            "unthinkablesomething"
-          ]
-        },
-        {
-          "kind": "words",
-          "label": "고친 말",
-          "placeholder": "고친 말만",
-          "accept": [
-            "something unthinkable",
-            "somethingunthinkable"
-          ]
-        }
-      ],
-      "id": "19",
       "section": "s3",
       "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "sectionInstructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "label": "19"
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-wrong",
+      "label": "19-틀린 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "unthinkable something",
+        "unthinkablesomething"
+      ],
+      "phraseBlank": true,
+      "directionKo": "틀린 말만 쓰시오.",
+      "ruleKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptKo": "틀린 말만 쓰세요. 고친 말은 다른 카드입니다. 문장 전체는 쓰지 않아요.",
+      "promptEn": "틀린 말만 쓰시오.\nA little change can cause unthinkable something",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "틀린 말"
+    },
+    {
+      "sourceId": 19,
+      "group": "P2-05",
+      "explainKo": "정답: unthinkable something → something unthinkable",
+      "section": "s3",
+      "sectionTitle": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
+      "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "id": "19-fix",
+      "label": "19-고친 말",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "something unthinkable",
+        "somethingunthinkable"
+      ],
+      "phraseBlank": true,
+      "directionKo": "바르게 고친 말만 쓰시오.",
+      "ruleKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptKo": "고친 말만 쓰세요. 번호나 문장 전체는 쓰지 않아요.",
+      "promptEn": "바르게 고친 말만 쓰시오.\nA little change can cause unthinkable something",
+      "answerModeTag": "Type · 빈칸 말만",
+      "partLabel": "고친 말"
     },
     {
       "sourceId": 20,
@@ -918,12 +963,12 @@
     {
       "id": "s3",
       "title": "Section C · Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장…",
-      "directionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
-      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "Point 2 thing +. 교과서 문장 속 Grammar. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "parts",
-      "answerModeTag": "Type · 틀린 말 / 고친 말",
-      "itemCount": 5
+      "directionKo": "카드마다 한 가지만 하세요.",
+      "ruleKo": "카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "instructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
     },
     {
       "id": "s4",
