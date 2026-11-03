@@ -188,22 +188,35 @@
       "group": "08",
       "explainKo": "ⓐ 초등학교 이후부터 지금까지 알고 지내는 것이므로 현재완료 have known이 알맞다. ⓑ ‘30분 전’은 명백한 과거 시점이므로 과거시제 arrived가 알맞다. 우리는 초등학교 때부터 서로 알고 지내 왔다. 그들은 30분 전에 회의에 도착했다.",
       "promptEn": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.\n\nWe ⓐ(know) each other since elementary school.\nThey ⓑ(arrive) at the meeting 30 minutes ago.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "(a) have known (b) arrived",
-        "have known, arrived",
-        "have known / arrived"
-      ],
+      "type": "parts",
+      "answerMode": "parts",
       "directionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
       "phraseBlank": true,
       "id": "8",
       "section": "s8",
       "sectionTitle": "Section H · 다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.",
-      "sectionInstructionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오. 이 빈칸 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "8"
+      "label": "8",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "ⓐ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "have known"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "ⓑ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "arrived"
+          ]
+        }
+      ]
     },
     {
       "sourceId": 9,
@@ -466,22 +479,36 @@
       "group": "19",
       "explainKo": "Eckels가 이곳에서 나가게 해달라는 말에 이어, Travis가 타임머신으로 돌아가라고 말하는 (B)가 오고, Eckels가 길을 벗어나자 Travis가 소리치는 (C)가 온 다음, 마지막으로 그 소리를 들은 티라노사우루스가 그들을 향해 달려오는 (A)로 이어지는 흐름이 자연스럽다.",
       "promptEn": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis.\n\n(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" Eckels turned around and started to run. He was such terrified that he left the path by accident.\n\n(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence.\n\n윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "(B)-(C)-(A)",
-        "(B) - (C) - (A)",
-        "(B) (C) (A)"
-      ],
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "phraseBlank": false,
+      "ruleKo": "순서대로 누르세요. 기호는 쓰지 않아요.",
       "id": "19",
       "section": "s19",
       "sectionTitle": "Section S · 윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
-      "sectionInstructionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "19"
+      "sectionInstructionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오. 순서대로 누르세요. 기호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "19",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis."
+        },
+        {
+          "id": "b",
+          "text": "(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" Eckels turned around and started to run. He was such terrified that he left the path by accident."
+        },
+        {
+          "id": "c",
+          "text": "(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence."
+        }
+      ],
+      "orderIds": [
+        "b",
+        "c",
+        "a"
+      ],
+      "promptKo": ""
     },
     {
       "sourceId": 20,
@@ -515,23 +542,36 @@
       "group": "21",
       "explainKo": "ⓐ의 it은 티라노사우루스를 가리키고, ⓑ의 them은 티라노사우루스가 돌진한 대상인 Travis와 다른 여행객들을 가리킨다.",
       "promptEn": "[19-21] 다음 글을 읽고 물음에 답하시오.\n\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\n(A) Then, ⓐit suddenly started to run toward ⓑthem with a loud roar. \"Run, everybody! Run!\" shouted Travis.\n\n(B) \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\" Eckels turned around and started to run. He was such terrified that he left the path by accident.\n\n(C) \"Eckels!\" shouted Travis. \"Don't leave the path!\" The T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of silence.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "(a) the T. rex (b) Travis and the other travelers",
-        "(a) the T. rex (b) him and the other travelers",
-        "the T. rex / Travis and the other travelers",
-        "the T. rex, him and the other travelers"
-      ],
+      "type": "parts",
+      "answerMode": "parts",
       "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
       "phraseBlank": true,
       "id": "21",
       "section": "s21",
       "sectionTitle": "Section U · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "21"
+      "label": "21",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "ⓐ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "the T. rex"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "ⓑ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "Travis and the other travelers",
+            "him and the other travelers"
+          ]
+        }
+      ]
     },
     {
       "sourceId": 22,
@@ -719,9 +759,9 @@
       "id": "s8",
       "title": "Section H · 다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.",
       "directionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
+      "instructionKo": "다음 괄호 ⓐ와 ⓑ 안의 단어를 어법에 알맞은 형태로 바꿔 쓰시오. 이 빈칸 말만 쓰세요.",
+      "answerMode": "parts",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 1
     },
@@ -829,10 +869,10 @@
       "id": "s19",
       "title": "Section S · 윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
       "directionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "순서대로 누르세요. 기호는 쓰지 않아요.",
+      "instructionKo": "윗글의 주어진 글에 이어질 글을 순서대로 바르게 배열하시오. 순서대로 누르세요. 기호는 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 1
     },
     {
@@ -849,9 +889,9 @@
       "id": "s21",
       "title": "Section U · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
       "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
+      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 것을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
+      "answerMode": "parts",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 1
     },

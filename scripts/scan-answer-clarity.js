@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Fail if any u07/u08 item is MC-as-write or packs different blanks into one field. */
+/** Fail if any u07/u08 item is MC-as-write, packs different blanks into one field, or types a letter order. */
 const fs = require("fs");
 const path = require("path");
 const grade = require("../assets/grade.js");
@@ -35,15 +35,70 @@ function mcAsWrite(item) {
   return false;
 }
 
-function multiBlankField(item) {
-  if (item.type !== "fill") return false;
-  if (item.focusBlank) return false;
-  const n = markers(item.promptEn);
-  if (n < 2) return false;
-  const bits = commaBits((item.accept || [])[0]);
-  const instr = (item.directionKo || "") + (item.promptEn || "");
-  if (bits.length >= 2 && (bits.length === n || /순서대로|번호 순서/.test(instr))) return true;
+function tightKey(s) {
+  return String(s || "").toLowerCase().replace(/[^a-z0-9가-힣]/g, "");
+}
+function hangulGloss(s) {
+  const bits = String(s).split(/\s*[,，]\s*/).map((x) => x.trim()).filter(Boolean);
+  if (bits.length < 2) return false;
+  return bits.every((b) => /^[가-힣0-9\s·~.:();\-]+$/.test(b));
+}
+function synonymBundle(s, accepts) {
+  const bits = String(s).split(/\s*[,，]\s*/).map((x) => x.trim()).filter(Boolean);
+  if (bits.length < 2) return false;
+  const set = new Set((accepts || []).map((x) => tightKey(x)));
+  return bits.every((b) => set.has(tightKey(b)));
+}
+function spacingTwin(s, accepts) {
+  if (/\s/.test(String(s))) return false;
+  const key = tightKey(s);
+  if (!key) return false;
+  return (accepts || []).some((a) => a !== s && tightKey(a) === key && /\s/.test(String(a)));
+}
+function letterSequence(s) {
+  const t = String(s || "").trim();
+  if (!t || t.length > 48) return false;
+  if (/(?:[ⓐ-ⓙ]|\([A-Ja-j]\))(?:\s*[-–]\s*(?:[ⓐ-ⓙ]|\([A-Ja-j]\))){2,}/.test(t)) return true;
+  if (/^[A-Ja-j](?:\s*[-–]\s*[A-Ja-j]){2,}$/.test(t)) return true;
   return false;
+}
+function compactOrderLetters(item) {
+  if (item.focusBlank) return false;
+  const where = (item.directionKo || "") + "\n" + (item.ruleKo || "");
+  if (!/순서|배열/.test(where)) return false;
+  return (item.accept || []).some((a) => /^[a-j]{4,8}$/i.test(String(a).trim()));
+}
+function shortCommaList(s) {
+  const t = String(s || "").trim();
+  if (!/[,，]/.test(t)) return false;
+  if (/[?!]/.test(t) || /["“”']/.test(t)) return false;
+  const bits = t.split(/\s*[,，]\s*/).map((x) => x.trim()).filter(Boolean);
+  if (bits.length < 2) return false;
+  if (bits.some((b) => b.split(/\s+/).length > 4)) return false;
+  return true;
+}
+function packedAccept(s, accepts) {
+  const t = String(s || "").trim();
+  if (!t) return false;
+  if (spacingTwin(t, accepts)) return false;
+  if (/\s\/\s/.test(t)) return true;
+  if (/\([A-Za-z]\)[\s\S]*\([A-Za-z]\)/.test(t)) return true;
+  if (/[ⓐ-ⓙ]\s+\S[\s\S]*[ⓐ-ⓙ]\s+\S/.test(t)) return true;
+  if (/[,，]/.test(t) && !hangulGloss(t) && !synonymBundle(t, accepts) && shortCommaList(t)) return true;
+  return false;
+}
+function packedKind(item) {
+  if (item.type !== "fill") return null;
+  const accepts = item.accept || [];
+  if (accepts.some(letterSequence) || compactOrderLetters(item)) return "letter-seq";
+  if (item.focusBlank) return null;
+  if (accepts.some((a) => packedAccept(a, accepts))) return "multi-blank";
+  const n = markers(item.promptEn);
+  if (n < 2) return null;
+  const bits = commaBits(accepts[0]);
+  const instr = (item.directionKo || "") + (item.promptEn || "");
+  if (bits.length >= 2 && (bits.length === n || /순서대로|번호 순서/.test(instr))) return "multi-blank";
+  return null;
 }
 
 function correctResponse(item) {
@@ -73,7 +128,8 @@ for (const dir of UNITS) {
       ids.add(q.id);
       if (!q.answerMode || !q.section || !q.ruleKo || !q.directionKo) problems.push({ kind: "missing-rule", loc });
       if (mcAsWrite(q)) problems.push({ kind: "mc-as-write", loc, dir: q.directionKo });
-      if (multiBlankField(q)) problems.push({ kind: "multi-blank", loc, ans: (q.accept || [])[0] });
+      const packed = packedKind(q);
+      if (packed) problems.push({ kind: packed, loc, ans: (q.accept || [])[0] });
       if ((q.type === "mc" || q.type === "bank") && (!(q.choices || []).length || !(q.correctIndexes || []).length)) {
         problems.push({ kind: "bad-choice", loc });
       }
@@ -101,5 +157,5 @@ for (const dir of UNITS) {
 const byKind = {};
 for (const p of problems) byKind[p.kind] = (byKind[p.kind] || 0) + 1;
 console.log(JSON.stringify({ items, gradedOk, files: files.length, byKind, sample: problems.slice(0, 40) }, null, 2));
-const blockers = problems.filter((p) => p.kind === "mc-as-write" || p.kind === "multi-blank");
+const blockers = problems.filter((p) => p.kind === "mc-as-write" || p.kind === "multi-blank" || p.kind === "letter-seq");
 process.exit(blockers.length || problems.some((p) => p.kind === "grade-miss" || p.kind === "bad-index" || p.kind === "no-accept" || p.kind === "part-empty" || p.kind === "ox-no-rewrite") ? 1 : 0);

@@ -254,23 +254,35 @@
       "group": "08-14",
       "explainKo": "대명사는 앞 문장에서 지칭 대상을 찾는다. 문맥상 ⓑ는 '특별한 축제'를 가리키고 ⓒ는 '긴 기둥'을 가리킨다.",
       "promptEn": "[10] 다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is ① long and dark, so the people there especially ② welcome summer. ⓐ To celebrate the ③ shortest day of the year, they have a special festival. They call (b) it the Midsummer festival. The festival starts on the Friday evening between June 19 and 25 and (A) (end) on the Sunday. During the festival, people ④ decorate a tall pole with flowers and green leaves and enjoy ⑤ traditional dances around ⓒ it. (B) 일 년 중 이맘때는 스웨덴에서 해가 거의 지지 않기 때문에, people can enjoy the festival ⓓ ______.\n\n윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "a special festival, a tall pole",
-        "a special festival a tall pole",
-        "a special festival / a tall pole",
-        "ⓑ a special festival ⓒ a tall pole"
-      ],
+      "type": "parts",
+      "answerMode": "parts",
       "directionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
       "phraseBlank": true,
       "id": "10",
       "section": "s10",
       "sectionTitle": "Section J · 윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오. 이 빈칸 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "10"
+      "label": "10",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "(b)",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "a special festival"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "ⓒ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "a tall pole"
+          ]
+        }
+      ]
     },
     {
       "sourceId": 11,
@@ -803,9 +815,9 @@
       "id": "s10",
       "title": "Section J · 윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오.",
       "directionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
-      "answerMode": "words",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
+      "instructionKo": "윗글의 밑줄 친 (b)와 ⓒ가 가리키는 것을 찾아 각각 세 단어로 쓰시오. 이 빈칸 말만 쓰세요.",
+      "answerMode": "parts",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 1
     },

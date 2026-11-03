@@ -141,24 +141,42 @@
       "sourceId": 6,
       "group": "06",
       "explainKo": "A: 할머니께 드릴 선물을 찾고 있어요. ⓑ 이 가방은 어때요? ⓐ 너무 커요. 무거울 것도 같고요. ⓓ 전혀 그렇지 않아요. 크지만 매우 가벼워요. 나이 많은 여성에게 완벽해요. ⓒ 정말요? 그럼, 그걸로 살게요.",
-      "promptEn": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오.\n\nA: I'm looking for a gift for my grandmother.\nⓐ It's too big. I think it'll be heavy, too.\nⓑ How about this bag?\nⓒ Really? Then, I'll take it.\nⓓ Not at all. It's big but very light. It's perfect for older women.\n\n(    )-(    )-(    )-(    )",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "ⓑ-ⓐ-ⓓ-ⓒ",
-        "b-a-d-c",
-        "b, a, d, c",
-        "badc"
-      ],
+      "promptEn": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오.\n\nA: I'm looking for a gift for my grandmother.\nⓐ It's too big. I think it'll be heavy, too.\nⓑ How about this bag?\nⓒ Really? Then, I'll take it.\nⓓ Not at all. It's big but very light. It's perfect for older women.\n",
+      "type": "order",
+      "answerMode": "order",
       "directionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "phraseBlank": false,
+      "ruleKo": "순서대로 누르세요. 기호는 쓰지 않아요.",
       "id": "6",
       "section": "s6",
       "sectionTitle": "Section F · 다음 주어진 말에 이어질 대화를 순서대로 배열하시오.",
-      "sectionInstructionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerModeTag": "Type · 빈칸 말만",
-      "label": "6"
+      "sectionInstructionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오. 순서대로 누르세요. 기호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "It's too big. I think it'll be heavy, too."
+        },
+        {
+          "id": "b",
+          "text": "How about this bag?"
+        },
+        {
+          "id": "c",
+          "text": "Really? Then, I'll take it."
+        },
+        {
+          "id": "d",
+          "text": "Not at all. It's big but very light. It's perfect for older women."
+        }
+      ],
+      "orderIds": [
+        "b",
+        "a",
+        "d",
+        "c"
+      ],
+      "promptKo": ""
     },
     {
       "sourceId": 7,
@@ -841,10 +859,10 @@
       "id": "s6",
       "title": "Section F · 다음 주어진 말에 이어질 대화를 순서대로 배열하시오.",
       "directionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
+      "ruleKo": "순서대로 누르세요. 기호는 쓰지 않아요.",
+      "instructionKo": "다음 주어진 말에 이어질 대화를 순서대로 배열하시오. 순서대로 누르세요. 기호는 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
       "itemCount": 1
     },
     {

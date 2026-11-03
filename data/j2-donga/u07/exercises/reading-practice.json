@@ -9,7 +9,7 @@
     "160",
     "161"
   ],
-  "questionCount": 25,
+  "questionCount": 29,
   "omitted": [],
   "questions": [
     {
@@ -465,23 +465,45 @@
       "sourceId": 17,
       "group": "13-19",
       "explainKo": "dress up like: ~처럼 분장하다. hold a parade: 퍼레이드를 벌이다.",
-      "promptEn": "[17] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.\nPeople dress ______ skeletons and ______ big parades.",
+      "promptEn": "[17] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.\nPeople dress (1)______ skeletons and (2)______ big parades.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
-        "up like, hold",
-        "up like hold",
-        "up like / hold"
+        "up like"
       ],
       "directionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "phraseBlank": true,
-      "id": "17",
+      "id": "17-1",
       "section": "s17",
       "sectionTitle": "Section Q · 윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "17"
+      "label": "17-1",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 17,
+      "group": "13-19",
+      "explainKo": "dress up like: ~처럼 분장하다. hold a parade: 퍼레이드를 벌이다.",
+      "promptEn": "[17] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.\nPeople dress (1)______ skeletons and (2)______ big parades.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "hold"
+      ],
+      "directionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "17-2",
+      "section": "s17",
+      "sectionTitle": "Section Q · 윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
+      "sectionInstructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17-2",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다."
     },
     {
       "sourceId": 18,
@@ -514,23 +536,45 @@
       "sourceId": 19,
       "group": "13-19",
       "explainKo": "멕시코 사람들은 일 년에 한 번 집으로 돌아오는 죽은 사람들을 맞이하기 위해 11월에 Day of the Dead를 기념한다.",
-      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.\nMexicans celebrate the Day of the Dead in November to ______ dead people who ______ once a year.",
+      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.\nMexicans celebrate the Day of the Dead in November to (1)______ dead people who (2)______ once a year.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
-        "welcome, come back home",
-        "welcome come back home",
-        "welcome / come back home"
+        "welcome"
       ],
       "directionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "phraseBlank": true,
-      "id": "19",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "19-1",
       "section": "s19",
       "sectionTitle": "Section S · 윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
-      "sectionInstructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19"
+      "label": "19-1",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 19,
+      "group": "13-19",
+      "explainKo": "멕시코 사람들은 일 년에 한 번 집으로 돌아오는 죽은 사람들을 맞이하기 위해 11월에 Day of the Dead를 기념한다.",
+      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that ⓐ once a year dead people come back home to meet their family and friends. (A) They call this day the Day of the Dead. To welcome dead people, Mexicans ⓑ hold a festival on November 1 and 2. They believe (B) it is important to (C) ______ dead people. So, people ⓒ set up altars in their homes and have big parties ⓓ in cemeteries. ⓔ In some areas, (D) 사람들은 해골처럼 분장하고 큰 퍼레이드를 벌인다.\n\n윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.\nMexicans celebrate the Day of the Dead in November to (1)______ dead people who (2)______ once a year.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "come back home"
+      ],
+      "directionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "19-2",
+      "section": "s19",
+      "sectionTitle": "Section S · 윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
+      "sectionInstructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "19-2",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다."
     },
     {
       "sourceId": 20,
@@ -590,23 +634,67 @@
       "sourceId": 22,
       "group": "20-25",
       "explainKo": "Fur Rondy 축제는 알래스카에서 2월 말에 열린다. 방문객들은 겨울 스포츠, 알래스카 전통 게임, 그리고 순록 경주와 같은 특별한 행사를 즐길 수 있다. 많은 방문객들은 그저 재미로 그 행사에 참여한다.",
-      "promptEn": "[25] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\n윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.\nThe Fur Rondy festival is held in Alaska at the end of ______. Visitors can enjoy winter sports, Alaskan ______ games, and special events like the Running of the Reindeer. Many visitors take part in the event just for ______.",
+      "promptEn": "[25] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\n윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.\nThe Fur Rondy festival is held in Alaska at the end of (1)______. Visitors can enjoy winter sports, Alaskan (2)______ games, and special events like the Running of the Reindeer. Many visitors take part in the event just for (3)______.",
       "type": "fill",
       "answerMode": "words",
       "accept": [
-        "February, traditional, fun",
-        "February traditional fun",
-        "February / traditional / fun"
+        "February"
       ],
       "directionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "phraseBlank": true,
-      "id": "22",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "22-1",
       "section": "s22",
       "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
-      "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "22"
+      "label": "22-1",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 22,
+      "group": "20-25",
+      "explainKo": "Fur Rondy 축제는 알래스카에서 2월 말에 열린다. 방문객들은 겨울 스포츠, 알래스카 전통 게임, 그리고 순록 경주와 같은 특별한 행사를 즐길 수 있다. 많은 방문객들은 그저 재미로 그 행사에 참여한다.",
+      "promptEn": "[25] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\n윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.\nThe Fur Rondy festival is held in Alaska at the end of (1)______. Visitors can enjoy winter sports, Alaskan (2)______ games, and special events like the Running of the Reindeer. Many visitors take part in the event just for (3)______.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "traditional"
+      ],
+      "directionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "22-2",
+      "section": "s22",
+      "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
+      "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "22-2",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 22,
+      "group": "20-25",
+      "explainKo": "Fur Rondy 축제는 알래스카에서 2월 말에 열린다. 방문객들은 겨울 스포츠, 알래스카 전통 게임, 그리고 순록 경주와 같은 특별한 행사를 즐길 수 있다. 많은 방문객들은 그저 재미로 그 행사에 참여한다.",
+      "promptEn": "[25] 다음 글을 읽고, 물음에 답하시오.\n\n______ the end of February, people ______ Alaska hold the Fur Rondy festival, one of biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such ______ the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't (B) matter. Everyone is just having fun!\n\n윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.\nThe Fur Rondy festival is held in Alaska at the end of (1)______. Visitors can enjoy winter sports, Alaskan (2)______ games, and special events like the Running of the Reindeer. Many visitors take part in the event just for (3)______.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "fun"
+      ],
+      "directionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "22-3",
+      "section": "s22",
+      "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
+      "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "22-3",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 씁니다."
     },
     {
       "sourceId": 23,
@@ -850,11 +938,11 @@
       "id": "s17",
       "title": "Section Q · 윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
       "directionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s18",
@@ -870,11 +958,11 @@
       "id": "s19",
       "title": "Section S · 윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
       "directionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "id": "s20",
@@ -900,11 +988,11 @@
       "id": "s22",
       "title": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
       "directionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "itemCount": 1
+      "itemCount": 3
     },
     {
       "id": "s23",

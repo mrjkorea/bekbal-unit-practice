@@ -502,22 +502,35 @@
       "group": "17",
       "explainKo": "ⓐ는 Schofield의 한국식 이름인 Seok Hopil을 가리키고, ⓑ는 그의 본명인 Frank W. Schofield를 가리킨다.",
       "promptEn": "6과\n[17-19] 다음 글을 읽고 물음에 답하시오.\n\nDo you know Seok Hopil? His English name was Frank W. Schofield, but he loved his Korean name. ⓐIt sounded similar to ⓑhis real name, and it also had a good meaning.\n\nDr. Schofield was a Canadian doctor, and he first came to Korea in 1916 to teach medicine. He wanted to teach in Korean, so he began to learn Korean right away. He studied so hard that he was able to teach in Korean after only a few years. (A) He believed that every country have the right to be independent, so he helped the Korean independence movement.\n\n윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "type": "fill",
-      "answerMode": "words",
-      "accept": [
-        "(a) Seok Hopil (b) Frank W. Schofield",
-        "Seok Hopil, Frank W. Schofield",
-        "Seok Hopil / Frank W. Schofield"
-      ],
+      "type": "parts",
+      "answerMode": "parts",
       "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
       "phraseBlank": true,
       "id": "17",
       "section": "s16",
       "sectionTitle": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19"
+      "label": "19",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "ⓐ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "Seok Hopil"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "ⓑ",
+          "placeholder": "이 빈칸 말만",
+          "accept": [
+            "Frank W. Schofield"
+          ]
+        }
+      ]
     },
     {
       "sourceId": 18,
@@ -897,9 +910,9 @@
       "id": "s16",
       "title": "Section P · 윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
       "directionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오.",
-      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
+      "ruleKo": "이 빈칸 말만 쓰세요.",
+      "instructionKo": "윗글의 밑줄 친 ⓐ와 ⓑ가 각각 가리키는 이름을 찾아 쓰시오. 이 빈칸 말만 쓰세요.",
+      "answerMode": "parts",
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 1
     },
