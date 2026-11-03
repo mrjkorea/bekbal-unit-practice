@@ -6,13 +6,8 @@
   "sourcePages": [
     "167"
   ],
-  "questionCount": 6,
-  "omitted": [
-    {
-      "n": 5,
-      "reason": "밑줄 ①~⑤가 김장 축제 지문의 어디를 가리키는지 모두 읽을 수 없음"
-    }
-  ],
+  "questionCount": 7,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -68,6 +63,21 @@
       ],
       "corAns": "5",
       "explainKo": "전 세계의 다양한 축제에 대해 소개하고 있으므로 글의 주제로 ⑤ '다른 나라의 재미있는 축제들'이 가장 적절하다. ① 축제의 역사. ② 가장 유명한 축제. ③ 전통을 기념하는 방법. ④ 4대 전통 놀이들."
+    },
+    {
+      "group": "05-07",
+      "type": "TMC",
+      "question": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEnjoy ①Making Gimchi in Goesan!\n\nThe Goesan Gimjang festival ②is taken place in Goesan on the first weekend of November. ③During the festival, many people come together to make gimchi. There ④are also other events such as K-pop concerts. Come to Goesan and ⑤enjoy the festival. ⓐTo make gimchi together will be fun.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① Making",
+        "② is taken place",
+        "③ During",
+        "④ are",
+        "⑤ enjoy"
+      ],
+      "corAns": "2",
+      "explainKo": "take place는 '개최되다, 열리다'라는 뜻의 자동사라서 수동태로 쓸 수 없다. ② is taken place는 takes place가 되어야 한다.",
+      "id": 5
     },
     {
       "id": 6,

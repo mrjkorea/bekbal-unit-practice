@@ -9,13 +9,8 @@
     "170",
     "171"
   ],
-  "questionCount": 24,
-  "omitted": [
-    {
-      "n": 5,
-      "reason": "대화의 빈칸 위치가 OCR에 없어 질문을 넣을 곳을 확정할 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -61,6 +56,17 @@
         "There is a library between the school and the park"
       ],
       "explainKo": "there is: ~이 있다. between A and B: A와 B 사이에."
+    },
+    {
+      "group": "05-06",
+      "type": "TST",
+      "question": "[05] 다음 대화를 읽고, 물음에 답하시오.\n\nB: They have tteokbokki and gimbap here.\n______\nG: I like tteokbokki much better. I like spicy food.\nB: Then, let's order tteokbokki. It looks delicious.\nG: OK. I'm so hungry!\n\n위 대화의 빈칸에 들어갈 적절한 질문을 주어진 단어를 이용하여 쓰시오.\n(the two, better, like)",
+      "answers": [
+        "Which of the two do you like better?",
+        "Which of the two do you like better"
+      ],
+      "explainKo": "주어진 단어에 the two가 있으므로 Which of the two do you like better?로 선호를 묻는 질문을 완성한다.",
+      "id": 5
     },
     {
       "id": 6,

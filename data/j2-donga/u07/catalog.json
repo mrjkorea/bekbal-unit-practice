@@ -3,7 +3,7 @@
   "unit": "u07",
   "label": "Lesson 07 Let's Enjoy Festivals",
   "status": "ready",
-  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. 질문 PDF로 확인한 문항은 넣었고, 아직 정답 번호를 확정하지 못한 문항만 빠져 있습니다.",
+  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. L07 본책은 답지로 남은 문항까지 넣었습니다.",
   "sections": [
     {
       "key": "A",
@@ -92,20 +92,17 @@
         {
           "id": "reading-advanced",
           "title": "Reading 심화 문제",
-          "questionCount": 23,
-          "omittedCount": 2
+          "questionCount": 25
         },
         {
           "id": "plus-practice",
           "title": "Plus 기타 지문 실전 문제",
-          "questionCount": 6,
-          "omittedCount": 1
+          "questionCount": 7
         },
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "questionCount": 24,
-          "omittedCount": 1
+          "questionCount": 25
         }
       ]
     },
@@ -157,14 +154,12 @@
         {
           "id": "mock-100",
           "title": "100발 100중 모의고사",
-          "questionCount": 23,
-          "omittedCount": 2
+          "questionCount": 25
         },
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "questionCount": 22,
-          "omittedCount": 3
+          "questionCount": 25
         },
         {
           "id": "final-1",

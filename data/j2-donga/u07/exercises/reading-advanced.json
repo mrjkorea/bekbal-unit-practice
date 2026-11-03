@@ -9,17 +9,8 @@
     "164",
     "165"
   ],
-  "questionCount": 23,
-  "omitted": [
-    {
-      "n": 16,
-      "reason": "빈칸 ⓐ~ⓒ 짝짓기 선택지 ④를 읽을 수 없음"
-    },
-    {
-      "n": 19,
-      "reason": "관련 내용 짝 선택지가 깨져 ③이 무엇인지 읽을 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -230,6 +221,21 @@
       "explainKo": "멕시코 사람들이 죽은 사람을 기리기 위해 여는 축제에 관한 내용인데, ③ '일부 사람들은 사후 세계를 믿지만 일부는 믿지 않는다.'는 글의 전체 흐름에서 벗어난다."
     },
     {
+      "group": "15-20",
+      "type": "TMC",
+      "question": "[16] 다음 글을 읽고, 물음에 답하시오.\n\n① Many Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead.\n② To welcome dead people, Mexicans hold a festival ⓐ ______ November 1 and 2. (A) 그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.\n③ Some people believe in the afterlife, but others do not.\n④ So, people set ⓑ ______ altars in their homes and have big parties in cemeteries.\n⑤ In some areas, people dress ⓒ ______ like skeletons and hold big parades.\n\n윗글의 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+      "answers": [
+        "on / in / as",
+        "on / up / up",
+        "at / in / in",
+        "in / up / in",
+        "in / up / up"
+      ],
+      "corAns": "2",
+      "explainKo": "ⓐ 특정한 날(November 1 and 2) 앞에는 전치사 on을 쓴다. ⓑ set up(설치하다, 세우다). ⓒ dress up(분장하다).",
+      "id": 16
+    },
+    {
       "id": 17,
       "group": "15-20",
       "type": "TST",
@@ -253,6 +259,21 @@
       ],
       "corAns": "5",
       "explainKo": "죽은 사람들을 기리는 멕시코의 축제에 관한 글이므로 주제로는 ⑤ '죽은 사람들을 위한 멕시코의 전통'이 가장 적절하다. ① 멕시코의 가정생활. ② 멕시코의 파티 문화. ③ 멕시코의 다양한 축제. ④ 멕시코의 전통 의상."
+    },
+    {
+      "group": "15-20",
+      "type": "TMC",
+      "question": "[19] 다음 글을 읽고, 물음에 답하시오.\n\n① Many Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead.\n② To welcome dead people, Mexicans hold a festival ⓐ ______ November 1 and 2. (A) 그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.\n③ Some people believe in the afterlife, but others do not.\n④ So, people set ⓑ ______ altars in their homes and have big parties in cemeteries.\n⑤ In some areas, people dress ⓒ ______ like skeletons and hold big parades.\n\n윗글의 Day of the Dead 축제와 관련 있는 것끼리 짝지어진 것은?\nⓐ 묘지에 고인을 위한 제단을 차린다.\nⓑ 일부 지역 사람들은 해골처럼 분장하고 거리를 행진한다.\nⓒ 고인을 기리는 큰 축제를 하루 동안 연다.\nⓓ 일 년에 한 번 고인이 가족이나 친구를 찾아온다는 믿음에서 비롯되었다.\nⓔ 묘지에서 큰 파티를 열어 고인을 추모한다.",
+      "answers": [
+        "ⓐ, ⓒ, ⓓ",
+        "ⓐ, ⓑ, ⓔ",
+        "ⓑ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ",
+        "ⓑ, ⓒ, ⓓ, ⓔ"
+      ],
+      "corAns": "3",
+      "explainKo": "ⓐ 제단은 묘지가 아니라 집에 차린다. ⓒ 축제는 11월 1일과 2일, 이틀 동안 열린다. 글과 맞는 것은 ⓑ, ⓓ, ⓔ이다.",
+      "id": 19
     },
     {
       "id": 20,
