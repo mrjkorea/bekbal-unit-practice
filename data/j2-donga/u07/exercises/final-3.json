@@ -334,12 +334,12 @@
       "id": 24,
       "group": "24",
       "type": "TST",
-      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Is it possible ⓑto do so? Not really, but it doesn't matter. Everyone is just having fun!\n\n윗글의 밑줄 친 ⓑ가 가리키는 것을 찾아 쓰시오.",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Is it possible to do so? Not really, but ⓑit doesn't matter. Everyone is just having fun!\n\n윗글의 밑줄 친 ⓑ가 가리키는 것을 찾아 쓰시오.",
       "answers": [
         "to run faster than reindeer",
         "to run faster than reindeer."
       ],
-      "explainKo": "ⓑ to do so는 바로 앞 문장의 to run faster than reindeer(순록보다 빨리 달리는 것)를 가리킨다."
+      "explainKo": "문맥상 ⓑ가 포함된 문장은 '순록보다 빨리 달리는 것이 중요하지 않다'는 의미이므로 it이 가리키는 것은 to run faster than reindeer이다."
     },
     {
       "id": 25,
