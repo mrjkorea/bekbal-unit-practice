@@ -1,0 +1,360 @@
+{
+  "id": "mock-100",
+  "title": "100발 100중 모의고사",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "172-175",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?\n① area : region\n② various : diverse\n③ light : heavy\n④ giant : huge\n⑤ hardly : scarcely",
+      "answers": [
+        "area : region",
+        "various : diverse",
+        "light : heavy",
+        "giant : huge",
+        "hardly : scarcely"
+      ],
+      "corAns": "3",
+      "explainKo": "①, ②, ④, ⑤는 유의어 관계이고, ③은 반의어 관계이다. ① 지역, 구역 ② 다양한 ③ 가벼운 : 무거운 ④ 거대한 ⑤ 거의 아니다."
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\n\na figure of a person or animal that is made of stone, metal, or other hard materials\n① statue\n② recipe\n③ skeleton\n④ altar\n⑤ costume",
+      "answers": [
+        "statue",
+        "recipe",
+        "skeleton",
+        "altar",
+        "costume"
+      ],
+      "corAns": "1",
+      "explainKo": "돌, 금속, 또는 다른 단단한 물질로 만든 사람이나 동물의 형상 → statue(조각상). ② 요리법 ③ 해골, 뼈대 ④ 제단 ⑤ 의상, 복장."
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n\n누구나 무료로 그 행사에 참여할 수 있다.\nAnyone can ______ the event for free.",
+      "answers": [
+        "participate in",
+        "participatein"
+      ],
+      "explainKo": "participate in: ~에 참여하다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "다음 대화의 밑줄 친 부분과 바꿔 쓸 수 있는 것을 모두 고르면?\n\nA: Which do you like more, the red flowers or the yellow flowers?\nB: I like the yellow flowers more.\n① Why do you like\n② What do you want\n③ Which do you prefer\n④ What makes you like\n⑤ Which do you like better\n\n번호만 쓰시오. (예: 1, 3)",
+      "answers": [
+        "3, 5",
+        "3,5",
+        "3 5",
+        "③, ⑤",
+        "③⑤"
+      ],
+      "explainKo": "선호하는 것을 물을 때 Which do you like more/better, A or B?, Which do you prefer, A or B?로 표현할 수 있다."
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 대화의 밑줄 친 ⓐ와 ⓑ의 의도가 바르게 짝지어진 것은?\n\nB: We can do face painting or play VR games. ⓐWhich do you like more?\nG: I like face painting more. ⓑWhat about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\n① ⓐ 선호 묻기 / ⓑ 의견 묻기\n② ⓐ 이유 묻기 / ⓑ 선호 묻기\n③ ⓐ 선호 묻기 / ⓑ 경험 묻기\n④ ⓐ 이유 묻기 / ⓑ 의견 묻기\n⑤ ⓐ 경험 묻기 / ⓑ 선호 묻기",
+      "answers": [
+        "ⓐ 선호 묻기 / ⓑ 의견 묻기",
+        "ⓐ 이유 묻기 / ⓑ 선호 묻기",
+        "ⓐ 선호 묻기 / ⓑ 경험 묻기",
+        "ⓐ 이유 묻기 / ⓑ 의견 묻기",
+        "ⓐ 경험 묻기 / ⓑ 선호 묻기"
+      ],
+      "corAns": "1",
+      "explainKo": "ⓐ는 둘 중 어느 것을 더 좋아하는지 묻는 표현이고, ⓑ는 상대방은 어떤지 의견을 묻는 표현이다."
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TST",
+      "question": "다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl is going to study for an exam at the library this weekend.",
+      "answers": [
+        "the library → home",
+        "the library→home",
+        "thelibrary→home",
+        "library → home",
+        "library→home",
+        "home"
+      ],
+      "explainKo": "소녀는 이번 주말에 도서관(집)에서 시험공부할 것이다."
+    },
+    {
+      "group": "07",
+      "type": "TMC",
+      "question": "다음 대화를 순서대로 바르게 배열한 것은?\n\nⓐ OK. Let's order pizza or pasta.\nⓑ Which do you like more?\nⓒ Alice, I'm hungry. Let's have lunch.\nⓓ I like pizza more.",
+      "answers": [
+        "ⓐ - ⓒ - ⓑ - ⓓ",
+        "ⓑ - ⓐ - ⓒ - ⓓ",
+        "ⓑ - ⓒ - ⓓ - ⓐ",
+        "ⓒ - ⓐ - ⓑ - ⓓ",
+        "ⓒ - ⓑ - ⓓ - ⓐ"
+      ],
+      "corAns": "4",
+      "explainKo": "ⓒ Alice, 배고파. 점심 먹자. → ⓐ 좋아. 피자나 파스타를 주문하자. → ⓑ 어느 게 더 좋아? → ⓓ 피자가 더 좋아.",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TMC",
+      "question": "다음 중 어법상 틀린 것을 고르시오.\n① They named the ship Hope.\n② We elected Henry chairperson.\n③ Some people called him a genius.\n④ The company made a bestseller by the product.\n⑤ Grandma called me Prince when I was young.",
+      "answers": [
+        "They named the ship Hope.",
+        "We elected Henry chairperson.",
+        "Some people called him a genius.",
+        "The company made a bestseller by the product.",
+        "Grandma called me Prince when I was young."
+      ],
+      "corAns": "4",
+      "explainKo": "④ a bestseller by the product → the product a bestseller. 5형식 동사 make는 뒤에 「목적어+목적격 보어」 어순으로 쓰며, 목적격 보어는 전치사 없이 쓴다. ① 그들은 그 배를 '희망호'라고 이름 지었다. ③ 몇몇 사람들은 그를 천재라고 불렀다. ④ 그 회사는 그 제품을 베스트셀러로 만들었다. ⑤ 할머니는 내가 어렸을 때 나를 '왕자님'이라고 부르셨다."
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 중 어법상 틀린 것을 고르시오.\n① It's my goal to finish a half marathon this year.\n② It is important not to waste time.\n③ Is this safe to swim here?\n④ It's fun to play board games with friends.\n⑤ It is useful to read a guidebook when you travel.",
+      "answers": [
+        "It's my goal to finish a half marathon this year.",
+        "It is important not to waste time.",
+        "Is this safe to swim here?",
+        "It's fun to play board games with friends.",
+        "It is useful to read a guidebook when you travel."
+      ],
+      "corAns": "3",
+      "explainKo": "③ this → it. to swim here가 진주어이므로 주어 자리에는 가주어 it이 와야 한다. ① 올해 하프 마라톤을 완주하는 것이 나의 목표이다. ② 시간을 낭비하지 않는 것은 중요하다. ③ 여기서 수영하는 게 안전한가요? ④ 친구들과 보드게임을 하는 것은 재미있다. ⑤ 여행할 때 안내책자를 읽는 것은 유용하다."
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TMC",
+      "question": "다음 우리말을 가주어 it을 사용하여 영작할 때 여섯 번째로 오는 것은?\n\n아침 식사를 거르지 않는 것이 좋다.\n① good\n② not\n③ skip\n④ to\n⑤ breakfast",
+      "answers": [
+        "good",
+        "not",
+        "skip",
+        "to",
+        "breakfast"
+      ],
+      "corAns": "3",
+      "explainKo": "우리말을 영작하면 It is good not to skip breakfast.이므로 여섯 번째로 오는 단어는 skip이다."
+    },
+    {
+      "id": 11,
+      "group": "11",
+      "type": "TST",
+      "question": "다음 문장에서 어법상 틀린 부분을 고쳐 문장을 다시 쓰시오.\n\nIt's very kind of you brought me some food.",
+      "answers": [
+        "It's very kind of you to bring me some food.",
+        "It'sverykindofyoutobringmesomefood."
+      ],
+      "explainKo": "it은 가주어이고 of you가 to부정사의 의미상 주어이므로 진주어에 해당하는 brought를 to bring으로 고쳐야 한다. 나에게 음식을 가져다주시다니 당신은 정말 친절하시군요."
+    },
+    {
+      "group": "12",
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ It is good for the environment saves energy.\nⓑ What do you call it in English?\nⓒ His hard work made him a great pianist.\nⓓ It's helpful to review lessons every day.\nⓔ The club elected him to the leader.",
+      "answers": [
+        "ⓐ, ⓑ, ⓓ",
+        "ⓑ, ⓒ, ⓓ",
+        "ⓑ, ⓒ, ⓔ",
+        "ⓑ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "corAns": "2",
+      "explainKo": "ⓐ saves는 가주어 It의 진주어 to save가 되어야 한다. ⓔ elect의 목적격보어 앞에는 전치사 to가 필요 없다. 옳은 것은 ⓑ, ⓒ, ⓓ이다.",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "group": "13",
+      "type": "TST",
+      "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n\n[조건]\n1. follow, everyone, the traffic rules를 이용하되 필요시 어형을 바꿀 것.\n2. 가주어를 사용하여 총 10단어로 쓸 것.\n3. 대소문자와 구두점에 유의할 것.\n\n모두가 교통 규칙을 지키는 것은 중요하다.",
+      "answers": [
+        "It is important for everyone to follow the traffic rules.",
+        "Itisimportantforeveryonetofollowthetrafficrules."
+      ],
+      "explainKo": "가주어 It을 주어 자리에 쓰고 진주어 to부정사구(to follow the traffic rules)를 문장 뒤로 보낸다. 진주어 앞에 의미상 주어 for everyone을 쓴다."
+    },
+    {
+      "id": 14,
+      "group": "14",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. (①) This festival takes place from March 15 to 19. (②) During the festival, people enjoy parades and fireworks. (③) You can find hundreds of them all over the city. (④) Surprisingly, the fallas are burned on the last day of the festival. (⑤) Burning them ⓐ______ saying goodbye to old things and hello to a new start.\n\n윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nThe stars of the festival are fallas, giant wooden statues.",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "3",
+      "explainKo": "주어진 문장은 축제의 주인공인 파야(fallas)를 소개하는 문장으로, ③ 뒤의 hundreds of them에서 them이 fallas를 지칭하므로 ③에 들어가는 것이 가장 적절하다."
+    },
+    {
+      "id": 15,
+      "group": "15",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. (①) This festival takes place from March 15 to 19. (②) During the festival, people enjoy parades and fireworks. (③) You can find hundreds of them all over the city. (④) Surprisingly, the fallas are burned on the last day of the festival. (⑤) Burning them ⓐ______ saying goodbye to old things and hello to a new start.\n\n윗글의 빈칸 ⓐ에 들어갈 말의 영영풀이로 가장 적절한 것은?\n① to be important\n② to represent something\n③ to destroy or damage something by fire\n④ to join an activity or do something with others\n⑤ to make something more beautiful by adding things",
+      "answers": [
+        "to be important",
+        "to represent something",
+        "to destroy or damage something by fire",
+        "to join an activity or do something with others",
+        "to make something more beautiful by adding things"
+      ],
+      "corAns": "2",
+      "explainKo": "파야들을 불태우는 것은 새로운 시작을 맞이함을 상징한다는 내용이므로 빈칸에는 ② '어떤 것을 나타내다'라는 의미의 symbolize(상징하다)가 알맞다. ① 중요하다 → matter ③ 불로 무언가를 파괴하거나 손상시키다 → burn ④ 활동에 참여하거나 다른 사람들과 함께 무언가를 하다 → participate ⑤ 물건을 더해 무언가를 더 아름답게 만들다 → decorate."
+    },
+    {
+      "id": 16,
+      "group": "16",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer.\n(A) ⓐDuring the festival, people decorate a tall pole with flowers and green leaves and enjoy ⓑtraditional dances around it. Because the sun ⓒhardly sets at this time of year in Sweden, people can enjoy the festival ⓓall night long.\n(B) They call it the Midsummer festival. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.\n(C) ⓔTo celebrate the longest day of the year, they have a special festival.\n\n윗글의 주어진 문장에 이어질 글을 순서대로 바르게 배열한 것은?\n주어진 문장: Winter in Sweden is long and dark, so the people there especially welcome summer.",
+      "answers": [
+        "(A) - (C) - (B)",
+        "(B) - (A) - (C)",
+        "(B) - (C) - (A)",
+        "(C) - (A) - (B)",
+        "(C) - (B) - (A)"
+      ],
+      "corAns": "5",
+      "explainKo": "스웨덴 사람들이 낮이 가장 긴 날을 기념하기 위해 여는 특별한 축제(a special festival)를 소개하는 (C)가 가장 먼저 오고, a special festival을 대명사 it으로 받아 축제 이름을 소개하는 (B)가 나온 뒤, 마지막으로 축제 기간 중의 행사를 소개하는 (A)로 이어지는 흐름이 자연스럽다."
+    },
+    {
+      "id": 17,
+      "group": "17",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer.\n(A) ⓐDuring the festival, people decorate a tall pole with flowers and green leaves and enjoy ⓑtraditional dances around it. Because the sun ⓒhardly sets at this time of year in Sweden, people can enjoy the festival ⓓall night long.\n(B) They call it the Midsummer festival. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.\n(C) ⓔTo celebrate the longest day of the year, they have a special festival.\n\n윗글의 밑줄 친 ⓐ~ⓔ의 뜻풀이가 바르지 않은 것은?\n① ⓐ: 축제 동안\n② ⓑ: 전통 춤들\n③ ⓒ: 절대 지지 않는다\n④ ⓓ: 밤새도록\n⑤ ⓔ: 기념하기 위해서",
+      "answers": [
+        "ⓐ: 축제 동안",
+        "ⓑ: 전통 춤들",
+        "ⓒ: 절대 지지 않는다",
+        "ⓓ: 밤새도록",
+        "ⓔ: 기념하기 위해서"
+      ],
+      "corAns": "3",
+      "explainKo": "hardly는 '거의 ~이 아니다'라는 뜻이므로 '거의 지지 않는다'라는 의미이다."
+    },
+    {
+      "id": 18,
+      "group": "18",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nWinter in Sweden is long and dark, so the people there especially welcome summer.\n(A) ⓐDuring the festival, people decorate a tall pole with flowers and green leaves and enjoy ⓑtraditional dances around it. Because the sun ⓒhardly sets at this time of year in Sweden, people can enjoy the festival ⓓall night long.\n(B) They call it the Midsummer festival. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.\n(C) ⓔTo celebrate the longest day of the year, they have a special festival.\n\nAccording to the passage, which one CANNOT be answered?\n① Why do people in Sweden welcome summer?\n② What do people decorate during the festival?\n③ Why can people enjoy the festival all night long?\n④ What is the name of the festival they celebrate?\n⑤ How many people join the festival each year?",
+      "answers": [
+        "Why do people in Sweden welcome summer?",
+        "What do people decorate during the festival?",
+        "Why can people enjoy the festival all night long?",
+        "What is the name of the festival they celebrate?",
+        "How many people join the festival each year?"
+      ],
+      "corAns": "5",
+      "explainKo": "① 왜 스웨덴 사람들은 여름을 반기는가? (→ 스웨덴의 겨울이 길고 어둡기 때문에) ② 축제 동안 사람들은 무엇을 장식하는가? (→ 긴 기둥) ③ 왜 사람들은 밤새도록 축제를 즐길 수 있는가? (→ 해가 거의 지지 않아서) ④ 그들이 기념하는 축제의 이름은 무엇인가? (→ Midsummer 축제) ⑤ 매년 몇 명이 그 축제에 참여하는가? (→ 알 수 없음)"
+    },
+    {
+      "id": 19,
+      "group": "19",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. ⓐThey believe this is important to remember dead people. ⓑ______ people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 바르게 고쳐 쓰시오.",
+      "answers": [
+        "this → it",
+        "this→it"
+      ],
+      "explainKo": "believe의 목적어인 명사절에 「it(가주어) - to부정사(구)(진주어)」 구문이 쓰인 문장이므로 this를 가주어 it으로 고쳐야 한다."
+    },
+    {
+      "id": 20,
+      "group": "20",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. ⓐThey believe this is important to remember dead people. ⓑ______ people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?\n① So\n② However\n③ Instead\n④ Moreover\n⑤ In other words",
+      "answers": [
+        "So",
+        "However",
+        "Instead",
+        "Moreover",
+        "In other words"
+      ],
+      "corAns": "1",
+      "explainKo": "멕시코 사람들은 죽은 사람들을 기억하는 것이 중요하다고 생각하기 때문에(원인) 집에 제단을 차리고 묘지에서 축제를 하는 것(결과)이라는 흐름이므로 빈칸에는 결과를 나타내는 So(그래서)가 가장 적절하다. ② 하지만 ③ 대신에 ④ 게다가 ⑤ 다시 말해서"
+    },
+    {
+      "id": 21,
+      "group": "21",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nAt the end of February, people in Alaska ⓐhold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Is ⓑ______ possible to do so? Not really, but ⓒ______ doesn't matter. Everyone is just having ⓓ______!\n\n윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?\n① Please hold for a moment.\n② The workers hold a meeting every Monday.\n③ She was holding her mom's hand tightly.\n④ He holds strong beliefs about education.\n⑤ This bottle can hold two liters of water.",
+      "answers": [
+        "Please hold for a moment.",
+        "The workers hold a meeting every Monday.",
+        "She was holding her mom's hand tightly.",
+        "He holds strong beliefs about education.",
+        "This bottle can hold two liters of water."
+      ],
+      "corAns": "2",
+      "explainKo": "hold는 '열다, 개최하다; 잡다, 수용하다, (전화를 끊지 않고) 기다리다' 등의 다양한 의미를 갖는데 ⓐ와 ②는 '열다, 개최하다'의 의미로 쓰였다. ① 잠시만 기다려 주세요. ② 그 직원들은 매주 월요일마다 회의를 한다. ③ 그녀는 엄마의 손을 꼭 잡고 있었다. ④ 그는 교육에 관한 강한 신념을 가지고 있다. ⑤ 이 병은 물 2리터를 담을 수 있다."
+    },
+    {
+      "id": 22,
+      "group": "22",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nAt the end of February, people in Alaska ⓐhold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Is ⓑ______ possible to do so? Not really, but ⓒ______ doesn't matter. Everyone is just having ⓓ______!\n\n윗글의 빈칸 ⓑ와 ⓒ에 공통으로 들어갈 말로 가장 적절한 것은?\n① it\n② that\n③ this\n④ they\n⑤ these",
+      "answers": [
+        "it",
+        "that",
+        "this",
+        "they",
+        "these"
+      ],
+      "corAns": "1",
+      "explainKo": "ⓑ에는 진주어인 to부정사구(to do so)에 대응하는 가주어 it이 필요하고, ⓒ에는 앞 문장의 내용을 받는 대명사 it이 필요하다."
+    },
+    {
+      "id": 23,
+      "group": "23",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nAt the end of February, people in Alaska ⓐhold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Is ⓑ______ possible to do so? Not really, but ⓒ______ doesn't matter. Everyone is just having ⓓ______!\n\n윗글의 빈칸 ⓓ에 들어갈 알맞은 말을 찾아 한 단어로 쓰시오.",
+      "answers": [
+        "fun"
+      ],
+      "explainKo": "재미있는 복장(fun costumes)을 하고 경주를 하며 순록보다 빨리 달리는 것은 중요하지 않다고 했으므로 그저 즐기기(having fun) 위한 경주임을 알 수 있다. have fun: 즐겁게 지내다, 즐기다."
+    },
+    {
+      "id": 24,
+      "group": "24",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nEnjoy ⓐ(Make) Gimchi in Goesan!\n\nThe Goesan Gimjang festival takes place in Goesan on the first weekend of November. During the festival, many people come together to make gimchi. (A) 케이팝 콘서트와 같은 다른 행사들도 있습니다.\nCome to Goesan and enjoy the festival. It will be fun ⓑ(make) gimchi together.\n\n윗글의 괄호 ⓐ와 ⓑ 안의 동사의 올바른 형태가 바르게 짝지어진 것은?\n① Make / to make\n② Make / making\n③ Making / to make\n④ Making / make\n⑤ To make / making",
+      "answers": [
+        "Make / to make",
+        "Make / making",
+        "Making / to make",
+        "Making / make",
+        "To make / making"
+      ],
+      "corAns": "3",
+      "explainKo": "ⓐ enjoy는 동명사를 목적어로 취하므로 Making이 알맞다. ⓑ 가주어 It에 대한 진주어 자리이므로 to부정사 to make가 알맞다."
+    },
+    {
+      "id": 25,
+      "group": "25",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nEnjoy ⓐ(Make) Gimchi in Goesan!\n\nThe Goesan Gimjang festival takes place in Goesan on the first weekend of November. During the festival, many people come together to make gimchi. (A) 케이팝 콘서트와 같은 다른 행사들도 있습니다.\nCome to Goesan and enjoy the festival. It will be fun ⓑ(make) gimchi together.\n\n윗글의 밑줄 친 (A)의 우리말을 다음 조건에 맞게 바르게 영작하시오.\n\n[조건]\n1. there, also, events, such, K-pop concerts를 이용하여 9단어로 쓸 것.\n2. 대·소문자와 구두점에 유의할 것.",
+      "answers": [
+        "There are also other events such as K-pop concerts.",
+        "TherearealsoothereventssuchasK-popconcerts."
+      ],
+      "explainKo": "~이 있다: There is/are ~. other events가 복수이므로 are를 쓴다. such as: ~와 같은."
+    }
+  ]
+}

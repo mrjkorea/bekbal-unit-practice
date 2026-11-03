@@ -1,0 +1,365 @@
+{
+  "id": "final-1",
+  "title": "최종점검 모의고사 1회",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "84-87",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것은?\n\n누구든지 온라인 설문에 참가할 수 있다.\nAnyone can ______ the online survey.\n① set up\n② dress up\n③ participate in\n④ take place\n⑤ go for a ride",
+      "answers": [
+        "set up",
+        "dress up",
+        "participate in",
+        "take place",
+        "go for a ride"
+      ],
+      "corAns": "3",
+      "explainKo": "참가하다는 participate in이다. ① 설치하다, 세우다 ② 분장하다 ④ 개최되다, 열리다 ⑤ 타러 가다."
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?\n① Let's go home before the sun sets.\n② Your opinion really matters to me.\n③ They ordered dessert after dinner.\n④ The restaurant is famous for its spicy noodles.\n⑤ Many famous heroes are buried in this statue.",
+      "answers": [
+        "Let's go home before the sun sets.",
+        "Your opinion really matters to me.",
+        "They ordered dessert after dinner.",
+        "The restaurant is famous for its spicy noodles.",
+        "Many famous heroes are buried in this statue."
+      ],
+      "corAns": "5",
+      "explainKo": "⑤는 '많은 유명한 영웅들이 이 묘지에 묻혀 있다'가 자연스러우므로 statue(동상)가 아니라 cemetery(묘지)가 되어야 한다. ① 해가 지기 전에 집에 가자. ② 네 의견은 나에게 정말 중요하다. ③ 그들은 저녁 식사 후에 디저트를 주문했다. ④ 그 식당은 매운 국수로 유명하다."
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "다음 빈칸에 들어갈 적절한 말을 보기에서 골라 쓰시오.\n\n[보기] costume / had fun / came back / fireworks\n\nAmazing ______ ended the festival.\nEveryone ______ with it.",
+      "answers": [
+        "fireworks, had fun",
+        "fireworks. had fun",
+        "fireworks / had fun"
+      ],
+      "explainKo": "'멋진 불꽃놀이로 축제는 끝났다. 모두가 그것을 즐겼다.'이므로 fireworks와 had fun이 알맞다. costume: 의상, 복장 / come back: 돌아오다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TMC",
+      "question": "다음 중 의도하는 바가 나머지와 다른 것은?\n① Which do you like better, English or math?\n② Why do you like summer more than winter?\n③ Do you like swimming more than running?\n④ Do you prefer staying home or going out?\n⑤ Which movie do you prefer, the comedy or the action movie?",
+      "answers": [
+        "Which do you like better, English or math?",
+        "Why do you like summer more than winter?",
+        "Do you like swimming more than running?",
+        "Do you prefer staying home or going out?",
+        "Which movie do you prefer, the comedy or the action movie?"
+      ],
+      "corAns": "2",
+      "explainKo": "②는 이유를 묻는 표현이고, 나머지는 모두 선호를 묻는 표현이다. ① 너는 영어와 수학 중 어느 것을 더 좋아하니? ② 너는 왜 겨울보다 여름을 더 좋아하니? ③ 너는 달리기보다 수영을 더 좋아하니? ④ 너는 집에 있는 것과 외출하는 것 중 어느 쪽을 더 선호하니? ⑤ 너는 코미디와 액션 영화 중 어느 영화를 더 좋아하니?"
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 대화를 읽고, 물음에 답하시오.\n\nB: We can do face painting or play VR games. ⓐ ______ do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\n위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?\n① Who\n② Why\n③ When\n④ Which\n⑤ How",
+      "answers": [
+        "Who",
+        "Why",
+        "When",
+        "Which",
+        "How"
+      ],
+      "corAns": "4",
+      "explainKo": "'너는 어느 것을 더 좋아하니?'라는 선호를 묻는 표현이므로 Which가 들어가야 한다."
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TMC",
+      "question": "다음 대화를 읽고, 물음에 답하시오.\n\nB: We can do face painting or play VR games. Which do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\n위 대화의 내용과 일치하는 것은?\n① The girl doesn't like face painting.\n② The boy wants to play VR games.\n③ Both want to wash their face before playing.\n④ The boy likes face painting more than VR games.\n⑤ They decided not to play VR games together.",
+      "answers": [
+        "The girl doesn't like face painting.",
+        "The boy wants to play VR games.",
+        "Both want to wash their face before playing.",
+        "The boy likes face painting more than VR games.",
+        "They decided not to play VR games together."
+      ],
+      "corAns": "2",
+      "explainKo": "소년은 가상현실 게임을 하고 싶다고 했으므로 ②가 일치한다. ① 소녀는 페이스 페인팅을 좋아하지 않는다. (좋아함) ③ 둘 다 게임하기 전에 얼굴을 씻고 싶어 한다. (언급되지 않음) ④ 소년은 가상현실 게임보다 페이스 페인팅을 더 좋아한다. (가상현실 게임을 더 좋아함) ⑤ 그들은 함께 가상현실 게임을 하지 않기로 결정했다. (하기로 결정함)"
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TMC",
+      "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nG: Look! There are lots of pretty flowers here.\nB: Which do you like more, the red flowers or the yellow flowers?\nG: I like the yellow flowers more.\nB: ______\nG: Well, yellow is my favorite color.\n① How many flowers are there here?\n② What do you usually do in this garden?\n③ Why do you like them more?\n④ When did you come to this garden?\n⑤ What kinds of flowers do you like?",
+      "answers": [
+        "How many flowers are there here?",
+        "What do you usually do in this garden?",
+        "Why do you like them more?",
+        "When did you come to this garden?",
+        "What kinds of flowers do you like?"
+      ],
+      "corAns": "3",
+      "explainKo": "빈칸 다음에 소녀가 '노란색은 내가 가장 좋아하는 색이야.'라고 답하므로, 이유를 묻는 ③ Why do you like them more?가 알맞다. ① 여기에 꽃이 몇 송이 있니? ② 너는 이 정원에서 보통 무엇을 하니? ④ 너는 이 정원에 언제 왔니? ⑤ 너는 어떤 종류의 꽃을 좋아하니?"
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TST",
+      "question": "다음 괄호 안의 단어들을 배열하여 대화를 완성하시오.\n\nG: Let's get a souvenir.\nB: ______?\nG: I like the T-shirt better.\nB: Why?\nG: There is a nice picture of the festival on it.\n\n(or / do / which / better, / the cap / like / the T-shirt / you)",
+      "answers": [
+        "Which do you like better, the T-shirt or the cap?",
+        "Which do you like better, the cap or the T-shirt?",
+        "Which do you like better, the T-shirt or the cap",
+        "Which do you like better, the cap or the T-shirt"
+      ],
+      "explainKo": "'티셔츠[모자]와 모자[티셔츠] 중에서 어느 것이 더 마음에 들어?'가 되도록 배열한다. Which do you like better, the T-shirt or the cap? / Which do you like better, the cap or the T-shirt?"
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 중 어법상 틀린 것은?\n① People call a paradise the city.\n② They named the new project \"Sunshine.\"\n③ The teacher made the boy the class leader.\n④ We elected John captain of the team.\n⑤ We found the plan a good idea.",
+      "answers": [
+        "People call a paradise the city.",
+        "They named the new project \"Sunshine.\"",
+        "The teacher made the boy the class leader.",
+        "We elected John captain of the team.",
+        "We found the plan a good idea."
+      ],
+      "corAns": "1",
+      "explainKo": "① a paradise the city → the city a paradise. call은 「목적어+목적격 보어」의 5형식이다. '사람들은 그 도시를 천국이라고 부른다'가 되도록 목적어와 목적격 보어를 바꾼다. ② 그들은 새 프로젝트를 Sunshine이라고 이름 지었다. ③ 선생님은 그 소년을 반장으로 만들었다. ④ 우리는 John을 팀 주장으로 뽑았다. ⑤ 우리는 그 계획을 좋은 아이디어라고 생각했다."
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것은?\n\n[보기] It is exciting to travel to a new country.\n\n① It is a bad thing to lie to your parents.\n② It is smart to save money for the future.\n③ It is fun to play soccer with friends.\n④ It is boring to wait for a long time.\n⑤ It is five kilometers from here to the station.",
+      "answers": [
+        "It is a bad thing to lie to your parents.",
+        "It is smart to save money for the future.",
+        "It is fun to play soccer with friends.",
+        "It is boring to wait for a long time.",
+        "It is five kilometers from here to the station."
+      ],
+      "corAns": "5",
+      "explainKo": "보기와 ①~④의 It은 가주어이고, ⑤의 It은 거리를 나타내는 비인칭 주어이다. 보기: 새로운 나라로 여행하는 것은 신난다. ① 부모님께 거짓말하는 것은 나쁜 일이다. ② 미래를 위해 돈을 저축하는 것은 현명하다. ③ 친구들과 축구를 하는 것은 재미있다. ④ 오랫동안 기다리는 것은 지루하다. ⑤ 여기서 역까지 5km이다."
+    },
+    {
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ It is useful to write down your goals.\nⓑ People call his the best singer in town.\nⓒ It is interesting learn about history.\nⓓ It is natural to feel excited before a big event.\nⓔ Many people call the movie a masterpiece.",
+      "answers": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓔ",
+        "ⓐ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ ⓐ, ⓓ, ⓔ. ⓑ call his → call him. call의 목적어는 목적격이다. ⓒ interesting learn → interesting to learn. It은 가주어이고 to부정사가 진주어이다.",
+      "group": "11",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "group": "12",
+      "type": "TST",
+      "question": "다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\n\nⓐ We call the new student a genius.\nⓑ That is challenging to learn a new language.\nⓒ The parents named their son Alex.\nⓓ The coach made the winner the player.\nⓔ It is hard to finish all the work in one day.",
+      "answers": [
+        "ⓑ It is challenging to learn a new language. ⓓ The coach made the player the winner.",
+        "b It is challenging to learn a new language. d The coach made the player the winner.",
+        "(1) b It is challenging to learn a new language. (2) d The coach made the player the winner."
+      ],
+      "explainKo": "ⓑ That → It. 「It is+형용사+to부정사」이므로 가주어 It을 쓴다. ⓓ the winner the player → the player the winner. '코치는 그 선수를 우승자로 만들었다'가 되도록 목적어와 목적격 보어를 바꾼다. ⓐ 우리는 그 새 학생을 천재라고 부른다. ⓒ 그 부모는 아들의 이름을 Alex라고 지었다. ⓔ 하루 만에 모든 일을 끝내는 것은 어렵다."
+    },
+    {
+      "id": 13,
+      "group": "13",
+      "type": "TST",
+      "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n\n[조건]\n1. it, walk, at, scary를 이용하되 필요시 어형을 바꿀 것.\n2. 총 8단어로 쓸 것.\n3. 대소문자 및 구두점에 유의할 것.\n\n밤에 혼자 걷는 것은 무섭다.",
+      "answers": [
+        "It is scary to walk alone at night.",
+        "It is scary to walk alone at night"
+      ],
+      "explainKo": "가주어 it을 써서 「It is+형용사+to부정사」로 쓴다. alone은 '혼자', at night은 '밤에'이다. It is scary to walk alone at night."
+    },
+    {
+      "type": "TMC",
+      "question": "[14-16] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\nPeople in Valencia ①celebrate the coming of spring with the Fallas festival. This festival ②takes place from March 15 to 19. During the festival, people ③enjoy parades and fireworks. The ④stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. ⑤Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "answers": [
+        "① celebrate",
+        "② takes place",
+        "③ enjoy",
+        "④ stars",
+        "⑤ Building"
+      ],
+      "corAns": "5",
+      "explainKo": "정답: ⑤. 바로 앞에서 파야를 축제 마지막 날에 불태운다고 했으므로 Building(만드는 것)이 아니라 Burning(불태우는 것)이 자연스럽다.",
+      "group": "14",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "group": "15",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. This festival takes place from March 15 to 19. During the festival, people enjoy parades and fireworks. The stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글을 읽고, Fallas 축제에 대해 알 수 없는 것은?\n① 축제 기간\n② 축제의 기원\n③ 축제에서 하는 활동\n④ 축제를 개최하는 이유\n⑤ fallas를 태우는 의미",
+      "answers": [
+        "축제 기간",
+        "축제의 기원",
+        "축제에서 하는 활동",
+        "축제를 개최하는 이유",
+        "fallas를 태우는 의미"
+      ],
+      "corAns": "2",
+      "explainKo": "② 축제의 기원은 이 글에서 알 수 없다. ① 3월 15일부터 19일까지. ③ 퍼레이드와 불꽃놀이를 즐기고 파야를 불태운다. ④ 봄이 오는 것을 기념하기 위해. ⑤ 오래된 것과 작별하고 새 출발을 맞이하는 것을 상징한다."
+    },
+    {
+      "id": 16,
+      "group": "16",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival in Valencia, Spain\n\nPeople in Valencia celebrate the coming of spring with the Fallas festival. This festival takes place from March 15 to 19. During the festival, people enjoy parades and fireworks. The stars of the festival are fallas, giant wooden statues. You can find hundreds of them all over the city. Surprisingly, the fallas are burned on the last day of the festival. Building them symbolizes saying goodbye to old things and hello to a new start.\n\n윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오.\n\nA: What is the Fallas Festival in Valencia?\nB: It's a festival to ______.\nA: What are fallas?\nB: They are ______. People burn them at the end of the festival.",
+      "answers": [
+        "celebrate the coming of spring, giant wooden statues",
+        "celebrate the coming of spring. giant wooden statues",
+        "celebrate the coming of spring / giant wooden statues"
+      ],
+      "explainKo": "Fallas 축제는 봄이 오는 것을 기념하는 축제이고, fallas는 거대한 나무 조각상이다."
+    },
+    {
+      "id": 17,
+      "group": "17",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ그들은 이 축제를 Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\n윗글의 밑줄 친 ⓐ의 우리말을 영작할 때 빈칸에 들어갈 말로 가장 적절한 것은?\n\nThey ______ it the Midsummer festival.\n① make\n② call\n③ find\n④ have\n⑤ take",
+      "answers": [
+        "make",
+        "call",
+        "find",
+        "have",
+        "take"
+      ],
+      "corAns": "2",
+      "explainKo": "~을 …라고 부르다는 「call+목적어+목적격 보어」이다."
+    },
+    {
+      "id": 18,
+      "group": "18",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ그들은 이 축제를 Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around ⓑit. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\n윗글의 밑줄 친 ⓑ가 가리키는 것으로 가장 적절한 것은?\n① a tall pole\n② a flower\n③ the sun\n④ a festival\n⑤ a green leave",
+      "answers": [
+        "a tall pole",
+        "a flower",
+        "the sun",
+        "a festival",
+        "a green leave"
+      ],
+      "corAns": "1",
+      "explainKo": "사람들이 꽃과 녹색 잎으로 장식한 긴 기둥 주위에서 전통 춤을 즐기므로 it이 가리키는 것은 ① 긴 기둥(a tall pole)이다."
+    },
+    {
+      "id": 19,
+      "group": "19",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nMidsummer Festival in Sweden\n\nWinter in Sweden is long and dark, so the people there especially welcome summer. To celebrate the longest day of the year, they have a special festival. ⓐ Midsummer 축제라고 부른다. The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday. During the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it. Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\n\nAccording to the passage, which one is NOT true?\n① People in Sweden welcome summer because their winter is long and dark.\n② People celebrate the longest day of the year with the Midsummer festival.\n③ The Midsummer festival in Sweden begins on Monday and lasts for one week.\n④ A tall pole is decorated with flowers and green leaves during the festival.\n⑤ The sun hardly sets in Sweden at this time, so people can enjoy the festival all night.",
+      "answers": [
+        "People in Sweden welcome summer because their winter is long and dark.",
+        "People celebrate the longest day of the year with the Midsummer festival.",
+        "The Midsummer festival in Sweden begins on Monday and lasts for one week.",
+        "A tall pole is decorated with flowers and green leaves during the festival.",
+        "The sun hardly sets in Sweden at this time, so people can enjoy the festival all night."
+      ],
+      "corAns": "3",
+      "explainKo": "Midsummer 축제는 금요일에 시작해 일요일에 끝나는 3일간의 축제이다. ③ '월요일에 시작해 일주일 동안 계속된다'는 내용과 일치하지 않는다. ① 겨울이 길고 어둡기 때문에 여름을 반긴다. ② 1년 중 가장 긴 낮을 Midsummer 축제로 기념한다. ④ 축제 동안 긴 기둥이 꽃과 초록 잎으로 장식된다. ⑤ 이 시기 해가 거의 지지 않아 밤새 축제를 즐길 수 있다."
+    },
+    {
+      "id": 20,
+      "group": "20",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that ①once a year dead people ②come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important to remember dead people. So, people ③set up altars in their homes and ④have big parties in cemeteries. In some areas, people ⑤dress up like skeletons and hold big parades.\n\n윗글의 밑줄 친 ①~⑤의 뜻풀이가 바르지 않은 것은?\n① 일 년에 한 번\n② 돌아오다\n③ 제공하다\n④ 큰 파티를 열다\n⑤ 분장하다",
+      "answers": [
+        "일 년에 한 번",
+        "돌아오다",
+        "제공하다",
+        "큰 파티를 열다",
+        "분장하다"
+      ],
+      "corAns": "3",
+      "explainKo": "③ set up은 '설치하다, 세우다'라는 의미이다. '제공하다'는 바르지 않다."
+    },
+    {
+      "id": 21,
+      "group": "21",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important ⓐto remember dead people. So, people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?\n① Do you have any questions to ask?\n② He bought clothes to wear for the party.\n③ She joined the club to meet new friends.\n④ It is hard to wake up early in the winter.\n⑤ I'm going to travel to Korea next summer.",
+      "answers": [
+        "Do you have any questions to ask?",
+        "He bought clothes to wear for the party.",
+        "She joined the club to meet new friends.",
+        "It is hard to wake up early in the winter.",
+        "I'm going to travel to Korea next summer."
+      ],
+      "corAns": "4",
+      "explainKo": "ⓐ to remember와 ④ to wake up은 「It+be동사+형용사+to부정사」에서 진주어 역할을 하는 명사적 용법이다. ① 물어볼 질문이 있니? (형용사적 용법) ② 그는 파티에서 입을 옷을 샀다. (형용사적 용법) ③ 그녀는 새 친구들을 만나기 위해 그 동아리에 가입했다. (부사적 용법: 목적) ⑤ be going to+동사원형은 미래 표현이다."
+    },
+    {
+      "id": 22,
+      "group": "22",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nDay of the Dead Festival in Mexico\n\nMany Mexicans believe that once a year dead people come back home to meet their family and friends. They call this day the Day of the Dead. To welcome dead people, Mexicans hold a festival on November 1 and 2. They believe it is important to remember dead people. So, people set up altars in their homes and have big parties in cemeteries. In some areas, people dress up like skeletons and hold big parades.\n\n윗글을 읽고, 다음 질문에 대한 답을 완성하시오.\n\nQ. Why do Mexicans celebrate the Day of the Dead?\n→ Mexicans celebrate the Day of the Dead to ______ dead people and ______ them.",
+      "answers": [
+        "welcome, remember",
+        "welcome / remember",
+        "to welcome dead people and remember them"
+      ],
+      "explainKo": "멕시코 사람들은 죽은 사람들을 맞이하고 그들을 기억하기 위해 죽은 자의 날을 기념한다."
+    },
+    {
+      "id": 23,
+      "group": "23",
+      "type": "TST",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the ⓐ(big) winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run ⓑ(fast) than reindeer. Not really, but it doesn't matter. Everyone is just having fun!\n\n윗글의 괄호 ⓐ와 ⓑ 안의 단어를 어법상 적절한 형태로 바꿔 쓰시오.",
+      "answers": [
+        "biggest, faster",
+        "ⓐ biggest, ⓑ faster",
+        "a biggest, b faster"
+      ],
+      "explainKo": "ⓐ one of the+최상급+복수명사이므로 biggest가 알맞다. ⓑ than이 있으므로 비교급 faster가 알맞다."
+    },
+    {
+      "type": "TMC",
+      "question": "[23-25] 다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. (①) During this festival, visitors can enjoy various winter sports and Alaskan traditional games. (②) They can also enjoy many special events such as the Running of the Reindeer. (③) People who participate in this race wear fun costumes and try to run faster than reindeer. (④) Not really, but it doesn't matter. Everyone is just having fun! (⑤)\n\n윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nIs it possible to do so?",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④. to do so는 바로 앞의 to run faster than reindeer(순록보다 빨리 달리는 것)를 받는다. 그 뒤에 Not really가 이어진다.",
+      "group": "24",
+      "id": 24
+    },
+    {
+      "id": 25,
+      "group": "25",
+      "type": "TMC",
+      "question": "다음 글을 읽고, 물음에 답하시오.\n\nFur Rondy Festival in Alaska, USA\n\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world. During this festival, visitors can enjoy various winter sports and Alaskan traditional games. They can also enjoy many special events such as the Running of the Reindeer. People who participate in this race wear fun costumes and try to run faster than reindeer. Not really, but it doesn't matter. Everyone is just having fun!\n\n윗글을 읽고, 대답할 수 없는 질문은?\n① When is the Fur Rondy festival held?\n② Where is the Fur Rondy festival held?\n③ How long does the Fur Rondy festival last?\n④ What can visitors enjoy during the festival?\n⑤ What do people wear when they participate in the Running of the Reindeer?",
+      "answers": [
+        "When is the Fur Rondy festival held?",
+        "Where is the Fur Rondy festival held?",
+        "How long does the Fur Rondy festival last?",
+        "What can visitors enjoy during the festival?",
+        "What do people wear when they participate in the Running of the Reindeer?"
+      ],
+      "corAns": "3",
+      "explainKo": "③ '얼마나 오래 지속되는가?'는 지문에 언급되지 않았다. ① 2월 말. ② 미국 알래스카. ④ 겨울 스포츠, 전통 게임, 순록 경주와 같은 특별 이벤트. ⑤ 재미있는 의상."
+    }
+  ]
+}

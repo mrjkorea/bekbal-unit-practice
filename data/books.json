@@ -1,0 +1,200 @@
+{
+  "books": [
+    {
+      "slug": "j1-visang",
+      "title": "중1 비상 황종배",
+      "grade": "중1",
+      "publisher": "비상",
+      "author": "황종배",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Lesson 01",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Lesson 02",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Lesson 03",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Lesson 04",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Lesson 05",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Lesson 06",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Lesson 07",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Lesson 08",
+          "status": "coming-soon"
+        }
+      ]
+    },
+    {
+      "slug": "j1-neung",
+      "title": "중1 능률 김기택",
+      "grade": "중1",
+      "publisher": "능률",
+      "author": "김기택",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Lesson 01",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Lesson 02",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Lesson 03",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Lesson 04",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Lesson 05",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Lesson 06",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Lesson 07",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Lesson 08",
+          "status": "coming-soon"
+        }
+      ]
+    },
+    {
+      "slug": "j2-neung",
+      "title": "중2 능률 김기택",
+      "grade": "중2",
+      "publisher": "능률",
+      "author": "김기택",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Lesson 01",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Lesson 02",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Lesson 03",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Lesson 04",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Lesson 05",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Lesson 06",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Lesson 07",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Lesson 08",
+          "status": "coming-soon"
+        }
+      ]
+    },
+    {
+      "slug": "j2-donga",
+      "title": "중2 동아 윤정미",
+      "grade": "중2",
+      "publisher": "동아",
+      "author": "윤정미",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Lesson 01",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Lesson 02",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Lesson 03",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Lesson 04",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Lesson 05",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Lesson 06",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Lesson 07",
+          "status": "ready"
+        },
+        {
+          "unit": "u08",
+          "label": "Lesson 08",
+          "status": "ready"
+        }
+      ]
+    }
+  ]
+}

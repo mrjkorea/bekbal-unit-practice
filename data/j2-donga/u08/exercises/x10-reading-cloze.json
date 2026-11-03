@@ -1,0 +1,818 @@
+{
+  "id": "x10-reading-cloze",
+  "title": "Reading 빈칸 완성하기",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": [
+    "52",
+    "53",
+    "54",
+    "55"
+  ],
+  "questionCount": 54,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nEckels __________ into the __________ of Time Travel.\nEckels는 Time Travel의 사무실로 걸어 들어갔다.",
+      "answers": [
+        "walked, office",
+        "walked,office",
+        "walked,  office",
+        "walked office",
+        "walkedoffice",
+        "walked  office"
+      ],
+      "explainKo": "정답: walked, office"
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThe __________ sign on the __________ said, \"NAME __________ YEAR IN THE PAST. WE TAKE YOU __________.\"\n벽에 걸린 큰 간판에는 \"과거의 어느 해든 말해보세요. 우리가 당신을 그곳으로 데려갈게요.\"라고 쓰여 있었다.",
+      "answers": [
+        "big, wall, ANY, THERE",
+        "big,wall,ANY,THERE",
+        "big,  wall,  ANY,  THERE",
+        "big wall ANY THERE",
+        "bigwallANYTHERE",
+        "big  wall  ANY  THERE"
+      ],
+      "explainKo": "정답: big, wall, ANY, THERE"
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThere __________ a TV on the wall, and Mr. Keith, the new __________ was on the __________.\n벽에는 TV가 있었고, 새 대통령인 Keith 씨가 뉴스에 나오고 있었다.",
+      "answers": [
+        "was, president, news",
+        "was,president,news",
+        "was,  president,  news",
+        "was president news",
+        "waspresidentnews",
+        "was  president  news"
+      ],
+      "explainKo": "정답: was, president, news"
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ can we __________ you?\" said Mr. Parker, the __________ of Time Travel.\n\"무엇을 도와드릴까요?\" Time Travel의 창립자인 Parker 씨가 말했다.",
+      "answers": [
+        "How, help, founder",
+        "How,help,founder",
+        "How,  help,  founder",
+        "How help founder",
+        "Howhelpfounder",
+        "How  help  founder"
+      ],
+      "explainKo": "정답: How, help, founder"
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"I've __________ wanted to __________ a __________. Is it possible?\" __________ Eckels.\n\"저는 항상 공룡을 보고 싶었어요. 그것이 가능한가요?\" Eckels가 물었다.",
+      "answers": [
+        "always, see, dinosaur, asked",
+        "always,see,dinosaur,asked",
+        "always,  see,  dinosaur,  asked",
+        "always see dinosaur asked",
+        "alwaysseedinosaurasked",
+        "always  see  dinosaur  asked"
+      ],
+      "explainKo": "정답: always, see, dinosaur, asked"
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Sure,\" said Mr. Parker. \"We can __________ you __________ to the __________ of 60 million years __________.\"\n\"물론이죠.\" Parker 씨가 대답했다. \"저희는 6천만 년 전의 정글로 당신을 데려다 드릴 수 있습니다.\"",
+      "answers": [
+        "take, back, jungle, ago",
+        "take,back,jungle,ago",
+        "take,  back,  jungle,  ago",
+        "take back jungle ago",
+        "takebackjungleago",
+        "take  back  jungle  ago"
+      ],
+      "explainKo": "정답: take, back, jungle, ago"
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Great,\" said Eckels. \"__________ you __________ me there __________?\"\n\"멋지군요.\" Eckels가 말했다. \"지금 저를 데려가 줄 수 있나요?\"",
+      "answers": [
+        "Can, take, now",
+        "Can,take,now",
+        "Can,  take,  now",
+        "Can take now",
+        "Cantakenow",
+        "Can  take  now"
+      ],
+      "explainKo": "정답: Can, take, now"
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"You're __________. __________ a time machine __________ __________ in 10 minutes,\" said Mr. Parker.\n\"운이 좋으시네요. 10분 후에 출발하는 타임머신이 있습니다.\" Parker 씨가 말했다.",
+      "answers": [
+        "lucky, There's, that, leaves",
+        "lucky,There's,that,leaves",
+        "lucky,  There's,  that,  leaves",
+        "lucky There's that leaves",
+        "luckyThere'sthatleaves",
+        "lucky  There's  that  leaves"
+      ],
+      "explainKo": "정답: lucky, There's, that, leaves"
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ is Travis, your __________ guide,\" he __________.\n\"이분은 당신의 여행 가이드인 Travis입니다.\" 그는 계속 말했다.",
+      "answers": [
+        "This, travel, continued",
+        "This,travel,continued",
+        "This,  travel,  continued",
+        "This travel continued",
+        "Thistravelcontinued",
+        "This  travel  continued"
+      ],
+      "explainKo": "정답: This, travel, continued"
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"To __________ safe, you __________ his instructions.\"\n\"안전하게 여행하려면 그의 지시를 반드시 따라야 합니다.\"",
+      "answers": [
+        "stay, must follow",
+        "stay,mustfollow",
+        "stay,  must  follow",
+        "stay must follow",
+        "staymustfollow",
+        "stay  must  follow"
+      ],
+      "explainKo": "정답: stay, must follow"
+    },
+    {
+      "id": 11,
+      "group": "11",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nInside the __________, there were two other __________.\n타임머신 안에는 다른 여행자 두 명이 있었다.",
+      "answers": [
+        "time machine, travelers",
+        "timemachine,travelers",
+        "time  machine,  travelers",
+        "time machine travelers",
+        "timemachinetravelers",
+        "time  machine  travelers"
+      ],
+      "explainKo": "정답: time machine, travelers"
+    },
+    {
+      "id": 12,
+      "group": "12",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nEckels __________ down and __________ his eyes.\nEckels는 자리에 앉아 눈을 감았다.",
+      "answers": [
+        "sat, closed",
+        "sat,closed",
+        "sat,  closed",
+        "sat closed",
+        "satclosed",
+        "sat  closed"
+      ],
+      "explainKo": "정답: sat, closed"
+    },
+    {
+      "id": 13,
+      "group": "13",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nHe __________ the machine __________ his feet.\n그는 발밑에서 타임머신이 움직이는 것을 느꼈다.",
+      "answers": [
+        "felt, moving under",
+        "felt,movingunder",
+        "felt,  moving  under",
+        "felt moving under",
+        "feltmovingunder",
+        "felt  moving  under"
+      ],
+      "explainKo": "정답: felt, moving under"
+    },
+    {
+      "id": 14,
+      "group": "14",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nAfter only a __________, the machine __________.\n불과 몇 분 뒤, 타임머신이 멈췄다.",
+      "answers": [
+        "few minutes, stopped",
+        "fewminutes,stopped",
+        "few  minutes,  stopped",
+        "few minutes stopped",
+        "fewminutesstopped",
+        "few  minutes  stopped"
+      ],
+      "explainKo": "정답: few minutes, stopped"
+    },
+    {
+      "id": 15,
+      "group": "15",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"We've just __________ in the __________ of 60 __________ years ago,\" Travis explained.\n\"우리는 이제 막 6천만 년 전의 정글에 도착했습니다.\" Travis가 설명했다.",
+      "answers": [
+        "arrived, jungle, million",
+        "arrived,jungle,million",
+        "arrived,  jungle,  million",
+        "arrived jungle million",
+        "arrivedjunglemillion",
+        "arrived  jungle  million"
+      ],
+      "explainKo": "정답: arrived, jungle, million"
+    },
+    {
+      "id": 16,
+      "group": "16",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Do you see the __________ over __________? You must not __________ it at __________ time.\"\n\"저쪽에 길이 보이십니까? 어떤 경우에도 저 길을 절대 벗어나면 안됩니다.\"",
+      "answers": [
+        "path, there, leave, any",
+        "path,there,leave,any",
+        "path,  there,  leave,  any",
+        "path there leave any",
+        "paththereleaveany",
+        "path  there  leave  any"
+      ],
+      "explainKo": "정답: path, there, leave, any"
+    },
+    {
+      "id": 17,
+      "group": "17",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n__________ not __________ anything. You might kill __________ by accident.\n아무것도 건드리지 마세요. 여러분은 실수로 무엇인가를 죽일 수도 있습니다.",
+      "answers": [
+        "Do, touch, something",
+        "Do,touch,something",
+        "Do,  touch,  something",
+        "Do touch something",
+        "Dotouchsomething",
+        "Do  touch  something"
+      ],
+      "explainKo": "정답: Do, touch, something"
+    },
+    {
+      "id": 18,
+      "group": "18",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nA little __________ here can __________ something __________ in the future.\n이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.",
+      "answers": [
+        "change, cause, unthinkable",
+        "change,cause,unthinkable",
+        "change,  cause,  unthinkable",
+        "change cause unthinkable",
+        "changecauseunthinkable",
+        "change  cause  unthinkable"
+      ],
+      "explainKo": "정답: change, cause, unthinkable"
+    },
+    {
+      "id": 19,
+      "group": "19",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nSlowly, everyone __________ __________ of the time machine. The jungle __________ in fog.\n천천히, 모두가 타임머신에서 내렸다. 정글은 안개로 뒤덮여 있었다.",
+      "answers": [
+        "got, out, was covered",
+        "got,out,wascovered",
+        "got,  out,  was  covered",
+        "got out was covered",
+        "gotoutwascovered",
+        "got  out  was  covered"
+      ],
+      "explainKo": "정답: got, out, was covered"
+    },
+    {
+      "id": 20,
+      "group": "20",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nIt was __________. \"I'm so __________,\" said Eckels.\n매우 고요했다. \"정말 신나요.\" Eckels가 말했다.",
+      "answers": [
+        "very quiet, excited",
+        "veryquiet,excited",
+        "very  quiet,  excited",
+        "very quiet excited",
+        "veryquietexcited",
+        "very  quiet  excited"
+      ],
+      "explainKo": "정답: very quiet, excited"
+    },
+    {
+      "id": 21,
+      "group": "21",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ careful. __________ of the __________ are hungry,\" said Travis.\n\"조심하세요. 어떤 공룡들은 배가 고플 수도 있습니다.\" Travis가 말했다.",
+      "answers": [
+        "Be, Some, dinosaurs",
+        "Be,Some,dinosaurs",
+        "Be,  Some,  dinosaurs",
+        "Be Some dinosaurs",
+        "BeSomedinosaurs",
+        "Be  Some  dinosaurs"
+      ],
+      "explainKo": "정답: Be, Some, dinosaurs"
+    },
+    {
+      "id": 22,
+      "group": "22",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Just stay __________. I don't __________ you to __________ anything foolish.\"\n\"침착하게 계세요. 저는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"",
+      "answers": [
+        "calm, want, do",
+        "calm,want,do",
+        "calm,  want,  do",
+        "calm want do",
+        "calmwantdo",
+        "calm  want  do"
+      ],
+      "explainKo": "정답: calm, want, do"
+    },
+    {
+      "id": 23,
+      "group": "23",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ worry. I'm not a __________,\" said Eckels.\n\"걱정 마세요. 저는 바보가 아닙니다.\" Eckels가 말했다.",
+      "answers": [
+        "Don't, fool",
+        "Don't,fool",
+        "Don't,  fool",
+        "Don't fool",
+        "Don'tfool",
+        "Don't  fool"
+      ],
+      "explainKo": "정답: Don't, fool"
+    },
+    {
+      "id": 24,
+      "group": "24",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThey all __________ to __________ on the __________.\n그들은 모두 길 위를 걷기 시작했다.",
+      "answers": [
+        "began, walk, path",
+        "began,walk,path",
+        "began,  walk,  path",
+        "began walk path",
+        "beganwalkpath",
+        "began  walk  path"
+      ],
+      "explainKo": "정답: began, walk, path"
+    },
+    {
+      "id": 25,
+      "group": "25",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n__________ some time, Travis __________, \"Look __________ there. There is a T. rex.\"\n얼마 후, Travis가 속삭였다. \"저기 봐요. 티라노사우루스가 있습니다.\"",
+      "answers": [
+        "After, whispered, over",
+        "After,whispered,over",
+        "After,  whispered,  over",
+        "After whispered over",
+        "Afterwhisperedover",
+        "After  whispered  over"
+      ],
+      "explainKo": "정답: After, whispered, over"
+    },
+    {
+      "id": 26,
+      "group": "26",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nOne hundred meters __________, a T. rex slowly __________.\n100미터 떨어진 곳에서 티라노사우루스가 서서히 나타났다.",
+      "answers": [
+        "away, appeared",
+        "away,appeared",
+        "away,  appeared",
+        "away appeared",
+        "awayappeared",
+        "away  appeared"
+      ],
+      "explainKo": "정답: away, appeared"
+    },
+    {
+      "id": 27,
+      "group": "27",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"It,\" __________ Eckels. \"It ...\" \"Sh!\"\n\"저것은,\" Eckels가 속삭였다. \"저것은...\" \"쉿!\"",
+      "answers": [
+        "whispered"
+      ],
+      "explainKo": "정답: whispered"
+    },
+    {
+      "id": 28,
+      "group": "28",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"It ... is huge. I've __________ such a __________ thing. I'm so __________,\" said Eckels.\n\"저건 정말 거대해요. 저는 이렇게 거대한 걸 본 적이 없어요. 너무 무서워요.\" Eckels가 말했다.",
+      "answers": [
+        "never seen, huge, scared",
+        "neverseen,huge,scared",
+        "never  seen,  huge,  scared",
+        "never seen huge scared",
+        "neverseenhugescared",
+        "never  seen  huge  scared"
+      ],
+      "explainKo": "정답: never seen, huge, scared"
+    },
+    {
+      "id": 29,
+      "group": "29",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Sh ... quiet!\" Travis said __________. \"You don't __________ it __________ you.\"\n\"쉿... 조용히!\" Travis가 화를 내며 말했다. \"그것이 당신을 보는 것을 원치 않으시잖아요.\"",
+      "answers": [
+        "angrily, want, to see",
+        "angrily,want,tosee",
+        "angrily,  want,  to  see",
+        "angrily want to see",
+        "angrilywanttosee",
+        "angrily  want  to  see"
+      ],
+      "explainKo": "정답: angrily, want, to see"
+    },
+    {
+      "id": 30,
+      "group": "30",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"I __________ breathe,\" said Eckels. \"__________ me __________ of here!\"\n\"숨을 쉴 수가 없어요.\" Eckels가 말했다. \"여기서 나가게 해 주세요!\"",
+      "answers": [
+        "can't, Get, out",
+        "can't,Get,out",
+        "can't,  Get,  out",
+        "can't Get out",
+        "can'tGetout",
+        "can't  Get  out"
+      ],
+      "explainKo": "정답: can't, Get, out"
+    },
+    {
+      "id": 31,
+      "group": "31",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Don't __________, Eckels,\" said Travis. \"__________ around, and walk __________ to the machine.\"\n\"겁먹지 마세요. Eckels.\" Travis가 말했다. \"뒤로 돌아서서 조용히 타임머신으로 걸어서 돌아가세요.\"",
+      "answers": [
+        "panic, Turn, quietly back",
+        "panic,Turn,quietlyback",
+        "panic,  Turn,  quietly  back",
+        "panic Turn quietly back",
+        "panicTurnquietlyback",
+        "panic  Turn  quietly  back"
+      ],
+      "explainKo": "정답: panic, Turn, quietly back"
+    },
+    {
+      "id": 32,
+      "group": "32",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nEckels turned __________ and __________ to run.\nEckels는 돌아서서 뛰기 시작했다.",
+      "answers": [
+        "around, started",
+        "around,started",
+        "around,  started",
+        "around started",
+        "aroundstarted",
+        "around  started"
+      ],
+      "explainKo": "정답: around, started"
+    },
+    {
+      "id": 33,
+      "group": "33",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nHe was so __________ that he __________ the path by __________.\n그는 너무 겁에 질려 실수로 길을 벗어나고 말았다.",
+      "answers": [
+        "terrified, left, accident",
+        "terrified,left,accident",
+        "terrified,  left,  accident",
+        "terrified left accident",
+        "terrifiedleftaccident",
+        "terrified  left  accident"
+      ],
+      "explainKo": "정답: terrified, left, accident"
+    },
+    {
+      "id": 34,
+      "group": "34",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Eckels!\" __________ Travis. \"Don't __________ the path!\"\n\"Eckels!\" Travis가 외쳤다. \"길을 벗어나지 마세요!\"",
+      "answers": [
+        "shouted, leave",
+        "shouted,leave",
+        "shouted,  leave",
+        "shouted leave",
+        "shoutedleave",
+        "shouted  leave"
+      ],
+      "explainKo": "정답: shouted, leave"
+    },
+    {
+      "id": 35,
+      "group": "35",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThe T. rex __________ Travis and __________ its head __________ him and the __________ travelers.\n티라노사우루스가 Travis의 목소리를 듣고 그와 다른 여행자들을 향해 고개를 돌렸다.",
+      "answers": [
+        "heard, turned, toward, other",
+        "heard,turned,toward,other",
+        "heard,  turned,  toward,  other",
+        "heard turned toward other",
+        "heardturnedtowardother",
+        "heard  turned  toward  other"
+      ],
+      "explainKo": "정답: heard, turned, toward, other"
+    },
+    {
+      "id": 36,
+      "group": "36",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n__________ was a moment of __________.\n잠시 정적이 흘렀다.",
+      "answers": [
+        "There, silence",
+        "There,silence",
+        "There,  silence",
+        "There silence",
+        "Theresilence",
+        "There  silence"
+      ],
+      "explainKo": "정답: There, silence"
+    },
+    {
+      "id": 37,
+      "group": "37",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThen, __________, it started to run __________ them with a loud __________.\n그러고 나서, 갑자기 그것이 큰 포효와 함께 그들을 향해 달려오기 시작했다.",
+      "answers": [
+        "suddenly, toward, roar",
+        "suddenly,toward,roar",
+        "suddenly,  toward,  roar",
+        "suddenly toward roar",
+        "suddenlytowardroar",
+        "suddenly  toward  roar"
+      ],
+      "explainKo": "정답: suddenly, toward, roar"
+    },
+    {
+      "id": 38,
+      "group": "38",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________, everybody! Run!\" __________ Travis.\n\"모두 뛰세요! 뛰어!\" Travis가 외쳤다.",
+      "answers": [
+        "Run, shouted",
+        "Run,shouted",
+        "Run,  shouted",
+        "Run shouted",
+        "Runshouted",
+        "Run  shouted"
+      ],
+      "explainKo": "정답: Run, shouted"
+    },
+    {
+      "id": 39,
+      "group": "39",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nTravis and the other __________ returned __________ to the machine and __________ Eckels __________.\nTravis와 다른 여행자들은 안전하게 타임머신으로 돌아와서, 안에 있는 Eckels를 발견했다.",
+      "answers": [
+        "travelers, safely, found, inside",
+        "travelers,safely,found,inside",
+        "travelers,  safely,  found,  inside",
+        "travelers safely found inside",
+        "travelerssafelyfoundinside",
+        "travelers  safely  found  inside"
+      ],
+      "explainKo": "정답: travelers, safely, found, inside"
+    },
+    {
+      "id": 40,
+      "group": "40",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"You __________ all of __________ in danger,\" said Travis to Eckels in an __________ voice. \"You left the __________.\"\n\"당신이 우리 모두를 위험에 빠뜨렸어요.\" Travis가 화난 목소리로 Eckels에게 말했다. \"당신이 길을 벗어났잖아요.\"",
+      "answers": [
+        "put, us, angry, path",
+        "put,us,angry,path",
+        "put,  us,  angry,  path",
+        "put us angry path",
+        "putusangrypath",
+        "put  us  angry  path"
+      ],
+      "explainKo": "정답: put, us, angry, path"
+    },
+    {
+      "id": 41,
+      "group": "41",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"I'm __________, but I __________ kill __________,\" said Eckels. \"There's only a little mud on my __________.\"\n\"미안해요. 그렇지만 난 어떤 것도 죽이지 않았어요.\" Eckels가 말했다. \"내 신발에 진흙이 조금 묻었을 뿐이에요.\"",
+      "answers": [
+        "sorry, didn't, anything, shoes",
+        "sorry,didn't,anything,shoes",
+        "sorry,  didn't,  anything,  shoes",
+        "sorry didn't anything shoes",
+        "sorrydidn'tanythingshoes",
+        "sorry  didn't  anything  shoes"
+      ],
+      "explainKo": "정답: sorry, didn't, anything, shoes"
+    },
+    {
+      "id": 42,
+      "group": "42",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nTravis __________ Eckels for a __________ time without __________ anything.\nTravis는 아무 말 없이 Eckels를 오랫동안 응시했다.",
+      "answers": [
+        "stared at, long, saying",
+        "staredat,long,saying",
+        "stared  at,  long,  saying",
+        "stared at long saying",
+        "staredatlongsaying",
+        "stared  at  long  saying"
+      ],
+      "explainKo": "정답: stared at, long, saying"
+    },
+    {
+      "id": 43,
+      "group": "43",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ home,\" said Travis finally.\n\"집으로 돌아갑시다.\" Travis가 마침내 말했다.",
+      "answers": [
+        "Let's go",
+        "Let'sgo",
+        "Let's  go"
+      ],
+      "explainKo": "정답: Let's go"
+    },
+    {
+      "id": 44,
+      "group": "44",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThe machine __________. They all __________ to the present __________.\n타임머신이 멈췄다. 그들은 모두 안전하게 현재로 돌아왔다.",
+      "answers": [
+        "stopped, returned, safely",
+        "stopped,returned,safely",
+        "stopped,  returned,  safely",
+        "stopped returned safely",
+        "stoppedreturnedsafely",
+        "stopped  returned  safely"
+      ],
+      "explainKo": "정답: stopped, returned, safely"
+    },
+    {
+      "id": 45,
+      "group": "45",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"Is __________ okay here?\" __________ Travis.\n\"여기 모든 것이 다 괜찮나요?\" Travis가 물었다.",
+      "answers": [
+        "everything, asked",
+        "everything,asked",
+        "everything,  asked",
+        "everything asked",
+        "everythingasked",
+        "everything  asked"
+      ],
+      "explainKo": "정답: everything, asked"
+    },
+    {
+      "id": 46,
+      "group": "46",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________. Welcome __________!\" said Mr. Parker.\n\"괜찮아요. 돌아오신 걸 환영합니다!\" Parker 씨가 말했다.",
+      "answers": [
+        "Fine, home",
+        "Fine,home",
+        "Fine,  home",
+        "Fine home",
+        "Finehome",
+        "Fine  home"
+      ],
+      "explainKo": "정답: Fine, home"
+    },
+    {
+      "id": 47,
+      "group": "47",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nEckels __________ around the room __________.\nEckels는 방을 주의 깊게 둘러보았다.",
+      "answers": [
+        "looked, carefully",
+        "looked,carefully",
+        "looked,  carefully",
+        "looked carefully",
+        "lookedcarefully",
+        "looked  carefully"
+      ],
+      "explainKo": "정답: looked, carefully"
+    },
+    {
+      "id": 48,
+      "group": "48",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n__________ looked the same, __________ the big sign on the __________.\n모든 것이 같아 보였다. 벽에 걸린 큰 간판만 빼고.",
+      "answers": [
+        "Everything, except, wall",
+        "Everything,except,wall",
+        "Everything,  except,  wall",
+        "Everything except wall",
+        "Everythingexceptwall",
+        "Everything  except  wall"
+      ],
+      "explainKo": "정답: Everything, except, wall"
+    },
+    {
+      "id": 49,
+      "group": "49",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThe __________ now __________, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was __________.\n간판에는 이제 이렇게 적혀 있었다. \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels는 혼란스러웠다.",
+      "answers": [
+        "sign, said, confused",
+        "sign,said,confused",
+        "sign,  said,  confused",
+        "sign said confused",
+        "signsaidconfused",
+        "sign  said  confused"
+      ],
+      "explainKo": "정답: sign, said, confused"
+    },
+    {
+      "id": 50,
+      "group": "50",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nThen, he __________ the TV. The __________ president was on the __________, but it was __________ Mr. Keith.\n그러고 나서, 그는 TV를 보았다. 뉴스에 새 대통령이 나오고 있었는데, 그 사람은 Keith 씨가 아니었다.",
+      "answers": [
+        "saw, new, news, not",
+        "saw,new,news,not",
+        "saw,  new,  news,  not",
+        "saw new news not",
+        "sawnewnewsnot",
+        "saw  new  news  not"
+      ],
+      "explainKo": "정답: saw, new, news, not"
+    },
+    {
+      "id": 51,
+      "group": "51",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"__________ going __________?\" He got __________ confused.\n\"이게 대체 무슨 일이야?\" 그는 더욱 혼란스러워졌다.",
+      "answers": [
+        "What's, on, more",
+        "What's,on,more",
+        "What's,  on,  more",
+        "What's on more",
+        "What'sonmore",
+        "What's  on  more"
+      ],
+      "explainKo": "정답: What's, on, more"
+    },
+    {
+      "id": 52,
+      "group": "52",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nHe sat __________ and looked __________ at the __________ on his shoes.\n그는 앉아서 신발에 묻은 진흙을 유심히 살펴보았다.",
+      "answers": [
+        "down, closely, mud",
+        "down,closely,mud",
+        "down,  closely,  mud",
+        "down closely mud",
+        "downcloselymud",
+        "down  closely  mud"
+      ],
+      "explainKo": "정답: down, closely, mud"
+    },
+    {
+      "id": 53,
+      "group": "53",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\n\"No, it can't __________,\" said Eckels. \"It's all __________ this __________ thing?\" He was shocked.\n\"안 돼, 그럴 리 없어.\" Eckels가 말했다. \"이게 모두 이 작은 것 때문이라고?\" 그는 충격을 받았다.",
+      "answers": [
+        "be, because of, little",
+        "be,becauseof,little",
+        "be,  because  of,  little",
+        "be because of little",
+        "bebecauseoflittle",
+        "be  because  of  little"
+      ],
+      "explainKo": "정답: be, because of, little"
+    },
+    {
+      "id": 54,
+      "group": "54",
+      "type": "TST",
+      "question": "Reading 빈칸 완성하기. 다음 빈칸에 들어갈 적절한 말을 쓰시오.\nIn the mud on his __________, he found a __________ dead __________.\n자신의 오른쪽 신발에 묻은 진흙 속에서, 그는 죽은 작은 나비 한 마리를 발견했다.",
+      "answers": [
+        "right shoe, small, butterfly",
+        "rightshoe,small,butterfly",
+        "right  shoe,  small,  butterfly",
+        "right shoe small butterfly",
+        "rightshoesmallbutterfly",
+        "right  shoe  small  butterfly"
+      ],
+      "explainKo": "정답: right shoe, small, butterfly"
+    }
+  ]
+}

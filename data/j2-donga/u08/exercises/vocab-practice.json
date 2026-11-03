@@ -1,0 +1,103 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": "p.185",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TST",
+      "question": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nexplain : explanation = ______ : breath",
+      "answers": [
+        "breathe"
+      ],
+      "explainKo": "정답: breathe. explain : explanation은 '설명하다 : 설명'이라는 의미로 동사 : 명사 관계이므로, '숨, 호흡'이라는 뜻을 지닌 명사 breath의 동사형 breathe(숨을 쉬다, 호흡하다)가 들어간다."
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\nShe will arrive ______ Valencia next Monday.\nThe desk was covered ______ dust.",
+      "answers": [
+        "in",
+        "at",
+        "by",
+        "on",
+        "from"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: ① in. arrive in: (도시·큰 장소에) 도착하다. be covered in: ~으로 덮여 있다. 그녀는 다음 주 월요일에 발렌시아에 도착할 것이다. 책상이 먼지로 덮여 있었다."
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TMC",
+      "question": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto look directly at someone or something for a long time",
+      "answers": [
+        "appear",
+        "stare",
+        "cause",
+        "follow",
+        "panic"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: ② stare. 누군가 또는 무언가를 오랫동안 똑바로 바라보다. ① 나타나다 ③ 일으키다, ~의 원인이 되다 ④ 따르다, 따라가다 ⑤ 겁에 질려 어쩔 줄 모르다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "answers": [
+        "He listened _carefully_ to the instructions.",
+        "After his words, there was a long _silence_.",
+        "He _suddenly_ left without saying a word.",
+        "She _finally_ succeeded after years of hard work.",
+        "He _whispered_ so that everyone could hear him."
+      ],
+      "corAns": "5",
+      "explainKo": "정답: ⑤. '그는 모든 사람이 그의 말을 들을 수 있도록 속삭였다'는 문맥상 자연스럽지 않다. shouted(소리쳤다) 정도로 바꾸는 것이 자연스럽다. ① 그는 지시사항을 주의 깊게 들었다. (carefully: 주의 깊게) ② 그가 말한 이후에 긴 침묵이 있었다. (silence: 고요, 침묵) ③ 그는 말도 없이 갑자기 떠났다. (suddenly: 갑자기) ④ 그녀는 오랜 시간의 노력 끝에 마침내 성공했다. (finally: 마침내)"
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 실수로 잘못된 버튼을 눌렀다.\nI pressed the wrong button ______.",
+      "answers": [
+        "by accident",
+        "byaccident",
+        "by  accident"
+      ],
+      "explainKo": "정답: by accident. by accident: 실수로, 우연히."
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "answers": [
+        "We walked along a narrow _path_. (길)",
+        "The project cost one _million_ dollars. (백만의)",
+        "They saw a _huge_ building in the city. (거대한)",
+        "Everyone came to the party _except_ Tom. (~을 포함하여)",
+        "My grandpa is the _founder_ of the company. (설립자)"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④. except: ~을 제외하고는. '(~을 포함하여)'는 바르지 않다. ① 우리는 좁은 길을 따라 걸었다. ② 그 프로젝트는 백만 달러가 들었다. ③ 그들은 그 도시에서 거대한 빌딩을 보았다. ④ Tom을 제외하고 모두 파티에 왔다. ⑤ 우리 할아버지가 그 회사의 설립자이다."
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 괄호 안의 단어를 빈칸에 알맞은 형태로 바꿔 쓰시오.\n스마트폰은 먼 과거에는 상상할 수 없는 것이었다. (think)\nSmartphones were ______ in the distant past.",
+      "answers": [
+        "unthinkable"
+      ],
+      "explainKo": "정답: unthinkable. unthinkable: 상상할 수 없는."
+    }
+  ]
+}

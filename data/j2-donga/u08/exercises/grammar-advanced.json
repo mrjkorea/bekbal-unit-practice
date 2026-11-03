@@ -1,0 +1,211 @@
+{
+  "id": "grammar-advanced",
+  "title": "Grammar 심화 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": "pp.194-195",
+  "questionCount": 14,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "다음 괄호 안의 단어들을 순서대로 바르게 배열할 때 네 번째로 오는 것은?\n이번 주말에 새로운 것을 시도해 보자.\n(new / let's / something / weekend / try / this)",
+      "answers": [
+        "something",
+        "try",
+        "this",
+        "new",
+        "weekend"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ new. 바르게 배열하면 Let's try something new this weekend.이므로 네 번째로 오는 것은 new이다."
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nMy grandfather has lived in this city ______.",
+      "answers": [
+        "in 1990",
+        "so far",
+        "for 25 years",
+        "since he was 20",
+        "for a long time"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: ① in 1990. 현재완료시제는 명백한 과거 시점을 나타내는 부사(구)와는 함께 쓸 수 없으므로 '1990년에는'은 적절하지 않다. ② 지금까지 ③ 25년 동안 ④ 그가 20살 때부터 ⑤ 오랫동안"
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 괄호 안의 단어를 사용하여 문장을 완성하시오.\n그는 약속 시간에 늦은 적이 없다. (never)\n→ He ______ late for an appointment.",
+      "answers": [
+        "has never been",
+        "hasneverbeen",
+        "has  never  been"
+      ],
+      "explainKo": "정답: has never been. '늦은 적이 없다'는 과거부터 현재까지의 경험이므로 현재완료로 쓴다. 부정어 never는 보통 have와 과거분사 사이에 쓴다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 괄호 안의 단어를 사용하여 문장을 완성하시오.\n그의 행동에는 이상한 것이 없었다. (strange)\n→ There was ______ about his behavior.",
+      "answers": [
+        "nothing strange",
+        "nothingstrange",
+        "nothing  strange"
+      ],
+      "explainKo": "정답: nothing strange. 부정의 의미를 가진 nothing을 사용하고, -thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 nothing strange로 쓴다."
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은?\n보기: He has lost the wallet that his father bought.",
+      "answers": [
+        "Have you ever traveled abroad?",
+        "He has left his bag on the subway.",
+        "We've just finished the science project.",
+        "She has stayed at home since last week.",
+        "My father has worked at the bank for 20 years."
+      ],
+      "corAns": "2",
+      "explainKo": "정답: ②. 보기와 ②는 현재완료 중 '결과'를 나타낸다. 보기: 그는 아버지가 사준 지갑을 잃어버렸다. (결과) ① 너는 해외여행을 해 본 적 있니? (경험) ② 그는 지하철에 가방을 두고 내렸다. (결과) ③ 우리는 이제 막 과학 프로젝트를 끝냈다. (완료) ④ 그녀는 지난주부터 집에 머무르고 있다. (계속) ⑤ 나의 아버지는 은행에서 20년간 일하셨다. (계속)"
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TST",
+      "question": "다음 문장에서 어법상 틀린 곳을 바르게 고쳐 문장을 다시 쓰시오.\nI met interesting someone at the party.",
+      "answers": [
+        "I met someone interesting at the party.",
+        "Imetsomeoneinterestingattheparty.",
+        "I  met  someone  interesting  at  the  party.",
+        "I met someone interesting at the party",
+        "Imetsomeoneinterestingattheparty",
+        "I  met  someone  interesting  at  the  party"
+      ],
+      "explainKo": "정답: I met someone interesting at the party. -one으로 끝나는 부정대명사는 형용사가 뒤에서 수식한다. 나는 파티에서 흥미로운 사람을 만났다."
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것은?",
+      "answers": [
+        "I have been sick yesterday.",
+        "Have you ever try this food?",
+        "She hasn't arrived at the airport yet.",
+        "They don't have forgotten my name.",
+        "Tom have left his homework at home."
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③. ① have been → was. yesterday라는 명백한 과거 부사가 있으므로 과거시제로 쓴다. ② try → tried. 현재완료 의문문이므로 과거분사로 쓴다. ④ don't have forgotten → haven't forgotten. 현재완료의 부정문은 「have[has] + not[never] + 과거분사」로 쓴다. ⑤ have → has. 주어가 3인칭 단수이므로 has를 쓴다. ③ 그녀는 아직 공항에 도착하지 못했다."
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TMC",
+      "question": "다음 문장의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?\nI (①) have found (②) interesting something (③) in this book (④) that I want (⑤) to share with you.",
+      "answers": [
+        "① have found",
+        "② interesting something",
+        "③ in",
+        "④ that I want",
+        "⑤ to share with you"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: ②. interesting something → something interesting. -thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식한다. 나는 이 책에서 너와 공유하고 싶은 흥미로운 것을 발견했다."
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\nA: ______ the museum before?\nB: No, he hasn't.",
+      "answers": [
+        "Did he visit",
+        "Does he visit",
+        "Has he visit",
+        "Has he visited",
+        "Have he visited"
+      ],
+      "corAns": "4",
+      "explainKo": "정답: ④ Has he visited. 대답에 hasn't를 쓴 것으로 보아 질문도 현재완료시제로 해야 하고, 주어가 3인칭 단수이므로 Has he visited~?가 알맞다. A: 그가 전에 그 박물관을 방문한 적이 있니? B: 아니, 없어."
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TMC",
+      "question": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\nHave you ever ⓐ ______ French food before?\nI ⓑ ______ a salad and pizza for dinner yesterday.",
+      "answers": [
+        "eat / ate",
+        "ate / ate",
+        "eaten / ate",
+        "ate / have eaten",
+        "eaten / have eaten"
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ eaten / ate. ⓐ 경험을 묻는 현재완료 의문문이므로 과거분사 eaten이 알맞다. ⓑ 어제 있었던 일을 말하므로 과거시제 ate가 알맞다. 너는 전에 프랑스 음식을 먹어 본 적이 있니? 나는 어제 저녁으로 샐러드와 피자를 먹었다."
+    },
+    {
+      "group": "11",
+      "type": "TST",
+      "question": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n\n그림: 오후 5시(PM 05:00)에 요리하고 있고, 오후 7시(PM 07:00)에는 저녁 식사가 완성되어 있다.\n\n조건\n1. cook, dinner, hour를 이용하되 필요시 어형을 바꿀 것.\n2. 현재완료시제로 쓸 것.\n3. 총 7단어로 쓸 것.\n4. 대·소문자와 구두점에 유의할 것.",
+      "answers": [
+        "He has cooked dinner for two hours.",
+        "He has cooked dinner for two hours"
+      ],
+      "explainKo": "5시에 시작해서 두 시간 동안 요리한 상황이므로 He has cooked dinner for two hours.",
+      "id": 11
+    },
+    {
+      "group": "12",
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 짝지어진 것은?\n\nⓐ I want you to bring me cold something.\nⓑ There isn't nothing helpful in the guidebook.\nⓒ Don't do anything dangerous.\nⓓ I've just cleaned my desk.\nⓔ Have you ever watch a horror movie before?",
+      "answers": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓓ",
+        "ⓓ, ⓔ",
+        "ⓐ, ⓔ"
+      ],
+      "corAns": "3",
+      "explainKo": "ⓐ는 something cold, ⓑ는 이중 부정, ⓔ는 watched가 되어야 한다. 옳은 것은 ⓒ, ⓓ.",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "group": "13",
+      "type": "TMC",
+      "question": "다음 우리말을 바르게 영작한 것은?\n나는 방금 놀라운 것을 발견했다.",
+      "answers": [
+        "I just found amazing something.",
+        "I've just found amazing something.",
+        "I've just found something amazing.",
+        "I'm just finding something amazing.",
+        "I've already found something amazing."
+      ],
+      "corAns": "3",
+      "explainKo": "정답: ③ I've just found something amazing. 방금 발견했다: have just found. 놀라운 것: something amazing."
+    },
+    {
+      "id": 14,
+      "group": "14",
+      "type": "TST",
+      "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n[조건]\n1. can, clear, nothing, because, the fog를 이용하되 필요시 어형을 바꿀 것.\n2. 총 9단어로 쓸 것.\n3. 대·소문자와 구두점에 유의할 것.\n나는 안개 때문에 분명한 어느 것도 볼 수 없었다.",
+      "answers": [
+        "I could see nothing clear because of the fog.",
+        "Icouldseenothingclearbecauseofthefog.",
+        "I  could  see  nothing  clear  because  of  the  fog.",
+        "I could see nothing clear because of the fog",
+        "Icouldseenothingclearbecauseofthefog",
+        "I  could  see  nothing  clear  because  of  the  fog"
+      ],
+      "explainKo": "정답: I could see nothing clear because of the fog. 부정의 의미인 nothing이 있으므로 '볼 수 없었다'는 I could see nothing으로 쓰고, 형용사 clear는 nothing 뒤에 쓴다."
+    }
+  ]
+}

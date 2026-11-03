@@ -1,0 +1,182 @@
+{
+  "book": "j2-donga",
+  "unit": "u07",
+  "label": "Lesson 07 Let's Enjoy Festivals",
+  "status": "ready",
+  "note": "통과 80%. 정답과 해설이 나오면 종이 교재에도 직접 쓰세요. L07 본책과 X-10 최종점검은 질문 PDF와 답지로 대조했습니다.",
+  "sections": [
+    {
+      "key": "A",
+      "title": "A. 본책",
+      "exercises": [
+        {
+          "id": "vocab-check",
+          "title": "Vocabulary 확인 문제",
+          "questionCount": 60
+        },
+        {
+          "id": "vocab-practice",
+          "title": "Vocabulary 실전 문제",
+          "questionCount": 7
+        },
+        {
+          "id": "vocab-advanced",
+          "title": "Vocabulary 심화 문제",
+          "questionCount": 15
+        },
+        {
+          "id": "dialog-detail",
+          "title": "Dialog 자세히 보기",
+          "questionCount": 9
+        },
+        {
+          "id": "dialog-complete",
+          "title": "Dialog 완성하기",
+          "questionCount": 9
+        },
+        {
+          "id": "dialog-order",
+          "title": "Dialog 순서배열하기",
+          "questionCount": 9
+        },
+        {
+          "id": "dialog-practice",
+          "title": "Dialog 실전 문제",
+          "questionCount": 15
+        },
+        {
+          "id": "dialog-advanced",
+          "title": "Dialog 심화 문제",
+          "questionCount": 12
+        },
+        {
+          "id": "grammar-check",
+          "title": "Grammar 확인 문제",
+          "questionCount": 30
+        },
+        {
+          "id": "grammar-practice",
+          "title": "Grammar 실전 문제",
+          "questionCount": 13
+        },
+        {
+          "id": "grammar-advanced",
+          "title": "Grammar 심화 문제",
+          "questionCount": 14
+        },
+        {
+          "id": "reading-content",
+          "title": "Reading 내용 확인하기",
+          "questionCount": 20
+        },
+        {
+          "id": "reading-lexgram",
+          "title": "Reading 적절한 어휘·어법 고르기",
+          "questionCount": 26
+        },
+        {
+          "id": "reading-order",
+          "title": "Reading 순서배열하기",
+          "questionCount": 26
+        },
+        {
+          "id": "reading-writing",
+          "title": "Reading 영작하기",
+          "questionCount": 26
+        },
+        {
+          "id": "reading-practice",
+          "title": "Reading 실전 문제",
+          "questionCount": 25
+        },
+        {
+          "id": "reading-advanced",
+          "title": "Reading 심화 문제",
+          "questionCount": 25
+        },
+        {
+          "id": "plus-practice",
+          "title": "Plus 기타 지문 실전 문제",
+          "questionCount": 7
+        },
+        {
+          "id": "writing-finish",
+          "title": "서술형 끝내기",
+          "questionCount": 25
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "title": "B. X-10 Part I",
+      "exercises": [
+        {
+          "id": "x10-vocab",
+          "title": "어휘 확인 문제",
+          "questionCount": 87
+        },
+        {
+          "id": "x10-dialog-cloze",
+          "title": "대화 빈칸 완성하기",
+          "questionCount": 9
+        },
+        {
+          "id": "x10-dialog-write",
+          "title": "대화 영작하기",
+          "questionCount": 40
+        },
+        {
+          "id": "x10-grammar",
+          "title": "핵심 Grammar 확인 문제",
+          "questionCount": 30
+        },
+        {
+          "id": "x10-reading-sentence",
+          "title": "Reading 문장 완성하기",
+          "questionCount": 26
+        },
+        {
+          "id": "x10-reading-cloze",
+          "title": "Reading 빈칸 완성하기",
+          "questionCount": 26
+        },
+        {
+          "id": "x10-review",
+          "title": "핵심 문장 Review",
+          "questionCount": 25
+        }
+      ]
+    },
+    {
+      "key": "C",
+      "title": "C. 모의고사",
+      "exercises": [
+        {
+          "id": "mock-100",
+          "title": "100발 100중 모의고사",
+          "questionCount": 25
+        },
+        {
+          "id": "mock-high",
+          "title": "고득점 모의고사",
+          "questionCount": 25
+        },
+        {
+          "id": "final-1",
+          "title": "최종점검 모의고사 1회",
+          "questionCount": 25
+        },
+        {
+          "id": "final-2",
+          "title": "최종점검 모의고사 2회",
+          "questionCount": 25
+        },
+        {
+          "id": "final-3",
+          "title": "최종점검 모의고사 3회",
+          "questionCount": 25
+        }
+      ]
+    }
+  ]
+}

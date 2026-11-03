@@ -1,0 +1,110 @@
+{
+  "id": "plus-practice",
+  "title": "Plus 기타 지문 실전 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": [
+    "167"
+  ],
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01-03",
+      "type": "TMC",
+      "question": "[01] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival\n• When: from March 15 to 19\n• Where: Valencia, Spain\n• Activities: parades and fireworks, burning the fallas ⓐ ______ the last day of the festival\n\nMidsummer Festival\n• When: from the Friday evening ⓑ ______ June 19 and 25 to the Sunday\n• Where: Sweden\n• Activities: decorating a tall pole ⓒ ______ flowers and green leaves, traditional dances around the pole\n\nDay of the Dead Festival\n• When: November 1 and 2\n• Where: Mexico\n• Activities: setting up altars in homes and having parties in cemeteries, dressing up ⓓ ______ skeletons and holding big parades\n\nFur Rondy Festival\n• When: ⓔ ______ the end of February\n• Where: Alaska, USA\n• Activities: various winter sports and Alaskan traditional games, special events such as the Running of the Reindeer\n\n윗글의 빈칸 ⓐ~ⓔ에 들어갈 말로 적절하지 않은 것은?",
+      "answers": [
+        "ⓐ: on",
+        "ⓑ: between",
+        "ⓒ: as",
+        "ⓓ: like",
+        "ⓔ: at"
+      ],
+      "corAns": "3",
+      "explainKo": "decorate A with B: A를 B로 장식하다."
+    },
+    {
+      "id": 2,
+      "group": "01-03",
+      "type": "TST",
+      "question": "[02] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival\n• When: from March 15 to 19\n• Where: Valencia, Spain\n• Activities: parades and fireworks, burning the fallas ⓐ ______ the last day of the festival\n\nMidsummer Festival\n• When: from the Friday evening ⓑ ______ June 19 and 25 to the Sunday\n• Where: Sweden\n• Activities: decorating a tall pole ⓒ ______ flowers and green leaves, traditional dances around the pole\n\nDay of the Dead Festival\n• When: November 1 and 2\n• Where: Mexico\n• Activities: setting up altars in homes and having parties in cemeteries, dressing up ⓓ ______ skeletons and holding big parades\n\nFur Rondy Festival\n• When: ⓔ ______ the end of February\n• Where: Alaska, USA\n• Activities: various winter sports and Alaskan traditional games, special events such as the Running of the Reindeer\n\n윗글을 읽고, 질문에 대한 답을 완성하시오.\nQ. What do people burn at the Fallas Festival?\n→ They burn the ______",
+      "answers": [
+        "fallas"
+      ],
+      "explainKo": "Fallas 축제 마지막 날 사람들이 파야를 태운다고 했다. 질문: Fallas 축제에서 사람들은 무엇을 태우는가?"
+    },
+    {
+      "id": 3,
+      "group": "01-03",
+      "type": "TMC",
+      "question": "[03] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival\n• When: from March 15 to 19\n• Where: Valencia, Spain\n• Activities: parades and fireworks, burning the fallas ⓐ ______ the last day of the festival\n\nMidsummer Festival\n• When: from the Friday evening ⓑ ______ June 19 and 25 to the Sunday\n• Where: Sweden\n• Activities: decorating a tall pole ⓒ ______ flowers and green leaves, traditional dances around the pole\n\nDay of the Dead Festival\n• When: November 1 and 2\n• Where: Mexico\n• Activities: setting up altars in homes and having parties in cemeteries, dressing up ⓓ ______ skeletons and holding big parades\n\nFur Rondy Festival\n• When: ⓔ ______ the end of February\n• Where: Alaska, USA\n• Activities: various winter sports and Alaskan traditional games, special events such as the Running of the Reindeer\n\nAccording to the passage, which one is NOT true?",
+      "answers": [
+        "The Fallas Festival includes parades.",
+        "The Midsummer Festival is held in Sweden.",
+        "The Midsummer Festival lasts only one day.",
+        "The Day of the Dead Festival is celebrated in Mexico.",
+        "Visitors enjoy winter games at the Fur Rondy Festival."
+      ],
+      "corAns": "3",
+      "explainKo": "Midsummer 축제는 3일 동안 지속되므로 ③은 글의 내용과 일치하지 않는다. ① Fallas 축제는 퍼레이드를 포함한다. ② Midsummer 축제는 스웨덴에서 열린다. ③ Midsummer 축제는 단 하루만 지속된다. ④ Day of the Dead 축제는 멕시코에서 기념된다. ⑤ 방문객들은 Fur Rondy 축제에서 겨울 게임을 즐긴다."
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TMC",
+      "question": "[04] 다음 글을 읽고, 물음에 답하시오.\n\nFallas Festival: Its stars are giant wooden statues.\nMidsummer Festival: People decorate a tall pole and enjoy traditional dances around it.\nDay of the Dead Festival: People set up altars in their homes.\nFur Rondy Festival: Visitors can enjoy Alaskan traditional games.\n\nWhat is the main topic of the passage?",
+      "answers": [
+        "the history of festivals",
+        "the most famous festival",
+        "how to celebrate traditions",
+        "four great traditional games",
+        "fun festivals in different countries"
+      ],
+      "corAns": "5",
+      "explainKo": "전 세계의 다양한 축제에 대해 소개하고 있으므로 글의 주제로 ⑤ '다른 나라의 재미있는 축제들'이 가장 적절하다. ① 축제의 역사. ② 가장 유명한 축제. ③ 전통을 기념하는 방법. ④ 4대 전통 놀이들."
+    },
+    {
+      "group": "05-07",
+      "type": "TMC",
+      "question": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEnjoy ①Making Gimchi in Goesan!\n\nThe Goesan Gimjang festival ②is taken place in Goesan on the first weekend of November. ③During the festival, many people come together to make gimchi. There ④are also other events such as K-pop concerts. Come to Goesan and ⑤enjoy the festival. ⓐTo make gimchi together will be fun.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① Making",
+        "② is taken place",
+        "③ During",
+        "④ are",
+        "⑤ enjoy"
+      ],
+      "corAns": "2",
+      "explainKo": "take place는 '개최되다, 열리다'라는 뜻의 자동사라서 수동태로 쓸 수 없다. ② is taken place는 takes place가 되어야 한다.",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "group": "05-07",
+      "type": "TST",
+      "question": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nEnjoy Making Gimchi in Goesan!\n\nThe Goesan Gimjang festival is taken place in Goesan on the first weekend of November. During the festival, many people come together to make gimchi. There are also other events such as K-pop concerts. Come to Goesan and enjoy the festival. (a) To make gimchi together will be fun.\n\n윗글의 밑줄 친 ⓐ를 가주어 it으로 시작하여 다시 쓰시오.\n→ It ______",
+      "answers": [
+        "will be fun to make gimchi together",
+        "It will be fun to make gimchi together.",
+        "It will be fun to make gimchi together"
+      ],
+      "explainKo": "가주어 it이 주어 자리에 쓰였으므로 문장의 진주어인 to부정사(구)를 문장 뒤로 보내어 「It + be동사 + 형용사/명사 + to부정사(구)」로 나타낸다."
+    },
+    {
+      "id": 7,
+      "group": "05-07",
+      "type": "TMC",
+      "question": "[07] 다음 글을 읽고, 물음에 답하시오.\n\nEnjoy Making Gimchi in Goesan!\n\nThe Goesan Gimjang festival is taken place in Goesan on the first weekend of November. During the festival, many people come together to make gimchi. There are also other events such as K-pop concerts. Come to Goesan and enjoy the festival. (a) To make gimchi together will be fun.\n\nWhat is the purpose of the passage?",
+      "answers": [
+        "to sell gimchi products",
+        "to advertise K-pop concerts",
+        "to suggest holding a gimchi festival",
+        "to teach people how to make gimchi",
+        "to invite people to the Gimjang festival"
+      ],
+      "corAns": "5",
+      "explainKo": "괴산 김장 축제에 와서 즐기라는 내용의 글이므로 ⑤ '사람들을 김장 축제에 초대하려고'가 글의 목적으로 가장 적절하다. ① 김치 제품을 판매하려고. ② 케이팝 콘서트를 홍보하려고. ③ 김치 축제 개최를 제안하려고. ④ 사람들에게 김치 담그는 법을 알려 주려고."
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "id": "x10-review",
+  "title": "핵심 문장 Review",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "42-43",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "A-01",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n01. People in Valencia celebrate the coming of spring with the Fallas festival.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: T"
+    },
+    {
+      "id": 2,
+      "group": "A-02",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n02. The Fallas festival takes place from April 15 to 19.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: F. April → March"
+    },
+    {
+      "id": 3,
+      "group": "A-03",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n03. Winter in Sweden is short and dark, so the people there especially welcome summer.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: F. short → long"
+    },
+    {
+      "id": 4,
+      "group": "A-04",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n04. During the Midsummer festival, people decorate a tall pole with flowers and green leaves.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: T"
+    },
+    {
+      "id": 5,
+      "group": "A-05",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n05. To welcome dead people, Indians hold a festival on November 1 and 2.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: F. Indians → Mexicans"
+    },
+    {
+      "id": 6,
+      "group": "A-06",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n06. At the end of February, people in Alaska hold the Fur Rondy festival.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "1",
+      "explainKo": "정답: T"
+    },
+    {
+      "id": 7,
+      "group": "A-07",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n07. During the Fur Rondy festival, visitors can enjoy various winter sports and Alaskan modern games.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "corAns": "2",
+      "explainKo": "정답: F. modern → traditional"
+    },
+    {
+      "id": 8,
+      "group": "B-01",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n01. The stars of the festival are fallas, giant wooden statues.",
+      "answers": [
+        "O",
+        "O.",
+        "○",
+        "○.",
+        "o",
+        "o."
+      ],
+      "explainKo": "정답: O"
+    },
+    {
+      "id": 9,
+      "group": "B-02",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n02. Surprisingly, the fallas burned on the last day of the festival.",
+      "answers": [
+        "X are burned",
+        "Xareburned",
+        "X  are  burned",
+        "X are burned.",
+        "X, are burned",
+        "X,areburned",
+        "X,  are  burned",
+        "X,are burned",
+        "X, are burned.",
+        "× are burned",
+        "×areburned",
+        "×  are  burned",
+        "× are burned.",
+        "burned → are burned",
+        "burned→areburned",
+        "burned  →  are  burned",
+        "burned → are burned.",
+        "are burned",
+        "areburned",
+        "are  burned",
+        "are burned.",
+        "Surprisingly, the fallas are burned on the last day of the festival.",
+        "Surprisingly,thefallasareburnedonthelastdayofthefestival.",
+        "Surprisingly,  the  fallas  are  burned  on  the  last  day  of  the  festival.",
+        "Surprisingly,the fallas are burned on the last day of the festival.",
+        "Surprisingly the fallas are burned on the last day of the festival.",
+        "Surprisingly, the fallas are burned on the last day of the festival"
+      ],
+      "explainKo": "정답: X are burned"
+    },
+    {
+      "id": 10,
+      "group": "B-03",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n03. To celebrate the longer day of the year, they have a special festival.",
+      "answers": [
+        "X longest",
+        "Xlongest",
+        "X  longest",
+        "X longest.",
+        "X, longest",
+        "X,longest",
+        "X,  longest",
+        "X, longest.",
+        "× longest",
+        "×longest",
+        "×  longest",
+        "× longest.",
+        "longer → longest",
+        "longer→longest",
+        "longer  →  longest",
+        "longer → longest.",
+        "longest",
+        "longest.",
+        "To celebrate the longest day of the year, they have a special festival.",
+        "Tocelebratethelongestdayoftheyear,theyhaveaspecialfestival.",
+        "To  celebrate  the  longest  day  of  the  year,  they  have  a  special  festival.",
+        "To celebrate the longest day of the year,they have a special festival.",
+        "To celebrate the longest day of the year they have a special festival.",
+        "To celebrate the longest day of the year, they have a special festival"
+      ],
+      "explainKo": "정답: X longest"
+    },
+    {
+      "id": 11,
+      "group": "B-04",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n04. They call it the Midsummer festival.",
+      "answers": [
+        "O",
+        "O.",
+        "○",
+        "○.",
+        "o",
+        "o."
+      ],
+      "explainKo": "정답: O"
+    },
+    {
+      "id": 12,
+      "group": "B-05",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n05. Many Mexicans believe that once a year dead people come back home.",
+      "answers": [
+        "O",
+        "O.",
+        "○",
+        "○.",
+        "o",
+        "o."
+      ],
+      "explainKo": "정답: O"
+    },
+    {
+      "id": 13,
+      "group": "B-06",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n06. In some areas, people dress up like skeletons and held big parades.",
+      "answers": [
+        "X hold",
+        "Xhold",
+        "X  hold",
+        "X hold.",
+        "X, hold",
+        "X,hold",
+        "X,  hold",
+        "X, hold.",
+        "× hold",
+        "×hold",
+        "×  hold",
+        "× hold.",
+        "held → hold",
+        "held→hold",
+        "held  →  hold",
+        "held → hold.",
+        "hold",
+        "hold.",
+        "In some areas, people dress up like skeletons and hold big parades.",
+        "Insomeareas,peopledressuplikeskeletonsandholdbigparades.",
+        "In  some  areas,  people  dress  up  like  skeletons  and  hold  big  parades.",
+        "In some areas,people dress up like skeletons and hold big parades.",
+        "In some areas people dress up like skeletons and hold big parades.",
+        "In some areas, people dress up like skeletons and hold big parades"
+      ],
+      "explainKo": "정답: X hold"
+    },
+    {
+      "id": 14,
+      "group": "B-07",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n07. People which participate in this race wear fun costumes.",
+      "answers": [
+        "X who",
+        "Xwho",
+        "X  who",
+        "X who.",
+        "X, who",
+        "X,who",
+        "X,  who",
+        "X, who.",
+        "× who",
+        "×who",
+        "×  who",
+        "× who.",
+        "which → who",
+        "which→who",
+        "which  →  who",
+        "which → who.",
+        "who",
+        "who.",
+        "People who participate in this race wear fun costumes.",
+        "Peoplewhoparticipateinthisracewearfuncostumes.",
+        "People  who  participate  in  this  race  wear  fun  costumes.",
+        "People who participate in this race wear fun costumes"
+      ],
+      "explainKo": "정답: X who"
+    },
+    {
+      "id": 15,
+      "group": "B-08",
+      "type": "TST",
+      "question": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n08. Is it possible to do so? Not really, but it doesn't matter.",
+      "answers": [
+        "O",
+        "O.",
+        "○",
+        "○.",
+        "o",
+        "o."
+      ],
+      "explainKo": "정답: O"
+    },
+    {
+      "id": 16,
+      "group": "C-01",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n01. You can find (hundred) of them all over the city.\n여러분은 도시 곳곳에서 수백 개의 그것들(조각상들)을 볼 수 있다.",
+      "answers": [
+        "You can find hundreds of them all over the city.",
+        "Youcanfindhundredsofthemalloverthecity.",
+        "You  can  find  hundreds  of  them  all  over  the  city.",
+        "You can find hundreds of them all over the city"
+      ],
+      "explainKo": "정답: You can find hundreds of them all over the city."
+    },
+    {
+      "id": 17,
+      "group": "C-02",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n02. (Burn) them symbolizes saying goodbye to old things.\n그것들을 불태우는 것은 오래된 것들과 작별하는 것을 상징한다.",
+      "answers": [
+        "Burning them symbolizes saying goodbye to old things.",
+        "Burningthemsymbolizessayinggoodbyetooldthings.",
+        "Burning  them  symbolizes  saying  goodbye  to  old  things.",
+        "Burning them symbolizes saying goodbye to old things"
+      ],
+      "explainKo": "정답: Burning them symbolizes saying goodbye to old things."
+    },
+    {
+      "id": 18,
+      "group": "C-03",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n03. They believe it is important (remember) dead people.\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "answers": [
+        "They believe it is important to remember dead people.",
+        "Theybelieveitisimportanttorememberdeadpeople.",
+        "They  believe  it  is  important  to  remember  dead  people.",
+        "They believe it is important to remember dead people"
+      ],
+      "explainKo": "정답: They believe it is important to remember dead people."
+    },
+    {
+      "id": 19,
+      "group": "C-04",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n04. People in Alaska hold the Fur Rondy festival, one of the (big) winter festivals in the world.\n알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "answers": [
+        "People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.",
+        "PeopleinAlaskaholdtheFurRondyfestival,oneofthebiggestwinterfestivalsintheworld.",
+        "People  in  Alaska  hold  the  Fur  Rondy  festival,  one  of  the  biggest  winter  festivals  in  the  world.",
+        "People in Alaska hold the Fur Rondy festival,one of the biggest winter festivals in the world.",
+        "People in Alaska hold the Fur Rondy festival one of the biggest winter festivals in the world.",
+        "People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world"
+      ],
+      "explainKo": "정답: People in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world."
+    },
+    {
+      "id": 20,
+      "group": "C-05",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n05. People who participate in this race wear fun costumes and try to run (fast) than reindeer.\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "answers": [
+        "People who participate in this race wear fun costumes and try to run faster than reindeer.",
+        "Peoplewhoparticipateinthisracewearfuncostumesandtrytorunfasterthanreindeer.",
+        "People  who  participate  in  this  race  wear  fun  costumes  and  try  to  run  faster  than  reindeer.",
+        "People who participate in this race wear fun costumes and try to run faster than reindeer"
+      ],
+      "explainKo": "정답: People who participate in this race wear fun costumes and try to run faster than reindeer."
+    },
+    {
+      "id": 21,
+      "group": "D-01",
+      "type": "TST",
+      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n01. While the festival, people enjoy parades and fireworks.\n축제 기간 동안, 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "answers": [
+        "During the festival, people enjoy parades and fireworks.",
+        "Duringthefestival,peopleenjoyparadesandfireworks.",
+        "During  the  festival,  people  enjoy  parades  and  fireworks.",
+        "During the festival,people enjoy parades and fireworks.",
+        "During the festival people enjoy parades and fireworks.",
+        "During the festival, people enjoy parades and fireworks"
+      ],
+      "explainKo": "정답: During the festival, people enjoy parades and fireworks."
+    },
+    {
+      "id": 22,
+      "group": "D-02",
+      "type": "TST",
+      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n02. The festival starts on the Friday evening between June 19 and 25 and end on the Sunday.\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "answers": [
+        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.",
+        "ThefestivalstartsontheFridayeveningbetweenJune19and25andendsontheSunday.",
+        "The  festival  starts  on  the  Friday  evening  between  June  19  and  25  and  ends  on  the  Sunday.",
+        "The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday"
+      ],
+      "explainKo": "정답: The festival starts on the Friday evening between June 19 and 25 and ends on the Sunday."
+    },
+    {
+      "id": 23,
+      "group": "D-03",
+      "type": "TST",
+      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n03. Because the sun hard sets at this time of year in Sweden, people can enjoy the festival all night long.\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "answers": [
+        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.",
+        "BecausethesunhardlysetsatthistimeofyearinSweden,peoplecanenjoythefestivalallnightlong.",
+        "Because  the  sun  hardly  sets  at  this  time  of  year  in  Sweden,  people  can  enjoy  the  festival  all  night  long.",
+        "Because the sun hardly sets at this time of year in Sweden,people can enjoy the festival all night long.",
+        "Because the sun hardly sets at this time of year in Sweden people can enjoy the festival all night long.",
+        "Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long"
+      ],
+      "explainKo": "정답: Because the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long."
+    },
+    {
+      "id": 24,
+      "group": "D-04",
+      "type": "TST",
+      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n04. People set up altars in their homes and have big party in cemeteries.\n사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "answers": [
+        "People set up altars in their homes and have big parties in cemeteries.",
+        "Peoplesetupaltarsintheirhomesandhavebigpartiesincemeteries.",
+        "People  set  up  altars  in  their  homes  and  have  big  parties  in  cemeteries.",
+        "People set up altars in their homes and have big parties in cemeteries"
+      ],
+      "explainKo": "정답: People set up altars in their homes and have big parties in cemeteries."
+    },
+    {
+      "id": 25,
+      "group": "D-05",
+      "type": "TST",
+      "question": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n05. They can also enjoy many special events such the Running of the Reindeer.\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "answers": [
+        "They can also enjoy many special events such as the Running of the Reindeer.",
+        "TheycanalsoenjoymanyspecialeventssuchastheRunningoftheReindeer.",
+        "They  can  also  enjoy  many  special  events  such  as  the  Running  of  the  Reindeer.",
+        "They can also enjoy many special events such as the Running of the Reindeer"
+      ],
+      "explainKo": "정답: They can also enjoy many special events such as the Running of the Reindeer."
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "id": "vocab-check",
+  "title": "Vocabulary 확인 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 08 Time Travel",
+  "sourcePages": "p.184",
+  "questionCount": 60,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "A-01",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nexcept",
+      "answers": [
+        "~을 제외하고는",
+        "을 제외하고는"
+      ],
+      "explainKo": "정답: ~을 제외하고는"
+    },
+    {
+      "id": 2,
+      "group": "A-02",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nterrified",
+      "answers": [
+        "무서워하는, 겁이 난",
+        "무서워하는",
+        "겁이 난",
+        "무서워하는,겁이 난",
+        "무서워하는 겁이 난"
+      ],
+      "explainKo": "정답: 무서워하는, 겁이 난"
+    },
+    {
+      "id": 3,
+      "group": "A-03",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ncalm",
+      "answers": [
+        "침착한"
+      ],
+      "explainKo": "정답: 침착한"
+    },
+    {
+      "id": 4,
+      "group": "A-04",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\npanic",
+      "answers": [
+        "겁에 질려 어쩔 줄 모르다. 극심한 공포",
+        "겁에 질려 어쩔 줄 모르다",
+        "극심한 공포",
+        "겁에 질려 어쩔 줄 모르다, 극심한 공포",
+        "겁에 질려 어쩔 줄 모르다 극심한 공포",
+        "겁에 질려 어쩔 줄 모르다,극심한 공포"
+      ],
+      "explainKo": "정답: 겁에 질려 어쩔 줄 모르다. 극심한 공포"
+    },
+    {
+      "id": 5,
+      "group": "A-05",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nscared",
+      "answers": [
+        "무서워하는"
+      ],
+      "explainKo": "정답: 무서워하는"
+    },
+    {
+      "id": 6,
+      "group": "A-06",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nfinally",
+      "answers": [
+        "마침내"
+      ],
+      "explainKo": "정답: 마침내"
+    },
+    {
+      "id": 7,
+      "group": "A-07",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ninside",
+      "answers": [
+        "안으로"
+      ],
+      "explainKo": "정답: 안으로"
+    },
+    {
+      "id": 8,
+      "group": "A-08",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nconfused",
+      "answers": [
+        "혼란스러워하는"
+      ],
+      "explainKo": "정답: 혼란스러워하는"
+    },
+    {
+      "id": 9,
+      "group": "A-09",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nexplain",
+      "answers": [
+        "설명하다"
+      ],
+      "explainKo": "정답: 설명하다"
+    },
+    {
+      "id": 10,
+      "group": "A-10",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nmud",
+      "answers": [
+        "진흙"
+      ],
+      "explainKo": "정답: 진흙"
+    },
+    {
+      "id": 11,
+      "group": "A-11",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\npresident",
+      "answers": [
+        "대통령"
+      ],
+      "explainKo": "정답: 대통령"
+    },
+    {
+      "id": 12,
+      "group": "A-12",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ncarefully",
+      "answers": [
+        "주의 깊게"
+      ],
+      "explainKo": "정답: 주의 깊게"
+    },
+    {
+      "id": 13,
+      "group": "A-13",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nroar",
+      "answers": [
+        "포효: 포효하다, 으르렁거리다",
+        "포효",
+        "포효하다",
+        "으르렁거리다",
+        "포효하다, 으르렁거리다",
+        "포효, 포효하다, 으르렁거리다",
+        "포효: 포효하다,으르렁거리다",
+        "포효: 포효하다 으르렁거리다",
+        "포효:포효하다, 으르렁거리다",
+        "포효하다,으르렁거리다",
+        "포효하다 으르렁거리다",
+        "포효,포효하다,으르렁거리다",
+        "포효 포효하다 으르렁거리다"
+      ],
+      "explainKo": "정답: 포효: 포효하다, 으르렁거리다"
+    },
+    {
+      "id": 14,
+      "group": "A-14",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nstare",
+      "answers": [
+        "빤히 쳐다보다. 응시하다",
+        "빤히 쳐다보다",
+        "응시하다",
+        "빤히 쳐다보다, 응시하다",
+        "빤히 쳐다보다 응시하다",
+        "빤히 쳐다보다,응시하다"
+      ],
+      "explainKo": "정답: 빤히 쳐다보다. 응시하다"
+    },
+    {
+      "id": 15,
+      "group": "A-15",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nfog",
+      "answers": [
+        "안개"
+      ],
+      "explainKo": "정답: 안개"
+    },
+    {
+      "id": 16,
+      "group": "A-16",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nname",
+      "answers": [
+        "(정확히) 말하다: 이름 짓다: 이름",
+        "(정확히) 말하다",
+        "이름 짓다",
+        "이름",
+        "정확히 말하다",
+        "(정확히) 말하다, 이름 짓다, 이름",
+        "(정확히) 말하다:이름 짓다:이름",
+        "(정확히) 말하다,이름 짓다,이름",
+        "(정확히) 말하다 이름 짓다 이름"
+      ],
+      "explainKo": "정답: (정확히) 말하다: 이름 짓다: 이름"
+    },
+    {
+      "id": 17,
+      "group": "A-17",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ncause",
+      "answers": [
+        "일으키다, ~의 원인이 되다: 원인",
+        "일으키다",
+        "~의 원인이 되다",
+        "원인",
+        "일으키다, ~의 원인이 되다",
+        "일으키다, ~의 원인이 되다, 원인",
+        "일으키다,~의 원인이 되다: 원인",
+        "일으키다 ~의 원인이 되다: 원인",
+        "일으키다, ~의 원인이 되다:원인",
+        "일으키다,~의 원인이 되다",
+        "일으키다 ~의 원인이 되다",
+        "일으키다,~의 원인이 되다,원인",
+        "일으키다 ~의 원인이 되다 원인"
+      ],
+      "explainKo": "정답: 일으키다, ~의 원인이 되다: 원인"
+    },
+    {
+      "id": 18,
+      "group": "A-18",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nquiet",
+      "answers": [
+        "조용한"
+      ],
+      "explainKo": "정답: 조용한"
+    },
+    {
+      "id": 19,
+      "group": "A-19",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nfoolish",
+      "answers": [
+        "어리석은"
+      ],
+      "explainKo": "정답: 어리석은"
+    },
+    {
+      "id": 20,
+      "group": "A-20",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nmachine",
+      "answers": [
+        "기계"
+      ],
+      "explainKo": "정답: 기계"
+    },
+    {
+      "id": 21,
+      "group": "B-01",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n지시(사항)",
+      "answers": [
+        "instruction"
+      ],
+      "explainKo": "정답: instruction"
+    },
+    {
+      "id": 22,
+      "group": "B-02",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n목소리",
+      "answers": [
+        "voice"
+      ],
+      "explainKo": "정답: voice"
+    },
+    {
+      "id": 23,
+      "group": "B-03",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n나타나다",
+      "answers": [
+        "appear"
+      ],
+      "explainKo": "정답: appear"
+    },
+    {
+      "id": 24,
+      "group": "B-04",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n표지판, 간판",
+      "answers": [
+        "sign"
+      ],
+      "explainKo": "정답: sign"
+    },
+    {
+      "id": 25,
+      "group": "B-05",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n바꾸다; 변화",
+      "answers": [
+        "change"
+      ],
+      "explainKo": "정답: change"
+    },
+    {
+      "id": 26,
+      "group": "B-06",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n갑자기",
+      "answers": [
+        "suddenly"
+      ],
+      "explainKo": "정답: suddenly"
+    },
+    {
+      "id": 27,
+      "group": "B-07",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n공룡",
+      "answers": [
+        "dinosaur"
+      ],
+      "explainKo": "정답: dinosaur"
+    },
+    {
+      "id": 28,
+      "group": "B-08",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n자세히; 가까이",
+      "answers": [
+        "closely"
+      ],
+      "explainKo": "정답: closely"
+    },
+    {
+      "id": 29,
+      "group": "B-09",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n상상할 수 없는",
+      "answers": [
+        "unthinkable"
+      ],
+      "explainKo": "정답: unthinkable"
+    },
+    {
+      "id": 30,
+      "group": "B-10",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n숨을 쉬다, 호흡하다",
+      "answers": [
+        "breathe"
+      ],
+      "explainKo": "정답: breathe"
+    },
+    {
+      "id": 31,
+      "group": "B-11",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n속삭이다",
+      "answers": [
+        "whisper"
+      ],
+      "explainKo": "정답: whisper"
+    },
+    {
+      "id": 32,
+      "group": "B-12",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n설립자, 창립자",
+      "answers": [
+        "founder"
+      ],
+      "explainKo": "정답: founder"
+    },
+    {
+      "id": 33,
+      "group": "B-13",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n백만의; 백만",
+      "answers": [
+        "million"
+      ],
+      "explainKo": "정답: million"
+    },
+    {
+      "id": 34,
+      "group": "B-14",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n~ 이후(로)",
+      "answers": [
+        "since"
+      ],
+      "explainKo": "정답: since"
+    },
+    {
+      "id": 35,
+      "group": "B-15",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n따르다; 따라가다",
+      "answers": [
+        "follow"
+      ],
+      "explainKo": "정답: follow"
+    },
+    {
+      "id": 36,
+      "group": "B-16",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n충격을 받은",
+      "answers": [
+        "shocked"
+      ],
+      "explainKo": "정답: shocked"
+    },
+    {
+      "id": 37,
+      "group": "B-17",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n가능한",
+      "answers": [
+        "possible"
+      ],
+      "explainKo": "정답: possible"
+    },
+    {
+      "id": 38,
+      "group": "B-18",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n~을 향하여",
+      "answers": [
+        "toward"
+      ],
+      "explainKo": "정답: toward"
+    },
+    {
+      "id": 39,
+      "group": "B-19",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n길, 오솔길",
+      "answers": [
+        "path"
+      ],
+      "explainKo": "정답: path"
+    },
+    {
+      "id": 40,
+      "group": "B-20",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n고요, 침묵",
+      "answers": [
+        "silence"
+      ],
+      "explainKo": "정답: silence"
+    },
+    {
+      "id": 41,
+      "group": "C-01",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nfor a long time",
+      "answers": [
+        "오랫동안"
+      ],
+      "explainKo": "정답: 오랫동안"
+    },
+    {
+      "id": 42,
+      "group": "C-02",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nput ~ in danger",
+      "answers": [
+        "~을 위험에 빠뜨리다",
+        "을 위험에 빠뜨리다"
+      ],
+      "explainKo": "정답: ~을 위험에 빠뜨리다"
+    },
+    {
+      "id": 43,
+      "group": "C-03",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nreturn to",
+      "answers": [
+        "~로 돌아가다, ~로 복귀하다",
+        "~로 돌아가다",
+        "~로 복귀하다",
+        "~로 돌아가다. ~로 복귀하다",
+        "로 돌아가다",
+        "로 복귀하다",
+        "~로 돌아가다,~로 복귀하다",
+        "~로 돌아가다 ~로 복귀하다"
+      ],
+      "explainKo": "정답: ~로 돌아가다, ~로 복귀하다"
+    },
+    {
+      "id": 44,
+      "group": "C-04",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nbecause of",
+      "answers": [
+        "~ 때문에",
+        "~때문에",
+        "때문에"
+      ],
+      "explainKo": "정답: ~ 때문에"
+    },
+    {
+      "id": 45,
+      "group": "C-05",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nsit down",
+      "answers": [
+        "앉다"
+      ],
+      "explainKo": "정답: 앉다"
+    },
+    {
+      "id": 46,
+      "group": "C-06",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nclose one's eyes",
+      "answers": [
+        "눈을 감다"
+      ],
+      "explainKo": "정답: 눈을 감다"
+    },
+    {
+      "id": 47,
+      "group": "C-07",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\ntake A to B",
+      "answers": [
+        "A를 B로 데려가다"
+      ],
+      "explainKo": "정답: A를 B로 데려가다"
+    },
+    {
+      "id": 48,
+      "group": "C-08",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nbe covered in",
+      "answers": [
+        "~으로 덮여 있다",
+        "으로 덮여 있다"
+      ],
+      "explainKo": "정답: ~으로 덮여 있다"
+    },
+    {
+      "id": 49,
+      "group": "C-09",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\ngo on",
+      "answers": [
+        "(계속) 일어나다, 발생하다",
+        "(계속) 일어나다",
+        "발생하다",
+        "계속 일어나다",
+        "(계속) 일어나다,발생하다",
+        "(계속) 일어나다 발생하다"
+      ],
+      "explainKo": "정답: (계속) 일어나다, 발생하다"
+    },
+    {
+      "id": 50,
+      "group": "C-10",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\non the news",
+      "answers": [
+        "뉴스에 나오는, 보도되는",
+        "뉴스에 나오는",
+        "보도되는",
+        "뉴스에 나오는,보도되는",
+        "뉴스에 나오는 보도되는"
+      ],
+      "explainKo": "정답: 뉴스에 나오는, 보도되는"
+    },
+    {
+      "id": 51,
+      "group": "D-01",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n~을 응시하다, 빤히 쳐다보다",
+      "answers": [
+        "stare at",
+        "stareat",
+        "stare  at"
+      ],
+      "explainKo": "정답: stare at"
+    },
+    {
+      "id": 52,
+      "group": "D-02",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\nA를 B로 되돌려 보내다",
+      "answers": [
+        "take A back to B",
+        "takeAbacktoB",
+        "take  A  back  to  B"
+      ],
+      "explainKo": "정답: take A back to B"
+    },
+    {
+      "id": 53,
+      "group": "D-03",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n실수로; 우연히",
+      "answers": [
+        "by accident",
+        "byaccident",
+        "by  accident"
+      ],
+      "explainKo": "정답: by accident"
+    },
+    {
+      "id": 54,
+      "group": "D-04",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n~로 걸어 들어가다",
+      "answers": [
+        "walk into",
+        "walkinto",
+        "walk  into"
+      ],
+      "explainKo": "정답: walk into"
+    },
+    {
+      "id": 55,
+      "group": "D-05",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n어떤 때라도, 언제라도",
+      "answers": [
+        "at any time",
+        "atanytime",
+        "at  any  time"
+      ],
+      "explainKo": "정답: at any time"
+    },
+    {
+      "id": 56,
+      "group": "D-06",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n둘러보다",
+      "answers": [
+        "look around",
+        "lookaround",
+        "look  around"
+      ],
+      "explainKo": "정답: look around"
+    },
+    {
+      "id": 57,
+      "group": "D-07",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n혼잣말하다",
+      "answers": [
+        "say to oneself",
+        "saytooneself",
+        "say  to  oneself"
+      ],
+      "explainKo": "정답: say to oneself"
+    },
+    {
+      "id": 58,
+      "group": "D-08",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n이루어지다, 실현되다",
+      "answers": [
+        "come true",
+        "cometrue",
+        "come  true"
+      ],
+      "explainKo": "정답: come true"
+    },
+    {
+      "id": 59,
+      "group": "D-09",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n~에서 내리다; ~에서 나오다",
+      "answers": [
+        "get out of",
+        "getoutof",
+        "get  out  of"
+      ],
+      "explainKo": "정답: get out of"
+    },
+    {
+      "id": 60,
+      "group": "D-10",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n돌아서다. 몸을 돌리다",
+      "answers": [
+        "turn around",
+        "turnaround",
+        "turn  around"
+      ],
+      "explainKo": "정답: turn around"
+    }
+  ]
+}
