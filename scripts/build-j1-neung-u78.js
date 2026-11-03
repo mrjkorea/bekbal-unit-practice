@@ -452,7 +452,13 @@ function catalog(unit) {
         return row;
       }),
     })).concat([
-      { key: "W", title: "Word focus", lane: "focus", note: "WordMaster packs · Word Master opens in new tab (pack JSON in handoff/word-packs). Vocab drills Coming soon in player.", exercises: wPacks.map(wmCard) },
+      {
+        key: "W",
+        title: "Word focus",
+        lane: "focus",
+        note: "Coming soon. WordMaster publish pending — pack JSON in this repo at handoff/word-packs/ (" + wPacks.map((p) => p.id).join(", ") + ").",
+        exercises: [],
+      },
       { key: "G", title: "Grammar focus", lane: "focus", note: g.note, exercises: g.exercises },
     ]),
   };
