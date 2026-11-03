@@ -5,7 +5,12 @@ const path = require("path");
 const grade = require("../assets/grade.js");
 
 const ROOT = path.join(__dirname, "..");
-const UNITS = ["data/j2-donga/u07/exercises", "data/j2-donga/u08/exercises"];
+const UNITS = [
+  "data/j2-donga/u07/exercises",
+  "data/j2-donga/u08/exercises",
+  "data/j1-visang/u07/exercises",
+  "data/j1-visang/u08/exercises",
+];
 
 function markers(text) {
   const numbered = [...String(text || "").matchAll(/[（(]\s*(\d+)\s*[)）]\s*(_{2,})/g)];
@@ -24,7 +29,7 @@ function numberList(s) {
 }
 
 function mcAsWrite(item) {
-  if (item.type === "mc" || item.type === "bank" || item.type === "order" || item.type === "ox") return false;
+  if (item.type === "mc" || item.type === "bank" || item.type === "match" || item.type === "order" || item.type === "ox") return false;
   if (item.type === "parts" && (item.parts || []).some((p) => p.kind === "mc")) return false;
   if (item.type === "parts" && !(item.parts || []).some((p) => (p.accept || []).some(numberList))) return false;
   if (!asksChoose(item)) return false;
@@ -314,7 +319,7 @@ for (const dir of UNITS) {
       if ((q.type === "mc" || q.type === "bank") && (!(q.choices || []).length || !(q.correctIndexes || []).length)) {
         problems.push({ kind: "bad-choice", loc });
       }
-      if ((q.type === "mc" || q.type === "bank") && (q.correctIndexes || []).some((n) => n < 1 || n > (q.choices || []).length)) {
+      if ((q.type === "mc" || q.type === "bank" || q.type === "match") && (q.correctIndexes || []).some((n) => n < 1 || n > (q.choices || []).length)) {
         problems.push({ kind: "bad-index", loc, indexes: q.correctIndexes, n: (q.choices || []).length });
       }
       if (q.type === "ox" && q.oxMark === "X" && !(q.rewriteAccept || []).length) problems.push({ kind: "ox-no-rewrite", loc });

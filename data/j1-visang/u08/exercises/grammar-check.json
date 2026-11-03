@@ -1,0 +1,1065 @@
+{
+  "id": "grammar-check",
+  "title": "Grammar 확인 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.202-203",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to be (답지 p.202 A)",
+      "type": "fill",
+      "promptEn": "I exercise every day ______ healthy. (be)",
+      "accept": [
+        "to be"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to watch (답지 p.202 A)",
+      "type": "fill",
+      "promptEn": "The movie was interesting ______ . (watch)",
+      "accept": [
+        "to watch"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to hear (답지 p.202 A)",
+      "type": "fill",
+      "promptEn": "I'm happy ______ that you got the job. (hear)",
+      "accept": [
+        "to hear"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to see (답지 p.202 A)",
+      "type": "fill",
+      "promptEn": "They traveled to Paris ______ the Eiffel Tower. (see)",
+      "accept": [
+        "to see"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to borrow (답지 p.202 A)",
+      "type": "fill",
+      "promptEn": "I went to the library ______ some books. (borrow)",
+      "accept": [
+        "to borrow"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I was surprised to hear the news. (답지 B 01)",
+      "type": "order",
+      "promptEn": "나는 그 소식을 듣고 놀랐다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "surprised"
+        },
+        {
+          "id": "c2",
+          "text": "to"
+        },
+        {
+          "id": "c3",
+          "text": "hear"
+        },
+        {
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "news"
+        },
+        {
+          "id": "c7",
+          "text": "was"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c7",
+        "c1",
+        "c2",
+        "c3",
+        "c5",
+        "c6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s2",
+      "sectionTitle": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: He went to America to learn English. (답지 B 02)",
+      "type": "order",
+      "promptEn": "그는 영어를 배우기 위해 미국에 갔다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "went"
+        },
+        {
+          "id": "c3",
+          "text": "English"
+        },
+        {
+          "id": "c4",
+          "text": "he"
+        },
+        {
+          "id": "c5",
+          "text": "learn"
+        },
+        {
+          "id": "c6",
+          "text": "America"
+        },
+        {
+          "id": "c7",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c2",
+        "c1",
+        "c6",
+        "c7",
+        "c5",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s2",
+      "sectionTitle": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: They arrived early to see the concert. (답지 B 03)",
+      "type": "order",
+      "promptEn": "그들은 콘서트를 보기 위해 일찍 도착했다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "see"
+        },
+        {
+          "id": "c3",
+          "text": "they"
+        },
+        {
+          "id": "c4",
+          "text": "early"
+        },
+        {
+          "id": "c5",
+          "text": "arrived"
+        },
+        {
+          "id": "c6",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "concert"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c5",
+        "c4",
+        "c1",
+        "c2",
+        "c6",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s2",
+      "sectionTitle": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I tried hard to solve the problem. (답지 B 04)",
+      "type": "order",
+      "promptEn": "나는 그 문제를 해결하기 위해 열심히 노력했다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "tried"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "problem"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "solve"
+        },
+        {
+          "id": "c6",
+          "text": "hard"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c1",
+        "c6",
+        "c4",
+        "c5",
+        "c2",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s2",
+      "sectionTitle": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: They use the compass to find the way. (답지 B 05)",
+      "type": "order",
+      "promptEn": "그들은 길을 찾기 위해 나침반을 사용한다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "the"
+        },
+        {
+          "id": "c2",
+          "text": "compass"
+        },
+        {
+          "id": "c3",
+          "text": "find"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "they"
+        },
+        {
+          "id": "c6",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "way"
+        },
+        {
+          "id": "c8",
+          "text": "use"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c8",
+        "c1",
+        "c2",
+        "c4",
+        "c3",
+        "c6",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s3",
+      "sectionTitle": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I learn English to study abroad. (답지 p.202 C)",
+      "type": "sentence",
+      "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nI learn English to studied abroad.",
+      "accept": [
+        "I learn English to study abroad."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s3",
+      "sectionTitle": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I exercise every day to get healthy. (답지 p.202 C)",
+      "type": "sentence",
+      "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nI exercise every day to got healthy.",
+      "accept": [
+        "I exercise every day to get healthy."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s3",
+      "sectionTitle": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: She was surprised to see such a big dog. (답지 p.202 C)",
+      "type": "sentence",
+      "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nShe was surprised seeing such a big dog.",
+      "accept": [
+        "She was surprised to see such a big dog."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s3",
+      "sectionTitle": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I was excited to hear about the promotion. (답지 p.202 C)",
+      "type": "sentence",
+      "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nI was excited hearing about the promotion.",
+      "accept": [
+        "I was excited to hear about the promotion."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s3",
+      "sectionTitle": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: He got up early to attend the meeting in time. (답지 p.202 C)",
+      "type": "sentence",
+      "promptEn": "틀린 곳을 고쳐 문장 전체를 쓰시오.\nHe got up early to attending the meeting in time.",
+      "accept": [
+        "He got up early to attend the meeting in time."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s4",
+      "sectionTitle": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 p.203 A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "I believe [that / if] he is telling the truth.",
+      "choices": [
+        "that",
+        "if"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s4",
+      "sectionTitle": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 p.203 A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "I hope [why / that] you arrive on time.",
+      "choices": [
+        "why",
+        "that"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s4",
+      "sectionTitle": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 p.203 A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "I'm surprised to hear [that / how] you didn't know about it.",
+      "choices": [
+        "that",
+        "how"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s4",
+      "sectionTitle": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 p.203 A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The CEO says [what / that] we need to make changes.",
+      "choices": [
+        "what",
+        "that"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s4",
+      "sectionTitle": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 p.203 A)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The fact [which / that] the sun rises in the east is true.",
+      "choices": [
+        "which",
+        "that"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s5",
+      "sectionTitle": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I knew that he passed the exam. (답지 B 01)",
+      "type": "order",
+      "promptEn": "(exam / knew / passed / that / the / I / he)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "exam"
+        },
+        {
+          "id": "c2",
+          "text": "knew"
+        },
+        {
+          "id": "c3",
+          "text": "passed"
+        },
+        {
+          "id": "c4",
+          "text": "that"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "he"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c2",
+        "c4",
+        "c7",
+        "c3",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s5",
+      "sectionTitle": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Tell her that he will be late. (답지 B 02)",
+      "type": "order",
+      "promptEn": "(be / that / tell / he / her / will / late)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "be"
+        },
+        {
+          "id": "c2",
+          "text": "that"
+        },
+        {
+          "id": "c3",
+          "text": "tell"
+        },
+        {
+          "id": "c4",
+          "text": "he"
+        },
+        {
+          "id": "c5",
+          "text": "her"
+        },
+        {
+          "id": "c6",
+          "text": "will"
+        },
+        {
+          "id": "c7",
+          "text": "late"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c5",
+        "c2",
+        "c4",
+        "c6",
+        "c1",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s5",
+      "sectionTitle": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: My opinion is that the movie was interesting. (답지 B 03)",
+      "type": "order",
+      "promptEn": "(interesting / is / movie / my / that / the / opinion / was)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "interesting"
+        },
+        {
+          "id": "c2",
+          "text": "is"
+        },
+        {
+          "id": "c3",
+          "text": "movie"
+        },
+        {
+          "id": "c4",
+          "text": "my"
+        },
+        {
+          "id": "c5",
+          "text": "that"
+        },
+        {
+          "id": "c6",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "opinion"
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c7",
+        "c2",
+        "c5",
+        "c6",
+        "c3",
+        "c8",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s5",
+      "sectionTitle": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: We heard that they bought a new house. (답지 B 04)",
+      "type": "order",
+      "promptEn": "(a / bought / that / heard / house / they / new / we)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "a"
+        },
+        {
+          "id": "c2",
+          "text": "bought"
+        },
+        {
+          "id": "c3",
+          "text": "that"
+        },
+        {
+          "id": "c4",
+          "text": "heard"
+        },
+        {
+          "id": "c5",
+          "text": "house"
+        },
+        {
+          "id": "c6",
+          "text": "they"
+        },
+        {
+          "id": "c7",
+          "text": "new"
+        },
+        {
+          "id": "c8",
+          "text": "we"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c4",
+        "c3",
+        "c6",
+        "c2",
+        "c1",
+        "c7",
+        "c5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s5",
+      "sectionTitle": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: It is a well-known fact that the Earth is round. (답지 B 05)",
+      "type": "order",
+      "promptEn": "(fact / that / the / Earth / is / is / it / round / well-known / a)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "fact"
+        },
+        {
+          "id": "c2",
+          "text": "that"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "Earth"
+        },
+        {
+          "id": "c5",
+          "text": "is"
+        },
+        {
+          "id": "c6",
+          "text": "is"
+        },
+        {
+          "id": "c7",
+          "text": "it"
+        },
+        {
+          "id": "c8",
+          "text": "round"
+        },
+        {
+          "id": "c9",
+          "text": "well-known"
+        },
+        {
+          "id": "c10",
+          "text": "a"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c5",
+        "c10",
+        "c9",
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c8"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s6",
+      "sectionTitle": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I can see that it is raining. (답지 p.203 C)",
+      "type": "sentence",
+      "promptEn": "that을 사용해 한 문장으로 쓰시오.\nIt is raining. I can see it.",
+      "accept": [
+        "I can see that it is raining."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s6",
+      "sectionTitle": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The fact is that the food tastes good. (답지 p.203 C)",
+      "type": "sentence",
+      "promptEn": "that을 사용해 한 문장으로 쓰시오.\nThe food tastes good. It is the fact.",
+      "accept": [
+        "The fact is that the food tastes good."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s6",
+      "sectionTitle": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: That the dog is barking is annoying. (답지 p.203 C)",
+      "type": "sentence",
+      "promptEn": "that을 사용해 한 문장으로 쓰시오.\nThe dog is barking. It is annoying.",
+      "accept": [
+        "That the dog is barking is annoying."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s6",
+      "sectionTitle": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I know that the bus is late. (답지 p.203 C)",
+      "type": "sentence",
+      "promptEn": "that을 사용해 한 문장으로 쓰시오.\nThe bus is late. I know it.",
+      "accept": [
+        "I know that the bus is late."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s6",
+      "sectionTitle": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The news that my friend got a new job made me happy. (답지 p.203 C)",
+      "type": "sentence",
+      "promptEn": "that을 사용해 한 문장으로 쓰시오.\nMy friend got a new job. The news made me happy.",
+      "accept": [
+        "The news that my friend got a new job made me happy."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 5문항 나오는 순서대로 누르시오. 5문항 문장 전체를 쓰시오. 5문항 알맞은 것을 고르시오. 5문항 나오는 순서대로 누르시오. 5문항 문장 전체를 쓰시오. 5문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · to부정사",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 5
+    },
+    {
+      "id": "s4",
+      "title": "Section D · that",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s5",
+      "title": "Section E · that 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 한 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 5
+    }
+  ]
+}

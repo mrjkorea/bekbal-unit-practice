@@ -1,0 +1,221 @@
+{
+  "id": "reading-practice",
+  "title": "Reading 실전 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.216-219",
+  "questionCount": 6,
+  "omitted": [
+    {
+      "sourceId": "1",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "2",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "4",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "5",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "7",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "8",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "9",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "10",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "12",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "14",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "15",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "16",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "17",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "19",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "21",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "22",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "23",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "24",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    },
+    {
+      "sourceId": "25",
+      "reason": "실전 보기 순서가 OCR에서 확정되지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Friendship Marathon. (답지 03)",
+      "type": "fill",
+      "promptEn": "it이 가리키는 학교 행사의 이름을 쓰시오.",
+      "accept": [
+        "Friendship Marathon"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: He walks with a stick. (답지 06)",
+      "type": "fill",
+      "promptEn": "그는 어떻게 걷나요? 영어 문장으로 쓰지 말고, 답지의 영어 문장을 쓰시오.",
+      "accept": [
+        "He walks with a stick."
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: I think that I can try a bike ride. (답지 11)",
+      "type": "fill",
+      "promptEn": "다음에는 자전거를 타볼 수 있다고 생각한다. that절을 포함한 문장을 쓰시오.",
+      "accept": [
+        "I think that I can try a bike ride."
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: movement. (답지 13)",
+      "type": "fill",
+      "promptEn": "서로의 움직임을 한 단어로 쓰시오.",
+      "accept": [
+        "movement"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: They practiced hard to win the marathon. (답지 18)",
+      "type": "sentence",
+      "promptEn": "우리는 마라톤에서 우승하기 위해 열심히 연습했다.",
+      "accept": [
+        "They practiced hard to win the marathon."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: at the same time. (답지 20)",
+      "type": "fill",
+      "promptEn": "동시에. 영어 표현을 쓰시오.",
+      "accept": [
+        "at the same time"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 6문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 확인된 문항",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 6
+    }
+  ]
+}

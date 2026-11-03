@@ -1,0 +1,358 @@
+{
+  "id": "mock-100",
+  "title": "100발 100중 모의고사",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.172-175",
+  "questionCount": 8,
+  "omitted": [
+    {
+      "sourceId": "6",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "7",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "9",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "10",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "11",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "12",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "14",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "15",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "16",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "17",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "18",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "20",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "21",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "22",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "23",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "24",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    },
+    {
+      "sourceId": "25",
+      "reason": "모의고사 답 칸이 OCR에서 비었거나 보기 순서를 확정하지 못함"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 어휘",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: waste. (답지 모의 01)",
+      "type": "fill",
+      "promptEn": "ocean : sea = trash : ______",
+      "accept": [
+        "waste"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s2",
+      "sectionTitle": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② last. (답지 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nto continue to exist or happen",
+      "choices": [
+        "lose",
+        "last",
+        "hope",
+        "reach",
+        "decide"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② into. 나머지는 in. (답지 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "choices": [
+        "He was ______ an accident last night.",
+        "The ball fell ______ the pond.",
+        "The big tree is ______ the middle of the road.",
+        "She lost her bag and is ______ trouble now.",
+        "We parked the car ______ front of the house."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s2",
+      "sectionTitle": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ①. 제안에 Yes, you can.은 어색하다. (답지 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 짝지어진 대화가 어색한 것은?",
+      "choices": [
+        "A: Let's play a board game together. B: Yes, you can.",
+        "A: How about picking up trash? B: Sounds good.",
+        "A: What about eating a sandwich? B: I'm not sure about that.",
+        "A: Why don't we go for a walk? B: That's a good idea.",
+        "A: What about planting some trees? B: Sounds good."
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s3",
+      "sectionTitle": "Section C · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Why don't we throw a surprise party for him? (답지 05)",
+      "type": "order",
+      "promptEn": "선생님을 위해 깜짝 파티를 열면 어떨까?\n보기: don't / a / throw / surprise / we / party / why / for / him",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "don't"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "throw"
+        },
+        {
+          "id": "c4",
+          "text": "surprise"
+        },
+        {
+          "id": "c5",
+          "text": "we"
+        },
+        {
+          "id": "c6",
+          "text": "party"
+        },
+        {
+          "id": "c7",
+          "text": "why"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        },
+        {
+          "id": "c9",
+          "text": "him"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c1",
+        "c5",
+        "c3",
+        "c2",
+        "c4",
+        "c6",
+        "c8",
+        "c9"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s4",
+      "sectionTitle": "Section D · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: My plan is to learn French. (답지 08)",
+      "type": "sentence",
+      "promptEn": "to부정사를 보어로 하여 문장 전체를 쓰시오.\n나의 계획은 프랑스어를 배우는 것이다.",
+      "accept": [
+        "My plan is to learn French."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s4",
+      "sectionTitle": "Section D · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I promise to visit you next year. (답지 13)",
+      "type": "sentence",
+      "promptEn": "다음을 문장 전체로 쓰시오.\n나는 내년에 너를 방문하겠다고 약속한다.",
+      "accept": [
+        "I promise to visit you next year."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s5",
+      "sectionTitle": "Section E · 본문",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ocean. (답지 19)",
+      "type": "fill",
+      "promptEn": "지구 표면의 많은 부분을 덮고 있는 소금기 있는 물. 영어 단어를 쓰시오.",
+      "accept": [
+        "ocean"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 1문항 알맞은 것을 고르시오. 3문항 나오는 순서대로 누르시오. 1문항 문장 전체를 쓰시오. 2문항 빈칸에 들어갈 말만 쓰시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 어휘",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 3
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 배열",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 본문",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 1
+    }
+  ]
+}

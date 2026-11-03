@@ -1,0 +1,202 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.128-129",
+  "questionCount": 6,
+  "omitted": [
+    {
+      "sourceId": "2",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "3",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "5",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "8",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "9",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "10",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "11",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    },
+    {
+      "sourceId": "12",
+      "reason": "두 단 OCR이라 보기 순서를 답지와 한 줄로 확정하지 못함"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ①. easy의 부사형은 easily. (답지 pp.128-129 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 단어의 부사형이 적절하지 않은 것은?",
+      "choices": [
+        "easy – easyly",
+        "slow – slowly",
+        "final – finally",
+        "bright – brightly",
+        "beautiful – beautifully"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② to. I am planning to go to the concert. (답지 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 우리말을 영작할 때 빈칸에 들어갈 말로 가장 적절한 것은?\n나는 그 콘서트에 갈 계획이다.\n→ I am planning ______ to the concert.",
+      "choices": [
+        "am",
+        "to",
+        "go",
+        "planning",
+        "going"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: am worried about. (답지 04)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n내 친구가 아파서 걱정이 돼.\n→ I ______ because he is sick.",
+      "accept": [
+        "am worried about"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: idea. (답지 07)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.\na thought or suggestion → i______",
+      "accept": [
+        "idea"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: draw. (답지 13)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\nto make a picture of something with a pencil or pen\nI want to ______ a beautiful flower.",
+      "accept": [
+        "draw"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: turn. turn off. (답지 14)",
+      "type": "fill",
+      "promptEn": "다음 대화의 빈칸에 공통으로 들어갈 말을 쓰시오.\nA: It's my ______ to use the computer.\nB: Don't forget to ______ it off after you finish.",
+      "accept": [
+        "turn"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 2문항 빈칸에 들어갈 말만 쓰시오. 4문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 4
+    }
+  ]
+}

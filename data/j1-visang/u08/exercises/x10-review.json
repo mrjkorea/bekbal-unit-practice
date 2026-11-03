@@ -1,0 +1,541 @@
+{
+  "id": "x10-review",
+  "title": "핵심 문장 Review",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "X-10 pp.56-57",
+  "questionCount": 24,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Andy and Junha signed up for Friendship Marathon.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "In this event, two people run as a team.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Andy also got interested.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Junha was Andy's guide runner.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Andy and Junha won the race in the Friendship Marathon.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Andy looked sad after the marathon.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F (X-10 Review A, 답지 pp.56-57)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "But Junha knew that they did their worst.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "B1",
+      "sourceId": "B1",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X to run → run (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "\"But can I to run?,\" I was not sure.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "run"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "B2",
+      "sourceId": "B2",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "I was proud of myself.",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "B3",
+      "sourceId": "B3",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X feels → feel (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "We tied a string around our fingers to feels each other's movement.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "feel"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "B4",
+      "sourceId": "B4",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "But this time I did it!",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "B5",
+      "sourceId": "B5",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: X moved → move (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "I told him, \"Andy, a bike is coming. So let's moved to the right.\"",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "move"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "B6",
+      "sourceId": "B6",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "But now, I want to try other things.",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "14",
+      "label": "B7",
+      "sourceId": "B7",
+      "section": "s2",
+      "sectionTitle": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "sectionInstructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "explainKo": "정답: O 맞는 문장 (X-10 Review B)",
+      "type": "ox",
+      "promptEn": "Andy looked happy, too.",
+      "oxMark": "O",
+      "seconds": 45
+    },
+    {
+      "id": "15",
+      "label": "C1",
+      "sourceId": "C1",
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: During the marathon, I ran with Andy and guided him at the same time. (X-10 Review C)",
+      "type": "sentence",
+      "promptEn": "괄호 안 단어를 알맞은 형태로 바꿔 문장 전체를 쓰시오.\nDuring the marathon, I ran with Andy and guided (he) at the same time.",
+      "accept": [
+        "During the marathon, I ran with Andy and guided him at the same time."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "C2",
+      "sourceId": "C2",
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It was hard, but we didn't stop running. (X-10 Review C)",
+      "type": "sentence",
+      "promptEn": "괄호 안 단어를 알맞은 형태로 바꿔 문장 전체를 쓰시오.\nIt was hard, but we didn't stop (run).",
+      "accept": [
+        "It was hard, but we didn't stop running."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "17",
+      "label": "C3",
+      "sourceId": "C3",
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: As a team, we practiced hard to win the marathon. (X-10 Review C)",
+      "type": "sentence",
+      "promptEn": "괄호 안 단어를 알맞은 형태로 바꿔 문장 전체를 쓰시오.\nAs a team, we practiced hard (win) the marathon.",
+      "accept": [
+        "As a team, we practiced hard to win the marathon."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "18",
+      "label": "C4",
+      "sourceId": "C4",
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I listened to him very carefully and ran with him. (X-10 Review C)",
+      "type": "sentence",
+      "promptEn": "괄호 안 단어를 알맞은 형태로 바꿔 문장 전체를 쓰시오.\nI listened to him very (careful) and ran with him.",
+      "accept": [
+        "I listened to him very carefully and ran with him."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "19",
+      "label": "C5",
+      "sourceId": "C5",
+      "section": "s3",
+      "sectionTitle": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Finishing something was not easy for me. (X-10 Review C)",
+      "type": "sentence",
+      "promptEn": "괄호 안 단어를 알맞은 형태로 바꿔 문장 전체를 쓰시오.\n(Finish) something was not easy for me.",
+      "accept": [
+        "Finishing something was not easy for me."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "D1",
+      "sourceId": "D1",
+      "section": "s4",
+      "sectionTitle": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: He said, \"Don't worry! I'll run with you.\" (X-10 Review D)",
+      "type": "sentence",
+      "promptEn": "어법상 틀린 한 곳을 고쳐 문장 전체를 쓰시오.\nHe said, \"Don't worry! I'll ran with you.\"",
+      "accept": [
+        "He said, \"Don't worry! I'll run with you.\""
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "21",
+      "label": "D2",
+      "sourceId": "D2",
+      "section": "s4",
+      "sectionTitle": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The wind was blowing through me and it felt great! (X-10 Review D)",
+      "type": "sentence",
+      "promptEn": "어법상 틀린 한 곳을 고쳐 문장 전체를 쓰시오.\nThe wind was blowing through me and it feel great!",
+      "accept": [
+        "The wind was blowing through me and it felt great!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "22",
+      "label": "D3",
+      "sourceId": "D3",
+      "section": "s4",
+      "sectionTitle": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I think that I can try a bike ride next time! (X-10 Review D)",
+      "type": "sentence",
+      "promptEn": "어법상 틀린 한 곳을 고쳐 문장 전체를 쓰시오.\nI think that I can tries a bike ride next time!",
+      "accept": [
+        "I think that I can try a bike ride next time!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "23",
+      "label": "D4",
+      "sourceId": "D4",
+      "section": "s4",
+      "sectionTitle": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: We ran together every day with a string. (X-10 Review D)",
+      "type": "sentence",
+      "promptEn": "어법상 틀린 한 곳을 고쳐 문장 전체를 쓰시오.\nWe ran together every day with a string*s*.",
+      "accept": [
+        "We ran together every day with a string."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "24",
+      "label": "D5",
+      "sourceId": "D5",
+      "section": "s4",
+      "sectionTitle": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\" (X-10 Review D)",
+      "type": "sentence",
+      "promptEn": "어법상 틀린 한 곳을 고쳐 문장 전체를 쓰시오.\nOne day, my homeroom teacher say, \"There will be a school event, Friendship Marathon.\"",
+      "accept": [
+        "One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\""
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 내용과 같으면 T, 다르면 F를 고르시오. 7문항 밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. 7문항 문장 전체를 쓰시오. 5문항 문장 전체를 쓰시오. 5문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    },
+    {
+      "id": "s2",
+      "title": "Section B · O/X",
+      "directionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오.",
+      "ruleKo": "O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "answerMode": "ox",
+      "answerModeTag": "OX · 맞으면 O",
+      "instructionKo": "밑줄이 맞으면 O, 틀리면 X를 누르시오. X이면 고친 말만 쓰시오. O 또는 X를 누르세요. X이면 고친 말만 쓰세요.",
+      "itemCount": 7
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 형태",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 5
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 고친 문장",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 5
+    }
+  ]
+}

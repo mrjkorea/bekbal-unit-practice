@@ -1,0 +1,440 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 07 Greener, Greater",
+  "sourcePages": "pp.136-137",
+  "questionCount": 10,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Look at the big plastic island in the ocean. / Oh, is this all plastic? / Yes. I'm worried about the sea animals. / Me, too. They can eat plastic waste and get sick. (답지 pp.134-135 01)",
+      "type": "order",
+      "promptEn": "1 다음 대화를 순서대로 누르시오.\n01 Everyday Communication 1-A1",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Me, too. They can eat plastic waste and get sick."
+        },
+        {
+          "id": "s3",
+          "text": "Yes. I'm worried about the sea animals."
+        },
+        {
+          "id": "s2",
+          "text": "Oh, is this all plastic?"
+        },
+        {
+          "id": "s1",
+          "text": "Look at the big plastic island in the ocean."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: You look worried. What's wrong? / I'm worried about the English speaking test. / Oh, I see. Speaking in front of people is not easy. / Yeah, it is always hard for me. (답지 02)",
+      "type": "order",
+      "promptEn": "2 다음 대화를 순서대로 누르시오.\n02 Everyday Communication 1-A2",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Yeah, it is always hard for me."
+        },
+        {
+          "id": "s3",
+          "text": "Oh, I see. Speaking in front of people is not easy."
+        },
+        {
+          "id": "s2",
+          "text": "I'm worried about the English speaking test."
+        },
+        {
+          "id": "s1",
+          "text": "You look worried. What's wrong?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Seoul is so beautiful at night. / Yeah, it is. But I'm worried about the birds. / Why? / It is bright all night, so they cannot sleep well. (답지 03)",
+      "type": "order",
+      "promptEn": "3 다음 대화를 순서대로 누르시오.\n03 Everyday Communication 1-A3",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "It is bright all night, so they cannot sleep well."
+        },
+        {
+          "id": "s3",
+          "text": "Why?"
+        },
+        {
+          "id": "s2",
+          "text": "Yeah, it is. But I'm worried about the birds."
+        },
+        {
+          "id": "s1",
+          "text": "Seoul is so beautiful at night."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: What are you drawing, Jessica? / I'm drawing a poster about polar bears. / I see. Oh, the polar bears on the ice look so sad. / Yeah, I'm worried about the polar bears. They are losing their homes. / You're right. We need to do something for them. / Right. They may not have much time. (답지 04)",
+      "type": "order",
+      "promptEn": "4 다음 대화를 순서대로 누르시오.\n04 Everyday Communication 1-C1",
+      "orderChunks": [
+        {
+          "id": "s6",
+          "text": "Right. They may not have much time."
+        },
+        {
+          "id": "s5",
+          "text": "You're right. We need to do something for them."
+        },
+        {
+          "id": "s4",
+          "text": "Yeah, I'm worried about the polar bears. They are losing their homes."
+        },
+        {
+          "id": "s3",
+          "text": "I see. Oh, the polar bears on the ice look so sad."
+        },
+        {
+          "id": "s2",
+          "text": "I'm drawing a poster about polar bears."
+        },
+        {
+          "id": "s1",
+          "text": "What are you drawing, Jessica?"
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Look! This is the design for our concert poster. / Oh, it's cool. Let's print and put up posters around the school. / Well, that is a waste of paper. Why don't we post it on the school website? / That's a good idea. (답지 05)",
+      "type": "order",
+      "promptEn": "5 다음 대화를 순서대로 누르시오.\n05 Everyday Communication 2-A1",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "That's a good idea."
+        },
+        {
+          "id": "s3",
+          "text": "Well, that is a waste of paper. Why don't we post it on the school website?"
+        },
+        {
+          "id": "s2",
+          "text": "Oh, it's cool. Let's print and put up posters around the school."
+        },
+        {
+          "id": "s1",
+          "text": "Look! This is the design for our concert poster."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Tomorrow is Mr. Green's last day at school. He will go back to the U.S. / I feel so sad. I really liked his class. / Me, too. Why don't we throw a surprise party for him? / Great idea. Let's prepare it together. (답지 06)",
+      "type": "order",
+      "promptEn": "6 다음 대화를 순서대로 누르시오.\n06 Everyday Communication 2-A2",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Great idea. Let's prepare it together."
+        },
+        {
+          "id": "s3",
+          "text": "Me, too. Why don't we throw a surprise party for him?"
+        },
+        {
+          "id": "s2",
+          "text": "I feel so sad. I really liked his class."
+        },
+        {
+          "id": "s1",
+          "text": "Tomorrow is Mr. Green's last day at school. He will go back to the U.S."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Oh, there is too much plastic waste in our classroom. / Yeah.... We need to recycle more. Do you have any ideas? / Why don't we make fun recycling boxes and put them in our classroom? / Sounds like a great idea. (답지 07)",
+      "type": "order",
+      "promptEn": "7 다음 대화를 순서대로 누르시오.\n07 Everyday Communication 2-A3",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Sounds like a great idea."
+        },
+        {
+          "id": "s3",
+          "text": "Why don't we make fun recycling boxes and put them in our classroom?"
+        },
+        {
+          "id": "s2",
+          "text": "Yeah.... We need to recycle more. Do you have any ideas?"
+        },
+        {
+          "id": "s1",
+          "text": "Oh, there is too much plastic waste in our classroom."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Your bag is pretty, Jessica. / Thank you, Toby. I made it with my old jeans. It's my Earth Day project. / That's cool. I want to do something on Earth Day. / Why don't we make a short video about reusing old clothes together? / That's a good idea. (답지 08)",
+      "type": "order",
+      "promptEn": "8 다음 대화를 순서대로 누르시오.\n08 Everyday Communication 2-C1",
+      "orderChunks": [
+        {
+          "id": "s5",
+          "text": "That's a good idea."
+        },
+        {
+          "id": "s4",
+          "text": "Why don't we make a short video about reusing old clothes together?"
+        },
+        {
+          "id": "s3",
+          "text": "That's cool. I want to do something on Earth Day."
+        },
+        {
+          "id": "s2",
+          "text": "Thank you, Toby. I made it with my old jeans. It's my Earth Day project."
+        },
+        {
+          "id": "s1",
+          "text": "Your bag is pretty, Jessica."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: Look at all the trash on the beach. / Yeah. There is a lot of trash. / It's a big problem. / Yes, it is. I'm worried about the sea animals. (답지 09)",
+      "type": "order",
+      "promptEn": "9 다음 대화를 순서대로 누르시오.\n09 Wrap Up 1",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "Yes, it is. I'm worried about the sea animals."
+        },
+        {
+          "id": "s3",
+          "text": "It's a big problem."
+        },
+        {
+          "id": "s2",
+          "text": "Yeah. There is a lot of trash."
+        },
+        {
+          "id": "s1",
+          "text": "Look at all the trash on the beach."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 대화: This Friday is Mom's birthday. I want to give her a special present. / Sounds good. Do you have any ideas? / Well, why don't we make a video with our family pictures? / That's a good idea. She will love it. (답지 10)",
+      "type": "order",
+      "promptEn": "10 다음 대화를 순서대로 누르시오.\n10 Wrap Up 2",
+      "orderChunks": [
+        {
+          "id": "s4",
+          "text": "That's a good idea. She will love it."
+        },
+        {
+          "id": "s3",
+          "text": "Well, why don't we make a video with our family pictures?"
+        },
+        {
+          "id": "s2",
+          "text": "Sounds good. Do you have any ideas?"
+        },
+        {
+          "id": "s1",
+          "text": "This Friday is Mom's birthday. I want to give her a special present."
+        }
+      ],
+      "orderIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 대화를 흐름에 맞게 순서대로 누르시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "다음 대화를 흐름에 맞게 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}

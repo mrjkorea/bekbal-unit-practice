@@ -1,0 +1,465 @@
+{
+  "id": "reading-writing",
+  "title": "Reading 영작하기",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "pp.214-215",
+  "questionCount": 22,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I'm blind. I walk with a stick. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "1 나는 시각 장애인이야. 나는 지팡이를 이용해서 걸어.",
+      "accept": [
+        "I'm blind. I walk with a stick.",
+        "I'm blind. I walk with a stick"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\" (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "2 어느 날, 나의 담임 선생님이 말씀하셨어. ‘우정 마라톤’이라는 학교 행사가 있을 거야.",
+      "accept": [
+        "One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\"",
+        "One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon.\""
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: In this event, two people run as a team. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "3 이 행사에서는 두 사람이 한 팀으로 달려.",
+      "accept": [
+        "In this event, two people run as a team.",
+        "In this event, two people run as a team"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Everyone talked about it. I also got interested. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "4 모든 사람들이 그것에 대해 이야기했어. 나도 관심이 생겼어.",
+      "accept": [
+        "Everyone talked about it. I also got interested.",
+        "Everyone talked about it. I also got interested"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: \"But can I run?\" I was not sure. So I talked about it with my best friend, Junha. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "5 하지만 내가 달릴 수 있을까? 나는 확신할 수 없었어. 그래서 나는 가장 친한 친구 준하와 그것에 대해 이야기했어.",
+      "accept": [
+        "\"But can I run?\" I was not sure. So I talked about it with my best friend, Junha.",
+        "\"But can I run?\" I was not sure. So I talked about it with my best friend, Junha"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: He said, \"Don't worry! I'll run with you.\" (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "6 그가 말했어. “걱정하지 마! 내가 너와 함께 달릴게.”",
+      "accept": [
+        "He said, \"Don't worry! I'll run with you.\"",
+        "He said, \"Don't worry! I'll run with you.\""
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: On the day of the marathon, we tied a string around our fingers to feel each other's movement. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "7 마라톤 당일에, 우리는 서로의 움직임을 느끼기 위해 손가락에 끈을 묶었어.",
+      "accept": [
+        "On the day of the marathon, we tied a string around our fingers to feel each other's movement.",
+        "On the day of the marathon, we tied a string around our fingers to feel each other's movement"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I listened to him very carefully and ran with him. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "8 나는 그의 말을 매우 주의 깊게 들으며 그와 함께 달렸어.",
+      "accept": [
+        "I listened to him very carefully and ran with him.",
+        "I listened to him very carefully and ran with him"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The wind was blowing through me and it felt great! (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "9 바람이 내게 불어오고 그 느낌이 정말 좋았어.",
+      "accept": [
+        "The wind was blowing through me and it felt great!",
+        "The wind was blowing through me and it felt great"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: At the finish line, everyone cheered for us. I was proud of myself. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "10 결승선에서 모든 사람들이 우리를 응원했어. 나는 나 자신이 자랑스러웠어.",
+      "accept": [
+        "At the finish line, everyone cheered for us. I was proud of myself.",
+        "At the finish line, everyone cheered for us. I was proud of myself"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Before the marathon, I thought that I couldn't do it. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "11 마라톤 전에는 나는 그것을 할 수 없을 거라고 생각했어.",
+      "accept": [
+        "Before the marathon, I thought that I couldn't do it.",
+        "Before the marathon, I thought that I couldn't do it"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: But now, I want to try other things. I think that I can try a bike ride next time. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "12 하지만 지금 나는 다른 것들을 시도하고 싶다. 다음에는 자전거 타기를 해볼 수 있다고 생각한다.",
+      "accept": [
+        "But now, I want to try other things. I think that I can try a bike ride next time.",
+        "But now, I want to try other things. I think that I can try a bike ride next time"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Andy and I signed up for Friendship Marathon. I was his guide runner. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "13 Andy와 나는 우정 마라톤에 등록했다. 나는 그의 가이드 러너였다.",
+      "accept": [
+        "Andy and I signed up for Friendship Marathon. I was his guide runner.",
+        "Andy and I signed up for Friendship Marathon. I was his guide runner"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: We ran together every day with a string. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "14 우리는 끈을 가지고 매일 함께 달렸다.",
+      "accept": [
+        "We ran together every day with a string.",
+        "We ran together every day with a string"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I told him, \"Andy, a bike is coming. So let's move to the right.\" (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "15 나는 그에게 말했다. “Andy, 자전거가 오고 있어. 그러니 오른쪽으로 움직이자.”",
+      "accept": [
+        "I told him, \"Andy, a bike is coming. So let's move to the right.\"",
+        "I told him, \"Andy, a bike is coming. So let's move to the right.\""
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: As a team, we practiced hard to win the marathon. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "16 팀으로서 우리는 마라톤에서 우승하기 위해 열심히 연습했다.",
+      "accept": [
+        "As a team, we practiced hard to win the marathon.",
+        "As a team, we practiced hard to win the marathon"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: During the marathon, I ran with Andy and guided him at the same time. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "17 마라톤 동안 나는 Andy와 달리며 동시에 그를 안내했다.",
+      "accept": [
+        "During the marathon, I ran with Andy and guided him at the same time.",
+        "During the marathon, I ran with Andy and guided him at the same time"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It was hard, but we didn't stop running. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "18 힘들었지만 우리는 달리기를 멈추지 않았다.",
+      "accept": [
+        "It was hard, but we didn't stop running.",
+        "It was hard, but we didn't stop running"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: At last, we made it to the finish line. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "19 마침내 우리는 결승선에 도착했다.",
+      "accept": [
+        "At last, we made it to the finish line.",
+        "At last, we made it to the finish line"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: We didn't win the race. But I knew that we did our best. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "20 우리는 경주에서 이기지 못했다. 하지만 최선을 다했다는 것을 알았다.",
+      "accept": [
+        "We didn't win the race. But I knew that we did our best.",
+        "We didn't win the race. But I knew that we did our best"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Finishing something was not easy for me. But this time I did it! (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "21 무언가를 끝내는 것은 나에게 쉽지 않았다. 하지만 이번에는 해냈다.",
+      "accept": [
+        "Finishing something was not easy for me. But this time I did it!",
+        "Finishing something was not easy for me. But this time I did it"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I was very happy. Andy looked happy, too. (답지 pp.212-215)",
+      "type": "sentence",
+      "promptEn": "22 나는 매우 기뻤다. Andy도 기뻐 보였다.",
+      "accept": [
+        "I was very happy. Andy looked happy, too.",
+        "I was very happy. Andy looked happy, too"
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 문장 전체를 쓰시오. 22문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영작",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "itemCount": 22
+    }
+  ]
+}

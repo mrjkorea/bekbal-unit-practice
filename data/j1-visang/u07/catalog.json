@@ -1,22 +1,251 @@
 {
   "book": "j1-visang",
   "unit": "u07",
-  "label": "Lesson 07",
-  "status": "coming-soon",
+  "label": "Lesson 07 Greener, Greater",
+  "status": "ready",
+  "note": "통과 80%. 중1 비상 황종배 Lesson 07 Greener, Greater. 답지·X-10 영작 대화로 맞춘 문항입니다. OCR로 보기 순서를 확정하지 못한 번호는 각 연습의 omitted에 있습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
   "sections": [
     {
       "key": "A",
       "title": "A. 본책",
-      "exercises": []
+      "exercises": [
+        {
+          "id": "vocab-check",
+          "title": "Vocabulary 확인 문제",
+          "questionCount": 60,
+          "omittedCount": 0
+        },
+        {
+          "id": "vocab-practice",
+          "title": "Vocabulary 실전 문제",
+          "questionCount": 7,
+          "omittedCount": 0
+        },
+        {
+          "id": "vocab-advanced",
+          "title": "Vocabulary 심화 문제",
+          "questionCount": 6,
+          "omittedCount": 8
+        },
+        {
+          "id": "dialog-detail",
+          "title": "Dialog 자세히 보기",
+          "questionCount": 10,
+          "omittedCount": 0
+        },
+        {
+          "id": "dialog-complete",
+          "title": "Dialog 완성하기",
+          "questionCount": 80,
+          "omittedCount": 0
+        },
+        {
+          "id": "dialog-order",
+          "title": "Dialog 순서배열하기",
+          "questionCount": 10,
+          "omittedCount": 0
+        },
+        {
+          "id": "dialog-practice",
+          "title": "Dialog 실전 문제",
+          "questionCount": 4,
+          "omittedCount": 10
+        },
+        {
+          "id": "dialog-advanced",
+          "title": "Dialog 심화 문제",
+          "questionCount": 5,
+          "omittedCount": 9
+        },
+        {
+          "id": "grammar-check",
+          "title": "Grammar 확인 문제",
+          "questionCount": 30,
+          "omittedCount": 0
+        },
+        {
+          "id": "grammar-practice",
+          "title": "Grammar 실전 문제",
+          "questionCount": 7,
+          "omittedCount": 8
+        },
+        {
+          "id": "grammar-advanced",
+          "title": "Grammar 심화 문제",
+          "questionCount": 3,
+          "omittedCount": 10
+        },
+        {
+          "id": "reading-content",
+          "title": "Reading 내용 확인하기",
+          "questionCount": 20,
+          "omittedCount": 0
+        },
+        {
+          "id": "reading-lexgram",
+          "title": "Reading 적절한 어휘·어법 고르기",
+          "questionCount": 30,
+          "omittedCount": 0
+        },
+        {
+          "id": "reading-order",
+          "title": "Reading 순서배열하기",
+          "questionCount": 30,
+          "omittedCount": 0
+        },
+        {
+          "id": "reading-writing",
+          "title": "Reading 영작하기",
+          "questionCount": 30,
+          "omittedCount": 0
+        },
+        {
+          "id": "reading-practice",
+          "title": "Reading 실전 문제",
+          "questionCount": 2,
+          "omittedCount": 23
+        },
+        {
+          "id": "reading-advanced",
+          "title": "Reading 심화 문제",
+          "questionCount": 2,
+          "omittedCount": 23
+        },
+        {
+          "id": "plus-practice",
+          "title": "Plus 기타 지문 실전 문제",
+          "questionCount": 3,
+          "omittedCount": 3
+        },
+        {
+          "id": "writing-finish",
+          "title": "서술형 끝내기",
+          "questionCount": 14,
+          "omittedCount": 12
+        }
+      ]
     },
     {
       "key": "B",
-      "title": "B. X-10 워크북",
-      "exercises": []
+      "title": "B. X-10 Part I",
+      "exercises": [
+        {
+          "id": "x10-vocab",
+          "title": "어휘 확인 문제",
+          "questionCount": 97,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-dialog-cloze",
+          "title": "대화 빈칸 완성하기",
+          "questionCount": 111,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-dialog-write",
+          "title": "대화 영작하기",
+          "questionCount": 10,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-grammar",
+          "title": "핵심 Grammar 확인 문제",
+          "questionCount": 36,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-reading-sentence",
+          "title": "Reading 문장 완성하기",
+          "questionCount": 30,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-reading-cloze",
+          "title": "Reading 빈칸 완성하기",
+          "questionCount": 122,
+          "omittedCount": 0
+        },
+        {
+          "id": "x10-review",
+          "title": "핵심 문장 Review",
+          "questionCount": 24,
+          "omittedCount": 0
+        }
+      ]
     },
     {
       "key": "C",
-      "title": "C. 실전 테스트",
+      "title": "C. 모의고사",
+      "exercises": [
+        {
+          "id": "mock-100",
+          "title": "100발 100중 모의고사",
+          "questionCount": 8,
+          "omittedCount": 17
+        },
+        {
+          "id": "mock-high",
+          "title": "고득점 모의고사",
+          "questionCount": 7,
+          "omittedCount": 18
+        },
+        {
+          "id": "final-1",
+          "title": "최종점검 모의고사 1회",
+          "questionCount": 6,
+          "omittedCount": 1
+        },
+        {
+          "id": "final-2",
+          "title": "최종점검 모의고사 2회",
+          "questionCount": 7,
+          "omittedCount": 1
+        },
+        {
+          "id": "final-3",
+          "title": "최종점검 모의고사 3회",
+          "questionCount": 7,
+          "omittedCount": 1
+        }
+      ]
+    },
+    {
+      "key": "W",
+      "title": "Word focus",
+      "lane": "focus",
+      "note": "WordMaster packs · opens in Word Master",
+      "exercises": [
+        {
+          "id": "wm-j1visang_u07_words01",
+          "title": "Words 01 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u07_words01.json"
+        },
+        {
+          "id": "wm-j1visang_u07_words02",
+          "title": "Words 02 · 20 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u07_words02.json"
+        },
+        {
+          "id": "wm-j1visang_u07_expressions01",
+          "title": "Expressions · 21 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u07_expressions01.json"
+        },
+        {
+          "id": "wm-j1visang_u07_wordplus01",
+          "title": "Words Plus+ · 13 words",
+          "external": true,
+          "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j1visang_u07_wordplus01.json"
+        }
+      ]
+    },
+    {
+      "key": "G",
+      "title": "Grammar focus",
+      "lane": "focus",
+      "note": "Coming soon. Grammar packs will deep-link here later.",
       "exercises": []
     }
   ]

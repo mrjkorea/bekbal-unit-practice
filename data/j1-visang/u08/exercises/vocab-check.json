@@ -1,0 +1,703 @@
+{
+  "id": "vocab-check",
+  "title": "Vocabulary 확인 문제",
+  "book": "중1 비상 황종배",
+  "unit": "Lesson 08 For a Better Tomorrow",
+  "sourcePages": "p.184",
+  "questionCount": 60,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "s1-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "club — 동아리, 동호회\nholiday — 휴일\nprepare — 준비하다\nviolin — 바이올린\nvisit — 방문하다",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "club",
+          "ko": "동아리, 동호회",
+          "sourceId": 1,
+          "explainKo": "정답: 동아리, 동호회"
+        },
+        {
+          "id": "2",
+          "en": "holiday",
+          "ko": "휴일",
+          "sourceId": 2,
+          "explainKo": "정답: 휴일"
+        },
+        {
+          "id": "3",
+          "en": "prepare",
+          "ko": "준비하다",
+          "sourceId": 3,
+          "explainKo": "정답: 준비하다"
+        },
+        {
+          "id": "4",
+          "en": "violin",
+          "ko": "바이올린",
+          "sourceId": 4,
+          "explainKo": "정답: 바이올린"
+        },
+        {
+          "id": "5",
+          "en": "visit",
+          "ko": "방문하다",
+          "sourceId": 5,
+          "explainKo": "정답: 방문하다"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "wear — 입다\naround — 주위에\nblind — 시각 장애인의\nfinger — 손가락\nmarathon — 마라톤",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "wear",
+          "ko": "입다",
+          "sourceId": 6,
+          "explainKo": "정답: 입다"
+        },
+        {
+          "id": "7",
+          "en": "around",
+          "ko": "주위에",
+          "sourceId": 7,
+          "explainKo": "정답: 주위에"
+        },
+        {
+          "id": "8",
+          "en": "blind",
+          "ko": "시각 장애인의",
+          "sourceId": 8,
+          "explainKo": "정답: 시각 장애인의"
+        },
+        {
+          "id": "9",
+          "en": "finger",
+          "ko": "손가락",
+          "sourceId": 9,
+          "explainKo": "정답: 손가락"
+        },
+        {
+          "id": "10",
+          "en": "marathon",
+          "ko": "마라톤",
+          "sourceId": 10,
+          "explainKo": "정답: 마라톤"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "movement — 움직임\nproud — 자랑스러운\nright — 오른쪽: 올바른\nstick — 지팡이\nthrough — ~를 통해",
+      "type": "match",
+      "group": "11",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "movement",
+          "ko": "움직임",
+          "sourceId": 11,
+          "explainKo": "정답: 움직임"
+        },
+        {
+          "id": "12",
+          "en": "proud",
+          "ko": "자랑스러운",
+          "sourceId": 12,
+          "explainKo": "정답: 자랑스러운"
+        },
+        {
+          "id": "13",
+          "en": "right",
+          "ko": "오른쪽: 올바른",
+          "sourceId": 13,
+          "explainKo": "정답: 오른쪽: 올바른"
+        },
+        {
+          "id": "14",
+          "en": "stick",
+          "ko": "지팡이",
+          "sourceId": 14,
+          "explainKo": "정답: 지팡이"
+        },
+        {
+          "id": "15",
+          "en": "through",
+          "ko": "~를 통해",
+          "sourceId": 15,
+          "explainKo": "정답: ~를 통해"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s1-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "try — 시도하다\nbusy — 바쁜\nguide — 안내자\nrainy — 비가 오는\numbrella — 우산",
+      "type": "match",
+      "group": "16",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "try",
+          "ko": "시도하다",
+          "sourceId": 16,
+          "explainKo": "정답: 시도하다"
+        },
+        {
+          "id": "17",
+          "en": "busy",
+          "ko": "바쁜",
+          "sourceId": 17,
+          "explainKo": "정답: 바쁜"
+        },
+        {
+          "id": "18",
+          "en": "guide",
+          "ko": "안내자",
+          "sourceId": 18,
+          "explainKo": "정답: 안내자"
+        },
+        {
+          "id": "19",
+          "en": "rainy",
+          "ko": "비가 오는",
+          "sourceId": 19,
+          "explainKo": "정답: 비가 오는"
+        },
+        {
+          "id": "20",
+          "en": "umbrella",
+          "ko": "우산",
+          "sourceId": 20,
+          "explainKo": "정답: 우산"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "drink — 음료\ncarefully — 주의 깊게\nblow — 불다\nhard — 열심히; 어려운\nstring — 줄, 끈",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "drink",
+          "ko": "음료",
+          "sourceId": 1,
+          "explainKo": "정답: drink"
+        },
+        {
+          "id": "2",
+          "en": "carefully",
+          "ko": "주의 깊게",
+          "sourceId": 2,
+          "explainKo": "정답: carefully"
+        },
+        {
+          "id": "3",
+          "en": "blow",
+          "ko": "불다",
+          "sourceId": 3,
+          "explainKo": "정답: blow"
+        },
+        {
+          "id": "4",
+          "en": "hard",
+          "ko": "열심히; 어려운",
+          "sourceId": 4,
+          "explainKo": "정답: hard"
+        },
+        {
+          "id": "5",
+          "en": "string",
+          "ko": "줄, 끈",
+          "sourceId": 5,
+          "explainKo": "정답: string"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "smartphone — 스마트폰\nhope — 희망하다\npractice — 연습하다\nhospital — 병원\nsnowy — 눈 덮인",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "smartphone",
+          "ko": "스마트폰",
+          "sourceId": 6,
+          "explainKo": "정답: smartphone"
+        },
+        {
+          "id": "7",
+          "en": "hope",
+          "ko": "희망하다",
+          "sourceId": 7,
+          "explainKo": "정답: hope"
+        },
+        {
+          "id": "8",
+          "en": "practice",
+          "ko": "연습하다",
+          "sourceId": 8,
+          "explainKo": "정답: practice"
+        },
+        {
+          "id": "9",
+          "en": "hospital",
+          "ko": "병원",
+          "sourceId": 9,
+          "explainKo": "정답: hospital"
+        },
+        {
+          "id": "10",
+          "en": "snowy",
+          "ko": "눈 덮인",
+          "sourceId": 10,
+          "explainKo": "정답: snowy"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "race — 경주\nrecycle — 재활용하다\nreporter — 기자\ntie — 묶다\nfriendship — 우정",
+      "type": "match",
+      "group": "11",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "race",
+          "ko": "경주",
+          "sourceId": 11,
+          "explainKo": "정답: race"
+        },
+        {
+          "id": "12",
+          "en": "recycle",
+          "ko": "재활용하다",
+          "sourceId": 12,
+          "explainKo": "정답: recycle"
+        },
+        {
+          "id": "13",
+          "en": "reporter",
+          "ko": "기자",
+          "sourceId": 13,
+          "explainKo": "정답: reporter"
+        },
+        {
+          "id": "14",
+          "en": "tie",
+          "ko": "묶다",
+          "sourceId": 14,
+          "explainKo": "정답: tie"
+        },
+        {
+          "id": "15",
+          "en": "friendship",
+          "ko": "우정",
+          "sourceId": 15,
+          "explainKo": "정답: friendship"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s2-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "special — 특별한\njoin — 참여하다\nreturn — 반납하다\nguess — 추측하다\nteach — 가르치다",
+      "type": "match",
+      "group": "16",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "special",
+          "ko": "특별한",
+          "sourceId": 16,
+          "explainKo": "정답: special"
+        },
+        {
+          "id": "17",
+          "en": "join",
+          "ko": "참여하다",
+          "sourceId": 17,
+          "explainKo": "정답: join"
+        },
+        {
+          "id": "18",
+          "en": "return",
+          "ko": "반납하다",
+          "sourceId": 18,
+          "explainKo": "정답: return"
+        },
+        {
+          "id": "19",
+          "en": "guess",
+          "ko": "추측하다",
+          "sourceId": 19,
+          "explainKo": "정답: guess"
+        },
+        {
+          "id": "20",
+          "en": "teach",
+          "ko": "가르치다",
+          "sourceId": 20,
+          "explainKo": "정답: teach"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s3-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "nursing home — 요양원\ncheer for — ~를 응원하다\nlook for — ~를 찾다\nat last — 마침내\nfinish line — 결승선",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "nursing home",
+          "ko": "요양원",
+          "sourceId": 1,
+          "explainKo": "정답: 요양원"
+        },
+        {
+          "id": "2",
+          "en": "cheer for",
+          "ko": "~를 응원하다",
+          "sourceId": 2,
+          "explainKo": "정답: ~를 응원하다"
+        },
+        {
+          "id": "3",
+          "en": "look for",
+          "ko": "~를 찾다",
+          "sourceId": 3,
+          "explainKo": "정답: ~를 찾다"
+        },
+        {
+          "id": "4",
+          "en": "at last",
+          "ko": "마침내",
+          "sourceId": 4,
+          "explainKo": "정답: 마침내"
+        },
+        {
+          "id": "5",
+          "en": "finish line",
+          "ko": "결승선",
+          "sourceId": 5,
+          "explainKo": "정답: 결승선"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s3-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "sign up for — ~에 등록하다\ntake pictures — 사진을 찍다\nin need — 어려움에 처한; ~이 필요한\nno way — 말도 안 돼\nrun together — 함께 달리다",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "sign up for",
+          "ko": "~에 등록하다",
+          "sourceId": 6,
+          "explainKo": "정답: ~에 등록하다"
+        },
+        {
+          "id": "7",
+          "en": "take pictures",
+          "ko": "사진을 찍다",
+          "sourceId": 7,
+          "explainKo": "정답: 사진을 찍다"
+        },
+        {
+          "id": "8",
+          "en": "in need",
+          "ko": "어려움에 처한; ~이 필요한",
+          "sourceId": 8,
+          "explainKo": "정답: 어려움에 처한; ~이 필요한"
+        },
+        {
+          "id": "9",
+          "en": "no way",
+          "ko": "말도 안 돼",
+          "sourceId": 9,
+          "explainKo": "정답: 말도 안 돼"
+        },
+        {
+          "id": "10",
+          "en": "run together",
+          "ko": "함께 달리다",
+          "sourceId": 10,
+          "explainKo": "정답: 함께 달리다"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s4-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "go fishing — 낚시하러 가다\nhelp out — 도와주다\nthe best day — 최고의 날\nat the same time — 동시에\ndo one's best — 최선을 다하다",
+      "type": "match",
+      "group": "01",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "go fishing",
+          "ko": "낚시하러 가다",
+          "sourceId": 1,
+          "explainKo": "정답: go fishing"
+        },
+        {
+          "id": "2",
+          "en": "help out",
+          "ko": "도와주다",
+          "sourceId": 2,
+          "explainKo": "정답: help out"
+        },
+        {
+          "id": "3",
+          "en": "the best day",
+          "ko": "최고의 날",
+          "sourceId": 3,
+          "explainKo": "정답: the best day"
+        },
+        {
+          "id": "4",
+          "en": "at the same time",
+          "ko": "동시에",
+          "sourceId": 4,
+          "explainKo": "정답: at the same time"
+        },
+        {
+          "id": "5",
+          "en": "do one's best",
+          "ko": "최선을 다하다",
+          "sourceId": 5,
+          "explainKo": "정답: do one's best"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    },
+    {
+      "id": "s4-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "each other — 서로\nmove to — ~로 이동하다\ntake a guess — 추측해보다\nfor sure — 확실히\ngive one's hand — 도움을 주다",
+      "type": "match",
+      "group": "06",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "each other",
+          "ko": "서로",
+          "sourceId": 6,
+          "explainKo": "정답: each other"
+        },
+        {
+          "id": "7",
+          "en": "move to",
+          "ko": "~로 이동하다",
+          "sourceId": 7,
+          "explainKo": "정답: move to"
+        },
+        {
+          "id": "8",
+          "en": "take a guess",
+          "ko": "추측해보다",
+          "sourceId": 8,
+          "explainKo": "정답: take a guess"
+        },
+        {
+          "id": "9",
+          "en": "for sure",
+          "ko": "확실히",
+          "sourceId": 9,
+          "explainKo": "정답: for sure"
+        },
+        {
+          "id": "10",
+          "en": "give one's hand",
+          "ko": "도움을 주다",
+          "sourceId": 10,
+          "explainKo": "정답: give one's hand"
+        }
+      ],
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 영어와 같은 뜻의 우리말을 누르세요. 20문항 다음 우리말과 같은 뜻의 영어를 누르세요. 20문항 다음 영어 표현과 같은 뜻의 우리말을 누르세요. 10문항 다음 우리말 표현과 같은 뜻의 영어를 누르세요. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영어→우리말",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 20
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 우리말→영어",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 20
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 영어 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 10
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 우리말 표현",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 10
+    }
+  ]
+}
