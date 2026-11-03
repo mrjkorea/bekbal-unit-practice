@@ -1,0 +1,162 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "140-141",
+  "questionCount": 10,
+  "omitted": [
+    {
+      "n": "01",
+      "reason": "흐름상 어색한 밑줄은 해설상 ③(I want to wash my face again)이지만, 대화 OCR에 밑줄 ②와 ④의 어구가 없어 ①~⑤를 모두 보여줄 수 없다."
+    },
+    {
+      "n": "05",
+      "reason": "주어진 말 뒤의 순서 배열 선택지가 OCR에서 깨져(2 b, (a) 등) 읽을 수 없다. 정답 기호 ①만 있고 그 선택지의 배열은 없다."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "group": "02",
+      "type": "TST",
+      "question": "다음 대화의 내용과 일치하도록 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nB: We can do face painting or play VR games. Which do you like more?\nG: I like face painting more. What about you?\nB: I want to play VR games. I don't want to wash my face again.\nG: Playing VR games is OK, too. Let's go play VR games together.\n\nThe girl likes (1)_____ more, but she decided to (2)_____ with the boy.",
+      "answers": [
+        "face painting, play VR games",
+        "face painting play VR games"
+      ],
+      "explainKo": "소녀는 페이스 페인팅을 더 좋아하지만, 소년과 함께 가상현실 게임을 하기로 했다."
+    },
+    {
+      "id": 2,
+      "group": "03",
+      "type": "TMC",
+      "question": "다음 중 짝지어진 대화가 어색한 것은?",
+      "answers": [
+        "A: Which do you like more, English or math?\nB: I like math more.",
+        "A: Why are you studying so hard?\nB: I want to pass the exam.",
+        "A: Which do you prefer, pizza or chicken?\nB: I like pizza more than chicken.",
+        "A: Why were you late for the meeting?\nB: Sorry I'm late. I won't be late again.",
+        "A: Which one do you think is better, this or that?\nB: I think this one is better."
+      ],
+      "explainKo": "④ 모임에 늦은 이유를 물었으므로 이유를 답하는 것이 자연스럽다.\n① A: 영어와 수학 중에 무엇을 더 좋아하니? B: 수학을 더 좋아해.\n② A: 왜 그렇게 열심히 공부하니? B: 시험에 합격하고 싶어서.\n③ A: 피자와 치킨 중에 어느 것을 더 좋아하니? B: 치킨보다 피자를 더 좋아해.\n④ A: 모임에 왜 늦었니? B: 늦어서 미안해. 다시는 늦지 않을게.\n⑤ A: 네 생각에 이것과 저것 중 어느 것이 더 낫니? B: 이게 더 나은 것 같아.",
+      "corAns": "4"
+    },
+    {
+      "id": 3,
+      "group": "04",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 말로 적절하지 않은 것을 모두 고르고, 번호만 작은 수부터 쓰시오. (예: 1, 2)\n\nB: They have tteokbokki and gimbap here. ________\nG: I like tteokbokki much better.\nB: Then, let's order tteokbokki. It looks delicious.\nG: OK. I'm so hungry!\n\n① Which of the two do you like better?\n② Which do you prefer, tteokbokki or gimbap?\n③ How much do you like tteokbokki and gimbap?\n④ Which do you like better, tteokbokki or gimbap?\n⑤ Why do you like tteokbokki better than gimbap?",
+      "answers": [
+        "3, 5",
+        "3 5",
+        "③, ⑤",
+        "③ ⑤",
+        "3,5",
+        "③⑤"
+      ],
+      "explainKo": "떡볶이를 더 좋아한다는 소녀의 대답으로 보아, 빈칸에는 떡볶이와 김밥 중 어느 것이 더 좋은지 묻는 질문이 알맞다.\n① 둘 중에서 어느 것이 더 좋아?\n②, ④ 떡볶이와 김밥 중에서 어느 것이 더 좋아?\n③ 떡볶이와 김밥이 얼마나 좋아?\n⑤ 왜 김밥보다 떡볶이가 더 좋아?"
+    },
+    {
+      "id": 4,
+      "group": "06",
+      "type": "TMC",
+      "question": "다음 담화의 ①~⑤ 중, 다음 문장이 들어가기에 가장 적절한 곳은?\n\nThen, don't miss his cooking class.\n\nM: Welcome to the ABC World Food Festival! (①)\nEvery year, we invite great chefs from around the world. (②)\nThis year, we invited Mr. Kumar, a world-famous Indian chef. (③)\nDo you like Indian food? (④)\nYou can also get his recipe book for free. (⑤)",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "explainKo": "인도 음식을 좋아한다면 Kumar 씨의 요리 수업을 놓치지 말라는 내용으로 이어지는 것이 자연스러우므로 ④에 들어가는 것이 알맞다.",
+      "corAns": "4"
+    },
+    {
+      "id": 5,
+      "group": "07",
+      "type": "TST",
+      "question": "다음 담화의 내용을 다음과 같이 요약할 때, 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nM: Welcome to the ABC World Food Festival! Every year, we invite great chefs from around the world. This year, we invited Mr. Kumar, a world-famous Indian chef. Do you like Indian food? Then, don't miss his cooking class. You can also get his recipe book for free.\n\nThis year, the ABC World Food Festival (1)_____ a famous Indian chef, Mr. Kumar, and offers his cooking class and a (2)_____ copy of his recipe book.",
+      "answers": [
+        "invited, free",
+        "invited free"
+      ],
+      "explainKo": "올해 ABC 세계 음식 축제는 유명한 인도인 요리사 Kumar 씨를 초대했고, 그의 요리 교실과 무료 요리책 한 권을 제공한다."
+    },
+    {
+      "id": 6,
+      "group": "08",
+      "type": "TST",
+      "question": "다음 대화의 내용과 일치하도록 빈칸에 알맞은 말을 번호 순서대로 쓰시오.\n\nB: Let's go to the movies this weekend.\nG: I'm sorry, but I can't. I have an exam on Monday.\nB: So, you're going to be in the library all weekend?\nG: No. I'll be home. I like studying at home more than at the library.\n\nThe girl (1)_____ to the movies with the boy because she has to (2)_____ for an exam at (3)_____ this weekend.",
+      "answers": [
+        "can't go, study, home",
+        "can't go study home",
+        "cant go, study, home",
+        "cant go study home",
+        "cannot go, study, home",
+        "cannot go study home"
+      ],
+      "explainKo": "소녀는 이번 주말에 집에서 시험공부를 해야 하기 때문에 소년과 함께 영화를 보러 갈 수 없다."
+    },
+    {
+      "id": 7,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 없는 것은?\n\nB: I'm looking for a gift for my grandmother.\nW: ⓐ How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.",
+      "answers": [
+        "What about this bag?",
+        "Do you like this bag?",
+        "How do you like this bag?",
+        "Why do you like this bag?",
+        "What do you think of this bag?"
+      ],
+      "explainKo": "How about ~?은 '~은 어때요?'라는 의미로 제안하거나 추천할 때 쓰는 표현이다. ④는 '왜 이 가방을 좋아하나요?'라는 의미로 이유를 묻는 표현이므로 바꿔 쓸 수 없다.\n① 이 가방은 어때요?\n② 이 가방 마음에 드세요?\n③ 이 가방은 어떠세요?\n⑤ 이 가방을 어떻게 생각하세요?",
+      "corAns": "4"
+    },
+    {
+      "id": 8,
+      "group": "10",
+      "type": "TMC",
+      "question": "다음 대화의 내용과 일치하지 않는 것은?\n\nB: I'm looking for a gift for my grandmother.\nW: ⓐ How about this bag?\nB: It's too big. I think it'll be heavy, too.\nW: Not at all. It's big but very light. It's perfect for older women.\nB: Really? Then, I'll take it.",
+      "answers": [
+        "상점에서 이루어지는 대화이다.",
+        "소년은 할머니에게 드릴 선물을 찾고 있다.",
+        "여자는 작고 가벼운 가방을 추천했다.",
+        "소년은 가방이 무거울 거라고 생각했다.",
+        "소년은 여자가 추천한 가방을 사기로 했다."
+      ],
+      "explainKo": "여자가 추천한 가방은 크지만 매우 가볍다고 했으므로 ③은 내용과 일치하지 않는다.",
+      "corAns": "3"
+    },
+    {
+      "id": 9,
+      "group": "11",
+      "type": "TMC",
+      "question": "다음 대화의 ①~⑤ 중, 다음 문장이 들어가기에 가장 적절한 곳은?\n\nWhich do you like more?\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea. (①)\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right? (②)\nB: Yeah. Let's do something together until then. (③)\nG: I guess we can ride bikes or go for a boat ride. (④)\nB: Going for a boat ride. I think it'll be more fun. (⑤)\nG: Then, let's go for a boat ride.",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "explainKo": "Emma가 두 가지 활동을 말한 뒤 무엇이 더 좋은지 묻고 답하는 말이 이어져야 자연스러우므로 주어진 문장은 ④에 들어가는 것이 가장 적절하다.",
+      "corAns": "4"
+    },
+    {
+      "id": 10,
+      "group": "12",
+      "type": "TMC",
+      "question": "According to the dialog, which one is true?\n\nG: Hi, Jihan. What a surprise!\nB: Hey, Emma. Are you here to see the fireworks, too?\nG: Yes. I hear China, Italy, and the USA are participating this year.\nB: Don't forget Korea. (①)\nG: Of course, Korea, too. So, the fireworks start at 7 p.m. Right? (②)\nB: Yeah. Let's do something together until then. (③)\nG: I guess we can ride bikes or go for a boat ride. (④)\nB: Going for a boat ride. I think it'll be more fun. (⑤)\nG: Then, let's go for a boat ride.",
+      "answers": [
+        "Jihan and Emma came together to see the fireworks.",
+        "The fireworks festival is held every year.",
+        "The fireworks are going to start soon.",
+        "Emma suggests two activities before the fireworks start.",
+        "Jihan and Emma disagree about what to do."
+      ],
+      "explainKo": "Emma는 불꽃놀이가 시작하기 전에 자전거 타기와 배 타기를 할 수 있다고 말했으므로 ④가 내용과 일치한다.\n① 지한이와 Emma는 불꽃놀이를 보러 함께 왔다. (→ 현장에서 우연히 만남)\n② 불꽃놀이 축제는 매년 열린다. (→ 대화에 언급되지 않음)\n③ 불꽃놀이가 곧 시작될 예정이다. (→ 남은 시간 동안 다른 활동을 하려고 함)\n④ Emma는 불꽃놀이가 시작되기 전에 할 두 가지 활동을 제안한다.\n⑤ 지한이와 Emma는 무엇을 할지에 대해서 의견이 다르다. (→ 함께 배 타러 가기로 함)",
+      "corAns": "4"
+    }
+  ]
+}

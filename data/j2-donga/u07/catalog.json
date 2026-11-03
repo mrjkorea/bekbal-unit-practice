@@ -1,23 +1,47 @@
 {
   "book": "j2-donga",
   "unit": "u07",
-  "label": "Lesson 07",
-  "status": "build-next",
+  "label": "Lesson 07 Let's Enjoy Festivals",
+  "status": "ready",
+  "note": "정답은 종이 교재에도 쓰세요. OCR로 정답 기호를 읽을 수 없는 연습은 확인 필요로 두었습니다.",
   "sections": [
     {
       "key": "A",
       "title": "A. 본책",
-      "exercises": []
+      "exercises": [
+        {"id": "vocab-check", "title": "Vocabulary 확인 문제", "questionCount": 60},
+        {"id": "vocab-practice", "title": "Vocabulary 실전 문제", "questionCount": 7},
+        {"id": "vocab-advanced", "title": "Vocabulary 심화 문제", "questionCount": 15},
+        {"id": "dialog-detail", "title": "Dialog 자세히 보기", "questionCount": 9},
+        {"id": "dialog-complete", "title": "Dialog 완성하기", "questionCount": 9},
+        {"id": "dialog-order", "title": "Dialog 순서배열하기", "deferred": true, "reason": "순서 기호가 OCR에서 깨져 정답을 확정할 수 없음"},
+        {"id": "dialog-practice", "title": "Dialog 실전 문제", "questionCount": 14},
+        {"id": "dialog-advanced", "title": "Dialog 심화 문제", "questionCount": 10},
+        {"id": "grammar-check", "title": "Grammar 확인 문제", "questionCount": 30},
+        {"id": "grammar-practice", "title": "Grammar 실전 문제", "questionCount": 11},
+        {"id": "grammar-advanced", "title": "Grammar 심화 문제", "questionCount": 12},
+        {"id": "reading-content", "title": "Reading 내용 확인하기", "questionCount": 20},
+        {"id": "reading-lexgram", "title": "Reading 적절한 어휘·어법 고르기", "questionCount": 26},
+        {"id": "reading-order", "title": "Reading 순서배열하기", "questionCount": 26},
+        {"id": "reading-writing", "title": "Reading 영작하기", "questionCount": 26},
+        {"id": "reading-practice", "title": "Reading 실전 문제", "questionCount": 20},
+        {"id": "reading-advanced", "title": "Reading 심화 문제", "questionCount": 23},
+        {"id": "plus-practice", "title": "Plus 기타 지문 실전 문제", "questionCount": 6},
+        {"id": "writing-finish", "title": "서술형 끝내기", "questionCount": 24}
+      ]
     },
     {
       "key": "B",
-      "title": "B. X-10 워크북",
+      "title": "B. X-10 Part I",
       "exercises": []
     },
     {
       "key": "C",
-      "title": "C. 실전 테스트",
-      "exercises": []
+      "title": "C. 모의고사",
+      "exercises": [
+        {"id": "mock-100", "title": "100발 100중 모의고사", "questionCount": 23},
+        {"id": "mock-high", "title": "고득점 모의고사", "questionCount": 22}
+      ]
     }
   ]
 }

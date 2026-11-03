@@ -1,0 +1,118 @@
+{
+  "id": "dialog-complete",
+  "title": "Dialog 완성하기",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "134-135",
+  "questionCount": 9,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TST",
+      "question": "01 Watch and Talk A-1\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nB: We can do face painting (1)_____ play VR games. (2)_____ do you like (3)_____?\nG: I (4)_____ face painting (5)_____. What about you?\nB: I (6)_____ to play VR games. I (7)_____ to wash my face again.\nG: (8)_____ VR games is OK, too. (9)_____ go play VR games together.",
+      "answers": [
+        "or, Which, more, like, more, want, don't want, Playing, Let's",
+        "or Which more like more want don't want Playing Let's",
+        "or, Which, more, like, more, want, dont want, Playing, Lets",
+        "or Which more like more want dont want Playing Lets",
+        "or, Which, more, like, more, want, do not want, Playing, Let's",
+        "or Which more like more want do not want Playing Let's"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TST",
+      "question": "02 Watch and Talk A-2\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nB: They (1)_____ tteokbokki and gimbap here. (2)_____ of the two do you like (3)_____?\nG: I like tteokbokki (4)_____ better. I like (5)_____ food.\nB: Then, let's (6)_____ tteokbokki. It looks (7)_____.\nG: OK. I'm so (8)_____!",
+      "answers": [
+        "have, Which, better, much, spicy, order, delicious, hungry",
+        "have Which better much spicy order delicious hungry"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "03 Watch and Talk A-3\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nG: Let's get a (1)_____.\nB: (2)_____ do you like better, the T-shirt (3)_____ the cap?\nG: I (4)_____ the T-shirt (5)_____.\nB: Why?\nG: (6)_____ a nice picture of the (7)_____ on it.",
+      "answers": [
+        "souvenir, Which, or, like, better, There is, festival",
+        "souvenir Which or like better There is festival"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "04 Watch and Talk A-4\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nG: Look! (1)_____ lots of pretty flowers here.\nB: (2)_____ do you (3)_____ more, the red flowers or the yellow flowers?\nG: I (4)_____ the yellow flowers (5)_____.\nB: (6)_____ do you like them more?\nG: Well, yellow is my (7)_____ color.",
+      "answers": [
+        "There are, Which, like, like, more, Why, favorite",
+        "There are Which like like more Why favorite"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TST",
+      "question": "05 Watch and Talk C\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nG: Hi, Jihan. What a (1)_____!\nB: Hey, Emma. Are you here (2)_____ the fireworks, too?\nG: Yes. I (3)_____ China, Italy, and the USA are (4)_____ this year.\nB: (5)_____ Korea.\nG: Of course, Korea, too. So, the (6)_____ start at 7 p.m. (7)_____?\nB: Yeah. (8)_____ do something (9)_____ until then.\nG: I (10)_____ we can ride bikes or go for a (11)_____ ride. Which do you (12)_____?\nB: (13)_____ for a boat ride. I (14)_____ it'll be more fun.\nG: Then, let's (15)_____ a boat ride.",
+      "answers": [
+        "surprise, to see, hear, participating, Don't forget, fireworks, Right, Let's, together, guess, boat, like more, Going, think, go for",
+        "surprise to see hear participating Don't forget fireworks Right Let's together guess boat like more Going think go for",
+        "surprise, to see, hear, participating, Dont forget, fireworks, Right, Lets, together, guess, boat, like more, Going, think, go for",
+        "surprise to see hear participating Dont forget fireworks Right Lets together guess boat like more Going think go for",
+        "surprise, to see, hear, participating, Do not forget, fireworks, Right, Let's, together, guess, boat, like more, Going, think, go for",
+        "surprise to see hear participating Do not forget fireworks Right Let's together guess boat like more Going think go for"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TST",
+      "question": "06 Listen Up\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nM: (1)_____ to the ABC World Food Festival! (2)_____, we invite great chefs from (3)_____ the world. This year, we invited Mr. Kumar, a (4)_____ Indian chef. Do you like (5)_____ food? Then, don't (6)_____ his cooking class. You can also get his recipe book (7)_____.",
+      "answers": [
+        "Welcome, Every year, around, world-famous, Indian, miss, for free",
+        "Welcome Every year around world-famous Indian miss for free"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TST",
+      "question": "07 Review 1\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nB: Let's go to (1)_____ this weekend.\nG: I'm (2)_____, but I can't. I have an (3)_____ on Monday.\nB: So, you're (4)_____ to be in the library (5)_____ weekend?\nG: No. I'll be (6)_____. I like studying at home (7)_____ at the library.",
+      "answers": [
+        "the movies, sorry, exam, going, all, home, more than",
+        "the movies sorry exam going all home more than"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TST",
+      "question": "08 Review 2\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nB: I'm (1)_____ a gift for my grandmother.\nW: (2)_____ about this bag?\nB: It's too (3)_____. I think it'll be (4)_____, too.\nW: (5)_____ at all. It's big (6)_____ very light. It's (7)_____ for older women.\nB: Really? Then, I'll (8)_____ it.",
+      "answers": [
+        "looking for, How, big, heavy, Not, but, perfect, take",
+        "looking for How big heavy Not but perfect take"
+      ],
+      "explainKo": ""
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TST",
+      "question": "09 Review 3\n\n다음 대화의 빈칸에 들어갈 말을 번호 순서대로 쓰시오. 한 빈칸에 두 단어 이상이 들어갈 수 있다.\n\nB: Alice, I'm (1)_____. Let's (2)_____ lunch.\nG: OK. Let's (3)_____ pizza or pasta.\nB: (4)_____ do you like (5)_____?",
+      "answers": [
+        "hungry, have, order, Which, more",
+        "hungry have order Which more"
+      ],
+      "explainKo": ""
+    }
+  ]
+}

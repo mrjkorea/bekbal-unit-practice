@@ -1,0 +1,101 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "p.127",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TST",
+      "question": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nperfect : imperfect = possible : ______",
+      "answers": [
+        "impossible"
+      ],
+      "explainKo": "perfect : imperfect는 '완전한 : 불완전한'이라는 의미로 반의어 관계이므로, 빈칸에는 possible(가능한)의 반의어인 impossible(불가능한)이 들어가야 한다. im은 '반대'의 의미를 나타내는 접두사이다."
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\nspecial clothes that you wear to look like someone or something else",
+      "answers": [
+        "parade",
+        "altar",
+        "reindeer",
+        "costume",
+        "skeleton"
+      ],
+      "corAns": "4",
+      "explainKo": "다른 사람이나 다른 것처럼 보이기 위해 입는 특별한 옷 → costume(의상, 복장). ① 퍼레이드, 행진 ② 제단 ③ 순록 ⑤ 해골, 뼈대"
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TST",
+      "question": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• We will ______ a party for her birthday.\n• Did you ______ fun at the beach?",
+      "answers": [
+        "have"
+      ],
+      "explainKo": "have a party: 파티를 열다[하다] / have fun: 즐겁게 지내다, 즐기다. 우리는 그녀의 생일 파티를 열 것이다. 해변에서 재미있었니?"
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TMC",
+      "question": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?\nI will _take part in_ the volunteer program.",
+      "answers": [
+        "put on",
+        "stand for",
+        "take care of",
+        "come back to",
+        "participate in"
+      ],
+      "corAns": "5",
+      "explainKo": "take part in: ~에 참가하다 (= participate in). 나는 자원봉사 프로그램에 참가할 것이다. ① 입다, 착용하다 ② 상징하다 ③ ~을 돌보다 ④ ~로 돌아가다"
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?",
+      "answers": [
+        "The _statue_ is made of stone. (조각상)",
+        "I could _hardly_ hear her voice. (힘들게)",
+        "The white dove _symbolizes_ peace. (상징하다)",
+        "We enjoyed the _fireworks_ at the beach. (불꽃놀이)",
+        "A _giant_ pumpkin was displayed at the fall festival. (거대한)"
+      ],
+      "corAns": "2",
+      "explainKo": "hardly는 '거의 ~ 아니다'의 의미로 부정어 역할을 한다. hard(힘든)의 부사형은 형용사와 동일한 hard(힘들게)임에 유의한다. ① 그 조각상은 돌로 만들어졌다. ② 나는 그녀의 목소리를 거의 들을 수 없었다. ③ 흰색 비둘기는 평화를 상징한다. ④ 우리는 해변에서 불꽃놀이를 즐겼다. ⑤ 거대한 호박이 가을 축제에 전시되었다."
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TMC",
+      "question": "다음 우리말에 맞도록 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• 그 뉴스는 전국으로 퍼졌다.\n→ The news spread all ⓐ the country.\n• 우리는 풍선으로 교실을 꾸몄다.\n→ We decorated the classroom ⓑ balloons.",
+      "answers": [
+        "over / for",
+        "over / with",
+        "to / with",
+        "to / for",
+        "over / of"
+      ],
+      "corAns": "2",
+      "explainKo": "all over: 곳곳에, 전역에. decorate A with B: A를 B로 장식하다[꾸미다]. ⓐ over, ⓑ with."
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 알맞은 말을 쓰시오.\n월드컵은 4년마다 개최된다. (take)\n→ The World Cup ______ every four years.",
+      "answers": [
+        "takes place"
+      ],
+      "explainKo": "take place: 개최되다, 열리다."
+    }
+  ]
+}

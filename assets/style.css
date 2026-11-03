@@ -4,7 +4,8 @@ main{max-width:860px;margin:20px auto;padding:0 16px}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
 .card{background:#fff;border-radius:10px;padding:16px;box-shadow:0 1px 4px #0002;text-decoration:none;color:inherit;display:block}
 .card.off{opacity:.55}.tag{font-size:12px;padding:2px 8px;border-radius:10px;background:#ddd;margin-left:6px}
-.tag.build-next{background:#ffd166}.tag.demo{background:#ef476f;color:#fff}
+.tag.build-next,.tag.coming-soon{background:#ddd}.tag.ready{background:#2a9d8f;color:#fff}.tag.deferred{background:#ffd166}.tag.demo{background:#ef476f;color:#fff}
+small{color:#555;font-weight:400}
 .q{background:#fff;border-radius:10px;padding:14px;margin:12px 0;white-space:pre-wrap}
 .q label{display:block;margin:6px 0}input[type=text]{width:100%;padding:8px;font-size:16px;box-sizing:border-box}
 button{background:#1d3557;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:16px;cursor:pointer}

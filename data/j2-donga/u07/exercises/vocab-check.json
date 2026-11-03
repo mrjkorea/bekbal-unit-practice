@@ -1,0 +1,658 @@
+{
+  "id": "vocab-check",
+  "title": "Vocabulary 확인 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "p.126",
+  "questionCount": 60,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "A-01",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\npole",
+      "answers": [
+        "기둥, 막대기",
+        "기둥",
+        "막대기"
+      ],
+      "explainKo": "정답: 기둥, 막대기"
+    },
+    {
+      "id": 2,
+      "group": "A-02",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nparticipate",
+      "answers": [
+        "참여하다"
+      ],
+      "explainKo": "정답: 참여하다"
+    },
+    {
+      "id": 3,
+      "group": "A-03",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nimportant",
+      "answers": [
+        "중요한, 중대한",
+        "중요한",
+        "중대한"
+      ],
+      "explainKo": "정답: 중요한, 중대한"
+    },
+    {
+      "id": 4,
+      "group": "A-04",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nfestival",
+      "answers": [
+        "축제, 기념제",
+        "축제",
+        "기념제"
+      ],
+      "explainKo": "정답: 축제, 기념제"
+    },
+    {
+      "id": 5,
+      "group": "A-05",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nwear",
+      "answers": [
+        "입다, 착용하다",
+        "입다",
+        "착용하다"
+      ],
+      "explainKo": "정답: 입다, 착용하다"
+    },
+    {
+      "id": 6,
+      "group": "A-06",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nhardly",
+      "answers": [
+        "거의 ~ 아니다",
+        "거의 아니다"
+      ],
+      "explainKo": "정답: 거의 ~ 아니다"
+    },
+    {
+      "id": 7,
+      "group": "A-07",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nmiss",
+      "answers": [
+        "놓치다: 그리워하다",
+        "놓치다, 그리워하다",
+        "놓치다",
+        "그리워하다"
+      ],
+      "explainKo": "정답: 놓치다: 그리워하다"
+    },
+    {
+      "id": 8,
+      "group": "A-08",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nvarious",
+      "answers": [
+        "다양한, 여러 가지의",
+        "다양한",
+        "여러 가지의"
+      ],
+      "explainKo": "정답: 다양한, 여러 가지의"
+    },
+    {
+      "id": 9,
+      "group": "A-09",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\narea",
+      "answers": [
+        "지역, 구역",
+        "지역",
+        "구역"
+      ],
+      "explainKo": "정답: 지역, 구역"
+    },
+    {
+      "id": 10,
+      "group": "A-10",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nstatue",
+      "answers": [
+        "조각상, 동상",
+        "조각상",
+        "동상"
+      ],
+      "explainKo": "정답: 조각상, 동상"
+    },
+    {
+      "id": 11,
+      "group": "A-11",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ndecorate",
+      "answers": [
+        "장식하다, 꾸미다",
+        "장식하다",
+        "꾸미다"
+      ],
+      "explainKo": "정답: 장식하다, 꾸미다"
+    },
+    {
+      "id": 12,
+      "group": "A-12",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\norder",
+      "answers": [
+        "주문하다: 명령하다: 주문: 명령: 순서",
+        "주문하다",
+        "명령하다",
+        "주문",
+        "명령",
+        "순서"
+      ],
+      "explainKo": "정답: 주문하다: 명령하다: 주문: 명령: 순서"
+    },
+    {
+      "id": 13,
+      "group": "A-13",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ncostume",
+      "answers": [
+        "의상, 복장",
+        "의상",
+        "복장"
+      ],
+      "explainKo": "정답: 의상, 복장"
+    },
+    {
+      "id": 14,
+      "group": "A-14",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nfireworks",
+      "answers": [
+        "불꽃놀이"
+      ],
+      "explainKo": "정답: 불꽃놀이"
+    },
+    {
+      "id": 15,
+      "group": "A-15",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nperfect",
+      "answers": [
+        "완벽한, 완전한",
+        "완벽한",
+        "완전한"
+      ],
+      "explainKo": "정답: 완벽한, 완전한"
+    },
+    {
+      "id": 16,
+      "group": "A-16",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\ngiant",
+      "answers": [
+        "거대한"
+      ],
+      "explainKo": "정답: 거대한"
+    },
+    {
+      "id": 17,
+      "group": "A-17",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\npuzzle",
+      "answers": [
+        "퍼즐, 수수께끼",
+        "퍼즐",
+        "수수께끼"
+      ],
+      "explainKo": "정답: 퍼즐, 수수께끼"
+    },
+    {
+      "id": 18,
+      "group": "A-18",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nparade",
+      "answers": [
+        "퍼레이드, 행진",
+        "퍼레이드",
+        "행진"
+      ],
+      "explainKo": "정답: 퍼레이드, 행진"
+    },
+    {
+      "id": 19,
+      "group": "A-19",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nspicy",
+      "answers": [
+        "매운: 양념 맛이 강한",
+        "매운, 양념 맛이 강한",
+        "매운",
+        "양념 맛이 강한"
+      ],
+      "explainKo": "정답: 매운: 양념 맛이 강한"
+    },
+    {
+      "id": 20,
+      "group": "A-20",
+      "type": "TST",
+      "question": "다음 영어를 우리말로 쓰시오.\nsurprise",
+      "answers": [
+        "놀라운 일, 깜짝 놀람; 놀라게 하다",
+        "놀라운 일, 깜짝 놀람",
+        "놀라운 일",
+        "깜짝 놀람",
+        "놀라게 하다"
+      ],
+      "explainKo": "정답: 놀라운 일, 깜짝 놀람; 놀라게 하다"
+    },
+    {
+      "id": 21,
+      "group": "B-01",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n축하하다, 기념하다",
+      "answers": [
+        "celebrate"
+      ],
+      "explainKo": "정답: celebrate"
+    },
+    {
+      "id": 22,
+      "group": "B-02",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n가능한",
+      "answers": [
+        "possible"
+      ],
+      "explainKo": "정답: possible"
+    },
+    {
+      "id": 23,
+      "group": "B-03",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n초대하다",
+      "answers": [
+        "invite"
+      ],
+      "explainKo": "정답: invite"
+    },
+    {
+      "id": 24,
+      "group": "B-04",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n(해·달이) 지다: 놓다",
+      "answers": [
+        "set"
+      ],
+      "explainKo": "정답: set"
+    },
+    {
+      "id": 25,
+      "group": "B-05",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n기념품: 선물",
+      "answers": [
+        "souvenir"
+      ],
+      "explainKo": "정답: souvenir"
+    },
+    {
+      "id": 26,
+      "group": "B-06",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n해골; 뼈대",
+      "answers": [
+        "skeleton"
+      ],
+      "explainKo": "정답: skeleton"
+    },
+    {
+      "id": 27,
+      "group": "B-07",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n순록",
+      "answers": [
+        "reindeer"
+      ],
+      "explainKo": "정답: reindeer"
+    },
+    {
+      "id": 28,
+      "group": "B-08",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n제단",
+      "answers": [
+        "altar"
+      ],
+      "explainKo": "정답: altar"
+    },
+    {
+      "id": 29,
+      "group": "B-09",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n가벼운",
+      "answers": [
+        "light"
+      ],
+      "explainKo": "정답: light"
+    },
+    {
+      "id": 30,
+      "group": "B-10",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n중요하다: 문제, 일",
+      "answers": [
+        "matter"
+      ],
+      "explainKo": "정답: matter"
+    },
+    {
+      "id": 31,
+      "group": "B-11",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n전통의, 전통적인",
+      "answers": [
+        "traditional"
+      ],
+      "explainKo": "정답: traditional"
+    },
+    {
+      "id": 32,
+      "group": "B-12",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n어두운",
+      "answers": [
+        "dark"
+      ],
+      "explainKo": "정답: dark"
+    },
+    {
+      "id": 33,
+      "group": "B-13",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n세계적으로 유명한",
+      "answers": [
+        "world-famous",
+        "world famous"
+      ],
+      "explainKo": "정답: world-famous"
+    },
+    {
+      "id": 34,
+      "group": "B-14",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n요리법",
+      "answers": [
+        "recipe"
+      ],
+      "explainKo": "정답: recipe"
+    },
+    {
+      "id": 35,
+      "group": "B-15",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n한여름",
+      "answers": [
+        "midsummer"
+      ],
+      "explainKo": "정답: midsummer"
+    },
+    {
+      "id": 36,
+      "group": "B-16",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n상징하다; 나타내다",
+      "answers": [
+        "symbolize"
+      ],
+      "explainKo": "정답: symbolize"
+    },
+    {
+      "id": 37,
+      "group": "B-17",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n태우다; 불에 타다",
+      "answers": [
+        "burn"
+      ],
+      "explainKo": "정답: burn"
+    },
+    {
+      "id": 38,
+      "group": "B-18",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n잊다",
+      "answers": [
+        "forget"
+      ],
+      "explainKo": "정답: forget"
+    },
+    {
+      "id": 39,
+      "group": "B-19",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n계절의",
+      "answers": [
+        "seasonal"
+      ],
+      "explainKo": "정답: seasonal"
+    },
+    {
+      "id": 40,
+      "group": "B-20",
+      "type": "TST",
+      "question": "다음 우리말을 영어로 쓰시오.\n죽은, 사망한",
+      "answers": [
+        "dead"
+      ],
+      "explainKo": "정답: dead"
+    },
+    {
+      "id": 41,
+      "group": "C-01",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nhave a party",
+      "answers": [
+        "파티를 열다[하다]",
+        "파티를 열다",
+        "파티를 하다"
+      ],
+      "explainKo": "정답: 파티를 열다[하다]"
+    },
+    {
+      "id": 42,
+      "group": "C-02",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nat the end of",
+      "answers": [
+        "~의 말에, ~의 끝에",
+        "~의 말에",
+        "~의 끝에"
+      ],
+      "explainKo": "정답: ~의 말에, ~의 끝에"
+    },
+    {
+      "id": 43,
+      "group": "C-03",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\ngo for a ride",
+      "answers": [
+        "타러 가다"
+      ],
+      "explainKo": "정답: 타러 가다"
+    },
+    {
+      "id": 44,
+      "group": "C-04",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nWelcome to ~.",
+      "answers": [
+        "~에 오신 것을 환영합니다."
+      ],
+      "explainKo": "정답: ~에 오신 것을 환영합니다."
+    },
+    {
+      "id": 45,
+      "group": "C-05",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nparticipate in",
+      "answers": [
+        "~에 참가하다"
+      ],
+      "explainKo": "정답: ~에 참가하다"
+    },
+    {
+      "id": 46,
+      "group": "C-06",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nall night long",
+      "answers": [
+        "밤새도록"
+      ],
+      "explainKo": "정답: 밤새도록"
+    },
+    {
+      "id": 47,
+      "group": "C-07",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\ngo to the movies",
+      "answers": [
+        "영화 보러 가다"
+      ],
+      "explainKo": "정답: 영화 보러 가다"
+    },
+    {
+      "id": 48,
+      "group": "C-08",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nsay hello to",
+      "answers": [
+        "~에게 인사를 하다. ~에게 안부를 전하다",
+        "~에게 인사를 하다",
+        "~에게 안부를 전하다"
+      ],
+      "explainKo": "정답: ~에게 인사를 하다. ~에게 안부를 전하다"
+    },
+    {
+      "id": 49,
+      "group": "C-09",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\nonce a year",
+      "answers": [
+        "일 년에 한 번"
+      ],
+      "explainKo": "정답: 일 년에 한 번"
+    },
+    {
+      "id": 50,
+      "group": "C-10",
+      "type": "TST",
+      "question": "다음 영어 표현을 우리말로 쓰시오.\ncome back",
+      "answers": [
+        "돌아오다"
+      ],
+      "explainKo": "정답: 돌아오다"
+    },
+    {
+      "id": 51,
+      "group": "D-01",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\nA와 B 사이에",
+      "answers": [
+        "between A and B"
+      ],
+      "explainKo": "정답: between A and B"
+    },
+    {
+      "id": 52,
+      "group": "D-02",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n수백의; 아주 많은",
+      "answers": [
+        "hundreds of"
+      ],
+      "explainKo": "정답: hundreds of"
+    },
+    {
+      "id": 53,
+      "group": "D-03",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n설치하다, 세우다",
+      "answers": [
+        "set up"
+      ],
+      "explainKo": "정답: set up"
+    },
+    {
+      "id": 54,
+      "group": "D-04",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\nA를 B로 장식하다",
+      "answers": [
+        "decorate A with B"
+      ],
+      "explainKo": "정답: decorate A with B"
+    },
+    {
+      "id": 55,
+      "group": "D-05",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n개최되다, 열리다",
+      "answers": [
+        "take place"
+      ],
+      "explainKo": "정답: take place"
+    },
+    {
+      "id": 56,
+      "group": "D-06",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n일기를 쓰다",
+      "answers": [
+        "keep a diary"
+      ],
+      "explainKo": "정답: keep a diary"
+    },
+    {
+      "id": 57,
+      "group": "D-07",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n일 년 중 이맘때에",
+      "answers": [
+        "at this time of year"
+      ],
+      "explainKo": "정답: at this time of year"
+    },
+    {
+      "id": 58,
+      "group": "D-08",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n축제를 열다",
+      "answers": [
+        "hold a festival"
+      ],
+      "explainKo": "정답: hold a festival"
+    },
+    {
+      "id": 59,
+      "group": "D-09",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n어떤 나이에든",
+      "answers": [
+        "at any age"
+      ],
+      "explainKo": "정답: at any age"
+    },
+    {
+      "id": 60,
+      "group": "D-10",
+      "type": "TST",
+      "question": "다음 우리말 표현을 영어로 쓰시오.\n분장하다; 옷을 차려입다",
+      "answers": [
+        "dress up"
+      ],
+      "explainKo": "정답: dress up"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중2 동아 윤정미",
+  "unit": "Lesson 07 Let's Enjoy Festivals",
+  "sourcePages": "pp.128-129",
+  "questionCount": 15,
+  "omitted": [],
+  "questions": [
+    {
+      "id": 1,
+      "group": "01",
+      "type": "TMC",
+      "question": "다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "dead : alive",
+        "dark : bright",
+        "miss : catch",
+        "forget : remember",
+        "important : significant"
+      ],
+      "corAns": "5",
+      "explainKo": "⑤는 '중요한, 중대한'이라는 의미로 유의어 관계이고, 나머지는 모두 반의어 관계이다. ① 죽은, 사망한 : 살아 있는 ② 어두운 : 밝은 ③ 놓치다 : 잡다 ④ 잊다 : 기억하다"
+    },
+    {
+      "id": 2,
+      "group": "02",
+      "type": "TMC",
+      "question": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.\nThe number 100 _symbolizes_ a perfect score.",
+      "answers": [
+        "orders",
+        "decorates",
+        "surprises",
+        "participates",
+        "represents"
+      ],
+      "corAns": "5",
+      "explainKo": "symbolize: 상징하다(= stand for); 나타내다(= represent). 100이라는 숫자는 만점을 나타낸다. ① 주문하다, 명령하다 ② 장식하다, 꾸미다 ③ 놀라게 하다 ④ 참여하다"
+    },
+    {
+      "id": 3,
+      "group": "03",
+      "type": "TMC",
+      "question": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.\nThe music festival _takes place_ every May.",
+      "answers": [
+        "starts",
+        "ends",
+        "invites",
+        "is held",
+        "is planned"
+      ],
+      "corAns": "4",
+      "explainKo": "take place: 개최되다, 열리다 (= be held). 그 음악 축제는 매년 5월에 열린다. ① 시작하다 ② 끝나다 ③ 초대하다 ⑤ 계획되다"
+    },
+    {
+      "id": 4,
+      "group": "04",
+      "type": "TST",
+      "question": "다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.\na line of people, cars, or bands moving together for a special event\nP ______",
+      "answers": [
+        "parade"
+      ],
+      "explainKo": "특별한 행사에서 사람들, 차, 밴드 등이 함께 줄지어 움직이는 것 → parade(퍼레이드, 행진)."
+    },
+    {
+      "id": 5,
+      "group": "05",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+      "answers": [
+        "He studied _all night long_ for the big test.",
+        "They _set up_ a tent by the river before it got dark.",
+        "She _decorated the cake as_ fresh fruit and cream.",
+        "_At the end of_ the class, the teacher gave us homework.",
+        "People came from _all over_ the country to see the festival."
+      ],
+      "corAns": "3",
+      "explainKo": "decorate A with B: A를 B로 장식하다[꾸미다]. ① 그는 큰 시험을 위해 밤새 공부했다. (all night long: 밤새도록) ② 그들은 어두워지기 전에 강 옆에 텐트를 쳤다. (set up: 설치하다, 세우다) ③ 그녀는 케이크를 신선한 과일과 크림으로 꾸몄다. ④ 수업이 끝날 무렵에 선생님은 우리에게 숙제를 내주셨다. (at the end of: ~의 말에, ~의 끝에) ⑤ 사람들은 축제를 보기 위해 전국에서 왔다. (all over: 곳곳에, 전역에)"
+    },
+    {
+      "id": 6,
+      "group": "06",
+      "type": "TMC",
+      "question": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• Between dogs ⓐ cats, I prefer cats.\n• The children dressed ⓑ as superheroes.",
+      "answers": [
+        "or / up",
+        "and / in",
+        "or / in",
+        "and / on",
+        "and / up"
+      ],
+      "corAns": "5",
+      "explainKo": "ⓐ between A and B: A와 B 사이에. ⓑ dress up: 분장하다; 옷을 차려입다. 개와 고양이 중에서 나는 고양이를 더 좋아한다. 아이들은 슈퍼히어로처럼 분장했다."
+    },
+    {
+      "id": 7,
+      "group": "07",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n수백 명의 학생들이 그 행사에 참여했다.\n→ ______ students joined in the event.",
+      "answers": [
+        "Hundreds of",
+        "hundreds of"
+      ],
+      "explainKo": "hundreds of: 수백의; 아주 많은."
+    },
+    {
+      "id": 8,
+      "group": "08",
+      "type": "TMC",
+      "question": "다음 영영풀이의 빈칸에 들어갈 말로 가장 적절한 것은?\naltar: a special table for ______",
+      "answers": [
+        "weddings",
+        "parties",
+        "ceremonies",
+        "festivals",
+        "meetings"
+      ],
+      "corAns": "3",
+      "explainKo": "altar(제단): 의식(ceremonies)을 위한 특별한 탁자. ① 결혼식 ② 파티 ④ 축제 ⑤ 회의, 모임"
+    },
+    {
+      "id": 9,
+      "group": "09",
+      "type": "TMC",
+      "question": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\n• This ______ for cookies is easy to follow.\n• We enjoy ______ fruits throughout the year.\n• Visitors can see a dinosaur ______ in the museum.\n• People ______ Christmas in many countries.",
+      "answers": [
+        "celebrate",
+        "recipe",
+        "seasonal",
+        "skeleton",
+        "pole"
+      ],
+      "corAns": "5",
+      "explainKo": "pole: 명 기둥, 막대기. 이 쿠키 요리법은 따라 하기 쉽다. (recipe: 명 요리법) 우리는 일 년 내내 제철 과일을 즐긴다. (seasonal: 계절의) 방문객들은 박물관에서 공룡 해골을 볼 수 있다. (skeleton: 명 해골, 뼈대) 많은 나라에서 사람들이 크리스마스를 기념한다. (celebrate: 동 축하하다, 기념하다)"
+    },
+    {
+      "id": 10,
+      "group": "10",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 부분의 의미가 나머지와 다른 것은?",
+      "answers": [
+        "She _missed_ the chance to speak.",
+        "I _miss_ my grandmother very much.",
+        "I tried to catch the ball, but I _missed_.",
+        "She got up early not to _miss_ the train.",
+        "I _missed_ the school bus this morning."
+      ],
+      "corAns": "2",
+      "explainKo": "②에서는 miss가 '그리워하다'라는 의미로 쓰인 반면, 나머지는 모두 '놓치다'의 의미로 쓰였다. ① 그녀는 말할 기회를 놓쳤다. ② 나는 할머니가 몹시 그립다. ③ 나는 공을 잡으려고 했지만 놓쳤다. ④ 그녀는 기차를 놓치지 않으려고 일찍 일어났다. ⑤ 나는 오늘 아침에 학교 버스를 놓쳤다."
+    },
+    {
+      "id": 11,
+      "group": "11",
+      "type": "TMC",
+      "question": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "answers": [
+        "The sky grew _dark_ as the sun set.",
+        "The weather is _perfect_ today. Let's go out.",
+        "He built a _giant_ sandcastle. Everyone was amazed by it.",
+        "It is _possible_ to carry the box. It's too heavy.",
+        "The store has only a few items, so we can't choose from _various_ kinds."
+      ],
+      "corAns": "4",
+      "explainKo": "상자가 너무 무거워서 옮길 수 없는 상황이므로 문맥상 possible(가능한)을 impossible(불가능한)로 바꾸는 것이 자연스럽다. ① 해가 지면서 하늘이 어두워졌다. ② 오늘 날씨가 완벽해. 밖에 나가자. ③ 그는 거대한 모래성을 만들었다. 모두 그것을 보고 놀랐다. ④ 이 상자를 옮기는 것은 가능하다(→ 불가능하다). 그것은 너무 무겁다. ⑤ 그 상점은 몇 가지 상품만 팔아서 우리는 다양한 종류 중에서 고를 수 없다."
+    },
+    {
+      "id": 12,
+      "group": "12",
+      "type": "TMC",
+      "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\nA: What do you want to do this afternoon?\nB: Let's ______ a bike ride.",
+      "answers": [
+        "put on",
+        "go for",
+        "turn on",
+        "wait for",
+        "look for"
+      ],
+      "corAns": "2",
+      "explainKo": "go for a bike ride: 자전거 타러 가다. A: 오늘 오후에 뭘 하고 싶니? B: 자전거 타러 가자. ① ~을 입다, 착용하다 ③ ~을 켜다 ④ ~을 기다리다 ⑤ ~을 찾다"
+    },
+    {
+      "id": 13,
+      "group": "13",
+      "type": "TMC",
+      "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• Roses are in full bloom ______ this time of year.\n• People can follow their dreams ______ any age.",
+      "answers": [
+        "at",
+        "in",
+        "on",
+        "of",
+        "with"
+      ],
+      "corAns": "1",
+      "explainKo": "at this time of year: 일 년 중 이맘때에. at any age: 어떤 나이에든, 나이에 관계없이. 장미는 일 년 중 이맘때에 만발한다. 사람들은 나이에 관계없이 자신의 꿈을 따를 수 있다."
+    },
+    {
+      "id": 14,
+      "group": "14",
+      "type": "TST",
+      "question": "다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오. (현재시제로 쓸 것)\nto be important\nTime ______ more than anything else to me.",
+      "answers": [
+        "matters"
+      ],
+      "explainKo": "주어진 영영풀이는 '중요하다'는 의미이므로 빈칸에는 matters가 알맞다. 나에게는 시간이 다른 어떤 것보다 더 중요하다."
+    },
+    {
+      "id": 15,
+      "group": "15",
+      "type": "TST",
+      "question": "다음 우리말에 맞도록 주어진 단어를 이용하여 문장을 완성하시오.\n우리는 그들의 승리를 축하하기 위해 파티를 열었다. (celebrate)\n→ We ______ their victory.",
+      "answers": [
+        "had a party to celebrate",
+        "threw a party to celebrate",
+        "held a party to celebrate"
+      ],
+      "explainKo": "파티를 열다: have[throw, hold] a party. 축하하기 위해: to celebrate. had[threw, held] a party to celebrate."
+    }
+  ]
+}
