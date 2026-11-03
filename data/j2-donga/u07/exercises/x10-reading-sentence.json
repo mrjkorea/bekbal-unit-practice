@@ -4,440 +4,2548 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 07 Let's Enjoy Festivals",
   "sourcePages": "38-39",
-  "questionCount": 26,
+  "questionCount": 78,
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "01. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Valencia (2)__________ the (3)__________ of spring with the Fallas festival.\n(celebrate, people, coming)\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
-      "answers": [
-        "People, celebrate, coming",
-        "People,celebrate,coming",
-        "People,  celebrate,  coming",
-        "People celebrate coming",
-        "People, celebrate, coming."
+      "explainKo": "정답: People, celebrate, coming",
+      "promptEn": "01. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Valencia (2)__________ the (3)__________ of spring with the Fallas festival.\n(celebrate, people, coming)\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "celebrate",
+        "people",
+        "coming"
       ],
-      "explainKo": "정답: People, celebrate, coming"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "1-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 1,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "02. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThis (1)__________ takes place (2)__________ March 15 (3)__________ 19.\n(to, festival, from)\n이 축제는 3월 15일부터 19일까지 열린다.",
-      "answers": [
-        "festival, from, to",
-        "festival,from,to",
-        "festival,  from,  to",
-        "festival from to",
-        "festival, from, to."
+      "explainKo": "정답: People, celebrate, coming",
+      "promptEn": "01. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Valencia (2)__________ the (3)__________ of spring with the Fallas festival.\n(celebrate, people, coming)\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "celebrate",
+        "people",
+        "coming"
       ],
-      "explainKo": "정답: festival, from, to"
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "1-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 1,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "03. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the festival, people (2)__________ parades (3)__________ fireworks.\n(enjoy, and, during)\n축제 기간 동안 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
-      "answers": [
-        "During, enjoy, and",
-        "During,enjoy,and",
-        "During,  enjoy,  and",
-        "During enjoy and",
-        "During, enjoy, and."
+      "explainKo": "정답: People, celebrate, coming",
+      "promptEn": "01. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Valencia (2)__________ the (3)__________ of spring with the Fallas festival.\n(celebrate, people, coming)\n발렌시아 사람들은 Fallas 축제로 봄이 오는 것을 기념한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "celebrate",
+        "people",
+        "coming"
       ],
-      "explainKo": "정답: During, enjoy, and"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "1-3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 2,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "04. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe (1)__________ of the festival (2)__________ fallas, giant (3)__________ statues.\n(stars, wooden, are)\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
-      "answers": [
-        "stars, are, wooden",
-        "stars,are,wooden",
-        "stars,  are,  wooden",
-        "stars are wooden",
-        "stars, are, wooden."
+      "explainKo": "정답: festival, from, to",
+      "promptEn": "02. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThis (1)__________ takes place (2)__________ March 15 (3)__________ 19.\n(to, festival, from)\n이 축제는 3월 15일부터 19일까지 열린다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "to",
+        "festival",
+        "from"
       ],
-      "explainKo": "정답: stars, are, wooden"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "2-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 2,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "05. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nYou can (1)__________ hundreds of them (2)__________ the city.\n(over, find, all)\n여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다.",
-      "answers": [
-        "find, all over",
-        "find,allover",
-        "find,  all  over",
-        "find,all over",
-        "find all over",
-        "find, all over.",
-        "find, all, over",
-        "find,all,over",
-        "find,  all,  over",
-        "find, all, over."
+      "explainKo": "정답: festival, from, to",
+      "promptEn": "02. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThis (1)__________ takes place (2)__________ March 15 (3)__________ 19.\n(to, festival, from)\n이 축제는 3월 15일부터 19일까지 열린다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "to",
+        "festival",
+        "from"
       ],
-      "explainKo": "정답: find, all over"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "2-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 2,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "06. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________, the fallas are (2)__________ the last day of the festival.\n(surprisingly, on, burned)\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.",
-      "answers": [
-        "Surprisingly, burned on",
-        "Surprisingly,burnedon",
-        "Surprisingly,  burned  on",
-        "Surprisingly,burned on",
-        "Surprisingly burned on",
-        "Surprisingly, burned on.",
-        "Surprisingly, burned, on",
-        "Surprisingly,burned,on",
-        "Surprisingly,  burned,  on",
-        "Surprisingly, burned, on."
+      "explainKo": "정답: festival, from, to",
+      "promptEn": "02. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThis (1)__________ takes place (2)__________ March 15 (3)__________ 19.\n(to, festival, from)\n이 축제는 3월 15일부터 19일까지 열린다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "to",
+        "festival",
+        "from"
       ],
-      "explainKo": "정답: Surprisingly, burned on"
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "2-3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 3,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "07. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nBurning them (1)__________ saying goodbye (2)__________ old (3)__________ and hello to a (4)__________ start.\n(new, symbolizes, things, to)\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
-      "answers": [
-        "symbolizes, to, things, new",
-        "symbolizes,to,things,new",
-        "symbolizes,  to,  things,  new",
-        "symbolizes to things new",
-        "symbolizes, to, things, new."
+      "explainKo": "정답: During, enjoy, and",
+      "promptEn": "03. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the festival, people (2)__________ parades (3)__________ fireworks.\n(enjoy, and, during)\n축제 기간 동안 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "enjoy",
+        "and",
+        "during"
       ],
-      "explainKo": "정답: symbolizes, to, things, new"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "3-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 3,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: During, enjoy, and",
+      "promptEn": "03. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the festival, people (2)__________ parades (3)__________ fireworks.\n(enjoy, and, during)\n축제 기간 동안 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "enjoy",
+        "and",
+        "during"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "3-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "8"
+    },
+    {
+      "sourceId": 3,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: During, enjoy, and",
+      "promptEn": "03. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the festival, people (2)__________ parades (3)__________ fireworks.\n(enjoy, and, during)\n축제 기간 동안 사람들은 퍼레이드와 불꽃놀이를 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "enjoy",
+        "and",
+        "during"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "3-3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "9"
+    },
+    {
+      "sourceId": 4,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: stars, are, wooden",
+      "promptEn": "04. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe (1)__________ of the festival (2)__________ fallas, giant (3)__________ statues.\n(stars, wooden, are)\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "stars",
+        "wooden",
+        "are"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "4-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "10"
+    },
+    {
+      "sourceId": 4,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: stars, are, wooden",
+      "promptEn": "04. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe (1)__________ of the festival (2)__________ fallas, giant (3)__________ statues.\n(stars, wooden, are)\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "stars",
+        "wooden",
+        "are"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "4-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "11"
+    },
+    {
+      "sourceId": 4,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: stars, are, wooden",
+      "promptEn": "04. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe (1)__________ of the festival (2)__________ fallas, giant (3)__________ statues.\n(stars, wooden, are)\n축제의 주인공들은 거대한 나무 조각상들인 파야들이다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "stars",
+        "wooden",
+        "are"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "4-3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "12"
+    },
+    {
+      "sourceId": 5,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: find, all over",
+      "promptEn": "05. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nYou can (1)__________ hundreds of them (2)__________ the city.\n(over, find, all)\n여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "over",
+        "find",
+        "all"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "5-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "13"
+    },
+    {
+      "sourceId": 5,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: find, all over",
+      "promptEn": "05. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nYou can (1)__________ hundreds of them (2)__________ the city.\n(over, find, all)\n여러분은 도시 곳곳에서 수백 개의 그것들을 볼 수 있다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "over"
+        },
+        {
+          "id": "w1",
+          "text": "find"
+        },
+        {
+          "id": "w2",
+          "text": "all"
+        }
+      ],
+      "orderIds": [
+        "w2",
+        "w0"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "5-2",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "14"
+    },
+    {
+      "sourceId": 6,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: Surprisingly, burned on",
+      "promptEn": "06. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________, the fallas are (2)__________ the last day of the festival.\n(surprisingly, on, burned)\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "surprisingly",
+        "on",
+        "burned"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "6-1",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "15"
+    },
+    {
+      "sourceId": 6,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: Surprisingly, burned on",
+      "promptEn": "06. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________, the fallas are (2)__________ the last day of the festival.\n(surprisingly, on, burned)\n놀랍게도, 파야들은 축제의 마지막 날에 불태워진다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "surprisingly"
+        },
+        {
+          "id": "w1",
+          "text": "on"
+        },
+        {
+          "id": "w2",
+          "text": "burned"
+        }
+      ],
+      "orderIds": [
+        "w2",
+        "w1"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "6-2",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "16"
+    },
+    {
+      "sourceId": 7,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: symbolizes, to, things, new",
+      "promptEn": "07. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nBurning them (1)__________ saying goodbye (2)__________ old (3)__________ and hello to a (4)__________ start.\n(new, symbolizes, things, to)\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "new",
+        "symbolizes",
+        "things",
+        "to"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "7-1",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "17"
+    },
+    {
+      "sourceId": 7,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: symbolizes, to, things, new",
+      "promptEn": "07. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nBurning them (1)__________ saying goodbye (2)__________ old (3)__________ and hello to a (4)__________ start.\n(new, symbolizes, things, to)\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "new",
+        "symbolizes",
+        "things",
+        "to"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "7-2",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "18"
+    },
+    {
+      "sourceId": 7,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: symbolizes, to, things, new",
+      "promptEn": "07. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nBurning them (1)__________ saying goodbye (2)__________ old (3)__________ and hello to a (4)__________ start.\n(new, symbolizes, things, to)\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "new",
+        "symbolizes",
+        "things",
+        "to"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "7-3",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "19"
+    },
+    {
+      "sourceId": 7,
+      "group": "Fallas Festival in Valencia, Spain",
+      "explainKo": "정답: symbolizes, to, things, new",
+      "promptEn": "07. Fallas Festival in Valencia, Spain\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nBurning them (1)__________ saying goodbye (2)__________ old (3)__________ and hello to a (4)__________ start.\n(new, symbolizes, things, to)\n그것들을 불태우는 것은 오래된 것들과 작별하고 새로운 시작을 맞이함을 상징한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "new",
+        "symbolizes",
+        "things",
+        "to"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "7-4",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "20"
+    },
+    {
+      "sourceId": 8,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "08. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Sweden is long and (2)__________, so the people there especially (3)__________ summer.\n(winter, dark, welcome)\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
-      "answers": [
-        "Winter, dark, welcome",
-        "Winter,dark,welcome",
-        "Winter,  dark,  welcome",
-        "Winter dark welcome",
-        "Winter, dark, welcome."
+      "explainKo": "정답: Winter, dark, welcome",
+      "promptEn": "08. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Sweden is long and (2)__________, so the people there especially (3)__________ summer.\n(winter, dark, welcome)\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "winter",
+        "dark",
+        "welcome"
       ],
-      "explainKo": "정답: Winter, dark, welcome"
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "8-1",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "21"
     },
     {
-      "id": 9,
+      "sourceId": 8,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "09. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ celebrate the (2)__________ of the year, they have a (3)__________ festival.\n(day, special, to, longest)\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
-      "answers": [
-        "To, longest day, special",
-        "To,longestday,special",
-        "To,  longest  day,  special",
-        "To,longest day,special",
-        "To longest day special",
-        "To, longest day, special.",
-        "To, longest, day, special",
-        "To,longest,day,special",
-        "To,  longest,  day,  special",
-        "To, longest, day, special."
+      "explainKo": "정답: Winter, dark, welcome",
+      "promptEn": "08. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Sweden is long and (2)__________, so the people there especially (3)__________ summer.\n(winter, dark, welcome)\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "winter",
+        "dark",
+        "welcome"
       ],
-      "explainKo": "정답: To, longest day, special"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "8-2",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "22"
     },
     {
-      "id": 10,
+      "sourceId": 8,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "10. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ the (2)__________ festival.\n(it, Midsummer, call)\n그들은 이 축제를 Midsummer 축제라고 부른다.",
-      "answers": [
-        "call it, Midsummer",
-        "callit,Midsummer",
-        "call  it,  Midsummer",
-        "call it,Midsummer",
-        "call it Midsummer",
-        "call it, Midsummer.",
-        "call, it, Midsummer",
-        "call,it,Midsummer",
-        "call,  it,  Midsummer",
-        "call, it, Midsummer."
+      "explainKo": "정답: Winter, dark, welcome",
+      "promptEn": "08. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ in Sweden is long and (2)__________, so the people there especially (3)__________ summer.\n(winter, dark, welcome)\n스웨덴의 겨울은 길고 어두워서, 그곳 사람들은 여름을 특히 환영한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "winter",
+        "dark",
+        "welcome"
       ],
-      "explainKo": "정답: call it, Midsummer"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "8-3",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "23"
     },
     {
-      "id": 11,
+      "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "11. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe festival (1)__________ on the Friday evening (2)__________ June 19 (3)__________ 25 and (4)__________ on the Sunday.\n(between, ends, starts, and)\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
-      "answers": [
-        "starts, between, and, ends",
-        "starts,between,and,ends",
-        "starts,  between,  and,  ends",
-        "starts between and ends",
-        "starts, between, and, ends."
+      "explainKo": "정답: To, longest day, special",
+      "promptEn": "09. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ celebrate the (2)__________ of the year, they have a (3)__________ festival.\n(day, special, to, longest)\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "day",
+        "special",
+        "to",
+        "longest"
       ],
-      "explainKo": "정답: starts, between, and, ends"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "9-1",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "24"
     },
     {
-      "id": 12,
+      "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "12. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nDuring the festival, people (1)__________ a tall pole (2)__________ flowers and green (3)__________ and enjoy (4)__________ dances around it.\n(decorate, traditional, leaves, with)\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위에서 전통 춤을 즐긴다.",
-      "answers": [
-        "decorate, with, leaves, traditional",
-        "decorate,with,leaves,traditional",
-        "decorate,  with,  leaves,  traditional",
-        "decorate with leaves traditional",
-        "decorate, with, leaves, traditional."
+      "explainKo": "정답: To, longest day, special",
+      "promptEn": "09. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ celebrate the (2)__________ of the year, they have a (3)__________ festival.\n(day, special, to, longest)\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "day"
+        },
+        {
+          "id": "w1",
+          "text": "special"
+        },
+        {
+          "id": "w2",
+          "text": "to"
+        },
+        {
+          "id": "w3",
+          "text": "longest"
+        }
       ],
-      "explainKo": "정답: decorate, with, leaves, traditional"
+      "orderIds": [
+        "w3",
+        "w0"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "9-2",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "25"
     },
     {
-      "id": 13,
+      "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "13. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the sun (2)__________ at this time of year in Sweden, people can enjoy the festival (3)__________ night (4)__________.\n(sets, long, because, hardly, all)\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
-      "answers": [
-        "Because, hardly sets, all, long",
-        "Because,hardlysets,all,long",
-        "Because,  hardly  sets,  all,  long",
-        "Because,hardly sets,all,long",
-        "Because hardly sets all long",
-        "Because, hardly sets, all, long.",
-        "Because, hardly, sets, all, long",
-        "Because,hardly,sets,all,long",
-        "Because,  hardly,  sets,  all,  long",
-        "Because, hardly, sets, all, long."
+      "explainKo": "정답: To, longest day, special",
+      "promptEn": "09. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ celebrate the (2)__________ of the year, they have a (3)__________ festival.\n(day, special, to, longest)\n한해 중 낮이 가장 긴 날을 기념하기 위해, 그들은 특별한 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "day",
+        "special",
+        "to",
+        "longest"
       ],
-      "explainKo": "정답: Because, hardly sets, all, long"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "9-3",
+      "section": "s7",
+      "sectionTitle": "Section G · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "26"
     },
     {
-      "id": 14,
+      "sourceId": 10,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: call it, Midsummer",
+      "promptEn": "10. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ the (2)__________ festival.\n(it, Midsummer, call)\n그들은 이 축제를 Midsummer 축제라고 부른다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "it"
+        },
+        {
+          "id": "w1",
+          "text": "Midsummer"
+        },
+        {
+          "id": "w2",
+          "text": "call"
+        }
+      ],
+      "orderIds": [
+        "w2",
+        "w0"
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "10-1",
+      "section": "s8",
+      "sectionTitle": "Section H · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "27"
+    },
+    {
+      "sourceId": 10,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: call it, Midsummer",
+      "promptEn": "10. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ the (2)__________ festival.\n(it, Midsummer, call)\n그들은 이 축제를 Midsummer 축제라고 부른다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "it",
+        "Midsummer",
+        "call"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "10-2",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "28"
+    },
+    {
+      "sourceId": 11,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: starts, between, and, ends",
+      "promptEn": "11. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe festival (1)__________ on the Friday evening (2)__________ June 19 (3)__________ 25 and (4)__________ on the Sunday.\n(between, ends, starts, and)\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "between",
+        "ends",
+        "starts",
+        "and"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "11-1",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "29"
+    },
+    {
+      "sourceId": 11,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: starts, between, and, ends",
+      "promptEn": "11. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe festival (1)__________ on the Friday evening (2)__________ June 19 (3)__________ 25 and (4)__________ on the Sunday.\n(between, ends, starts, and)\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "between",
+        "ends",
+        "starts",
+        "and"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "11-2",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "30"
+    },
+    {
+      "sourceId": 11,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: starts, between, and, ends",
+      "promptEn": "11. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe festival (1)__________ on the Friday evening (2)__________ June 19 (3)__________ 25 and (4)__________ on the Sunday.\n(between, ends, starts, and)\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "between",
+        "ends",
+        "starts",
+        "and"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "11-3",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "31"
+    },
+    {
+      "sourceId": 11,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: starts, between, and, ends",
+      "promptEn": "11. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThe festival (1)__________ on the Friday evening (2)__________ June 19 (3)__________ 25 and (4)__________ on the Sunday.\n(between, ends, starts, and)\n축제는 6월 19일과 25일 사이의 금요일 저녁에 시작해서 일요일에 끝난다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "between",
+        "ends",
+        "starts",
+        "and"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "11-4",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "32"
+    },
+    {
+      "sourceId": 12,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: decorate, with, leaves, traditional",
+      "promptEn": "12. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nDuring the festival, people (1)__________ a tall pole (2)__________ flowers and green (3)__________ and enjoy (4)__________ dances around it.\n(decorate, traditional, leaves, with)\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위에서 전통 춤을 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "decorate",
+        "traditional",
+        "leaves",
+        "with"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "12-1",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "33"
+    },
+    {
+      "sourceId": 12,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: decorate, with, leaves, traditional",
+      "promptEn": "12. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nDuring the festival, people (1)__________ a tall pole (2)__________ flowers and green (3)__________ and enjoy (4)__________ dances around it.\n(decorate, traditional, leaves, with)\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위에서 전통 춤을 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "decorate",
+        "traditional",
+        "leaves",
+        "with"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "12-2",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "34"
+    },
+    {
+      "sourceId": 12,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: decorate, with, leaves, traditional",
+      "promptEn": "12. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nDuring the festival, people (1)__________ a tall pole (2)__________ flowers and green (3)__________ and enjoy (4)__________ dances around it.\n(decorate, traditional, leaves, with)\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위에서 전통 춤을 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "decorate",
+        "traditional",
+        "leaves",
+        "with"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "12-3",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "35"
+    },
+    {
+      "sourceId": 12,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: decorate, with, leaves, traditional",
+      "promptEn": "12. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nDuring the festival, people (1)__________ a tall pole (2)__________ flowers and green (3)__________ and enjoy (4)__________ dances around it.\n(decorate, traditional, leaves, with)\n축제 기간 동안, 사람들은 꽃과 녹색 잎들로 긴 기둥을 장식하고 그 기둥 주위에서 전통 춤을 즐긴다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "decorate",
+        "traditional",
+        "leaves",
+        "with"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "12-4",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "36"
+    },
+    {
+      "sourceId": 13,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: Because, hardly sets, all, long",
+      "promptEn": "13. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the sun (2)__________ at this time of year in Sweden, people can enjoy the festival (3)__________ night (4)__________.\n(sets, long, because, hardly, all)\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "sets",
+        "long",
+        "because",
+        "hardly",
+        "all"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "13-1",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "37"
+    },
+    {
+      "sourceId": 13,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: Because, hardly sets, all, long",
+      "promptEn": "13. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the sun (2)__________ at this time of year in Sweden, people can enjoy the festival (3)__________ night (4)__________.\n(sets, long, because, hardly, all)\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "sets"
+        },
+        {
+          "id": "w1",
+          "text": "long"
+        },
+        {
+          "id": "w2",
+          "text": "because"
+        },
+        {
+          "id": "w3",
+          "text": "hardly"
+        },
+        {
+          "id": "w4",
+          "text": "all"
+        }
+      ],
+      "orderIds": [
+        "w3",
+        "w0"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "13-2",
+      "section": "s10",
+      "sectionTitle": "Section J · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "38"
+    },
+    {
+      "sourceId": 13,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: Because, hardly sets, all, long",
+      "promptEn": "13. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the sun (2)__________ at this time of year in Sweden, people can enjoy the festival (3)__________ night (4)__________.\n(sets, long, because, hardly, all)\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "sets",
+        "long",
+        "because",
+        "hardly",
+        "all"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "13-3",
+      "section": "s11",
+      "sectionTitle": "Section K · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "39"
+    },
+    {
+      "sourceId": 13,
+      "group": "Midsummer Festival in Sweden",
+      "explainKo": "정답: Because, hardly sets, all, long",
+      "promptEn": "13. Midsummer Festival in Sweden\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the sun (2)__________ at this time of year in Sweden, people can enjoy the festival (3)__________ night (4)__________.\n(sets, long, because, hardly, all)\n이 시기에는 스웨덴에서 해가 거의 지지 않기 때문에, 사람들은 밤새도록 축제를 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "sets",
+        "long",
+        "because",
+        "hardly",
+        "all"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "13-4",
+      "section": "s11",
+      "sectionTitle": "Section K · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "40"
+    },
+    {
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "14. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nMany Mexicans (1)__________ once a year (2)__________ people come (3)__________ home to (4)__________ their family and friends.\n(that, meet, dead, believe, back)\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
-      "answers": [
-        "believe that, dead, back, meet",
-        "believethat,dead,back,meet",
-        "believe  that,  dead,  back,  meet",
-        "believe that,dead,back,meet",
-        "believe that dead back meet",
-        "believe that, dead, back, meet.",
-        "believe, that, dead, back, meet",
-        "believe,that,dead,back,meet",
-        "believe,  that,  dead,  back,  meet",
-        "believe, that, dead, back, meet."
+      "explainKo": "정답: believe that, dead, back, meet",
+      "promptEn": "14. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nMany Mexicans (1)__________ once a year (2)__________ people come (3)__________ home to (4)__________ their family and friends.\n(that, meet, dead, believe, back)\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "that"
+        },
+        {
+          "id": "w1",
+          "text": "meet"
+        },
+        {
+          "id": "w2",
+          "text": "dead"
+        },
+        {
+          "id": "w3",
+          "text": "believe"
+        },
+        {
+          "id": "w4",
+          "text": "back"
+        }
       ],
-      "explainKo": "정답: believe that, dead, back, meet"
+      "orderIds": [
+        "w3",
+        "w0"
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "14-1",
+      "section": "s12",
+      "sectionTitle": "Section L · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "41"
     },
     {
-      "id": 15,
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "15. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ this day the Day of (2)__________.\n(the, call, Dead)\n그들은 이날을 Day of the Dead라고 부른다.",
-      "answers": [
-        "call, the Dead",
-        "call,theDead",
-        "call,  the  Dead",
-        "call,the Dead",
-        "call the Dead",
-        "call, the Dead.",
-        "call, the, Dead",
-        "call,the,Dead",
-        "call,  the,  Dead",
-        "call, the, Dead."
+      "explainKo": "정답: believe that, dead, back, meet",
+      "promptEn": "14. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nMany Mexicans (1)__________ once a year (2)__________ people come (3)__________ home to (4)__________ their family and friends.\n(that, meet, dead, believe, back)\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "that",
+        "meet",
+        "dead",
+        "believe",
+        "back"
       ],
-      "explainKo": "정답: call, the Dead"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "14-2",
+      "section": "s13",
+      "sectionTitle": "Section M · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "42"
     },
     {
-      "id": 16,
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "16. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nTo (1)__________ dead people, Mexicans (2)__________ a festival on (3)__________ 1 and 2.\n(hold, welcome, November)\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
-      "answers": [
-        "welcome, hold, November",
-        "welcome,hold,November",
-        "welcome,  hold,  November",
-        "welcome hold November",
-        "welcome, hold, November."
+      "explainKo": "정답: believe that, dead, back, meet",
+      "promptEn": "14. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nMany Mexicans (1)__________ once a year (2)__________ people come (3)__________ home to (4)__________ their family and friends.\n(that, meet, dead, believe, back)\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "that",
+        "meet",
+        "dead",
+        "believe",
+        "back"
       ],
-      "explainKo": "정답: welcome, hold, November"
+      "correctIndexes": [
+        5
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "14-3",
+      "section": "s13",
+      "sectionTitle": "Section M · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "43"
     },
     {
-      "id": 17,
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "17. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ it is (2)__________ to (3)__________ dead people.\n(remember, important, believe)\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
-      "answers": [
-        "believe, important, remember",
-        "believe,important,remember",
-        "believe,  important,  remember",
-        "believe important remember",
-        "believe, important, remember."
+      "explainKo": "정답: believe that, dead, back, meet",
+      "promptEn": "14. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nMany Mexicans (1)__________ once a year (2)__________ people come (3)__________ home to (4)__________ their family and friends.\n(that, meet, dead, believe, back)\n많은 멕시코 사람들은 일 년에 한 번, 죽은 사람들이 가족과 친구들을 만나기 위해 집으로 돌아온다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "that",
+        "meet",
+        "dead",
+        "believe",
+        "back"
       ],
-      "explainKo": "정답: believe, important, remember"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "14-4",
+      "section": "s13",
+      "sectionTitle": "Section M · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "44"
     },
     {
-      "id": 18,
+      "sourceId": 15,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "18. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nSo, people (1)__________ altars in their homes and have (2)__________ parties in (3)__________.\n(up, big, set, cemeteries)\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
-      "answers": [
-        "set up, big, cemeteries",
-        "setup,big,cemeteries",
-        "set  up,  big,  cemeteries",
-        "set up,big,cemeteries",
-        "set up big cemeteries",
-        "set up, big, cemeteries.",
-        "set, up, big, cemeteries",
-        "set,up,big,cemeteries",
-        "set,  up,  big,  cemeteries",
-        "set, up, big, cemeteries."
+      "explainKo": "정답: call, the Dead",
+      "promptEn": "15. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ this day the Day of (2)__________.\n(the, call, Dead)\n그들은 이날을 Day of the Dead라고 부른다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "the",
+        "call",
+        "Dead"
       ],
-      "explainKo": "정답: set up, big, cemeteries"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "15-1",
+      "section": "s13",
+      "sectionTitle": "Section M · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "45"
     },
     {
-      "id": 19,
+      "sourceId": 15,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "19. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIn some (1)__________, people (2)__________ like skeletons and (3)__________ big parades.\n(dress, hold, up, areas)\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
-      "answers": [
-        "areas, dress up, hold",
-        "areas,dressup,hold",
-        "areas,  dress  up,  hold",
-        "areas,dress up,hold",
-        "areas dress up hold",
-        "areas, dress up, hold.",
-        "areas, dress, up, hold",
-        "areas,dress,up,hold",
-        "areas,  dress,  up,  hold",
-        "areas, dress, up, hold."
+      "explainKo": "정답: call, the Dead",
+      "promptEn": "15. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ this day the Day of (2)__________.\n(the, call, Dead)\n그들은 이날을 Day of the Dead라고 부른다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "the"
+        },
+        {
+          "id": "w1",
+          "text": "call"
+        },
+        {
+          "id": "w2",
+          "text": "Dead"
+        }
       ],
-      "explainKo": "정답: areas, dress up, hold"
+      "orderIds": [
+        "w0",
+        "w2"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "15-2",
+      "section": "s14",
+      "sectionTitle": "Section N · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "46"
     },
     {
-      "id": 20,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
-      "answers": [
-        "At, February, one, biggest, world",
-        "At,February,one,biggest,world",
-        "At,  February,  one,  biggest,  world",
-        "At February one biggest world",
-        "At, February, one, biggest, world."
+      "sourceId": 16,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: welcome, hold, November",
+      "promptEn": "16. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nTo (1)__________ dead people, Mexicans (2)__________ a festival on (3)__________ 1 and 2.\n(hold, welcome, November)\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "hold",
+        "welcome",
+        "November"
       ],
-      "explainKo": "정답: At, February, one, biggest, world"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "16-1",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "47"
     },
     {
-      "id": 21,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "21. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ this festival, visitors can enjoy (2)__________ sports and Alaskan (3)__________ games.\n(various, during, traditional, winter)\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
-      "answers": [
-        "During, various winter, traditional",
-        "During,variouswinter,traditional",
-        "During,  various  winter,  traditional",
-        "During,various winter,traditional",
-        "During various winter traditional",
-        "During, various winter, traditional.",
-        "During, various, winter, traditional",
-        "During,various,winter,traditional",
-        "During,  various,  winter,  traditional",
-        "During, various, winter, traditional."
+      "sourceId": 16,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: welcome, hold, November",
+      "promptEn": "16. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nTo (1)__________ dead people, Mexicans (2)__________ a festival on (3)__________ 1 and 2.\n(hold, welcome, November)\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "hold",
+        "welcome",
+        "November"
       ],
-      "explainKo": "정답: During, various winter, traditional"
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "16-2",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "48"
     },
     {
-      "id": 22,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "22. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey can also (1)__________ many special events (2)__________ the Running of the (3)__________.\n(as, enjoy, Reindeer, such)\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
-      "answers": [
-        "enjoy, such as, Reindeer",
-        "enjoy,suchas,Reindeer",
-        "enjoy,  such  as,  Reindeer",
-        "enjoy,such as,Reindeer",
-        "enjoy such as Reindeer",
-        "enjoy, such as, Reindeer.",
-        "enjoy, such, as, Reindeer",
-        "enjoy,such,as,Reindeer",
-        "enjoy,  such,  as,  Reindeer",
-        "enjoy, such, as, Reindeer."
+      "sourceId": 16,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: welcome, hold, November",
+      "promptEn": "16. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nTo (1)__________ dead people, Mexicans (2)__________ a festival on (3)__________ 1 and 2.\n(hold, welcome, November)\n죽은 자들을 맞이하기 위해, 멕시코 사람들은 11월 1일과 2일에 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "hold",
+        "welcome",
+        "November"
       ],
-      "explainKo": "정답: enjoy, such as, Reindeer"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "16-3",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "49"
     },
     {
-      "id": 23,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "23. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nPeople (1)__________ in this race (2)__________ fun costumes and (3)__________ to run faster (4)__________ reindeer.\n(than, who, participate, try, wear)\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
-      "answers": [
-        "who participate, wear, try, than",
-        "whoparticipate,wear,try,than",
-        "who  participate,  wear,  try,  than",
-        "who participate,wear,try,than",
-        "who participate wear try than",
-        "who participate, wear, try, than.",
-        "who, participate, wear, try, than",
-        "who,participate,wear,try,than",
-        "who,  participate,  wear,  try,  than",
-        "who, participate, wear, try, than."
+      "sourceId": 17,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: believe, important, remember",
+      "promptEn": "17. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ it is (2)__________ to (3)__________ dead people.\n(remember, important, believe)\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "remember",
+        "important",
+        "believe"
       ],
-      "explainKo": "정답: who participate, wear, try, than"
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "17-1",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "50"
     },
     {
-      "id": 24,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "24. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIs it (1)__________ to (2)__________?\n(do, possible, so)\n그렇게 하는 것이 가능할까?",
-      "answers": [
-        "possible, do so",
-        "possible,doso",
-        "possible,  do  so",
-        "possible,do so",
-        "possible do so",
-        "possible, do so.",
-        "possible, do, so",
-        "possible,do,so",
-        "possible,  do,  so",
-        "possible, do, so."
+      "sourceId": 17,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: believe, important, remember",
+      "promptEn": "17. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ it is (2)__________ to (3)__________ dead people.\n(remember, important, believe)\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "remember",
+        "important",
+        "believe"
       ],
-      "explainKo": "정답: possible, do so"
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "17-2",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "51"
     },
     {
-      "id": 25,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "25. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ really, but it (2)__________ matter.\n(doesn't, not)\n사실 그렇지 않지만, 그건 중요하지 않다.",
-      "answers": [
-        "Not, doesn't",
-        "Not,doesn't",
-        "Not,  doesn't",
-        "Not doesn't",
-        "Not, doesn't."
+      "sourceId": 17,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: believe, important, remember",
+      "promptEn": "17. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey (1)__________ it is (2)__________ to (3)__________ dead people.\n(remember, important, believe)\n그들은 죽은 사람들을 기억하는 것이 중요하다고 믿는다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "remember",
+        "important",
+        "believe"
       ],
-      "explainKo": "정답: Not, doesn't"
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "17-3",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "52"
     },
     {
-      "id": 26,
-      "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "26. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nEveryone is (1)__________ fun!\n(having, just)\n모두가 그저 즐기고 있을 뿐이다!",
-      "answers": [
-        "just having",
-        "justhaving",
-        "just  having",
-        "just having.",
-        "just, having",
-        "just,having",
-        "just,  having",
-        "just, having."
+      "sourceId": 18,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: set up, big, cemeteries",
+      "promptEn": "18. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nSo, people (1)__________ altars in their homes and have (2)__________ parties in (3)__________.\n(up, big, set, cemeteries)\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "up"
+        },
+        {
+          "id": "w1",
+          "text": "big"
+        },
+        {
+          "id": "w2",
+          "text": "set"
+        },
+        {
+          "id": "w3",
+          "text": "cemeteries"
+        }
       ],
-      "explainKo": "정답: just having"
+      "orderIds": [
+        "w2",
+        "w0"
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "18-1",
+      "section": "s16",
+      "sectionTitle": "Section P · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "53"
+    },
+    {
+      "sourceId": 18,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: set up, big, cemeteries",
+      "promptEn": "18. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nSo, people (1)__________ altars in their homes and have (2)__________ parties in (3)__________.\n(up, big, set, cemeteries)\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "up",
+        "big",
+        "set",
+        "cemeteries"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "18-2",
+      "section": "s17",
+      "sectionTitle": "Section Q · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "54"
+    },
+    {
+      "sourceId": 18,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: set up, big, cemeteries",
+      "promptEn": "18. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nSo, people (1)__________ altars in their homes and have (2)__________ parties in (3)__________.\n(up, big, set, cemeteries)\n그래서, 사람들은 집에 제단을 차리고 묘지에서 큰 파티를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "up",
+        "big",
+        "set",
+        "cemeteries"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "18-3",
+      "section": "s17",
+      "sectionTitle": "Section Q · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "55"
+    },
+    {
+      "sourceId": 19,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: areas, dress up, hold",
+      "promptEn": "19. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIn some (1)__________, people (2)__________ like skeletons and (3)__________ big parades.\n(dress, hold, up, areas)\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "dress",
+        "hold",
+        "up",
+        "areas"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "19-1",
+      "section": "s17",
+      "sectionTitle": "Section Q · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "56"
+    },
+    {
+      "sourceId": 19,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: areas, dress up, hold",
+      "promptEn": "19. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIn some (1)__________, people (2)__________ like skeletons and (3)__________ big parades.\n(dress, hold, up, areas)\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "dress"
+        },
+        {
+          "id": "w1",
+          "text": "hold"
+        },
+        {
+          "id": "w2",
+          "text": "up"
+        },
+        {
+          "id": "w3",
+          "text": "areas"
+        }
+      ],
+      "orderIds": [
+        "w0",
+        "w2"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "19-2",
+      "section": "s18",
+      "sectionTitle": "Section R · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "57"
+    },
+    {
+      "sourceId": 19,
+      "group": "Day of the Dead Festival in Mexico",
+      "explainKo": "정답: areas, dress up, hold",
+      "promptEn": "19. Day of the Dead Festival in Mexico\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIn some (1)__________, people (2)__________ like skeletons and (3)__________ big parades.\n(dress, hold, up, areas)\n일부 지역에서는, 사람들이 해골처럼 분장하고 큰 퍼레이드를 벌인다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "dress",
+        "hold",
+        "up",
+        "areas"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "19-3",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "58"
+    },
+    {
+      "sourceId": 20,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: At, February, one, biggest, world",
+      "promptEn": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "one",
+        "at",
+        "biggest",
+        "world",
+        "February"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "20-1",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "59"
+    },
+    {
+      "sourceId": 20,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: At, February, one, biggest, world",
+      "promptEn": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "one",
+        "at",
+        "biggest",
+        "world",
+        "February"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "20-2",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "60"
+    },
+    {
+      "sourceId": 20,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: At, February, one, biggest, world",
+      "promptEn": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "one",
+        "at",
+        "biggest",
+        "world",
+        "February"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "20-3",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "61"
+    },
+    {
+      "sourceId": 20,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: At, February, one, biggest, world",
+      "promptEn": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "one",
+        "at",
+        "biggest",
+        "world",
+        "February"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "20-4",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "62"
+    },
+    {
+      "sourceId": 20,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: At, February, one, biggest, world",
+      "promptEn": "20. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ the end of (2)__________, people in Alaska hold the Fur Rondy festival, (3)__________ of the (4)__________ winter festivals in the (5)__________.\n(one, at, biggest, world, February)\n2월 말, 알래스카 사람들은 세계에서 가장 큰 겨울 축제 중 하나인 Fur Rondy 축제를 연다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "one",
+        "at",
+        "biggest",
+        "world",
+        "February"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "5",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (5) 빈칸만 고릅니다.",
+      "id": "20-5",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "63"
+    },
+    {
+      "sourceId": 21,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: During, various winter, traditional",
+      "promptEn": "21. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ this festival, visitors can enjoy (2)__________ sports and Alaskan (3)__________ games.\n(various, during, traditional, winter)\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "various",
+        "during",
+        "traditional",
+        "winter"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "21-1",
+      "section": "s19",
+      "sectionTitle": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "64"
+    },
+    {
+      "sourceId": 21,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: During, various winter, traditional",
+      "promptEn": "21. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ this festival, visitors can enjoy (2)__________ sports and Alaskan (3)__________ games.\n(various, during, traditional, winter)\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "various"
+        },
+        {
+          "id": "w1",
+          "text": "during"
+        },
+        {
+          "id": "w2",
+          "text": "traditional"
+        },
+        {
+          "id": "w3",
+          "text": "winter"
+        }
+      ],
+      "orderIds": [
+        "w0",
+        "w3"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "21-2",
+      "section": "s20",
+      "sectionTitle": "Section T · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "65"
+    },
+    {
+      "sourceId": 21,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: During, various winter, traditional",
+      "promptEn": "21. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ this festival, visitors can enjoy (2)__________ sports and Alaskan (3)__________ games.\n(various, during, traditional, winter)\n축제 기간 동안, 방문객들은 다양한 겨울 스포츠와 알래스카 전통 게임을 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "various",
+        "during",
+        "traditional",
+        "winter"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "21-3",
+      "section": "s21",
+      "sectionTitle": "Section U · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "66"
+    },
+    {
+      "sourceId": 22,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: enjoy, such as, Reindeer",
+      "promptEn": "22. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey can also (1)__________ many special events (2)__________ the Running of the (3)__________.\n(as, enjoy, Reindeer, such)\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "as",
+        "enjoy",
+        "Reindeer",
+        "such"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "22-1",
+      "section": "s21",
+      "sectionTitle": "Section U · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "67"
+    },
+    {
+      "sourceId": 22,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: enjoy, such as, Reindeer",
+      "promptEn": "22. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey can also (1)__________ many special events (2)__________ the Running of the (3)__________.\n(as, enjoy, Reindeer, such)\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "as"
+        },
+        {
+          "id": "w1",
+          "text": "enjoy"
+        },
+        {
+          "id": "w2",
+          "text": "Reindeer"
+        },
+        {
+          "id": "w3",
+          "text": "such"
+        }
+      ],
+      "orderIds": [
+        "w3",
+        "w0"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "22-2",
+      "section": "s22",
+      "sectionTitle": "Section V · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "68"
+    },
+    {
+      "sourceId": 22,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: enjoy, such as, Reindeer",
+      "promptEn": "22. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nThey can also (1)__________ many special events (2)__________ the Running of the (3)__________.\n(as, enjoy, Reindeer, such)\n그들은 또한 순록 경주와 같은 많은 특별한 행사도 즐길 수 있다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "as",
+        "enjoy",
+        "Reindeer",
+        "such"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "22-3",
+      "section": "s23",
+      "sectionTitle": "Section W · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "69"
+    },
+    {
+      "sourceId": 23,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: who participate, wear, try, than",
+      "promptEn": "23. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nPeople (1)__________ in this race (2)__________ fun costumes and (3)__________ to run faster (4)__________ reindeer.\n(than, who, participate, try, wear)\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "than"
+        },
+        {
+          "id": "w1",
+          "text": "who"
+        },
+        {
+          "id": "w2",
+          "text": "participate"
+        },
+        {
+          "id": "w3",
+          "text": "try"
+        },
+        {
+          "id": "w4",
+          "text": "wear"
+        }
+      ],
+      "orderIds": [
+        "w1",
+        "w2"
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "23-1",
+      "section": "s24",
+      "sectionTitle": "Section X · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "70"
+    },
+    {
+      "sourceId": 23,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: who participate, wear, try, than",
+      "promptEn": "23. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nPeople (1)__________ in this race (2)__________ fun costumes and (3)__________ to run faster (4)__________ reindeer.\n(than, who, participate, try, wear)\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "than",
+        "who",
+        "participate",
+        "try",
+        "wear"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "23-2",
+      "section": "s25",
+      "sectionTitle": "Section Y · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "71"
+    },
+    {
+      "sourceId": 23,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: who participate, wear, try, than",
+      "promptEn": "23. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nPeople (1)__________ in this race (2)__________ fun costumes and (3)__________ to run faster (4)__________ reindeer.\n(than, who, participate, try, wear)\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "than",
+        "who",
+        "participate",
+        "try",
+        "wear"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "id": "23-3",
+      "section": "s25",
+      "sectionTitle": "Section Y · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "72"
+    },
+    {
+      "sourceId": 23,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: who participate, wear, try, than",
+      "promptEn": "23. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nPeople (1)__________ in this race (2)__________ fun costumes and (3)__________ to run faster (4)__________ reindeer.\n(than, who, participate, try, wear)\n이 경주에 참가하는 사람들은 재미있는 복장을 입고 순록보다 더 빨리 달리려고 한다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "than",
+        "who",
+        "participate",
+        "try",
+        "wear"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "4",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "id": "23-4",
+      "section": "s25",
+      "sectionTitle": "Section Y · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "73"
+    },
+    {
+      "sourceId": 24,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: possible, do so",
+      "promptEn": "24. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIs it (1)__________ to (2)__________?\n(do, possible, so)\n그렇게 하는 것이 가능할까?",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "do",
+        "possible",
+        "so"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "24-1",
+      "section": "s25",
+      "sectionTitle": "Section Y · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "74"
+    },
+    {
+      "sourceId": 24,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: possible, do so",
+      "promptEn": "24. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nIs it (1)__________ to (2)__________?\n(do, possible, so)\n그렇게 하는 것이 가능할까?",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "do"
+        },
+        {
+          "id": "w1",
+          "text": "possible"
+        },
+        {
+          "id": "w2",
+          "text": "so"
+        }
+      ],
+      "orderIds": [
+        "w0",
+        "w2"
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "24-2",
+      "section": "s26",
+      "sectionTitle": "Section Z · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "75"
+    },
+    {
+      "sourceId": 25,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: Not, doesn't",
+      "promptEn": "25. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ really, but it (2)__________ matter.\n(doesn't, not)\n사실 그렇지 않지만, 그건 중요하지 않다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "doesn't",
+        "not"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "id": "25-1",
+      "section": "s27",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "76"
+    },
+    {
+      "sourceId": 25,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: Not, doesn't",
+      "promptEn": "25. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\n(1)__________ really, but it (2)__________ matter.\n(doesn't, not)\n사실 그렇지 않지만, 그건 중요하지 않다.",
+      "type": "bank",
+      "answerMode": "bank",
+      "choices": [
+        "doesn't",
+        "not"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "id": "25-2",
+      "section": "s27",
+      "sectionTitle": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "77"
+    },
+    {
+      "sourceId": 26,
+      "group": "Fur Rondy Festival in Alaska, USA",
+      "explainKo": "정답: just having",
+      "promptEn": "26. Fur Rondy Festival in Alaska, USA\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.\nEveryone is (1)__________ fun!\n(having, just)\n모두가 그저 즐기고 있을 뿐이다!",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "having"
+        },
+        {
+          "id": "w1",
+          "text": "just"
+        }
+      ],
+      "orderIds": [
+        "w1",
+        "w0"
+      ],
+      "focusBlank": "1",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "promptKo": "",
+      "id": "26",
+      "section": "s28",
+      "sectionTitle": "Section B · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "78"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 13문항, 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 1문항, 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 1문항, 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 13
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 8
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 10
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s11",
+      "title": "Section K · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s12",
+      "title": "Section L · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s13",
+      "title": "Section M · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 4
+    },
+    {
+      "id": "s14",
+      "title": "Section N · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s15",
+      "title": "Section O · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 6
+    },
+    {
+      "id": "s16",
+      "title": "Section P · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s17",
+      "title": "Section Q · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 3
+    },
+    {
+      "id": "s18",
+      "title": "Section R · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s19",
+      "title": "Section S · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 7
+    },
+    {
+      "id": "s20",
+      "title": "Section T · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s21",
+      "title": "Section U · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s22",
+      "title": "Section V · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s23",
+      "title": "Section W · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s24",
+      "title": "Section X · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s25",
+      "title": "Section Y · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 4
+    },
+    {
+      "id": "s26",
+      "title": "Section Z · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 이 빈칸에 들어갈 보기 말을 순서대로 누르세요. 다른 빈칸 말은 누르지 않고, 쉼표로 쓰지도 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s27",
+      "title": "Section A · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s28",
+      "title": "Section B · 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "directionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 빈칸 순서대로 쓰시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
     }
   ]
 }

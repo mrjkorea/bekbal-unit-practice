@@ -7,216 +7,478 @@
     146,
     147
   ],
-  "questionCount": 13,
+  "questionCount": 14,
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "01",
-      "type": "TMC",
-      "question": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.\n그 문제를 푸는 것은 어렵다.\n→ It is difficult __________ the problem.",
-      "answers": [
+      "explainKo": "정답: ③ to solve. 「it + be동사 + 형용사 + to부정사(구)」 형태의 문장이므로 진주어 자리에는 to solve가 알맞다.",
+      "promptEn": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.\n그 문제를 푸는 것은 어렵다.\n→ It is difficult __________ the problem.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "solve",
         "solves",
         "to solve",
         "solution",
         "to solving"
       ],
-      "corAns": "3",
-      "explainKo": "정답: ③ to solve. 「it + be동사 + 형용사 + to부정사(구)」 형태의 문장이므로 진주어 자리에는 to solve가 알맞다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · [01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을…",
+      "sectionInstructionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "02",
-      "type": "TMC",
-      "question": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.\n사람들은 그를 Lucky라고 부른다.\n→ People call __________ Lucky.",
-      "answers": [
+      "explainKo": "정답: ③ him. 「call + 목적어 + 목적격보어(명사)」는 '~을 …라고 부르다'라는 의미로, 목적어는 (대)명사의 목적격으로 쓰고, 목적어와 목적격보어 전후에 전치사를 쓰지 않는다.",
+      "promptEn": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.\n사람들은 그를 Lucky라고 부른다.\n→ People call __________ Lucky.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "he",
         "his",
         "him",
         "to him",
         "him as"
       ],
-      "corAns": "3",
-      "explainKo": "정답: ③ him. 「call + 목적어 + 목적격보어(명사)」는 '~을 …라고 부르다'라는 의미로, 목적어는 (대)명사의 목적격으로 쓰고, 목적어와 목적격보어 전후에 전치사를 쓰지 않는다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · [01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을…",
+      "sectionInstructionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "03",
-      "type": "TST",
-      "question": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.\nTo swim in this lake is dangerous.\n__________ is dangerous to swim in this lake.",
-      "answers": [
-        "It",
-        "It."
+      "explainKo": "정답: It. 주어인 to부정사구가 문장 뒤로 갔으므로 빈칸에는 주어 역할을 하는 가주어 It이 알맞다. 이 호수에서 수영하는 것은 위험하다.",
+      "promptEn": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.\nTo swim in this lake is dangerous.\n__________ is dangerous to swim in this lake.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "It"
       ],
-      "explainKo": "정답: It. 주어인 to부정사구가 문장 뒤로 갔으므로 빈칸에는 주어 역할을 하는 가주어 It이 알맞다. 이 호수에서 수영하는 것은 위험하다."
+      "directionKo": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "3",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n그의 이름은 Michael인데, 우리는 그를 Mike라고 부른다. (call)\n→ His name is Michael, but we __________.",
-      "answers": [
+      "explainKo": "정답: call him Mike. 「call + 목적어 + 목적격보어(명사)」: ~을 …라고 부르다.",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n그의 이름은 Michael인데, 우리는 그를 Mike라고 부른다. (call)\n→ His name is Michael, but we __________.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "call him Mike",
-        "His name is Michael, but we call him Mike.",
+        "His name is Michael, but we call him Mike",
         "callhimMike",
-        "call  him  Mike",
-        "call him Mike.",
-        "HisnameisMichael,butwecallhimMike.",
-        "His  name  is  Michael,  but  we  call  him  Mike.",
-        "His name is Michael, but we call him Mike"
+        "HisnameisMichael,butwecallhimMike"
       ],
-      "explainKo": "정답: call him Mike. 「call + 목적어 + 목적격보어(명사)」: ~을 …라고 부르다."
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "4",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "05",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n다른 사람들을 존중하는 것은 중요하다. (respect)\n__________ important __________ others.",
-      "answers": [
-        "It is, to respect",
-        "It is to respect",
-        "It is,to respect",
-        "It is important to respect others.",
-        "Itis,torespect",
-        "It  is,  to  respect",
-        "It is, to respect.",
-        "Itistorespect",
-        "It  is  to  respect",
-        "It is to respect.",
-        "It  is,to  respect",
-        "It is,to respect.",
-        "Itisimportanttorespectothers.",
-        "It  is  important  to  respect  others.",
-        "It is important to respect others"
+      "explainKo": "정답: It is, to respect. 「it + be동사 + 형용사/명사 + to부정사(구)」 형태로 완성한다.",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n다른 사람들을 존중하는 것은 중요하다. (respect)\n__________ important __________ others.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "It is",
+        "Itis"
       ],
-      "explainKo": "정답: It is, to respect. 「it + be동사 + 형용사/명사 + to부정사(구)」 형태로 완성한다."
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "5-1",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 5,
+      "group": "05",
+      "explainKo": "정답: It is, to respect. 「it + be동사 + 형용사/명사 + to부정사(구)」 형태로 완성한다.",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n다른 사람들을 존중하는 것은 중요하다. (respect)\n__________ important __________ others.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "to respect",
+        "torespect"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": true,
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "5-2",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "6"
+    },
+    {
+      "sourceId": 6,
       "group": "06",
-      "type": "TMC",
-      "question": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.\n① It is good to exercise every day.\n② I think that it will rain tomorrow.\n③ Isn't it important to keep promises?\n④ It is fun to play soccer with friends.\n⑤ It's difficult to learn a foreign language.",
-      "answers": [
+      "explainKo": "정답: ②. ②의 it은 날씨를 나타내는 비인칭 주어이고, 나머지는 모두 가주어로 쓰인 it이다. ② 내 생각에는 내일 비가 올 것 같다.",
+      "promptEn": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "It is good to exercise every day.",
         "I think that it will rain tomorrow.",
         "Isn't it important to keep promises?",
         "It is fun to play soccer with friends.",
         "It's difficult to learn a foreign language."
       ],
-      "corAns": "2",
-      "explainKo": "정답: ②. ②의 it은 날씨를 나타내는 비인칭 주어이고, 나머지는 모두 가주어로 쓰인 it이다. ② 내 생각에는 내일 비가 올 것 같다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "07",
-      "type": "TMC",
-      "question": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.\n① It is helpful to read good books.\n② It is time to do your homework.\n③ It was interesting to watch the movie.\n④ It is exciting to travel to new places.\n⑤ It is a good habit to keep a diary every day.",
-      "answers": [
+      "explainKo": "정답: ②. ②는 to부정사가 앞의 명사를 수식하는 형용사적 용법이고, 나머지는 모두 진주어로 쓰인 명사적 용법이다. ② 너의 숙제를 해야 할 시간이다.",
+      "promptEn": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "It is helpful to read good books.",
         "It is time to do your homework.",
         "It was interesting to watch the movie.",
         "It is exciting to travel to new places.",
         "It is a good habit to keep a diary every day."
       ],
-      "corAns": "2",
-      "explainKo": "정답: ②. ②는 to부정사가 앞의 명사를 수식하는 형용사적 용법이고, 나머지는 모두 진주어로 쓰인 명사적 용법이다. ② 너의 숙제를 해야 할 시간이다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "8"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "08",
-      "type": "TMC",
-      "question": "다음 중 어법상 틀린 것은?\n① They made him captain of the team last year.\n② We elected John president of our school club.\n③ We consider Superman's a true hero in comics.\n④ They named the baby Emily after her grandmother.\n⑤ People call New York the Big Apple around the world.",
-      "answers": [
+      "explainKo": "정답: ③. Superman's → Superman. consider 뒤에 목적어와 목적격보어가 와야 하므로 소유격이 아니라 목적격이 와야 한다. 우리는 슈퍼맨을 만화 속 진정한 영웅이라고 여긴다.",
+      "promptEn": "다음 중 어법상 틀린 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "They made him captain of the team last year.",
         "We elected John president of our school club.",
         "We consider Superman's a true hero in comics.",
         "They named the baby Emily after her grandmother.",
         "People call New York the Big Apple around the world."
       ],
-      "corAns": "3",
-      "explainKo": "정답: ③. Superman's → Superman. consider 뒤에 목적어와 목적격보어가 와야 하므로 소유격이 아니라 목적격이 와야 한다. 우리는 슈퍼맨을 만화 속 진정한 영웅이라고 여긴다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "다음 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "8",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 중 어법상 틀린 것은?",
+      "sectionInstructionKo": "다음 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "09",
-      "type": "TMC",
-      "question": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ My family named the dog by Hope.\nⓑ This is kind to help old people.\nⓒ We usually call Los Angeles L.A.\nⓓ It is useful to learning computer skills.\nⓔ It is important to stay healthy.",
-      "answers": [
+      "explainKo": "정답: ③ ⓒ, ⓔ. ⓐ는 name의 목적격보어 앞 전치사 by를 쓰지 않는다. ⓑ는 진주어 to help가 있으므로 가주어 It을 써야 한다. ⓓ는 to learning을 to learn로 써야 한다. ⓒ call + 목적어 + 목적격보어, ⓔ It is + 형용사 + to부정사가 맞다.",
+      "promptEn": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\n\nⓐ My family named the dog by Hope.\nⓑ This is kind to help old people.\nⓒ We usually call Los Angeles L.A.\nⓓ It is useful to learning computer skills.\nⓔ It is important to stay healthy.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "ⓐ, ⓓ",
         "ⓑ, ⓒ",
         "ⓒ, ⓔ",
         "ⓐ, ⓑ, ⓔ",
         "ⓑ, ⓒ, ⓓ"
       ],
-      "corAns": "3",
-      "explainKo": "정답: ③ ⓒ, ⓔ. ⓐ는 name의 목적격보어 앞 전치사 by를 쓰지 않는다. ⓑ는 진주어 to help가 있으므로 가주어 It을 써야 한다. ⓓ는 to learning을 to learn로 써야 한다. ⓒ call + 목적어 + 목적격보어, ⓔ It is + 형용사 + to부정사가 맞다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "9",
+      "section": "s7",
+      "sectionTitle": "Section G · 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "10",
-      "type": "TST",
-      "question": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n그림: 야구장에서 관중들이 경기를 보며 응원하고 있다.\n조건\n1. exciting, watch를 이용하여 총 7단어로 쓸 것.\n2. It으로 문장을 시작하되 과거시제로 쓸 것.\n→ ____________________ game.",
-      "answers": [
+      "explainKo": "정답: It was exciting to watch the baseball (game). 「가주어 it + be동사 + 형용사 + to부정사」이고 과거시제이므로 was를 쓴다.",
+      "promptEn": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n그림: 야구장에서 관중들이 경기를 보며 응원하고 있다.\n조건\n1. exciting, watch를 이용하여 총 7단어로 쓸 것.\n2. It으로 문장을 시작하되 과거시제로 쓸 것.\n→ ____________________ game.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "It was exciting to watch the baseball",
-        "It was exciting to watch the baseball game.",
         "It was exciting to watch the baseball game",
         "was exciting to watch the baseball"
       ],
-      "explainKo": "정답: It was exciting to watch the baseball (game). 「가주어 it + be동사 + 형용사 + to부정사」이고 과거시제이므로 was를 쓴다."
+      "directionKo": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "10",
+      "section": "s8",
+      "sectionTitle": "Section H · 다음 그림을 보고, 조건에 맞게 문장을 완성하시오.",
+      "sectionInstructionKo": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "11"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "11",
-      "type": "TST",
-      "question": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nPeople call she is an angel without wings.",
-      "answers": [
-        "she is → her",
-        "she is her",
-        "she is→her",
-        "People call her an angel without wings.",
-        "sheisher",
-        "she  is  her",
-        "she is her.",
-        "Peoplecallheranangelwithoutwings.",
-        "People  call  her  an  angel  without  wings.",
-        "People call her an angel without wings"
+      "explainKo": "정답: she is → her. 「call + 목적어 + 목적격보어」 형태의 5형식 문장이 되어야 하므로 she is를 her로 바꾸어야 한다. 사람들은 그녀를 날개 없는 천사라고 부른다.",
+      "promptEn": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nPeople call she is an angel without wings.",
+      "type": "parts",
+      "answerMode": "parts",
+      "directionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptKo": "",
+      "parts": [
+        {
+          "kind": "words",
+          "label": "틀린 말",
+          "placeholder": "틀린 말만",
+          "accept": [
+            "she is"
+          ]
+        },
+        {
+          "kind": "words",
+          "label": "고친 말",
+          "placeholder": "고친 말만",
+          "accept": [
+            "her"
+          ]
+        }
       ],
-      "explainKo": "정답: she is → her. 「call + 목적어 + 목적격보어」 형태의 5형식 문장이 되어야 하므로 she is를 her로 바꾸어야 한다. 사람들은 그녀를 날개 없는 천사라고 부른다."
+      "id": "11",
+      "section": "s9",
+      "sectionTitle": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+      "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 틀린 말 / 고친 말",
+      "label": "12"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "12",
-      "type": "TST",
-      "question": "다음 우리말을 바르게 영작한 것을 모두 고르시오.\n새로운 문화를 배우는 것은 흥미롭다.\n① It is interesting learn new cultures.\n② To learn new cultures is interesting.\n③ It is interesting to learn new cultures.\n④ To learn new cultures are interesting.\n⑤ This is interesting to learn new cultures.",
-      "answers": [
-        "2, 3",
-        "2,3",
-        "2 3",
-        "3, 2",
-        "3,2",
-        "3 2",
-        "②, ③",
-        "②,③",
-        "② ③",
-        "③, ②",
-        "③,②",
-        "③ ②"
+      "explainKo": "정답: ②, ③. 가주어 it을 사용한 문장과 to부정사구를 주어로 한 문장 두 가지 형태가 가능하다. 단, to부정사구가 주어로 쓰이면 단수 취급하므로 단수동사로 써야 한다.",
+      "promptEn": "다음 우리말을 바르게 영작한 것을 모두 고르시오.\n새로운 문화를 배우는 것은 흥미롭다.",
+      "type": "mc",
+      "answerMode": "multi",
+      "select": "multi",
+      "choices": [
+        "It is interesting learn new cultures.",
+        "To learn new cultures is interesting.",
+        "It is interesting to learn new cultures.",
+        "To learn new cultures are interesting.",
+        "This is interesting to learn new cultures."
       ],
-      "explainKo": "정답: ②, ③. 가주어 it을 사용한 문장과 to부정사구를 주어로 한 문장 두 가지 형태가 가능하다. 단, to부정사구가 주어로 쓰이면 단수 취급하므로 단수동사로 써야 한다."
+      "correctIndexes": [
+        2,
+        3
+      ],
+      "directionKo": "다음 우리말을 바르게 영작한 것을 모두 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "id": "12",
+      "section": "s10",
+      "sectionTitle": "Section J · 다음 우리말을 바르게 영작한 것을 모두 고르시오.",
+      "sectionInstructionKo": "다음 우리말을 바르게 영작한 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 모두 고르기",
+      "label": "13"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "13",
-      "type": "TST",
-      "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n[조건]\n1. it, dream, travel, around the world를 이용할 것.\n2. 총 9단어로 쓸 것.\n3. 대소문자와 구두점에 유의할 것.\n전 세계를 여행하는 것이 나의 꿈이었다.",
-      "answers": [
-        "It was my dream to travel around the world.",
-        "Itwasmydreamtotravelaroundtheworld.",
-        "It  was  my  dream  to  travel  around  the  world.",
-        "It was my dream to travel around the world"
+      "explainKo": "정답: It was my dream to travel around the world. 「가주어 it + be동사 + 명사 + to부정사(구)」 형태로 문장을 완성하고, 과거 시제이므로 동사는 was를 쓴다.",
+      "promptEn": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n[조건]\n1. it, dream, travel, around the world를 이용할 것.\n2. 총 9단어로 쓸 것.\n3. 대소문자와 구두점에 유의할 것.\n전 세계를 여행하는 것이 나의 꿈이었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "It was my dream to travel around the world",
+        "Itwasmydreamtotravelaroundtheworld"
       ],
-      "explainKo": "정답: It was my dream to travel around the world. 「가주어 it + be동사 + 명사 + to부정사(구)」 형태로 문장을 완성하고, 과거 시제이므로 동사는 was를 쓴다."
+      "directionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "13",
+      "section": "s11",
+      "sectionTitle": "Section K · 다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "14"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 [01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을… 2문항, 다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오. 1문항, 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 1문항, 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 2문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · [01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을…",
+      "directionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[01-02] 다음 우리말에 맞도록 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "directionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 다음 중 어법상 틀린 것은?",
+      "directionKo": "다음 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "directionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 다음 그림을 보고, 조건에 맞게 문장을 완성하시오.",
+      "directionKo": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+      "directionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+      "ruleKo": "틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 틀린 말만, 그리고 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 틀린 말 / 고친 말",
+      "itemCount": 1
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 다음 우리말을 바르게 영작한 것을 모두 고르시오.",
+      "directionKo": "다음 우리말을 바르게 영작한 것을 모두 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 우리말을 바르게 영작한 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s11",
+      "title": "Section K · 다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "directionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "다음 조건에 맞게 우리말을 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
     }
   ]
 }

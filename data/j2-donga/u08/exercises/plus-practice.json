@@ -11,103 +11,278 @@
   "omitted": [],
   "questions": [
     {
+      "sourceId": 1,
       "group": "01-03",
-      "type": "TMC",
-      "question": "[01] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
-      "answers": [
+      "explainKo": "get out of the machine. put somebody in danger.",
+      "promptEn": "[01] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "from / at",
         "away / in",
         "away / at",
         "out of / in",
         "out of / for"
       ],
-      "corAns": "4",
-      "explainKo": "get out of the machine. put somebody in danger.",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "group": "01-03",
-      "type": "TST",
-      "question": "[02] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글을 읽고, 질문에 대한 답을 완성하시오.\n\nQ. What rule did Travis give before starting the trip?\n→ Do not ______",
-      "answers": [
-        "leave the path",
-        "leave the path."
+      "correctIndexes": [
+        4
       ],
-      "explainKo": "Travis는 여행자들에게 길을 벗어나지 말라고 말했다. 질문: Travis는 여행을 시작하기 전에 어떤 규칙을 전달했는가?"
+      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1"
     },
     {
-      "id": 3,
+      "sourceId": 2,
       "group": "01-03",
-      "type": "TMC",
-      "question": "[03] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\nWhat can we learn from the passage?",
-      "answers": [
+      "explainKo": "Travis는 여행자들에게 길을 벗어나지 말라고 말했다. 질문: Travis는 여행을 시작하기 전에 어떤 규칙을 전달했는가?",
+      "promptEn": "[02] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글을 읽고, 질문에 대한 답을 완성하시오.\n\nQ. What rule did Travis give before starting the trip?\n→ Do not ______",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "leave the path"
+      ],
+      "directionKo": "윗글을 읽고, 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "2",
+      "section": "s2",
+      "sectionTitle": "Section B · 윗글을 읽고, 질문에 대한 답을 완성하시오.",
+      "sectionInstructionKo": "윗글을 읽고, 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "2"
+    },
+    {
+      "sourceId": 3,
+      "group": "01-03",
+      "explainKo": "타임머신을 타고 과거로 여행을 갔던 Eckels가 저지른 사소한 실수 때문에 세상이 달라졌다는 내용의 글로, ③ '작은 행동도 미래를 바꿀 수 있다.'는 것을 보여주는 글이다. ① 시간 여행은 흥미롭지 않다. ② 공룡은 매우 위험한 동물이었다. ④ 여행 중에 무리를 떠나면 안 된다. ⑤ 더 나은 미래를 위해 현재를 보호해야 한다.",
+      "promptEn": "[03] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\n\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\n\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\n\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\n\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\n\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\nWhat can we learn from the passage?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "Time travel is not interesting.",
         "Dinosaurs were very dangerous animals.",
         "Even small actions can change the future.",
         "You should not leave the group during a trip.",
         "We should protect the present for a better future."
       ],
-      "corAns": "3",
-      "explainKo": "타임머신을 타고 과거로 여행을 갔던 Eckels가 저지른 사소한 실수 때문에 세상이 달라졌다는 내용의 글로, ③ '작은 행동도 미래를 바꿀 수 있다.'는 것을 보여주는 글이다. ① 시간 여행은 흥미롭지 않다. ② 공룡은 매우 위험한 동물이었다. ④ 여행 중에 무리를 떠나면 안 된다. ⑤ 더 나은 미래를 위해 현재를 보호해야 한다."
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "[03] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "3",
+      "section": "s3",
+      "sectionTitle": "Section C · [03] 다음 글을 읽고, 물음에 답하시오.",
+      "sectionInstructionKo": "[03] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "04",
-      "type": "TMC",
-      "question": "[04] 다음 글을 읽고, 물음에 답하시오.\n\nDear Future Me,\n\nHi. How are you? I'm now in the second grade in middle school. You've always wanted to be a pilot. I hope your dream has come true. Hope you're happy.\n\nWith love,\nMina\n\nWhat type is the passage?",
-      "answers": [
+      "explainKo": "Dear(~에게)라는 인사말로 시작하여 With love(사랑을 담아)라는 맺음말로 마무리하고 있으므로 글의 종류는 ② 편지이다. ① 일기 ③ 소설 ④ 시 ⑤ 기사",
+      "promptEn": "[04] 다음 글을 읽고, 물음에 답하시오.\n\nDear Future Me,\n\nHi. How are you? I'm now in the second grade in middle school. You've always wanted to be a pilot. I hope your dream has come true. Hope you're happy.\n\nWith love,\nMina\n\nWhat type is the passage?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "diary",
         "letter",
         "novel",
         "poem",
         "article"
       ],
-      "corAns": "2",
-      "explainKo": "Dear(~에게)라는 인사말로 시작하여 With love(사랑을 담아)라는 맺음말로 마무리하고 있으므로 글의 종류는 ② 편지이다. ① 일기 ③ 소설 ④ 시 ⑤ 기사"
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "[04] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s4",
+      "sectionTitle": "Section D · [04] 다음 글을 읽고, 물음에 답하시오.",
+      "sectionInstructionKo": "[04] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4"
     },
     {
+      "sourceId": 5,
       "group": "05-07",
-      "type": "TMC",
-      "question": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\"The world ②has changed because of me!\" he said to ③himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ④당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\nEckels went outside and saw ⑤unthinkable something.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
-      "answers": [
+      "explainKo": "-thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 something unthinkable이 되어야 한다.",
+      "promptEn": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\nEckels went outside and saw ⑤unthinkable something.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "① was shocked",
         "② has changed",
         "③ himself",
         "④ 당신이 할 수 있는 일은 아무것도 없어요.",
         "⑤ unthinkable something"
       ],
-      "corAns": "5",
-      "explainKo": "-thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 something unthinkable이 되어야 한다.",
-      "id": 5
-    },
-    {
-      "id": 6,
-      "group": "05-07",
-      "type": "TST",
-      "question": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\n윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(can / nothing / do / you / there's)",
-      "answers": [
-        "there's nothing you can do",
-        "There's nothing you can do",
-        "There's nothing you can do.",
-        "there's nothing you can do."
+      "correctIndexes": [
+        5
       ],
-      "explainKo": "관계대명사절 you can do가 선행사 nothing을 수식하는 구조이며, 목적격 관계대명사가 생략된 문장이다."
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "5",
+      "section": "s5",
+      "sectionTitle": "Section E · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "5"
     },
     {
-      "id": 7,
+      "sourceId": 6,
       "group": "05-07",
-      "type": "TMC",
-      "question": "[07] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\nAccording to the passage, which one is true?",
-      "answers": [
+      "explainKo": "관계대명사절 you can do가 선행사 nothing을 수식하는 구조이며, 목적격 관계대명사가 생략된 문장이다.",
+      "promptEn": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\n윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(can / nothing / do / you / there's)",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "can"
+        },
+        {
+          "id": "c1",
+          "text": "nothing"
+        },
+        {
+          "id": "c2",
+          "text": "do"
+        },
+        {
+          "id": "c3",
+          "text": "you"
+        },
+        {
+          "id": "c4",
+          "text": "there's"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c1",
+        "c3",
+        "c0",
+        "c2"
+      ],
+      "directionKo": "윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "6",
+      "section": "s6",
+      "sectionTitle": "Section F · 윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게…",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "6"
+    },
+    {
+      "sourceId": 7,
+      "group": "05-07",
+      "explainKo": "Eckels는 Travis에게 자신이 무엇을 할 수 있을지 물어보러 갔다고 했으므로 ③은 내용과 일치한다. ① 세상은 전혀 변하지 않았다. (→ 변했음) ② Eckels는 변화에 대해 기뻐했다. (→ 충격을 받음) ④ Travis는 모든 것이 정상으로 돌아왔다고 말했다. (→ 할 수 있는 일이 없다고 말했음) ⑤ Eckels는 밖에서 이상한 것을 보지 못했다. (→ 상상할 수 없는 것을 보았음)",
+      "promptEn": "[07] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\n\"The world has changed because of me!\" he said to himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ⓐ당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\n\nEckels went outside and saw ⑤unthinkable something.\n\nAccording to the passage, which one is true?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "The world hasn't changed at all.",
         "Eckels felt happy for the changes.",
         "Eckels went to see Travis for advice.",
         "Travis said everything returned to normal.",
         "Eckels saw nothing strange outside."
       ],
-      "corAns": "3",
-      "explainKo": "Eckels는 Travis에게 자신이 무엇을 할 수 있을지 물어보러 갔다고 했으므로 ③은 내용과 일치한다. ① 세상은 전혀 변하지 않았다. (→ 변했음) ② Eckels는 변화에 대해 기뻐했다. (→ 충격을 받음) ④ Travis는 모든 것이 정상으로 돌아왔다고 말했다. (→ 할 수 있는 일이 없다고 말했음) ⑤ Eckels는 밖에서 이상한 것을 보지 못했다. (→ 상상할 수 없는 것을 보았음)"
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "[07] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s7",
+      "sectionTitle": "Section G · [07] 다음 글을 읽고, 물음에 답하시오.",
+      "sectionInstructionKo": "[07] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 1문항, 윗글을 읽고, 질문에 대한 답을 완성하시오. 1문항, [03] 다음 글을 읽고, 물음에 답하시오. 1문항, [04] 다음 글을 읽고, 물음에 답하시오. 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 윗글을 읽고, 질문에 대한 답을 완성하시오.",
+      "directionKo": "윗글을 읽고, 질문에 대한 답을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글을 읽고, 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · [03] 다음 글을 읽고, 물음에 답하시오.",
+      "directionKo": "[03] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[03] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · [04] 다음 글을 읽고, 물음에 답하시오.",
+      "directionKo": "[04] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[04] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "directionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게…",
+      "directionKo": "윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · [07] 다음 글을 읽고, 물음에 답하시오.",
+      "directionKo": "[07] 다음 글을 읽고, 물음에 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "[07] 다음 글을 읽고, 물음에 답하시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
     }
   ]
 }

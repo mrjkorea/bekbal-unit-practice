@@ -4,401 +4,1025 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "pp.190-191",
-  "questionCount": 30,
+  "questionCount": 36,
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "1-A-01",
-      "type": "TST",
-      "question": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nThey ______ to another country. (move)",
-      "answers": [
+      "explainKo": "정답: have moved. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nThey ______ to another country. (move)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "have moved",
-        "havemoved",
-        "have  moved"
+        "havemoved"
       ],
-      "explainKo": "정답: have moved. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다."
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "1-A-02",
-      "type": "TST",
-      "question": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\n______ you ever ______ a science museum? (visit)",
-      "answers": [
-        "Have, visited",
-        "Have,visited",
-        "Have,  visited",
-        "Have visited",
-        "Havevisited",
-        "Have  visited"
+      "explainKo": "정답: Have, visited. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\n______ you ever ______ a science museum? (visit)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Have"
       ],
-      "explainKo": "정답: Have, visited. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "2-1",
+      "section": "s2",
+      "sectionTitle": "Section B · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 2,
+      "group": "1-A-02",
+      "explainKo": "정답: Have, visited. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\n______ you ever ______ a science museum? (visit)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "visited"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "2-2",
+      "section": "s2",
+      "sectionTitle": "Section B · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3"
+    },
+    {
+      "sourceId": 3,
       "group": "1-A-03",
-      "type": "TST",
-      "question": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nWe ______ never ______ bungee jumping before. (try)",
-      "answers": [
-        "have, tried",
-        "have,tried",
-        "have,  tried",
-        "have tried",
-        "havetried",
-        "have  tried"
+      "explainKo": "정답: have, tried. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nWe ______ never ______ bungee jumping before. (try)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "have"
       ],
-      "explainKo": "정답: have, tried. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "3-1",
+      "section": "s2",
+      "sectionTitle": "Section B · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "4"
     },
     {
-      "id": 4,
+      "sourceId": 3,
+      "group": "1-A-03",
+      "explainKo": "정답: have, tried. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nWe ______ never ______ bungee jumping before. (try)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "tried"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "3-2",
+      "section": "s2",
+      "sectionTitle": "Section B · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5"
+    },
+    {
+      "sourceId": 4,
       "group": "1-A-04",
-      "type": "TST",
-      "question": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nKate ______ me since last Saturday. (not / call)",
-      "answers": [
+      "explainKo": "정답: hasn't called. 현재완료의 부정문은 「have[has] + not[never] + 과거분사」 형태로 쓰며, have not은 haven't, has not은 hasn't로 줄여 쓸 수 있다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nKate ______ me since last Saturday. (not / call)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "hasn't called",
-        "hasn'tcalled",
-        "hasn't  called"
+        "hasn'tcalled"
       ],
-      "explainKo": "정답: hasn't called. 현재완료의 부정문은 「have[has] + not[never] + 과거분사」 형태로 쓰며, have not은 haven't, has not은 hasn't로 줄여 쓸 수 있다."
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "4",
+      "section": "s3",
+      "sectionTitle": "Section C · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "6"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "1-A-05",
-      "type": "TST",
-      "question": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nThe movie ______ already ______ when we arrived. (begin)",
-      "answers": [
-        "has, begun",
-        "has,begun",
-        "has,  begun",
-        "has begun",
-        "hasbegun",
-        "has  begun"
+      "explainKo": "정답: has, begun. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nThe movie ______ already ______ when we arrived. (begin)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "has"
       ],
-      "explainKo": "정답: has, begun. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "5-1",
+      "section": "s4",
+      "sectionTitle": "Section D · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7"
     },
     {
-      "id": 6,
+      "sourceId": 5,
+      "group": "1-A-05",
+      "explainKo": "정답: has, begun. 「have[has] + 과거분사」 형태의 현재완료는 과거의 어느 시점에서 시작된 동작이나 상태 등이 현재에도 계속되거나 영향을 미치고 있음을 나타낸다.",
+      "promptEn": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.\nThe movie ______ already ______ when we arrived. (begin)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "begun"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "5-2",
+      "section": "s4",
+      "sectionTitle": "Section D · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "sectionInstructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "8"
+    },
+    {
+      "sourceId": 6,
       "group": "1-B-01",
-      "type": "TST",
-      "question": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n그들은 아직 문을 잠그지 않았다.\nThey ______ the door yet.",
-      "answers": [
+      "explainKo": "정답: haven't locked. 현재완료 부정문: 「have[has] + not[never] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n그들은 아직 문을 잠그지 않았다.\nThey ______ the door yet.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "haven't locked",
-        "haven'tlocked",
-        "haven't  locked"
+        "haven'tlocked"
       ],
-      "explainKo": "정답: haven't locked. 현재완료 부정문: 「have[has] + not[never] + 과거분사」."
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "6",
+      "section": "s5",
+      "sectionTitle": "Section E · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "9"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "1-B-02",
-      "type": "TST",
-      "question": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\nLucas는 학교에 늦은 적이 한 번도 없다.\nLucas ______ never ______ late for school.",
-      "answers": [
-        "has, been",
-        "has,been",
-        "has,  been",
-        "has been",
-        "hasbeen",
-        "has  been"
+      "explainKo": "정답: has, been. 현재완료 부정문: 「have[has] + not[never] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\nLucas는 학교에 늦은 적이 한 번도 없다.\nLucas ______ never ______ late for school.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "has"
       ],
-      "explainKo": "정답: has, been. 현재완료 부정문: 「have[has] + not[never] + 과거분사」."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "7-1",
+      "section": "s6",
+      "sectionTitle": "Section F · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "10"
     },
     {
-      "id": 8,
+      "sourceId": 7,
+      "group": "1-B-02",
+      "explainKo": "정답: has, been. 현재완료 부정문: 「have[has] + not[never] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\nLucas는 학교에 늦은 적이 한 번도 없다.\nLucas ______ never ______ late for school.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "been"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "7-2",
+      "section": "s6",
+      "sectionTitle": "Section F · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "11"
+    },
+    {
+      "sourceId": 8,
       "group": "1-B-03",
-      "type": "TST",
-      "question": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n우리는 5년 동안 한국어를 공부해 왔다.\nWe ______ Korean for five years.",
-      "answers": [
+      "explainKo": "정답: have studied. 현재완료 평서문: 「have[has] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n우리는 5년 동안 한국어를 공부해 왔다.\nWe ______ Korean for five years.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "have studied",
-        "havestudied",
-        "have  studied"
+        "havestudied"
       ],
-      "explainKo": "정답: have studied. 현재완료 평서문: 「have[has] + 과거분사」."
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "8",
+      "section": "s7",
+      "sectionTitle": "Section G · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "12"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "1-B-04",
-      "type": "TST",
-      "question": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n비행기가 우리 없이 공항을 떠났나요?\n______ the flight ______ the airport without us?",
-      "answers": [
-        "Has, left",
-        "Has,left",
-        "Has,  left",
-        "Has left",
-        "Hasleft",
-        "Has  left"
+      "explainKo": "정답: Has, left. 현재완료 의문문: 「Have[Has] + 주어 + 과거분사~?」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n비행기가 우리 없이 공항을 떠났나요?\n______ the flight ______ the airport without us?",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "Has"
       ],
-      "explainKo": "정답: Has, left. 현재완료 의문문: 「Have[Has] + 주어 + 과거분사~?」."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "9-1",
+      "section": "s8",
+      "sectionTitle": "Section H · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13"
     },
     {
-      "id": 10,
+      "sourceId": 9,
+      "group": "1-B-04",
+      "explainKo": "정답: Has, left. 현재완료 의문문: 「Have[Has] + 주어 + 과거분사~?」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n비행기가 우리 없이 공항을 떠났나요?\n______ the flight ______ the airport without us?",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "left"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "9-2",
+      "section": "s8",
+      "sectionTitle": "Section H · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "14"
+    },
+    {
+      "sourceId": 10,
       "group": "1-B-05",
-      "type": "TST",
-      "question": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 최근에 내 이메일 비밀번호를 바꾸었다.\nI ______ recently ______ my email password.",
-      "answers": [
-        "have, changed",
-        "have,changed",
-        "have,  changed",
-        "have changed",
-        "havechanged",
-        "have  changed"
+      "explainKo": "정답: have, changed. 현재완료 평서문: 「have[has] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 최근에 내 이메일 비밀번호를 바꾸었다.\nI ______ recently ______ my email password.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "have"
       ],
-      "explainKo": "정답: have, changed. 현재완료 평서문: 「have[has] + 과거분사」."
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "id": "10-1",
+      "section": "s8",
+      "sectionTitle": "Section H · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "15"
     },
     {
-      "id": 11,
+      "sourceId": 10,
+      "group": "1-B-05",
+      "explainKo": "정답: have, changed. 현재완료 평서문: 「have[has] + 과거분사」.",
+      "promptEn": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 최근에 내 이메일 비밀번호를 바꾸었다.\nI ______ recently ______ my email password.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
+        "changed"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "id": "10-2",
+      "section": "s8",
+      "sectionTitle": "Section H · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "16"
+    },
+    {
+      "sourceId": 11,
       "group": "1-C-01",
-      "type": "TST",
-      "question": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nI saw the movie. It was my third time.\n→ I ______ the movie three times.",
-      "answers": [
+      "explainKo": "정답: have seen. 나는 그 영화를 봤다. 그것은 세 번째였다. → 나는 그 영화를 세 번 봤다. (경험)",
+      "promptEn": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nI saw the movie. It was my third time.\n→ I ______ the movie three times.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "have seen",
-        "haveseen",
-        "have  seen"
+        "haveseen"
       ],
-      "explainKo": "정답: have seen. 나는 그 영화를 봤다. 그것은 세 번째였다. → 나는 그 영화를 세 번 봤다. (경험)"
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "11",
+      "section": "s9",
+      "sectionTitle": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "sectionInstructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "1-C-02",
-      "type": "TST",
-      "question": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nIt was cloudy this morning. It is still cloudy now.\n→ It ______ cloudy since this morning.",
-      "answers": [
+      "explainKo": "정답: has been. 오늘 아침에 날씨가 흐렸다. 지금도 여전히 흐리다. → 오늘 아침부터 날씨가 흐렸다. (계속)",
+      "promptEn": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nIt was cloudy this morning. It is still cloudy now.\n→ It ______ cloudy since this morning.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "has been",
-        "hasbeen",
-        "has  been"
+        "hasbeen"
       ],
-      "explainKo": "정답: has been. 오늘 아침에 날씨가 흐렸다. 지금도 여전히 흐리다. → 오늘 아침부터 날씨가 흐렸다. (계속)"
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "12",
+      "section": "s9",
+      "sectionTitle": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "sectionInstructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "18"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "1-C-03",
-      "type": "TST",
-      "question": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nEmma lost her new pencil case. She still can't find it.\n→ Emma ______ her new pencil case.",
-      "answers": [
+      "explainKo": "정답: has lost. Emma는 자신의 새 필통을 잃어버렸다. 그녀는 여전히 그것을 찾을 수 없다. → Emma는 그녀의 새 필통을 잃어버렸다. (결과)",
+      "promptEn": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nEmma lost her new pencil case. She still can't find it.\n→ Emma ______ her new pencil case.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "has lost",
-        "haslost",
-        "has  lost"
+        "haslost"
       ],
-      "explainKo": "정답: has lost. Emma는 자신의 새 필통을 잃어버렸다. 그녀는 여전히 그것을 찾을 수 없다. → Emma는 그녀의 새 필통을 잃어버렸다. (결과)"
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "13",
+      "section": "s9",
+      "sectionTitle": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "sectionInstructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "19"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "1-C-04",
-      "type": "TST",
-      "question": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nMr. Kent started to teach English years ago. He still teaches it.\n→ Mr. Kent ______ English for years.",
-      "answers": [
+      "explainKo": "정답: has taught. Kent 선생님은 여러 해 전에 영어를 가르치기 시작했다. 그는 여전히 그것을 가르친다. → Kent 선생님은 여러 해 동안 영어를 가르쳐 왔다. (계속)",
+      "promptEn": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nMr. Kent started to teach English years ago. He still teaches it.\n→ Mr. Kent ______ English for years.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "has taught",
-        "hastaught",
-        "has  taught"
+        "hastaught"
       ],
-      "explainKo": "정답: has taught. Kent 선생님은 여러 해 전에 영어를 가르치기 시작했다. 그는 여전히 그것을 가르친다. → Kent 선생님은 여러 해 동안 영어를 가르쳐 왔다. (계속)"
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "14",
+      "section": "s9",
+      "sectionTitle": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "sectionInstructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "20"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "1-C-05",
-      "type": "TST",
-      "question": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nSomeone broke the computer in the library. It isn't working now.\n→ Someone ______ the computer in the library.",
-      "answers": [
+      "explainKo": "정답: has broken. 누군가 도서관의 컴퓨터를 고장 냈다. 그것은 지금 작동하지 않고 있다. → 누군가 도서관의 컴퓨터를 고장 냈다. (결과)",
+      "promptEn": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.\nSomeone broke the computer in the library. It isn't working now.\n→ Someone ______ the computer in the library.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "has broken",
-        "hasbroken",
-        "has  broken"
+        "hasbroken"
       ],
-      "explainKo": "정답: has broken. 누군가 도서관의 컴퓨터를 고장 냈다. 그것은 지금 작동하지 않고 있다. → 누군가 도서관의 컴퓨터를 고장 냈다. (결과)"
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "15",
+      "section": "s9",
+      "sectionTitle": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "sectionInstructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "2-A-01",
-      "type": "TMC",
-      "question": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nIs there [sweet anything / anything sweet] on the table?",
-      "answers": [
+      "explainKo": "정답: anything sweet. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nIs there [sweet anything / anything sweet] on the table?",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "sweet anything",
         "anything sweet"
       ],
-      "corAns": "2",
-      "explainKo": "정답: anything sweet. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "16",
+      "section": "s10",
+      "sectionTitle": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "sectionInstructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "22"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "2-A-02",
-      "type": "TMC",
-      "question": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nThe police couldn't find [honest anyone / anyone honest].",
-      "answers": [
+      "explainKo": "정답: anyone honest. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nThe police couldn't find [honest anyone / anyone honest].",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "honest anyone",
         "anyone honest"
       ],
-      "corAns": "2",
-      "explainKo": "정답: anyone honest. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "17",
+      "section": "s10",
+      "sectionTitle": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "sectionInstructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "23"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "2-A-03",
-      "type": "TMC",
-      "question": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\n[Exciting nothing / Nothing exciting] happened during the trip.",
-      "answers": [
+      "explainKo": "정답: Nothing exciting. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\n[Exciting nothing / Nothing exciting] happened during the trip.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "Exciting nothing",
         "Nothing exciting"
       ],
-      "corAns": "2",
-      "explainKo": "정답: Nothing exciting. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "18",
+      "section": "s10",
+      "sectionTitle": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "sectionInstructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "24"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "2-A-04",
-      "type": "TMC",
-      "question": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\n[Strange somebody / Somebody strange] visited the shop today.",
-      "answers": [
+      "explainKo": "정답: Somebody strange. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\n[Strange somebody / Somebody strange] visited the shop today.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "Strange somebody",
         "Somebody strange"
       ],
-      "corAns": "2",
-      "explainKo": "정답: Somebody strange. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "19",
+      "section": "s10",
+      "sectionTitle": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "sectionInstructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "25"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "2-A-05",
-      "type": "TMC",
-      "question": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nI read [amazing something / something amazing] in the newspaper.",
-      "answers": [
+      "explainKo": "정답: something amazing. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.\nI read [amazing something / something amazing] in the newspaper.",
+      "type": "mc",
+      "answerMode": "choice",
+      "select": "one",
+      "choices": [
         "amazing something",
         "something amazing"
       ],
-      "corAns": "2",
-      "explainKo": "정답: something amazing. 일반적으로 명사는 형용사가 앞에서 수식하지만, -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "20",
+      "section": "s10",
+      "sectionTitle": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "sectionInstructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "26"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "2-B-01",
-      "type": "TST",
-      "question": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nI saw brave someone enter the fire.",
-      "answers": [
-        "I saw someone brave enter the fire.",
-        "Isawsomeonebraveenterthefire.",
-        "I  saw  someone  brave  enter  the  fire.",
+      "explainKo": "정답: I saw someone brave enter the fire. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nI saw brave someone enter the fire.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "I saw someone brave enter the fire",
-        "Isawsomeonebraveenterthefire",
-        "I  saw  someone  brave  enter  the  fire"
+        "Isawsomeonebraveenterthefire"
       ],
-      "explainKo": "정답: I saw someone brave enter the fire. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "21",
+      "section": "s11",
+      "sectionTitle": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "sectionInstructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "27"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "2-B-02",
-      "type": "TST",
-      "question": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThe guide showed us interesting everything.",
-      "answers": [
-        "The guide showed us everything interesting.",
-        "Theguideshoweduseverythinginteresting.",
-        "The  guide  showed  us  everything  interesting.",
+      "explainKo": "정답: The guide showed us everything interesting. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThe guide showed us interesting everything.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "The guide showed us everything interesting",
-        "Theguideshoweduseverythinginteresting",
-        "The  guide  showed  us  everything  interesting"
+        "Theguideshoweduseverythinginteresting"
       ],
-      "explainKo": "정답: The guide showed us everything interesting. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "22",
+      "section": "s11",
+      "sectionTitle": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "sectionInstructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "28"
     },
     {
-      "id": 23,
+      "sourceId": 23,
       "group": "2-B-03",
-      "type": "TST",
-      "question": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThey picked expensive something for the gift.",
-      "answers": [
-        "They picked something expensive for the gift.",
-        "Theypickedsomethingexpensiveforthegift.",
-        "They  picked  something  expensive  for  the  gift.",
+      "explainKo": "정답: They picked something expensive for the gift. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThey picked expensive something for the gift.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "They picked something expensive for the gift",
-        "Theypickedsomethingexpensiveforthegift",
-        "They  picked  something  expensive  for  the  gift"
+        "Theypickedsomethingexpensiveforthegift"
       ],
-      "explainKo": "정답: They picked something expensive for the gift. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "23",
+      "section": "s11",
+      "sectionTitle": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "sectionInstructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "29"
     },
     {
-      "id": 24,
+      "sourceId": 24,
       "group": "2-B-04",
-      "type": "TST",
-      "question": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThe scientist didn't test dangerous anything yesterday.",
-      "answers": [
-        "The scientist didn't test anything dangerous yesterday.",
-        "Thescientistdidn'ttestanythingdangerousyesterday.",
-        "The  scientist  didn't  test  anything  dangerous  yesterday.",
+      "explainKo": "정답: The scientist didn't test anything dangerous yesterday. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nThe scientist didn't test dangerous anything yesterday.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "The scientist didn't test anything dangerous yesterday",
-        "Thescientistdidn'ttestanythingdangerousyesterday",
-        "The  scientist  didn't  test  anything  dangerous  yesterday"
+        "Thescientistdidn'ttestanythingdangerousyesterday"
       ],
-      "explainKo": "정답: The scientist didn't test anything dangerous yesterday. -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "24",
+      "section": "s11",
+      "sectionTitle": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "sectionInstructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "30"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "2-B-05",
-      "type": "TST",
-      "question": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nIs there smart anybody who understands this problem?",
-      "answers": [
+      "explainKo": "정답: Is there anybody smart who understands this problem? -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다.",
+      "promptEn": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nIs there smart anybody who understands this problem?",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "Is there anybody smart who understands this problem?",
-        "Isthereanybodysmartwhounderstandsthisproblem?",
-        "Is  there  anybody  smart  who  understands  this  problem?",
-        "Is there anybody smart who understands this problem",
-        "Isthereanybodysmartwhounderstandsthisproblem",
-        "Is  there  anybody  smart  who  understands  this  problem"
+        "Isthereanybodysmartwhounderstandsthisproblem?"
       ],
-      "explainKo": "정답: Is there anybody smart who understands this problem? -thing, -one, -body로 끝나는 부정대명사는 형용사가 뒤에서 수식한다."
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "25",
+      "section": "s11",
+      "sectionTitle": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "sectionInstructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "31"
     },
     {
-      "id": 26,
+      "sourceId": 26,
       "group": "2-C-01",
-      "type": "TST",
-      "question": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(special / dinner / anything / for)\nI didn't prepare ______.",
-      "answers": [
-        "anything special for dinner",
-        "anythingspecialfordinner",
-        "anything  special  for  dinner"
+      "explainKo": "정답: anything special for dinner. -thing, -one, -body + 형용사의 어순으로 배열한다.",
+      "promptEn": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(special / dinner / anything / for)\nI didn't prepare ______.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "special"
+        },
+        {
+          "id": "c1",
+          "text": "dinner"
+        },
+        {
+          "id": "c2",
+          "text": "anything"
+        },
+        {
+          "id": "c3",
+          "text": "for"
+        }
       ],
-      "explainKo": "정답: anything special for dinner. -thing, -one, -body + 형용사의 어순으로 배열한다."
+      "orderIds": [
+        "c2",
+        "c0",
+        "c3",
+        "c1"
+      ],
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "26",
+      "section": "s12",
+      "sectionTitle": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "sectionInstructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "32"
     },
     {
-      "id": 27,
+      "sourceId": 27,
       "group": "2-C-02",
-      "type": "TST",
-      "question": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(team / our / for / tall / someone / basketball)\nWe need ______.",
-      "answers": [
-        "someone tall for our basketball team",
-        "someonetallforourbasketballteam",
-        "someone  tall  for  our  basketball  team"
+      "explainKo": "정답: someone tall for our basketball team. -thing, -one, -body + 형용사의 어순으로 배열한다.",
+      "promptEn": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(team / our / for / tall / someone / basketball)\nWe need ______.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "team"
+        },
+        {
+          "id": "c1",
+          "text": "our"
+        },
+        {
+          "id": "c2",
+          "text": "for"
+        },
+        {
+          "id": "c3",
+          "text": "tall"
+        },
+        {
+          "id": "c4",
+          "text": "someone"
+        },
+        {
+          "id": "c5",
+          "text": "basketball"
+        }
       ],
-      "explainKo": "정답: someone tall for our basketball team. -thing, -one, -body + 형용사의 어순으로 배열한다."
+      "orderIds": [
+        "c4",
+        "c3",
+        "c2",
+        "c1",
+        "c5",
+        "c0"
+      ],
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "27",
+      "section": "s12",
+      "sectionTitle": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "sectionInstructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "33"
     },
     {
-      "id": 28,
+      "sourceId": 28,
       "group": "2-C-03",
-      "type": "TST",
-      "question": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(wonderful / trip / on / something / the)\nThey experienced ______.",
-      "answers": [
-        "something wonderful on the trip",
-        "somethingwonderfulonthetrip",
-        "something  wonderful  on  the  trip"
+      "explainKo": "정답: something wonderful on the trip. -thing, -one, -body + 형용사의 어순으로 배열한다.",
+      "promptEn": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(wonderful / trip / on / something / the)\nThey experienced ______.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "wonderful"
+        },
+        {
+          "id": "c1",
+          "text": "trip"
+        },
+        {
+          "id": "c2",
+          "text": "on"
+        },
+        {
+          "id": "c3",
+          "text": "something"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        }
       ],
-      "explainKo": "정답: something wonderful on the trip. -thing, -one, -body + 형용사의 어순으로 배열한다."
+      "orderIds": [
+        "c3",
+        "c0",
+        "c2",
+        "c4",
+        "c1"
+      ],
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "28",
+      "section": "s12",
+      "sectionTitle": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "sectionInstructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "34"
     },
     {
-      "id": 29,
+      "sourceId": 29,
       "group": "2-C-04",
-      "type": "TST",
-      "question": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(for the / fast / anybody / race)\nDid the coach choose ______?",
-      "answers": [
-        "anybody fast for the race",
-        "anybodyfastfortherace",
-        "anybody  fast  for  the  race"
+      "explainKo": "정답: anybody fast for the race. -thing, -one, -body + 형용사의 어순으로 배열한다.",
+      "promptEn": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(for the / fast / anybody / race)\nDid the coach choose ______?",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "for the"
+        },
+        {
+          "id": "c1",
+          "text": "fast"
+        },
+        {
+          "id": "c2",
+          "text": "anybody"
+        },
+        {
+          "id": "c3",
+          "text": "race"
+        }
       ],
-      "explainKo": "정답: anybody fast for the race. -thing, -one, -body + 형용사의 어순으로 배열한다."
+      "orderIds": [
+        "c2",
+        "c1",
+        "c0",
+        "c3"
+      ],
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "29",
+      "section": "s12",
+      "sectionTitle": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "sectionInstructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "35"
     },
     {
-      "id": 30,
+      "sourceId": 30,
       "group": "2-C-05",
-      "type": "TST",
-      "question": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(students / everything / the / to / difficult)\nThe teacher explained ______.",
-      "answers": [
-        "everything difficult to the students",
-        "everythingdifficulttothestudents",
-        "everything  difficult  to  the  students"
+      "explainKo": "정답: everything difficult to the students. -thing, -one, -body + 형용사의 어순으로 배열한다.",
+      "promptEn": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.\n(students / everything / the / to / difficult)\nThe teacher explained ______.",
+      "type": "order",
+      "answerMode": "order",
+      "orderChunks": [
+        {
+          "id": "c0",
+          "text": "students"
+        },
+        {
+          "id": "c1",
+          "text": "everything"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "difficult"
+        }
       ],
-      "explainKo": "정답: everything difficult to the students. -thing, -one, -body + 형용사의 어순으로 배열한다."
+      "orderIds": [
+        "c1",
+        "c4",
+        "c3",
+        "c2",
+        "c0"
+      ],
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "30",
+      "section": "s12",
+      "sectionTitle": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "sectionInstructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "36"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성… 1문항, 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성… 4문항, 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성… 1문항, 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성… 2문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 4
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성…",
+      "directionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "1 현재완료 A. 다음 괄호 안의 단어들을 이용하여 현재완료 문장을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "1 현재완료 B. 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 4
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈…",
+      "directionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "1 현재완료 C. 다음 두 문장을 한 문장으로 바꿔 쓸 때 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 5
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "directionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "2 -thing+형용사 A. 다음 괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 5
+    },
+    {
+      "id": "s11",
+      "title": "Section K · 2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르…",
+      "directionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "2 -thing+형용사 B. 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
+    },
+    {
+      "id": "s12",
+      "title": "Section L · 2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을…",
+      "directionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오.",
+      "ruleKo": "주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "2 -thing+형용사 C. 괄호 안 단어를 어순에 맞게 배열하여 빈칸을 완성하시오. 주어진 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 5
     }
   ]
 }

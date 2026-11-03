@@ -13,547 +13,1047 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 Time Travel의 사무실로 걸어 들어갔다.",
-      "answers": [
-        "Eckels walked into the office of Time Travel."
+      "explainKo": "정답: Eckels walked into the office of Time Travel.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 Time Travel의 사무실로 걸어 들어갔다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Eckels walked into the office of Time Travel"
       ],
-      "explainKo": "정답: Eckels walked into the office of Time Travel."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n벽에 걸린 큰 간판에는 \"과거의 어느 해든 말해 보세요. 우리가 당신을 그곳으로 데려갈게요.\"라고 쓰여 있었다.",
-      "answers": [
+      "explainKo": "정답: The big sign on the wall said, \"NAME ANY YEAR IN THE PAST. WE TAKE YOU THERE.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n벽에 걸린 큰 간판에는 \"과거의 어느 해든 말해 보세요. 우리가 당신을 그곳으로 데려갈게요.\"라고 쓰여 있었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "The big sign on the wall said, \"NAME ANY YEAR IN THE PAST. WE TAKE YOU THERE.\""
       ],
-      "explainKo": "정답: The big sign on the wall said, \"NAME ANY YEAR IN THE PAST. WE TAKE YOU THERE.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n벽에는 TV가 있었고, 새 대통령인 Keith 씨가 뉴스에 나오고 있었다.",
-      "answers": [
-        "There was a TV on the wall, and Mr. Keith, the new president, was on the news."
+      "explainKo": "정답: There was a TV on the wall, and Mr. Keith, the new president, was on the news.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n벽에는 TV가 있었고, 새 대통령인 Keith 씨가 뉴스에 나오고 있었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "There was a TV on the wall, and Mr. Keith, the new president, was on the news"
       ],
-      "explainKo": "정답: There was a TV on the wall, and Mr. Keith, the new president, was on the news."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"무엇을 도와드릴까요?\" Time Travel의 창립자인 Parker 씨가 말했다.",
-      "answers": [
-        "\"How can we help you?\" said Mr. Parker, the founder of Time Travel."
+      "explainKo": "정답: \"How can we help you?\" said Mr. Parker, the founder of Time Travel.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"무엇을 도와드릴까요?\" Time Travel의 창립자인 Parker 씨가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"How can we help you?\" said Mr. Parker, the founder of Time Travel"
       ],
-      "explainKo": "정답: \"How can we help you?\" said Mr. Parker, the founder of Time Travel."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저는 항상 공룡을 보고 싶었어요. 그것이 가능한가요?\" Eckels가 물었다.",
-      "answers": [
-        "\"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels."
+      "explainKo": "정답: \"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저는 항상 공룡을 보고 싶었어요. 그것이 가능한가요?\" Eckels가 물었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels"
       ],
-      "explainKo": "정답: \"I've always wanted to see a dinosaur. Is it possible?\" asked Eckels."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"물론이죠.\" Parker 씨가 대답했다. \"저희는 6천만 년 전의 정글로 당신을 데려다 드릴 수 있습니다.\"",
-      "answers": [
+      "explainKo": "정답: \"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"물론이죠.\" Parker 씨가 대답했다. \"저희는 6천만 년 전의 정글로 당신을 데려다 드릴 수 있습니다.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\""
       ],
-      "explainKo": "정답: \"Sure,\" said Mr. Parker. \"We can take you back to the jungle of 60 million years ago.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"멋지군요.\" Eckels가 말했다. \"지금 저를 데려가 줄 수 있나요?\"",
-      "answers": [
+      "explainKo": "정답: \"Great,\" said Eckels. \"Can you take me there now?\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"멋지군요.\" Eckels가 말했다. \"지금 저를 데려가 줄 수 있나요?\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"Great,\" said Eckels. \"Can you take me there now?\""
       ],
-      "explainKo": "정답: \"Great,\" said Eckels. \"Can you take me there now?\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"운이 좋으시네요. 10분 후에 출발하는 타임머신이 있습니다.\" Parker 씨가 말했다.",
-      "answers": [
-        "\"You're lucky. There's a time machine that leaves in 10 minutes,\" said Mr. Parker."
+      "explainKo": "정답: \"You're lucky. There's a time machine that leaves in 10 minutes,\" said Mr. Parker.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"운이 좋으시네요. 10분 후에 출발하는 타임머신이 있습니다.\" Parker 씨가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"You're lucky. There's a time machine that leaves in 10 minutes,\" said Mr. Parker"
       ],
-      "explainKo": "정답: \"You're lucky. There's a time machine that leaves in 10 minutes,\" said Mr. Parker."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"이분은 당신의 여행 가이드인 Travis입니다.\" 그는 계속 말했다.",
-      "answers": [
-        "\"This is Travis, your travel guide,\" he continued."
+      "explainKo": "정답: \"This is Travis, your travel guide,\" he continued.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"이분은 당신의 여행 가이드인 Travis입니다.\" 그는 계속 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"This is Travis, your travel guide,\" he continued"
       ],
-      "explainKo": "정답: \"This is Travis, your travel guide,\" he continued."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "-1-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"안전하게 여행하려면 그의 지시를 반드시 따라야 합니다.\"",
-      "answers": [
+      "explainKo": "정답: \"To stay safe, you must follow his instructions.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"안전하게 여행하려면 그의 지시를 반드시 따라야 합니다.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"To stay safe, you must follow his instructions.\""
       ],
-      "explainKo": "정답: \"To stay safe, you must follow his instructions.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n타임머신 안에는 다른 여행자 두 명이 있었다.",
-      "answers": [
-        "Inside the time machine, there were two other travelers."
+      "explainKo": "정답: Inside the time machine, there were two other travelers.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n타임머신 안에는 다른 여행자 두 명이 있었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Inside the time machine, there were two other travelers"
       ],
-      "explainKo": "정답: Inside the time machine, there were two other travelers."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "11",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "11"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 자리에 앉아 눈을 감았다.",
-      "answers": [
-        "Eckels sat down and closed his eyes."
+      "explainKo": "정답: Eckels sat down and closed his eyes.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 자리에 앉아 눈을 감았다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Eckels sat down and closed his eyes"
       ],
-      "explainKo": "정답: Eckels sat down and closed his eyes."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "12",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "12"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 발밑에서 타임머신이 움직이는 것을 느꼈다.",
-      "answers": [
-        "He felt the machine moving under his feet."
+      "explainKo": "정답: He felt the machine moving under his feet.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 발밑에서 타임머신이 움직이는 것을 느꼈다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "He felt the machine moving under his feet"
       ],
-      "explainKo": "정답: He felt the machine moving under his feet."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "13",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n불과 몇 분 뒤, 타임머신이 멈췄다.",
-      "answers": [
-        "After only a few minutes, the machine stopped."
+      "explainKo": "정답: After only a few minutes, the machine stopped.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n불과 몇 분 뒤, 타임머신이 멈췄다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "After only a few minutes, the machine stopped"
       ],
-      "explainKo": "정답: After only a few minutes, the machine stopped."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "14",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"우리는 이제 막 6천만 년 전의 정글에 도착했습니다.\" Travis가 설명했다.",
-      "answers": [
-        "\"We've just arrived in the jungle of 60 million years ago,\" Travis explained."
+      "explainKo": "정답: \"We've just arrived in the jungle of 60 million years ago,\" Travis explained.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"우리는 이제 막 6천만 년 전의 정글에 도착했습니다.\" Travis가 설명했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"We've just arrived in the jungle of 60 million years ago,\" Travis explained"
       ],
-      "explainKo": "정답: \"We've just arrived in the jungle of 60 million years ago,\" Travis explained."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "15",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "15"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n저쪽에 길이 보이십니까? 어떤 경우에도 저 길을 절대 벗어나면 안 됩니다.",
-      "answers": [
-        "\"Do you see the path over there? You must not leave it at any time.",
+      "explainKo": "정답: \"Do you see the path over there? You must not leave it at any time.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n저쪽에 길이 보이십니까? 어떤 경우에도 저 길을 절대 벗어나면 안 됩니다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Do you see the path over there? You must not leave it at any time",
         "\"Do you see the path over there? You must not leave it at any time.\""
       ],
-      "explainKo": "정답: \"Do you see the path over there? You must not leave it at any time."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "16",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "16"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n아무것도 건드리지 마세요. 여러분은 실수로 무엇인가를 죽일 수도 있습니다.",
-      "answers": [
-        "Do not touch anything. You might kill something by accident."
+      "explainKo": "정답: Do not touch anything. You might kill something by accident.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n아무것도 건드리지 마세요. 여러분은 실수로 무엇인가를 죽일 수도 있습니다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Do not touch anything. You might kill something by accident"
       ],
-      "explainKo": "정답: Do not touch anything. You might kill something by accident."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "17",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "17"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "-2-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"",
-      "answers": [
+      "explainKo": "정답: A little change here can cause something unthinkable in the future.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "A little change here can cause something unthinkable in the future.\""
       ],
-      "explainKo": "정답: A little change here can cause something unthinkable in the future.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "18",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "18"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n천천히, 모두가 타임머신에서 내렸다. 정글은 안개로 뒤덮여 있었다.",
-      "answers": [
-        "Slowly, everyone got out of the time machine. The jungle was covered in fog."
+      "explainKo": "정답: Slowly, everyone got out of the time machine. The jungle was covered in fog.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n천천히, 모두가 타임머신에서 내렸다. 정글은 안개로 뒤덮여 있었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Slowly, everyone got out of the time machine. The jungle was covered in fog"
       ],
-      "explainKo": "정답: Slowly, everyone got out of the time machine. The jungle was covered in fog."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "19",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "19"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n매우 고요했다. \"정말 신나요.\" Eckels가 말했다.",
-      "answers": [
-        "It was very quiet. \"I'm so excited,\" said Eckels."
+      "explainKo": "정답: It was very quiet. \"I'm so excited,\" said Eckels.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n매우 고요했다. \"정말 신나요.\" Eckels가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "It was very quiet. \"I'm so excited,\" said Eckels"
       ],
-      "explainKo": "정답: It was very quiet. \"I'm so excited,\" said Eckels."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "20",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "20"
     },
     {
-      "id": 21,
+      "sourceId": 21,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"조심하세요. 어떤 공룡들은 배가 고플 수도 있습니다.\" Travis가 말했다.",
-      "answers": [
-        "\"Be careful. Some of the dinosaurs are hungry,\" said Travis."
+      "explainKo": "정답: \"Be careful. Some of the dinosaurs are hungry,\" said Travis.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"조심하세요. 어떤 공룡들은 배가 고플 수도 있습니다.\" Travis가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Be careful. Some of the dinosaurs are hungry,\" said Travis"
       ],
-      "explainKo": "정답: \"Be careful. Some of the dinosaurs are hungry,\" said Travis."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "21",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21"
     },
     {
-      "id": 22,
+      "sourceId": 22,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"침착하게 계세요. 저는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"",
-      "answers": [
+      "explainKo": "정답: \"Just stay calm. I don't want you to do anything foolish.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"침착하게 계세요. 저는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"Just stay calm. I don't want you to do anything foolish.\""
       ],
-      "explainKo": "정답: \"Just stay calm. I don't want you to do anything foolish.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "22",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22"
     },
     {
-      "id": 23,
+      "sourceId": 23,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"걱정 마세요. 저는 바보가 아닙니다.\" Eckels가 말했다.",
-      "answers": [
-        "\"Don't worry. I'm not a fool,\" said Eckels."
+      "explainKo": "정답: \"Don't worry. I'm not a fool,\" said Eckels.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"걱정 마세요. 저는 바보가 아닙니다.\" Eckels가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Don't worry. I'm not a fool,\" said Eckels"
       ],
-      "explainKo": "정답: \"Don't worry. I'm not a fool,\" said Eckels."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "23",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "23"
     },
     {
-      "id": 24,
+      "sourceId": 24,
       "group": "-3-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 모두 길을 걷기 시작했다.",
-      "answers": [
-        "They all began to walk on the path."
+      "explainKo": "정답: They all began to walk on the path.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그들은 모두 길을 걷기 시작했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "They all began to walk on the path"
       ],
-      "explainKo": "정답: They all began to walk on the path."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "24",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "24"
     },
     {
-      "id": 25,
+      "sourceId": 25,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n얼마 후, Travis가 속삭였다. \"저기 봐요. 티라노사우루스가 있습니다.\"",
-      "answers": [
+      "explainKo": "정답: After some time, Travis whispered, \"Look over there. There is a T. rex.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n얼마 후, Travis가 속삭였다. \"저기 봐요. 티라노사우루스가 있습니다.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "After some time, Travis whispered, \"Look over there. There is a T. rex.\""
       ],
-      "explainKo": "정답: After some time, Travis whispered, \"Look over there. There is a T. rex.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "25",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "25"
     },
     {
-      "id": 26,
+      "sourceId": 26,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n100미터 떨어진 곳에서 티라노사우루스가 서서히 나타났다.",
-      "answers": [
-        "One hundred meters away, a T. rex slowly appeared."
+      "explainKo": "정답: One hundred meters away, a T. rex slowly appeared.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n100미터 떨어진 곳에서 티라노사우루스가 서서히 나타났다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "One hundred meters away, a T. rex slowly appeared"
       ],
-      "explainKo": "정답: One hundred meters away, a T. rex slowly appeared."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "26",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "26"
     },
     {
-      "id": 27,
+      "sourceId": 27,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저것은.\" Eckels가 속삭였다. \"저것은...\" \"쉿!\"\n(\"It...\" \"Sh!\")",
-      "answers": [
+      "explainKo": "정답: \"It,\" whispered Eckels. \"It...\" \"Sh!\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저것은.\" Eckels가 속삭였다. \"저것은...\" \"쉿!\"\n(\"It...\" \"Sh!\")",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"It,\" whispered Eckels. \"It...\" \"Sh!\"",
-        "\"It,\" whispered Eckels."
+        "\"It,\" whispered Eckels"
       ],
-      "explainKo": "정답: \"It,\" whispered Eckels. \"It...\" \"Sh!\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "27",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "27"
     },
     {
-      "id": 28,
+      "sourceId": 28,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저건... 정말 거대해요. 저는 이렇게 거대한 걸 본 적이 없어요. 너무 무서워요.\" Eckels가 말했다.",
-      "answers": [
-        "\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels."
+      "explainKo": "정답: \"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저건... 정말 거대해요. 저는 이렇게 거대한 걸 본 적이 없어요. 너무 무서워요.\" Eckels가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels"
       ],
-      "explainKo": "정답: \"It... is huge. I've never seen such a huge thing. I'm so scared,\" said Eckels."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "28",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "28"
     },
     {
-      "id": 29,
+      "sourceId": 29,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"쉿・・・ 조용히!\" Travis가 화를 내며 말했다. \"그것이 당신을 보는 것을 원치 않으시잖아요.\"\n(\"Sh... quiet!\")",
-      "answers": [
+      "explainKo": "정답: Travis said angrily. \"You don't want it to see you.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"쉿・・・ 조용히!\" Travis가 화를 내며 말했다. \"그것이 당신을 보는 것을 원치 않으시잖아요.\"\n(\"Sh... quiet!\")",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "Travis said angrily. \"You don't want it to see you.\"",
         "\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\""
       ],
-      "explainKo": "정답: Travis said angrily. \"You don't want it to see you.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "29",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "29"
     },
     {
-      "id": 30,
+      "sourceId": 30,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저는 숨을 쉴 수가 없어요.\" Eckels가 말했다. \"여기서 나가게 해 주세요!\"",
-      "answers": [
+      "explainKo": "정답: \"I can't breathe,\" said Eckels. \"Get me out of here!\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"저는 숨을 쉴 수가 없어요.\" Eckels가 말했다. \"여기서 나가게 해 주세요!\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"I can't breathe,\" said Eckels. \"Get me out of here!\""
       ],
-      "explainKo": "정답: \"I can't breathe,\" said Eckels. \"Get me out of here!\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "30",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "30"
     },
     {
-      "id": 31,
+      "sourceId": 31,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"겁먹지 마세요, Eckels,\" Travis가 말했다. \"뒤로 돌아서서 조용히 타임머신으로 걸어서 돌아가세요.\"",
-      "answers": [
+      "explainKo": "정답: \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"겁먹지 마세요, Eckels,\" Travis가 말했다. \"뒤로 돌아서서 조용히 타임머신으로 걸어서 돌아가세요.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\""
       ],
-      "explainKo": "정답: \"Don't panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "31",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "31"
     },
     {
-      "id": 32,
+      "sourceId": 32,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 돌아서서 뛰기 시작했다.",
-      "answers": [
-        "Eckels turned around and started to run."
+      "explainKo": "정답: Eckels turned around and started to run.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 돌아서서 뛰기 시작했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Eckels turned around and started to run"
       ],
-      "explainKo": "정답: Eckels turned around and started to run."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "32",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "32"
     },
     {
-      "id": 33,
+      "sourceId": 33,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 너무 겁에 질려 실수로 길을 벗어나고 말았다.",
-      "answers": [
-        "He was so terrified that he left the path by accident."
+      "explainKo": "정답: He was so terrified that he left the path by accident.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 너무 겁에 질려 실수로 길을 벗어나고 말았다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "He was so terrified that he left the path by accident"
       ],
-      "explainKo": "정답: He was so terrified that he left the path by accident."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "33",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "33"
     },
     {
-      "id": 34,
+      "sourceId": 34,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"Eckels!\" Travis가 외쳤다. \"길을 벗어나지 마세요!\"",
-      "answers": [
+      "explainKo": "정답: \"Eckels!\" shouted Travis. \"Don't leave the path!\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"Eckels!\" Travis가 외쳤다. \"길을 벗어나지 마세요!\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"Eckels!\" shouted Travis. \"Don't leave the path!\""
       ],
-      "explainKo": "정답: \"Eckels!\" shouted Travis. \"Don't leave the path!\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "34",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "34"
     },
     {
-      "id": 35,
+      "sourceId": 35,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n티라노사우루스가 Travis의 목소리를 듣고 그와 다른 여행자들을 향해 고개를 돌렸다.",
-      "answers": [
-        "The T. rex heard Travis and turned its head toward him and the other travelers."
+      "explainKo": "정답: The T. rex heard Travis and turned its head toward him and the other travelers.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n티라노사우루스가 Travis의 목소리를 듣고 그와 다른 여행자들을 향해 고개를 돌렸다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The T. rex heard Travis and turned its head toward him and the other travelers"
       ],
-      "explainKo": "정답: The T. rex heard Travis and turned its head toward him and the other travelers."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "35",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "35"
     },
     {
-      "id": 36,
+      "sourceId": 36,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n잠시 정적이 흘렀다.",
-      "answers": [
-        "There was a moment of silence."
+      "explainKo": "정답: There was a moment of silence.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n잠시 정적이 흘렀다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "There was a moment of silence"
       ],
-      "explainKo": "정답: There was a moment of silence."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "36",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "36"
     },
     {
-      "id": 37,
+      "sourceId": 37,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그러고 나서, 갑자기 그것이 큰 포효와 함께 그들을 향해 달려오기 시작했다.",
-      "answers": [
-        "Then, it suddenly started to run toward them with a loud roar."
+      "explainKo": "정답: Then, it suddenly started to run toward them with a loud roar.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그러고 나서, 갑자기 그것이 큰 포효와 함께 그들을 향해 달려오기 시작했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Then, it suddenly started to run toward them with a loud roar"
       ],
-      "explainKo": "정답: Then, it suddenly started to run toward them with a loud roar."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "37",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "37"
     },
     {
-      "id": 38,
+      "sourceId": 38,
       "group": "-4-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"모두 뛰세요! 뛰어!\" Travis가 외쳤다.",
-      "answers": [
-        "\"Run, everybody! Run!\" shouted Travis."
+      "explainKo": "정답: \"Run, everybody! Run!\" shouted Travis.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"모두 뛰세요! 뛰어!\" Travis가 외쳤다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Run, everybody! Run!\" shouted Travis"
       ],
-      "explainKo": "정답: \"Run, everybody! Run!\" shouted Travis."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "38",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "38"
     },
     {
-      "id": 39,
+      "sourceId": 39,
       "group": "-5-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nTravis와 다른 여행자들은 안전하게 타임머신으로 돌아와서, 안에 있는 Eckels를 발견했다.",
-      "answers": [
-        "Travis and the other travelers returned safely to the machine and found Eckels inside."
+      "explainKo": "정답: Travis and the other travelers returned safely to the machine and found Eckels inside.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nTravis와 다른 여행자들은 안전하게 타임머신으로 돌아와서, 안에 있는 Eckels를 발견했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Travis and the other travelers returned safely to the machine and found Eckels inside"
       ],
-      "explainKo": "정답: Travis and the other travelers returned safely to the machine and found Eckels inside."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "39",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "39"
     },
     {
-      "id": 40,
+      "sourceId": 40,
       "group": "-5-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"당신이 우리 모두를 위험에 빠뜨렸어요.\" Travis가 화난 목소리로 Eckels에게 말했다. \"당신이 길을 벗어났잖아요.\"",
-      "answers": [
+      "explainKo": "정답: \"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"당신이 우리 모두를 위험에 빠뜨렸어요.\" Travis가 화난 목소리로 Eckels에게 말했다. \"당신이 길을 벗어났잖아요.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\""
       ],
-      "explainKo": "정답: \"You put all of us in danger,\" said Travis to Eckels in an angry voice. \"You left the path.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "40",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "40"
     },
     {
-      "id": 41,
+      "sourceId": 41,
       "group": "-5-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"미안해요. 그렇지만 난 어떤 것도 죽이지 않았어요.\" Eckels가 말했다. \"신발에 진흙이 조금 묻었을 뿐이에요.\"",
-      "answers": [
+      "explainKo": "정답: \"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\"",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"미안해요. 그렇지만 난 어떤 것도 죽이지 않았어요.\" Eckels가 말했다. \"신발에 진흙이 조금 묻었을 뿐이에요.\"",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
         "\"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\""
       ],
-      "explainKo": "정답: \"I'm sorry, but I didn't kill anything,\" said Eckels. \"There's only a little mud on my shoes.\""
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "41",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "41"
     },
     {
-      "id": 42,
+      "sourceId": 42,
       "group": "-5-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nTravis는 아무 말 없이 Eckels를 오랫동안 응시했다.",
-      "answers": [
-        "Travis stared at Eckels for a long time without saying anything."
+      "explainKo": "정답: Travis stared at Eckels for a long time without saying anything.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nTravis는 아무 말 없이 Eckels를 오랫동안 응시했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Travis stared at Eckels for a long time without saying anything"
       ],
-      "explainKo": "정답: Travis stared at Eckels for a long time without saying anything."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "42",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "42"
     },
     {
-      "id": 43,
+      "sourceId": 43,
       "group": "-5-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"집으로 돌아갑시다.\" Travis가 마침내 말했다.",
-      "answers": [
-        "\"Let's go home,\" said Travis finally."
+      "explainKo": "정답: \"Let's go home,\" said Travis finally.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"집으로 돌아갑시다.\" Travis가 마침내 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Let's go home,\" said Travis finally"
       ],
-      "explainKo": "정답: \"Let's go home,\" said Travis finally."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "43",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "43"
     },
     {
-      "id": 44,
+      "sourceId": 44,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n타임머신이 멈췄다. 그들은 모두 안전하게 현재로 돌아왔다.",
-      "answers": [
-        "The machine stopped. They all returned to the present safely."
+      "explainKo": "정답: The machine stopped. They all returned to the present safely.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n타임머신이 멈췄다. 그들은 모두 안전하게 현재로 돌아왔다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The machine stopped. They all returned to the present safely"
       ],
-      "explainKo": "정답: The machine stopped. They all returned to the present safely."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "44",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "44"
     },
     {
-      "id": 45,
+      "sourceId": 45,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"여기 모든 것이 다 괜찮나요?\" Travis가 물었다.",
-      "answers": [
-        "\"Is everything okay here?\" asked Travis."
+      "explainKo": "정답: \"Is everything okay here?\" asked Travis.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"여기 모든 것이 다 괜찮나요?\" Travis가 물었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Is everything okay here?\" asked Travis"
       ],
-      "explainKo": "정답: \"Is everything okay here?\" asked Travis."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "45",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "45"
     },
     {
-      "id": 46,
+      "sourceId": 46,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"괜찮아요. 돌아오신 걸 환영합니다!\" Parker 씨가 말했다.",
-      "answers": [
-        "\"Fine. Welcome home!\" said Mr. Parker."
+      "explainKo": "정답: \"Fine. Welcome home!\" said Mr. Parker.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"괜찮아요. 돌아오신 걸 환영합니다!\" Parker 씨가 말했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"Fine. Welcome home!\" said Mr. Parker"
       ],
-      "explainKo": "정답: \"Fine. Welcome home!\" said Mr. Parker."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "46",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "46"
     },
     {
-      "id": 47,
+      "sourceId": 47,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 방을 주의 깊게 둘러보았다.",
-      "answers": [
-        "Eckels looked around the room carefully."
+      "explainKo": "정답: Eckels looked around the room carefully.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\nEckels는 방을 주의 깊게 둘러보았다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Eckels looked around the room carefully"
       ],
-      "explainKo": "정답: Eckels looked around the room carefully."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "47",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "47"
     },
     {
-      "id": 48,
+      "sourceId": 48,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n모든 것이 같아 보였다. 벽에 걸린 큰 간판만 빼고.",
-      "answers": [
-        "Everything looked the same, except the big sign on the wall."
+      "explainKo": "정답: Everything looked the same, except the big sign on the wall.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n모든 것이 같아 보였다. 벽에 걸린 큰 간판만 빼고.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Everything looked the same, except the big sign on the wall"
       ],
-      "explainKo": "정답: Everything looked the same, except the big sign on the wall."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "48",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "48"
     },
     {
-      "id": 49,
+      "sourceId": 49,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n간판에는 이제 이렇게 쓰여 있었다. \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels는 혼란스러웠다.",
-      "answers": [
-        "The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused."
+      "explainKo": "정답: The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n간판에는 이제 이렇게 쓰여 있었다. \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels는 혼란스러웠다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused"
       ],
-      "explainKo": "정답: The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "49",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "49"
     },
     {
-      "id": 50,
+      "sourceId": 50,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그러고 나서, 그는 TV를 보았다. 뉴스에 새 대통령이 나오고 있었는데, 그 사람은 Keith 씨가 아니었다.",
-      "answers": [
-        "Then, he saw the TV. The new president was on the news, but it was not Mr. Keith."
+      "explainKo": "정답: Then, he saw the TV. The new president was on the news, but it was not Mr. Keith.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그러고 나서, 그는 TV를 보았다. 뉴스에 새 대통령이 나오고 있었는데, 그 사람은 Keith 씨가 아니었다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "Then, he saw the TV. The new president was on the news, but it was not Mr. Keith"
       ],
-      "explainKo": "정답: Then, he saw the TV. The new president was on the news, but it was not Mr. Keith."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "50",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "50"
     },
     {
-      "id": 51,
+      "sourceId": 51,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"이게 대체 무슨 일이야?\" 그는 더욱 혼란스러워졌다.",
-      "answers": [
-        "\"What's going on?\" He got more confused."
+      "explainKo": "정답: \"What's going on?\" He got more confused.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"이게 대체 무슨 일이야?\" 그는 더욱 혼란스러워졌다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"What's going on?\" He got more confused"
       ],
-      "explainKo": "정답: \"What's going on?\" He got more confused."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "51",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "51"
     },
     {
-      "id": 52,
+      "sourceId": 52,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 앉아서 신발에 묻은 진흙을 유심히 살펴보았다.",
-      "answers": [
-        "He sat down and looked closely at the mud on his shoes."
+      "explainKo": "정답: He sat down and looked closely at the mud on his shoes.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n그는 앉아서 신발에 묻은 진흙을 유심히 살펴보았다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "He sat down and looked closely at the mud on his shoes"
       ],
-      "explainKo": "정답: He sat down and looked closely at the mud on his shoes."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "52",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "52"
     },
     {
-      "id": 53,
+      "sourceId": 53,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n\"안 돼, 그럴 리 없어.\" Eckels가 말했다. \"이게 모두 이 작은 것 때문이라고?\" 그는 충격을 받았다.",
-      "answers": [
-        "\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked."
+      "explainKo": "정답: \"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n\"안 돼, 그럴 리 없어.\" Eckels가 말했다. \"이게 모두 이 작은 것 때문이라고?\" 그는 충격을 받았다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "\"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked"
       ],
-      "explainKo": "정답: \"No, it can't be,\" said Eckels. \"It's all because of this little thing?\" He was shocked."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "53",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "53"
     },
     {
-      "id": 54,
+      "sourceId": 54,
       "group": "-6-",
-      "type": "TST",
-      "question": "다음 우리말에 맞도록 바르게 영작하시오.\n자신의 오른쪽 신발에 묻은 진흙 속에서, 그는 죽은 작은 나비 한 마리를 발견했다.",
-      "answers": [
-        "In the mud on his right shoe, he found a small dead butterfly."
+      "explainKo": "정답: In the mud on his right shoe, he found a small dead butterfly.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n자신의 오른쪽 신발에 묻은 진흙 속에서, 그는 죽은 작은 나비 한 마리를 발견했다.",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "accept": [
+        "In the mud on his right shoe, he found a small dead butterfly"
       ],
-      "explainKo": "정답: In the mud on his right shoe, he found a small dead butterfly."
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "54",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "54"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 우리말에 맞도록 바르게 영작하시오. 54문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 54
     }
   ]
 }

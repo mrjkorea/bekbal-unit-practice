@@ -10,209 +10,513 @@
   "omitted": [],
   "questions": [
     {
-      "id": 1,
+      "sourceId": 1,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nPeople in Valencia (celebrate) the coming of spring with the Fallas festival.",
-      "answers": [
+      "explainKo": "정답: celebrate",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nPeople in Valencia (celebrate) the coming of spring with the Fallas festival.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "celebrate"
       ],
-      "explainKo": "정답: celebrate"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "1"
     },
     {
-      "id": 2,
+      "sourceId": 2,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nThis festival takes place from March 15 to 19.\ntake place의 뜻:",
-      "answers": [
+      "explainKo": "정답: 개최되다. 열리다",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nThis festival takes place from March 15 to 19.\ntake place의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "개최되다. 열리다",
         "개최되다, 열리다"
       ],
-      "explainKo": "정답: 개최되다. 열리다"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "2",
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "2"
     },
     {
-      "id": 3,
+      "sourceId": 3,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nThe stars of the festival (be) fallas, giant wooden statues.",
-      "answers": [
+      "explainKo": "정답: are",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nThe stars of the festival (be) fallas, giant wooden statues.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "are"
       ],
-      "explainKo": "정답: are"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "3",
+      "section": "s3",
+      "sectionTitle": "Section C · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3"
     },
     {
-      "id": 4,
+      "sourceId": 4,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nYou can find hundreds of them all over the city.\nthem (를 가리킴)",
-      "answers": [
+      "explainKo": "정답: fallas",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nYou can find hundreds of them all over the city.\nthem (를 가리킴)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "fallas"
       ],
-      "explainKo": "정답: fallas"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "4",
+      "section": "s4",
+      "sectionTitle": "Section D · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "4"
     },
     {
-      "id": 5,
+      "sourceId": 5,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nSurprisingly, the fallas (burn) on the last day of the festival.",
-      "answers": [
+      "explainKo": "정답: are burned",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nSurprisingly, the fallas (burn) on the last day of the festival.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "are burned"
       ],
-      "explainKo": "정답: are burned"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "5",
+      "section": "s5",
+      "sectionTitle": "Section E · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5"
     },
     {
-      "id": 6,
+      "sourceId": 6,
       "group": "Fallas Festival in Valencia, Spain",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nBurning them (symbolize) saying goodbye to old things and hello to a new start.",
-      "answers": [
+      "explainKo": "정답: symbolizes",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nBurning them (symbolize) saying goodbye to old things and hello to a new start.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "symbolizes"
       ],
-      "explainKo": "정답: symbolizes"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "6",
+      "section": "s5",
+      "sectionTitle": "Section E · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "6"
     },
     {
-      "id": 7,
+      "sourceId": 7,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nTo celebrate the longest day of the year, they have a special festival.\n목적을 나타내는 (    )적 용법의 to부정사",
-      "answers": [
+      "explainKo": "정답: 부사",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nTo celebrate the longest day of the year, they have a special festival.\n목적을 나타내는 (    )적 용법의 to부정사",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "부사"
       ],
-      "explainKo": "정답: 부사"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "7",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7"
     },
     {
-      "id": 8,
+      "sourceId": 8,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nThey call it the Midsummer festival.\n「call+목적어+목적격보어」의 뜻:",
-      "answers": [
+      "explainKo": "정답: ~을...라고 부르다",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nThey call it the Midsummer festival.\n「call+목적어+목적격보어」의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~을...라고 부르다",
         "~을..라고 부르다",
         "~을 라고 부르다"
       ],
-      "explainKo": "정답: ~을...라고 부르다"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "8",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "8"
     },
     {
-      "id": 9,
+      "sourceId": 9,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nThe festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.\nbetween A and B의 뜻:",
-      "answers": [
+      "explainKo": "정답: A와 B 사이에",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nThe festival starts on the Friday evening between June 19 and 25 and ends on the Sunday.\nbetween A and B의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "A와 B 사이에"
       ],
-      "explainKo": "정답: A와 B 사이에"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "9",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "9"
     },
     {
-      "id": 10,
+      "sourceId": 10,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nDuring the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it.\nit (를 가리킴)",
-      "answers": [
+      "explainKo": "정답: a tall pole with flowers and green leaves",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nDuring the festival, people decorate a tall pole with flowers and green leaves and enjoy traditional dances around it.\nit (를 가리킴)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "a tall pole with flowers and green leaves"
       ],
-      "explainKo": "정답: a tall pole with flowers and green leaves"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "10",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "10"
     },
     {
-      "id": 11,
+      "sourceId": 11,
       "group": "Midsummer Festival in Sweden",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nBecause the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\nat this time of year의 뜻:",
-      "answers": [
+      "explainKo": "정답: 일 년 중 이맘때에",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nBecause the sun hardly sets at this time of year in Sweden, people can enjoy the festival all night long.\nat this time of year의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "일 년 중 이맘때에"
       ],
-      "explainKo": "정답: 일 년 중 이맘때에"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "11",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "11"
     },
     {
-      "id": 12,
+      "sourceId": 12,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nMany Mexicans believe that once a year dead people come back home to meet their family and friends.\nthat: (    )절 접속사 (동사 believe의 목적어인 명사절을 이끎)",
-      "answers": [
+      "explainKo": "정답: 명사",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nMany Mexicans believe that once a year dead people come back home to meet their family and friends.\nthat: (    )절 접속사 (동사 believe의 목적어인 명사절을 이끎)",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "명사"
       ],
-      "explainKo": "정답: 명사"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "12",
+      "section": "s6",
+      "sectionTitle": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "12"
     },
     {
-      "id": 13,
+      "sourceId": 13,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nThey believe it is important (remember) dead people.",
-      "answers": [
+      "explainKo": "정답: to remember",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nThey believe it is important (remember) dead people.",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "to remember"
       ],
-      "explainKo": "정답: to remember"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "13",
+      "section": "s7",
+      "sectionTitle": "Section G · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13"
     },
     {
-      "id": 14,
+      "sourceId": 14,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nSo, people set up altars in their homes and have big parties in cemeteries.\nset up의 뜻:",
-      "answers": [
+      "explainKo": "정답: 설치하다. 세우다",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nSo, people set up altars in their homes and have big parties in cemeteries.\nset up의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "설치하다. 세우다",
         "설치하다, 세우다"
       ],
-      "explainKo": "정답: 설치하다. 세우다"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "14",
+      "section": "s8",
+      "sectionTitle": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "14"
     },
     {
-      "id": 15,
+      "sourceId": 15,
       "group": "Day of the Dead Festival in Mexico",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nIn some areas, people dress up like skeletons and hold big parades.\nlike의 뜻:",
-      "answers": [
+      "explainKo": "정답: ~처럼",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nIn some areas, people dress up like skeletons and hold big parades.\nlike의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~처럼"
       ],
-      "explainKo": "정답: ~처럼"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "15",
+      "section": "s8",
+      "sectionTitle": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "15"
     },
     {
-      "id": 16,
+      "sourceId": 16,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.\n「one of the + 최상급 + 복수명사」의 뜻:",
-      "answers": [
+      "explainKo": "정답: 가장 ~한 ・・・들 중 하나",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nAt the end of February, people in Alaska hold the Fur Rondy festival, one of the biggest winter festivals in the world.\n「one of the + 최상급 + 복수명사」의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "가장 ~한 ・・・들 중 하나",
         "가장 ~한...들 중 하나"
       ],
-      "explainKo": "정답: 가장 ~한 ・・・들 중 하나"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "16",
+      "section": "s8",
+      "sectionTitle": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "16"
     },
     {
-      "id": 17,
+      "sourceId": 17,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nThey can also enjoy many special events such as the Running of the Reindeer.\nsuch as의 뜻:",
-      "answers": [
+      "explainKo": "정답: ~와 같은",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nThey can also enjoy many special events such as the Running of the Reindeer.\nsuch as의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "~와 같은"
       ],
-      "explainKo": "정답: ~와 같은"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "17",
+      "section": "s8",
+      "sectionTitle": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17"
     },
     {
-      "id": 18,
+      "sourceId": 18,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nPeople who participate in this race wear fun costumes and try to run faster than reindeer.\nwho: (    ) 관계대명사",
-      "answers": [
+      "explainKo": "정답: 주격",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nPeople who participate in this race wear fun costumes and try to run faster than reindeer.\nwho: (    ) 관계대명사",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "주격"
       ],
-      "explainKo": "정답: 주격"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "18",
+      "section": "s8",
+      "sectionTitle": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "18"
     },
     {
-      "id": 19,
+      "sourceId": 19,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "괄호 안의 단어를 적절한 형태로 쓰시오.\nIs it possible (do) so?",
-      "answers": [
+      "explainKo": "정답: to do",
+      "promptEn": "괄호 안의 단어를 적절한 형태로 쓰시오.\nIs it possible (do) so?",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "to do"
       ],
-      "explainKo": "정답: to do"
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": true,
+      "id": "19",
+      "section": "s9",
+      "sectionTitle": "Section I · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "19"
     },
     {
-      "id": 20,
+      "sourceId": 20,
       "group": "Fur Rondy Festival in Alaska, USA",
-      "type": "TST",
-      "question": "빈칸에 들어갈 적절한 말을 쓰시오.\nNot really, but it doesn't matter.\nmatter의 뜻:",
-      "answers": [
+      "explainKo": "정답: 중요하다",
+      "promptEn": "빈칸에 들어갈 적절한 말을 쓰시오.\nNot really, but it doesn't matter.\nmatter의 뜻:",
+      "type": "fill",
+      "answerMode": "words",
+      "accept": [
         "중요하다"
       ],
-      "explainKo": "정답: 중요하다"
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "phraseBlank": false,
+      "id": "20",
+      "section": "s10",
+      "sectionTitle": "Section J · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "20"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 괄호 안의 단어를 적절한 형태로 쓰시오. 1문항, 빈칸에 들어갈 적절한 말을 쓰시오. 1문항, 괄호 안의 단어를 적절한 형태로 쓰시오. 1문항, 빈칸에 들어갈 적절한 말을 쓰시오. 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 6
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 5
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "directionKo": "괄호 안의 단어를 적절한 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "괄호 안의 단어를 적절한 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
     }
   ]
 }
