@@ -4,17 +4,8 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "pp.186-187",
-  "questionCount": 13,
-  "omitted": [
-    {
-      "n": "12",
-      "reason": "(A)~(C) 선택 표가 15번 선택지와 두 단으로 겹친다. 보이는 행은 appeared/possible/whispered, appeared/impossible/whispered, appeared/possible, disappeared/impossible(④), disappeared/possible/whispered(⑤)이고 shouted가 두 번 떨어져 ③·④의 (C)를 확정할 수 없다. 해설의 정답 조합은 appeared, impossible, whispered. 정답 번호 칸은 비어 있다."
-    },
-    {
-      "n": "15",
-      "reason": "문장 ⓐ He studied hard, so the cause of the test was very good. ⓑ Don't panic. Everything will be okay. ⓒ We looked around the store before buying clothes. ⓓ She has been my friend before we were 10. 는 읽힌다. 선택지는 ① a, c ② b, c ③ c, d ⑤ a, c, d만 보이고 ④는 없다. 해설상 올바른 것은 ⓑ, ⓒ이고 정답 번호는 ②. 빠진 선택지는 만들지 않음."
-    }
-  ],
+  "questionCount": 15,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -166,7 +157,22 @@
       "explainKo": "정답: million. million: 백만의, 백만. 그 도시의 인구는 2백만 명이다. 그곳에는 2백만 명의 사람들이 있다."
     },
     {
-      "id": 12,
+      "group": "12",
+      "type": "TMC",
+      "question": "다음 문장의 (A)~(C) 각 괄호 안에서 문맥상 적절한 것을 골라 바르게 짝지은 것은?\n\n• After the rain, a rainbow (A) [appeared / disappeared] in the sky.\n• Nothing is (B) [impossible / possible] if you try hard.\n• She (C) [shouted / whispered] to her friend in the library.",
+      "answers": [
+        "appeared / possible / whispered",
+        "appeared / impossible / whispered",
+        "appeared / possible / shouted",
+        "disappeared / impossible / shouted",
+        "disappeared / possible / whispered"
+      ],
+      "corAns": "2",
+      "explainKo": "비가 온 뒤 무지개는 나타났으므로 appeared. Nothing is impossible. 도서관에서는 whispered.",
+      "id": 12
+    },
+    {
+      "id": 13,
       "group": "13",
       "type": "TMC",
       "question": "다음 빈칸 ⓐ-ⓒ에 들어갈 말이 바르게 짝지어진 것은?\nIt is important to stay ⓐ ______ during the test.\nWe should ⓑ ______ traffic rules to stay safe.\nⓒ ______, a loud noise came from outside.",
@@ -181,7 +187,7 @@
       "explainKo": "정답: ③ calm / follow / Suddenly. ⓐ calm: 침착한 (close: 가까운). ⓑ follow: 따르다 (explain: 설명하다 / roar: 포효하다, 으르렁거리다). ⓒ suddenly: 갑자기 (carefully: 주의 깊게 / quietly: 조용히). 시험을 보는 동안 침착함을 유지하는 것이 중요하다. 우리는 안전을 위해 교통 규칙을 따라야 한다. 갑자기 밖에서 큰 소리가 났다."
     },
     {
-      "id": 13,
+      "id": 14,
       "group": "14",
       "type": "TST",
       "question": "다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오.\nto take air into your body and let it out again\nHe tried to ______ slowly to relax his mind.",
@@ -189,6 +195,21 @@
         "breathe"
       ],
       "explainKo": "정답: breathe. 공기를 몸 안으로 들이마셨다가 다시 내보내다 → breathe(숨을 쉬다). 그는 마음을 편안하게 하기 위해 천천히 숨을 쉬려고 노력했다."
+    },
+    {
+      "group": "15",
+      "type": "TMC",
+      "question": "다음 밑줄 친 부분의 쓰임이 올바른 것끼리 바르게 짝지어진 것은?\n\nⓐ He studied hard, so the cause of the test was very good.\nⓑ Don't panic. Everything will be okay.\nⓒ We looked around the store before buying clothes.\nⓓ She has been my friend before we were 10.",
+      "answers": [
+        "ⓐ, ⓒ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓓ",
+        "ⓐ, ⓑ, ⓒ",
+        "ⓐ, ⓒ, ⓓ"
+      ],
+      "corAns": "2",
+      "explainKo": "ⓐ cause는 result가 되어야 한다. ⓓ before는 since가 되어야 한다. 올바른 것은 ⓑ, ⓒ.",
+      "id": 15
     }
   ]
 }

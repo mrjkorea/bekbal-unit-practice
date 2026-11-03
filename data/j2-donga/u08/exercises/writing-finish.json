@@ -9,13 +9,8 @@
     "224",
     "225"
   ],
-  "questionCount": 24,
-  "omitted": [
-    {
-      "n": 23,
-      "reason": "밑줄 ⓑ~ⓓ의 어구를 모두 읽을 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -282,6 +277,19 @@
         "You put all of us in danger."
       ],
       "explainKo": "정답: You put all of us in danger"
+    },
+    {
+      "group": "22-25",
+      "type": "TST",
+      "question": "[23] 다음 글을 읽고, 물음에 답하시오.\n\n\"(A) 당신은 우리 모두를 위험에 빠뜨렸어요.\" said Travis to Eckels in an angry voice. \"You left the path.\"\n\"I'm sorry, but I didn't kill ⓐnothing,\" said Eckels. \"There's only a little mud on my shoes.\"\nTravis stared at Eckels for a long time without ⓑsaying anything.\n\"Let's go home,\" said Travis finally.\nThe machine stopped. They all returned to the present safely.\n\"Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\nEckels looked around the room carefully. Everything ⓒlooked the same, except the big sign on the wall. The sign now said, \"NAIM ANY YEER EN THE PAST. WEE TAEK YU THAIR.\" Eckels was confused.\nThen, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got ⓓmore confused.\nHe sat down and looked closely at the mud on his shoes.\n\"No, it can't be,\" said Eckels. \"It's all ⓔbecause this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n\n윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, 바르게 고쳐 쓰시오.",
+      "answers": [
+        "ⓐ anything, ⓔ because of",
+        "a anything, e because of",
+        "ⓐ nothing → anything, ⓔ because → because of",
+        "a nothing → anything, e because → because of"
+      ],
+      "explainKo": "didn't kill nothing은 anything이 되어야 한다. It's all because this little thing은 because of가 되어야 한다.",
+      "id": 23
     },
     {
       "id": 24,

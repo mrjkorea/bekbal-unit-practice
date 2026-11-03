@@ -4,17 +4,8 @@
   "book": "중2 동아 윤정미",
   "unit": "Lesson 08 Time Travel",
   "sourcePages": "pp.194-195",
-  "questionCount": 12,
-  "omitted": [
-    {
-      "n": "11",
-      "reason": "그림 문항. 조건(cook, dinner, hour, 현재완료, 총 7단어, 대소문자와 구두점)은 읽힌다. 그림 시각은 '~05:00', '~01:00'만 보이고 누가 몇 시간 요리했는지는 그림에서 확정되지 않는다. 해설 정답 줄은 'He has cooked dinner for two hours.'이다. 그림이 없어 단독 문항으로 만들지 않음."
-    },
-    {
-      "n": "12",
-      "reason": "문장 ⓐ I want you to bring me cold something. ⓑ There isn't nothing helpful in the guidebook. ⓒ Don't do anything dangerous. ⓓ I've just cleaned my desk. ⓔ Have you ever watch a horror movie before. 는 읽힌다. 선택지는 ① ⓐ,ⓑ ② b, c ④ d, e만 보이고 ③과 ⑤는 없다. 해설은 ⓐ cold something, ⓑ isn't nothing, ⓔ watch를 고치고 ⓒ와 ⓓ는 고치지 않는다. 빠진 선택지는 만들지 않음."
-    }
-  ],
+  "questionCount": 14,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -161,7 +152,33 @@
       "explainKo": "정답: ③ eaten / ate. ⓐ 경험을 묻는 현재완료 의문문이므로 과거분사 eaten이 알맞다. ⓑ 어제 있었던 일을 말하므로 과거시제 ate가 알맞다. 너는 전에 프랑스 음식을 먹어 본 적이 있니? 나는 어제 저녁으로 샐러드와 피자를 먹었다."
     },
     {
-      "id": 11,
+      "group": "11",
+      "type": "TST",
+      "question": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n\n그림: 오후 5시(PM 05:00)에 요리하고 있고, 오후 7시(PM 07:00)에는 저녁 식사가 완성되어 있다.\n\n조건\n1. cook, dinner, hour를 이용하되 필요시 어형을 바꿀 것.\n2. 현재완료시제로 쓸 것.\n3. 총 7단어로 쓸 것.\n4. 대·소문자와 구두점에 유의할 것.",
+      "answers": [
+        "He has cooked dinner for two hours.",
+        "He has cooked dinner for two hours"
+      ],
+      "explainKo": "5시에 시작해서 두 시간 동안 요리한 상황이므로 He has cooked dinner for two hours.",
+      "id": 11
+    },
+    {
+      "group": "12",
+      "type": "TMC",
+      "question": "다음 중 어법상 옳은 것끼리 짝지어진 것은?\n\nⓐ I want you to bring me cold something.\nⓑ There isn't nothing helpful in the guidebook.\nⓒ Don't do anything dangerous.\nⓓ I've just cleaned my desk.\nⓔ Have you ever watch a horror movie before?",
+      "answers": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓓ",
+        "ⓓ, ⓔ",
+        "ⓐ, ⓔ"
+      ],
+      "corAns": "3",
+      "explainKo": "ⓐ는 something cold, ⓑ는 이중 부정, ⓔ는 watched가 되어야 한다. 옳은 것은 ⓒ, ⓓ.",
+      "id": 12
+    },
+    {
+      "id": 13,
       "group": "13",
       "type": "TMC",
       "question": "다음 우리말을 바르게 영작한 것은?\n나는 방금 놀라운 것을 발견했다.",
@@ -176,7 +193,7 @@
       "explainKo": "정답: ③ I've just found something amazing. 방금 발견했다: have just found. 놀라운 것: something amazing."
     },
     {
-      "id": 12,
+      "id": 14,
       "group": "14",
       "type": "TST",
       "question": "다음 조건에 맞게 우리말을 바르게 영작하시오.\n[조건]\n1. can, clear, nothing, because, the fog를 이용하되 필요시 어형을 바꿀 것.\n2. 총 9단어로 쓸 것.\n3. 대·소문자와 구두점에 유의할 것.\n나는 안개 때문에 분명한 어느 것도 볼 수 없었다.",

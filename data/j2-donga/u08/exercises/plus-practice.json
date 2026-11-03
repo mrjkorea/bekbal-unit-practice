@@ -7,18 +7,24 @@
     "220",
     "221"
   ],
-  "questionCount": 5,
-  "omitted": [
-    {
-      "n": 1,
-      "reason": "빈칸 ⓐ·ⓑ 짝짓기 선택지가 깨져 있고 정답란이 O로 번호를 확정할 수 없음"
-    },
-    {
-      "n": 5,
-      "reason": "밑줄 ②·③·④를 읽을 수 없음"
-    }
-  ],
+  "questionCount": 7,
+  "omitted": [],
   "questions": [
+    {
+      "group": "01-03",
+      "type": "TMC",
+      "question": "[01] 다음 글을 읽고, 물음에 답하시오.\n\na. Eckels has always wanted to see a dinosaur, so he goes to the office of Time Travel.\nb. The time machine arrives in the jungle of 60 million years ago, and Travis tells the travelers not to leave the path.\nc. Everybody gets ⓐ ______ the machine and begins to walk on the path.\nd. A T. rex appears. Eckels panics and leaves the path by accident. Travis shouts at Eckels, and the T. rex hears him. It then runs toward him.\ne. Travis and the others come back to the time machine and find Eckels. Travis tells Eckels that he has put everybody ⓑ ______ danger.\nf. Everybody returns to the present. Eckels finds some changes and is confused. Then, he finds a dead butterfly in the mud on his right shoe.\n\n윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "answers": [
+        "from / at",
+        "away / in",
+        "away / at",
+        "out of / in",
+        "out of / for"
+      ],
+      "corAns": "4",
+      "explainKo": "get out of the machine. put somebody in danger.",
+      "id": 1
+    },
     {
       "id": 2,
       "group": "01-03",
@@ -59,6 +65,21 @@
       ],
       "corAns": "2",
       "explainKo": "Dear(~에게)라는 인사말로 시작하여 With love(사랑을 담아)라는 맺음말로 마무리하고 있으므로 글의 종류는 ② 편지이다. ① 일기 ③ 소설 ④ 시 ⑤ 기사"
+    },
+    {
+      "group": "05-07",
+      "type": "TMC",
+      "question": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nEckels found some changes in the present and ①was shocked.\n\"The world ②has changed because of me!\" he said to ③himself. He went to Travis to ask what he could do. \"What can I do to fix the problem?\" asked Eckels. \"Well, ④당신이 할 수 있는 일은 아무것도 없어요.\" said Travis.\nEckels went outside and saw ⑤unthinkable something.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① was shocked",
+        "② has changed",
+        "③ himself",
+        "④ 당신이 할 수 있는 일은 아무것도 없어요.",
+        "⑤ unthinkable something"
+      ],
+      "corAns": "5",
+      "explainKo": "-thing으로 끝나는 부정대명사는 형용사가 뒤에서 수식하므로 something unthinkable이 되어야 한다.",
+      "id": 5
     },
     {
       "id": 6,

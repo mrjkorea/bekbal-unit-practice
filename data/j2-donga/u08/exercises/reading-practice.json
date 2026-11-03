@@ -9,21 +9,8 @@
     "214",
     "215"
   ],
-  "questionCount": 22,
-  "omitted": [
-    {
-      "n": 3,
-      "reason": "밑줄 (A)의 우리말이 판독되지 않음"
-    },
-    {
-      "n": 6,
-      "reason": "밑줄 ⓐ~ⓔ 중 ⓐ(moved) 외의 위치를 읽을 수 없음"
-    },
-    {
-      "n": 21,
-      "reason": "밑줄 ①·④의 어구를 읽을 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -49,6 +36,19 @@
         "공룡을 보는 것"
       ],
       "explainKo": "it은 바로 앞 문장의 to see a dinosaur를 가리킨다."
+    },
+    {
+      "group": "01-05",
+      "type": "TST",
+      "question": "[03] 다음 글을 읽고, 물음에 답하시오.\n\n\"You're lucky. (A) 10분 후에 출발하는 타임머신이 있습니다.\" said Mr. Parker.\n\n윗글의 밑줄 친 (A)의 우리말을 다음 조건에 맞게 바르게 영작하시오.\n조건\n1. a time machine, in, leave, there를 이용하되 필요시 어형을 바꿀 것.\n2. 관계대명사를 사용할 것.\n3. 축약형을 사용하여 총 9단어로 쓸 것.",
+      "answers": [
+        "There's a time machine that leaves in 10 minutes.",
+        "There's a time machine which leaves in 10 minutes.",
+        "There is a time machine that leaves in 10 minutes.",
+        "There is a time machine which leaves in 10 minutes."
+      ],
+      "explainKo": "There's a time machine that[which] leaves in 10 minutes. 관계대명사 that 또는 which가 a time machine을 수식한다.",
+      "id": 3
     },
     {
       "id": 4,
@@ -79,6 +79,21 @@
       ],
       "corAns": "3",
       "explainKo": "Eckels는 여행 가이드인 Travis와 시간 여행을 하게 될 것이라고 언급되었지만, Parker 씨와 함께 여행한다는 내용은 언급되지 않았으므로 ③은 내용과 일치하지 않는다."
+    },
+    {
+      "group": "06-11",
+      "type": "TMC",
+      "question": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine ⓐmoved under his feet.\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained.\n\"Do you see the path over there? You must not leave it at any time. (A) Do not touch anything. You might kill something by accident. A little change here can cause ⓑsomething unthinkable in the future.\"\nSlowly, everyone got out of the time machine. The jungle ⓒwas covered in fog. It was very quiet.\n\"I'm so excited,\" said Eckels.\n\"Be careful. Some of the dinosaurs are hungry,\" said Travis. \"Just stay ⓓcalm. (B) 저는 당신이 어떠한 바보 같은 행동도 하지 않길 바랍니다.\"\n\"Don't worry. I'm not a fool,\" said Eckels.\nThey all began ⓔto walk on the path.\n\n윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "answers": [
+        "ⓐ moved",
+        "ⓑ something unthinkable",
+        "ⓒ was covered",
+        "ⓓ calm",
+        "ⓔ to walk"
+      ],
+      "corAns": "1",
+      "explainKo": "지각동사 feel의 목적격보어는 현재분사 moving 또는 동사원형 move가 와야 한다. ⓐ moved가 틀렸다.",
+      "id": 6
     },
     {
       "id": 7,
@@ -272,6 +287,21 @@
       ],
       "corAns": "5",
       "explainKo": "present는 '현재, 선물, 현재의, 출석한, 제시하다'의 뜻이 있다. ⓐ returned to the present의 present는 명사 '현재'이고, ⑤도 명사 '현재'로 쓰였다. ① 그 시계는 아버지가 주신 선물이었다. ② 모든 회원이 회의에 참석했다. ③ 현재의 시스템은 약간의 변화가 필요하다. ④ 그는 여동생을 위한 생일 선물을 샀다. ⑤ 우리는 현재와 미래에 대해 생각해야 한다."
+    },
+    {
+      "group": "20-25",
+      "type": "TMC",
+      "question": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nThe machine stopped. They all returned to the ⓐpresent safely.\n\"①Is everything okay here?\" asked Travis.\n\"Fine. Welcome home!\" said Mr. Parker.\n(A) He sat down and looked ②close at the mud on his shoes. \"No, it ③can't be,\" said Eckels. \"It's all ④because of this little thing?\" He was shocked. In the mud on his right shoe, he found a small dead butterfly.\n(B) Then, he saw the TV. The new president was on the news, but it was not Mr. Keith. \"What's going on?\" He got more confused.\n(C) Eckels looked around the room carefully. Everything looked ⑤the same, except the big sign on the wall.\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① Is",
+        "② close",
+        "③ can't",
+        "④ because of",
+        "⑤ the same"
+      ],
+      "corAns": "2",
+      "explainKo": "looked를 수식하므로 형용사 close가 아니라 부사 closely가 와야 한다.",
+      "id": 21
     },
     {
       "id": 22,

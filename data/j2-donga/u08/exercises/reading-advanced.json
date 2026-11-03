@@ -9,21 +9,8 @@
     "218",
     "219"
   ],
-  "questionCount": 22,
-  "omitted": [
-    {
-      "n": 3,
-      "reason": "밑줄 (a)의 우리말이 판독되지 않음"
-    },
-    {
-      "n": 6,
-      "reason": "밑줄 ④·⑤의 위치를 읽을 수 없음"
-    },
-    {
-      "n": 15,
-      "reason": "흐름상 어색한 밑줄 ①·④·⑤의 어구를 읽을 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": 1,
@@ -56,6 +43,17 @@
       "explainKo": "(A) Mr. Keith, the new president는 동격으로 단수 주어이므로 was가 알맞다. (B) 주격 관계대명사절의 동사는 선행사 a time machine에 수를 일치시키므로 leaves가 알맞다. (C) stay는 '~한 상태를 유지하다'라는 뜻으로 형용사 보어를 취하므로 safe가 알맞다."
     },
     {
+      "group": "01-05",
+      "type": "TST",
+      "question": "[03] 다음 글을 읽고, 물음에 답하시오.\n\n\"(a) 저는 항상 공룡을 보고 싶었어요. Is it possible?\" asked Eckels.\n\n윗글의 밑줄 친 (a)의 우리말을 다음 조건에 맞게 바르게 영작하시오.\n조건\n1. always, want, a dinosaur, see를 이용하되 필요시 어형을 바꿀 것.\n2. 현재완료시제를 사용할 것.\n3. 축약형을 사용하여 총 7단어로 쓸 것.",
+      "answers": [
+        "I've always wanted to see a dinosaur.",
+        "I have always wanted to see a dinosaur."
+      ],
+      "explainKo": "항상 보고 싶었다는 경험은 현재완료 I've always wanted to see a dinosaur.",
+      "id": 3
+    },
+    {
       "id": 4,
       "group": "01-05",
       "type": "TST",
@@ -78,6 +76,21 @@
         "Eckels will travel to the past with Travis in a time machine to see a dinosaur"
       ],
       "explainKo": "Eckels는 Parker 씨가 아니라 여행 가이드인 Travis와 시간 여행을 하게 될 것이다."
+    },
+    {
+      "group": "06-09",
+      "type": "TMC",
+      "question": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there ①were two other travelers. Eckels sat down and closed his eyes. He felt the machine ②moving under his feet. After ③only a little minutes, the machine stopped.\n\"(A) We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? You ④must not leave it at any time. Do not touch ⑤anything. You might kill something by accident. (B) 이곳에서의 작은 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "answers": [
+        "① were",
+        "② moving",
+        "③ only a little",
+        "④ must not",
+        "⑤ anything"
+      ],
+      "corAns": "3",
+      "explainKo": "minutes는 셀 수 있는 명사이므로 a little이 아니라 a few(only a few minutes)가 와야 한다.",
+      "id": 6
     },
     {
       "id": 7,
@@ -183,6 +196,21 @@
       ],
       "corAns": "3",
       "explainKo": "티라노사우루스를 발견한 데 이어 그 공룡이 서서히 다가오자 Eckels는 겁에 질리고(B), 그가 타임머신으로 뛰어가다가 길을 벗어나자 Travis가 소리치고(C), 그 목소리를 들은 공룡이 여행객들을 향해 달려온다(A)는 흐름이 가장 자연스럽다."
+    },
+    {
+      "group": "14-19",
+      "type": "TMC",
+      "question": "[15] 다음 글을 읽고, 물음에 답하시오.\n\nAfter some time, Travis whispered, \"Look over there. There is a T. rex.\"\nThe T. rex heard Travis and turned its head toward him and the other travelers. There was a moment of ①silence. Then, it suddenly started to run toward them with a loud ②roar.\n\"Run, everybody! Run!\" shouted Travis.\nOne hundred meters away, a T. rex slowly ③disappeared.\n\"It,\" whispered Eckels. \"It...\"\n\"Sh!\"\n\"It... is huge. (a) 저는 이렇게 거대한 걸 본 적이 없어요. I'm so ④scared,\" said Eckels.\n\"Sh... quiet!\" Travis said angrily. \"You don't want it to see you.\"\n\"I can't breathe,\" said Eckels. \"Get me out of here!\"\n\"Don't ⑤panic, Eckels,\" said Travis. \"Turn around, and walk quietly back to the machine.\"\nEckels turned around and started to run. He was so terrified that he left the path by accident.\n\"Eckels!\" shouted Travis. \"Don't leave the path!\"\n\n윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "answers": [
+        "① silence",
+        "② roar",
+        "③ disappeared",
+        "④ scared",
+        "⑤ panic"
+      ],
+      "corAns": "3",
+      "explainKo": "티라노사우루스가 나타났으므로 disappeared가 아니라 appeared가 되어야 한다.",
+      "id": 15
     },
     {
       "id": 16,
