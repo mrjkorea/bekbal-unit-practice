@@ -1,0 +1,775 @@
+{
+  "id": "reading-lexgram",
+  "title": "Reading 적절한 어휘·어법 고르기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "95"
+  ],
+  "questionCount": 31,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": 1,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "special",
+        "common"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n01. Reporter: Today is October 9, a [special / common] day for Hangeul, the Korean alphabet.",
+      "explainKo": "답지 p.183. 정답: special.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": 2,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "festival",
+        "holiday"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n02. I'm at a Hangeul [festival / holiday] now.",
+      "explainKo": "답지 p.183. 정답: festival.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": 3,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "enjoy",
+        "enjoying"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n03. People are [enjoy / enjoying] fun activities here.",
+      "explainKo": "답지 p.183. 정답: enjoying.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": 4,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "happy",
+        "happily"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n04. They look [happy / happily] and excited.",
+      "explainKo": "답지 p.183. 정답: happy.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": 5,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "interview",
+        "interviewing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n05. I'm going to [interview / interviewing] three Hangeul lovers.",
+      "explainKo": "답지 p.183. 정답: interview.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": 6,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "is",
+        "are"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n06. Reporter: Here [is / are] my first question.",
+      "explainKo": "답지 p.183. 정답: is.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": 7,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "When",
+        "Why"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n07. [When / Why] do you like Hangeul?",
+      "explainKo": "답지 p.183. 정답: Why.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": 8,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "so",
+        "because"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n08. Pueng: I like Hangeul [so / because] it is easy to learn.",
+      "explainKo": "답지 p.183. 정답: because.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "9",
+      "label": "09",
+      "sourceId": 9,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "reading",
+        "read"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n09. I learned the 24 letters of Hangeul, and I am able to [reading / read] any Korean word now.",
+      "explainKo": "답지 p.183. 정답: read.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "look",
+        "looks"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n10. Anna: The shapes of Hangeul [look / looks] unique and beautiful.",
+      "explainKo": "답지 p.183. 정답: look.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Korea",
+        "Korean"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n11. I like the [Korea / Korean] word for Switzerland, \"스위스[seu-wi-seu].\"",
+      "explainKo": "답지 p.183. 정답: Korean.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "for",
+        "like"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n12. It looks [for / like] a soldier between two mountains.",
+      "explainKo": "답지 p.183. 정답: like.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "look",
+        "looks"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n13. It [look / looks] great!",
+      "explainKo": "답지 p.183. 정답: looks.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "it",
+        "its"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n14. William: I like Hangeul because [it / its] history is amazing.",
+      "explainKo": "답지 p.183. 정답: its.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "group": "-1-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "most",
+        "almost"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n15. A long time ago, [most / almost] Koreans couldn't read or write.",
+      "explainKo": "답지 p.183. 정답: most.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "so",
+        "because"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n16. King Sejong felt bad about this, [so / because] he created a new alphabet for his people.",
+      "explainKo": "답지 p.183. 정답: so.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "real",
+        "really"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n17. Reporter: You all [real / really] love Hangeul!",
+      "explainKo": "답지 p.183. 정답: really.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "What",
+        "How"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n18. [What / How] did you start learning it?",
+      "explainKo": "답지 p.183. 정답: How.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "I'm",
+        "I have"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n19. Pueng: [I'm / I have] a big fan of K-pop songs.",
+      "explainKo": "답지 p.183. 정답: I'm.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "So",
+        "Because"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n20. [So / Because] I wanted to sing Korean songs, I started learning Hangeul.",
+      "explainKo": "답지 p.183. 정답: Because.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "can sing",
+        "will sing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n21. Now I [can sing / will sing] many K-pop songs!",
+      "explainKo": "답지 p.183. 정답: can sing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "use",
+        "using"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n22. Anna: I was interested in [use / using] Hangeul in my designs.",
+      "explainKo": "답지 p.183. 정답: using.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "sounds",
+        "shapes"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n23. So I studied the [sounds / shapes] of Hangeul.",
+      "explainKo": "답지 p.183. 정답: shapes.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "24-1",
+      "label": "24",
+      "sourceId": 24,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "patterns",
+        "sounds"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n24. I can make unique [patterns / sounds] for clothes [on / with] Hangeul.",
+      "explainKo": "답지 p.183. 정답: patterns. 두 괄호 중 앞 괄호.",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 첫 번째 괄호 [patterns / sounds]만 고릅니다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "24-2",
+      "label": "24",
+      "sourceId": 24,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "on",
+        "with"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n24. I can make unique [patterns / sounds] for clothes [on / with] Hangeul.",
+      "explainKo": "답지 p.183. 정답: with. 두 괄호 중 뒤 괄호.",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 두 번째 괄호 [on / with]만 고릅니다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "teaching",
+        "to teach"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n25. William: I wanted [teaching / to teach] the science of Hangeul to my students.",
+      "explainKo": "답지 p.183. 정답: to teach.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "look",
+        "look like"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n26. Some letters [look / look like] the shape of the mouth and tongue for their sounds.",
+      "explainKo": "답지 p.183. 정답: look like.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "it",
+        "them"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n27. King Sejong made [it / them] that way.",
+      "explainKo": "답지 p.183. 정답: it.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "science",
+        "scientific"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n28. It's very [science / scientific].",
+      "explainKo": "답지 p.183. 정답: scientific.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "share",
+        "sharing"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n29. Reporter: Thank you for [share / sharing] your stories.",
+      "explainKo": "답지 p.183. 정답: sharing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "group": "-2-",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Enjoy",
+        "Enjoying"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.\n30. [Enjoy / Enjoying] this festival!",
+      "explainKo": "답지 p.183. 정답: Enjoy.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "sectionInstructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 31문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "directionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 글의 괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 31
+    }
+  ]
+}

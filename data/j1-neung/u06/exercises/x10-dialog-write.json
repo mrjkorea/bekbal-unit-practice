@@ -1,0 +1,1174 @@
+{
+  "id": "x10-dialog-write",
+  "title": "대화 영작하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "20-21",
+  "questionCount": 54,
+  "omitted": [],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "1 Listen and Talk A-1-G-01",
+      "explainKo": "정답: There are many games here. Why don't we play a game? 답지 p191 대화 영작 1번 1번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 여기 많은 게임이 있다. 우리 게임을 하는 게 어때?",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "1",
+      "accept": [
+        "There are many games here. Why don't we play a game?",
+        "Therearemanygameshere.Whydon'tweplayagame?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "1 Listen and Talk A-1-B-02",
+      "explainKo": "정답: Sure! Oh, look over there. Why are people throwing sticks into a pot? 답지 p191 대화 영작 1번 2번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 좋아! 오, 저길 봐. 왜 사람들이 항아리에 막대기를 던지고 있는 거니?",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "2",
+      "accept": [
+        "Sure! Oh, look over there. Why are people throwing sticks into a pot?",
+        "Sure!Oh,lookoverthere.Whyarepeoplethrowingsticksintoapot?"
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "1 Listen and Talk A-1-G-03",
+      "explainKo": "정답: They are playing tuho. 답지 p191 대화 영작 1번 3번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 그들은 투호 놀이를 하고 있는 거야.",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-3",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "3",
+      "accept": [
+        "They are playing tuho.",
+        "Theyareplayingtuho."
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "1 Listen and Talk A-1-B-04",
+      "explainKo": "정답: What is tuho? 답지 p191 대화 영작 1번 4번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 투호가 뭐니?",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-4",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "4",
+      "accept": [
+        "What is tuho?",
+        "Whatistuho?"
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "1 Listen and Talk A-1-G-05",
+      "explainKo": "정답: It's a traditional Korean game. You throw sticks into a pot. Then you get points. 답지 p191 대화 영작 1번 5번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 한국의 전통 놀이야. 항아리 안에 막대기를 던져. 그러면 너는 점수를 얻어.",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-5",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "5",
+      "accept": [
+        "It's a traditional Korean game. You throw sticks into a pot. Then you get points.",
+        "It'satraditionalKoreangame.Youthrowsticksintoapot.Thenyougetpoints."
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "1 Listen and Talk A-1-B-06",
+      "explainKo": "정답: It looks fun! Let's play it. 답지 p191 대화 영작 1번 6번째 줄.",
+      "promptEn": "1 Listen and Talk A-1 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 재밌어 보이는데! 우리 그것을 하자.",
+      "type": "sentence",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "1-6",
+      "section": "s1",
+      "sectionTitle": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "6",
+      "accept": [
+        "It looks fun! Let's play it.",
+        "Itlooksfun!Let'splayit."
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "2 Listen and Talk A-2-G-01",
+      "explainKo": "정답: I hear some exciting music. 답지 p191 대화 영작 2번 1번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 신나는 음악이 들려.",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-1",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "7",
+      "accept": [
+        "I hear some exciting music.",
+        "Ihearsomeexcitingmusic."
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "2 Listen and Talk A-2-B-02",
+      "explainKo": "정답: I can hear it too. Oh, people are playing nongak. 답지 p191 대화 영작 2번 2번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 나도 들려. 오, 사람들이 농악을 연주하고 있어.",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-2",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "8",
+      "accept": [
+        "I can hear it too. Oh, people are playing nongak.",
+        "Icanhearittoo.Oh,peopleareplayingnongak."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "2 Listen and Talk A-2-G-03",
+      "explainKo": "정답: What is nongak? 답지 p191 대화 영작 2번 3번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 농악이 뭐야?",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-3",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "9",
+      "accept": [
+        "What is nongak?",
+        "Whatisnongak?"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "2 Listen and Talk A-2-B-04",
+      "explainKo": "정답: It is traditional Korean music. The performers play many different instruments. 답지 p191 대화 영작 2번 4번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 한국의 전통 음악이야. 연주자들이 많은 다양한 악기를 연주해.",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-4",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "10",
+      "accept": [
+        "It is traditional Korean music. The performers play many different instruments.",
+        "ItistraditionalKoreanmusic.Theperformersplaymanydifferentinstruments."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "2 Listen and Talk A-2-G-05",
+      "explainKo": "정답: Their clothes look nice too. 답지 p191 대화 영작 2번 5번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 그들의 옷도 멋져 보이는데.",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-5",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "11",
+      "accept": [
+        "Their clothes look nice too.",
+        "Theirclotheslooknicetoo."
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "2 Listen and Talk A-2-B-06",
+      "explainKo": "정답: Yeah. They even dance and play at the same time. Why don't we go and watch them? 답지 p191 대화 영작 2번 6번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 그래. 그들은 동시에 춤을 추고 연주까지도 해. 우리 가서 그들을 구경하는 게 어때?",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-6",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "12",
+      "accept": [
+        "Yeah. They even dance and play at the same time. Why don't we go and watch them?",
+        "Yeah.Theyevendanceandplayatthesametime.Whydon'twegoandwatchthem?"
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "2 Listen and Talk A-2-G-07",
+      "explainKo": "정답: That sounds great! 답지 p191 대화 영작 2번 7번째 줄.",
+      "promptEn": "2 Listen and Talk A-2 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 좋은 것 같다!",
+      "type": "sentence",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "2-7",
+      "section": "s2",
+      "sectionTitle": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "13",
+      "accept": [
+        "That sounds great!",
+        "Thatsoundsgreat!"
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "3 Listen and Talk A-3-B-01",
+      "explainKo": "정답: Why are those people throwing sticks in the air? 답지 p191 대화 영작 3번 1번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 저 사람들은 왜 막대기를 공중에 던지는 거니?",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-1",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "14",
+      "accept": [
+        "Why are those people throwing sticks in the air?",
+        "Whyarethosepeoplethrowingsticksintheair?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "3 Listen and Talk A-3-G-02",
+      "explainKo": "정답: They are playing yunnori. 답지 p191 대화 영작 3번 2번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 그들은 윷놀이하고 있어.",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-2",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "15",
+      "accept": [
+        "They are playing yunnori.",
+        "Theyareplayingyunnori."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "3 Listen and Talk A-3-B-03",
+      "explainKo": "정답: What is yunnori? 답지 p191 대화 영작 3번 3번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 윷놀이가 뭐니?",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-3",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "16",
+      "accept": [
+        "What is yunnori?",
+        "Whatisyunnori?"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "3 Listen and Talk A-3-G-04",
+      "explainKo": "정답: It is a traditional Korean board game. 답지 p191 대화 영작 3번 4번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 한국의 전통 보드게임이야.",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-4",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "17",
+      "accept": [
+        "It is a traditional Korean board game.",
+        "ItisatraditionalKoreanboardgame."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "3 Listen and Talk A-3-B-05",
+      "explainKo": "정답: I want to try it, but I don't know the rules. 답지 p191 대화 영작 3번 5번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 나는 그것을 해보고 싶은데 규칙을 모르겠어.",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-5",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "18",
+      "accept": [
+        "I want to try it, but I don't know the rules.",
+        "Iwanttotryit,butIdon'tknowtherules."
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "3 Listen and Talk A-3-G-06",
+      "explainKo": "정답: It's simple. You just throw four sticks, and they decide your moves. Why don't we play the game? 답지 p191 대화 영작 3번 6번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 간단해. 네가 막대기 네 개만 던지고, 막대기들은 (말의) 움직임을 결정하지. 우리도 그 게임을 하는 게 어때?",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-6",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "19",
+      "accept": [
+        "It's simple. You just throw four sticks, and they decide your moves. Why don't we play the game?",
+        "It'ssimple.Youjustthrowfoursticks,andtheydecideyourmoves.Whydon'tweplaythegame?"
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "3 Listen and Talk A-3-B-07",
+      "explainKo": "정답: Okay. That sounds fun! 답지 p191 대화 영작 3번 7번째 줄.",
+      "promptEn": "3 Listen and Talk A-3 (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 좋아. 재밌을 것 같아!",
+      "type": "sentence",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "3-7",
+      "section": "s3",
+      "sectionTitle": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "sectionInstructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "20",
+      "accept": [
+        "Okay. That sounds fun!",
+        "Okay.Thatsoundsfun!"
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "4 Listen and Talk B-A-01",
+      "explainKo": "정답: What is this instrument? 답지 p191 대화 영작 4번 1번째 줄.",
+      "promptEn": "4 Listen and Talk B (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nA: A: 이 악기는 무엇이니?",
+      "type": "sentence",
+      "directionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4-1",
+      "section": "s4",
+      "sectionTitle": "Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21",
+      "accept": [
+        "What is this instrument?",
+        "Whatisthisinstrument?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "4 Listen and Talk B-B-02",
+      "explainKo": "정답: It is a janggu. It's a traditional Korean instrument. 답지 p191 대화 영작 4번 2번째 줄.",
+      "promptEn": "4 Listen and Talk B (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: B: 그것은 장구야. 한국의 전통 악기지.",
+      "type": "sentence",
+      "directionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4-2",
+      "section": "s4",
+      "sectionTitle": "Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22",
+      "accept": [
+        "It is a janggu. It's a traditional Korean instrument.",
+        "Itisajanggu.It'satraditionalKoreaninstrument."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "4 Listen and Talk B-A-03",
+      "explainKo": "정답: I see. Why don't we play it together? 답지 p191 대화 영작 4번 3번째 줄.",
+      "promptEn": "4 Listen and Talk B (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nA: A: 그렇구나. 우리 같이 연주해 보는 건 어떨까?",
+      "type": "sentence",
+      "directionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4-3",
+      "section": "s4",
+      "sectionTitle": "Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "23",
+      "accept": [
+        "I see. Why don't we play it together?",
+        "Isee.Whydon'tweplayittogether?"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "4 Listen and Talk B-B-04",
+      "explainKo": "정답: Sure. 답지 p191 대화 영작 4번 4번째 줄.",
+      "promptEn": "4 Listen and Talk B (교과서 96쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: B: 좋아.",
+      "type": "sentence",
+      "directionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "4-4",
+      "section": "s4",
+      "sectionTitle": "Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "24",
+      "accept": [
+        "Sure."
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "5 Listen and Talk C-G-01",
+      "explainKo": "정답: Hey, Tate. That man is wearing a unique hat. What is it? 답지 p191 대화 영작 5번 1번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 얘, Tate. 저 남자가 독특한 모자를 쓰고 있어. 그게 뭐야?",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-1",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "25",
+      "accept": [
+        "Hey, Tate. That man is wearing a unique hat. What is it?",
+        "Hey,Tate.Thatmaniswearingauniquehat.Whatisit?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "5 Listen and Talk C-B-02",
+      "explainKo": "정답: It is a gat. It's a traditional Korean hat. 답지 p191 대화 영작 5번 2번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 그것은 갓이야. 한국의 전통 모자야.",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-2",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "26",
+      "accept": [
+        "It is a gat. It's a traditional Korean hat.",
+        "Itisagat.It'satraditionalKoreanhat."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "5 Listen and Talk C-G-03",
+      "explainKo": "정답: I see. It looks nice. 답지 p191 대화 영작 5번 3번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 그렇구나. 멋져 보인다.",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-3",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "27",
+      "accept": [
+        "I see. It looks nice.",
+        "Isee.Itlooksnice."
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "5 Listen and Talk C-B-04",
+      "explainKo": "정답: Yes. In the past, men wore a gat when they went out. 답지 p191 대화 영작 5번 4번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 그래. 옛날에 남자들은 외출할 때 갓을 썼어.",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-4",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "28",
+      "accept": [
+        "Yes. In the past, men wore a gat when they went out.",
+        "Yes.Inthepast,menworeagatwhentheywentout."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "5 Listen and Talk C-G-05",
+      "explainKo": "정답: Interesting. It goes well with hanbok. 답지 p191 대화 영작 5번 5번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 흥미롭네. 한복에 잘 어울려.",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-5",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "29",
+      "accept": [
+        "Interesting. It goes well with hanbok.",
+        "Interesting.Itgoeswellwithhanbok."
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "5 Listen and Talk C-B-06",
+      "explainKo": "정답: Right. And it's light and cool. Why don't we try on a gat? 답지 p191 대화 영작 5번 6번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 맞아. 그리고 가볍고 시원해. 갓을 한번 써 보는 건 어때?",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-6",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "30",
+      "accept": [
+        "Right. And it's light and cool. Why don't we try on a gat?",
+        "Right.Andit'slightandcool.Whydon'twetryonagat?"
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "5 Listen and Talk C-G-07",
+      "explainKo": "정답: Sure. Where can we do that? 답지 p191 대화 영작 5번 7번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 물론이지. 어디서 그것을 할 수 있니?",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-7",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "31",
+      "accept": [
+        "Sure. Where can we do that?",
+        "Sure.Wherecanwedothat?"
+      ]
+    },
+    {
+      "sourceId": 8,
+      "group": "5 Listen and Talk C-B-08",
+      "explainKo": "정답: There's a hanbok shop over there. Let's go. 답지 p191 대화 영작 5번 8번째 줄.",
+      "promptEn": "5 Listen and Talk C (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 저쪽에 한복 가게가 있어. 가보자.",
+      "type": "sentence",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "5-8",
+      "section": "s5",
+      "sectionTitle": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "32",
+      "accept": [
+        "There's a hanbok shop over there. Let's go.",
+        "There'sahanbokshopoverthere.Let'sgo."
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "6 Listen and Talk D-A-01",
+      "explainKo": "정답: I want to introduce neolttwigi to you. 답지 p191 대화 영작 6번 1번째 줄.",
+      "promptEn": "6 Listen and Talk D (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nA: A: 나는 너에게 널뛰기를 소개하고 싶어.",
+      "type": "sentence",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6-1",
+      "section": "s6",
+      "sectionTitle": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "33",
+      "accept": [
+        "I want to introduce neolttwigi to you.",
+        "Iwanttointroduceneolttwigitoyou."
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "6 Listen and Talk D-B-02",
+      "explainKo": "정답: What is neolttwigi? 답지 p191 대화 영작 6번 2번째 줄.",
+      "promptEn": "6 Listen and Talk D (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: B: 널뛰기가 뭐야?",
+      "type": "sentence",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6-2",
+      "section": "s6",
+      "sectionTitle": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "34",
+      "accept": [
+        "What is neolttwigi?",
+        "Whatisneolttwigi?"
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "6 Listen and Talk D-A-03",
+      "explainKo": "정답: It is a traditional Korean game. Players stand on a board and jump high. 답지 p191 대화 영작 6번 3번째 줄.",
+      "promptEn": "6 Listen and Talk D (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nA: A: 그건 한국의 전통 놀이야. 널뛰기를 하는 사람들은 판 위에 서서 높이 뛰어올라.",
+      "type": "sentence",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6-3",
+      "section": "s6",
+      "sectionTitle": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "35",
+      "accept": [
+        "It is a traditional Korean game. Players stand on a board and jump high.",
+        "ItisatraditionalKoreangame.Playersstandonaboardandjumphigh."
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "6 Listen and Talk D-B-04",
+      "explainKo": "정답: I see. Why don't we play it together? 답지 p191 대화 영작 6번 4번째 줄.",
+      "promptEn": "6 Listen and Talk D (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: B: 그렇구나. 우리 함께 그것을 해 볼래?",
+      "type": "sentence",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6-4",
+      "section": "s6",
+      "sectionTitle": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "36",
+      "accept": [
+        "I see. Why don't we play it together?",
+        "Isee.Whydon'tweplayittogether?"
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "6 Listen and Talk D-A-05",
+      "explainKo": "정답: That's a great idea. 답지 p191 대화 영작 6번 5번째 줄.",
+      "promptEn": "6 Listen and Talk D (교과서 97쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nA: A: 좋은 생각이야.",
+      "type": "sentence",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "6-5",
+      "section": "s6",
+      "sectionTitle": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "sectionInstructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "37",
+      "accept": [
+        "That's a great idea.",
+        "That'sagreatidea."
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "7 Real-Life Communication-G-01",
+      "explainKo": "정답: Hi, Yejun! How was your trip to Andong? 답지 p191 대화 영작 7번 1번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 안녕, 예준아! 안동 여행은 어땠니?",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-1",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "38",
+      "accept": [
+        "Hi, Yejun! How was your trip to Andong?",
+        "Hi,Yejun!HowwasyourtriptoAndong?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "7 Real-Life Communication-B-02",
+      "explainKo": "정답: It was great! I watched a Hahoe talchum performance. 답지 p191 대화 영작 7번 2번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 좋았어! 하회탈춤 공연을 봤어.",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-2",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "39",
+      "accept": [
+        "It was great! I watched a Hahoe talchum performance.",
+        "Itwasgreat!IwatchedaHahoetalchumperformance."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "7 Real-Life Communication-G-03",
+      "explainKo": "정답: What is Hahoe talchum? 답지 p191 대화 영작 7번 3번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 하회탈춤이 뭐야?",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-3",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "40",
+      "accept": [
+        "What is Hahoe talchum?",
+        "WhatisHahoetalchum?"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "7 Real-Life Communication-B-04",
+      "explainKo": "정답: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music. 답지 p191 대화 영작 7번 4번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 한국의 전통 무용극이야. 무용수들은 가면을 쓰고 신나는 음악에 맞춰 춤을 춰.",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-4",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "41",
+      "accept": [
+        "It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.",
+        "ItisatraditionalKoreandancedrama.Thedancerswearmasksanddancetoexcitingmusic."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "7 Real-Life Communication-G-05",
+      "explainKo": "정답: Sounds interesting! What else did you do? 답지 p191 대화 영작 7번 5번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 재미있을 것 같다! 그 밖에 또 무엇을 했니?",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-5",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "42",
+      "accept": [
+        "Sounds interesting! What else did you do?",
+        "Soundsinteresting!Whatelsedidyoudo?"
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "7 Real-Life Communication-B-06",
+      "explainKo": "정답: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious. 답지 p191 대화 영작 7번 6번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 찜닭을 먹었어. 안동은 찜닭으로 유명해! 닭 요리인데 맛있어.",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-6",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "43",
+      "accept": [
+        "I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.",
+        "Iatejjimdak.Andongisfamousforjjimdak!Itisachickendish,andit'sdelicious."
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "7 Real-Life Communication-G-07",
+      "explainKo": "정답: Wow, I really want to try it. 답지 p191 대화 영작 7번 7번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 와, 정말 먹어 보고 싶다.",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-7",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "44",
+      "accept": [
+        "Wow, I really want to try it.",
+        "Wow,Ireallywanttotryit."
+      ]
+    },
+    {
+      "sourceId": 8,
+      "group": "7 Real-Life Communication-B-08",
+      "explainKo": "정답: Why don't we eat jjimdak together sometime? 답지 p191 대화 영작 7번 8번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 우리 언제 같이 찜닭을 먹는 게 어때?",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-8",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "45",
+      "accept": [
+        "Why don't we eat jjimdak together sometime?",
+        "Whydon'tweeatjjimdaktogethersometime?"
+      ]
+    },
+    {
+      "sourceId": 9,
+      "group": "7 Real-Life Communication-G-09",
+      "explainKo": "정답: I'd love to! 답지 p191 대화 영작 7번 9번째 줄.",
+      "promptEn": "7 Real-Life Communication (교과서 98쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nG: 소녀: 정말 그러고 싶다!",
+      "type": "sentence",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "7-9",
+      "section": "s7",
+      "sectionTitle": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "sectionInstructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "46",
+      "accept": [
+        "I'd love to!",
+        "I'dloveto!"
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "8 Lesson Review A-B-01",
+      "explainKo": "정답: Mom, what are you reading? 답지 p191 대화 영작 8번 1번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 엄마, 무엇을 읽고 있어요?",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-1",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "47",
+      "accept": [
+        "Mom, what are you reading?",
+        "Mom,whatareyoureading?"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "8 Lesson Review A-W-02",
+      "explainKo": "정답: I'm reading a book about beautiful places in Korea. 답지 p191 대화 영작 8번 2번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nW: 여자: 한국의 아름다운 장소들에 관한 책을 읽고 있단다.",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-2",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "48",
+      "accept": [
+        "I'm reading a book about beautiful places in Korea.",
+        "I'mreadingabookaboutbeautifulplacesinKorea."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "8 Lesson Review A-B-03",
+      "explainKo": "정답: Sounds interesting. 답지 p191 대화 영작 8번 3번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 재밌겠는데요.",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-3",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "49",
+      "accept": [
+        "Sounds interesting.",
+        "Soundsinteresting."
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "8 Lesson Review A-W-04",
+      "explainKo": "정답: Jungnogwon looks so amazing! 답지 p191 대화 영작 8번 4번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nW: 여자: 죽녹원이 정말 대단해 보이는구나!",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-4",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "50",
+      "accept": [
+        "Jungnogwon looks so amazing!",
+        "Jungnogwonlookssoamazing!"
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "8 Lesson Review A-B-05",
+      "explainKo": "정답: What is Jungnogwon? 답지 p191 대화 영작 8번 5번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 죽녹원이 뭐예요?",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-5",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "51",
+      "accept": [
+        "What is Jungnogwon?",
+        "WhatisJungnogwon?"
+      ]
+    },
+    {
+      "sourceId": 6,
+      "group": "8 Lesson Review A-W-06",
+      "explainKo": "정답: It is a bamboo forest in Damyang. 답지 p191 대화 영작 8번 6번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nW: 여자: 그것은 담양에 있는 대나무 숲이란다.",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-6",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "52",
+      "accept": [
+        "It is a bamboo forest in Damyang.",
+        "ItisabambooforestinDamyang."
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "8 Lesson Review A-B-07",
+      "explainKo": "정답: It looks wonderful! Why don't we go there this Sunday? 답지 p191 대화 영작 8번 7번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nB: 소년: 멋지네요! 우리 이번 일요일에 거기에 가는 건 어때요?",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-7",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "53",
+      "accept": [
+        "It looks wonderful! Why don't we go there this Sunday?",
+        "Itlookswonderful!Whydon'twegotherethisSunday?"
+      ]
+    },
+    {
+      "sourceId": 8,
+      "group": "8 Lesson Review A-W-08",
+      "explainKo": "정답: That's a fantastic idea. 답지 p191 대화 영작 8번 8번째 줄.",
+      "promptEn": "8 Lesson Review A (교과서 110쪽)\n다음 우리말에 맞도록 대화를 바르게 영작하시오.\nW: 여자: 그거 정말 좋은 생각이다.",
+      "type": "sentence",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "8-8",
+      "section": "s8",
+      "sectionTitle": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "sectionInstructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "54",
+      "accept": [
+        "That's a fantastic idea.",
+        "That'safantasticidea."
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게… 6문항, Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게… 7문항, Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게… 7문항, Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영… 4문항, Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영… 8문항, Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영… 5문항, Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를… 9문항, Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하… 8문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게…",
+      "directionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "1 Listen and Talk A-1 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 6
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게…",
+      "directionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "2 Listen and Talk A-2 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 7
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게…",
+      "directionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "3 Listen and Talk A-3 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 7
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영…",
+      "directionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "4 Listen and Talk B 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 4
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영…",
+      "directionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "5 Listen and Talk C 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 8
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영…",
+      "directionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "6 Listen and Talk D 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 7 Real-Life Communication 다음 우리말에 맞도록 대화를…",
+      "directionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "7 Real-Life Communication 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 9
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하…",
+      "directionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "8 Lesson Review A 다음 우리말에 맞도록 대화를 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 8
+    }
+  ]
+}

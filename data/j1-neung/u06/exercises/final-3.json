@@ -1,0 +1,595 @@
+{
+  "id": "final-3",
+  "title": "최종점검 모의고사 3회",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "80-83",
+  "questionCount": 21,
+  "omitted": [
+    {
+      "id": "Q06",
+      "reason": "p197 정답 칸은 06 ①인데 p198 해설은 Why don't we = How/What about + -ing라 ④ What about playing the game과 맞다. 번호가 갈려 생략."
+    },
+    {
+      "id": "Q09",
+      "reason": "p165 09번 ①번 영어 문장이 OCR에 없고 p198 해설만 '화자 A는 경주를 방문했다'로 우리말 요약이 있다. 선택지 영어를 만들지 않음."
+    },
+    {
+      "id": "Q16",
+      "reason": "p166 16번 밑줄 ①~⑤가 문장에 번호로 찍히지 않음. p198 해설은 because of → because. 어느 번호인지 확정하지 못해 생략."
+    },
+    {
+      "id": "Q23",
+      "reason": "p197 정답 칸 23 O(①로 읽히기 쉬움)와 p198 해설(William의 과학성 설명, 지문상 (④) 뒤)이 갈린다. 생략."
+    }
+  ],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "Q01",
+      "explainKo": "정답: ③ missed. p197 해설 01: 나는 오늘 아침에 버스를 놓쳤다. 정답 칸 01은 비어 있고 해설의 ③을 따랐다.",
+      "promptEn": "01 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nI __________ the bus this morning.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q01",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1",
+      "choices": [
+        "shared",
+        "wore",
+        "missed",
+        "performed",
+        "spent"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 2,
+      "group": "Q02",
+      "explainKo": "정답: ⑤. p197 3회 정답 02 ⑤. p197 해설: ⓔ light는 문장에서 '전등'인데 풀이는 '가벼운'이다.",
+      "promptEn": "02 다음 밑줄 친 단어의 문맥상의 의미와 영영풀이가 적절하지 않은 것은?\nⓐ Many animals live in the forest.\nⓑ Lisa decided to join the drama club.\nⓒ Can you share your idea?\nⓓ Today is a special day for me.\nⓔ You should turn off the light when you go out.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q02",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2",
+      "choices": [
+        "ⓐ a large area of land covered with many trees",
+        "ⓑ to choose to do something",
+        "ⓒ to use, experience, or enjoy with others",
+        "ⓓ better or more important than the usual",
+        "ⓔ not heavy; easy to lift or carry"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 3,
+      "group": "Q03",
+      "explainKo": "정답: A long time ago. p197 3회 정답 03. p198 해설: a long time ago는 오래전에.",
+      "promptEn": "03 다음 우리말과 일치하도록 빈칸에 들어갈 적절한 말을 쓰시오. (4단어)\n오래전에 공룡들이 지구에 살았다.\n(1)__________ dinosaurs lived on the Earth.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "id": "Q03-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3",
+      "accept": [
+        "A long time ago",
+        "Alongtimeago"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "Q04",
+      "explainKo": "정답: ① What is. p198 해설 04: '~은 무엇이니?'는 What is. p197 정답 칸 04 O는 ①.",
+      "promptEn": "04 위 대화의 빈칸 (A)에 들어갈 가장 적절한 것은?\nB: Why are those people throwing sticks in the air?\nG: They are playing yunnori.\nB: (A) __________ yunnori?\nG: It is a traditional Korean board game.\nB: I want to try it, but I don't know the (B).\nG: It's simple. You just throw four sticks, and they decide your moves. (C) Why don't we play the game?\nB: Okay. That sounds fun!",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q04",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4",
+      "choices": [
+        "What is",
+        "When is",
+        "Who is",
+        "Which is",
+        "How is"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 5,
+      "group": "Q05",
+      "explainKo": "정답: rules. p197 3회 정답 05 rules. p198 해설: 규칙을 알다는 복수 rules.",
+      "promptEn": "05 위 대화의 빈칸 (B)에 들어갈 적절한 단어를 다음 영영풀이를 참고하여 쓰시오. (필요시 어형을 바꿀 것)\na direction that guides action\nB: I want to try it, but I don't know the (1)__________.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q05-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5",
+      "accept": [
+        "rules"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "Q07",
+      "explainKo": "정답: ③ should see. p197 3회 정답 07 ③. p198 해설: should + 동사원형. 너는 경주에서 첨성대를 봐야 한다.",
+      "promptEn": "07 위 대화의 빈칸 (A)에 들어갈 말로 가장 적절한 것은?\nA: You (A) __________ Cheomseongdae in Gyeongju.\nB: What is Cheomseongdae?\nA: It is a very old tower from the Silla period. People used it to study the stars.\nB: Sounds interesting. I want to see (B) it.\nA: Why don't we go to Gyeongju and see Cheomseongdae together sometime?\nB: Sure. That's a good idea.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q07",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6",
+      "choices": [
+        "see",
+        "should seeing",
+        "should see",
+        "are seeing",
+        "saw"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 8,
+      "group": "Q08",
+      "explainKo": "정답: ⑤ Cheomseongdae. p197 3회 정답 08 ⑤. p198 해설: 보고 싶은 it은 첨성대.",
+      "promptEn": "08 위 대화의 밑줄 친 (B)가 가리키는 것은?\nA: You (A) __________ Cheomseongdae in Gyeongju.\nB: What is Cheomseongdae?\nA: It is a very old tower from the Silla period. People used it to study the stars.\nB: Sounds interesting. I want to see (B) it.\nA: Why don't we go to Gyeongju and see Cheomseongdae together sometime?\nB: Sure. That's a good idea.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q08",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7",
+      "choices": [
+        "star",
+        "people",
+        "Gyeongju",
+        "Silla period",
+        "Cheomseongdae"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 10,
+      "group": "Q10",
+      "explainKo": "정답: Why don't we play. p197 3회 정답 10 Why don't we play. p198 해설: Why don't we + 동사원형.",
+      "promptEn": "10 다음 대화의 밑줄 친 우리말을 주어진 단어를 이용하여 문장을 완성하시오. (why, it)\nA: I see. 우리 같이 연주해 보는 게 어때?\nA: I see. (1)__________ it together?\nB: Sure.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "id": "Q10-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "8",
+      "accept": [
+        "Why don't we play",
+        "Whydon'tweplay"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 11,
+      "group": "Q11",
+      "explainKo": "정답: ④ terribly. p198 해설 11: sound 뒤에는 형용사나 sound like. terribly는 부사. p197 정답 칸 11은 비어 있고 해설의 ④를 따랐다.",
+      "promptEn": "11 다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nThis music sounds __________.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q11",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9",
+      "choices": [
+        "nice",
+        "soft",
+        "too loud",
+        "terribly",
+        "like a love song"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 12,
+      "group": "Q12",
+      "explainKo": "정답: ① because. p198 해설 12: 뒤에 이유의 절이 온다. p197 정답 칸 12는 비어 있고 해설을 따랐다.",
+      "promptEn": "12 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nI like Sam __________ he is kind.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q12",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10",
+      "choices": [
+        "because",
+        "because of",
+        "so",
+        "and",
+        "but"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 13,
+      "group": "Q13",
+      "explainKo": "정답: looks like. p197 3회 정답 13 looks like. p198 해설: 뒤에 명사 a lion이 오면 look like.",
+      "promptEn": "13 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n그 개는 사자처럼 보인다.\n→ The dog (1)__________ a lion.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
+      "id": "Q13-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "11",
+      "accept": [
+        "looks like",
+        "lookslike"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 14,
+      "group": "Q14",
+      "explainKo": "정답: ②. p197 3회 정답 14 ②. p198 해설: the heavy traffic는 명사구라 Because of.",
+      "promptEn": "14 다음 중 어법상 틀린 것은?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q14",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12",
+      "choices": [
+        "I don't like Brian because he is rude.",
+        "Because the heavy traffic, we were late.",
+        "He went home early because he was tired.",
+        "We went shopping because we needed some clothes.",
+        "Because I finished my homework, I can watch TV tonight."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 15,
+      "group": "Q15",
+      "explainKo": "정답: ③ 3개. p197 3회 정답 15 3. p198 해설: tastes sour, feels like ice, smells lovely 세 문장.",
+      "promptEn": "15 다음 중 어법상 옳은 문장의 개수로 적절한 것은?\n• This candy tastes sour.\n• His story sounds like boring.\n• The pillow feels a cloud.\n• The water feels like ice.\n• My dog smells lovely after a bath.\n• Sam looks smartly when he helps his friends.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q15",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "13",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 17,
+      "group": "Q17",
+      "explainKo": "정답: You should wear a coat because it is cold. / Because it is cold, you should wear a coat. p197 3회 정답 17.",
+      "promptEn": "17 다음 두 문장을 because를 이용하여 한 문장으로 바꿔 쓰시오.\n• It is cold.\n• You should wear a coat.",
+      "type": "sentence",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "Q17",
+      "section": "sS",
+      "sectionTitle": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "sectionInstructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "14",
+      "accept": [
+        "You should wear a coat because it is cold.",
+        "Youshouldwearacoatbecauseitiscold.",
+        "Because it is cold, you should wear a coat.",
+        "Becauseitiscold,youshouldwearacoat."
+      ]
+    },
+    {
+      "sourceId": 18,
+      "group": "Q18",
+      "explainKo": "정답: ⑤ 스위스[seu-wi-seu]. p197 3회 정답 18 ⑤. p198 해설: 두 산 사이의 군인처럼 보이는 것은 한글 '스위스'.",
+      "promptEn": "18 윗글의 밑줄 친 (A)가 가리키는 것은?\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look happy and excited. I'm going to interview three Hangeul lovers.\nReporter: Here is my first question. Why do you like Hangeul?\nPueng: I like Hangeul because it is easy to learn. I learned the 24 letters of Hangeul, and I am able to read any Korean word now.\nAnna: The shapes of Hangeul look unique and beautiful. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" (A) It looks like a soldier between two mountains. It looks great!\nWilliam: I like Hangeul because its history is amazing. A long time ago, most Koreans (B) couldn't read or write. King Sejong felt bad about this, so he created a new alphabet for his people.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q18",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "15",
+      "choices": [
+        "a soldier",
+        "a mountain",
+        "Switzerland",
+        "the Korean word",
+        "스위스[seu-wi-seu]"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 19,
+      "group": "Q19",
+      "explainKo": "정답: ⑤ were not able to read or write. p197 3회 정답 19 ⑤. p198 해설: 복수 과거 부정 were not able to.",
+      "promptEn": "19 윗글의 밑줄 친 (B)와 바꿔 쓸 수 있는 것은?\nmost Koreans (B) couldn't read or write.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q19",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "16",
+      "choices": [
+        "shouldn't read or write",
+        "wouldn't read or write",
+        "was not read or write",
+        "was not able to read or write",
+        "were not able to read or write"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 20,
+      "group": "Q20",
+      "explainKo": "정답: interview. p197 3회 정답 20 interview. p198 해설: 누군가를 더 잘 알려고 질문하다.",
+      "promptEn": "20 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.\nto ask someone questions to learn more about them\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look happy and excited. I'm going to interview three Hangeul lovers.\nReporter: Here is my first question. Why do you like Hangeul?\nPueng: I like Hangeul because it is easy to learn. I learned the 24 letters of Hangeul, and I am able to read any Korean word now.\nAnna: The shapes of Hangeul look unique and beautiful. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" (A) It looks like a soldier between two mountains. It looks great!\nWilliam: I like Hangeul because its history is amazing. A long time ago, most Koreans (B) couldn't read or write. King Sejong felt bad about this, so he created a new alphabet for his people.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q20-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "17",
+      "accept": [
+        "interview"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다."
+    },
+    {
+      "sourceId": 21,
+      "group": "Q21",
+      "explainKo": "정답: ⑤. p198 해설 21: 한글을 만든 방법은 나오지 않는다. p197 정답 칸 21은 비어 있고 해설의 ⑤를 따랐다.",
+      "promptEn": "21 윗글을 읽고, 대답할 수 없는 질문은?\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look happy and excited. I'm going to interview three Hangeul lovers.\nReporter: Here is my first question. Why do you like Hangeul?\nPueng: I like Hangeul because it is easy to learn. I learned the 24 letters of Hangeul, and I am able to read any Korean word now.\nAnna: The shapes of Hangeul look unique and beautiful. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" (A) It looks like a soldier between two mountains. It looks great!\nWilliam: I like Hangeul because its history is amazing. A long time ago, most Koreans (B) couldn't read or write. King Sejong felt bad about this, so he created a new alphabet for his people.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q21",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "18",
+      "choices": [
+        "What day is it today?",
+        "Where is the reporter now?",
+        "How many letters did Pueng learn in Hangeul?",
+        "What Korean word does Anna like?",
+        "How did King Sejong create Hangeul?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 22,
+      "group": "Q22",
+      "explainKo": "정답: ④ ⓓ look. p198 해설 22: look 뒤에 명사구가 오면 look like. learning, using, so, sharing은 적절하다. p197 정답 칸 22는 비어 있고 해설의 ⓓ를 ④로 두었다.",
+      "promptEn": "22 윗글 ⓐ~ⓔ 중 어법상 틀린 것은?\nReporter: You all really love Hangeul! How did you start (a) learning it? (①)\nPueng: I'm a big fan of K-pop songs. (A) 저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요. Now I can sing many K-pop songs! (②)\nAnna: I was interested in (b) using Hangeul in my designs. (c) So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. (③)\nWilliam: I wanted to teach the science of Hangeul to my students. Some letters (d) look the shape of the mouth and tongue for their sounds. King Sejong made it that way. (④)\nReporter: Thank you for (e) sharing your stories. Enjoy this festival! (⑤)",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q22",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "19",
+      "choices": [
+        "ⓐ learning",
+        "ⓑ using",
+        "ⓒ so",
+        "ⓓ look",
+        "ⓔ sharing"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 24,
+      "group": "Q24",
+      "explainKo": "정답: ⑤ 5개. p197 3회 정답 24 ⑤. p198 해설: ⓔ(언제 가르쳤는지)만 알 수 없고 나머지 다섯은 답할 수 있다.",
+      "promptEn": "24 윗글을 읽고, 대답할 수 있는 질문의 개수로 적절한 것은?\nⓐ What is this conversation about?\nⓑ Who is a big fan of K-pop songs?\nⓒ What did Anna study?\nⓓ What can Anna make with Hangeul?\nⓔ When did William teach Hangeul to his students?\nⓕ What do some Hangeul letters look like?\nReporter: You all really love Hangeul! How did you start (a) learning it? (①)\nPueng: I'm a big fan of K-pop songs. (A) 저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요. Now I can sing many K-pop songs! (②)\nAnna: I was interested in (b) using Hangeul in my designs. (c) So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. (③)\nWilliam: I wanted to teach the science of Hangeul to my students. Some letters (d) look the shape of the mouth and tongue for their sounds. King Sejong made it that way. (④)\nReporter: Thank you for (e) sharing your stories. Enjoy this festival! (⑤)",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q24",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "20",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 25,
+      "group": "Q25",
+      "explainKo": "정답: Because I wanted to sing Korean songs, I started learning Hangeul. p197 3회 정답 25. p198 해설: Because절을 앞에 두고 learning으로 11단어.",
+      "promptEn": "25 윗글을 읽고, 밑줄 친 우리말 (A)를 조건에 맞게 영작하시오.\n조건: 1. 이유의 부사절을 앞에 쓸 것. 2. want, Korean songs, start, learn, Hangeul을 반드시 사용할 것. 3. 필요시 어형을 바꿀 것. 4. 총 11단어. 5. 대소문자와 구두점에 유의할 것.\n저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "type": "sentence",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "Q25",
+      "section": "sS",
+      "sectionTitle": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "sectionInstructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21",
+      "accept": [
+        "Because I wanted to sing Korean songs, I started learning Hangeul.",
+        "BecauseIwantedtosingKoreansongs,IstartedlearningHangeul."
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 14문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 5문항, Section C · 서술형. 문장 전체를 쓰시오. 2문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "sM",
+      "title": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 14
+    },
+    {
+      "id": "sF",
+      "title": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 5
+    },
+    {
+      "id": "sS",
+      "title": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 2
+    }
+  ]
+}

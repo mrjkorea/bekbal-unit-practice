@@ -1,0 +1,628 @@
+{
+  "id": "reading-writing",
+  "title": "Reading 영작하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "98",
+    "99"
+  ],
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": 1,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Today is October 9, a special day for Hangeul, the Korean alphabet.",
+        "Today is October 9, a special day for Hangeul, the Korean alphabet"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n01. 오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.",
+      "explainKo": "답지 p.183. 정답: Today is October 9, a special day for Hangeul, the Korean alphabet.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": 2,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I'm at a Hangeul festival now.",
+        "I'm at a Hangeul festival now"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n02. 저는 지금 한글 축제에 와 있습니다.",
+      "explainKo": "답지 p.183. 정답: I'm at a Hangeul festival now.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": 3,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "People are enjoying fun activities here.",
+        "People are enjoying fun activities here"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n03. 사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.",
+      "explainKo": "답지 p.183. 정답: People are enjoying fun activities here.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": 4,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "They look happy and excited.",
+        "They look happy and excited"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n04. 그들은 행복하고 신나 보입니다.",
+      "explainKo": "답지 p.183. 정답: They look happy and excited.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": 5,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I'm going to interview three Hangeul lovers.",
+        "I'm going to interview three Hangeul lovers"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n05. 저는 세 명의 한글 애호가를 인터뷰할 것입니다.",
+      "explainKo": "답지 p.183. 정답: I'm going to interview three Hangeul lovers.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": 6,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Here is my first question.",
+        "Here is my first question"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n06. 저의 첫 번째 질문입니다.",
+      "explainKo": "답지 p.183. 정답: Here is my first question.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": 7,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Why do you like Hangeul?",
+        "Why do you like Hangeul"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n07. 당신은 왜 한글을 좋아하시나요?",
+      "explainKo": "답지 p.183. 정답: Why do you like Hangeul?",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": 8,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I like Hangeul because it is easy to learn.",
+        "I like Hangeul because it is easy to learn"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n08. 저는 한글이 배우기 쉽기 때문에 좋아해요.",
+      "explainKo": "답지 p.183. 정답: I like Hangeul because it is easy to learn.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "9",
+      "label": "09",
+      "sourceId": 9,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I learned the 24 letters of Hangeul, and I am able to read any Korean word now.",
+        "I learned the 24 letters of Hangeul, and I am able to read any Korean word now"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n09. 저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "explainKo": "답지 p.183. 정답: I learned the 24 letters of Hangeul, and I am able to read any Korean word now.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "The shapes of Hangeul look unique and beautiful.",
+        "The shapes of Hangeul look unique and beautiful"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n10. 한글의 모양은 독특하고 아름다워 보여요.",
+      "explainKo": "답지 p.183. 정답: The shapes of Hangeul look unique and beautiful.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\"",
+        "I like the Korean word for Switzerland, \"스위스[seu-wi-seu]\""
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n11. 저는 스위스를 나타내는 한글 단어 \"스위스\"를 좋아해요.",
+      "explainKo": "답지 p.183. 정답: I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\"",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "It looks like a soldier between two mountains.",
+        "It looks like a soldier between two mountains"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n12. 그것은 두 개의 산 사이에 있는 군인처럼 보여요.",
+      "explainKo": "답지 p.183. 정답: It looks like a soldier between two mountains.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "It looks great!",
+        "It looks great"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n13. 그것은 멋져 보여요.",
+      "explainKo": "답지 p.183. 정답: It looks great!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I like Hangeul because its history is amazing.",
+        "I like Hangeul because its history is amazing"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n14. 저는 한글의 역사가 대단하기 때문에 그것을 좋아해요.",
+      "explainKo": "답지 p.183. 정답: I like Hangeul because its history is amazing.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "group": "-1-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "A long time ago, most Koreans couldn't read or write.",
+        "A long time ago, most Koreans couldn't read or write"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n15. 오래전, 대부분의 한국인은 읽거나 쓸 수 없었어요.",
+      "explainKo": "답지 p.183. 정답: A long time ago, most Koreans couldn't read or write.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "King Sejong felt bad about this, so he created a new alphabet for his people.",
+        "King Sejong felt bad about this, so he created a new alphabet for his people"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n16. 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.",
+      "explainKo": "답지 p.183. 정답: King Sejong felt bad about this, so he created a new alphabet for his people.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "You all really love Hangeul!",
+        "You all really love Hangeul"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n17. 여러분 모두는 한글을 정말 사랑하시네요!",
+      "explainKo": "답지 p.183. 정답: You all really love Hangeul!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "How did you start learning it?",
+        "How did you start learning it"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n18. 당신은 어떻게 그것을 배우기 시작했나요?",
+      "explainKo": "답지 p.183. 정답: How did you start learning it?",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I'm a big fan of K-pop songs.",
+        "I'm a big fan of K-pop songs"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n19. 저는 케이팝 노래의 열렬한 팬이에요.",
+      "explainKo": "답지 p.183. 정답: I'm a big fan of K-pop songs.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Because I wanted to sing Korean songs, I started learning Hangeul.",
+        "Because I wanted to sing Korean songs, I started learning Hangeul"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n20. 저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "explainKo": "답지 p.183. 정답: Because I wanted to sing Korean songs, I started learning Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Now I can sing many K-pop songs!",
+        "Now I can sing many K-pop songs"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n21. 이제 저는 많은 케이팝 노래를 부를 수 있어요!",
+      "explainKo": "답지 p.183. 정답: Now I can sing many K-pop songs!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I was interested in using Hangeul in my designs.",
+        "I was interested in using Hangeul in my designs"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n22. 저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.",
+      "explainKo": "답지 p.183. 정답: I was interested in using Hangeul in my designs.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "So I studied the shapes of Hangeul.",
+        "So I studied the shapes of Hangeul"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n23. 그래서 저는 한글의 모양을 공부했어요.",
+      "explainKo": "답지 p.183. 정답: So I studied the shapes of Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I can make unique patterns for clothes with Hangeul.",
+        "I can make unique patterns for clothes with Hangeul"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n24. 저는 한글로 옷에 독특한 무늬를 만들 수 있어요.",
+      "explainKo": "답지 p.183. 정답: I can make unique patterns for clothes with Hangeul.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "I wanted to teach the science of Hangeul to my students.",
+        "I wanted to teach the science of Hangeul to my students"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n25. 저는 저의 학생들에게 한글의 과학을 가르치고 싶었어요.",
+      "explainKo": "답지 p.183. 정답: I wanted to teach the science of Hangeul to my students.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Some letters look like the shape of the mouth and tongue for their sounds.",
+        "Some letters look like the shape of the mouth and tongue for their sounds"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n26. 몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.",
+      "explainKo": "답지 p.183. 정답: Some letters look like the shape of the mouth and tongue for their sounds.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "King Sejong made it that way.",
+        "King Sejong made it that way"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n27. 세종대왕이 그런 식으로 그것을 만들었죠.",
+      "explainKo": "답지 p.183. 정답: King Sejong made it that way.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "It's very scientific.",
+        "It's very scientific"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n28. 그것은 매우 과학적이에요.",
+      "explainKo": "답지 p.183. 정답: It's very scientific.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Thank you for sharing your stories.",
+        "Thank you for sharing your stories"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n29. 여러분의 이야기를 공유해 주셔서 감사드립니다.",
+      "explainKo": "답지 p.183. 정답: Thank you for sharing your stories.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "group": "-2-",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Enjoy this festival!",
+        "Enjoy this festival"
+      ],
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "다음 우리말에 맞도록 바르게 영작하시오.\n30. 이 축제를 즐기세요!",
+      "explainKo": "답지 p.183. 정답: Enjoy this festival!",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 다음 우리말에 맞도록 바르게 영작하시오. 30문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 우리말에 맞도록 바르게 영작하시오.",
+      "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 30
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "id": "x10-review",
+  "title": "핵심 문장 Review",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "28-29",
+  "questionCount": 24,
+  "omitted": [
+    {
+      "id": "A-01",
+      "reason": "p142 A 01은 Independence로 인쇄되어 지문(Hangeul)과 다르므로 F로 보이나, p192 정답 칸은 '01 T'만 보이고 고침 노트(02 two→three, 03 20→24, 06 sounds→shapes, 07 could→couldn't)에 01이 없다. 서로 맞지 않아 생략."
+    }
+  ],
+  "questions": [
+    {
+      "sourceId": 2,
+      "group": "A-02",
+      "explainKo": "정답: F. two → three. p192 고침 노트 A 02 two three. 지문은 three Hangeul lovers.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n02. The reporter is going to interview two Hangeul lovers.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-02",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "1",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 3,
+      "group": "A-03",
+      "explainKo": "정답: F. 20 → 24. p192 고침 노트 A 03 20-24. 지문은 24 letters.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n03. There are 20 letters in Hangeul.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-03",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "2",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 4,
+      "group": "A-04",
+      "explainKo": "정답: T. p192 A에서 04는 고침 노트에 없고, 지문 12번과 같다.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n04. \"스위스[seu-wi-seu]\" looks like a soldier between two mountains.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-04",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "3",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 5,
+      "group": "A-05",
+      "explainKo": "정답: T. p192 A에서 05는 고침 노트에 없고, 지문과 같다.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n05. Pueng is a big fan of K-pop songs.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-05",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "4",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 6,
+      "group": "A-06",
+      "explainKo": "정답: F. sounds → shapes. p192 고침 노트 A 06 sounds shapes.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n06. Anna studied the sounds of Hangeul.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-06",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "5",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 7,
+      "group": "A-07",
+      "explainKo": "정답: F. could → couldn't. p192 고침 노트 A 07 could couldn't.",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n07. A long time ago, most Koreans could read or write.",
+      "type": "mc",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "A-07",
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "label": "6",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 1,
+      "group": "B-01",
+      "explainKo": "정답: X great. p192 B 01 X great. greatly를 형용사 great로.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n01. It looks greatly!",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "B-01",
+      "section": "sX",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "7",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "great"
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "B-02",
+      "explainKo": "정답: O. p192 B 02 O.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n02. Here is my first question.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "B-02",
+      "section": "sO",
+      "sectionTitle": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "8",
+      "oxMark": "O",
+      "rewriteAccept": []
+    },
+    {
+      "sourceId": 3,
+      "group": "B-03",
+      "explainKo": "정답: X because. p192 B 03 X because. because of 다음에는 절이 오지 않는다.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n03. I like Hangeul because of its history is amazing.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "B-03",
+      "section": "sX",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "9",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "because"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "B-04",
+      "explainKo": "정답: X like. p192 B 04 X -like. alike를 like로.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n04. It looks alike a soldier between two mountains.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "B-04",
+      "section": "sX",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "10",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "like"
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "B-05",
+      "explainKo": "정답: O. p192 B 05 O.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n05. I'm at a Hangeul festival now.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "B-05",
+      "section": "sO",
+      "sectionTitle": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "11",
+      "oxMark": "O",
+      "rewriteAccept": []
+    },
+    {
+      "sourceId": 6,
+      "group": "B-06",
+      "explainKo": "정답: X many. p192 B 06 X many. 가산 복수 songs 앞은 many.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n06. Now I can sing much K-pop songs!",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "B-06",
+      "section": "sX",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "12",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "many"
+      ]
+    },
+    {
+      "sourceId": 7,
+      "group": "B-07",
+      "explainKo": "정답: X with. p192 B 07 X with. in을 with로.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n07. I can make unique patterns for clothes in Hangeul.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "B-07",
+      "section": "sX",
+      "sectionTitle": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "13",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "with"
+      ]
+    },
+    {
+      "sourceId": 8,
+      "group": "B-08",
+      "explainKo": "정답: O. p192 B 08 O.",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n08. King Sejong made it that way.",
+      "type": "ox",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "id": "B-08",
+      "section": "sO",
+      "sectionTitle": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "label": "14",
+      "oxMark": "O",
+      "rewriteAccept": []
+    },
+    {
+      "sourceId": 1,
+      "group": "C-01",
+      "explainKo": "정답: People are enjoying fun activities here. 답지 p192 핵심 문장 Review C 01.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n01. People (enjoy) fun activities here.\n사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.",
+      "type": "sentence",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "C-01",
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "15",
+      "accept": [
+        "People are enjoying fun activities here.",
+        "Peopleareenjoyingfunactivitieshere."
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "C-02",
+      "explainKo": "정답: I like Hangeul because it is easy to learn. 답지 p192 핵심 문장 Review C 02.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n02. I like Hangeul because it is easy (learn).\n저는 한글이 배우기 쉽기 때문에 좋아해요.",
+      "type": "sentence",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "C-02",
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "16",
+      "accept": [
+        "I like Hangeul because it is easy to learn.",
+        "IlikeHangeulbecauseitiseasytolearn."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "C-03",
+      "explainKo": "정답: How did you start learning it? 답지 p192 핵심 문장 Review C 03. 답지에 learning[to learn]이 함께 있다.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n03. How did you start (learn) it?\n당신은 어떻게 그것을 배우기 시작했나요?",
+      "type": "sentence",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "C-03",
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "17",
+      "accept": [
+        "How did you start learning it?",
+        "Howdidyoustartlearningit?",
+        "How did you start to learn it?",
+        "Howdidyoustarttolearnit?"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "C-04",
+      "explainKo": "정답: I am able to read any Korean word now. 답지 p192 핵심 문장 Review C 04.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n04. I am able (read) any Korean word now.\n저는 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "type": "sentence",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "C-04",
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "18",
+      "accept": [
+        "I am able to read any Korean word now.",
+        "IamabletoreadanyKoreanwordnow."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "C-05",
+      "explainKo": "정답: The shapes of Hangeul look unique and beautiful. 답지 p192 핵심 문장 Review C 05.",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n05. The shapes of Hangeul look unique and\n(beautifully)\n한글의 모양은 독특하고 아름다워 보여요.",
+      "type": "sentence",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "C-05",
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "19",
+      "accept": [
+        "The shapes of Hangeul look unique and beautiful.",
+        "TheshapesofHangeullookuniqueandbeautiful."
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "D-01",
+      "explainKo": "정답: They look happy and excited. 답지 p192 핵심 문장 Review D 01.",
+      "promptEn": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.\n01. They look happy and exciting.\n그들은 행복하고 신나 보입니다.",
+      "type": "sentence",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "D-01",
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "20",
+      "accept": [
+        "They look happy and excited.",
+        "Theylookhappyandexcited."
+      ]
+    },
+    {
+      "sourceId": 2,
+      "group": "D-02",
+      "explainKo": "정답: King Sejong felt bad about this. 답지 p192 핵심 문장 Review D 02.",
+      "promptEn": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.\n02. King Sejong felt badly about this.\n세종대왕은 이것에 대해 안타깝게 느꼈다.",
+      "type": "sentence",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "D-02",
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21",
+      "accept": [
+        "King Sejong felt bad about this.",
+        "KingSejongfeltbadaboutthis."
+      ]
+    },
+    {
+      "sourceId": 3,
+      "group": "D-03",
+      "explainKo": "정답: Because I wanted to sing Korean songs, I started learning Hangeul. 답지 p192 핵심 문장 Review D 03.",
+      "promptEn": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.\n03. Because I wanted sing Korean songs, I started learning Hangeul.\n저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "type": "sentence",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "D-03",
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22",
+      "accept": [
+        "Because I wanted to sing Korean songs, I started learning Hangeul.",
+        "BecauseIwantedtosingKoreansongs,IstartedlearningHangeul."
+      ]
+    },
+    {
+      "sourceId": 4,
+      "group": "D-04",
+      "explainKo": "정답: I was interested in using Hangeul in my designs. 답지 p192 핵심 문장 Review D 04.",
+      "promptEn": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.\n04. I was interested in use Hangeul in my designs.\n저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.",
+      "type": "sentence",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "D-04",
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "23",
+      "accept": [
+        "I was interested in using Hangeul in my designs.",
+        "IwasinterestedinusingHangeulinmydesigns."
+      ]
+    },
+    {
+      "sourceId": 5,
+      "group": "D-05",
+      "explainKo": "정답: Some letters look like the shape of the mouth and tongue for their sounds. 답지 p192 핵심 문장 Review D 05.",
+      "promptEn": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.\n05. Some letters look as the shape of the mouth and tongue for their sounds.\n몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.",
+      "type": "sentence",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "D-05",
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "sectionInstructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "24",
+      "accept": [
+        "Some letters look like the shape of the mouth and tongue for their sounds.",
+        "Someletterslookliketheshapeofthemouthandtonguefortheirsounds."
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 … 6문항, Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 … 3문항, Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 … 5문항, Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 5문항, Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 5문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "sA",
+      "title": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 …",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "itemCount": 6
+    },
+    {
+      "id": "sO",
+      "title": "Section B · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 3
+    },
+    {
+      "id": "sX",
+      "title": "Section C · B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 …",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "itemCount": 5
+    },
+    {
+      "id": "sC",
+      "title": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
+    },
+    {
+      "id": "sD",
+      "title": "Section E · D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "D 다음 문장의 어법상 틀린 곳을 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 5
+    }
+  ]
+}

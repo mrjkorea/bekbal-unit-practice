@@ -1,0 +1,561 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "70-71",
+  "questionCount": 18,
+  "omitted": [
+    {
+      "sourceId": 8,
+      "reason": "p.065 08번 선택지 짝(brave/light)이 OCR에서 ①–⑤로 갈라지지 않음. 답지 p.179는 brave / light."
+    }
+  ],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "01",
+      "explainKo": "정답: ④ miss. 답지 p.179: 잡지 못하다 — miss (놓치다).",
+      "promptEn": "다음 영영풀이에 해당하는 단어는?\nto fail to catch",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 영영풀이에 해당하는 단어는?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영영풀이에 해당하는 단어는?",
+      "sectionInstructionKo": "다음 영영풀이에 해당하는 단어는? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1",
+      "choices": [
+        "order",
+        "decide",
+        "perform",
+        "miss",
+        "share"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 2,
+      "group": "02",
+      "explainKo": "정답: ④ unique. 답지 p.179: 맛있는:맛있는 = 특별한:독특한 (유의어).",
+      "promptEn": "다음 <보기>의 짝지어진 단어의 관계가 서로 같도록 할 때 빈칸에 들어갈 말로 가장 적절한 것은?\ntasty : delicious = special : ______",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 영영풀이에 해당하는 단어는?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "2",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영영풀이에 해당하는 단어는?",
+      "sectionInstructionKo": "다음 영영풀이에 해당하는 단어는? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2",
+      "choices": [
+        "scientific",
+        "brave",
+        "simple",
+        "unique",
+        "general"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 3,
+      "group": "03",
+      "explainKo": "정답: sound. 답지 p.179 03. 명사 '소리'와 동사 '~하게 들리다'.",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오.\n• I heard a strange ______ in the forest.\n• Kate's ideas ______ really good to me.",
+      "type": "fill",
+      "answerMode": "words",
+      "directionKo": "다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "3",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3",
+      "accept": [
+        "sound"
+      ],
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 4,
+      "group": "04",
+      "explainKo": "정답: ④. 답지 p.179: late의 풀이는 happening before가 아니라 after.",
+      "promptEn": "다음 중 단어의 영영풀이가 적절하지 않은 것은?\n① clothes: things that you wear\n② spend: to use money to buy things\n③ rule: a direction that guides action\n④ late: happening before the usual or expected time\n⑤ forest: a large area of land covered with many trees",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "4",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "sectionInstructionKo": "다음 중 단어의 영영풀이가 적절하지 않은 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4",
+      "choices": [
+        "clothes: things that you wear",
+        "spend: to use money to buy things",
+        "rule: a direction that guides action",
+        "late: happening before the usual or expected time",
+        "forest: a large area of land covered with many trees"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 5,
+      "group": "05",
+      "explainKo": "정답: get points. 답지 p.179 05.",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 게임에서 이길 점수들을 얻고 싶다.\nI want to ______ to win the game.",
+      "type": "fill",
+      "answerMode": "words",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "id": "5",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "sectionInstructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "5",
+      "accept": [
+        "get points"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "sourceId": 6,
+      "group": "06",
+      "explainKo": "정답: ①. 답지 p.179: decide는 무언가를 하기로 선택하다.",
+      "promptEn": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?\nI can't decide between the white and black shirt.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "6",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6",
+      "choices": [
+        "to choose to do something",
+        "to use money to buy things",
+        "to use, experience, or enjoy with others",
+        "to ask for something to be delivered or made",
+        "to present for the entertainment of an audience"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 7,
+      "group": "07",
+      "explainKo": "정답: ④. 답지 p.179: ④만 '멋진'이고 나머지는 '시원한'.",
+      "promptEn": "다음 <보기>의 밑줄 친 부분과 의미가 다른 것은?\n<보기> The weather is cool today, so it's good for a walk.\n① The water feels so cool.\n② I need a cool drink after running.\n③ You can feel the cool wind outside.\n④ The new movie was really cool, so I want to see it again.\n⑤ It's cool in the morning and warm in the afternoon.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "7",
+      "section": "s5",
+      "sectionTitle": "Section E · 다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7",
+      "choices": [
+        "The water feels so cool.",
+        "I need a cool drink after running.",
+        "You can feel the cool wind outside.",
+        "The new movie was really cool, so I want to see it again.",
+        "It's cool in the morning and warm in the afternoon."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 9,
+      "group": "09",
+      "explainKo": "정답: ③ sick. 답지 p.179 09 ③, feel sick.",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nMike was late to school because he felt ______.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "9",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9",
+      "choices": [
+        "late",
+        "really",
+        "sick",
+        "most",
+        "general"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 10,
+      "group": "10",
+      "explainKo": "정답: ② can. 답지 p.179: be able to = can.",
+      "promptEn": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?\nWe are able to finish our homework on time.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "10",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10",
+      "choices": [
+        "do",
+        "can",
+        "may",
+        "must",
+        "will"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 11,
+      "group": "11",
+      "explainKo": "정답: ⑤ miss. 답지 p.179 11: miss는 놓치다. 나머지 네 칸에는 들어가지 않는다.",
+      "promptEn": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\n• Susan wore a ______ dress for the party.\n• It rained a lot ______ the night.\n• Following the ______ at school is important.\n• We ______ a lot of money on food each month.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "11",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "11",
+      "choices": [
+        "during",
+        "rules",
+        "traditional",
+        "spend",
+        "miss"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 13,
+      "group": "13",
+      "explainKo": "정답: ② go. 답지 p.179 13: go well with, go out.",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• Apples ______ well with peanut butter.\n• We will ______ out for dinner tonight.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "13",
+      "section": "s6",
+      "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "13",
+      "choices": [
+        "make",
+        "go",
+        "have",
+        "come",
+        "do"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 12,
+      "group": "12-1",
+      "explainKo": "정답: on. 답지 p.179 12 (1) on. try on.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: from / out / in / into / on / for\n(1) I want to try ______ this jacket.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "12-1",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12 (1)",
+      "choices": [
+        "from",
+        "out",
+        "in",
+        "into",
+        "on",
+        "for"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 12,
+      "group": "12-2",
+      "explainKo": "정답: in. 답지 p.179 12 (2) in. be interested in.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: from / out / in / into / on / for\n(2) He is interested ______ traveling to new places.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "12-2",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12 (2)",
+      "choices": [
+        "from",
+        "out",
+        "in",
+        "into",
+        "on",
+        "for"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 12,
+      "group": "12-3",
+      "explainKo": "정답: into. 답지 p.179 12 (3) into. throw A into B.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: from / out / in / into / on / for\n(3) Why are people throwing sticks ______ a pot?",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "12-3",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12 (3)",
+      "choices": [
+        "from",
+        "out",
+        "in",
+        "into",
+        "on",
+        "for"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 14,
+      "group": "14-a",
+      "explainKo": "정답: go shopping. 답지 p.179 14 ⓐ go shopping.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: clothes / having a sale / sounds / go shopping\nA: Why don't we ______ this weekend?",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "14-a",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "14 ⓐ",
+      "choices": [
+        "clothes",
+        "having a sale",
+        "sounds",
+        "go shopping"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 14,
+      "group": "14-b",
+      "explainKo": "정답: clothes. 답지 p.179 14 ⓑ clothes.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: clothes / having a sale / sounds / go shopping\nI need new ______ for the summer.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "14-b",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "14 ⓑ",
+      "choices": [
+        "clothes",
+        "having a sale",
+        "sounds",
+        "go shopping"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 14,
+      "group": "14-c",
+      "explainKo": "정답: having a sale. 답지 p.179 14 ⓒ having a sale.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: clothes / having a sale / sounds / go shopping\nB: Sure! The mall is ______ now.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "14-c",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "14 ⓒ",
+      "choices": [
+        "clothes",
+        "having a sale",
+        "sounds",
+        "go shopping"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one"
+    },
+    {
+      "sourceId": 14,
+      "group": "14-d",
+      "explainKo": "정답: sounds. 답지 p.179 14 ⓓ sounds.",
+      "promptEn": "보기에서 빈칸에 들어갈 말을 고르시오.\n보기: clothes / having a sale / sounds / go shopping\nA: That ______ good.",
+      "type": "mc",
+      "answerMode": "choice",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "id": "14-d",
+      "section": "s7",
+      "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerModeTag": "Choose · 고르기",
+      "label": "14 ⓓ",
+      "choices": [
+        "clothes",
+        "having a sale",
+        "sounds",
+        "go shopping"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "Vocabulary 심화. 보기는 누르고, 빈칸은 그 칸만 씁니다. 08번은 선택지 OCR이 갈라져 빼 두었습니다. 답지 p.179.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 영영풀이에 해당하는 단어는?",
+      "directionKo": "다음 영영풀이에 해당하는 단어는?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 영영풀이에 해당하는 단어는? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오.",
+      "directionKo": "다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 공통으로 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "directionKo": "다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 단어의 영영풀이가 적절하지 않은 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "directionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "directionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 밑줄 친 단어의 영영풀이로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 2
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 4
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
+      "directionKo": "보기에서 빈칸에 들어갈 말을 고르시오.",
+      "ruleKo": "보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "instructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 7
+    }
+  ]
+}

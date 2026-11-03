@@ -1,0 +1,935 @@
+{
+  "id": "reading-practice",
+  "title": "Reading 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "100",
+    "101",
+    "102",
+    "103"
+  ],
+  "questionCount": 26,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": 1,
+      "group": "01-05",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "on",
+        "at",
+        "from",
+        "for",
+        "by"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[01] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm ⓐ ______ a Hangeul festival now. People are ⓑ ______ fun activities here. They ⓒ ______ happy and excited. I'm going to ⓓ ______ three Hangeul lovers.\n\n윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.183. 정답: ② at. 장소 앞에 써서 '~에'의 의미를 나타내는 전치사 at이 적절하다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": 2,
+      "group": "01-05",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "enjoy / interview",
+        "enjoy / interviewing",
+        "enjoying / interview",
+        "enjoying / interviewing",
+        "enjoyed / interviewed"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[02] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm ⓐ ______ a Hangeul festival now. People are ⓑ ______ fun activities here. They ⓒ ______ happy and excited. I'm going to ⓓ ______ three Hangeul lovers.\n\n윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "explainKo": "답지 p.183. ⓑ be동사+-ing(현재진행형) enjoying, ⓓ be going to+동사원형 interview. 정답은 ③.",
+      "section": "s2",
+      "sectionTitle": "Section B · 윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": 3,
+      "group": "01-05",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "special"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[03] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm ⓐ ______ a Hangeul festival now. People are ⓑ ______ fun activities here. They ⓒ ______ happy and excited. I'm going to ⓓ ______ three Hangeul lovers.\n\n윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.\nbetter or more important than the usual",
+      "explainKo": "답지 p.183. 정답: special. 평소보다 더 좋거나 중요한 special(특별한).",
+      "section": "s3",
+      "sectionTitle": "Section C · 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "sectionInstructionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요."
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": 4,
+      "group": "01-05",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "looks",
+        "look",
+        "looked",
+        "looking",
+        "are looking"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[04] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm ⓐ ______ a Hangeul festival now. People are ⓑ ______ fun activities here. They ⓒ ______ happy and excited. I'm going to ⓓ ______ three Hangeul lovers.\n\n윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.183. 정답: ② look. '~하게 보이다'의 감각동사 look. 주어 They가 복수이므로 look.",
+      "section": "s4",
+      "sectionTitle": "Section D · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": 5,
+      "group": "01-05",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "한글날의 기원",
+        "한국의 문자 소개",
+        "한글 축제에 참여하는 방법",
+        "재미있는 활동 소개",
+        "한글 애호가들의 인터뷰"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "윗글의 뒤에 이어질 내용으로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[05] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm ⓐ ______ a Hangeul festival now. People are ⓑ ______ fun activities here. They ⓒ ______ happy and excited. I'm going to ⓓ ______ three Hangeul lovers.\n\n윗글의 뒤에 이어질 내용으로 가장 적절한 것은?",
+      "explainKo": "답지 p.183. 정답: ⑤. I'm going to interview three Hangeul lovers. 다음에 한글 애호가들의 인터뷰가 이어진다.",
+      "section": "s5",
+      "sectionTitle": "Section E · 윗글의 뒤에 이어질 내용으로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 뒤에 이어질 내용으로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": 6,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "How do you like Korea?",
+        "Why do you like Hangeul?",
+        "Why do you like reading in Korean?",
+        "Why do you like learning?",
+        "What do you think of my question?"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[06] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.183. 정답: ② Why do you like Hangeul? 이어지는 대답이 한글을 좋아하는 이유이다.",
+      "section": "s6",
+      "sectionTitle": "Section F · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": 7,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "learn",
+        "learning",
+        "to learn",
+        "to learning",
+        "learned"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[07] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는?",
+      "explainKo": "답지 p.183. 정답: ③ to learn. 형용사 easy를 수식하는 to부정사.",
+      "section": "s7",
+      "sectionTitle": "Section G · 윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는?",
+      "sectionInstructionKo": "윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": 8,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "select": "multi",
+      "choices": [
+        "편지",
+        "모양",
+        "~사이의",
+        "대단한",
+        "가장 많은"
+      ],
+      "correctIndexes": [
+        1,
+        5
+      ],
+      "directionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[08] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면?",
+      "explainKo": "답지 p.183. letter는 여기서 '글자'이지 '편지'가 아니고, most는 '대부분의'이지 '가장 많은'이 아니다. 적절하지 않은 것은 ①, ⑤.",
+      "section": "s8",
+      "sectionTitle": "Section H · 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "9",
+      "label": "09",
+      "sourceId": 9,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "do not read",
+        "can read",
+        "cannot read",
+        "may read",
+        "must read"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[09] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "explainKo": "답지 p.183. 정답: ② can read. be able to+동사원형 = can+동사원형.",
+      "section": "s9",
+      "sectionTitle": "Section I · 윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "unique and beauty",
+        "unique and beautiful",
+        "unique and beautifully",
+        "uniquely and beauty",
+        "uniquely and beautiful"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[10] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.183. 정답: ② unique and beautiful. 감각동사 look 뒤에는 형용사.",
+      "section": "s10",
+      "sectionTitle": "Section J · 윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "You draw like a real artist!",
+        "Tom swims like a fish in the water.",
+        "They really like watching movies together.",
+        "She sings like a professional singer.",
+        "Jason looks like a famous actor."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[11] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은?",
+      "explainKo": "답지 p.183. ⓔ like는 '~처럼'이라는 전치사이다. ③의 like만 동사로 '좋아하다'이다. 정답: ③.",
+      "section": "s11",
+      "sectionTitle": "Section K · 윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "06-15",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "스위스",
+        "\"스위스\"",
+        "스위스[seu-wi-seu]"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "promptEn": "[12] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 \"It looks great!\"에서 It이 가리키는 것을 우리말로 쓰시오.",
+      "explainKo": "답지 p.183. 정답: 스위스. 멋지다고 한 것은 한글 글자 \"스위스\"이다.",
+      "section": "s12",
+      "sectionTitle": "Section L · 윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오.",
+      "sectionInstructionKo": "윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요."
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Pueng은 어떤 한글 단어도 읽을 수 있다.",
+        "Anna는 한글의 소리가 독특하다고 생각한다.",
+        "Switzerland를 뜻하는 한글은 \"스위스\"이다.",
+        "William은 한글의 역사 때문에 한글을 좋아한다.",
+        "오래전에 한국인 대부분은 쓰거나 읽지 못했다."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[13] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 내용과 일치하지 않는 것은?",
+      "explainKo": "답지 p.183. Anna는 한글의 소리가 아니라 모양이 독특하고 아름답다고 했다. 정답: ②.",
+      "section": "s13",
+      "sectionTitle": "Section M · 윗글의 내용과 일치하지 않는 것은?",
+      "sectionInstructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "group": "06-15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Why does Pueng like Hangeul?",
+        "When did Pueng start learning Hangeul?",
+        "How many letters are there in Hangeul?",
+        "What does the Korean word \"스위스\" look like?",
+        "Who made the Korean alphabet and why?"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글을 읽고 대답할 수 없는 질문은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[14] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글을 읽고 대답할 수 없는 질문은?",
+      "explainKo": "답지 p.183. 정답: ②. Pueng이 한글을 배운 시점은 글에 없다.",
+      "section": "s14",
+      "sectionTitle": "Section N · 윗글을 읽고 대답할 수 없는 질문은?",
+      "sectionInstructionKo": "윗글을 읽고 대답할 수 없는 질문은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "group": "06-15",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "felt bad about this, so he created"
+      ],
+      "phraseBlank": true,
+      "directionKo": "윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[15] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Here is my first question. ⓐ ______\n\nPueng: I like Hangeul because it is easy ⓑ (learn). I learned the 24 ① letters of Hangeul, and I ⓒ am able to read any Korean word now.\n\nAnna: The ② shapes of Hangeul look ⓓ ______. I like the Korean word for Switzerland, \"스위스[seu-wi-seu].\" It looks ⓔ like a soldier ③ between two mountains. It looks great!\n\nWilliam: I like Hangeul because its history is ④ amazing. A long time ago, ⑤ most Koreans couldn't read or write. ⑨ 세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.\n\n윗글의 밑줄 친 ⑨의 우리말을 조건에 맞게 문장을 완성하시오.\n[조건]\n1. feel, create, he, about, this, bad를 포함해서 쓸 것.\n2. 필요시 어형을 바꿀 것.\n3. 결과를 나타내는 접속사 so를 사용할 것.\n\nKing Sejong ____________________ a new alphabet for his people.",
+      "explainKo": "답지 p.183. 정답: felt bad about this, so he created. feel은 과거 felt, 결과의 접속사 so 뒤에 he created.",
+      "section": "s15",
+      "sectionTitle": "Section O · 윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오.",
+      "sectionInstructionKo": "윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 King Sejong 뒤의 빈칸만 씁니다."
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Do you want to go out ______ stay home?",
+        "______ he got a new bike, he is happy.",
+        "______ the traffic, she was late.",
+        "It was very cold, ______ I wore a thick coat.",
+        "I was reading a book ______ you called me."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음)",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[16] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음)",
+      "explainKo": "답지 p.183, 해설 p.184. 빈칸 ⓐ는 Because. ②도 이유를 나타내는 Because. ① or ③ Because of ④ so ⑤ when.",
+      "section": "s16",
+      "sectionTitle": "Section P · 윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소…",
+      "sectionInstructionKo": "윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음) 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "17-1",
+      "label": "17",
+      "sourceId": 17,
+      "group": "16-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "to sing"
+      ],
+      "phraseBlank": false,
+      "directionKo": "이 칸 ⓑ만 적절한 형태로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요.",
+      "promptEn": "[17] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n이 칸 ⓑ만 적절한 형태로 쓰시오.\n\n(ⓑ sing)",
+      "explainKo": "답지 p.183. ⓑ want는 to부정사를 목적어로 쓰므로 to sing.",
+      "focusBlank": "ⓑ",
+      "promptKo": "이 문항은 ⓑ만 씁니다.",
+      "section": "s17",
+      "sectionTitle": "Section Q · 이 칸 ⓑ만 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "이 칸 ⓑ만 적절한 형태로 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요."
+    },
+    {
+      "id": "17-2",
+      "label": "17",
+      "sourceId": 17,
+      "group": "16-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "to teach"
+      ],
+      "phraseBlank": false,
+      "directionKo": "이 칸 ⓓ만 적절한 형태로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요.",
+      "promptEn": "[17] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n이 칸 ⓓ만 적절한 형태로 쓰시오.\n\n(ⓓ teach)",
+      "explainKo": "답지 p.183. ⓓ want는 to부정사를 목적어로 쓰므로 to teach.",
+      "focusBlank": "ⓓ",
+      "promptKo": "이 문항은 ⓓ만 씁니다.",
+      "section": "s17",
+      "sectionTitle": "Section Q · 이 칸 ⓓ만 적절한 형태로 쓰시오.",
+      "sectionInstructionKo": "이 칸 ⓓ만 적절한 형태로 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요."
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "I can visit Korea!",
+        "I can read Korean books!",
+        "I can write songs in Korean!",
+        "I can sing many K-pop songs!",
+        "I can understand Korean dramas!"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[18] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.184. Pueng은 케이팝을 부르고 싶어서 한글을 배웠으므로 ④ I can sing many K-pop songs!가 적절하다.",
+      "section": "s18",
+      "sectionTitle": "Section R · 윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "(A) at / (B) for / (C) at",
+        "(A) at / (B) to / (C) at",
+        "(A) in / (B) to / (C) at",
+        "(A) in / (B) to / (C) like",
+        "(A) in / (B) for / (C) like"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[19] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은?",
+      "explainKo": "답지 p.184. (A) be interested in, (B) teach+직접목적어+to+간접목적어, (C) look like. 정답: ④ in / to / like.",
+      "section": "s19",
+      "sectionTitle": "Section S · 윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지…",
+      "sectionInstructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[20] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\"It's very scientific.\"",
+      "explainKo": "답지 p.184. It은 한글을 가리키므로, 글자가 입과 혀의 모양을 고려하여 만들어졌다는 설명 뒤인 ④가 적절하다.",
+      "section": "s20",
+      "sectionTitle": "Section T · 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
+      "sectionInstructionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "tongue",
+        "mouth",
+        "shape",
+        "science",
+        "Hangeul"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "윗글의 밑줄 친 it이 가리키는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[21] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n\"King Sejong made it that way.\"에서 it이 가리키는 것은?",
+      "explainKo": "답지 p.184. it은 한글을 가리킨다. 정답: ⑤ Hangeul.",
+      "section": "s21",
+      "sectionTitle": "Section U · 윗글의 밑줄 친 it이 가리키는 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 it이 가리키는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "group": "16-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "몇몇 글자들이 그것들의 소리를 낼 때 입과 혀의 모양처럼 보이는 방식",
+        "몇몇 글자가 소리를 낼 때 입과 혀의 모양처럼 보이는 방식"
+      ],
+      "phraseBlank": true,
+      "directionKo": "윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "promptEn": "[22] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n\"King Sejong made it that way.\"에서 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오.",
+      "explainKo": "답지 p.183 예시답안, 해설 p.184. that way는 Some letters look like the shape of the mouth and tongue for their sounds.의 방식이다.",
+      "section": "s22",
+      "sectionTitle": "Section V · 윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰…",
+      "sectionInstructionKo": "윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요."
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Enjoy",
+        "To enjoy",
+        "Enjoying",
+        "To enjoying",
+        "Be enjoy"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[23] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 빈칸 ⓔ에 들어갈 말로 가장 적절한 것은?",
+      "explainKo": "답지 p.184. 명령문은 주어 you를 생략하고 동사원형으로 시작한다. 정답: ① Enjoy.",
+      "section": "s23",
+      "sectionTitle": "Section W · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "group": "16-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Pueng은 케이팝을 좋아한다.",
+        "Anna는 한글로 무늬를 만든다.",
+        "William은 한글을 가르치고 있다.",
+        "한글은 입과 혀의 모양처럼 보이는 글자도 있다.",
+        "세종대왕은 과학적으로 한글을 창제했다."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[24] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글의 내용과 일치하지 않는 것은?",
+      "explainKo": "답지 p.184. William은 한글의 과학을 가르치고 싶다고 했을 뿐, 실제로 가르치는지는 알 수 없다. 정답: ③.",
+      "section": "s24",
+      "sectionTitle": "Section X · 윗글의 내용과 일치하지 않는 것은?",
+      "sectionInstructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요."
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "group": "16-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "디자인에 한글을 사용하는 것에 관심이 있어서",
+        "자신의 디자인에 한글을 사용하는 것에 관심이 있어서",
+        "디자인에 한글을 사용하고 싶어서"
+      ],
+      "phraseBlank": true,
+      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "promptEn": "[25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it? ( ① )\nPueng: I'm a big fan of K-pop songs. ⓐ ______ I wanted (ⓑ sing) Korean songs, I started learning Hangeul. Now ⓒ ______ ( ② )\nAnna: I was interested (A)[in / at] using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique patterns for clothes with Hangeul. ( ③ )\nWilliam: I wanted (ⓓ teach) the science of Hangeul (B)[for / to] my students. Some letters look (C)[like / at] the shape of the mouth and tongue for their sounds. King Sejong made it that way. ( ④ )\nReporter: Thank you for sharing your stories. ( ⑤ )\nⓔ ______ this festival!\n\n윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오.\nQ. Why is Anna interested in Hangeul?",
+      "explainKo": "답지 p.183에 '에 한글을 사용하는 것에 관심이 있어서'가 보이고, 해설 p.184는 I was interested in using Hangeul in my designs.에서 이유를 찾으라고 한다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오.",
+      "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은? 1문항, 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 1문항, 윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 뒤에 이어질 내용으로 가장 적절한 것은? 1문항, 윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는? 1문항, 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면? 1문항, 윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은? 1문항, 윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은? 1문항, 윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오. 1문항, 윗글의 내용과 일치하지 않는 것은? 1문항, 윗글을 읽고 대답할 수 없는 질문은? 1문항, 윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오. 1문항, 윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음) 1문항, 윗글의 괄호 ⓑ와 ⓓ 안에 주어진 단어를 적절한 형태로 쓰시오. 2문항, 윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은? 1문항, 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 1문항, 윗글의 밑줄 친 it이 가리키는 것은? 1문항, 윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오. 1문항, 윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 1문항, 윗글의 내용과 일치하지 않는 것은? 1문항, 윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오. 1문항으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "directionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 윗글의 뒤에 이어질 내용으로 가장 적절한 것은?",
+      "directionKo": "윗글의 뒤에 이어질 내용으로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 뒤에 이어질 내용으로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는?",
+      "directionKo": "윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 괄호 ⓑ에 들어갈 말의 적절한 형태는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면?",
+      "directionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면?",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "directionKo": "윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s11",
+      "title": "Section K · 윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은?",
+      "directionKo": "윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⓔ와 쓰임이 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s12",
+      "title": "Section L · 윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오.",
+      "directionKo": "윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 It이 가리키는 것을 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s13",
+      "title": "Section M · 윗글의 내용과 일치하지 않는 것은?",
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s14",
+      "title": "Section N · 윗글을 읽고 대답할 수 없는 질문은?",
+      "directionKo": "윗글을 읽고 대답할 수 없는 질문은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글을 읽고 대답할 수 없는 질문은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s15",
+      "title": "Section O · 윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오.",
+      "directionKo": "윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ⑨의 우리말에 맞게 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s16",
+      "title": "Section P · 윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소…",
+      "directionKo": "윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음)",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓐ에 들어갈 말과 다음 빈칸에 들어갈 말이 같은 것은? (대소문자 구분 없음) 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s17",
+      "title": "이 칸만 알맞은 형태로 쓰시오.",
+      "directionKo": "이 칸 ⓑ만 적절한 형태로 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요.",
+      "instructionKo": "이 칸 ⓑ만 적절한 형태로 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 칸은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 2
+    },
+    {
+      "id": "s18",
+      "title": "Section R · 윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s19",
+      "title": "Section S · 윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지…",
+      "directionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 (A)~(C)의 각 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s20",
+      "title": "Section T · 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
+      "directionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s21",
+      "title": "Section U · 윗글의 밑줄 친 it이 가리키는 것은?",
+      "directionKo": "윗글의 밑줄 친 it이 가리키는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 it이 가리키는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s22",
+      "title": "Section V · 윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰…",
+      "directionKo": "윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 that way가 의미하는 것을 25자 내외의 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s23",
+      "title": "Section W · 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s24",
+      "title": "Section X · 윗글의 내용과 일치하지 않는 것은?",
+      "directionKo": "윗글의 내용과 일치하지 않는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 내용과 일치하지 않는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s25",
+      "title": "Section Y · 윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오.",
+      "directionKo": "윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오.",
+      "ruleKo": "우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "instructionKo": "윗글을 읽고, 다음 질문에 대한 답을 20자 내외의 우리말로 쓰시오. 우리말만 쓰세요. 영어 문장은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    }
+  ]
+}

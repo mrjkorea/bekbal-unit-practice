@@ -1,0 +1,998 @@
+{
+  "id": "mock-high",
+  "title": "고득점 모의고사",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": [
+    "118",
+    "119",
+    "120",
+    "121"
+  ],
+  "omitted": [],
+  "questions": [
+    {
+      "id": "h1",
+      "sourceId": 1,
+      "group": "01",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "The reporter asked many questions.",
+        "The museum has a lot of history.",
+        "The panda lives in a bamboo forest.",
+        "Everyone must follow the rule in the game.",
+        "I usually share the secret with my friend."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 영영풀이에 해당하는 단어가 들어간 문장은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[01] 다음 영영풀이에 해당하는 단어가 들어간 문장은?\n\nthe study of events that happened in the past",
+      "explainKo": "p.187 과거에 일어난 사건들에 대한 연구 → history. ② 박물관은 많은 역사를 가지고 있다.",
+      "section": "s1",
+      "sectionTitle": "Section A · 다음 영영풀이에 해당하는 단어가 들어간 문장은?",
+      "sectionInstructionKo": "다음 영영풀이에 해당하는 단어가 들어간 문장은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "1"
+    },
+    {
+      "id": "h2",
+      "sourceId": 2,
+      "group": "02",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "can",
+        "cannot",
+        "will",
+        "won't",
+        "am going to"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[02] 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?\n\nI am not able to come to the party tonight.\n(밑줄: am not able to)",
+      "explainKo": "p.187 be not able to = cannot. ②",
+      "section": "s2",
+      "sectionTitle": "Section B · 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "sectionInstructionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "2"
+    },
+    {
+      "id": "h3",
+      "sourceId": 3,
+      "group": "03",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "She wrote a letter to her friend.",
+        "I learned the 24 letters of Hangeul.",
+        "Mike wrote the first letter of his name.",
+        "The letter \"Z\" is the last letter in the alphabet.",
+        "The letters of the alphabet is difficult to learn."
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "다음 밑줄 친 부분과 의미가 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[03] 다음 밑줄 친 부분과 의미가 다른 하나는?\n\nSome letters of Hangeul are very scientific.\n(밑줄: letters = 글자)",
+      "explainKo": "p.187 letter는 '편지'와 '글자'의 뜻이 있다. ①은 '편지'이고 주어진 문장과 나머지는 '글자'이다.",
+      "section": "s3",
+      "sectionTitle": "Section C · 다음 밑줄 친 부분과 의미가 다른 하나는?",
+      "sectionInstructionKo": "다음 밑줄 친 부분과 의미가 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "3"
+    },
+    {
+      "id": "h4",
+      "sourceId": 4,
+      "group": "04",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "performance"
+      ],
+      "phraseBlank": false,
+      "directionKo": "다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "promptEn": "[04] 다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\n\ncreate : creation = perform : ______",
+      "explainKo": "p.187 create : creation = perform : performance.",
+      "section": "s4",
+      "sectionTitle": "Section D · 다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 …",
+      "sectionInstructionKo": "다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "label": "4"
+    },
+    {
+      "id": "h5",
+      "sourceId": 5,
+      "group": "05-06",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Choosing a field trip place",
+        "Introducing a historical site",
+        "Talking about favorite subjects",
+        "How to observe the stars",
+        "Planning a weekend trip"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "위 대화의 주제로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\n\nA: You should see Cheomseongdae in Gyeongju.\nB: What is Cheomseongdae?\nA: It is a very old tower from the Silla period. People used it to study the stars.\nB: ⓐ ______ I want to see it.\nA: Why don't we go to Gyeongju and see Cheomseongdae together sometime?\nB: Sure. That's a good idea.\n\n[05] 위 대화의 주제로 가장 적절한 것은?",
+      "explainKo": "p.187 경주에 있는 첨성대를 가 보라고 소개하므로 ② 역사적 유적지 소개하기가 적절하다.",
+      "section": "s5",
+      "sectionTitle": "Section E · 위 대화의 주제로 가장 적절한 것은?",
+      "sectionInstructionKo": "위 대화의 주제로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "5"
+    },
+    {
+      "id": "h6",
+      "sourceId": 6,
+      "group": "05-06",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Sorry, but I can't.",
+        "I am not sure.",
+        "I don't like them.",
+        "Sounds interesting.",
+        "That's okay."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\n\nA: You should see Cheomseongdae in Gyeongju.\nB: What is Cheomseongdae?\nA: It is a very old tower from the Silla period. People used it to study the stars.\nB: ⓐ ______ I want to see it.\nA: Why don't we go to Gyeongju and see Cheomseongdae together sometime?\nB: Sure. That's a good idea.\n\n[06] 위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은?",
+      "explainKo": "p.187 빈칸 뒤에 I want to see it.이라고 하므로 제안에 대한 긍정 표현이 적절하다. ④ Sounds interesting.",
+      "section": "s6",
+      "sectionTitle": "Section F · 위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은?",
+      "sectionInstructionKo": "위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "6"
+    },
+    {
+      "id": "h7",
+      "sourceId": 7,
+      "group": "07-09",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "① a unique hat",
+        "② It looks",
+        "③ It goes well with hanbok",
+        "④ it's light and cool",
+        "⑤ that"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "directionKo": "위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[07-09] 다음 대화를 읽고, 물음에 답하시오.\n\nG: Hey, Tate. That man is wearing ① a unique hat. (A) ______\nB: It is a gat. It's a traditional Korean hat.\nG: I see. ② It looks (B) ______.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. ③ It goes well with hanbok.\nB: Right. And ④ it's light and cool. Why don't we try on a gat?\nG: Sure. Where can we do ⑤ that?\nB: There's a hanbok shop over there. Let's go.\n\n[07] 위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "explainKo": "p.187 ⑤ that은 '갓을 써 보는 것'을 가리킨다. 나머지는 모두 갓을 가리킨다.",
+      "section": "s7",
+      "sectionTitle": "Section G · 위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "sectionInstructionKo": "위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "7"
+    },
+    {
+      "id": "h8",
+      "sourceId": 8,
+      "group": "07-09",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "What is it?"
+      ],
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "[07-09] 다음 대화를 읽고, 물음에 답하시오.\n\nG: Hey, Tate. That man is wearing ① a unique hat. (A) ______\nB: It is a gat. It's a traditional Korean hat.\nG: I see. ② It looks (B) ______.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. ③ It goes well with hanbok.\nB: Right. And ④ it's light and cool. Why don't we try on a gat?\nG: Sure. Where can we do ⑤ that?\nB: There's a hanbok shop over there. Let's go.\n\n[08] 위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오.\n조건\n1. 설명을 요청할 때 쓰는 의문문으로 쓸 것.\n2. 주어는 it으로 할 것.\n3. 총 3단어로 쓸 것.",
+      "explainKo": "p.187 설명을 요청하고 대답이 It is ~이므로 What is it? (3단어)",
+      "section": "s8",
+      "sectionTitle": "Section H · 위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오.",
+      "sectionInstructionKo": "위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "label": "8"
+    },
+    {
+      "id": "h9",
+      "sourceId": 9,
+      "group": "07-09",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "good",
+        "cool",
+        "nicely",
+        "stylish",
+        "great"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[07-09] 다음 대화를 읽고, 물음에 답하시오.\n\nG: Hey, Tate. That man is wearing ① a unique hat. (A) ______\nB: It is a gat. It's a traditional Korean hat.\nG: I see. ② It looks (B) ______.\nB: Yes. In the past, men wore a gat when they went out.\nG: Interesting. ③ It goes well with hanbok.\nB: Right. And ④ it's light and cool. Why don't we try on a gat?\nG: Sure. Where can we do ⑤ that?\nB: There's a hanbok shop over there. Let's go.\n\n[09] 위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은?\nIt looks (B) ______",
+      "explainKo": "p.187 감각동사 look 뒤에는 형용사가 와야 한다. ③ nicely는 부사이다.",
+      "section": "s9",
+      "sectionTitle": "Section I · 위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은?",
+      "sectionInstructionKo": "위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "9"
+    },
+    {
+      "id": "h10",
+      "sourceId": 10,
+      "group": "10-12",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "What / What",
+        "What / Why",
+        "Why / What",
+        "Why / Why",
+        "Why / How"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "directionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[10-12] 다음 대화를 읽고, 물음에 답하시오.\n\nG: There are many games here. ⓐ ______ don't we play a game?\nB: Sure! Oh, look over there. Why are people throwing sticks into a pot?\nG: They are playing tuho.\nB: ⓑ ______ is tuho?\nG: It's a traditional Korean game. You throw sticks into a pot. Then you get points.\nB: ⓒ 그것은 재미있어 보인다! Let's play it.\n\n[10] 위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "explainKo": "p.187 ⓐ Why don't we + 동사원형 ~? ⓑ What is ~? ③ Why / What.",
+      "section": "s10",
+      "sectionTitle": "Section J · 위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "10"
+    },
+    {
+      "id": "h11",
+      "sourceId": 11,
+      "group": "10-12",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "People are playing tuho.",
+        "The speakers like to play games.",
+        "Tuho is a traditional Korean game.",
+        "People are throwing sticks to get points.",
+        "The speakers will play tuho together."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "According to the dialog, which one is NOT true?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[10-12] 다음 대화를 읽고, 물음에 답하시오.\n\nG: There are many games here. ⓐ ______ don't we play a game?\nB: Sure! Oh, look over there. Why are people throwing sticks into a pot?\nG: They are playing tuho.\nB: ⓑ ______ is tuho?\nG: It's a traditional Korean game. You throw sticks into a pot. Then you get points.\nB: ⓒ 그것은 재미있어 보인다! Let's play it.\n\n[11] According to the dialog, which one is NOT true?",
+      "explainKo": "p.187 ② 화자들이 게임하는 것을 좋아한다는 내용은 알 수 없다. ① 투호를 하고 있다. ③ 한국의 전통 놀이. ④ 점수를 얻으려고 막대기를 던진다. ⑤ 함께 할 것이다.",
+      "section": "s11",
+      "sectionTitle": "Section K · According to the dialog, which one is NO…",
+      "sectionInstructionKo": "According to the dialog, which one is NOT true? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "11"
+    },
+    {
+      "id": "h12",
+      "sourceId": 12,
+      "group": "10-12",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "It looks fun!"
+      ],
+      "directionKo": "위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "[10-12] 다음 대화를 읽고, 물음에 답하시오.\n\nG: There are many games here. ⓐ ______ don't we play a game?\nB: Sure! Oh, look over there. Why are people throwing sticks into a pot?\nG: They are playing tuho.\nB: ⓑ ______ is tuho?\nG: It's a traditional Korean game. You throw sticks into a pot. Then you get points.\nB: ⓒ 그것은 재미있어 보인다! Let's play it.\n\n[12] 위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오.\nⓒ 그것은 재미있어 보인다!\n(fun)",
+      "explainKo": "p.187 It + looks + fun. look + 형용사: ~하게 보이다. 정답 It looks fun!",
+      "section": "s12",
+      "sectionTitle": "Section L · 위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작…",
+      "sectionInstructionKo": "위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "label": "12"
+    },
+    {
+      "id": "h13",
+      "sourceId": 13,
+      "group": "13",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "sounds soft and warm"
+      ],
+      "phraseBlank": true,
+      "directionKo": "다음 조건에 맞게 우리말을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[13] 다음 조건에 맞게 우리말을 완성하시오.\n조건\n1. soft, warm을 사용할 것.\n2. 단어를 추가하여 총 4단어로 쓸 것.\n\n그녀가 노래할 때 그녀의 목소리는 부드럽고 따뜻하게 들려.\n→ Her voice ______ when she sings.",
+      "explainKo": "p.187 감각동사 sound와 형용사 soft and warm을 and로 연결한다. 정답 sounds soft and warm. (4단어)",
+      "section": "s13",
+      "sectionTitle": "Section M · 다음 조건에 맞게 우리말을 완성하시오.",
+      "sectionInstructionKo": "다음 조건에 맞게 우리말을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "label": "13"
+    },
+    {
+      "id": "h14",
+      "sourceId": 14,
+      "group": "14",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "has",
+        "sounds",
+        "hears",
+        "makes",
+        "smells"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[14] 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n\n• A trip to Andong ______ great.\n• Jenny's story ______ like a lie.",
+      "explainKo": "p.187 sound + 형용사: ~하게 들리다. sound like + 명사: ~처럼 들리다. 안동 여행은 멋지게 들리고 Jenny의 이야기는 거짓말처럼 들린다. ② sounds.",
+      "section": "s14",
+      "sectionTitle": "Section N · 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "sectionInstructionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "14"
+    },
+    {
+      "id": "h15",
+      "sourceId": 15,
+      "group": "15",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "He is crying ______ he lost his toy.",
+        "I got up late, ______ I was late for school.",
+        "We like Tom ______ he is funny and kind.",
+        "Sue passed the test ______ she studied hard.",
+        "Jenny made cookies for me ______ it was my birthday."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[15] 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?\n\n① He is crying ______ he lost his toy.\n② I got up late, ______ I was late for school.\n③ We like Tom ______ he is funny and kind.\n④ Sue passed the test ______ she studied hard.\n⑤ Jenny made cookies for me ______ it was my birthday.",
+      "explainKo": "p.187 ②는 so가 들어가고 나머지는 because가 들어간다. 그는 장난감을 잃어버려서 울고, ② 늦게 일어나서 학교에 늦었다.",
+      "section": "s15",
+      "sectionTitle": "Section O · 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "sectionInstructionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "15"
+    },
+    {
+      "id": "h16",
+      "sourceId": 16,
+      "group": "16",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓐ, ⓑ, ⓒ",
+        "ⓓ, ⓔ",
+        "ⓑ, ⓒ, ⓓ",
+        "ⓐ"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "다음 중 어법상 옳은 문장으로 짝지은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[16] 다음 중 어법상 옳은 문장으로 짝지은 것은?\n\nⓐ You look like ready for the math test.\nⓑ My lemonade tastes fresh and sour.\nⓒ That cake looks yummy and beautiful.\nⓓ This chair feels hard and uncomfortable.\nⓔ The thunder sounds scare during the night.",
+      "explainKo": "p.187 ⓐ look 다음에는 형용사 ready가 오므로 like가 필요 없다. ⓔ scare는 형용사 scary로 바꿔야 한다. 옳은 문장은 ⓑ, ⓒ, ⓓ. ④",
+      "section": "s16",
+      "sectionTitle": "Section P · 다음 중 어법상 옳은 문장으로 짝지은 것은?",
+      "sectionInstructionKo": "다음 중 어법상 옳은 문장으로 짝지은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "16"
+    },
+    {
+      "id": "h17",
+      "sourceId": 17,
+      "group": "17",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "because I was not hungry"
+      ],
+      "phraseBlank": true,
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. (필요시 어형을 바꾸고 축약형은 쓰지 말 것)",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "promptEn": "[17] 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. (필요시 어형을 바꾸고 축약형은 쓰지 말 것)\n\n나는 배가 고프지 않았기 때문에 아침 식사를 하지 않았다.\n(hungry / be / I / because)\n→ I didn't eat breakfast ______",
+      "explainKo": "p.187 과거형이고 축약형을 쓰지 말라고 했으므로 was not. 정답 because I was not hungry.",
+      "section": "s17",
+      "sectionTitle": "Section Q · 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하…",
+      "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. (필요시 어형을 바꾸고 축약형은 쓰지 말 것) 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "label": "17"
+    },
+    {
+      "id": "h18",
+      "sourceId": 18,
+      "group": "18-20",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "happy / excitedly",
+        "happy / excited",
+        "happily / excitedly",
+        "happily / excited",
+        "happiness / excitedly"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[18-20] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look ⓐ ______ and ⓑ ______. I'm going to interview three Hangeul lovers.\n\n[18] 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "explainKo": "p.187 감각동사 look 다음에는 형용사가 온다. ② happy / excited. 사람들은 행복하고 신나 보인다.",
+      "section": "s18",
+      "sectionTitle": "Section R · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "18"
+    },
+    {
+      "id": "h19",
+      "sourceId": 19,
+      "group": "18-20",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "October 9 is a special day for the Korean alphabet.",
+        "The reporter is at a Hangeul festival.",
+        "There are many fun activities at the festival.",
+        "The people at the festival look tired and bored.",
+        "The reporter plans to interview three Hangeul lovers."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "According to the passage, which one is NOT true?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[18-20] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look ⓐ ______ and ⓑ ______. I'm going to interview three Hangeul lovers.\n\n[19] According to the passage, which one is NOT true?",
+      "explainKo": "p.187 ④ 축제에 온 사람들은 피곤하고 지루해 보인다. → 행복하고 신나 보임. ① 10월 9일은 한글을 위한 특별한 날. ② 기자는 한글 축제에 있다. ③ 재미있는 활동이 많다. ⑤ 세 명의 한글 애호가를 인터뷰할 계획이다.",
+      "section": "s19",
+      "sectionTitle": "Section S · According to the passage, which one is N…",
+      "sectionInstructionKo": "According to the passage, which one is NOT true? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "19"
+    },
+    {
+      "id": "h20",
+      "sourceId": 20,
+      "group": "18-20",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "interview"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[18-20] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: Today is October 9, a special day for Hangeul, the Korean alphabet. I'm at a Hangeul festival now. People are enjoying fun activities here. They look ⓐ ______ and ⓑ ______. I'm going to interview three Hangeul lovers.\n\n[20] 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.\nto ask someone questions to learn more about them",
+      "explainKo": "p.187 누군가에 대해 더 많이 알기 위해 질문하다 → interview.",
+      "section": "s20",
+      "sectionTitle": "Section T · 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "sectionInstructionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "20"
+    },
+    {
+      "id": "h21",
+      "sourceId": 21,
+      "group": "21-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "ⓐ started learning",
+        "ⓑ Because I wanted to sing Korean songs",
+        "ⓒ to my students",
+        "ⓓ look the shape",
+        "ⓔ sharing"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "윗글의 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[21] 윗글의 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "explainKo": "p.187 ⓓ 감각동사 look 뒤에 명사구가 나오므로 like가 필요하다. ⓐ start -ing, ⓑ because, ⓒ teach의 to, ⓔ sharing은 적절하다.",
+      "section": "s21",
+      "sectionTitle": "Section U · 윗글의 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "sectionInstructionKo": "윗글의 ⓐ~ⓔ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "21"
+    },
+    {
+      "id": "h22",
+      "sourceId": 22,
+      "group": "21-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "① fan: 부채",
+        "② patterns: 무늬",
+        "③ tongue: 혀",
+        "④ scientific: 과학적인",
+        "⑤ Enjoy: 즐기다"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "directionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[22] 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+      "explainKo": "p.187 fan은 여기서 팬, 열렬한 애호가이다. ① 부채는 적절하지 않다.",
+      "section": "s22",
+      "sectionTitle": "Section V · 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+      "sectionInstructionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "22"
+    },
+    {
+      "id": "h23",
+      "sourceId": 23,
+      "group": "21-25",
+      "type": "sentence",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "accept": [
+        "Because I was interested in using Hangeul in my designs, I studied the shapes of Hangeul."
+      ],
+      "directionKo": "윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오. (콤마를 사용할 것)",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[23] 윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오. (콤마를 사용할 것)\n(A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul.",
+      "explainKo": "p.187 so는 because로 바꿀 수 있다. 콤마를 사용하므로 이유의 부사절을 주절 앞에 쓴다.",
+      "section": "s23",
+      "sectionTitle": "Section W · 윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오.…",
+      "sectionInstructionKo": "윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오. (콤마를 사용할 것) 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "label": "23"
+    },
+    {
+      "id": "h24",
+      "sourceId": 24,
+      "group": "21-25",
+      "type": "mc",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "select": "one",
+      "choices": [
+        "Why did Pueng start learning Hangeul?",
+        "Why was Anna interested in learning Hangeul?",
+        "What did Anna study about Hangeul?",
+        "Where did William learn Hangeul?",
+        "What does William think about the shape of Hangeul?"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "directionKo": "Which of the following questions CANNOT be answered?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[24] Which of the following questions CANNOT be answered?",
+      "explainKo": "p.187 ④ William은 어디에서 한글을 배웠나? → 알 수 없음. ① 케이팝의 팬이라서. ② 한글을 디자인에 사용해서. ③ 한글의 모양. ⑤ 과학적이라고 생각.",
+      "section": "s24",
+      "sectionTitle": "Section X · Which of the following questions CANNOT …",
+      "sectionInstructionKo": "Which of the following questions CANNOT be answered? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "label": "24"
+    },
+    {
+      "id": "h25-ⓐ",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "K-pop"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ⓐ K-pop. Pueng은 케이팝 노래를 부르려고 한글을 배웠다.",
+      "focusBlank": "ⓐ",
+      "promptKo": "이 문항은 (ⓐ) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "25"
+    },
+    {
+      "id": "h25-ⓑ",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "songs"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ⓑ songs.",
+      "focusBlank": "ⓑ",
+      "promptKo": "이 문항은 (ⓑ) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "26"
+    },
+    {
+      "id": "h25-ⓒ",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "shapes"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ⓒ shapes. Anna는 한글의 모양을 공부했다.",
+      "focusBlank": "ⓒ",
+      "promptKo": "이 문항은 (ⓒ) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "27"
+    },
+    {
+      "id": "h25-ⓓ",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "clothes"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ⓓ clothes. 독특한 옷 디자인을 만들었다.",
+      "focusBlank": "ⓓ",
+      "promptKo": "이 문항은 (ⓓ) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "28"
+    },
+    {
+      "id": "h25-ⓔ",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "teach"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ⓔ teach. William은 한글의 과학을 가르치고 싶어 한다.",
+      "focusBlank": "ⓔ",
+      "promptKo": "이 문항은 (ⓔ) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "29"
+    },
+    {
+      "id": "h25-①",
+      "sourceId": 25,
+      "group": "21-25",
+      "type": "fill",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "accept": [
+        "science"
+      ],
+      "phraseBlank": false,
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "promptEn": "[21-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big ① fan of K-pop songs. ⓑ Because I wanted to sing Korean songs, I ⓐ started learning Hangeul. Now I can sing many K-pop songs!\nAnna: (A) I was interested in using Hangeul in my designs. So I studied the shapes of Hangeul. I can make unique ② patterns for clothes with Hangeul.\nWilliam: I wanted to teach the science of Hangeul ⓒ to my students. Some letters ⓓ look the shape of the mouth and ③ tongue for their sounds. King Sejong made it that way. It's very ④ scientific.\nReporter: Thank you for ⓔ sharing your stories. ⑤ Enjoy this Festival!\n\n[25] 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\n\nPueng learned Hangeul to sing (ⓐ) ______ (ⓑ) ______ and now she can sing many of them. Anna studied the (ⓒ) ______ of Hangeul to create unique designs for (ⓓ) ______, and William wanted to (ⓔ) ______ the (①) ______ of Hangeul to his students.",
+      "explainKo": "p.187 ① science. 한글의 과학.",
+      "focusBlank": "①",
+      "promptKo": "이 문항은 (①) 빈칸만 씁니다.",
+      "section": "s25",
+      "sectionTitle": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "sectionInstructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "label": "30"
+    }
+  ],
+  "introKo": "이 연습은 다음 영영풀이에 해당하는 단어가 들어간 문장은? 1문항, 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 1문항, 다음 밑줄 친 부분과 의미가 다른 하나는? 1문항, 다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 … 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 다음 영영풀이에 해당하는 단어가 들어간 문장은?",
+      "directionKo": "다음 영영풀이에 해당하는 단어가 들어간 문장은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 영영풀이에 해당하는 단어가 들어간 문장은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "directionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 다음 밑줄 친 부분과 의미가 다른 하나는?",
+      "directionKo": "다음 밑줄 친 부분과 의미가 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 밑줄 친 부분과 의미가 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 …",
+      "directionKo": "다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "instructionKo": "다음 짝지어진 두 단어의 관계가 서로 같도록 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 위 대화의 주제로 가장 적절한 것은?",
+      "directionKo": "위 대화의 주제로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 주제로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은?",
+      "directionKo": "위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 ⓐ에 들어갈 가장 적절한 말은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s7",
+      "title": "Section G · 위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "directionKo": "위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 밑줄 친 ①~⑤ 중 가리키는 것이 다른 하나는? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s8",
+      "title": "Section H · 위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오.",
+      "directionKo": "위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "위 대화의 빈칸 (A)에 들어갈 적절한 말을 조건에 맞게 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "s9",
+      "title": "Section I · 위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은?",
+      "directionKo": "위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 (B)에 들어갈 말로 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s10",
+      "title": "Section J · 위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s11",
+      "title": "Section K · According to the dialog, which one is NO…",
+      "directionKo": "According to the dialog, which one is NOT true?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "According to the dialog, which one is NOT true? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s12",
+      "title": "Section L · 위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작…",
+      "directionKo": "위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "위 대화의 밑줄 친 ⓒ의 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "s13",
+      "title": "Section M · 다음 조건에 맞게 우리말을 완성하시오.",
+      "directionKo": "다음 조건에 맞게 우리말을 완성하시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 조건에 맞게 우리말을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s14",
+      "title": "Section N · 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "directionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s15",
+      "title": "Section O · 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "directionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s16",
+      "title": "Section P · 다음 중 어법상 옳은 문장으로 짝지은 것은?",
+      "directionKo": "다음 중 어법상 옳은 문장으로 짝지은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "다음 중 어법상 옳은 문장으로 짝지은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s17",
+      "title": "Section Q · 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하…",
+      "directionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. (필요시 어형을 바꾸고 축약형은 쓰지 말 것)",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "instructionKo": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 문장을 완성하시오. (필요시 어형을 바꾸고 축약형은 쓰지 말 것) 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s18",
+      "title": "Section R · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "directionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s19",
+      "title": "Section S · According to the passage, which one is N…",
+      "directionKo": "According to the passage, which one is NOT true?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "According to the passage, which one is NOT true? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s20",
+      "title": "Section T · 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "directionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "instructionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 1
+    },
+    {
+      "id": "s21",
+      "title": "Section U · 윗글의 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "directionKo": "윗글의 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 ⓐ~ⓔ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s22",
+      "title": "Section V · 윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+      "directionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "윗글의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s23",
+      "title": "Section W · 윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오.…",
+      "directionKo": "윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오. (콤마를 사용할 것)",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "윗글의 밑줄 친 (A)를 because를 사용하여 한 문장으로 바꾸시오. (콤마를 사용할 것) 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "s24",
+      "title": "Section X · Which of the following questions CANNOT …",
+      "directionKo": "Which of the following questions CANNOT be answered?",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "Which of the following questions CANNOT be answered? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 1
+    },
+    {
+      "id": "s25",
+      "title": "Section Y · 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아…",
+      "directionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.",
+      "ruleKo": "영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "instructionKo": "윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 6
+    }
+  ],
+  "questionCount": 30,
+  "sectionsVersion": 2
+}

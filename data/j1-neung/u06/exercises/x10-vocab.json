@@ -1,0 +1,1449 @@
+{
+  "id": "x10-vocab",
+  "title": "어휘 확인 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "16-17",
+  "questionCount": 39,
+  "omitted": [
+    {
+      "id": "A-11",
+      "reason": "p190 오른쪽 A 11 한글 뜻이 OCR 'AICH'로만 남아 판독 불가. period 문항은 넣지 않음."
+    },
+    {
+      "id": "F-01-ko",
+      "reason": "p190 F 01 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-02-ko",
+      "reason": "p190 F 02 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-03-ko",
+      "reason": "p190 F 03 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-04-ko",
+      "reason": "p190 F 04 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-05-ko",
+      "reason": "p190 F 05 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-06-ko",
+      "reason": "p190 F 06 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-07-ko",
+      "reason": "p190 F 07 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-08-ko",
+      "reason": "p190 F 08 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-09-ko",
+      "reason": "p190 F 09 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    },
+    {
+      "id": "F-10-ko",
+      "reason": "p190 F 10 영어 단어는 읽히나 쉼표 뒤 한글 뜻이 깨져 뜻 칸은 만들지 않음. 영어 단어만 문항으로 수록."
+    }
+  ],
+  "questions": [
+    {
+      "id": "sA-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "1–5",
+      "section": "sA",
+      "sourceId": 1,
+      "group": "sA",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "order — 주문하다: 주문\nstick — 막대\nhistory — 역사\nprofessor — 교수\nmost — 대부분의, 가장 큰[많은]",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "A-01",
+          "en": "order",
+          "ko": "주문하다: 주문",
+          "sourceId": 1,
+          "explainKo": "정답: 주문하다: 주문. 답지 p190 오른쪽 Lesson 06 어휘 A 01."
+        },
+        {
+          "id": "A-02",
+          "en": "stick",
+          "ko": "막대",
+          "sourceId": 2,
+          "explainKo": "정답: 막대. 답지 p190 오른쪽 Lesson 06 어휘 A 02."
+        },
+        {
+          "id": "A-03",
+          "en": "history",
+          "ko": "역사",
+          "sourceId": 3,
+          "explainKo": "정답: 역사. 답지 p190 오른쪽 Lesson 06 어휘 A 03."
+        },
+        {
+          "id": "A-04",
+          "en": "professor",
+          "ko": "교수",
+          "sourceId": 4,
+          "explainKo": "정답: 교수. 답지 p190 오른쪽 Lesson 06 어휘 A 04."
+        },
+        {
+          "id": "A-05",
+          "en": "most",
+          "ko": "대부분의, 가장 큰[많은]",
+          "sourceId": 5,
+          "explainKo": "정답: 대부분의, 가장 큰[많은]. 답지 p190 오른쪽 Lesson 06 어휘 A 05."
+        }
+      ]
+    },
+    {
+      "id": "sA-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "6–10",
+      "section": "sA",
+      "sourceId": 6,
+      "group": "sA",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "share — 공유하다\nspecial — 특별한\nboard — 판자, 널\ncreate — 창조하다, 창작하다\nscientific — 과학적인",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "A-06",
+          "en": "share",
+          "ko": "공유하다",
+          "sourceId": 6,
+          "explainKo": "정답: 공유하다. 답지 p190 오른쪽 Lesson 06 어휘 A 06."
+        },
+        {
+          "id": "A-07",
+          "en": "special",
+          "ko": "특별한",
+          "sourceId": 7,
+          "explainKo": "정답: 특별한. 답지 p190 오른쪽 Lesson 06 어휘 A 07."
+        },
+        {
+          "id": "A-08",
+          "en": "board",
+          "ko": "판자, 널",
+          "sourceId": 8,
+          "explainKo": "정답: 판자, 널. 답지 p190 오른쪽 Lesson 06 어휘 A 08."
+        },
+        {
+          "id": "A-09",
+          "en": "create",
+          "ko": "창조하다, 창작하다",
+          "sourceId": 9,
+          "explainKo": "정답: 창조하다, 창작하다. 답지 p190 오른쪽 Lesson 06 어휘 A 09."
+        },
+        {
+          "id": "A-10",
+          "en": "scientific",
+          "ko": "과학적인",
+          "sourceId": 10,
+          "explainKo": "정답: 과학적인. 답지 p190 오른쪽 Lesson 06 어휘 A 10."
+        }
+      ]
+    },
+    {
+      "id": "sA-b3",
+      "type": "match",
+      "answerMode": "match",
+      "label": "11–15",
+      "section": "sA",
+      "sourceId": 12,
+      "group": "sA",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "letter — 글자, 문자: 편지\ninterview — 인터뷰를 하다\nintroduce — 소개하다\ntraditional — 전통의\npot — 병, 항아리, 통",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "A-12",
+          "en": "letter",
+          "ko": "글자, 문자: 편지",
+          "sourceId": 12,
+          "explainKo": "정답: 글자, 문자: 편지. 답지 p190 오른쪽 Lesson 06 어휘 A 12."
+        },
+        {
+          "id": "A-13",
+          "en": "interview",
+          "ko": "인터뷰를 하다",
+          "sourceId": 13,
+          "explainKo": "정답: 인터뷰를 하다. 답지 p190 오른쪽 Lesson 06 어휘 A 13."
+        },
+        {
+          "id": "A-14",
+          "en": "introduce",
+          "ko": "소개하다",
+          "sourceId": 14,
+          "explainKo": "정답: 소개하다. 답지 p190 오른쪽 Lesson 06 어휘 A 14."
+        },
+        {
+          "id": "A-15",
+          "en": "traditional",
+          "ko": "전통의",
+          "sourceId": 15,
+          "explainKo": "정답: 전통의. 답지 p190 오른쪽 Lesson 06 어휘 A 15."
+        },
+        {
+          "id": "A-16",
+          "en": "pot",
+          "ko": "병, 항아리, 통",
+          "sourceId": 16,
+          "explainKo": "정답: 병, 항아리, 통. 답지 p190 오른쪽 Lesson 06 어휘 A 16."
+        }
+      ]
+    },
+    {
+      "id": "sA-b4",
+      "type": "match",
+      "answerMode": "match",
+      "label": "16–19",
+      "section": "sA",
+      "sourceId": 17,
+      "group": "sA",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "tongue — 혀\ndecide — 결정하다\nlate — 늦은, 지각한, 늦게\nlight — 가벼운, 빛, (전)등",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "A-17",
+          "en": "tongue",
+          "ko": "혀",
+          "sourceId": 17,
+          "explainKo": "정답: 혀. 답지 p190 오른쪽 Lesson 06 어휘 A 17."
+        },
+        {
+          "id": "A-18",
+          "en": "decide",
+          "ko": "결정하다",
+          "sourceId": 18,
+          "explainKo": "정답: 결정하다. 답지 p190 오른쪽 Lesson 06 어휘 A 18."
+        },
+        {
+          "id": "A-19",
+          "en": "late",
+          "ko": "늦은, 지각한, 늦게",
+          "sourceId": 19,
+          "explainKo": "정답: 늦은, 지각한, 늦게. 답지 p190 오른쪽 Lesson 06 어휘 A 19."
+        },
+        {
+          "id": "A-20",
+          "en": "light",
+          "ko": "가벼운, 빛, (전)등",
+          "sourceId": 20,
+          "explainKo": "정답: 가벼운, 빛, (전)등. 답지 p190 오른쪽 Lesson 06 어휘 A 20."
+        }
+      ]
+    },
+    {
+      "id": "sB-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "20–24",
+      "section": "sB",
+      "sourceId": 1,
+      "group": "sB",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "mask — 가면\nsound — 소리: ~하게 들리다\nsoldier — 군인, 병사\ntasty — 맛있는\ninstrument — 악기",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "B-01",
+          "en": "mask",
+          "ko": "가면",
+          "sourceId": 1,
+          "explainKo": "정답: mask. 답지 p190 오른쪽 Lesson 06 어휘 B 01."
+        },
+        {
+          "id": "B-02",
+          "en": "sound",
+          "ko": "소리: ~하게 들리다",
+          "sourceId": 2,
+          "explainKo": "정답: sound. 답지 p190 오른쪽 Lesson 06 어휘 B 02."
+        },
+        {
+          "id": "B-03",
+          "en": "soldier",
+          "ko": "군인, 병사",
+          "sourceId": 3,
+          "explainKo": "정답: soldier. 답지 p190 오른쪽 Lesson 06 어휘 B 03."
+        },
+        {
+          "id": "B-04",
+          "en": "tasty",
+          "ko": "맛있는",
+          "sourceId": 4,
+          "explainKo": "정답: tasty. 답지 p190 오른쪽 Lesson 06 어휘 B 04."
+        },
+        {
+          "id": "B-05",
+          "en": "instrument",
+          "ko": "악기",
+          "sourceId": 5,
+          "explainKo": "정답: instrument. 답지 p190 오른쪽 Lesson 06 어휘 B 05."
+        }
+      ]
+    },
+    {
+      "id": "sB-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "25–29",
+      "section": "sB",
+      "sourceId": 6,
+      "group": "sB",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "different — 다른, 여러 가지의\nshape — 모양\ngeneral — 장군: 일반적인\nimportant — 중요한\ncool — 시원한, 멋진",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "B-06",
+          "en": "different",
+          "ko": "다른, 여러 가지의",
+          "sourceId": 6,
+          "explainKo": "정답: different. 답지 p190 오른쪽 Lesson 06 어휘 B 06."
+        },
+        {
+          "id": "B-07",
+          "en": "shape",
+          "ko": "모양",
+          "sourceId": 7,
+          "explainKo": "정답: shape. 답지 p190 오른쪽 Lesson 06 어휘 B 07."
+        },
+        {
+          "id": "B-08",
+          "en": "general",
+          "ko": "장군: 일반적인",
+          "sourceId": 8,
+          "explainKo": "정답: general. 답지 p190 오른쪽 Lesson 06 어휘 B 08."
+        },
+        {
+          "id": "B-09",
+          "en": "important",
+          "ko": "중요한",
+          "sourceId": 9,
+          "explainKo": "정답: important. 답지 p190 오른쪽 Lesson 06 어휘 B 09."
+        },
+        {
+          "id": "B-10",
+          "en": "cool",
+          "ko": "시원한, 멋진",
+          "sourceId": 10,
+          "explainKo": "정답: cool. 답지 p190 오른쪽 Lesson 06 어휘 B 10."
+        }
+      ]
+    },
+    {
+      "id": "sB-b3",
+      "type": "match",
+      "answerMode": "match",
+      "label": "30–34",
+      "section": "sB",
+      "sourceId": 11,
+      "group": "sB",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "rule — 규칙\ntower — 탑\nforest — 숲, 삼림\nbad — 안 좋은, 나쁜\nbattle — 전투",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "B-11",
+          "en": "rule",
+          "ko": "규칙",
+          "sourceId": 11,
+          "explainKo": "정답: rule. 답지 p190 오른쪽 Lesson 06 어휘 B 11."
+        },
+        {
+          "id": "B-12",
+          "en": "tower",
+          "ko": "탑",
+          "sourceId": 12,
+          "explainKo": "정답: tower. 답지 p190 오른쪽 Lesson 06 어휘 B 12."
+        },
+        {
+          "id": "B-13",
+          "en": "forest",
+          "ko": "숲, 삼림",
+          "sourceId": 13,
+          "explainKo": "정답: forest. 답지 p190 오른쪽 Lesson 06 어휘 B 13."
+        },
+        {
+          "id": "B-14",
+          "en": "bad",
+          "ko": "안 좋은, 나쁜",
+          "sourceId": 14,
+          "explainKo": "정답: bad. 답지 p190 오른쪽 Lesson 06 어휘 B 14."
+        },
+        {
+          "id": "B-15",
+          "en": "battle",
+          "ko": "전투",
+          "sourceId": 15,
+          "explainKo": "정답: battle. 답지 p190 오른쪽 Lesson 06 어휘 B 15."
+        }
+      ]
+    },
+    {
+      "id": "sB-b4",
+      "type": "match",
+      "answerMode": "match",
+      "label": "35–39",
+      "section": "sB",
+      "sourceId": 16,
+      "group": "sB",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "festival — 축제\nclothes — 옷, 의복\nperformance — 공연\nmiss — 놓치다\nwear — 입고[쓰고/신고/착용하고] 있다",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "B-16",
+          "en": "festival",
+          "ko": "축제",
+          "sourceId": 16,
+          "explainKo": "정답: festival. 답지 p190 오른쪽 Lesson 06 어휘 B 16."
+        },
+        {
+          "id": "B-17",
+          "en": "clothes",
+          "ko": "옷, 의복",
+          "sourceId": 17,
+          "explainKo": "정답: clothes. 답지 p190 오른쪽 Lesson 06 어휘 B 17."
+        },
+        {
+          "id": "B-18",
+          "en": "performance",
+          "ko": "공연",
+          "sourceId": 18,
+          "explainKo": "정답: performance. 답지 p190 오른쪽 Lesson 06 어휘 B 18."
+        },
+        {
+          "id": "B-19",
+          "en": "miss",
+          "ko": "놓치다",
+          "sourceId": 19,
+          "explainKo": "정답: miss. 답지 p190 오른쪽 Lesson 06 어휘 B 19."
+        },
+        {
+          "id": "B-20",
+          "en": "wear",
+          "ko": "입고[쓰고/신고/착용하고] 있다",
+          "sourceId": 20,
+          "explainKo": "정답: wear. 답지 p190 오른쪽 Lesson 06 어휘 B 20."
+        }
+      ]
+    },
+    {
+      "id": "sC-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "40–44",
+      "section": "sC",
+      "sourceId": 1,
+      "group": "sC",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "at the same time — 동시에\nbe famous for — ~로 유명하다\nstand on — ~위에 서 있다\nin the air — 공중에\nbe interested in — ~에 관심이 있다",
+      "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "C-01",
+          "en": "at the same time",
+          "ko": "동시에",
+          "sourceId": 1,
+          "explainKo": "정답: 동시에. 답지 p190 오른쪽 Lesson 06 어휘 C 01."
+        },
+        {
+          "id": "C-02",
+          "en": "be famous for",
+          "ko": "~로 유명하다",
+          "sourceId": 2,
+          "explainKo": "정답: ~로 유명하다. 답지 p190 오른쪽 Lesson 06 어휘 C 02."
+        },
+        {
+          "id": "C-03",
+          "en": "stand on",
+          "ko": "~위에 서 있다",
+          "sourceId": 3,
+          "explainKo": "정답: ~위에 서 있다. 답지 p190 오른쪽 Lesson 06 어휘 C 03."
+        },
+        {
+          "id": "C-04",
+          "en": "in the air",
+          "ko": "공중에",
+          "sourceId": 4,
+          "explainKo": "정답: 공중에. 답지 p190 오른쪽 Lesson 06 어휘 C 04."
+        },
+        {
+          "id": "C-05",
+          "en": "be interested in",
+          "ko": "~에 관심이 있다",
+          "sourceId": 5,
+          "explainKo": "정답: ~에 관심이 있다. 답지 p190 오른쪽 Lesson 06 어휘 C 05."
+        }
+      ]
+    },
+    {
+      "id": "sC-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "45–49",
+      "section": "sC",
+      "sourceId": 6,
+      "group": "sC",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "go out — 외출하다[나가다]\na long time ago — 오래전에\ngo shopping — 쇼핑 가다\nthrow A into B — A를 B 안에 던지다\nstop -ing — ~하는 것을 멈추다",
+      "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "C-06",
+          "en": "go out",
+          "ko": "외출하다[나가다]",
+          "sourceId": 6,
+          "explainKo": "정답: 외출하다[나가다]. 답지 p190 오른쪽 Lesson 06 어휘 C 06."
+        },
+        {
+          "id": "C-07",
+          "en": "a long time ago",
+          "ko": "오래전에",
+          "sourceId": 7,
+          "explainKo": "정답: 오래전에. 답지 p190 오른쪽 Lesson 06 어휘 C 07."
+        },
+        {
+          "id": "C-08",
+          "en": "go shopping",
+          "ko": "쇼핑 가다",
+          "sourceId": 8,
+          "explainKo": "정답: 쇼핑 가다. 답지 p190 오른쪽 Lesson 06 어휘 C 08."
+        },
+        {
+          "id": "C-09",
+          "en": "throw A into B",
+          "ko": "A를 B 안에 던지다",
+          "sourceId": 9,
+          "explainKo": "정답: A를 B 안에 던지다. 답지 p190 오른쪽 Lesson 06 어휘 C 09."
+        },
+        {
+          "id": "C-10",
+          "en": "stop -ing",
+          "ko": "~하는 것을 멈추다",
+          "sourceId": 10,
+          "explainKo": "정답: ~하는 것을 멈추다. 답지 p190 오른쪽 Lesson 06 어휘 C 10."
+        }
+      ]
+    },
+    {
+      "id": "sD-b1",
+      "type": "match",
+      "answerMode": "match",
+      "label": "50–54",
+      "section": "sD",
+      "sourceId": 1,
+      "group": "sD",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "not really — 그럴 리가, 설마\nget points — 점수를 얻다\nbig fan — 열혈 팬\ngo well with — ~와 잘 어울리다\nfeel sick — 속이 안 좋다",
+      "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "D-01",
+          "en": "not really",
+          "ko": "그럴 리가, 설마",
+          "sourceId": 1,
+          "explainKo": "정답: not really. 답지 p190 오른쪽 Lesson 06 어휘 D 01."
+        },
+        {
+          "id": "D-02",
+          "en": "get points",
+          "ko": "점수를 얻다",
+          "sourceId": 2,
+          "explainKo": "정답: get points. 답지 p190 오른쪽 Lesson 06 어휘 D 02."
+        },
+        {
+          "id": "D-03",
+          "en": "big fan",
+          "ko": "열혈 팬",
+          "sourceId": 3,
+          "explainKo": "정답: big fan. 답지 p190 오른쪽 Lesson 06 어휘 D 03."
+        },
+        {
+          "id": "D-04",
+          "en": "go well with",
+          "ko": "~와 잘 어울리다",
+          "sourceId": 4,
+          "explainKo": "정답: go well with. 답지 p190 오른쪽 Lesson 06 어휘 D 04."
+        },
+        {
+          "id": "D-05",
+          "en": "feel sick",
+          "ko": "속이 안 좋다",
+          "sourceId": 5,
+          "explainKo": "정답: feel sick. 답지 p190 오른쪽 Lesson 06 어휘 D 05."
+        }
+      ]
+    },
+    {
+      "id": "sD-b2",
+      "type": "match",
+      "answerMode": "match",
+      "label": "55–59",
+      "section": "sD",
+      "sourceId": 6,
+      "group": "sD",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "be able to — ~할 수 있다\nhave a sale — 세일하다\nin the past — 과거에\ntry on — ~을 입어 보다\nat the same time — 동시에",
+      "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "pairs": [
+        {
+          "id": "D-06",
+          "en": "be able to",
+          "ko": "~할 수 있다",
+          "sourceId": 6,
+          "explainKo": "정답: be able to. 답지 p190 오른쪽 Lesson 06 어휘 D 06."
+        },
+        {
+          "id": "D-07",
+          "en": "have a sale",
+          "ko": "세일하다",
+          "sourceId": 7,
+          "explainKo": "정답: have a sale. 답지 p190 오른쪽 Lesson 06 어휘 D 07."
+        },
+        {
+          "id": "D-08",
+          "en": "in the past",
+          "ko": "과거에",
+          "sourceId": 8,
+          "explainKo": "정답: in the past. 답지 p190 오른쪽 Lesson 06 어휘 D 08."
+        },
+        {
+          "id": "D-09",
+          "en": "try on",
+          "ko": "~을 입어 보다",
+          "sourceId": 9,
+          "explainKo": "정답: try on. 답지 p190 오른쪽 Lesson 06 어휘 D 09."
+        },
+        {
+          "id": "D-10",
+          "en": "at the same time",
+          "ko": "동시에",
+          "sourceId": 10,
+          "explainKo": "정답: at the same time. 답지 p190 오른쪽 Lesson 06 어휘 D 10."
+        }
+      ]
+    },
+    {
+      "sourceId": 1,
+      "group": "E-01",
+      "explainKo": "정답: activities. 답지 p190 오른쪽 Lesson 06 어휘 E 01.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n01. People are enjoying fun (1)__________ here.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-01",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "60",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        7
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 2,
+      "group": "E-02",
+      "explainKo": "정답: interview. 답지 p190 오른쪽 Lesson 06 어휘 E 02.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n02. I'm going to (1)__________ three Hangeul lovers.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-02",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "61",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        9
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 3,
+      "group": "E-03",
+      "explainKo": "정답: shape. 답지 p190 오른쪽 Lesson 06 어휘 E 03.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n03. The (1)__________s of Hangeul look unique and beautiful.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-03",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "62",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "E-04",
+      "explainKo": "정답: create. 답지 p190 오른쪽 Lesson 06 어휘 E 04.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n04. King Sejong felt bad for his people, so he (1)__________d a new alphabet.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-04",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "63",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        8
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 5,
+      "group": "E-05",
+      "explainKo": "정답: unique. 답지 p190 오른쪽 Lesson 06 어휘 E 05.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n05. I can make (1)__________ patterns for clothes with Hangeul.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-05",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "64",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        10
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 6,
+      "group": "E-06",
+      "explainKo": "정답: tongue. 답지 p190 오른쪽 Lesson 06 어휘 E 06.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n06. Some letters look like the shape of the mouth and (1)__________ for their sounds.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-06",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "65",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "E-07",
+      "explainKo": "정답: scientific. 답지 p190 오른쪽 Lesson 06 어휘 E 07.",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: tongue, shape, festival, scientific, soldier, share, activities, create, interview, unique\n07. King Sejong made Hangeul in a (1)__________ way.",
+      "type": "bank",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "E-07",
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "66",
+      "choices": [
+        "tongue",
+        "shape",
+        "festival",
+        "scientific",
+        "soldier",
+        "share",
+        "activities",
+        "create",
+        "interview",
+        "unique"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 1,
+      "group": "F-01",
+      "explainKo": "정답: battle. 답지 p190 오른쪽 Lesson 06 어휘 F 01. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n01. (1)__________ : a fight between two opposing sides",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-01",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "67",
+      "accept": [
+        "battle"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 2,
+      "group": "F-02",
+      "explainKo": "정답: forest. 답지 p190 오른쪽 Lesson 06 어휘 F 02. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n02. (1)__________ : a large area of land covered with many trees",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-02",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "68",
+      "accept": [
+        "forest"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 3,
+      "group": "F-03",
+      "explainKo": "정답: decide. 답지 p190 오른쪽 Lesson 06 어휘 F 03. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n03. (1)__________ : to choose to do something",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-03",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "69",
+      "accept": [
+        "decide"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "F-04",
+      "explainKo": "정답: brave. 답지 p190 오른쪽 Lesson 06 어휘 F 04. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n04. (1)__________ : not afraid of difficult things",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-04",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "70",
+      "accept": [
+        "brave"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 5,
+      "group": "F-05",
+      "explainKo": "정답: perform. 답지 p190 오른쪽 Lesson 06 어휘 F 05. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n05. (1)__________ : to present for the entertainment of an audience",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-05",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "71",
+      "accept": [
+        "perform"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 6,
+      "group": "F-06",
+      "explainKo": "정답: reporter. 답지 p190 오른쪽 Lesson 06 어휘 F 06. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n06. (1)__________ : a person who collects and reports news for newspapers, radio or television",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-06",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "72",
+      "accept": [
+        "reporter"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "F-07",
+      "explainKo": "정답: share. 답지 p190 오른쪽 Lesson 06 어휘 F 07. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n07. (1)__________ : to use, experience, or enjoy with others",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-07",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "73",
+      "accept": [
+        "share"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 8,
+      "group": "F-08",
+      "explainKo": "정답: special. 답지 p190 오른쪽 Lesson 06 어휘 F 08. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n08. (1)__________ : better or more important than the usual",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-08",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "74",
+      "accept": [
+        "special"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 9,
+      "group": "F-09",
+      "explainKo": "정답: different. 답지 p190 오른쪽 Lesson 06 어휘 F 09. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n09. (1)__________ : not the same; not like something or someone else",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-09",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "75",
+      "accept": [
+        "different"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 10,
+      "group": "F-10",
+      "explainKo": "정답: miss. 답지 p190 오른쪽 Lesson 06 어휘 F 10. 쉼표 뒤 한글 뜻은 판독하지 못해 영어 단어만 정답으로 둡니다.",
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n10. (1)__________ : to fail to catch",
+      "type": "fill",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "F-10",
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "76",
+      "accept": [
+        "miss"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 영어 단어만 씁니다. 한글 뜻은 답지가 깨져 묻지 않습니다."
+    },
+    {
+      "sourceId": 1,
+      "group": "PlusA-01",
+      "explainKo": "정답: felt. 답지 p190 오른쪽 Words Plus+ A 01. feel의 과거형은 felt이다. teach : taught와 같은 관계.",
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.\n01. feel : (1)__________ = teach : taught",
+      "type": "fill",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusA-01",
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "77",
+      "accept": [
+        "felt"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 2,
+      "group": "PlusA-02",
+      "explainKo": "정답: special. 답지 p190 오른쪽 Words Plus+ A 02. traditional의 반의어가 modern이므로 general의 반의어 special.",
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.\n02. traditional : modern = (1)__________ : general",
+      "type": "fill",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusA-02",
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "78",
+      "accept": [
+        "special"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 3,
+      "group": "PlusA-03",
+      "explainKo": "정답: write. 답지 p190 오른쪽 Words Plus+ A 03. clothes를 wear하듯 letter는 write.",
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.\n03. clothes : wear = letter : (1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusA-03",
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "79",
+      "accept": [
+        "write"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 4,
+      "group": "PlusA-04",
+      "explainKo": "정답: decision. 답지 p190 오른쪽 Words Plus+ A 04. create의 명사 creation, decide의 명사 decision.",
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.\n04. create : creation = decide : (1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusA-04",
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "80",
+      "accept": [
+        "decision"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 5,
+      "group": "PlusA-05",
+      "explainKo": "정답: important. 답지 p190 오른쪽 Words Plus+ A 05. brave의 반의어가 coward이므로 unimportant의 반의어 important.",
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.\n05. brave : coward = (1)__________ : unimportant",
+      "type": "fill",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusA-05",
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "81",
+      "accept": [
+        "important"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 1,
+      "group": "PlusB-01",
+      "explainKo": "정답: delicious. 답지 p190 오른쪽 Words Plus+ B 01.",
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.\n01. tasty (유의어)\n(1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusB-01",
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "82",
+      "accept": [
+        "delicious"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 2,
+      "group": "PlusB-02",
+      "explainKo": "정답: useful. 답지 p190 오른쪽 Words Plus+ B 02.",
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.\n02. use (형용사형)\n(1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusB-02",
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "83",
+      "accept": [
+        "useful"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 3,
+      "group": "PlusB-03",
+      "explainKo": "정답: unique. 답지 p190 오른쪽 Words Plus+ B 03.",
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.\n03. special (유의어)\n(1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusB-03",
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "84",
+      "accept": [
+        "unique"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 4,
+      "group": "PlusB-04",
+      "explainKo": "정답: catch. 답지 p190 오른쪽 Words Plus+ B 04.",
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.\n04. miss (반의어)\n(1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusB-04",
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "85",
+      "accept": [
+        "catch"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    },
+    {
+      "sourceId": 5,
+      "group": "PlusB-05",
+      "explainKo": "정답: early. 답지 p190 오른쪽 Words Plus+ B 05.",
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.\n05. late (반의어)\n(1)__________",
+      "type": "fill",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "PlusB-05",
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "86",
+      "accept": [
+        "early"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · A 다음 영어를 우리말로 쓰시오. 19문항, Section B · B 다음 우리말을 영어로 쓰시오. 20문항, Section C · C 다음 영어 표현을 우리말로 쓰시오. 10문항, Section D · D 다음 우리말 표현을 영어로 쓰시오. 10문항, Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 7문항, Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오. 10문항, Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰… 5문항, Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 5문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "sA",
+      "title": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "itemCount": 19
+    },
+    {
+      "id": "sB",
+      "title": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "itemCount": 20
+    },
+    {
+      "id": "sC",
+      "title": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "itemCount": 10
+    },
+    {
+      "id": "sD",
+      "title": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "itemCount": 10
+    },
+    {
+      "id": "sE",
+      "title": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 7
+    },
+    {
+      "id": "sF",
+      "title": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "F 다음 영영풀이에 해당하는 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 10
+    },
+    {
+      "id": "sPA",
+      "title": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰…",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "Words Plus+ A 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 5
+    },
+    {
+      "id": "sPB",
+      "title": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 5
+    }
+  ]
+}

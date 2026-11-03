@@ -1,0 +1,2517 @@
+{
+  "id": "x10-reading-sentence",
+  "title": "Reading 문장 완성하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 06 Amazing Korea",
+  "sourcePages": "24-25",
+  "questionCount": 92,
+  "omitted": [],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "RS-01",
+      "explainKo": "정답: Today, special, for, alphabet. 답지 p192 Reading 문장 완성하기 01.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n01. (1)__________ is October 9, a (2)__________ day (3)__________ Hangeul, the Korean (4)__________.\n(for , Today , alphabet , special)\n오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-01-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "1",
+      "choices": [
+        "for",
+        "Today",
+        "alphabet",
+        "special"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 1,
+      "group": "RS-01",
+      "explainKo": "정답: Today, special, for, alphabet. 답지 p192 Reading 문장 완성하기 01.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n01. (1)__________ is October 9, a (2)__________ day (3)__________ Hangeul, the Korean (4)__________.\n(for , Today , alphabet , special)\n오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-01-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "2",
+      "choices": [
+        "for",
+        "Today",
+        "alphabet",
+        "special"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 1,
+      "group": "RS-01",
+      "explainKo": "정답: Today, special, for, alphabet. 답지 p192 Reading 문장 완성하기 01.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n01. (1)__________ is October 9, a (2)__________ day (3)__________ Hangeul, the Korean (4)__________.\n(for , Today , alphabet , special)\n오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-01-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "3",
+      "choices": [
+        "for",
+        "Today",
+        "alphabet",
+        "special"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 1,
+      "group": "RS-01",
+      "explainKo": "정답: Today, special, for, alphabet. 답지 p192 Reading 문장 완성하기 01.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n01. (1)__________ is October 9, a (2)__________ day (3)__________ Hangeul, the Korean (4)__________.\n(for , Today , alphabet , special)\n오늘은 한국의 문자인 한글을 위한 특별한 날인 10월 9일입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-01-4",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "4",
+      "choices": [
+        "for",
+        "Today",
+        "alphabet",
+        "special"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 2,
+      "group": "RS-02",
+      "explainKo": "정답: at, festival, now. 답지 p192 Reading 문장 완성하기 02.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n02. I'm (1)__________ a Hangeul (2)__________ (3)__________.\n(now , at , festival)\n저는 지금 한글 축제에 와 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-02-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "5",
+      "choices": [
+        "now",
+        "at",
+        "festival"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 2,
+      "group": "RS-02",
+      "explainKo": "정답: at, festival, now. 답지 p192 Reading 문장 완성하기 02.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n02. I'm (1)__________ a Hangeul (2)__________ (3)__________.\n(now , at , festival)\n저는 지금 한글 축제에 와 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-02-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "6",
+      "choices": [
+        "now",
+        "at",
+        "festival"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 2,
+      "group": "RS-02",
+      "explainKo": "정답: at, festival, now. 답지 p192 Reading 문장 완성하기 02.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n02. I'm (1)__________ a Hangeul (2)__________ (3)__________.\n(now , at , festival)\n저는 지금 한글 축제에 와 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-02-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "7",
+      "choices": [
+        "now",
+        "at",
+        "festival"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 3,
+      "group": "RS-03",
+      "explainKo": "정답: People, enjoying, activities. 답지 p192 Reading 문장 완성하기 03.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n03. (1)__________ are (2)__________ fun (3)__________ here.\n(enjoying , People , activities)\n사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-03-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "8",
+      "choices": [
+        "enjoying",
+        "People",
+        "activities"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 3,
+      "group": "RS-03",
+      "explainKo": "정답: People, enjoying, activities. 답지 p192 Reading 문장 완성하기 03.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n03. (1)__________ are (2)__________ fun (3)__________ here.\n(enjoying , People , activities)\n사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-03-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "9",
+      "choices": [
+        "enjoying",
+        "People",
+        "activities"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 3,
+      "group": "RS-03",
+      "explainKo": "정답: People, enjoying, activities. 답지 p192 Reading 문장 완성하기 03.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n03. (1)__________ are (2)__________ fun (3)__________ here.\n(enjoying , People , activities)\n사람들은 이곳에서 재미있는 활동을 즐기고 있습니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-03-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "10",
+      "choices": [
+        "enjoying",
+        "People",
+        "activities"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "RS-04",
+      "explainKo": "정답: look, happy, excited. 답지 p192 Reading 문장 완성하기 04.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n04. They (1)__________ (2)__________ and (3)__________.\n(look , excited , happy)\n그들은 행복하고 신나 보입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-04-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "11",
+      "choices": [
+        "look",
+        "excited",
+        "happy"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "RS-04",
+      "explainKo": "정답: look, happy, excited. 답지 p192 Reading 문장 완성하기 04.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n04. They (1)__________ (2)__________ and (3)__________.\n(look , excited , happy)\n그들은 행복하고 신나 보입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-04-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "12",
+      "choices": [
+        "look",
+        "excited",
+        "happy"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 4,
+      "group": "RS-04",
+      "explainKo": "정답: look, happy, excited. 답지 p192 Reading 문장 완성하기 04.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n04. They (1)__________ (2)__________ and (3)__________.\n(look , excited , happy)\n그들은 행복하고 신나 보입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-04-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "13",
+      "choices": [
+        "look",
+        "excited",
+        "happy"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 5,
+      "group": "RS-05",
+      "explainKo": "정답: going, interview, lovers. 답지 p192 Reading 문장 완성하기 05.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n05. I'm (1)__________ to (2)__________ three Hangeul (3)__________.\n(going , lovers , interview)\n저는 세 명의 한글 애호가를 인터뷰할 것입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-05-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "14",
+      "choices": [
+        "going",
+        "lovers",
+        "interview"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 5,
+      "group": "RS-05",
+      "explainKo": "정답: going, interview, lovers. 답지 p192 Reading 문장 완성하기 05.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n05. I'm (1)__________ to (2)__________ three Hangeul (3)__________.\n(going , lovers , interview)\n저는 세 명의 한글 애호가를 인터뷰할 것입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-05-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "15",
+      "choices": [
+        "going",
+        "lovers",
+        "interview"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 5,
+      "group": "RS-05",
+      "explainKo": "정답: going, interview, lovers. 답지 p192 Reading 문장 완성하기 05.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n05. I'm (1)__________ to (2)__________ three Hangeul (3)__________.\n(going , lovers , interview)\n저는 세 명의 한글 애호가를 인터뷰할 것입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-05-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "16",
+      "choices": [
+        "going",
+        "lovers",
+        "interview"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 6,
+      "group": "RS-06",
+      "explainKo": "정답: Here, first, question. 답지 p192 Reading 문장 완성하기 06.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n06. (1)__________ is my (2)__________ (3)__________.\n(question , Here , first)\n저의 첫 번째 질문입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-06-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "17",
+      "choices": [
+        "question",
+        "Here",
+        "first"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 6,
+      "group": "RS-06",
+      "explainKo": "정답: Here, first, question. 답지 p192 Reading 문장 완성하기 06.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n06. (1)__________ is my (2)__________ (3)__________.\n(question , Here , first)\n저의 첫 번째 질문입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-06-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "18",
+      "choices": [
+        "question",
+        "Here",
+        "first"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 6,
+      "group": "RS-06",
+      "explainKo": "정답: Here, first, question. 답지 p192 Reading 문장 완성하기 06.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n06. (1)__________ is my (2)__________ (3)__________.\n(question , Here , first)\n저의 첫 번째 질문입니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-06-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "19",
+      "choices": [
+        "question",
+        "Here",
+        "first"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "RS-07",
+      "explainKo": "정답: Why, do, like. 답지 p192 Reading 문장 완성하기 07.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n07. (1)__________ (2)__________ you (3)__________ Hangeul?\n(like , do , Why)\n당신은 왜 한글을 좋아하시나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-07-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "20",
+      "choices": [
+        "like",
+        "do",
+        "Why"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "RS-07",
+      "explainKo": "정답: Why, do, like. 답지 p192 Reading 문장 완성하기 07.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n07. (1)__________ (2)__________ you (3)__________ Hangeul?\n(like , do , Why)\n당신은 왜 한글을 좋아하시나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-07-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "21",
+      "choices": [
+        "like",
+        "do",
+        "Why"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 7,
+      "group": "RS-07",
+      "explainKo": "정답: Why, do, like. 답지 p192 Reading 문장 완성하기 07.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n07. (1)__________ (2)__________ you (3)__________ Hangeul?\n(like , do , Why)\n당신은 왜 한글을 좋아하시나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-07-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "22",
+      "choices": [
+        "like",
+        "do",
+        "Why"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 8,
+      "group": "RS-08",
+      "explainKo": "정답: like, because, easy. 답지 p192 Reading 문장 완성하기 08.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n08. I (1)__________ Hangeul (2)__________ it is (3)__________ to learn.\n(easy , because , like)\n저는 한글이 배우기 쉽기 때문에 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-08-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "23",
+      "choices": [
+        "easy",
+        "because",
+        "like"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 8,
+      "group": "RS-08",
+      "explainKo": "정답: like, because, easy. 답지 p192 Reading 문장 완성하기 08.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n08. I (1)__________ Hangeul (2)__________ it is (3)__________ to learn.\n(easy , because , like)\n저는 한글이 배우기 쉽기 때문에 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-08-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "24",
+      "choices": [
+        "easy",
+        "because",
+        "like"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 8,
+      "group": "RS-08",
+      "explainKo": "정답: like, because, easy. 답지 p192 Reading 문장 완성하기 08.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n08. I (1)__________ Hangeul (2)__________ it is (3)__________ to learn.\n(easy , because , like)\n저는 한글이 배우기 쉽기 때문에 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-08-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "25",
+      "choices": [
+        "easy",
+        "because",
+        "like"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 9,
+      "group": "RS-09",
+      "explainKo": "정답: learned, letters, able, read. 답지 p192 Reading 문장 완성하기 09.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n09. I (1)__________ the 24 (2)__________ of Hangeul, and I am (3)__________ to (4)__________ any Korean word now.\n(able , read , letters , learned)\n저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-09-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "26",
+      "choices": [
+        "able",
+        "read",
+        "letters",
+        "learned"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 9,
+      "group": "RS-09",
+      "explainKo": "정답: learned, letters, able, read. 답지 p192 Reading 문장 완성하기 09.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n09. I (1)__________ the 24 (2)__________ of Hangeul, and I am (3)__________ to (4)__________ any Korean word now.\n(able , read , letters , learned)\n저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-09-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "27",
+      "choices": [
+        "able",
+        "read",
+        "letters",
+        "learned"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 9,
+      "group": "RS-09",
+      "explainKo": "정답: learned, letters, able, read. 답지 p192 Reading 문장 완성하기 09.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n09. I (1)__________ the 24 (2)__________ of Hangeul, and I am (3)__________ to (4)__________ any Korean word now.\n(able , read , letters , learned)\n저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-09-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "28",
+      "choices": [
+        "able",
+        "read",
+        "letters",
+        "learned"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 9,
+      "group": "RS-09",
+      "explainKo": "정답: learned, letters, able, read. 답지 p192 Reading 문장 완성하기 09.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n09. I (1)__________ the 24 (2)__________ of Hangeul, and I am (3)__________ to (4)__________ any Korean word now.\n(able , read , letters , learned)\n저는 한글의 24개 글자를 배웠고, 지금 어떤 한글 단어든 읽을 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-09-4",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "29",
+      "choices": [
+        "able",
+        "read",
+        "letters",
+        "learned"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 10,
+      "group": "RS-10",
+      "explainKo": "정답: shapes, unique, beautiful. 답지 p192 Reading 문장 완성하기 10.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n10. The (1)__________ of Hangeul look (2)__________ and (3)__________.\n(shapes , beautiful , unique)\n한글의 모양은 독특하고 아름다워 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-10-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "30",
+      "choices": [
+        "shapes",
+        "beautiful",
+        "unique"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 10,
+      "group": "RS-10",
+      "explainKo": "정답: shapes, unique, beautiful. 답지 p192 Reading 문장 완성하기 10.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n10. The (1)__________ of Hangeul look (2)__________ and (3)__________.\n(shapes , beautiful , unique)\n한글의 모양은 독특하고 아름다워 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-10-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "31",
+      "choices": [
+        "shapes",
+        "beautiful",
+        "unique"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 10,
+      "group": "RS-10",
+      "explainKo": "정답: shapes, unique, beautiful. 답지 p192 Reading 문장 완성하기 10.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n10. The (1)__________ of Hangeul look (2)__________ and (3)__________.\n(shapes , beautiful , unique)\n한글의 모양은 독특하고 아름다워 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-10-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "32",
+      "choices": [
+        "shapes",
+        "beautiful",
+        "unique"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 11,
+      "group": "RS-11",
+      "explainKo": "정답: like, Korean, Switzerland. 답지 p192 Reading 문장 완성하기 11.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n11. I (1)__________ the (2)__________ word for (3)__________, \"스위스[seu-wi-seu].\"\n(Korean , Switzerland , like)\n저는 스위스를 나타내는 한글 단어 \"스위스\"를 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-11-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "33",
+      "choices": [
+        "Korean",
+        "Switzerland",
+        "like"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 11,
+      "group": "RS-11",
+      "explainKo": "정답: like, Korean, Switzerland. 답지 p192 Reading 문장 완성하기 11.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n11. I (1)__________ the (2)__________ word for (3)__________, \"스위스[seu-wi-seu].\"\n(Korean , Switzerland , like)\n저는 스위스를 나타내는 한글 단어 \"스위스\"를 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-11-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "34",
+      "choices": [
+        "Korean",
+        "Switzerland",
+        "like"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 11,
+      "group": "RS-11",
+      "explainKo": "정답: like, Korean, Switzerland. 답지 p192 Reading 문장 완성하기 11.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n11. I (1)__________ the (2)__________ word for (3)__________, \"스위스[seu-wi-seu].\"\n(Korean , Switzerland , like)\n저는 스위스를 나타내는 한글 단어 \"스위스\"를 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-11-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "35",
+      "choices": [
+        "Korean",
+        "Switzerland",
+        "like"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 12,
+      "group": "RS-12",
+      "explainKo": "정답: looks, soldier, mountains. 답지 p192 Reading 문장 완성하기 12.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n12. It (1)__________ like a (2)__________ between two (3)__________.\n(soldier , looks , mountains)\n그것은 두 개의 산 사이에 있는 군인처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-12-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "36",
+      "choices": [
+        "soldier",
+        "looks",
+        "mountains"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 12,
+      "group": "RS-12",
+      "explainKo": "정답: looks, soldier, mountains. 답지 p192 Reading 문장 완성하기 12.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n12. It (1)__________ like a (2)__________ between two (3)__________.\n(soldier , looks , mountains)\n그것은 두 개의 산 사이에 있는 군인처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-12-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "37",
+      "choices": [
+        "soldier",
+        "looks",
+        "mountains"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 12,
+      "group": "RS-12",
+      "explainKo": "정답: looks, soldier, mountains. 답지 p192 Reading 문장 완성하기 12.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n12. It (1)__________ like a (2)__________ between two (3)__________.\n(soldier , looks , mountains)\n그것은 두 개의 산 사이에 있는 군인처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-12-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "38",
+      "choices": [
+        "soldier",
+        "looks",
+        "mountains"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 13,
+      "group": "RS-13",
+      "explainKo": "정답: It, looks, great. 답지 p192 Reading 문장 완성하기 13.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n13. (1)__________ (2)__________ (3)__________!\n(great , It , looks)\n그것은 멋져 보여요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-13-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "39",
+      "choices": [
+        "great",
+        "It",
+        "looks"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 13,
+      "group": "RS-13",
+      "explainKo": "정답: It, looks, great. 답지 p192 Reading 문장 완성하기 13.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n13. (1)__________ (2)__________ (3)__________!\n(great , It , looks)\n그것은 멋져 보여요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-13-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "40",
+      "choices": [
+        "great",
+        "It",
+        "looks"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 13,
+      "group": "RS-13",
+      "explainKo": "정답: It, looks, great. 답지 p192 Reading 문장 완성하기 13.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n13. (1)__________ (2)__________ (3)__________!\n(great , It , looks)\n그것은 멋져 보여요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-13-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "41",
+      "choices": [
+        "great",
+        "It",
+        "looks"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 14,
+      "group": "RS-14",
+      "explainKo": "정답: because, history, amazing. 답지 p192 Reading 문장 완성하기 14.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n14. I like Hangeul (1)__________ its (2)__________ is (3)__________.\n(history , amazing , because)\n저는 한글의 역사가 대단하기 때문에 그것을 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-14-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "42",
+      "choices": [
+        "history",
+        "amazing",
+        "because"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 14,
+      "group": "RS-14",
+      "explainKo": "정답: because, history, amazing. 답지 p192 Reading 문장 완성하기 14.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n14. I like Hangeul (1)__________ its (2)__________ is (3)__________.\n(history , amazing , because)\n저는 한글의 역사가 대단하기 때문에 그것을 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-14-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "43",
+      "choices": [
+        "history",
+        "amazing",
+        "because"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 14,
+      "group": "RS-14",
+      "explainKo": "정답: because, history, amazing. 답지 p192 Reading 문장 완성하기 14.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n14. I like Hangeul (1)__________ its (2)__________ is (3)__________.\n(history , amazing , because)\n저는 한글의 역사가 대단하기 때문에 그것을 좋아해요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-14-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "44",
+      "choices": [
+        "history",
+        "amazing",
+        "because"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 15,
+      "group": "RS-15",
+      "explainKo": "정답: A, most, read. 답지 p192 Reading 문장 완성하기 15.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n15. (1)__________ long time ago, (2)__________ Koreans couldn't (3)__________ or write.\n(A , most , read)\n오래전, 대부분의 한국인은 읽거나 쓸 수 없었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-15-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "45",
+      "choices": [
+        "A",
+        "most",
+        "read"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 15,
+      "group": "RS-15",
+      "explainKo": "정답: A, most, read. 답지 p192 Reading 문장 완성하기 15.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n15. (1)__________ long time ago, (2)__________ Koreans couldn't (3)__________ or write.\n(A , most , read)\n오래전, 대부분의 한국인은 읽거나 쓸 수 없었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-15-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "46",
+      "choices": [
+        "A",
+        "most",
+        "read"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 15,
+      "group": "RS-15",
+      "explainKo": "정답: A, most, read. 답지 p192 Reading 문장 완성하기 15.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n15. (1)__________ long time ago, (2)__________ Koreans couldn't (3)__________ or write.\n(A , most , read)\n오래전, 대부분의 한국인은 읽거나 쓸 수 없었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-15-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "47",
+      "choices": [
+        "A",
+        "most",
+        "read"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 16,
+      "group": "RS-16",
+      "explainKo": "정답: felt, about, created. 답지 p192 Reading 문장 완성하기 16.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n16. King Sejong (1)__________ bad (2)__________ this, so he (3)__________ a new alphabet for his people.\n(about , felt , created)\n세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-16-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "48",
+      "choices": [
+        "about",
+        "felt",
+        "created"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 16,
+      "group": "RS-16",
+      "explainKo": "정답: felt, about, created. 답지 p192 Reading 문장 완성하기 16.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n16. King Sejong (1)__________ bad (2)__________ this, so he (3)__________ a new alphabet for his people.\n(about , felt , created)\n세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-16-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "49",
+      "choices": [
+        "about",
+        "felt",
+        "created"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 16,
+      "group": "RS-16",
+      "explainKo": "정답: felt, about, created. 답지 p192 Reading 문장 완성하기 16.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n16. King Sejong (1)__________ bad (2)__________ this, so he (3)__________ a new alphabet for his people.\n(about , felt , created)\n세종대왕은 이것에 대해 안타깝게 느껴서, 그의 백성들을 위해 새로운 문자를 창제했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-16-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "50",
+      "choices": [
+        "about",
+        "felt",
+        "created"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 17,
+      "group": "RS-17",
+      "explainKo": "정답: all, really, love. 답지 p192 Reading 문장 완성하기 17.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n17. You (1)__________ (2)__________ (3)__________ Hangeul!\n(love , all , really)\n여러분 모두는 한글을 정말 사랑하시네요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-17-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "51",
+      "choices": [
+        "love",
+        "all",
+        "really"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 17,
+      "group": "RS-17",
+      "explainKo": "정답: all, really, love. 답지 p192 Reading 문장 완성하기 17.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n17. You (1)__________ (2)__________ (3)__________ Hangeul!\n(love , all , really)\n여러분 모두는 한글을 정말 사랑하시네요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-17-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "52",
+      "choices": [
+        "love",
+        "all",
+        "really"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 17,
+      "group": "RS-17",
+      "explainKo": "정답: all, really, love. 답지 p192 Reading 문장 완성하기 17.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n17. You (1)__________ (2)__________ (3)__________ Hangeul!\n(love , all , really)\n여러분 모두는 한글을 정말 사랑하시네요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-17-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "53",
+      "choices": [
+        "love",
+        "all",
+        "really"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 18,
+      "group": "RS-18",
+      "explainKo": "정답: How, start, learning. 답지 p192 Reading 문장 완성하기 18.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n18. (1)__________ did you (2)__________ (3)__________ it?\n(start , How , learning)\n당신은 어떻게 그것을 배우기 시작했나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-18-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "54",
+      "choices": [
+        "start",
+        "How",
+        "learning"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 18,
+      "group": "RS-18",
+      "explainKo": "정답: How, start, learning. 답지 p192 Reading 문장 완성하기 18.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n18. (1)__________ did you (2)__________ (3)__________ it?\n(start , How , learning)\n당신은 어떻게 그것을 배우기 시작했나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-18-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "55",
+      "choices": [
+        "start",
+        "How",
+        "learning"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 18,
+      "group": "RS-18",
+      "explainKo": "정답: How, start, learning. 답지 p192 Reading 문장 완성하기 18.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n18. (1)__________ did you (2)__________ (3)__________ it?\n(start , How , learning)\n당신은 어떻게 그것을 배우기 시작했나요?",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-18-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "56",
+      "choices": [
+        "start",
+        "How",
+        "learning"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 19,
+      "group": "RS-19",
+      "explainKo": "정답: big, fan, songs. 답지 p192 Reading 문장 완성하기 19.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n19. I'm a (1)__________ (2)__________ of K-pop (3)__________.\n(songs , fan , big)\n저는 케이팝 노래의 열렬한 팬이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-19-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "57",
+      "choices": [
+        "songs",
+        "fan",
+        "big"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 19,
+      "group": "RS-19",
+      "explainKo": "정답: big, fan, songs. 답지 p192 Reading 문장 완성하기 19.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n19. I'm a (1)__________ (2)__________ of K-pop (3)__________.\n(songs , fan , big)\n저는 케이팝 노래의 열렬한 팬이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-19-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "58",
+      "choices": [
+        "songs",
+        "fan",
+        "big"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 19,
+      "group": "RS-19",
+      "explainKo": "정답: big, fan, songs. 답지 p192 Reading 문장 완성하기 19.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n19. I'm a (1)__________ (2)__________ of K-pop (3)__________.\n(songs , fan , big)\n저는 케이팝 노래의 열렬한 팬이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-19-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "59",
+      "choices": [
+        "songs",
+        "fan",
+        "big"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 20,
+      "group": "RS-20",
+      "explainKo": "정답: wanted, sing, learning. 답지 p192 Reading 문장 완성하기 20.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n20. Because I (1)__________ to (2)__________ Korean songs, I started (3)__________ Hangeul.\n(wanted , learning , sing)\n저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-20-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "60",
+      "choices": [
+        "wanted",
+        "learning",
+        "sing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 20,
+      "group": "RS-20",
+      "explainKo": "정답: wanted, sing, learning. 답지 p192 Reading 문장 완성하기 20.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n20. Because I (1)__________ to (2)__________ Korean songs, I started (3)__________ Hangeul.\n(wanted , learning , sing)\n저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-20-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "61",
+      "choices": [
+        "wanted",
+        "learning",
+        "sing"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 20,
+      "group": "RS-20",
+      "explainKo": "정답: wanted, sing, learning. 답지 p192 Reading 문장 완성하기 20.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n20. Because I (1)__________ to (2)__________ Korean songs, I started (3)__________ Hangeul.\n(wanted , learning , sing)\n저는 한국 노래를 부르고 싶었기 때문에, 한글을 배우기 시작했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-20-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "62",
+      "choices": [
+        "wanted",
+        "learning",
+        "sing"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 21,
+      "group": "RS-21",
+      "explainKo": "정답: Now, sing, many. 답지 p192 Reading 문장 완성하기 21.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n21. (1)__________ I can (2)__________ (3)__________ K-pop songs!\n(sing , Now , many)\n이제 저는 많은 케이팝 노래를 부를 수 있어요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-21-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "63",
+      "choices": [
+        "sing",
+        "Now",
+        "many"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 21,
+      "group": "RS-21",
+      "explainKo": "정답: Now, sing, many. 답지 p192 Reading 문장 완성하기 21.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n21. (1)__________ I can (2)__________ (3)__________ K-pop songs!\n(sing , Now , many)\n이제 저는 많은 케이팝 노래를 부를 수 있어요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-21-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "64",
+      "choices": [
+        "sing",
+        "Now",
+        "many"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 21,
+      "group": "RS-21",
+      "explainKo": "정답: Now, sing, many. 답지 p192 Reading 문장 완성하기 21.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n21. (1)__________ I can (2)__________ (3)__________ K-pop songs!\n(sing , Now , many)\n이제 저는 많은 케이팝 노래를 부를 수 있어요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-21-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "65",
+      "choices": [
+        "sing",
+        "Now",
+        "many"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 22,
+      "group": "RS-22",
+      "explainKo": "정답: was, in, designs. 답지 p192 Reading 문장 완성하기 22.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n22. I (1)__________ interested (2)__________ using Hangeul in my (3)__________.\n(in , was , designs)\n저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-22-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "66",
+      "choices": [
+        "in",
+        "was",
+        "designs"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 22,
+      "group": "RS-22",
+      "explainKo": "정답: was, in, designs. 답지 p192 Reading 문장 완성하기 22.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n22. I (1)__________ interested (2)__________ using Hangeul in my (3)__________.\n(in , was , designs)\n저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-22-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "67",
+      "choices": [
+        "in",
+        "was",
+        "designs"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 22,
+      "group": "RS-22",
+      "explainKo": "정답: was, in, designs. 답지 p192 Reading 문장 완성하기 22.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n22. I (1)__________ interested (2)__________ using Hangeul in my (3)__________.\n(in , was , designs)\n저는 저의 디자인에 한글을 사용하는 것에 관심이 있었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-22-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "68",
+      "choices": [
+        "in",
+        "was",
+        "designs"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 23,
+      "group": "RS-23",
+      "explainKo": "정답: So, studied, shapes. 답지 p192 Reading 문장 완성하기 23.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n23. (1)__________ I (2)__________ the (3)__________ of Hangeul.\n(shapes , studied , So)\n그래서 저는 한글의 모양을 공부했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-23-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "69",
+      "choices": [
+        "shapes",
+        "studied",
+        "So"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 23,
+      "group": "RS-23",
+      "explainKo": "정답: So, studied, shapes. 답지 p192 Reading 문장 완성하기 23.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n23. (1)__________ I (2)__________ the (3)__________ of Hangeul.\n(shapes , studied , So)\n그래서 저는 한글의 모양을 공부했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-23-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "70",
+      "choices": [
+        "shapes",
+        "studied",
+        "So"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 23,
+      "group": "RS-23",
+      "explainKo": "정답: So, studied, shapes. 답지 p192 Reading 문장 완성하기 23.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n23. (1)__________ I (2)__________ the (3)__________ of Hangeul.\n(shapes , studied , So)\n그래서 저는 한글의 모양을 공부했어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-23-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "71",
+      "choices": [
+        "shapes",
+        "studied",
+        "So"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 24,
+      "group": "RS-24",
+      "explainKo": "정답: unique, patterns, clothes. 답지 p192 Reading 문장 완성하기 24.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n24. I can make (1)__________ (2)__________ for (3)__________ with Hangeul.\n(clothes , patterns , unique)\n저는 한글로 옷에 독특한 무늬를 만들 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-24-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "72",
+      "choices": [
+        "clothes",
+        "patterns",
+        "unique"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 24,
+      "group": "RS-24",
+      "explainKo": "정답: unique, patterns, clothes. 답지 p192 Reading 문장 완성하기 24.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n24. I can make (1)__________ (2)__________ for (3)__________ with Hangeul.\n(clothes , patterns , unique)\n저는 한글로 옷에 독특한 무늬를 만들 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-24-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "73",
+      "choices": [
+        "clothes",
+        "patterns",
+        "unique"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 24,
+      "group": "RS-24",
+      "explainKo": "정답: unique, patterns, clothes. 답지 p192 Reading 문장 완성하기 24.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n24. I can make (1)__________ (2)__________ for (3)__________ with Hangeul.\n(clothes , patterns , unique)\n저는 한글로 옷에 독특한 무늬를 만들 수 있어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-24-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "74",
+      "choices": [
+        "clothes",
+        "patterns",
+        "unique"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 25,
+      "group": "RS-25",
+      "explainKo": "정답: teach, science, students. 답지 p192 Reading 문장 완성하기 25.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n25. I wanted to (1)__________ the (2)__________ of Hangeul to my (3)__________.\n(teach , students , science)\n저는 저의 학생들에게 한글의 과학을 가르치고 싶었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-25-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "75",
+      "choices": [
+        "teach",
+        "students",
+        "science"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 25,
+      "group": "RS-25",
+      "explainKo": "정답: teach, science, students. 답지 p192 Reading 문장 완성하기 25.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n25. I wanted to (1)__________ the (2)__________ of Hangeul to my (3)__________.\n(teach , students , science)\n저는 저의 학생들에게 한글의 과학을 가르치고 싶었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-25-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "76",
+      "choices": [
+        "teach",
+        "students",
+        "science"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 25,
+      "group": "RS-25",
+      "explainKo": "정답: teach, science, students. 답지 p192 Reading 문장 완성하기 25.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n25. I wanted to (1)__________ the (2)__________ of Hangeul to my (3)__________.\n(teach , students , science)\n저는 저의 학생들에게 한글의 과학을 가르치고 싶었어요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-25-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "77",
+      "choices": [
+        "teach",
+        "students",
+        "science"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 26,
+      "group": "RS-26",
+      "explainKo": "정답: Some, like, tongue. 답지 p192 Reading 문장 완성하기 26.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n26. (1)__________ letters look (2)__________ the shape of the mouth and (3)__________ for their sounds.\n(like , Some , tongue)\n몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-26-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "78",
+      "choices": [
+        "like",
+        "Some",
+        "tongue"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 26,
+      "group": "RS-26",
+      "explainKo": "정답: Some, like, tongue. 답지 p192 Reading 문장 완성하기 26.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n26. (1)__________ letters look (2)__________ the shape of the mouth and (3)__________ for their sounds.\n(like , Some , tongue)\n몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-26-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "79",
+      "choices": [
+        "like",
+        "Some",
+        "tongue"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 26,
+      "group": "RS-26",
+      "explainKo": "정답: Some, like, tongue. 답지 p192 Reading 문장 완성하기 26.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n26. (1)__________ letters look (2)__________ the shape of the mouth and (3)__________ for their sounds.\n(like , Some , tongue)\n몇몇 글자들은 그것들의 소리를 낼 때 입과 혀의 모양처럼 보여요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-26-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "80",
+      "choices": [
+        "like",
+        "Some",
+        "tongue"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 27,
+      "group": "RS-27",
+      "explainKo": "정답: King, made, way. 답지 p192 Reading 문장 완성하기 27.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n27. (1)__________ Sejong (2)__________ it that (3)__________.\n(King , made , way)\n세종대왕이 그런 식으로 그것을 만들었죠.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-27-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "81",
+      "choices": [
+        "King",
+        "made",
+        "way"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 27,
+      "group": "RS-27",
+      "explainKo": "정답: King, made, way. 답지 p192 Reading 문장 완성하기 27.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n27. (1)__________ Sejong (2)__________ it that (3)__________.\n(King , made , way)\n세종대왕이 그런 식으로 그것을 만들었죠.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-27-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "82",
+      "choices": [
+        "King",
+        "made",
+        "way"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 27,
+      "group": "RS-27",
+      "explainKo": "정답: King, made, way. 답지 p192 Reading 문장 완성하기 27.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n27. (1)__________ Sejong (2)__________ it that (3)__________.\n(King , made , way)\n세종대왕이 그런 식으로 그것을 만들었죠.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-27-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "83",
+      "choices": [
+        "King",
+        "made",
+        "way"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 28,
+      "group": "RS-28",
+      "explainKo": "정답: It's, very, scientific. 답지 p192 Reading 문장 완성하기 28.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n28. (1)__________ (2)__________ (3)__________.\n(very , It's , scientific)\n그것은 매우 과학적이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-28-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "84",
+      "choices": [
+        "very",
+        "It's",
+        "scientific"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 28,
+      "group": "RS-28",
+      "explainKo": "정답: It's, very, scientific. 답지 p192 Reading 문장 완성하기 28.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n28. (1)__________ (2)__________ (3)__________.\n(very , It's , scientific)\n그것은 매우 과학적이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-28-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "85",
+      "choices": [
+        "very",
+        "It's",
+        "scientific"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 28,
+      "group": "RS-28",
+      "explainKo": "정답: It's, very, scientific. 답지 p192 Reading 문장 완성하기 28.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n28. (1)__________ (2)__________ (3)__________.\n(very , It's , scientific)\n그것은 매우 과학적이에요.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-28-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "86",
+      "choices": [
+        "very",
+        "It's",
+        "scientific"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 29,
+      "group": "RS-29",
+      "explainKo": "정답: Thank, for, sharing. 답지 p192 Reading 문장 완성하기 29.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n29. (1)__________ you (2)__________ (3)__________ your stories.\n(for , Thank , sharing)\n여러분의 이야기를 공유해 주셔서 감사드립니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-29-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "87",
+      "choices": [
+        "for",
+        "Thank",
+        "sharing"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 29,
+      "group": "RS-29",
+      "explainKo": "정답: Thank, for, sharing. 답지 p192 Reading 문장 완성하기 29.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n29. (1)__________ you (2)__________ (3)__________ your stories.\n(for , Thank , sharing)\n여러분의 이야기를 공유해 주셔서 감사드립니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-29-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "88",
+      "choices": [
+        "for",
+        "Thank",
+        "sharing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 29,
+      "group": "RS-29",
+      "explainKo": "정답: Thank, for, sharing. 답지 p192 Reading 문장 완성하기 29.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n29. (1)__________ you (2)__________ (3)__________ your stories.\n(for , Thank , sharing)\n여러분의 이야기를 공유해 주셔서 감사드립니다.",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-29-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "89",
+      "choices": [
+        "for",
+        "Thank",
+        "sharing"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 30,
+      "group": "RS-30",
+      "explainKo": "정답: Enjoy, this, festival. 답지 p192 Reading 문장 완성하기 30.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n30. (1)__________ (2)__________ (3)__________!\n(festival , this , Enjoy)\n이 축제를 즐기세요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-30-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "90",
+      "choices": [
+        "festival",
+        "this",
+        "Enjoy"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 30,
+      "group": "RS-30",
+      "explainKo": "정답: Enjoy, this, festival. 답지 p192 Reading 문장 완성하기 30.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n30. (1)__________ (2)__________ (3)__________!\n(festival , this , Enjoy)\n이 축제를 즐기세요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-30-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "91",
+      "choices": [
+        "festival",
+        "this",
+        "Enjoy"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다."
+    },
+    {
+      "sourceId": 30,
+      "group": "RS-30",
+      "explainKo": "정답: Enjoy, this, festival. 답지 p192 Reading 문장 완성하기 30.",
+      "promptEn": "Happy Hangeul Day\n다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.\n30. (1)__________ (2)__________ (3)__________!\n(festival , this , Enjoy)\n이 축제를 즐기세요!",
+      "type": "bank",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "id": "RS-30-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "sectionInstructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "label": "92",
+      "choices": [
+        "festival",
+        "this",
+        "Enjoy"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰… 92문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰…",
+      "directionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "instructionKo": "Happy Hangeul Day. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "itemCount": 92
+    }
+  ]
+}
