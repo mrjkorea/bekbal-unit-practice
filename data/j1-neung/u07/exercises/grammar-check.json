@@ -4,11 +4,51 @@
   "book": "중1 능률 김기택",
   "unit": "Lesson 07 Save Earth, Save Us",
   "sourcePages": "pp.144-145",
-  "questionCount": 30,
+  "questionCount": 20,
   "omitted": [
     {
       "sourceId": "19",
       "reason": "보기에 남는 말: you"
+    },
+    {
+      "sourceId": "11",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "12",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "13",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "14",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "15",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "25",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "26",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "27",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "28",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
+    },
+    {
+      "sourceId": "29",
+      "reason": "교재 pp.144-145 원문 확인 전 보류 — 빈 카드였음"
     }
   ],
   "questions": [
@@ -353,106 +393,6 @@
       "seconds": 110
     },
     {
-      "id": "11",
-      "label": "11",
-      "sourceId": 11,
-      "section": "s3",
-      "sectionTitle": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: us",
-      "type": "fill",
-      "promptEn": "The game makes ______ excited. (답지 C)",
-      "accept": [
-        "us"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "12",
-      "label": "12",
-      "sourceId": 12,
-      "section": "s3",
-      "sectionTitle": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: surprised",
-      "type": "fill",
-      "promptEn": "The game makes ______ excited. (답지 C)",
-      "accept": [
-        "surprised"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "13",
-      "label": "13",
-      "sourceId": 13,
-      "section": "s3",
-      "sectionTitle": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: sleepy",
-      "type": "fill",
-      "promptEn": "The game makes ______ excited. (답지 C)",
-      "accept": [
-        "sleepy"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "14",
-      "label": "14",
-      "sourceId": 14,
-      "section": "s3",
-      "sectionTitle": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: beautiful",
-      "type": "fill",
-      "promptEn": "The game makes ______ excited. (답지 C)",
-      "accept": [
-        "beautiful"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "15",
-      "label": "15",
-      "sourceId": 15,
-      "section": "s3",
-      "sectionTitle": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: tired",
-      "type": "fill",
-      "promptEn": "The game makes ______ excited. (답지 C)",
-      "accept": [
-        "tired"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
       "id": "16",
       "label": "16",
       "sourceId": 16,
@@ -748,131 +688,6 @@
       "seconds": 110
     },
     {
-      "id": "25",
-      "label": "26",
-      "sourceId": 26,
-      "section": "s6",
-      "sectionTitle": "Section F · that절 역할",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: undefined",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "that절의 역할은?\n26",
-      "choices": [
-        "S",
-        "O",
-        "C"
-      ],
-      "correctIndexes": [
-        "That she loves cats is clear."
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "26",
-      "label": "27",
-      "sourceId": 27,
-      "section": "s6",
-      "sectionTitle": "Section F · that절 역할",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: undefined",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "that절의 역할은?\n27",
-      "choices": [
-        "S",
-        "O",
-        "C"
-      ],
-      "correctIndexes": [
-        "We believe that it will snow tomorrow."
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "27",
-      "label": "28",
-      "sourceId": 28,
-      "section": "s6",
-      "sectionTitle": "Section F · that절 역할",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: undefined",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "that절의 역할은?\n28",
-      "choices": [
-        "S",
-        "O",
-        "C"
-      ],
-      "correctIndexes": [
-        "The truth is that he loves animals."
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "28",
-      "label": "29",
-      "sourceId": 29,
-      "section": "s6",
-      "sectionTitle": "Section F · that절 역할",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: undefined",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "that절의 역할은?\n29",
-      "choices": [
-        "S",
-        "O",
-        "C"
-      ],
-      "correctIndexes": [
-        "The fact is that he forgot my birthday."
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "29",
-      "label": "30",
-      "sourceId": 30,
-      "section": "s6",
-      "sectionTitle": "Section F · that절 역할",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: undefined",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "that절의 역할은?\n30",
-      "choices": [
-        "S",
-        "O",
-        "C"
-      ],
-      "correctIndexes": [
-        "We hope that you feel better soon."
-      ],
-      "seconds": 60
-    },
-    {
       "id": "30",
       "label": "30",
       "sourceId": 30,
@@ -922,16 +737,6 @@
       "itemCount": 5
     },
     {
-      "id": "s3",
-      "title": "Section C · make 보기",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 5
-    },
-    {
       "id": "s4",
       "title": "Section D · that절 배열",
       "directionKo": "나오는 순서대로 누르시오.",
@@ -959,7 +764,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "itemCount": 6
+      "itemCount": 1
     }
   ]
 }

@@ -25,7 +25,8 @@
       "accept": [
         "Pollution"
       ],
-      "promptEn": "You're Environmental Superhero!\n01. (1)__________ (2)__________",
+      "promptEn": "(1)______ is a big (2)______.",
+      "promptKo": "오염은 큰 문제입니다.",
       "seconds": 90
     },
     {
@@ -46,7 +47,8 @@
       "accept": [
         "problem"
       ],
-      "promptEn": "You're Environmental Superhero!\n01. (1)__________ (2)__________",
+      "promptEn": "(1)______ is a big (2)______.",
+      "promptKo": "오염은 큰 문제입니다.",
       "seconds": 90
     },
     {
@@ -67,7 +69,8 @@
       "accept": [
         "Luckily"
       ],
-      "promptEn": "You're Environmental Superhero!\n02. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, three (2)______ are (3)______ to (4)______ the environment.",
+      "promptKo": "다행히 세 명의 슈퍼히어로가 환경을 보호하고 있습니다.",
       "seconds": 90
     },
     {
@@ -88,7 +91,8 @@
       "accept": [
         "superheroes"
       ],
-      "promptEn": "You're Environmental Superhero!\n02. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, three (2)______ are (3)______ to (4)______ the environment.",
+      "promptKo": "다행히 세 명의 슈퍼히어로가 환경을 보호하고 있습니다.",
       "seconds": 90
     },
     {
@@ -109,7 +113,8 @@
       "accept": [
         "working"
       ],
-      "promptEn": "You're Environmental Superhero!\n02. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, three (2)______ are (3)______ to (4)______ the environment.",
+      "promptKo": "다행히 세 명의 슈퍼히어로가 환경을 보호하고 있습니다.",
       "seconds": 90
     },
     {
@@ -130,7 +135,8 @@
       "accept": [
         "protect"
       ],
-      "promptEn": "You're Environmental Superhero!\n02. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, three (2)______ are (3)______ to (4)______ the environment.",
+      "promptKo": "다행히 세 명의 슈퍼히어로가 환경을 보호하고 있습니다.",
       "seconds": 90
     },
     {
@@ -151,7 +157,8 @@
       "accept": [
         "to"
       ],
-      "promptEn": "You're Environmental Superhero!\n03. (1)__________ (2)__________ (3)__________",
+      "promptEn": "They want (1)______ make the world (2)______. Will you (3)______ them?",
+      "promptKo": "그들은 세상을 깨끗하게 만들고 싶어 합니다.",
       "seconds": 90
     },
     {
@@ -172,7 +179,8 @@
       "accept": [
         "clean"
       ],
-      "promptEn": "You're Environmental Superhero!\n03. (1)__________ (2)__________ (3)__________",
+      "promptEn": "They want (1)______ make the world (2)______. Will you (3)______ them?",
+      "promptKo": "그들은 세상을 깨끗하게 만들고 싶어 합니다.",
       "seconds": 90
     },
     {
@@ -193,7 +201,8 @@
       "accept": [
         "join"
       ],
-      "promptEn": "You're Environmental Superhero!\n03. (1)__________ (2)__________ (3)__________",
+      "promptEn": "They want (1)______ make the world (2)______. Will you (3)______ them?",
+      "promptKo": "그들은 세상을 깨끗하게 만들고 싶어 합니다.",
       "seconds": 90
     },
     {
@@ -214,7 +223,8 @@
       "accept": [
         "Recycle"
       ],
-      "promptEn": "You're Environmental Superhero!\n04. (1)__________ (2)__________",
+      "promptEn": "Hi! I'm (1)______ (2)______.",
+      "promptKo": "안녕하세요! 저는 재활용 마법사예요.",
       "seconds": 90
     },
     {
@@ -235,7 +245,8 @@
       "accept": [
         "Wizard"
       ],
-      "promptEn": "You're Environmental Superhero!\n04. (1)__________ (2)__________",
+      "promptEn": "Hi! I'm (1)______ (2)______.",
+      "promptKo": "안녕하세요! 저는 재활용 마법사예요.",
       "seconds": 90
     },
     {
@@ -256,7 +267,8 @@
       "accept": [
         "waste"
       ],
-      "promptEn": "You're Environmental Superhero!\n05. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ too many (2)______. But (3)______ can (4)______ them.",
+      "promptKo": "사람들은 너무 많은 자원을 낭비합니다.",
       "seconds": 90
     },
     {
@@ -277,7 +289,8 @@
       "accept": [
         "resources"
       ],
-      "promptEn": "You're Environmental Superhero!\n05. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ too many (2)______. But (3)______ can (4)______ them.",
+      "promptKo": "사람들은 너무 많은 자원을 낭비합니다.",
       "seconds": 90
     },
     {
@@ -298,7 +311,8 @@
       "accept": [
         "recycling"
       ],
-      "promptEn": "You're Environmental Superhero!\n05. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ too many (2)______. But (3)______ can (4)______ them.",
+      "promptKo": "사람들은 너무 많은 자원을 낭비합니다.",
       "seconds": 90
     },
     {
@@ -319,7 +333,8 @@
       "accept": [
         "save"
       ],
-      "promptEn": "You're Environmental Superhero!\n05. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ too many (2)______. But (3)______ can (4)______ them.",
+      "promptKo": "사람들은 너무 많은 자원을 낭비합니다.",
       "seconds": 90
     },
     {
@@ -340,7 +355,8 @@
       "accept": [
         "For"
       ],
-      "promptEn": "You're Environmental Superhero!\n06. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ example, (2)______ 1,000 kilograms of (3)______ can save (4)______ 19 trees and 29,000 liters of water.",
+      "promptKo": "예를 들어, 종이 1,000kg을 재활용하면 나무와 물을 절약할 수 있어요.",
       "seconds": 90
     },
     {
@@ -361,7 +377,8 @@
       "accept": [
         "recycling"
       ],
-      "promptEn": "You're Environmental Superhero!\n06. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ example, (2)______ 1,000 kilograms of (3)______ can save (4)______ 19 trees and 29,000 liters of water.",
+      "promptKo": "예를 들어, 종이 1,000kg을 재활용하면 나무와 물을 절약할 수 있어요.",
       "seconds": 90
     },
     {
@@ -382,7 +399,8 @@
       "accept": [
         "paper"
       ],
-      "promptEn": "You're Environmental Superhero!\n06. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ example, (2)______ 1,000 kilograms of (3)______ can save (4)______ 19 trees and 29,000 liters of water.",
+      "promptKo": "예를 들어, 종이 1,000kg을 재활용하면 나무와 물을 절약할 수 있어요.",
       "seconds": 90
     },
     {
@@ -403,7 +421,8 @@
       "accept": [
         "about"
       ],
-      "promptEn": "You're Environmental Superhero!\n06. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ example, (2)______ 1,000 kilograms of (3)______ can save (4)______ 19 trees and 29,000 liters of water.",
+      "promptKo": "예를 들어, 종이 1,000kg을 재활용하면 나무와 물을 절약할 수 있어요.",
       "seconds": 90
     },
     {
@@ -424,7 +443,8 @@
       "accept": [
         "wizard"
       ],
-      "promptEn": "You're Environmental Superhero!\n07. (1)__________ (2)__________ (3)__________",
+      "promptEn": "Do you want to be a (1)______ at recycling? (2)______ you should (3)______ properly!",
+      "promptKo": "재활용을 제대로 해야 합니다.",
       "seconds": 90
     },
     {
@@ -445,7 +465,8 @@
       "accept": [
         "Then"
       ],
-      "promptEn": "You're Environmental Superhero!\n07. (1)__________ (2)__________ (3)__________",
+      "promptEn": "Do you want to be a (1)______ at recycling? (2)______ you should (3)______ properly!",
+      "promptKo": "재활용을 제대로 해야 합니다.",
       "seconds": 90
     },
     {
@@ -466,7 +487,8 @@
       "accept": [
         "recycle"
       ],
-      "promptEn": "You're Environmental Superhero!\n07. (1)__________ (2)__________ (3)__________",
+      "promptEn": "Do you want to be a (1)______ at recycling? (2)______ you should (3)______ properly!",
+      "promptKo": "재활용을 제대로 해야 합니다.",
       "seconds": 90
     },
     {
@@ -487,7 +509,8 @@
       "accept": [
         "Put"
       ],
-      "promptEn": "You're Environmental Superhero!\n08. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ plastic, paper, food (2)______, and (3)______ in the (4)______ bins.",
+      "promptKo": "알맞은 쓰레기통에 넣으세요.",
       "seconds": 90
     },
     {
@@ -508,7 +531,8 @@
       "accept": [
         "waste"
       ],
-      "promptEn": "You're Environmental Superhero!\n08. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ plastic, paper, food (2)______, and (3)______ in the (4)______ bins.",
+      "promptKo": "알맞은 쓰레기통에 넣으세요.",
       "seconds": 90
     },
     {
@@ -529,7 +553,8 @@
       "accept": [
         "glass"
       ],
-      "promptEn": "You're Environmental Superhero!\n08. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ plastic, paper, food (2)______, and (3)______ in the (4)______ bins.",
+      "promptKo": "알맞은 쓰레기통에 넣으세요.",
       "seconds": 90
     },
     {
@@ -550,7 +575,8 @@
       "accept": [
         "correct"
       ],
-      "promptEn": "You're Environmental Superhero!\n08. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ plastic, paper, food (2)______, and (3)______ in the (4)______ bins.",
+      "promptKo": "알맞은 쓰레기통에 넣으세요.",
       "seconds": 90
     },
     {
@@ -571,7 +597,8 @@
       "accept": [
         "Look"
       ],
-      "promptEn": "You're Environmental Superhero!\n09. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ below. (3)______ a (4)______ from each piece of waste to the right bin.",
+      "promptKo": "쓰레기통까지 선을 그으세요.",
       "seconds": 90
     },
     {
@@ -592,7 +619,8 @@
       "accept": [
         "waste"
       ],
-      "promptEn": "You're Environmental Superhero!\n09. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ below. (3)______ a (4)______ from each piece of waste to the right bin.",
+      "promptKo": "쓰레기통까지 선을 그으세요.",
       "seconds": 90
     },
     {
@@ -613,7 +641,8 @@
       "accept": [
         "Draw"
       ],
-      "promptEn": "You're Environmental Superhero!\n09. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ below. (3)______ a (4)______ from each piece of waste to the right bin.",
+      "promptKo": "쓰레기통까지 선을 그으세요.",
       "seconds": 90
     },
     {
@@ -634,7 +663,8 @@
       "accept": [
         "line"
       ],
-      "promptEn": "You're Environmental Superhero!\n09. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ below. (3)______ a (4)______ from each piece of waste to the right bin.",
+      "promptKo": "쓰레기통까지 선을 그으세요.",
       "seconds": 90
     },
     {
@@ -655,7 +685,8 @@
       "accept": [
         "Good"
       ],
-      "promptEn": "You're Environmental Superhero!\n10. (1)__________ (2)__________",
+      "promptEn": "(1)______ (2)______!",
+      "promptKo": "잘했어요!",
       "seconds": 90
     },
     {
@@ -676,7 +707,8 @@
       "accept": [
         "job"
       ],
-      "promptEn": "You're Environmental Superhero!\n10. (1)__________ (2)__________",
+      "promptEn": "(1)______ (2)______!",
+      "promptKo": "잘했어요!",
       "seconds": 90
     },
     {
@@ -697,7 +729,8 @@
       "accept": [
         "Fashion"
       ],
-      "promptEn": "You're Environmental Superhero!\n11. (1)__________ (2)__________",
+      "promptEn": "I'm (1)______ (2)______.",
+      "promptKo": "저는 패션 똑똑이예요.",
       "seconds": 90
     },
     {
@@ -718,7 +751,8 @@
       "accept": [
         "Clever"
       ],
-      "promptEn": "You're Environmental Superhero!\n11. (1)__________ (2)__________",
+      "promptEn": "I'm (1)______ (2)______.",
+      "promptKo": "저는 패션 똑똑이예요.",
       "seconds": 90
     },
     {
@@ -739,7 +773,8 @@
       "accept": [
         "throw"
       ],
-      "promptEn": "You're Environmental Superhero!\n12. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ (2)______ (3)______ too often. They (4)______ waste and hurt the environment.",
+      "promptKo": "옷을 너무 자주 버립니다.",
       "seconds": 90
     },
     {
@@ -760,7 +795,8 @@
       "accept": [
         "away"
       ],
-      "promptEn": "You're Environmental Superhero!\n12. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ (2)______ (3)______ too often. They (4)______ waste and hurt the environment.",
+      "promptKo": "옷을 너무 자주 버립니다.",
       "seconds": 90
     },
     {
@@ -781,7 +817,8 @@
       "accept": [
         "clothes"
       ],
-      "promptEn": "You're Environmental Superhero!\n12. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ (2)______ (3)______ too often. They (4)______ waste and hurt the environment.",
+      "promptKo": "옷을 너무 자주 버립니다.",
       "seconds": 90
     },
     {
@@ -802,7 +839,8 @@
       "accept": [
         "become"
       ],
-      "promptEn": "You're Environmental Superhero!\n12. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "People (1)______ (2)______ (3)______ too often. They (4)______ waste and hurt the environment.",
+      "promptKo": "옷을 너무 자주 버립니다.",
       "seconds": 90
     },
     {
@@ -823,7 +861,8 @@
       "accept": [
         "Did"
       ],
-      "promptEn": "You're Environmental Superhero!\n13. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________",
+      "promptEn": "(1)______ you (2)______ that some (3)______ (4)______ over 200 years to (5)______ down?",
+      "promptKo": "옷이 분해되는 데 200년이 넘게 걸립니다.",
       "seconds": 90
     },
     {
@@ -844,7 +883,8 @@
       "accept": [
         "know"
       ],
-      "promptEn": "You're Environmental Superhero!\n13. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________",
+      "promptEn": "(1)______ you (2)______ that some (3)______ (4)______ over 200 years to (5)______ down?",
+      "promptKo": "옷이 분해되는 데 200년이 넘게 걸립니다.",
       "seconds": 90
     },
     {
@@ -865,7 +905,8 @@
       "accept": [
         "clothes"
       ],
-      "promptEn": "You're Environmental Superhero!\n13. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________",
+      "promptEn": "(1)______ you (2)______ that some (3)______ (4)______ over 200 years to (5)______ down?",
+      "promptKo": "옷이 분해되는 데 200년이 넘게 걸립니다.",
       "seconds": 90
     },
     {
@@ -886,7 +927,8 @@
       "accept": [
         "take"
       ],
-      "promptEn": "You're Environmental Superhero!\n13. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________",
+      "promptEn": "(1)______ you (2)______ that some (3)______ (4)______ over 200 years to (5)______ down?",
+      "promptKo": "옷이 분해되는 데 200년이 넘게 걸립니다.",
       "seconds": 90
     },
     {
@@ -907,7 +949,8 @@
       "accept": [
         "break"
       ],
-      "promptEn": "You're Environmental Superhero!\n13. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________",
+      "promptEn": "(1)______ you (2)______ that some (3)______ (4)______ over 200 years to (5)______ down?",
+      "promptKo": "옷이 분해되는 데 200년이 넘게 걸립니다.",
       "seconds": 90
     },
     {
@@ -928,7 +971,8 @@
       "accept": [
         "Don't"
       ],
-      "promptEn": "You're Environmental Superhero!\n14. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ clothes. Wear your clothes for a long time.",
+      "promptKo": "너무 많은 옷을 사지 마세요.",
       "seconds": 90
     },
     {
@@ -949,7 +993,8 @@
       "accept": [
         "buy"
       ],
-      "promptEn": "You're Environmental Superhero!\n14. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ clothes. Wear your clothes for a long time.",
+      "promptKo": "너무 많은 옷을 사지 마세요.",
       "seconds": 90
     },
     {
@@ -970,7 +1015,8 @@
       "accept": [
         "too"
       ],
-      "promptEn": "You're Environmental Superhero!\n14. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ clothes. Wear your clothes for a long time.",
+      "promptKo": "너무 많은 옷을 사지 마세요.",
       "seconds": 90
     },
     {
@@ -991,7 +1037,8 @@
       "accept": [
         "many"
       ],
-      "promptEn": "You're Environmental Superhero!\n14. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ clothes. Wear your clothes for a long time.",
+      "promptKo": "너무 많은 옷을 사지 마세요.",
       "seconds": 90
     },
     {
@@ -1012,7 +1059,8 @@
       "accept": [
         "You"
       ],
-      "promptEn": "You're Environmental Superhero!\n15. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ can (2)______ (3)______ new (4)______ from your old clothes!",
+      "promptKo": "헌 옷으로 새 물건을 만들 수 있어요.",
       "seconds": 90
     },
     {
@@ -1033,7 +1081,8 @@
       "accept": [
         "also"
       ],
-      "promptEn": "You're Environmental Superhero!\n15. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ can (2)______ (3)______ new (4)______ from your old clothes!",
+      "promptKo": "헌 옷으로 새 물건을 만들 수 있어요.",
       "seconds": 90
     },
     {
@@ -1054,7 +1103,8 @@
       "accept": [
         "create"
       ],
-      "promptEn": "You're Environmental Superhero!\n15. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ can (2)______ (3)______ new (4)______ from your old clothes!",
+      "promptKo": "헌 옷으로 새 물건을 만들 수 있어요.",
       "seconds": 90
     },
     {
@@ -1075,7 +1125,8 @@
       "accept": [
         "items"
       ],
-      "promptEn": "You're Environmental Superhero!\n15. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ can (2)______ (3)______ new (4)______ from your old clothes!",
+      "promptKo": "헌 옷으로 새 물건을 만들 수 있어요.",
       "seconds": 90
     },
     {
@@ -1096,7 +1147,8 @@
       "accept": [
         "Let's"
       ],
-      "promptEn": "You're Environmental Superhero!\n16. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ clothes (4)______.",
+      "promptKo": "헌 옷을 유용하게 만들어 봅시다.",
       "seconds": 90
     },
     {
@@ -1117,7 +1169,8 @@
       "accept": [
         "make"
       ],
-      "promptEn": "You're Environmental Superhero!\n16. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ clothes (4)______.",
+      "promptKo": "헌 옷을 유용하게 만들어 봅시다.",
       "seconds": 90
     },
     {
@@ -1138,7 +1191,8 @@
       "accept": [
         "old"
       ],
-      "promptEn": "You're Environmental Superhero!\n16. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ clothes (4)______.",
+      "promptKo": "헌 옷을 유용하게 만들어 봅시다.",
       "seconds": 90
     },
     {
@@ -1159,7 +1213,8 @@
       "accept": [
         "useful"
       ],
-      "promptEn": "You're Environmental Superhero!\n16. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ clothes (4)______.",
+      "promptKo": "헌 옷을 유용하게 만들어 봅시다.",
       "seconds": 90
     },
     {
@@ -1180,7 +1235,8 @@
       "accept": [
         "There"
       ],
-      "promptEn": "You're Environmental Superhero!\n17. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ are (2)______ (3)______ (4)______. What can you make with these old clothes?",
+      "promptKo": "헌 옷으로 무엇을 만들 수 있나요?",
       "seconds": 90
     },
     {
@@ -1201,7 +1257,8 @@
       "accept": [
         "some"
       ],
-      "promptEn": "You're Environmental Superhero!\n17. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ are (2)______ (3)______ (4)______. What can you make with these old clothes?",
+      "promptKo": "헌 옷으로 무엇을 만들 수 있나요?",
       "seconds": 90
     },
     {
@@ -1222,7 +1279,8 @@
       "accept": [
         "items"
       ],
-      "promptEn": "You're Environmental Superhero!\n17. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ are (2)______ (3)______ (4)______. What can you make with these old clothes?",
+      "promptKo": "헌 옷으로 무엇을 만들 수 있나요?",
       "seconds": 90
     },
     {
@@ -1243,7 +1301,8 @@
       "accept": [
         "below"
       ],
-      "promptEn": "You're Environmental Superhero!\n17. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ are (2)______ (3)______ (4)______. What can you make with these old clothes?",
+      "promptKo": "헌 옷으로 무엇을 만들 수 있나요?",
       "seconds": 90
     },
     {
@@ -1264,7 +1323,8 @@
       "accept": [
         "Match"
       ],
-      "promptEn": "You're Environmental Superhero!\n18. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ the (2)______ (3)______ with the correct (4)______ items.",
+      "promptKo": "헌 옷과 새 물건을 연결하세요.",
       "seconds": 90
     },
     {
@@ -1285,7 +1345,8 @@
       "accept": [
         "old"
       ],
-      "promptEn": "You're Environmental Superhero!\n18. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ the (2)______ (3)______ with the correct (4)______ items.",
+      "promptKo": "헌 옷과 새 물건을 연결하세요.",
       "seconds": 90
     },
     {
@@ -1306,7 +1367,8 @@
       "accept": [
         "clothes"
       ],
-      "promptEn": "You're Environmental Superhero!\n18. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ the (2)______ (3)______ with the correct (4)______ items.",
+      "promptKo": "헌 옷과 새 물건을 연결하세요.",
       "seconds": 90
     },
     {
@@ -1327,7 +1389,8 @@
       "accept": [
         "new"
       ],
-      "promptEn": "You're Environmental Superhero!\n18. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ the (2)______ (3)______ with the correct (4)______ items.",
+      "promptKo": "헌 옷과 새 물건을 연결하세요.",
       "seconds": 90
     },
     {
@@ -1348,7 +1411,8 @@
       "accept": [
         "Now"
       ],
-      "promptEn": "You're Environmental Superhero!\n19. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ can be (3)______ at (4)______ too!",
+      "promptKo": "패션에 영리해질 수 있어요.",
       "seconds": 90
     },
     {
@@ -1369,7 +1433,8 @@
       "accept": [
         "you"
       ],
-      "promptEn": "You're Environmental Superhero!\n19. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ can be (3)______ at (4)______ too!",
+      "promptKo": "패션에 영리해질 수 있어요.",
       "seconds": 90
     },
     {
@@ -1390,7 +1455,8 @@
       "accept": [
         "clever"
       ],
-      "promptEn": "You're Environmental Superhero!\n19. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ can be (3)______ at (4)______ too!",
+      "promptKo": "패션에 영리해질 수 있어요.",
       "seconds": 90
     },
     {
@@ -1411,7 +1477,8 @@
       "accept": [
         "fashion"
       ],
-      "promptEn": "You're Environmental Superhero!\n19. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ can be (3)______ at (4)______ too!",
+      "promptKo": "패션에 영리해질 수 있어요.",
       "seconds": 90
     },
     {
@@ -1432,7 +1499,8 @@
       "accept": [
         "Hi"
       ],
-      "promptEn": "You're Environmental Superhero!\n20. (1)__________ (2)__________ (3)__________",
+      "promptEn": "(1)______! I'm (2)______ (3)______.",
+      "promptKo": "저는 물 절약이에요.",
       "seconds": 90
     },
     {
@@ -1453,7 +1521,8 @@
       "accept": [
         "Water"
       ],
-      "promptEn": "You're Environmental Superhero!\n20. (1)__________ (2)__________ (3)__________",
+      "promptEn": "(1)______! I'm (2)______ (3)______.",
+      "promptKo": "저는 물 절약이에요.",
       "seconds": 90
     },
     {
@@ -1474,7 +1543,8 @@
       "accept": [
         "Saver"
       ],
-      "promptEn": "You're Environmental Superhero!\n20. (1)__________ (2)__________ (3)__________",
+      "promptEn": "(1)______! I'm (2)______ (3)______.",
+      "promptKo": "저는 물 절약이에요.",
       "seconds": 90
     },
     {
@@ -1495,7 +1565,8 @@
       "accept": [
         "Water"
       ],
-      "promptEn": "You're Environmental Superhero!\n21. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ is (2)______ (3)______. We (4)______ live without it.",
+      "promptKo": "물은 매우 중요합니다.",
       "seconds": 90
     },
     {
@@ -1516,7 +1587,8 @@
       "accept": [
         "very"
       ],
-      "promptEn": "You're Environmental Superhero!\n21. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ is (2)______ (3)______. We (4)______ live without it.",
+      "promptKo": "물은 매우 중요합니다.",
       "seconds": 90
     },
     {
@@ -1537,7 +1609,8 @@
       "accept": [
         "important"
       ],
-      "promptEn": "You're Environmental Superhero!\n21. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ is (2)______ (3)______. We (4)______ live without it.",
+      "promptKo": "물은 매우 중요합니다.",
       "seconds": 90
     },
     {
@@ -1558,7 +1631,8 @@
       "accept": [
         "can't"
       ],
-      "promptEn": "You're Environmental Superhero!\n21. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ is (2)______ (3)______. We (4)______ live without it.",
+      "promptKo": "물은 매우 중요합니다.",
       "seconds": 90
     },
     {
@@ -1579,7 +1653,8 @@
       "accept": [
         "But"
       ],
-      "promptEn": "You're Environmental Superhero!\n22. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ a (4)______ of water. It makes me sad.",
+      "promptKo": "사람들은 물을 많이 낭비합니다.",
       "seconds": 90
     },
     {
@@ -1600,7 +1675,8 @@
       "accept": [
         "people"
       ],
-      "promptEn": "You're Environmental Superhero!\n22. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ a (4)______ of water. It makes me sad.",
+      "promptKo": "사람들은 물을 많이 낭비합니다.",
       "seconds": 90
     },
     {
@@ -1621,7 +1697,8 @@
       "accept": [
         "waste"
       ],
-      "promptEn": "You're Environmental Superhero!\n22. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ a (4)______ of water. It makes me sad.",
+      "promptKo": "사람들은 물을 많이 낭비합니다.",
       "seconds": 90
     },
     {
@@ -1642,7 +1719,8 @@
       "accept": [
         "lot"
       ],
-      "promptEn": "You're Environmental Superhero!\n22. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ a (4)______ of water. It makes me sad.",
+      "promptKo": "사람들은 물을 많이 낭비합니다.",
       "seconds": 90
     },
     {
@@ -1663,7 +1741,8 @@
       "accept": [
         "How"
       ],
-      "promptEn": "You're Environmental Superhero!\n23. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ water?",
+      "promptKo": "어떻게 물을 절약할까요?",
       "seconds": 90
     },
     {
@@ -1684,7 +1763,8 @@
       "accept": [
         "can"
       ],
-      "promptEn": "You're Environmental Superhero!\n23. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ water?",
+      "promptKo": "어떻게 물을 절약할까요?",
       "seconds": 90
     },
     {
@@ -1705,7 +1785,8 @@
       "accept": [
         "we"
       ],
-      "promptEn": "You're Environmental Superhero!\n23. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ water?",
+      "promptKo": "어떻게 물을 절약할까요?",
       "seconds": 90
     },
     {
@@ -1726,7 +1807,8 @@
       "accept": [
         "save"
       ],
-      "promptEn": "You're Environmental Superhero!\n23. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ (4)______ water?",
+      "promptKo": "어떻게 물을 절약할까요?",
       "seconds": 90
     },
     {
@@ -1747,7 +1829,8 @@
       "accept": [
         "Take"
       ],
-      "promptEn": "You're Environmental Superhero!\n24. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______. (4)______ off the tap while you brush your teeth.",
+      "promptKo": "샤워를 빨리 하고, 양치할 때 수도꼭지를 잠그세요.",
       "seconds": 90
     },
     {
@@ -1768,7 +1851,8 @@
       "accept": [
         "quick"
       ],
-      "promptEn": "You're Environmental Superhero!\n24. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______. (4)______ off the tap while you brush your teeth.",
+      "promptKo": "샤워를 빨리 하고, 양치할 때 수도꼭지를 잠그세요.",
       "seconds": 90
     },
     {
@@ -1789,7 +1873,8 @@
       "accept": [
         "showers"
       ],
-      "promptEn": "You're Environmental Superhero!\n24. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______. (4)______ off the tap while you brush your teeth.",
+      "promptKo": "샤워를 빨리 하고, 양치할 때 수도꼭지를 잠그세요.",
       "seconds": 90
     },
     {
@@ -1810,7 +1895,8 @@
       "accept": [
         "Turn"
       ],
-      "promptEn": "You're Environmental Superhero!\n24. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______. (4)______ off the tap while you brush your teeth.",
+      "promptKo": "샤워를 빨리 하고, 양치할 때 수도꼭지를 잠그세요.",
       "seconds": 90
     },
     {
@@ -1831,7 +1917,8 @@
       "accept": [
         "Also"
       ],
-      "promptEn": "You're Environmental Superhero!\n25. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, (2)______ (3)______ that you turn off the tap (4)______.",
+      "promptKo": "수도꼭지를 완전히 잠갔는지 확인하세요.",
       "seconds": 90
     },
     {
@@ -1852,7 +1939,8 @@
       "accept": [
         "make"
       ],
-      "promptEn": "You're Environmental Superhero!\n25. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, (2)______ (3)______ that you turn off the tap (4)______.",
+      "promptKo": "수도꼭지를 완전히 잠갔는지 확인하세요.",
       "seconds": 90
     },
     {
@@ -1873,7 +1961,8 @@
       "accept": [
         "sure"
       ],
-      "promptEn": "You're Environmental Superhero!\n25. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, (2)______ (3)______ that you turn off the tap (4)______.",
+      "promptKo": "수도꼭지를 완전히 잠갔는지 확인하세요.",
       "seconds": 90
     },
     {
@@ -1894,7 +1983,8 @@
       "accept": [
         "completely"
       ],
-      "promptEn": "You're Environmental Superhero!\n25. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______, (2)______ (3)______ that you turn off the tap (4)______.",
+      "promptKo": "수도꼭지를 완전히 잠갔는지 확인하세요.",
       "seconds": 90
     },
     {
@@ -1915,7 +2005,8 @@
       "accept": [
         "Look"
       ],
-      "promptEn": "You're Environmental Superhero!\n26. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ (3)______. (4)______ are ways to save water and which are not?",
+      "promptKo": "물 절약 방법을 구분하세요.",
       "seconds": 90
     },
     {
@@ -1936,7 +2027,8 @@
       "accept": [
         "pictures"
       ],
-      "promptEn": "You're Environmental Superhero!\n26. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ (3)______. (4)______ are ways to save water and which are not?",
+      "promptKo": "물 절약 방법을 구분하세요.",
       "seconds": 90
     },
     {
@@ -1957,7 +2049,8 @@
       "accept": [
         "below"
       ],
-      "promptEn": "You're Environmental Superhero!\n26. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ (3)______. (4)______ are ways to save water and which are not?",
+      "promptKo": "물 절약 방법을 구분하세요.",
       "seconds": 90
     },
     {
@@ -1978,7 +2071,8 @@
       "accept": [
         "Which"
       ],
-      "promptEn": "You're Environmental Superhero!\n26. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ at the (2)______ (3)______. (4)______ are ways to save water and which are not?",
+      "promptKo": "물 절약 방법을 구분하세요.",
       "seconds": 90
     },
     {
@@ -1999,7 +2093,8 @@
       "accept": [
         "Write"
       ],
-      "promptEn": "You're Environmental Superhero!\n27. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ an (2)______ or (3)______ on (4)______ picture.",
+      "promptKo": "각 그림에 O 또는 X를 쓰세요.",
       "seconds": 90
     },
     {
@@ -2020,7 +2115,8 @@
       "accept": [
         "O"
       ],
-      "promptEn": "You're Environmental Superhero!\n27. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ an (2)______ or (3)______ on (4)______ picture.",
+      "promptKo": "각 그림에 O 또는 X를 쓰세요.",
       "seconds": 90
     },
     {
@@ -2041,7 +2137,8 @@
       "accept": [
         "X"
       ],
-      "promptEn": "You're Environmental Superhero!\n27. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ an (2)______ or (3)______ on (4)______ picture.",
+      "promptKo": "각 그림에 O 또는 X를 쓰세요.",
       "seconds": 90
     },
     {
@@ -2062,7 +2159,8 @@
       "accept": [
         "each"
       ],
-      "promptEn": "You're Environmental Superhero!\n27. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ an (2)______ or (3)______ on (4)______ picture.",
+      "promptKo": "각 그림에 O 또는 X를 쓰세요.",
       "seconds": 90
     },
     {
@@ -2083,7 +2181,8 @@
       "accept": [
         "I'm"
       ],
-      "promptEn": "You're Environmental Superhero!\n28. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ that you (3)______ the (4)______ answers.",
+      "promptKo": "정답을 맞혔을 거예요.",
       "seconds": 90
     },
     {
@@ -2104,7 +2203,8 @@
       "accept": [
         "sure"
       ],
-      "promptEn": "You're Environmental Superhero!\n28. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ that you (3)______ the (4)______ answers.",
+      "promptKo": "정답을 맞혔을 거예요.",
       "seconds": 90
     },
     {
@@ -2125,7 +2225,8 @@
       "accept": [
         "got"
       ],
-      "promptEn": "You're Environmental Superhero!\n28. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ that you (3)______ the (4)______ answers.",
+      "promptKo": "정답을 맞혔을 거예요.",
       "seconds": 90
     },
     {
@@ -2146,7 +2247,8 @@
       "accept": [
         "right"
       ],
-      "promptEn": "You're Environmental Superhero!\n28. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ that you (3)______ the (4)______ answers.",
+      "promptKo": "정답을 맞혔을 거예요.",
       "seconds": 90
     },
     {
@@ -2167,7 +2269,8 @@
       "accept": [
         "You"
       ],
-      "promptEn": "You're Environmental Superhero!\n29. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ at (4)______ water!",
+      "promptKo": "물 절약에 뛰어나요!",
       "seconds": 90
     },
     {
@@ -2188,7 +2291,8 @@
       "accept": [
         "are"
       ],
-      "promptEn": "You're Environmental Superhero!\n29. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ at (4)______ water!",
+      "promptKo": "물 절약에 뛰어나요!",
       "seconds": 90
     },
     {
@@ -2209,7 +2313,8 @@
       "accept": [
         "amazing"
       ],
-      "promptEn": "You're Environmental Superhero!\n29. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ at (4)______ water!",
+      "promptKo": "물 절약에 뛰어나요!",
       "seconds": 90
     },
     {
@@ -2230,7 +2335,8 @@
       "accept": [
         "saving"
       ],
-      "promptEn": "You're Environmental Superhero!\n29. (1)__________ (2)__________ (3)__________ (4)__________",
+      "promptEn": "(1)______ (2)______ (3)______ at (4)______ water!",
+      "promptKo": "물 절약에 뛰어나요!",
       "seconds": 90
     }
   ],

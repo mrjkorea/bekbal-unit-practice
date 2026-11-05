@@ -26,7 +26,9 @@
         "의 한가운데에"
       ],
       "phraseBlank": false,
-      "seconds": 90
+      "seconds": 90,
+      "deferred": true,
+      "deferredReason": "교재 p.152 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "id": "2",

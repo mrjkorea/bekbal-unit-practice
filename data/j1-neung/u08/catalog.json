@@ -12,17 +12,19 @@
         {
           "id": "vocab-check",
           "title": "Vocabulary 확인 문제",
-          "questionCount": 60
+          "questionCount": 12
         },
         {
           "id": "vocab-practice",
           "title": "Vocabulary 실전 문제",
-          "questionCount": 7
+          "deferred": true,
+          "reason": "교재 p.185 다시 읽고 재작성 필요"
         },
         {
           "id": "vocab-advanced",
           "title": "Vocabulary 심화 문제",
-          "questionCount": 14
+          "deferred": true,
+          "reason": "교재 pp.186-187 다시 읽고 재작성 필요"
         },
         {
           "id": "dialog-detail",
@@ -42,37 +44,44 @@
         {
           "id": "dialog-practice",
           "title": "Dialog 실전 문제",
-          "questionCount": 14
+          "deferred": true,
+          "reason": "교재 pp.196-197 다시 읽고 재작성 필요"
         },
         {
           "id": "dialog-advanced",
           "title": "Dialog 심화 문제",
-          "questionCount": 13
+          "deferred": true,
+          "reason": "교재 pp.198-199 다시 읽고 재작성 필요"
         },
         {
           "id": "grammar-check",
           "title": "Grammar 확인 문제",
-          "questionCount": 30
+          "questionCount": 10,
+          "omittedCount": 20
         },
         {
           "id": "grammar-practice",
           "title": "Grammar 실전 문제",
-          "questionCount": 14
+          "deferred": true,
+          "reason": "교재 L08 grammar 다시 읽고 재작성 필요"
         },
         {
           "id": "grammar-advanced",
           "title": "Grammar 심화 문제",
-          "questionCount": 16
+          "deferred": true,
+          "reason": "교재 L08 grammar 다시 읽고 재작성 필요"
         },
         {
           "id": "reading-content",
           "title": "Reading 내용 확인하기",
-          "questionCount": 30
+          "deferred": true,
+          "reason": "교재 p.152 다시 읽고 재작성 필요"
         },
         {
           "id": "reading-lexgram",
           "title": "Reading 적절한 어휘·어법 고르기",
-          "questionCount": 30
+          "deferred": true,
+          "reason": "교재 p.153 다시 읽고 재작성 필요"
         },
         {
           "id": "reading-order",
@@ -82,38 +91,44 @@
         {
           "id": "reading-writing",
           "title": "Reading 영작하기",
-          "questionCount": 30
+          "deferred": true,
+          "reason": "교재 pp.154-157 다시 읽고 재작성 필요"
         },
         {
           "id": "reading-practice",
           "title": "Reading 실전 문제",
-          "questionCount": 26
+          "deferred": true,
+          "reason": "교재 pp.216+ 다시 읽고 재작성 필요"
         },
         {
           "id": "reading-advanced",
           "title": "Reading 심화 문제",
-          "questionCount": 24
+          "deferred": true,
+          "reason": "교재 pp.216+ 다시 읽고 재작성 필요"
         },
         {
           "id": "plus-practice",
           "title": "Plus 기타 지문 실전 문제",
-          "questionCount": 12
+          "deferred": true,
+          "reason": "교재 L08 plus 다시 읽고 재작성 필요"
         },
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "questionCount": 38
+          "deferred": true,
+          "reason": "교재 L08 writing 다시 읽고 재작성 필요"
         },
         {
           "id": "mock-100",
           "title": "100발 100중 모의고사",
-          "questionCount": 27,
-          "omittedCount": 10
+          "deferred": true,
+          "reason": "교재 pp.047-058 다시 읽고 재작성 필요"
         },
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "questionCount": 30
+          "deferred": true,
+          "reason": "교재 L08 mock 다시 읽고 재작성 필요"
         }
       ]
     },
@@ -124,7 +139,7 @@
         {
           "id": "x10-vocab",
           "title": "어휘 확인 문제",
-          "questionCount": 59
+          "questionCount": 12
         },
         {
           "id": "x10-dialog-cloze",
@@ -134,27 +149,32 @@
         {
           "id": "x10-dialog-write",
           "title": "대화 영작하기",
-          "questionCount": 51
+          "questionCount": 44,
+          "omittedCount": 7
         },
         {
           "id": "x10-grammar",
           "title": "핵심 Grammar 확인 문제",
-          "questionCount": 25
+          "deferred": true,
+          "reason": "교재 X-10 pp.50-51 다시 읽고 재작성 필요"
         },
         {
           "id": "x10-reading-sentence",
           "title": "Reading 문장 완성하기",
-          "questionCount": 101
+          "deferred": true,
+          "reason": "교재 X-10 p.139-140 답지 미확인 — 재작성 필요"
         },
         {
           "id": "x10-reading-cloze",
           "title": "Reading 빈칸 완성하기",
-          "questionCount": 106
+          "deferred": true,
+          "reason": "교재 X-10 p.141-142 답지 미확인 — 재작성 필요"
         },
         {
           "id": "x10-review",
           "title": "핵심 문장 Review",
-          "questionCount": 17
+          "deferred": true,
+          "reason": "교재 X-10 pp.56-57 다시 읽고 재작성 필요"
         }
       ]
     },
@@ -165,17 +185,20 @@
         {
           "id": "final-1",
           "title": "최종점검 모의고사 1회",
-          "questionCount": 25
+          "deferred": true,
+          "reason": "교재 finals 다시 읽고 재작성 필요"
         },
         {
           "id": "final-2",
           "title": "최종점검 모의고사 2회",
-          "questionCount": 25
+          "deferred": true,
+          "reason": "교재 finals 다시 읽고 재작성 필요"
         },
         {
           "id": "final-3",
           "title": "최종점검 모의고사 3회",
-          "questionCount": 25
+          "deferred": true,
+          "reason": "교재 finals 다시 읽고 재작성 필요"
         }
       ]
     },

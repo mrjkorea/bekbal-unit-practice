@@ -118,7 +118,9 @@
         "in the middle of"
       ],
       "phraseBlank": true,
-      "seconds": 90
+      "seconds": 90,
+      "deferred": true,
+      "deferredReason": "교재 p.p.158-161 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "id": "2",

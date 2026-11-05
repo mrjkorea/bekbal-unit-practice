@@ -108,7 +108,9 @@
       "sectionTitle": "Section D · 번호만 쓰시오. (예: 1, 3)",
       "sectionInstructionKo": "번호만 쓰시오. (예: 1, 3) 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 모두 고르기",
-      "label": "4"
+      "label": "4",
+      "deferred": true,
+      "deferredReason": "교재 p.172-175 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 5,

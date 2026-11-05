@@ -295,7 +295,7 @@ module.exports = {
     "You can also create new items from your old clothes!",
     "Let's make old clothes useful.",
     "There are some items below. What can you make with these old clothes?",
-    "Match the old clothes with the new items.",
+    "Match the old clothes with the correct new items.",
     "Now you can be clever at fashion too!",
     "Hi! I'm Water Saver.",
     "Water is very important. We can't live without it.",

@@ -122,7 +122,9 @@
         "beautiful"
       ],
       "phraseBlank": false,
-      "seconds": 90
+      "seconds": 90,
+      "deferred": true,
+      "deferredReason": "교재 p.p.140-141 원문 확인 전 보류 — no stem on the card: only a title, blank numbers or number buttons"
     },
     {
       "id": "5",
@@ -142,7 +144,9 @@
         "bright"
       ],
       "phraseBlank": false,
-      "seconds": 90
+      "seconds": 90,
+      "deferred": true,
+      "deferredReason": "교재 p.p.140-141 원문 확인 전 보류 — no stem on the card: only a title, blank numbers or number buttons"
     }
   ],
   "sectionsVersion": 2,

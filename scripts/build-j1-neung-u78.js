@@ -349,11 +349,59 @@ function pairs(list) {
 }
 
 const out = { u07: {}, u08: {} };
+/** Exercises that are pulled from the site until their real page content is rebuilt.
+ *  They keep their id in the catalog so a student sees "확인 필요", not a broken card. */
+const DEFERRED = { u07: {}, u08: {} };
+function defer(unit, id, title, reason) {
+  if (out[unit][id]) throw new Error("cannot defer an exercise that was built: " + unit + "/" + id);
+  DEFERRED[unit][id] = { title, reason };
+}
+
+function isShellQuestion(q) {
+  const prompt = String(q.promptEn || "");
+  // The answer-key citation belongs in explainKo; in a prompt it means the page was never read.
+  if (/답지/.test(prompt)) return true;
+  // Only the two bracketed options, with no sentence to apply them to.
+  if (/\[[^\]]*\/[^\]]*\]/.test(prompt) && (prompt.match(/[A-Za-z가-힣']+/g) || []).length < 8) return true;
+  // Choice is a numbered position that the passage on the same card does not show.
+  const CIRC = "①②③④⑤⑥⑦⑧⑨⑩";
+  const choices = (q.choices || []).map((c) => String(c).trim());
+  if (choices.length && choices.every((c) => c.length === 1 && CIRC.includes(c))) {
+    if (choices.some((c) => !prompt.includes(c))) return true;
+  }
+  if (q.pairs || q.orderChunks || q.parts) return false;
+  const words = prompt.match(/[A-Za-z가-힣']+/g) || [];
+  const hasKoHint = /[가-힣]/.test(String(q.promptKo || ""));
+  const longestLine = Math.max.apply(null, [0].concat(prompt.split("\n").map((l) => (l.match(/[A-Za-z가-힣']+/g) || []).length)));
+  // Nothing to act on: a bare instruction, an item number, or blanks with no sentence around them.
+  if (!/___/.test(prompt) && longestLine < 5 && !hasKoHint) return true;
+  return !(words.length >= 3 || (words.length >= 1 && /___/.test(prompt)) || hasKoHint);
+}
 
 function build(unit, id, title, pages, fn) {
   const ex = new Exercise({ id, title, unit: UNIT_LABEL[unit], sourcePages: pages });
   fn(ex);
-  out[unit][id] = ex.toJSON();
+  const json = ex.toJSON();
+  // Never ship a card a student cannot read: hold those items in omitted[] with the page,
+  // and defer the whole exercise only when nothing answerable is left.
+  const kept = [];
+  json.questions.forEach((q) => {
+    if (!isShellQuestion(q)) {
+      kept.push(q);
+      return;
+    }
+    json.omitted.push({ sourceId: String(q.id), reason: "교재 " + pages + " 원문 확인 전 보류 — 빈 카드였음" });
+  });
+  if (!kept.length) {
+    DEFERRED[unit][id] = { title, reason: "교재 " + pages + " 다시 읽고 재작성 필요" };
+    return;
+  }
+  json.questions = kept;
+  json.questionCount = kept.length;
+  json.sections = json.sections
+    .map((sec) => Object.assign({}, sec, { itemCount: kept.filter((q) => q.section === sec.id).length }))
+    .filter((sec) => sec.itemCount > 0);
+  out[unit][id] = json;
 }
 
 function buildVocabCheck(unit, pages, A, B, C, D) {
@@ -394,7 +442,7 @@ function orderLettersToIds(letters) {
 require("./j1-neung-u78-runner.js")( {
   build, buildVocabCheck, buildDialogComplete, orderLettersToIds,
   out, payload, mc, multi, fill, sentence, tf, pairs, koEn,
-  FILL, SENT, CHOOSE, MULTI, ORDER, TF,
+  FILL, SENT, CHOOSE, MULTI, ORDER, TF, defer,
 });
 
 function wmCard(pack) {
@@ -444,7 +492,9 @@ function catalog(unit) {
     note: "통과 80%. 중1 능률 김기택 " + labels[unit] + ". book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
     sections: order.map(([key, title, ids]) => ({
       key, title,
-      exercises: ids.filter((id) => out[unit][id]).map((id) => {
+      exercises: ids.filter((id) => out[unit][id] || DEFERRED[unit][id]).map((id) => {
+        const d = DEFERRED[unit][id];
+        if (d) return { id, title: d.title || titles[id], deferred: true, reason: d.reason };
         const file = out[unit][id];
         const row = { id, title: titles[id], questionCount: file.questionCount };
         const om = (file.omitted || []).length;
@@ -468,8 +518,17 @@ const problems = [];
 for (const unit of ["u07", "u08"]) {
   const dir = path.join(ROOT, "data/j1-neung", unit, "exercises");
   fs.mkdirSync(dir, { recursive: true });
+  for (const id of Object.keys(DEFERRED[unit])) {
+    const stale = path.join(dir, id + ".json");
+    if (fs.existsSync(stale)) fs.unlinkSync(stale);
+  }
   for (const id of Object.keys(out[unit])) {
     const ex = out[unit][id];
+    for (const q of ex.questions) {
+      // Guard against the L07/L08 shells: a card with no stem must never ship again.
+      if (isShellQuestion(q)) problems.push(unit + "/" + id + "#" + q.id + " shell prompt: " + q.promptEn);
+      if ((q.type === "mc" || q.type === "bank") && !(q.correctIndexes || []).length) problems.push(unit + "/" + id + "#" + q.id + " no answer key");
+    }
     for (const q of ex.questions) {
       let ok;
       if (q.type === "match") {

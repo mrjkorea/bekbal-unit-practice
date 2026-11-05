@@ -152,7 +152,9 @@
       "sectionTitle": "Section F · 다음 대화의 밑줄 친 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오.",
       "sectionInstructionKo": "다음 대화의 밑줄 친 우리말에 맞도록 괄호 안의 단어를 이용하여 영작하시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "answerModeTag": "Type · 문장 전체",
-      "label": "6"
+      "label": "6",
+      "deferred": true,
+      "deferredReason": "교재 p.88-91 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 7,

@@ -22,14 +22,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-01",
-      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "promptEn": "(1)______ is a (2)______ (3)______.\n(Pollution , big , problem)",
       "choices": [
         "Pollution",
         "big",
         "problem"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -50,14 +50,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-01",
-      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "promptEn": "(1)______ is a (2)______ (3)______.\n(Pollution , big , problem)",
       "choices": [
         "Pollution",
         "big",
         "problem"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -78,14 +78,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-01",
-      "promptEn": "Save Earth, Save Us\n01. (1)__________ (2)__________ (3)__________\n(Pollution , big , problem)",
+      "promptEn": "(1)______ is a (2)______ (3)______.\n(Pollution , big , problem)",
       "choices": [
         "Pollution",
         "big",
         "problem"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -106,14 +106,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-02",
-      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "promptEn": "(1)______, three superheroes are (2)______ to (3)______ the environment.\n(Luckily , working , protect)",
       "choices": [
         "Luckily",
         "working",
         "protect"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -134,14 +134,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-02",
-      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "promptEn": "(1)______, three superheroes are (2)______ to (3)______ the environment.\n(Luckily , working , protect)",
       "choices": [
         "Luckily",
         "working",
         "protect"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -162,14 +162,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-02",
-      "promptEn": "Save Earth, Save Us\n02. (1)__________ (2)__________ (3)__________\n(Luckily , working , protect)",
+      "promptEn": "(1)______, three superheroes are (2)______ to (3)______ the environment.\n(Luckily , working , protect)",
       "choices": [
         "Luckily",
         "working",
         "protect"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -190,7 +190,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-03",
-      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "promptEn": "They (1)______ to (2)______ the world (3)______. Will you (4)______ them?\n(want , make , clean , join)",
       "choices": [
         "want",
         "make",
@@ -198,7 +198,7 @@
         "join"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -219,7 +219,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-03",
-      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "promptEn": "They (1)______ to (2)______ the world (3)______. Will you (4)______ them?\n(want , make , clean , join)",
       "choices": [
         "want",
         "make",
@@ -227,7 +227,7 @@
         "join"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -248,7 +248,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-03",
-      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "promptEn": "They (1)______ to (2)______ the world (3)______. Will you (4)______ them?\n(want , make , clean , join)",
       "choices": [
         "want",
         "make",
@@ -256,7 +256,7 @@
         "join"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -277,7 +277,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-03",
-      "promptEn": "Save Earth, Save Us\n03. (1)__________ (2)__________ (3)__________ (4)__________\n(want , make , clean , join)",
+      "promptEn": "They (1)______ to (2)______ the world (3)______. Will you (4)______ them?\n(want , make , clean , join)",
       "choices": [
         "want",
         "make",
@@ -285,7 +285,7 @@
         "join"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -306,13 +306,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-04",
-      "promptEn": "Save Earth, Save Us\n04. (1)__________ (2)__________\n(Recycle , Wizard)",
+      "promptEn": "Hi! I'm (1)______ (2)______.\n(Recycle , Wizard)",
       "choices": [
         "Recycle",
         "Wizard"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -333,13 +333,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-04",
-      "promptEn": "Save Earth, Save Us\n04. (1)__________ (2)__________\n(Recycle , Wizard)",
+      "promptEn": "Hi! I'm (1)______ (2)______.\n(Recycle , Wizard)",
       "choices": [
         "Recycle",
         "Wizard"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -360,7 +360,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-05",
-      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "promptEn": "People (1)______ too (2)______ resources. But (3)______ can (4)______ them.\n(waste , many , recycling , save)",
       "choices": [
         "waste",
         "many",
@@ -368,7 +368,7 @@
         "save"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -389,7 +389,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-05",
-      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "promptEn": "People (1)______ too (2)______ resources. But (3)______ can (4)______ them.\n(waste , many , recycling , save)",
       "choices": [
         "waste",
         "many",
@@ -397,7 +397,7 @@
         "save"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -418,7 +418,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-05",
-      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "promptEn": "People (1)______ too (2)______ resources. But (3)______ can (4)______ them.\n(waste , many , recycling , save)",
       "choices": [
         "waste",
         "many",
@@ -426,7 +426,7 @@
         "save"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -447,7 +447,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-05",
-      "promptEn": "Save Earth, Save Us\n05. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , many , recycling , save)",
+      "promptEn": "People (1)______ too (2)______ resources. But (3)______ can (4)______ them.\n(waste , many , recycling , save)",
       "choices": [
         "waste",
         "many",
@@ -455,7 +455,7 @@
         "save"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -476,7 +476,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-06",
-      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "promptEn": "For example, (1)______ 1,000 kilograms of (2)______ can save about 19 (3)______ and 29,000 (4)______ of water.\n(recycling , paper , trees , liters)",
       "choices": [
         "recycling",
         "paper",
@@ -484,7 +484,7 @@
         "liters"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -505,7 +505,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-06",
-      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "promptEn": "For example, (1)______ 1,000 kilograms of (2)______ can save about 19 (3)______ and 29,000 (4)______ of water.\n(recycling , paper , trees , liters)",
       "choices": [
         "recycling",
         "paper",
@@ -513,7 +513,7 @@
         "liters"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -534,7 +534,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-06",
-      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "promptEn": "For example, (1)______ 1,000 kilograms of (2)______ can save about 19 (3)______ and 29,000 (4)______ of water.\n(recycling , paper , trees , liters)",
       "choices": [
         "recycling",
         "paper",
@@ -542,7 +542,7 @@
         "liters"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -563,7 +563,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-06",
-      "promptEn": "Save Earth, Save Us\n06. (1)__________ (2)__________ (3)__________ (4)__________\n(recycling , paper , trees , liters)",
+      "promptEn": "For example, (1)______ 1,000 kilograms of (2)______ can save about 19 (3)______ and 29,000 (4)______ of water.\n(recycling , paper , trees , liters)",
       "choices": [
         "recycling",
         "paper",
@@ -571,7 +571,7 @@
         "liters"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -592,7 +592,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-07",
-      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "promptEn": "Do you want to (1)______ a wizard at recycling? (2)______ you (3)______ recycle (4)______!\n(be , Then , should , properly)",
       "choices": [
         "be",
         "Then",
@@ -600,7 +600,7 @@
         "properly"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -621,7 +621,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-07",
-      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "promptEn": "Do you want to (1)______ a wizard at recycling? (2)______ you (3)______ recycle (4)______!\n(be , Then , should , properly)",
       "choices": [
         "be",
         "Then",
@@ -629,7 +629,7 @@
         "properly"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -650,7 +650,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-07",
-      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "promptEn": "Do you want to (1)______ a wizard at recycling? (2)______ you (3)______ recycle (4)______!\n(be , Then , should , properly)",
       "choices": [
         "be",
         "Then",
@@ -658,7 +658,7 @@
         "properly"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -679,7 +679,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-07",
-      "promptEn": "Save Earth, Save Us\n07. (1)__________ (2)__________ (3)__________ (4)__________\n(be , Then , should , properly)",
+      "promptEn": "Do you want to (1)______ a wizard at recycling? (2)______ you (3)______ recycle (4)______!\n(be , Then , should , properly)",
       "choices": [
         "be",
         "Then",
@@ -687,7 +687,7 @@
         "properly"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -708,7 +708,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-08",
-      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "promptEn": "(1)______ plastic, paper, (2)______ waste, and (3)______ in the (4)______ bins.\n(Put , food , glass , correct)",
       "choices": [
         "Put",
         "food",
@@ -716,7 +716,7 @@
         "correct"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -737,7 +737,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-08",
-      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "promptEn": "(1)______ plastic, paper, (2)______ waste, and (3)______ in the (4)______ bins.\n(Put , food , glass , correct)",
       "choices": [
         "Put",
         "food",
@@ -745,7 +745,7 @@
         "correct"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -766,7 +766,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-08",
-      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "promptEn": "(1)______ plastic, paper, (2)______ waste, and (3)______ in the (4)______ bins.\n(Put , food , glass , correct)",
       "choices": [
         "Put",
         "food",
@@ -774,7 +774,7 @@
         "correct"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -795,7 +795,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-08",
-      "promptEn": "Save Earth, Save Us\n08. (1)__________ (2)__________ (3)__________ (4)__________\n(Put , food , glass , correct)",
+      "promptEn": "(1)______ plastic, paper, (2)______ waste, and (3)______ in the (4)______ bins.\n(Put , food , glass , correct)",
       "choices": [
         "Put",
         "food",
@@ -803,7 +803,7 @@
         "correct"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -824,7 +824,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-09",
-      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "promptEn": "Look at the waste (1)______. (2)______ a line from (3)______ piece of waste to the right (4)______.\n(below , Draw , each , bin)",
       "choices": [
         "below",
         "Draw",
@@ -832,7 +832,7 @@
         "bin"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -853,7 +853,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-09",
-      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "promptEn": "Look at the waste (1)______. (2)______ a line from (3)______ piece of waste to the right (4)______.\n(below , Draw , each , bin)",
       "choices": [
         "below",
         "Draw",
@@ -861,7 +861,7 @@
         "bin"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -882,7 +882,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-09",
-      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "promptEn": "Look at the waste (1)______. (2)______ a line from (3)______ piece of waste to the right (4)______.\n(below , Draw , each , bin)",
       "choices": [
         "below",
         "Draw",
@@ -890,7 +890,7 @@
         "bin"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -911,7 +911,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-09",
-      "promptEn": "Save Earth, Save Us\n09. (1)__________ (2)__________ (3)__________ (4)__________\n(below , Draw , each , bin)",
+      "promptEn": "Look at the waste (1)______. (2)______ a line from (3)______ piece of waste to the right (4)______.\n(below , Draw , each , bin)",
       "choices": [
         "below",
         "Draw",
@@ -919,7 +919,7 @@
         "bin"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -940,13 +940,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-10",
-      "promptEn": "Save Earth, Save Us\n10. (1)__________ (2)__________\n(Good , job)",
+      "promptEn": "(1)______ (2)______!\n(Good , job)",
       "choices": [
         "Good",
         "job"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -967,13 +967,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-10",
-      "promptEn": "Save Earth, Save Us\n10. (1)__________ (2)__________\n(Good , job)",
+      "promptEn": "(1)______ (2)______!\n(Good , job)",
       "choices": [
         "Good",
         "job"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -994,13 +994,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-11",
-      "promptEn": "Save Earth, Save Us\n11. (1)__________ (2)__________\n(Fashion , Clever)",
+      "promptEn": "I'm (1)______ (2)______.\n(Fashion , Clever)",
       "choices": [
         "Fashion",
         "Clever"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1021,13 +1021,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-11",
-      "promptEn": "Save Earth, Save Us\n11. (1)__________ (2)__________\n(Fashion , Clever)",
+      "promptEn": "I'm (1)______ (2)______.\n(Fashion , Clever)",
       "choices": [
         "Fashion",
         "Clever"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1048,7 +1048,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-12",
-      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "promptEn": "People (1)______ away (2)______ too often. They (3)______ waste and (4)______ the environment.\n(throw , clothes , become , hurt)",
       "choices": [
         "throw",
         "clothes",
@@ -1056,7 +1056,7 @@
         "hurt"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1077,7 +1077,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-12",
-      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "promptEn": "People (1)______ away (2)______ too often. They (3)______ waste and (4)______ the environment.\n(throw , clothes , become , hurt)",
       "choices": [
         "throw",
         "clothes",
@@ -1085,7 +1085,7 @@
         "hurt"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1106,7 +1106,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-12",
-      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "promptEn": "People (1)______ away (2)______ too often. They (3)______ waste and (4)______ the environment.\n(throw , clothes , become , hurt)",
       "choices": [
         "throw",
         "clothes",
@@ -1114,7 +1114,7 @@
         "hurt"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1135,7 +1135,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-12",
-      "promptEn": "Save Earth, Save Us\n12. (1)__________ (2)__________ (3)__________ (4)__________\n(throw , clothes , become , hurt)",
+      "promptEn": "People (1)______ away (2)______ too often. They (3)______ waste and (4)______ the environment.\n(throw , clothes , become , hurt)",
       "choices": [
         "throw",
         "clothes",
@@ -1143,7 +1143,7 @@
         "hurt"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -1164,7 +1164,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-13",
-      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "promptEn": "Did you (1)______ that some clothes (2)______ over 200 (3)______ to (4)______ down?\n(know , take , years , break)",
       "choices": [
         "know",
         "take",
@@ -1172,7 +1172,7 @@
         "break"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1193,7 +1193,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-13",
-      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "promptEn": "Did you (1)______ that some clothes (2)______ over 200 (3)______ to (4)______ down?\n(know , take , years , break)",
       "choices": [
         "know",
         "take",
@@ -1201,7 +1201,7 @@
         "break"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1222,7 +1222,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-13",
-      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "promptEn": "Did you (1)______ that some clothes (2)______ over 200 (3)______ to (4)______ down?\n(know , take , years , break)",
       "choices": [
         "know",
         "take",
@@ -1230,7 +1230,7 @@
         "break"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1251,7 +1251,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-13",
-      "promptEn": "Save Earth, Save Us\n13. (1)__________ (2)__________ (3)__________ (4)__________\n(know , take , years , break)",
+      "promptEn": "Did you (1)______ that some clothes (2)______ over 200 (3)______ to (4)______ down?\n(know , take , years , break)",
       "choices": [
         "know",
         "take",
@@ -1259,7 +1259,7 @@
         "break"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -1280,7 +1280,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-14",
-      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "promptEn": "Don't buy (1)______ many (2)______. (3)______ your clothes (4)______ a long time.\n(too , clothes , Wear , for)",
       "choices": [
         "too",
         "clothes",
@@ -1288,7 +1288,7 @@
         "for"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1309,7 +1309,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-14",
-      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "promptEn": "Don't buy (1)______ many (2)______. (3)______ your clothes (4)______ a long time.\n(too , clothes , Wear , for)",
       "choices": [
         "too",
         "clothes",
@@ -1317,7 +1317,7 @@
         "for"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1338,7 +1338,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-14",
-      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "promptEn": "Don't buy (1)______ many (2)______. (3)______ your clothes (4)______ a long time.\n(too , clothes , Wear , for)",
       "choices": [
         "too",
         "clothes",
@@ -1346,7 +1346,7 @@
         "for"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1367,7 +1367,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-14",
-      "promptEn": "Save Earth, Save Us\n14. (1)__________ (2)__________ (3)__________ (4)__________\n(too , clothes , Wear , for)",
+      "promptEn": "Don't buy (1)______ many (2)______. (3)______ your clothes (4)______ a long time.\n(too , clothes , Wear , for)",
       "choices": [
         "too",
         "clothes",
@@ -1375,7 +1375,7 @@
         "for"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -1396,14 +1396,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-15",
-      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "promptEn": "You can also (1)______ new (2)______ from your (3)______ clothes!\n(create , items , old)",
       "choices": [
         "create",
         "items",
         "old"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1424,14 +1424,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-15",
-      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "promptEn": "You can also (1)______ new (2)______ from your (3)______ clothes!\n(create , items , old)",
       "choices": [
         "create",
         "items",
         "old"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1452,14 +1452,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-15",
-      "promptEn": "Save Earth, Save Us\n15. (1)__________ (2)__________ (3)__________\n(create , items , old)",
+      "promptEn": "You can also (1)______ new (2)______ from your (3)______ clothes!\n(create , items , old)",
       "choices": [
         "create",
         "items",
         "old"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1480,14 +1480,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-16",
-      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "promptEn": "(1)______ make (2)______ clothes (3)______.\n(Let's , old , useful)",
       "choices": [
         "Let's",
         "old",
         "useful"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1508,14 +1508,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-16",
-      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "promptEn": "(1)______ make (2)______ clothes (3)______.\n(Let's , old , useful)",
       "choices": [
         "Let's",
         "old",
         "useful"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1536,14 +1536,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-16",
-      "promptEn": "Save Earth, Save Us\n16. (1)__________ (2)__________ (3)__________\n(Let's , old , useful)",
+      "promptEn": "(1)______ make (2)______ clothes (3)______.\n(Let's , old , useful)",
       "choices": [
         "Let's",
         "old",
         "useful"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1564,7 +1564,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-17",
-      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "promptEn": "(1)______ are some (2)______ below. What can you (3)______ with (4)______ old clothes?\n(There , items , make , these)",
       "choices": [
         "There",
         "items",
@@ -1572,7 +1572,7 @@
         "these"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1593,7 +1593,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-17",
-      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "promptEn": "(1)______ are some (2)______ below. What can you (3)______ with (4)______ old clothes?\n(There , items , make , these)",
       "choices": [
         "There",
         "items",
@@ -1601,7 +1601,7 @@
         "these"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1622,7 +1622,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-17",
-      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "promptEn": "(1)______ are some (2)______ below. What can you (3)______ with (4)______ old clothes?\n(There , items , make , these)",
       "choices": [
         "There",
         "items",
@@ -1630,7 +1630,7 @@
         "these"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1651,7 +1651,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-17",
-      "promptEn": "Save Earth, Save Us\n17. (1)__________ (2)__________ (3)__________ (4)__________\n(There , items , make , these)",
+      "promptEn": "(1)______ are some (2)______ below. What can you (3)______ with (4)______ old clothes?\n(There , items , make , these)",
       "choices": [
         "There",
         "items",
@@ -1659,7 +1659,7 @@
         "these"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -1680,7 +1680,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-18",
-      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "promptEn": "(1)______ the old (2)______ with the (3)______ new (4)______.\n(Match , clothes , correct , items)",
       "choices": [
         "Match",
         "clothes",
@@ -1688,7 +1688,7 @@
         "items"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1709,7 +1709,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-18",
-      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "promptEn": "(1)______ the old (2)______ with the (3)______ new (4)______.\n(Match , clothes , correct , items)",
       "choices": [
         "Match",
         "clothes",
@@ -1717,7 +1717,7 @@
         "items"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1738,7 +1738,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-18",
-      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "promptEn": "(1)______ the old (2)______ with the (3)______ new (4)______.\n(Match , clothes , correct , items)",
       "choices": [
         "Match",
         "clothes",
@@ -1746,7 +1746,7 @@
         "items"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1767,7 +1767,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-18",
-      "promptEn": "Save Earth, Save Us\n18. (1)__________ (2)__________ (3)__________ (4)__________\n(Match , clothes , correct , items)",
+      "promptEn": "(1)______ the old (2)______ with the (3)______ new (4)______.\n(Match , clothes , correct , items)",
       "choices": [
         "Match",
         "clothes",
@@ -1775,7 +1775,7 @@
         "items"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -1796,14 +1796,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-19",
-      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "promptEn": "(1)______ you can be (2)______ at (3)______ too!\n(Now , clever , fashion)",
       "choices": [
         "Now",
         "clever",
         "fashion"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1824,14 +1824,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-19",
-      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "promptEn": "(1)______ you can be (2)______ at (3)______ too!\n(Now , clever , fashion)",
       "choices": [
         "Now",
         "clever",
         "fashion"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1852,14 +1852,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-19",
-      "promptEn": "Save Earth, Save Us\n19. (1)__________ (2)__________ (3)__________\n(Now , clever , fashion)",
+      "promptEn": "(1)______ you can be (2)______ at (3)______ too!\n(Now , clever , fashion)",
       "choices": [
         "Now",
         "clever",
         "fashion"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -1880,13 +1880,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-20",
-      "promptEn": "Save Earth, Save Us\n20. (1)__________ (2)__________\n(Water , Saver)",
+      "promptEn": "Hi! I'm (1)______ (2)______.\n(Water , Saver)",
       "choices": [
         "Water",
         "Saver"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1907,13 +1907,13 @@
       "type": "bank",
       "select": "one",
       "group": "RS-20",
-      "promptEn": "Save Earth, Save Us\n20. (1)__________ (2)__________\n(Water , Saver)",
+      "promptEn": "Hi! I'm (1)______ (2)______.\n(Water , Saver)",
       "choices": [
         "Water",
         "Saver"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1934,7 +1934,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-21",
-      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "promptEn": "(1)______ is very (2)______. We (3)______ live (4)______ it.\n(Water , important , can't , without)",
       "choices": [
         "Water",
         "important",
@@ -1942,7 +1942,7 @@
         "without"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -1963,7 +1963,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-21",
-      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "promptEn": "(1)______ is very (2)______. We (3)______ live (4)______ it.\n(Water , important , can't , without)",
       "choices": [
         "Water",
         "important",
@@ -1971,7 +1971,7 @@
         "without"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -1992,7 +1992,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-21",
-      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "promptEn": "(1)______ is very (2)______. We (3)______ live (4)______ it.\n(Water , important , can't , without)",
       "choices": [
         "Water",
         "important",
@@ -2000,7 +2000,7 @@
         "without"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2021,7 +2021,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-21",
-      "promptEn": "Save Earth, Save Us\n21. (1)__________ (2)__________ (3)__________ (4)__________\n(Water , important , can't , without)",
+      "promptEn": "(1)______ is very (2)______. We (3)______ live (4)______ it.\n(Water , important , can't , without)",
       "choices": [
         "Water",
         "important",
@@ -2029,7 +2029,7 @@
         "without"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -2050,7 +2050,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-22",
-      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "promptEn": "But people (1)______ a (2)______ of water. It (3)______ me (4)______.\n(waste , lot , makes , sad)",
       "choices": [
         "waste",
         "lot",
@@ -2058,7 +2058,7 @@
         "sad"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2079,7 +2079,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-22",
-      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "promptEn": "But people (1)______ a (2)______ of water. It (3)______ me (4)______.\n(waste , lot , makes , sad)",
       "choices": [
         "waste",
         "lot",
@@ -2087,7 +2087,7 @@
         "sad"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2108,7 +2108,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-22",
-      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "promptEn": "But people (1)______ a (2)______ of water. It (3)______ me (4)______.\n(waste , lot , makes , sad)",
       "choices": [
         "waste",
         "lot",
@@ -2116,7 +2116,7 @@
         "sad"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2137,7 +2137,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-22",
-      "promptEn": "Save Earth, Save Us\n22. (1)__________ (2)__________ (3)__________ (4)__________\n(waste , lot , makes , sad)",
+      "promptEn": "But people (1)______ a (2)______ of water. It (3)______ me (4)______.\n(waste , lot , makes , sad)",
       "choices": [
         "waste",
         "lot",
@@ -2145,7 +2145,7 @@
         "sad"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -2166,14 +2166,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-23",
-      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "promptEn": "(1)______ (2)______ we (3)______ water?\n(How , can , save)",
       "choices": [
         "How",
         "can",
         "save"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2194,14 +2194,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-23",
-      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "promptEn": "(1)______ (2)______ we (3)______ water?\n(How , can , save)",
       "choices": [
         "How",
         "can",
         "save"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2222,14 +2222,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-23",
-      "promptEn": "Save Earth, Save Us\n23. (1)__________ (2)__________ (3)__________\n(How , can , save)",
+      "promptEn": "(1)______ (2)______ we (3)______ water?\n(How , can , save)",
       "choices": [
         "How",
         "can",
         "save"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2250,7 +2250,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-24",
-      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "promptEn": "(1)______ quick (2)______. (3)______ off the tap (4)______ you (5)______ your teeth.\n(Take , showers , Turn , while , brush)",
       "choices": [
         "Take",
         "showers",
@@ -2259,7 +2259,7 @@
         "brush"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2280,7 +2280,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-24",
-      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "promptEn": "(1)______ quick (2)______. (3)______ off the tap (4)______ you (5)______ your teeth.\n(Take , showers , Turn , while , brush)",
       "choices": [
         "Take",
         "showers",
@@ -2289,7 +2289,7 @@
         "brush"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2310,7 +2310,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-24",
-      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "promptEn": "(1)______ quick (2)______. (3)______ off the tap (4)______ you (5)______ your teeth.\n(Take , showers , Turn , while , brush)",
       "choices": [
         "Take",
         "showers",
@@ -2319,7 +2319,7 @@
         "brush"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2340,7 +2340,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-24",
-      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "promptEn": "(1)______ quick (2)______. (3)______ off the tap (4)______ you (5)______ your teeth.\n(Take , showers , Turn , while , brush)",
       "choices": [
         "Take",
         "showers",
@@ -2349,7 +2349,7 @@
         "brush"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -2370,7 +2370,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-24",
-      "promptEn": "Save Earth, Save Us\n24. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(Take , showers , Turn , while , brush)",
+      "promptEn": "(1)______ quick (2)______. (3)______ off the tap (4)______ you (5)______ your teeth.\n(Take , showers , Turn , while , brush)",
       "choices": [
         "Take",
         "showers",
@@ -2379,7 +2379,7 @@
         "brush"
       ],
       "correctIndexes": [
-        4
+        5
       ],
       "focusBlank": "5",
       "promptKo": "이 문항은 (5) 빈칸만 고릅니다.",
@@ -2400,7 +2400,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-25",
-      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "promptEn": "(1)______, make (2)______ that you turn (3)______ the (4)______ completely.\n(Also , sure , off , tap)",
       "choices": [
         "Also",
         "sure",
@@ -2408,7 +2408,7 @@
         "tap"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2429,7 +2429,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-25",
-      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "promptEn": "(1)______, make (2)______ that you turn (3)______ the (4)______ completely.\n(Also , sure , off , tap)",
       "choices": [
         "Also",
         "sure",
@@ -2437,7 +2437,7 @@
         "tap"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2458,7 +2458,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-25",
-      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "promptEn": "(1)______, make (2)______ that you turn (3)______ the (4)______ completely.\n(Also , sure , off , tap)",
       "choices": [
         "Also",
         "sure",
@@ -2466,7 +2466,7 @@
         "tap"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2487,7 +2487,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-25",
-      "promptEn": "Save Earth, Save Us\n25. (1)__________ (2)__________ (3)__________ (4)__________\n(Also , sure , off , tap)",
+      "promptEn": "(1)______, make (2)______ that you turn (3)______ the (4)______ completely.\n(Also , sure , off , tap)",
       "choices": [
         "Also",
         "sure",
@@ -2495,7 +2495,7 @@
         "tap"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -2516,7 +2516,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-26",
-      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "promptEn": "Look (1)______ the pictures (2)______. Which are (3)______ to (4)______ water and (5)______ are not?\n(at , below , ways , save , which)",
       "choices": [
         "at",
         "below",
@@ -2525,7 +2525,7 @@
         "which"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2546,7 +2546,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-26",
-      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "promptEn": "Look (1)______ the pictures (2)______. Which are (3)______ to (4)______ water and (5)______ are not?\n(at , below , ways , save , which)",
       "choices": [
         "at",
         "below",
@@ -2555,7 +2555,7 @@
         "which"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2576,7 +2576,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-26",
-      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "promptEn": "Look (1)______ the pictures (2)______. Which are (3)______ to (4)______ water and (5)______ are not?\n(at , below , ways , save , which)",
       "choices": [
         "at",
         "below",
@@ -2585,7 +2585,7 @@
         "which"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2606,7 +2606,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-26",
-      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "promptEn": "Look (1)______ the pictures (2)______. Which are (3)______ to (4)______ water and (5)______ are not?\n(at , below , ways , save , which)",
       "choices": [
         "at",
         "below",
@@ -2615,7 +2615,7 @@
         "which"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "focusBlank": "4",
       "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
@@ -2636,7 +2636,7 @@
       "type": "bank",
       "select": "one",
       "group": "RS-26",
-      "promptEn": "Save Earth, Save Us\n26. (1)__________ (2)__________ (3)__________ (4)__________ (5)__________\n(at , below , ways , save , which)",
+      "promptEn": "Look (1)______ the pictures (2)______. Which are (3)______ to (4)______ water and (5)______ are not?\n(at , below , ways , save , which)",
       "choices": [
         "at",
         "below",
@@ -2645,7 +2645,7 @@
         "which"
       ],
       "correctIndexes": [
-        4
+        5
       ],
       "focusBlank": "5",
       "promptKo": "이 문항은 (5) 빈칸만 고릅니다.",
@@ -2666,14 +2666,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-27",
-      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "promptEn": "(1)______ an O (2)______ X on (3)______ picture.\n(Write , or , each)",
       "choices": [
         "Write",
         "or",
         "each"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2694,14 +2694,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-27",
-      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "promptEn": "(1)______ an O (2)______ X on (3)______ picture.\n(Write , or , each)",
       "choices": [
         "Write",
         "or",
         "each"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2722,14 +2722,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-27",
-      "promptEn": "Save Earth, Save Us\n27. (1)__________ (2)__________ (3)__________\n(Write , or , each)",
+      "promptEn": "(1)______ an O (2)______ X on (3)______ picture.\n(Write , or , each)",
       "choices": [
         "Write",
         "or",
         "each"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2750,14 +2750,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-28",
-      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "promptEn": "I'm (1)______ that you (2)______ the (3)______ answers.\n(sure , got , right)",
       "choices": [
         "sure",
         "got",
         "right"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2778,14 +2778,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-28",
-      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "promptEn": "I'm (1)______ that you (2)______ the (3)______ answers.\n(sure , got , right)",
       "choices": [
         "sure",
         "got",
         "right"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2806,14 +2806,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-28",
-      "promptEn": "Save Earth, Save Us\n28. (1)__________ (2)__________ (3)__________\n(sure , got , right)",
+      "promptEn": "I'm (1)______ that you (2)______ the (3)______ answers.\n(sure , got , right)",
       "choices": [
         "sure",
         "got",
         "right"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
@@ -2834,14 +2834,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-29",
-      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "promptEn": "You are (1)______ at (2)______ (3)______!\n(amazing , saving , water)",
       "choices": [
         "amazing",
         "saving",
         "water"
       ],
       "correctIndexes": [
-        0
+        1
       ],
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
@@ -2862,14 +2862,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-29",
-      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "promptEn": "You are (1)______ at (2)______ (3)______!\n(amazing , saving , water)",
       "choices": [
         "amazing",
         "saving",
         "water"
       ],
       "correctIndexes": [
-        1
+        2
       ],
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
@@ -2890,14 +2890,14 @@
       "type": "bank",
       "select": "one",
       "group": "RS-29",
-      "promptEn": "Save Earth, Save Us\n29. (1)__________ (2)__________ (3)__________\n(amazing , saving , water)",
+      "promptEn": "You are (1)______ at (2)______ (3)______!\n(amazing , saving , water)",
       "choices": [
         "amazing",
         "saving",
         "water"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",

@@ -178,7 +178,9 @@
       "sectionTitle": "Section E · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "7"
+      "label": "7",
+      "deferred": true,
+      "deferredReason": "교재 p.146,147 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 7,
@@ -205,7 +207,9 @@
       "sectionTitle": "Section E · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오.",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "8"
+      "label": "8",
+      "deferred": true,
+      "deferredReason": "교재 p.146,147 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 8,

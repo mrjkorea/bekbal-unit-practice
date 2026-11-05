@@ -350,7 +350,9 @@
       "sectionTitle": "Section K · 다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면?",
       "sectionInstructionKo": "다음 중 밑줄 친 부분을 생략할 수 있는 것을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 모두 고르기",
-      "label": "12"
+      "label": "12",
+      "deferred": true,
+      "deferredReason": "교재 p.108-111 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 13,

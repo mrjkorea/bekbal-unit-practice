@@ -4,7 +4,7 @@
   "book": "중1 능률 김기택",
   "unit": "Lesson 08 Dive into Stories",
   "sourcePages": "X-10 pp.30-31",
-  "questionCount": 59,
+  "questionCount": 12,
   "omitted": [],
   "questions": [
     {
@@ -648,7 +648,7 @@
       "answerMode": "match",
       "answerModeTag": "Match · 짝짓기",
       "instructionKo": " 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
-      "itemCount": 20
+      "itemCount": 4
     },
     {
       "id": "s2",
@@ -658,7 +658,7 @@
       "answerMode": "match",
       "answerModeTag": "Match · 짝짓기",
       "instructionKo": " 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
-      "itemCount": 20
+      "itemCount": 4
     },
     {
       "id": "s3",
@@ -668,7 +668,7 @@
       "answerMode": "match",
       "answerModeTag": "Match · 짝짓기",
       "instructionKo": " 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
-      "itemCount": 10
+      "itemCount": 2
     },
     {
       "id": "s4",
@@ -678,7 +678,7 @@
       "answerMode": "match",
       "answerModeTag": "Match · 짝짓기",
       "instructionKo": " 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
-      "itemCount": 9
+      "itemCount": 2
     }
   ]
 }

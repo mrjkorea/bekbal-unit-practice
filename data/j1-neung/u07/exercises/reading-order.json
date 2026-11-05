@@ -1213,7 +1213,7 @@
       "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
       "answerMode": "order",
       "answerModeTag": "Order · 순서 누르기",
-      "explainKo": "정답: Match the old clothes with the new items.",
+      "explainKo": "정답: Match the old clothes with the correct new items.",
       "type": "order",
       "promptEn": "18 보기를 순서대로 누르세요.",
       "orderChunks": [
@@ -1227,36 +1227,41 @@
         },
         {
           "id": "c3",
-          "text": "the"
+          "text": "correct"
         },
         {
           "id": "c4",
-          "text": "with"
-        },
-        {
-          "id": "c5",
-          "text": "clothes"
-        },
-        {
-          "id": "c6",
-          "text": "old"
-        },
-        {
-          "id": "c7",
           "text": "the"
         },
         {
+          "id": "c5",
+          "text": "with"
+        },
+        {
+          "id": "c6",
+          "text": "clothes"
+        },
+        {
+          "id": "c7",
+          "text": "old"
+        },
+        {
           "id": "c8",
+          "text": "the"
+        },
+        {
+          "id": "c9",
           "text": "Match"
         }
       ],
       "orderIds": [
-        "c8",
-        "c3",
-        "c6",
-        "c5",
+        "c9",
         "c4",
         "c7",
+        "c6",
+        "c5",
+        "c8",
+        "c3",
         "c2",
         "c1"
       ],

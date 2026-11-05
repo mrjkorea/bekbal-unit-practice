@@ -133,7 +133,9 @@
       "sectionTitle": "Section D · 다음 중 밑줄 친 부분의 쓰임이 어색한 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "5"
+      "label": "5",
+      "deferred": true,
+      "deferredReason": "교재 p.p.128-129 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 6,
@@ -261,7 +263,9 @@
       "sectionTitle": "Section I · 다음 중 밑줄 친 부분의 의미가 나머지와 다른 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 의미가 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "10"
+      "label": "10",
+      "deferred": true,
+      "deferredReason": "교재 p.p.128-129 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 11,
@@ -288,7 +292,9 @@
       "sectionTitle": "Section J · 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "11"
+      "label": "11",
+      "deferred": true,
+      "deferredReason": "교재 p.p.128-129 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 12,

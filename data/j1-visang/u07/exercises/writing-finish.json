@@ -213,7 +213,9 @@
       "accept": [
         "a surprise party for Mr. Green"
       ],
-      "seconds": 110
+      "seconds": 110,
+      "deferred": true,
+      "deferredReason": "교재 p.p.168-171 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "id": "9",

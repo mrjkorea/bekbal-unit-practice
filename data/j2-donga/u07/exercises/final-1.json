@@ -59,7 +59,9 @@
       "sectionTitle": "Section B · 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 단어의 쓰임이 어색한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "2"
+      "label": "2",
+      "deferred": true,
+      "deferredReason": "교재 p.84-87 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 3,
@@ -335,7 +337,9 @@
       "sectionTitle": "Section J · 다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "10"
+      "label": "10",
+      "deferred": true,
+      "deferredReason": "교재 p.84-87 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 11,

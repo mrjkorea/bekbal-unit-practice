@@ -425,6 +425,9 @@ async function play() {
     path = `data/${b}/${u}/exercises/${e}.json`;
   }
   ex = legacyExercise(await getJSON(path));
+  // Cards held for a re-check are never shown to a student: an empty card is worse than none.
+  const heldCount = (ex.questions || []).filter((q) => q.deferred).length;
+  if (heldCount) ex.questions = ex.questions.filter((q) => !q.deferred);
   const key = "bekbal:" + path;
   let attempts = +(sessionStorage.getItem(key) || 0);
   let timer;
@@ -433,6 +436,7 @@ async function play() {
     const mins = Math.max(1, Math.round(timeFor(ex) / 60));
     app.innerHTML = "";
     if (ex.demo) app.appendChild(el("p", "banner", "DEMO — 실제 교재 문제가 아닙니다 (사이트 테스트용)"));
+    if (heldCount) app.appendChild(el("p", "banner", "교재 확인 중인 " + heldCount + "문항은 이번 연습에서 뺐습니다. / " + heldCount + " items are held for a book check."));
     const back = qs.get("b") && qs.get("u") ? `unit.html?b=${qs.get("b")}&u=${qs.get("u")}` : "index.html";
     const crumb = el("p", "crumb");
     crumb.innerHTML = `<a href="${back}">← 목록</a>`;

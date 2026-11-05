@@ -72,7 +72,9 @@
       "correctIndexes": [
         4
       ],
-      "seconds": 60
+      "seconds": 60,
+      "deferred": true,
+      "deferredReason": "교재 p.167 원문 확인 전 보류 — cites 윗글 but the passage is not on the card"
     },
     {
       "id": "3",

@@ -207,7 +207,9 @@
       "sectionTitle": "Section G · 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "7"
+      "label": "7",
+      "deferred": true,
+      "deferredReason": "교재 p.148,149 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 8,
@@ -262,7 +264,9 @@
       "sectionTitle": "Section I · 다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것을 모두 고르시오.",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 모두 고르기",
-      "label": "9"
+      "label": "9",
+      "deferred": true,
+      "deferredReason": "교재 p.148,149 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 10,
@@ -290,7 +294,9 @@
       "sectionTitle": "Section I · 다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것을 모두 고르시오.",
       "sectionInstructionKo": "다음 중 밑줄 친 부분의 쓰임이 보기와 다른 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 모두 고르기",
-      "label": "10"
+      "label": "10",
+      "deferred": true,
+      "deferredReason": "교재 p.148,149 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
     },
     {
       "sourceId": 11,

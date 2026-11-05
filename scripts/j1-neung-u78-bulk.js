@@ -6,12 +6,31 @@ module.exports = function registerNeungU78Bulk(ctx) {
     FILL, SENT, CHOOSE, MULTI, ORDER, TF,
   } = ctx;
   const data = require("./j1-neung-u78-bulk-data.js");
+  const korean = require("./j1-neung-u78-korean.js");
 
   buildDialogComplete(
     "u07",
     "pp.134-135",
     data.D07_MARKED.map((d) => [d[0], "", d[1], d[2], d[3]])
   );
+
+
+  /** Put a numbered blank on each word, in order, in the real sentence.
+   *  Throws when a word is not in the sentence, so the build stops instead of
+   *  shipping a card with no stem. */
+  function markWordsInSentence(sentence, words) {
+    let from = 0;
+    let out = "";
+    words.forEach((word, i) => {
+      const esc = String(word).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const re = new RegExp("(?<![A-Za-z'])" + esc + "(?![A-Za-z'])", "i");
+      const m = re.exec(sentence.slice(from));
+      if (!m) throw new Error("blank not found: " + JSON.stringify(word) + " in " + JSON.stringify(sentence));
+      out += sentence.slice(from, from + m.index) + "(" + (i + 1) + ")______";
+      from += m.index + m[0].length;
+    });
+    return out + sentence.slice(from);
+  }
 
   function buildX10Cloze(unit, pages, rows) {
     build(unit, "x10-dialog-cloze", "대화 빈칸 완성하기", pages, (ex) => {
@@ -55,20 +74,13 @@ module.exports = function registerNeungU78Bulk(ctx) {
     });
   }
 
-  function buildReadingBank(unit, id, title, pages, items, head) {
+  function buildReadingBank(unit, id, title, pages, items, head, passage) {
     build(unit, id, title, pages, (ex) => {
       ex.section("Section A · Reading", CHOOSE.directionKo, CHOOSE.ruleKo, "bank", "Choose · 보기에서 고르기");
       items.forEach((words, si) => {
         const bank = words.slice();
-        const prompt =
-          head +
-          "\n" +
-          String(si + 1).padStart(2, "0") +
-          ". " +
-          words.map((w, i) => "(" + (i + 1) + ")__________").join(" ") +
-          "\n(" +
-          bank.join(" , ") +
-          ")";
+        const body = passage && passage[si] ? markWordsInSentence(passage[si], words) : words.map((w, i) => "(" + (i + 1) + ")__________").join(" ");
+        const prompt = body + "\n(" + bank.join(" , ") + ")";
         words.forEach((word, bi) => {
           const choices = bank.slice();
           const idx = choices.findIndex((c) => c.toLowerCase() === word.toLowerCase());
@@ -78,10 +90,38 @@ module.exports = function registerNeungU78Bulk(ctx) {
             prompt,
             choices,
             bi + 1,
-            idx >= 0 ? idx : 0,
+            idx + 1,
             "정답: " + words.join(", ") + ". (답지 Reading " + String(si + 1).padStart(2, "0") + ")",
             { directionKo: head + " 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오." }
           );
+        });
+      });
+    });
+  }
+
+
+  /** Reading 빈칸 완성하기 built from the real passage sentences, one item per blank. */
+  function buildReadingClozeFromPassage(unit, pages, passage, groups) {
+    if (groups.length !== passage.length) {
+      throw new Error("passage/groups length mismatch: " + passage.length + " vs " + groups.length);
+    }
+    build(unit, "x10-reading-cloze", "Reading 빈칸 완성하기", pages, (ex) => {
+      ex.section("Section A · Reading 빈칸", FILL.directionKo, FILL.ruleKo, "words", FILL.answerModeTag);
+      groups.forEach((words, si) => {
+        const marked = markWordsInSentence(passage[si], words);
+        const ko = (korean["L" + unit.slice(1) + "_KO"] || [])[si] || "";
+        words.forEach((word, i) => {
+          ex.add({
+            type: "fill",
+            sourceId: si + 1,
+            group: "RC-" + String(si + 1).padStart(2, "0"),
+            id: si + 1 + "-" + (i + 1),
+            focusBlank: String(i + 1),
+            accept: [word],
+            promptEn: marked,
+            promptKo: ko || ("이 문항은 (" + (i + 1) + ")번 빈칸만 씁니다."),
+            explainKo: "정답: " + word + " (답지 Reading 빈칸 " + String(si + 1).padStart(2, "0") + ")",
+          });
         });
       });
     });
@@ -143,7 +183,14 @@ module.exports = function registerNeungU78Bulk(ctx) {
       ex.section("Section A · 영작", SENT.directionKo, SENT.ruleKo, "sentence", SENT.answerModeTag);
       passage.forEach((sent, i) => {
         const bare = sent.replace(/[“”"]/g, '"');
-        ex.add(sentence(i + 1, (i + 1) + " " + (koHint[i] || ""), [bare, bare.replace(/[.!?]+$/, "")], "정답: " + sent));
+        const ko = koHint[i];
+        if (!ko) {
+          ex.omit(i + 1, "한글 지문이 전사되지 않아 영작 문제를 낼 수 없음");
+          return;
+        }
+        const item = sentence(i + 1, (i + 1) + ". 다음 우리말을 영어로 쓰시오.\n" + ko, [bare, bare.replace(/[.!?]+$/, "")], "정답: " + sent);
+        item.promptKo = "교재 영작 문제와 같은 한글 문장입니다.";
+        ex.add(item);
       });
     });
   }
@@ -306,7 +353,7 @@ module.exports = function registerNeungU78Bulk(ctx) {
   }
 
   function buildX10Grammar(unit) {
-    build(unit, "x10-grammar", "핵심 Grammar 확인 문제", "X-10 pp.36-37", (ex) => {
+    build(unit, "x10-grammar", "핵심 Grammar 확인 문제", unit === "u07" ? "X-10 pp.36-37" : "X-10 pp.50-51", (ex) => {
       ex.section("Section A · make+O+C", FILL.directionKo, FILL.ruleKo, "words", FILL.answerModeTag);
       const mk =
         unit === "u07"
@@ -364,7 +411,7 @@ module.exports = function registerNeungU78Bulk(ctx) {
   }
 
   function buildX10Review(unit) {
-    build(unit, "x10-review", "핵심 문장 Review", "X-10 pp.42-43", (ex) => {
+    build(unit, "x10-review", "핵심 문장 Review", unit === "u07" ? "X-10 pp.42-43" : "X-10 pp.56-57", (ex) => {
       ex.section("Section A · T/F", TF.directionKo, TF.ruleKo, "choice", TF.answerModeTag);
       const tf07 = ["F", "T", "F", "F", "F", "T", "F"];
       tf07.forEach((mark, i) => ex.add(tf(i + 1, i + 1 + " Review T/F (답지 p.42 A)", mark, "정답: " + mark)));
@@ -387,9 +434,9 @@ module.exports = function registerNeungU78Bulk(ctx) {
   // —— u07 bulk ——
   buildX10Cloze("u07", "X-10 pp.117-119", data.X10_CLOZE_07);
   buildX10Write("u07", "X-10 pp.120-121", data.X10_WRITE_07);
-  buildReadingBank("u07", "x10-reading-sentence", "Reading 문장 완성하기", "X-10 pp.127-128", data.READ_SENT_07, "Save Earth, Save Us");
-  buildReadingCloze("u07", "X-10 pp.127-128", data.READ_CLOZE_07);
-  readingPack("u07", data.L07_PASSAGE, []);
+  buildReadingBank("u07", "x10-reading-sentence", "Reading 문장 완성하기", "X-10 pp.127-128", data.READ_SENT_07, "Save Earth, Save Us", data.L07_PASSAGE);
+  buildReadingClozeFromPassage("u07", "X-10 pp.127-128", data.L07_PASSAGE, data.READ_CLOZE_07);
+  readingPack("u07", data.L07_PASSAGE, korean.L07_KO);
   buildGrammarCheck("u07");
   buildDialogPractice("u07");
   buildX10Vocab("u07");
@@ -467,8 +514,11 @@ module.exports = function registerNeungU78Bulk(ctx) {
     });
   }
 
-  buildReadingBank("u08", "x10-reading-sentence", "Reading 문장 완성하기", "X-10 L08", data.READ_SENT_07, "Dive into Stories");
-  buildReadingCloze("u08", "X-10 L08", data.READ_CLOZE_07.slice(0, 29));
+  // u08 X-10 reading: the old build copied the u07 pollution passage into this unit.
+  // The real L08 pages are p139-142 and their answer key was never transcribed, so the
+  // two exercises are deferred until the key is read from the 답지. No copy is kept.
+  ctx.defer("u08", "x10-reading-sentence", "Reading 문장 완성하기", "교재 X-10 p.139-140 답지 미확인 — 재작성 필요");
+  ctx.defer("u08", "x10-reading-cloze", "Reading 빈칸 완성하기", "교재 X-10 p.141-142 답지 미확인 — 재작성 필요");
 
   buildKeyedSection("u07", "vocab-advanced", "Vocabulary 심화 문제", "pp.128-129", 18, "mc");
   buildKeyedSection("u07", "grammar-practice", "Grammar 실전 문제", "pp.146-147", 14, "mc");
