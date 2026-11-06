@@ -1,0 +1,372 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.140-141",
+  "questionCount": 13,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ 포장이 많은 품목을 사는 것은 적절하지 않다. (답지 21쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[01-02] 다음 대화를 읽고, 물음에 답하시오.\nA: Our class will take part in a zero waste week. Do you know about “zero waste”?\nB: Yes, I do! But what can we do to reduce waste?\nA: We can do a lot of things. For example, ⓐ ______\nC: ⑥That’s a good idea! I will bring my own bag to the market.\n\n01 위 대화의 빈칸 ⓐ에 들어갈 말로 적절하지 않은 것은?",
+      "choices": [
+        "I won’t buy things I don’t need.",
+        "I will use both sides of paper.",
+        "I will use my own water bottle.",
+        "I will recycle paper, plastic, and glass.",
+        "I will buy products with a lot of packaging."
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ That sounds great! (답지 21쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[01-02] 다음 대화를 읽고, 물음에 답하시오.\nA: Our class will take part in a zero waste week. Do you know about “zero waste”?\nB: Yes, I do! But what can we do to reduce waste?\nA: We can do a lot of things. For example, I will use my own water bottle.\nC: ⑥That’s a good idea! I will bring my own bag to the market.\n\n02 위 대화의 밑줄 친 ⑥와 바꿔 쓸 수 있는 것은?",
+      "choices": [
+        "What a pity!",
+        "Of course not!",
+        "That’s not true!",
+        "I don’t think so!",
+        "That sounds great!"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② air pollution. (답지 21쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nG: Sam, do you know about ⓐ ______ ?\nB: Yes, I do. It’s becoming a serious problem. What can we do about it?\nG: We can do a lot of things. ⓑFor example, we can ride bikes to school. Also, we can walk more often.\nB: Great ideas! We can ⓒ ______ plant trees. Trees clean the air.\nG: Right. Let’s help the environment.\n\n03 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "a forest fire",
+        "air pollution",
+        "a traffic jam",
+        "water pollution",
+        "a lack of energy"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ For instance. (답지 21쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nG: Sam, do you know about ⓐ air pollution?\nB: Yes, I do. It’s becoming a serious problem. What can we do about it?\nG: We can do a lot of things. ⓑFor example, we can ride bikes to school. Also, we can walk more often.\nB: Great ideas! We can ⓒ ______ plant trees. Trees clean the air.\nG: Right. Let’s help the environment.\n\n04 위 대화의 밑줄 친 ⓑ와 바꿔 쓸 수 있는 것은?",
+      "choices": [
+        "In fact",
+        "In addition",
+        "For instance",
+        "For this reason",
+        "In other words"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: also. (답지 21쪽)",
+      "type": "fill",
+      "promptEn": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nG: Sam, do you know about ⓐ air pollution?\nB: Yes, I do. It’s becoming a serious problem. What can we do about it?\nG: We can do a lot of things. ⓑFor example, we can ride bikes to school. Also, we can walk more often.\nB: Great ideas! We can ⓒ ______ plant trees. Trees clean the air.\nG: Right. Let’s help the environment.\n\n05 위 대화의 빈칸 ⓒ에 들어갈 말을 한 단어로 찾아 쓰시오.",
+      "accept": [
+        "also"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② 잘 알지 못하는 사람은 B이다. (답지 21쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[06-07] 다음 대화를 읽고, 물음에 답하시오.\nA: Do you know about the eco club at our school?\nB: No, I don’t. What do the club members do?\nA: They do a lot of things for Earth. For example, they grow plants.\nB: That sounds fun. Let’s join the club together!\nA: Sure. 너는 어떤 활동을 하고 싶니?\nB: I want to pick up waste.\n\n06 위 대화의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "학교에 환경 동아리가 있다.",
+        "A는 환경 동아리에 대해 잘 알지 못한다.",
+        "환경 동아리 회원들은 지구를 위한 일을 한다.",
+        "두 사람 모두 환경 동아리 회원이 될 것이다.",
+        "B는 환경 동아리에서 쓰레기 줍기를 하기 원한다."
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Which activity do you want to do? (답지 21쪽)",
+      "type": "sentence",
+      "promptEn": "[06-07] 다음 대화를 읽고, 물음에 답하시오.\nA: Do you know about the eco club at our school?\nB: No, I don’t. What do the club members do?\nA: They do a lot of things for Earth. For example, they grow plants.\nB: That sounds fun. Let’s join the club together!\nA: Sure. 너는 어떤 활동을 하고 싶니?\nB: I want to pick up waste.\n\n07 위 대화의 밑줄 친 우리말을 조건에 맞게 영작하시오.\n조건 1. activity, want, which, you, to를 모두 이용하고 총 7단어로 쓸 것.\n조건 2. 대소문자 및 구두점에 유의할 것.",
+      "accept": [
+        "Which activity do you want to do?"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ ⓐ them = zero waste shops, ⑥ they = zero waste shops. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[08-10] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, Bora. What are you going to do this weekend?\nG: I’m planning to go to a zero waste shop. Do you know about zero waste shops?\nB: No, I don’t. Please tell me about ⓐthem.\nG: They don’t sell items in containers, so you can reduce waste. Why don’t you come with me?\nB: That sounds great! What can I buy there?\nG: You can buy a lot of items. For example, ⑥they have bags, shampoo, and some snacks.\nB: I see. I’m going to buy shampoo.\nG: ⓒ ______ , then. You can put the shampoo in it.\nB: Okay.\n\n08 위 대화의 밑줄 친 ⓐ와 ⑥가 가리키는 것이 바르게 짝지어진 것은?",
+      "choices": [
+        "Bora and her friend / items",
+        "zero waste shops / containers",
+        "items / zero waste shops",
+        "zero waste shops / zero waste shops",
+        "containers / Bora and her friend"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ You should bring your own container. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[08-10] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, Bora. What are you going to do this weekend?\nG: I’m planning to go to a zero waste shop. Do you know about zero waste shops?\nB: No, I don’t. Please tell me about them.\nG: They don’t sell items in containers, so you can reduce waste. Why don’t you come with me?\nB: That sounds great! What can I buy there?\nG: You can buy a lot of items. For example, they have bags, shampoo, and some snacks.\nB: I see. I’m going to buy shampoo.\nG: ⓒ ______ , then. You can put the shampoo in it.\nB: Okay.\n\n09 위 대화의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "You can buy shampoo cheaply",
+        "You can buy a lot of shampoo",
+        "You should bring your own container",
+        "You should pay in cash to buy shampoo",
+        "You can also buy a bag or some snacks there"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: They will go to the zero waste shop together. (답지 22쪽)",
+      "type": "sentence",
+      "promptEn": "[08-10] 다음 대화를 읽고, 아래 질문에 대한 답을 아홉 단어의 영어 문장으로 쓰시오.\nB: Hi, Bora. What are you going to do this weekend?\nG: I’m planning to go to a zero waste shop.\n\nQ. What are they going to do this weekend?",
+      "accept": [
+        "They will go to the zero waste shop together.",
+        "They are going to go to the zero waste shop together."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: People waste too much water. (답지 22쪽)",
+      "type": "order",
+      "promptEn": "[11-13] 다음 대화를 읽고, 물음에 답하시오.\nB: Look at this poster.\nG: It’s shocking. It looks like someone drank most of Earth’s water.\nB: Yes. ⓐ ______\n\n11 위 대화의 빈칸 ⓐ에 들어갈 말을 괄호 안의 단어들을 순서대로 바르게 배열하여 쓰시오. (대·소문자를 구분하고 구두점에 유의할 것)\n(waste / much / water / people / too)",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "waste"
+        },
+        {
+          "id": "c2",
+          "text": "much"
+        },
+        {
+          "id": "c3",
+          "text": "water"
+        },
+        {
+          "id": "c4",
+          "text": "people"
+        },
+        {
+          "id": "c5",
+          "text": "too"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c1",
+        "c5",
+        "c2",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ 양치할 때 수도꼭지를 트는 것은 물을 절약하는 방법이 아니다. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[11-13] 다음 대화를 읽고, 물음에 답하시오.\nB: Look at this poster.\nG: It’s shocking. It looks like someone drank most of Earth’s water.\nB: Yes. ⓐ People waste too much water. What can we do to save water?\nG: We can do a lot of things. For example, ⓑ ______\nB: That sounds good.\n\n12 위 대화의 빈칸 ⓑ에 들어갈 말로 적절하지 않은 것은?",
+      "choices": [
+        "we can take quick showers",
+        "we don’t play with water for fun",
+        "we can collect rainwater for plants",
+        "we can use leftover water for cleaning",
+        "we can turn on the tap while brushing our teeth"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ saving water and how to reduce water waste. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[11-13] 다음 대화를 읽고, 물음에 답하시오.\nB: Look at this poster.\nG: It’s shocking. It looks like someone drank most of Earth’s water.\nB: Yes. People waste too much water. What can we do to save water?\nG: We can do a lot of things. For example, we can take quick showers.\nB: That sounds good.\n\n13 What is the topic of the conversation above?",
+      "choices": [
+        "making clean water",
+        "how to stop air pollution",
+        "taking part in poster making",
+        "how to prevent water pollution",
+        "saving water and how to reduce water waste"
+      ],
+      "correctIndexes": [
+        null
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 13문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 13
+    }
+  ]
+}
