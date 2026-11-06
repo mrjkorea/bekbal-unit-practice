@@ -1,0 +1,193 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "p.185",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: laugh. explain–explanation처럼 ‘동사 : 명사’ 관계이다. (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "01 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\nexplain : explanation = ______ : laughter",
+      "accept": [
+        "laugh"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "③ wizard(마법사). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\na person in fantasy stories who can do magic",
+      "choices": [
+        "viewer",
+        "neighbor",
+        "wizard",
+        "champion",
+        "scientist"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "④ sound는 ‘~하게 들리다’라는 뜻으로 음식과 어울리지 않는다. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nI often ______ new foods when I travel to foreign countries.",
+      "choices": [
+        "try",
+        "eat",
+        "taste",
+        "sound",
+        "order"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: choose(고르다). (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "04 다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. (서술형)\nto pick one thing from a lot of options\n→ I will c______ a chocolate cake in the store.",
+      "accept": [
+        "choose"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "② make up(화해하다) / taste(맛) / be about to(막 ~하려고 하다). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "05 다음 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• Do not fight. Let’s ⓐ______ up.\n• The pizza has a strange ⓑ______.\n• The dog was ⓒ______ to fall from the tree.",
+      "choices": [
+        "make / mistake / about",
+        "make / taste / about",
+        "take / store / of",
+        "take / mistake / of",
+        "have / taste / in"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "① curious(궁금한). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nI’m ______ about the ending of the novel.",
+      "choices": [
+        "curious",
+        "deep",
+        "close",
+        "fantastic",
+        "magical"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: of (instead of / be proud of). (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "07 다음 우리말에 맞도록 빈칸에 공통으로 들어갈 적절한 말을 쓰시오. (서술형)\n• I drink water instead ______ soda.\n(나는 탄산음료 대신 물을 마신다.)\n• I am proud ______ my parents.\n(나는 나의 부모님이 자랑스럽다.)",
+      "accept": [
+        "of"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 어휘 문제를 읽고 답하시오. 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Vocabulary 실전",
+      "directionKo": "어휘 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "instructionKo": "어휘 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "itemCount": 7
+    }
+  ]
+}

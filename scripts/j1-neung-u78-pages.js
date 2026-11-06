@@ -450,6 +450,104 @@ module.exports = {
     },
   },
   u08: {
+    "vocab-practice": {
+    "title": "Vocabulary 실전 문제",
+    "pages": "p.185",
+    "sections": [
+      {
+        "title": "Section A · Vocabulary 실전",
+        "dir": "어휘 문제를 읽고 답하시오.",
+        "rule": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+        "answerMode": "mixed",
+        "tag": "Vocabulary · 고르기와 쓰기",
+        "items": [
+          {
+            "n": 1,
+            "kind": "fill",
+            "prompt": "01 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\nexplain : explanation = ______ : laughter",
+            "accept": [
+              "laugh"
+            ],
+            "explain": "정답: laugh. explain–explanation처럼 ‘동사 : 명사’ 관계이다. (답지 30쪽)"
+          },
+          {
+            "n": 2,
+            "kind": "mc",
+            "prompt": "02 다음 영영풀이에 해당하는 단어로 가장 적절한 것은?\na person in fantasy stories who can do magic",
+            "choices": [
+              "viewer",
+              "neighbor",
+              "wizard",
+              "champion",
+              "scientist"
+            ],
+            "index": 3,
+            "explain": "③ wizard(마법사). (답지 30쪽)"
+          },
+          {
+            "n": 3,
+            "kind": "mc",
+            "prompt": "03 다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nI often ______ new foods when I travel to foreign countries.",
+            "choices": [
+              "try",
+              "eat",
+              "taste",
+              "sound",
+              "order"
+            ],
+            "index": 4,
+            "explain": "④ sound는 ‘~하게 들리다’라는 뜻으로 음식과 어울리지 않는다. (답지 30쪽)"
+          },
+          {
+            "n": 4,
+            "kind": "fill",
+            "prompt": "04 다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. (서술형)\nto pick one thing from a lot of options\n→ I will c______ a chocolate cake in the store.",
+            "accept": [
+              "choose"
+            ],
+            "explain": "정답: choose(고르다). (답지 30쪽)"
+          },
+          {
+            "n": 5,
+            "kind": "mc",
+            "prompt": "05 다음 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• Do not fight. Let’s ⓐ______ up.\n• The pizza has a strange ⓑ______.\n• The dog was ⓒ______ to fall from the tree.",
+            "choices": [
+              "make / mistake / about",
+              "make / taste / about",
+              "take / store / of",
+              "take / mistake / of",
+              "have / taste / in"
+            ],
+            "index": 2,
+            "explain": "② make up(화해하다) / taste(맛) / be about to(막 ~하려고 하다). (답지 30쪽)"
+          },
+          {
+            "n": 6,
+            "kind": "mc",
+            "prompt": "06 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nI’m ______ about the ending of the novel.",
+            "choices": [
+              "curious",
+              "deep",
+              "close",
+              "fantastic",
+              "magical"
+            ],
+            "index": 1,
+            "explain": "① curious(궁금한). (답지 30쪽)"
+          },
+          {
+            "n": 7,
+            "kind": "fill",
+            "prompt": "07 다음 우리말에 맞도록 빈칸에 공통으로 들어갈 적절한 말을 쓰시오. (서술형)\n• I drink water instead ______ soda.\n(나는 탄산음료 대신 물을 마신다.)\n• I am proud ______ my parents.\n(나는 나의 부모님이 자랑스럽다.)",
+            "accept": [
+              "of"
+            ],
+            "explain": "정답: of (instead of / be proud of). (답지 30쪽)"
+          }
+        ]
+      }
+    ]
+  },
     "dialog-practice": {
     "title": "Dialog 실전 문제",
     "pages": "pp.196-197",
