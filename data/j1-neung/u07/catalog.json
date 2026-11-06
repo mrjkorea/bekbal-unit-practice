@@ -105,8 +105,8 @@
         {
           "id": "writing-finish",
           "title": "서술형 끝내기",
-          "deferred": true,
-          "reason": "교재 pp.168-171 다시 읽고 재작성 필요"
+          "questionCount": 25,
+          "omittedCount": 1
         },
         {
           "id": "mock-100",
