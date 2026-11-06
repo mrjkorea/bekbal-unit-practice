@@ -1,0 +1,374 @@
+{
+  "id": "grammar-practice",
+  "title": "Grammar 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.146-147",
+  "questionCount": 14,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② is. 접속사 that 뒤에 「주어 + 동사」가 온다. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nDo you agree that studying ______ important?",
+      "choices": [
+        "be",
+        "is",
+        "does",
+        "to be",
+        "to do"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "① beautifully → beautiful. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 중 어법상 틀린 것은?\n① Love makes life beautifully.\n② Reading books makes me happy.\n③ We think that it will rain tomorrow.\n④ Music makes studying more enjoyable.\n⑤ The doctor said that you should get some rest.",
+      "choices": [
+        "Love makes life beautifully.",
+        "Reading books makes me happy.",
+        "We think that it will rain tomorrow.",
+        "Music makes studying more enjoyable.",
+        "The doctor said that you should get some rest."
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ 접속사가 아니라 지시대명사 that. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 다음 밑줄 친 부붐의 성격이 나머지와 다른 것은?\n① He said that he was tired.\n② I know that she is a good doctor.\n③ Do you know that he is my cousin?\n④ Do you know that woman over there?\n⑤ I heard that they moved to a new city.",
+      "choices": [
+        "He said that he was tired.",
+        "I know that she is a good doctor.",
+        "Do you know that he is my cousin?",
+        "Do you know that woman over there?",
+        "I heard that they moved to a new city."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: made / easy. (답지 22쪽)",
+      "type": "fill",
+      "promptEn": "04 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\n신생님은 시험을 쉽게 만들었다.\n→ The teacher ______ the test ______ .",
+      "accept": [
+        "made",
+        "easy"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: I feel that this movie is boring. (답지 22쪽)",
+      "type": "sentence",
+      "promptEn": "05 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하여 영작하시오. (서술형)\n나는 이 영화가 지루하다고 느껴.\n(this / that / I / feel / movie / boring / is)",
+      "accept": [
+        "I feel that this movie is boring."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ 3개. ⓓ만 틀렸다(deliciously → delicious). (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 다음 어법상 올바른 문장의 개수는?\nⓐ He said the story was true.\nⓑ She made the baby happy.\nⓒ He forgot today was her birthday.\nⓓ Cooking together makes the meal deliciously.\n① 0개\n② 1개\n③ 2개\n④ 3개\n⑤ 4개",
+      "choices": [
+        "0개",
+        "1개",
+        "2개",
+        "3개",
+        "4개"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ happily는 부사. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nExperience makes you ______ .\n① smart\n② strong\n③ brave\n④ great\n⑤ happily",
+      "choices": [
+        "smart",
+        "strong",
+        "brave",
+        "great",
+        "happily"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 22쪽)",
+      "type": "fill",
+      "promptEn": "08 다음 빈칸 ⓐ~ⓒ에 공통으로 들어갈 말을 한 단어로 쓰시오. (서술형)\n• I felt ⓐ ______ something is wrong.\n• Please do not touch ⓑ ______ button.\n• I said I didn’t like her, but ⓒ ______ isn’t true.",
+      "accept": [
+        "that"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ that. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[09-10] 다음 대화의 빈칸에 들어갈 적절한 것을 고르시오.\n09 A: Do you know ______ tomorrow is Parents’ Day?\nB: Yes, I do. I will try to make them happy.\n① when\n② this\n③ where\n④ that\n⑤ which",
+      "choices": [
+        "when",
+        "this",
+        "where",
+        "that",
+        "which"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② excited. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[09-10] 다음 대화의 빈칸에 들어갈 적절한 것을 고르시오.\n10 A: The movie made the kids ______ .\nB: Yes, they liked the action scenes!\n① excite\n② excited\n③ exciting\n④ excitedly\n⑤ to be exciting",
+      "choices": [
+        "excite",
+        "excited",
+        "exciting",
+        "excitedly",
+        "to be exciting"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ ⓑ, ⓓ, ⓕ. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\nⓐ The book makes learning easily.\nⓑ Sunshine makes the day bright.\nⓒ Snacks don’t make us health.\nⓓ He doesn’t promise that he will help us.\nⓔ Do you believe him is telling the truth?\nⓕ The teacher said that the test would be hard.\n① ⓐ, ⓑ, ⓓ\n② ⓐ, ⓓ, ⓕ\n③ ⓑ, ⓓ, ⓕ\n④ ⓒ, ⓓ, ⓔ\n⑤ ⓓ, ⓔ, ⓕ",
+      "choices": [
+        "ⓐ, ⓑ, ⓓ",
+        "ⓐ, ⓓ, ⓕ",
+        "ⓑ, ⓓ, ⓕ",
+        "ⓒ, ⓓ, ⓔ",
+        "ⓓ, ⓔ, ⓕ"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ her / he / she. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• The news made ⓐ ______ nervous.\n• He forgot ⓑ ______ met her before.\n• Do you think ⓒ ______ will come to the party?\n① he / me / them\n② me / him / he\n③ her / he / she\n④ they / she / me\n⑤ their / her / his",
+      "choices": [
+        "he / me / them",
+        "me / him / he",
+        "her / he / she",
+        "they / she / me",
+        "their / her / his"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② are → is. (답지 22쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 다음 중 어법상 틀린 것은?\n① I know that he is a good singer.\n② That we are friends are nice.\n③ My parents made my life happy.\n④ That he studies every day is true.\n⑤ Cold weather makes my hands dry.",
+      "choices": [
+        "I know that he is a good singer.",
+        "That we are friends are nice.",
+        "My parents made my life happy.",
+        "That he studies every day is true.",
+        "Cold weather makes my hands dry."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: This funny movie made me so happy. (답지 22쪽)",
+      "type": "sentence",
+      "promptEn": "14 다음 [조건]에 맞게 우리말을 바르게 영작하시오. (서술형)\n조건 1. funny와 so를 포함하고, 과거 시제로 쓸 것.\n조건 2. 총 7단어로 쓸 것.\n조건 3. 대·소문자 및 구두점에 유의할 것.\n\n이 재미있는 영화가 나를 정말 행복하게 만들었다.",
+      "accept": [
+        "This funny movie made me so happy."
+      ],
+      "seconds": 110
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 14문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 14
+    }
+  ]
+}

@@ -59,14 +59,13 @@
         {
           "id": "grammar-practice",
           "title": "Grammar 실전 문제",
-          "deferred": true,
-          "reason": "교재 pp.146-147 다시 읽고 재작성 필요"
+          "questionCount": 14
         },
         {
           "id": "grammar-advanced",
           "title": "Grammar 심화 문제",
-          "deferred": true,
-          "reason": "교재 pp.148-149 다시 읽고 재작성 필요"
+          "questionCount": 14,
+          "omittedCount": 1
         },
         {
           "id": "reading-content",
