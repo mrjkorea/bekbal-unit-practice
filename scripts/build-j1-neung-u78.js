@@ -516,7 +516,9 @@ function catalog(unit) {
 }
 
 const problems = [];
-for (const unit of ["u07", "u08"]) {
+// UNIT_ONLY lets one agent rebuild one unit without touching the other unit's files.
+const UNITS = process.env.UNIT_ONLY ? [process.env.UNIT_ONLY] : ["u07", "u08"];
+for (const unit of UNITS) {
   const dir = path.join(ROOT, "data/j1-neung", unit, "exercises");
   fs.mkdirSync(dir, { recursive: true });
   for (const id of Object.keys(DEFERRED[unit])) {
