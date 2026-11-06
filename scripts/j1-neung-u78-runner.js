@@ -91,4 +91,11 @@ module.exports = function run(ctx) {
   });
 
   require("./j1-neung-u78-bulk.js")(ctx);
+
+  // Packs typed from the printed page win over the bulk builder (same ids).
+  const pages = require("./j1-neung-u78-pages.js");
+  ["u07", "u08"].forEach((unit) => {
+    const pack = pages[unit] || {};
+    Object.keys(pack).forEach((id) => applyPack(unit, Object.assign({ id }, pack[id])));
+  });
 };

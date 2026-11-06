@@ -397,6 +397,7 @@ function build(unit, id, title, pages, fn) {
     return;
   }
   json.questions = kept;
+  delete DEFERRED[unit][id];
   json.questionCount = kept.length;
   json.sections = json.sections
     .map((sec) => Object.assign({}, sec, { itemCount: kept.filter((q) => q.section === sec.id).length }))

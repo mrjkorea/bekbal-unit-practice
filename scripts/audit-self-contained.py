@@ -26,7 +26,7 @@ CIRC = "①②③④⑤⑥⑦⑧⑨⑩"
 LET = "ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙ"
 BARE_CIRC = re.compile(rf"^[{CIRC}]$")
 # A mark a student can actually see: a letter tag, an underline tag, an (A) blank, or _word_.
-MARKED = re.compile("[" + LET + r"]|<u>|\(A\)|\(a\)|\(밑줄|_[A-Za-z가-힣][^_]{0,40}_")
+MARKED = re.compile("[" + LET + r"]|<u>|\(A\)|\(a\)|\(밑줄|_[A-Za-z가-힣][^_]{0,40}_|「[^」]{1,120}」")
 WORD = re.compile(r"[A-Za-z가-힣']+")
 PIC = re.compile(r"그림|\bpicture\b|look at the (?:picture|drawing|figure)", re.I)
 SCENE = re.compile(r"그림\s*[:：]|\[그림\s*[:：]|(?:Picture|Scene|Figure)\s*[:：]|\bshows\b", re.I)

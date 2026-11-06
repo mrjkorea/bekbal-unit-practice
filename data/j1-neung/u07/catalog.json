@@ -22,8 +22,8 @@
         {
           "id": "vocab-advanced",
           "title": "Vocabulary 심화 문제",
-          "deferred": true,
-          "reason": "교재 pp.128-129 다시 읽고 재작성 필요"
+          "questionCount": 16,
+          "omittedCount": 3
         },
         {
           "id": "dialog-detail",
@@ -43,8 +43,7 @@
         {
           "id": "dialog-practice",
           "title": "Dialog 실전 문제",
-          "deferred": true,
-          "reason": "교재 pp.138-139 다시 읽고 재작성 필요"
+          "questionCount": 14
         },
         {
           "id": "dialog-advanced",
