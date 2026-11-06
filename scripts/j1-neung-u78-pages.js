@@ -449,5 +449,213 @@ module.exports = {
       ],
     },
   },
-  u08: {},
+  u08: {
+    "dialog-practice": {
+    "title": "Dialog 실전 문제",
+    "pages": "pp.196-197",
+    "sections": [
+      {
+        "title": "Section A · Dialog 실전",
+        "dir": "대화를 읽고 물음에 답하시오.",
+        "rule": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+        "answerMode": "mixed",
+        "tag": "Read · 고르기와 쓰기",
+        "items": [
+          {
+            "n": 1,
+            "kind": "mc",
+            "prompt": "01 위 대화의 밑줄 친 ⓐ가 의미하는 것은?\nB: Excuse me. I’d like to check out this book.\nW: Sure. Can you show your library card to me, please?\nB: ⓐHere you go.\nW: Thank you. Please return the book by next week.\nB: Okay. Thank you.",
+            "choices": [
+              "여기 있습니다.",
+              "지금 도착합니다.",
+              "다음 주에 올게요.",
+              "책을 다 읽었습니다.",
+              "여기서 나가 주세요."
+            ],
+            "index": 1,
+            "explain": "① ‘Here you go.’는 물건을 건네며 하는 말이다. (답지 31쪽)"
+          },
+          {
+            "n": 2,
+            "kind": "mc",
+            "prompt": "02 위 대화를 읽고, 답할 수 없는 질문은?\nB: Excuse me. I’d like to check out this book.\nW: Sure. Can you show your library card to me, please?\nB: ⓐHere you go.\nW: Thank you. Please return the book by next week.\nB: Okay. Thank you.",
+            "choices": [
+              "여자의 직업은 무엇인가?",
+              "소년은 책을 몇 권 빌리려고 하는가?",
+              "소년은 도서관에 얼마나 자주 오는가?",
+              "소년은 언제까지 책을 반납해야 하는가?",
+              "여자는 소년에게 무엇을 보여 달라고 하는가?"
+            ],
+            "index": 3,
+            "explain": "③ 소년이 도서관에 얼마나 자주 오는지는 대화에 없다. (답지 31쪽)"
+          },
+          {
+            "n": 3,
+            "kind": "mc",
+            "prompt": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nB: Sofia, what are you reading?\nG: I’m reading The Hobbit.\nB: Can you tell me about it?\nG: It’s a ⓐ______ novel. It is about adventures in a magical world.\nB: It sounds interesting. ⓑ나는 그 이야기가 궁금해.\nG: ⓒ______ You’ll like it.\nB: Okay. I’ll try reading it.\n\n03 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+            "choices": [
+              "real",
+              "short",
+              "fantasy",
+              "boring",
+              "easy"
+            ],
+            "index": 3,
+            "explain": "③ fantasy. 마법의 세계에서의 모험을 다루는 소설이므로 fantasy novel이 적절하다. (답지 31쪽)"
+          },
+          {
+            "n": 4,
+            "kind": "sentence",
+            "prompt": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nB: Sofia, what are you reading?\nG: I’m reading The Hobbit.\nB: Can you tell me about it?\nG: It’s a ⓐ______ novel. It is about adventures in a magical world.\nB: It sounds interesting. ⓑ나는 그 이야기가 궁금해.\nG: ⓒ______ You’ll like it.\nB: Okay. I’ll try reading it.\n\n04 위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 바르게 배열하여 영작하시오. (서술형)\n나는 그 이야기가 궁금해. (story / curious / I'm / the / about / .)",
+            "accept": [
+              "I'm curious about the story.",
+              "I am curious about the story."
+            ],
+            "explain": "정답: I’m curious about the story. (답지 31쪽)"
+          },
+          {
+            "n": 5,
+            "kind": "mc",
+            "prompt": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nB: Sofia, what are you reading?\nG: I’m reading The Hobbit.\nB: Can you tell me about it?\nG: It’s a ⓐ______ novel. It is about adventures in a magical world.\nB: It sounds interesting. ⓑ나는 그 이야기가 궁금해.\nG: ⓒ______ You’ll like it.\nB: Okay. I’ll try reading it.\n\n05 위 대화의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
+            "choices": [
+              "It’s too long.",
+              "I don’t want it.",
+              "I don’t think so.",
+              "I will tell you later.",
+              "Why don’t you borrow it?"
+            ],
+            "index": 1,
+            "explain": "① ‘권유’에 대한 대답으로 책을 빌려 보라는 말에 ‘It’s too long.’이라 답한 흐름이다. (답지 31쪽)"
+          },
+          {
+            "n": 6,
+            "kind": "mc",
+            "prompt": "[06-08] 다음 대화를 읽고, 물음에 답하시오.\nA: What are you reading?\nB: I’m reading the book Eragon.\nA: Can you tell me ⓐ______ it?\nB: It’s a fantasy novel. The story is ⓑ______ dragons.\nA: It sounds interesting. ⓒ______\n\n06 위 대화의 빈칸 ⓐ와 ⓑ에 공통으로 들어갈 말로 가장 적절한 것은?",
+            "choices": [
+              "of",
+              "to",
+              "into",
+              "about",
+              "back"
+            ],
+            "index": 4,
+            "explain": "④ tell me about it / is about dragons. (답지 31쪽)"
+          },
+          {
+            "n": 7,
+            "kind": "mc",
+            "prompt": "[06-08] 다음 대화를 읽고, 물음에 답하시오.\nA: What are you reading?\nB: I’m reading the book Eragon.\nA: Can you tell me ⓐ______ it?\nB: It’s a fantasy novel. The story is ⓑ______ dragons.\nA: It sounds interesting. ⓒ______\n\n07 위 대화의 빈칸 ⓒ에 들어갈 말로 적절하지 않은 것은?",
+            "choices": [
+              "I wonder about it.",
+              "I’m curious about it.",
+              "Do you want to draw a dragon?",
+              "I want to know more about it.",
+              "Can you tell me more about it?"
+            ],
+            "index": 3,
+            "explain": "③ 대화의 흐름과 관계없다. (답지 31쪽)"
+          },
+          {
+            "n": 8,
+            "kind": "mc",
+            "prompt": "[06-08] 다음 대화를 읽고, 물음에 답하시오.\nA: What are you reading?\nB: I’m reading the book Eragon.\nA: Can you tell me ⓐ______ it?\nB: It’s a fantasy novel. The story is ⓑ______ dragons.\nA: It sounds interesting. ⓒ______\n\n08 위 대화에서 A는 B가 읽고 있는 책에 대해 어떻게 생각하는가?",
+            "choices": [
+              "흥미롭다",
+              "지루하다",
+              "어렵다",
+              "쉽다",
+              "이미 읽었다"
+            ],
+            "index": 1,
+            "explain": "① ‘It sounds interesting.’ (답지 31쪽)"
+          },
+          {
+            "n": 9,
+            "kind": "sentence",
+            "prompt": "[09-12] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ⓐ저를 도와주실 수 있나요?\nM: Sure. What kind of book are you looking ⓑ______?\nG: Well, I want to read about animals.\nM: Okay. Books about animals are on this shelf. What kind of animals are you interested ⓒ______?\nG: I’m curious about sea life.\nM: Then what ⓓ______ this book, The Blue Planet? It’s ⓔ______ animals in the deep sea.\nG: That sounds perfect. Thank you.\nM: You’re welcome.\n\n09 위 대화의 밑줄 친 ⓐ의 우리말을 [조건]에 맞게 바르게 영작하시오. (서술형)\n[조건] 1. 조동사 can을 이용할 것. 2. 총 4단어로 쓸 것.",
+            "accept": [
+              "Can you help me?"
+            ],
+            "explain": "정답: Can you help me? (답지 31쪽)"
+          },
+          {
+            "n": 10,
+            "kind": "fill",
+            "prompt": "[09-12] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ⓐ저를 도와주실 수 있나요?\nM: Sure. What kind of book are you looking ⓑ______?\nG: Well, I want to read about animals.\nM: Okay. Books about animals are on this shelf. What kind of animals are you interested ⓒ______?\nG: I’m curious about sea life.\nM: Then what ⓓ______ this book, The Blue Planet? It’s ⓔ______ animals in the deep sea.\nG: That sounds perfect. Thank you.\nM: You’re welcome.\n\n10 위 대화의 빈칸 ⓑ와 ⓒ에 들어갈 말로 적절한 것을 각각 쓰시오. (서술형)\nⓑ → ______\nⓒ → ______",
+            "accept": [
+              "for"
+            ],
+            "accept2": [
+              "about"
+            ],
+            "phrase": true,
+            "explain": "정답: ⓑ for, ⓒ about. (답지 31쪽)"
+          },
+          {
+            "n": 11,
+            "kind": "mc",
+            "prompt": "[09-12] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ⓐ저를 도와주실 수 있나요?\nM: Sure. What kind of book are you looking ⓑ______?\nG: Well, I want to read about animals.\nM: Okay. Books about animals are on this shelf. What kind of animals are you interested ⓒ______?\nG: I’m curious about sea life.\nM: Then what ⓓ______ this book, The Blue Planet? It’s ⓔ______ animals in the deep sea.\nG: That sounds perfect. Thank you.\nM: You’re welcome.\n\n11 위 대화에서 남자가 추천한 책의 내용으로 가장 적절한 것은?",
+            "choices": [
+              "하늘을 나는 동물",
+              "귀여운 아기 동물",
+              "심해에 사는 동물",
+              "멸종 위기에 처한 동물",
+              "정글에 사는 동물"
+            ],
+            "index": 3,
+            "explain": "③ ‘animals in the deep sea’ (답지 31쪽)"
+          },
+          {
+            "n": 12,
+            "kind": "fill",
+            "prompt": "[09-12] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ⓐ저를 도와주실 수 있나요?\nM: Sure. What kind of book are you looking ⓑ______?\nG: Well, I want to read about animals.\nM: Okay. Books about animals are on this shelf. What kind of animals are you interested ⓒ______?\nG: I’m curious about sea life.\nM: Then what ⓓ______ this book, The Blue Planet? It’s ⓔ______ animals in the deep sea.\nG: That sounds perfect. Thank you.\nM: You’re welcome.\n\n12 위 대화의 빈칸 ⓓ와 ⓔ에 공통으로 들어갈 한 단어를 쓰시오. (서술형)\n→ ______",
+            "accept": [
+              "about"
+            ],
+            "phrase": true,
+            "explain": "정답: about (what about / is about). (답지 31쪽)"
+          },
+          {
+            "n": 13,
+            "kind": "mc",
+            "prompt": "[13-15] 다음 대화를 읽고, 물음에 답하시오.\nA: ⓐ______\nB: I chose Inside Out.\nA: Can you explain the lesson of the story to me?\nB: Sure. The lesson is that emotions aren’t good or bad.\nA: Do you like the lesson? I’m curious about your opinion.\nB: Yes, I like it. ⓑ저는 모든 감정이 중요하다는 것을 배웠어요.\n\n13 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+            "choices": [
+              "Do you like Inside Out?",
+              "Are emotions good or bad?",
+              "Which story did you choose?",
+              "What is the lesson of the story?",
+              "Can you explain the story to me?"
+            ],
+            "index": 3,
+            "explain": "③ ‘I chose Inside Out.’라는 대답에 맞는 질문이다. (답지 31쪽)"
+          },
+          {
+            "n": 14,
+            "kind": "mc",
+            "prompt": "[13-15] 다음 대화를 읽고, 물음에 답하시오.\nA: ⓐ______\nB: I chose Inside Out.\nA: Can you explain the lesson of the story to me?\nB: Sure. The lesson is that emotions aren’t good or bad.\nA: Do you like the lesson? I’m curious about your opinion.\nB: Yes, I like it. ⓑ저는 모든 감정이 중요하다는 것을 배웠어요.\n\n14 위 대화에서 A는 B에게 Inside Out의 무엇에 대해 설명 달라고 요청했는가?",
+            "choices": [
+              "characters",
+              "topic",
+              "setting",
+              "lesson",
+              "summary"
+            ],
+            "index": 4,
+            "explain": "④ ‘Can you explain the lesson of the story to me?’ (답지 31쪽)"
+          },
+          {
+            "n": 15,
+            "kind": "sentence",
+            "prompt": "[13-15] 다음 대화를 읽고, 물음에 답하시오.\nA: ⓐ______\nB: I chose Inside Out.\nA: Can you explain the lesson of the story to me?\nB: Sure. The lesson is that emotions aren’t good or bad.\nA: Do you like the lesson? I’m curious about your opinion.\nB: Yes, I like it. ⓑ저는 모든 감정이 중요하다는 것을 배웠어요.\n\n15 위 대화의 밑줄 친 ⓑ의 우리말에 맞도록 [조건]에 맞게 영작하시오. (서술형)\n저는 모든 감정이 중요하다는 것을 배웠어요.\n[조건] 1. emotion, important, learn, that을 이용할 것. 2. 필요시 어형을 바꿀 것. 3. 총 7단어로 쓸 것.",
+            "accept": [
+              "I learned that all emotions are important.",
+              "I learnt that all emotions are important."
+            ],
+            "explain": "정답: I learned that all emotions are important. (답지 31쪽)"
+          }
+        ]
+      }
+    ]
+  }
+  },
 };
