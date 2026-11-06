@@ -111,8 +111,8 @@
         {
           "id": "mock-100",
           "title": "100발 100중 모의고사",
-          "deferred": true,
-          "reason": "교재 pp.172-175 다시 읽고 재작성 필요"
+          "questionCount": 24,
+          "omittedCount": 1
         },
         {
           "id": "mock-high",

@@ -1,0 +1,634 @@
+{
+  "id": "mock-100",
+  "title": "100발 100중 모의고사",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "pp.172-175",
+  "questionCount": 24,
+  "omitted": [
+    {
+      "sourceId": "13",
+      "reason": "교재 p.174 13번 지시문이 잘려 ‘몇 번째 말’인지 확정할 수 없음 — 다음 확인 때 채움"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ luckily의 뜻은 ‘운 좋게’. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 다음 영영풀이가 적절하지 않은 것은?\n① join: to become a member of\n② quick: moving or acting with speed; fast\n③ save: not to use too much of something\n④ luckily: fully or totally, with nothing missing\n⑤ grow: to take care of something so it gets bigger or develops",
+      "choices": [
+        "join: to become a member of",
+        "quick: moving or acting with speed; fast",
+        "save: not to use too much of something",
+        "luckily: fully or totally, with nothing missing",
+        "grow: to take care of something so it gets bigger or develops"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: at, time. (답지 27쪽)",
+      "type": "fill",
+      "promptEn": "02 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\n한 번에 많은 질문을 하지 마세요.\n→ Don’t ask too many questions ______ ______ .\n첫 빈칸부터 차례대로 쓰고, 쉼표로 구분하시오.",
+      "accept": [
+        "at, time"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ turn out → turn off. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 Which of the underlined parts is NOT correct?\n① Please put the trash in the bin.\n② I have my own room in the house.\n③ The receipt says I paid $20 for the ticket.\n④ Always turn out the lights in an empty room.\n⑤ I put the cookies in a container to keep them fresh.",
+      "choices": [
+        "Please put the trash in the bin.",
+        "I have my own room in the house.",
+        "The receipt says I paid $20 for the ticket.",
+        "Always turn out the lights in an empty room.",
+        "I put the cookies in a container to keep them fresh."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ 장소를 묻는데 영업시간을 답했다. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 다음 짝지어진 대화가 어색한 것은?\n① A: Do you know about this book? B: Yes, I do! It’s a bestseller.\n② A: Do you know about the history of this place? B: A little. It was built over 100 years ago!\n③ A: Do you know about any fun places to visit? B: It closes at 8 p.m. on weekdays.\n④ A: What sports do you like? B: I like sports very much. For example, I enjoy outdoor sports like soccer and baseball.\n⑤ A: What kind of fruit do you like? B: I like tropical fruits. For example, I enjoy mangoes and pineapples.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ 물을 많이 쓰는 것은 환경 동아리 활동이 아니다. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\nA: Do you know about the eco club at our school?\nB: No, I don’t. What do the club members do?\nA: They do a lot of things for Earth. For example, ⓐ ______ .\nB: ⓑThat sounds fun. Let’s join the club together!\n\n05 위 대화의 빈칸 ⓐ에 들어갈 말로 적절하지 않은 것은?",
+      "choices": [
+        "they grow plant",
+        "they pick up waste",
+        "they recycle to reduce waste",
+        "they use a lot of water when they shower",
+        "they create new items from their old clothes"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "① (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\nB: ⓑThat sounds fun. Let’s join the club together!\n\n06 위 대화의 밑줄 친 ⓑ와 바꿔 쓸 수 없는 것은?",
+      "choices": [
+        "I said it as a joke.",
+        "That must be a lot of fun.",
+        "That seems really enjoyable.",
+        "That sounds like a great idea.",
+        "That sounds like a wonderful activity."
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "② (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, Bora. What are you going to do this weekend? (①)\nG: I’m planning to go to a zero waste shop. Do you know about zero waste shops?\nB: No, I don’t. (②)\nG: They don’t sell items in containers, so you can reduce waste. (③) Why don’t you come with me?\nB: That sounds great! What can I buy there?\nG: You can buy a lot of items. For example, they have bags, shampoo, and some snacks. (④)\nB: I see. I’m going to buy shampoo. (⑤)\nG: You should (A) ______ your own container, then. You can (B) ______ the shampoo in it.\n\n07 위 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nPlease tell me about them.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: bring, put. (답지 27쪽)",
+      "type": "fill",
+      "promptEn": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nG: You should (A) ______ your own container, then. You can (B) ______ the shampoo in it.\n\n08 위 대화의 빈칸 (A)와 (B)에 들어갈 가장 적절한 말을 주어진 철자로 시작하시오. (서술형)\n(A) → b________\n(B) → p________\n첫 빈칸부터 차례대로 쓰고, 쉼표로 구분하시오.",
+      "accept": [
+        "bring, put"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ pleasant. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "09 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nThe warm sunshine makes the day ______ .",
+      "choices": [
+        "pressure",
+        "pleasure",
+        "pleasant",
+        "pleasantly",
+        "please"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ that은 지시대명사. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 다음 중 밑줄 친 that의 쓰임이 다른 하나는?\n① He won’t think that he was wrong.\n② She doesn’t believe that he is honest.\n③ Can you explain that in a simpler way?\n④ She understands that studying is important.\n⑤ The news reported that the storm was coming.",
+      "choices": [
+        "He won’t think that he was wrong.",
+        "She doesn’t believe that he is honest.",
+        "Can you explain that in a simpler way?",
+        "She understands that studying is important.",
+        "The news reported that the storm was coming."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ ⓐ, ⓓ. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\nⓐ The joke made everyone happy.\nⓑ She is worried that her might be late.\nⓒ The difficult question made he tired.\nⓓ Did they say that the concert was canceled?\n① ⓐ, ⓒ\n② ⓑ, ⓓ\n③ ⓐ, ⓓ\n④ ⓑ, ⓒ\n⑤ ⓑ, ⓒ, ⓓ",
+      "choices": [
+        "ⓐ, ⓒ",
+        "ⓑ, ⓓ",
+        "ⓐ, ⓓ",
+        "ⓑ, ⓒ",
+        "ⓑ, ⓒ, ⓓ"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ her / healthy / he. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 연결된 것은?\n• His kind words made ⓐ ______ happy.\n• Does regular exercise make the body ⓑ ______ ?\n• He is sure that ⓒ ______ left his keys on the table.\n① she / health / he\n② she / healthy / his\n③ she / healthily / him\n④ her / healthily / him\n⑤ her / healthy / he",
+      "choices": [
+        "she / health / he",
+        "she / healthy / his",
+        "she / healthily / him",
+        "her / healthily / him",
+        "her / healthy / he"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ to do his homework — 목적의 부사적 용법. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-15] 다음 글을 읽고, 물음에 답하시오.\nPollution is a big problem. Luckily, three superheroes are working ⓐto protect the environment. ⓑ그들은 세상을 깨끗하게 만들고 싶어 합니다. Will you join them?\n\n14 윗글의 밑줄 친 ⓐ와 어법상 쓰임이 같은 것은?",
+      "choices": [
+        "I want to visit New York someday.",
+        "He and his brother love to play soccer.",
+        "To study a foreign language is interesting.",
+        "He visited the library to do his homework.",
+        "Her dream is to become an English teacher."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "14",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "③ They want to make the world clean. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-15] 다음 글을 읽고, 물음에 답하시오.\nPollution is a big problem. Luckily, three superheroes are working to protect the environment. ⓑ그들은 세상을 깨끗하게 만들고 싶어 합니다. Will you join them?\n\n15 윗글의 밑줄 친 ⓑ의 우리말을 바르게 영작한 것은?",
+      "choices": [
+        "They want make the world clean.",
+        "They want making the world clean.",
+        "They want to make the world clean.",
+        "They want to make the world cleanly.",
+        "They want to making the world cleanly."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "15",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: to. (답지 27쪽)",
+      "type": "fill",
+      "promptEn": "[16-18] 다음 글을 읽고, 물음에 답하시오.\nHi! I’m Recycle Wizard.\nPeople waste too many resources. But recycling can save them. For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water. ⓐ여러분은 재활용에 있어서 마법사가 되고 싶나요? Then you should recycle properly! ⓑ ______ plastic, paper, food waste, and glass in the correct bins. ⓒ ______ at the waste below. ⓓ ______ a line from each piece of waste to the right bin. Good job!\n\n16 윗글의 밑줄 친 ⓐ의 우리말을 괄호 안의 단어들을 순서대로 바르게 배열하여 영작할 때 네 번째로 오는 말을 쓰시오.\n(want / at / recycling / do / be / a / you / to / wizard)",
+      "accept": [
+        "to"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "16",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ Put / Look / Draw. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-18] 다음 글을 읽고, 물음에 답하시오.\nHi! I’m Recycle Wizard.\nⓑ ______ plastic, paper, food waste, and glass in the correct bins.\nⓒ ______ at the waste below.\nⓓ ______ a line from each piece of waste to the right bin. Good job!\n\n17 윗글의 빈칸 ⓑ~ⓓ에 들어갈 말이 바르게 연결된 것은?",
+      "choices": [
+        "Put / Throw / Draw",
+        "Recycle / Look / Color",
+        "Put / Look / Color",
+        "Recycle / Throw / Write",
+        "Put / Look / Draw"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "17",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-18] 다음 글을 읽고, 물음에 답하시오.\nPeople waste too many resources. But recycling can save them. For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.\n\n18 According to the passage, which one is NOT true?",
+      "choices": [
+        "People waste a lot of resources.",
+        "We need to recycle to save resources.",
+        "Recycling paper can save trees and water.",
+        "Recycling doesn’t have to be perfect.",
+        "We need to put plastic in the right bin for plastic."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "18",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ waste는 명사. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오.\nI’m Fashion Clever.\nPeople throw away clothes too often. They become ⓐwaste and hurt the environment. Did you know that some clothes take over 200 years to break down? Don’t buy too many clothes. Wear your clothes for a long time. You can also create new items from your old clothes! Let’s make old clothes useful.\nⓑ이제 여러분도 패션에 영리해질 수 있어요!\n\n19 윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?",
+      "choices": [
+        "We must not waste natural resources.",
+        "Don’t waste your chance to speak up.",
+        "We shouldn’t waste food at the party.",
+        "I don’t want to waste any more paper.",
+        "We saw a lot of waste after the event."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "19",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Now you can be clever at fashion too! (답지 27쪽)",
+      "type": "sentence",
+      "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오.\nI’m Fashion Clever.\nⓑ이제 여러분도 패션에 영리해질 수 있어요!\n\n20 윗글의 밑줄 친 우리말 ⓑ에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하여 문장을 완성하시오.\nNow ______ !\n(be / at / too / clever / fashion / you / can)",
+      "accept": [
+        "Now you can be clever at fashion too!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "20",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오.\nI’m Fashion Clever. People throw away clothes too often. They become waste and hurt the environment. Did you know that some clothes take over 200 years to break down?\n\n21 According to the passage, which one is NOT true?",
+      "choices": [
+        "People buy too many clothes and throw them away too often.",
+        "Throwing away clothes can harm the environment.",
+        "Some clothes take a very long time to disappear.",
+        "We shouldn’t buy too many clothes.",
+        "We should buy something other than clothes."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "21",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ sadly → sad. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[22-23] 다음 글을 읽고, 물음에 답하시오.\nHi! I’m Water Saver!\nWater ⓐis very important. We can’t live without ⓑit. But people waste ⓒa lot of water. It makes me ⓓsadly. How can we save water? Take quick showers. Turn off the water ⓔwhile you brush your teeth. Also, make sure (A) ______ you turn off the tap completely.\n\n22 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "choices": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "22",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: that. (답지 27쪽)",
+      "type": "fill",
+      "promptEn": "[22-23] 다음 글을 읽고, 물음에 답하시오.\nAlso, make sure (A) ______ you turn off the tap completely.\n\n23 윗글의 빈칸 (A)에 들어갈 적절한 말을 쓰시오. (서술형)",
+      "accept": [
+        "that"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "23",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Do you know that food waste is a big problem? (답지 27쪽)",
+      "type": "sentence",
+      "promptEn": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n(A)여러분은 음식 쓰레기가 큰 문제라는 것을 알고 있나요? This is ⓑbecause people buy a lot of food and don’t eat it ⓒall. I think that we should do something about this.\n\n24 윗글의 밑줄 친 (A)의 우리말을 [조건]에 맞게 영작하시오. (서술형)\n조건 1. 접속사 that을 이용할 것.\n조건 2. 총 10단어로 쓸 것.\n조건 3. 대·소문자 및 구두점에 유의할 것.",
+      "accept": [
+        "Do you know that food waste is a big problem?"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "24",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "⑤ any → one. (답지 27쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n(A)여러분은 음식 쓰레기가 큰 문제라는 것을 알고 있나요? This is ⓑbecause people buy a lot of food and don’t eat it ⓒall. I think that we should do something about it. First, we should ⓓshare food with others. Second, we should not buy too much food at ⓔany time. We can make a big difference together. Let’s make Earth ⓕbetter!\n\n25 윗글의 밑줄 친 ⓐ~ⓕ 중 문맥상 단어의 쓰임이 적절하지 않은 것은?",
+      "choices": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 24문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 모의고사",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 24
+    }
+  ]
+}
