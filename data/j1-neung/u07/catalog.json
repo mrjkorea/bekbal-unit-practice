@@ -90,8 +90,7 @@
         {
           "id": "reading-practice",
           "title": "Reading 실전 문제",
-          "deferred": true,
-          "reason": "교재 pp.158-161 다시 읽고 재작성 필요"
+          "questionCount": 25
         },
         {
           "id": "reading-advanced",
