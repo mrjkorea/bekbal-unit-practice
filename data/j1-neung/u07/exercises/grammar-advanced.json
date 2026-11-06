@@ -4,13 +4,8 @@
   "book": "중1 능률 김기택",
   "unit": "Lesson 07 Save Earth, Save Us",
   "sourcePages": "pp.148-149",
-  "questionCount": 14,
-  "omitted": [
-    {
-      "sourceId": "06",
-      "reason": "답지 23쪽 06번 정답 번호를 확정하지 못함 — 다음 확인 때 채움"
-    }
-  ],
+  "questionCount": 15,
+  "omitted": [],
   "questions": [
     {
       "id": "1",
@@ -141,6 +136,33 @@
     },
     {
       "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "④ 어순이 틀렸다. Did you check that he sent the email? (답지 23쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-06] 다음 중 어법상 틀린 문장을 고르시오.\n06\n① I don’t think that we’re late.\n② The cold wind made my face red.\n③ The sunshine makes the garden warm.\n④ Did you check that sent he the email?\n⑤ She doesn’t understand that this is important.",
+      "choices": [
+        "I don’t think that we’re late.",
+        "The cold wind made my face red.",
+        "The sunshine makes the garden warm.",
+        "Did you check that sent he the email?",
+        "She doesn’t understand that this is important."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
       "label": "7",
       "sourceId": 7,
       "section": "s1",
@@ -167,7 +189,7 @@
       "seconds": 60
     },
     {
-      "id": "7",
+      "id": "8",
       "label": "8",
       "sourceId": 8,
       "section": "s1",
@@ -187,7 +209,7 @@
       "seconds": 90
     },
     {
-      "id": "8",
+      "id": "9",
       "label": "9",
       "sourceId": 9,
       "section": "s1",
@@ -214,7 +236,7 @@
       "seconds": 60
     },
     {
-      "id": "9",
+      "id": "10",
       "label": "10",
       "sourceId": 10,
       "section": "s1",
@@ -241,7 +263,7 @@
       "seconds": 60
     },
     {
-      "id": "10",
+      "id": "11",
       "label": "11",
       "sourceId": 11,
       "section": "s1",
@@ -261,7 +283,7 @@
       "seconds": 90
     },
     {
-      "id": "11",
+      "id": "12",
       "label": "12",
       "sourceId": 12,
       "section": "s1",
@@ -288,7 +310,7 @@
       "seconds": 60
     },
     {
-      "id": "12",
+      "id": "13",
       "label": "13",
       "sourceId": 13,
       "section": "s1",
@@ -308,7 +330,7 @@
       "seconds": 90
     },
     {
-      "id": "13",
+      "id": "14",
       "label": "13",
       "sourceId": 13,
       "section": "s1",
@@ -328,7 +350,7 @@
       "seconds": 90
     },
     {
-      "id": "14",
+      "id": "15",
       "label": "14",
       "sourceId": 14,
       "section": "s1",
@@ -348,7 +370,7 @@
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "통과 80%. 알맞은 것을 고르시오. 14문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 15문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "sections": [
     {
       "id": "s1",
@@ -358,7 +380,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "itemCount": 14
+      "itemCount": 15
     }
   ]
 }

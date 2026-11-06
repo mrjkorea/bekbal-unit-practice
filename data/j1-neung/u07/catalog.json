@@ -64,14 +64,12 @@
         {
           "id": "grammar-advanced",
           "title": "Grammar 심화 문제",
-          "questionCount": 14,
-          "omittedCount": 1
+          "questionCount": 15
         },
         {
           "id": "reading-content",
           "title": "Reading 내용 확인하기",
-          "deferred": true,
-          "reason": "교재 p.152 다시 읽고 재작성 필요"
+          "questionCount": 20
         },
         {
           "id": "reading-lexgram",

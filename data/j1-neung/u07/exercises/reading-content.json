@@ -1,0 +1,427 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 07 Save Earth, Save Us",
+  "sourcePages": "p.152",
+  "questionCount": 20,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 문제 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "01 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nPollution is a big ① problem.\n(①의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "문제"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Luckily (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "02 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\n② (Luck), three superheroes are ③ (work) to protect the environment.",
+      "accept": [
+        "Luckily"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: working (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "03 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\n② (Luck), three superheroes are ③ (work) to protect the environment.",
+      "accept": [
+        "working"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: clean (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "04 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nThey want to make the world ④ (깨끗하게). Will you join them?",
+      "accept": [
+        "clean"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 너무 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "05 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nPeople waste ⑤ too many resources.\n(⑤의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "너무"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recycling (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "06 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nBut ⑥ (recycle) can save them.",
+      "accept": [
+        "recycling"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 예를 들어 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "07 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n⑦ For example, recycling 1,000 kilograms of paper can save about 19 trees and 29,000 liters of water.\n(⑦의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "예를 들어"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recycling (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "08 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nDo you want to be a wizard at ⑧ (recycle)?",
+      "accept": [
+        "recycling"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: properly (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "09 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nThen you should recycle ⑨ (proper)!",
+      "accept": [
+        "properly"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: right (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "10 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nPut plastic, paper, food waste, and glass in the ⑩ correct bins.\n(⑩에 들어갈 말을 영어로 쓰시오.)",
+      "accept": [
+        "right"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: A부터 B까지 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "11 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nDraw a line ⑪ from each piece of waste to the right bin.\n(from A to B의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "A부터 B까지"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (단지) 버리다 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "12 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nPeople ⑫ throw away clothes too often.\n(throw away의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "(단지) 버리다",
+        "버리다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~하는 데 (시간이) ~만큼 걸리다 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "13 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nDid you know that some clothes ⑬ take over 200 years to break down?\n(take + 시간 + to부정사의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "~하는 데 (시간이) ~만큼 걸리다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~ 동안 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "14 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\nWear your clothes ⑭ for a long time.\n(⑭의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "~ 동안"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: useful (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "15 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nYou can also create new items from your old clothes! Let’s make old clothes ⑮ (use).",
+      "accept": [
+        "useful"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: are (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "16 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nThere ⑯ (be) some items below. What can you make with these old clothes?",
+      "accept": [
+        "are"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: me (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "17 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nBut people waste a lot of water. It makes ⑰ (my) sad.",
+      "accept": [
+        "me"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 끄다, 잠그다 (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "18 다음 글의 빈칸에 들어갈 적절한 말을 쓰시오.\n⑱ Turn off the water while you brush your teeth.\n(turn off의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "끄다, 잠그다",
+        "끄다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: completely (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "19 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nAlso, make sure that you turn off the tap ⑲ (complete).",
+      "accept": [
+        "completely"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to save (답지 24쪽)",
+      "type": "fill",
+      "promptEn": "20 다음 글의 괄호 안의 낱말을 올바른 형태로 쓰시오.\nWhich are ways ⑳ (save) water and which are not?",
+      "accept": [
+        "to save"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 20문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 20
+    }
+  ]
+}
