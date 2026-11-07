@@ -117,8 +117,7 @@
         {
           "id": "mock-high",
           "title": "고득점 모의고사",
-          "deferred": true,
-          "reason": "교재 pp.176-179 다시 읽고 재작성 필요"
+          "questionCount": 26
         }
       ]
     },
