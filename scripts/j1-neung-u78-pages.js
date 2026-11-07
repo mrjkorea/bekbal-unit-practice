@@ -531,6 +531,206 @@ module.exports = {
     },
   },
   u08: {
+    "vocab-advanced": {
+    "title": "Vocabulary 심화 문제",
+    "pages": "pp.186-187",
+    "sections": [
+      {
+        "title": "Section A · Vocabulary 심화",
+        "dir": "어휘 심화 문제를 읽고 답하시오.",
+        "rule": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+        "answerMode": "mixed",
+        "tag": "Vocabulary · 고르기와 쓰기",
+        "items": [
+          {
+            "n": 1,
+            "kind": "fill",
+            "prompt": "01 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. (주어진 철자로 시작할 것) (서술형)\nplanet : space = happiness : e______",
+            "accept": [
+              "emotion"
+            ],
+            "explain": "정답: emotion. planet은 space의 일부, happiness는 emotion의 일부. (답지 30쪽)"
+          },
+          {
+            "n": 2,
+            "kind": "mc",
+            "prompt": "02 다음 영영풀이에 해당하는 단어가 들어간 문장은?\nfeeling worried or scared about something unpleasant",
+            "choices": [
+              "She is a very smart student.",
+              "Suddenly, it started raining.",
+              "She wore a beautiful dress.",
+              "Let’s mix the colors together.",
+              "He was nervous before the exam."
+            ],
+            "index": 5,
+            "explain": "⑤ nervous(불안해하는, 긴장한). (답지 30쪽)"
+          },
+          {
+            "n": 3,
+            "kind": "mc",
+            "prompt": "03 다음 중 빈칸에 공통으로 들어갈 말로 적절하지 않은 것은?\n• The soup tastes ______.\n• This dish is very ______.\n• He likes eating ______ food.",
+            "choices": [
+              "spicy",
+              "delicious",
+              "tasty",
+              "slippery",
+              "sweet"
+            ],
+            "index": 4,
+            "explain": "④ slippery(미끄러운)는 음식 맛을 표현할 때 부적절하다. (답지 30쪽)"
+          },
+          {
+            "n": 4,
+            "kind": "mc",
+            "prompt": "04 다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+            "choices": [
+              "novel: a long story, usually about imaginary people and events",
+              "strange: unusual or surprising, in a way that is difficult to understand",
+              "gym: the front part of the body below the chest",
+              "neighbor: a person who lives near your home",
+              "planet: a large, round object that moves around a star such as the Sun"
+            ],
+            "index": 3,
+            "explain": "③ gym은 ‘체육관’. ‘the front part of the body below the chest’는 stomach. (답지 30쪽)"
+          },
+          {
+            "n": 5,
+            "kind": "fill",
+            "prompt": "05 다음 우리말에 맞도록 빈칸에 들어갈 적절한 단어를 보기에서 찾아 쓰시오. (서술형)\n[보기] up  off  on  from  in\n(1) 그는 일찍 일어나는 것을 원하지 않는다.\n→ He doesn’t want to wake ______ early.",
+            "accept": [
+              "up"
+            ],
+            "explain": "정답: (1) up — wake up. (답지 30쪽)"
+          },
+          {
+            "n": 5,
+            "kind": "fill",
+            "prompt": "05 (2) 그들은 그 소년을 위험으로부터 구했다.\n→ They saved the boy ______ danger.",
+            "accept": [
+              "from"
+            ],
+            "explain": "정답: (2) from — save A from B. (답지 30쪽)"
+          },
+          {
+            "n": 6,
+            "kind": "mc",
+            "prompt": "06 다음 밑줄 친 단어 「try」와 바꿔 쓸 수 있는 것은?\nI’m going to try spicy food at the restaurant.",
+            "choices": [
+              "eat",
+              "explain",
+              "choose",
+              "show",
+              "sound"
+            ],
+            "index": 1,
+            "explain": "① try는 여기서 ‘먹어 보다’이므로 eat. (답지 30쪽)"
+          },
+          {
+            "n": 7,
+            "kind": "mc",
+            "prompt": "07 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• The ______ is full of books.\n• He put the book back on the ______.",
+            "choices": [
+              "stage",
+              "shelf",
+              "adventure",
+              "refrigerator",
+              "piece"
+            ],
+            "index": 2,
+            "explain": "② shelf(선반). (답지 30쪽)"
+          },
+          {
+            "n": 8,
+            "kind": "mc",
+            "prompt": "08 What is the correct word for each definition?\n(a): to make something easy to understand by saying more about it\n(b): your feelings or thoughts about somebody or something",
+            "choices": [
+              "step / opinion",
+              "explain / lesson",
+              "explain / opinion",
+              "add / lesson",
+              "add / opinion"
+            ],
+            "index": 3,
+            "explain": "③ (a) explain, (b) opinion. (답지 30쪽)"
+          },
+          {
+            "n": 9,
+            "kind": "fill",
+            "prompt": "09 다음 우리말에 맞도록 보기에서 알맞은 단어를 찾아 문장을 완성하시오. (서술형)\n• 그녀는 장기 자랑에서 우승자가 되었다.\n→ She became a ______ at the talent show.\n[보기] wizard  champion  factory  juggling  taste",
+            "accept": [
+              "champion"
+            ],
+            "explain": "정답: champion(우승자). (답지 30쪽)"
+          },
+          {
+            "n": 10,
+            "kind": "mc",
+            "prompt": "10 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nShe was very ______ about the new book, so she read it in one day.",
+            "choices": [
+              "curious",
+              "nervous",
+              "serious",
+              "boring",
+              "emotional"
+            ],
+            "index": 1,
+            "explain": "① curious(궁금한). (답지 30쪽)"
+          },
+          {
+            "n": 11,
+            "kind": "mc",
+            "prompt": "11 다음 밑줄 친 단어의 쓰임이 적절하지 않은 것은?\n밑줄 친 단어: 「gym」 「viewer」 「mistake」 「suddenly」 「laugh」",
+            "choices": [
+              "The gym is very big.",
+              "The actors are on the viewer.",
+              "She learned from her mistake.",
+              "He suddenly stopped talking.",
+              "They always laugh when they watch cartoons."
+            ],
+            "index": 2,
+            "explain": "② viewer는 ‘시청자’ — 배우가 viewer 위에 있다는 말은 틀렸다. (답지 30쪽)"
+          },
+          {
+            "n": 12,
+            "kind": "mc",
+            "prompt": "12 다음 밑줄 친 단어의 의미상 쓰임이 적절하지 않은 것은?\n밑줄 친 단어: 「borrows」 「borrowed (me)」 「borrow」 「borrowed」",
+            "choices": [
+              "He always borrows my pen.",
+              "She borrowed me her novel.",
+              "Can I borrow your dictionary?",
+              "I borrowed a book from the library.",
+              "She borrowed some money from her friend."
+            ],
+            "index": 2,
+            "explain": "② 빌려주다는 lend — She lent me her novel. (답지 30쪽)"
+          },
+          {
+            "n": 13,
+            "kind": "mc",
+            "prompt": "13 다음 중 짝지어진 두 단어의 관계가 보기와 같은 것은?\n[보기] danger : dangerous",
+            "choices": [
+              "loud : loudly",
+              "friend : friendship",
+              "wizard : magic",
+              "emotion : emotional",
+              "explain : explanation"
+            ],
+            "index": 4,
+            "explain": "④ 명사 : 형용사 관계. (답지 30쪽)"
+          },
+          {
+            "n": 14,
+            "kind": "fill",
+            "prompt": "14 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\n그녀는 난생처음으로 초밥을 먹었다.\n→ She ate sushi ______ ______ ______ ______ ______ .",
+            "accept": [
+              "for the first time ever"
+            ],
+            "explain": "정답: for the first time ever. (답지 30쪽)"
+          }
+        ]
+      }
+    ]
+  },
     "vocab-practice": {
     "title": "Vocabulary 실전 문제",
     "pages": "p.185",

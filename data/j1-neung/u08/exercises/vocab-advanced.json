@@ -1,0 +1,395 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.186-187",
+  "questionCount": 15,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: emotion. planet은 space의 일부, happiness는 emotion의 일부. (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "01 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오. (주어진 철자로 시작할 것) (서술형)\nplanet : space = happiness : e______",
+      "accept": [
+        "emotion"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "⑤ nervous(불안해하는, 긴장한). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 영영풀이에 해당하는 단어가 들어간 문장은?\nfeeling worried or scared about something unpleasant",
+      "choices": [
+        "She is a very smart student.",
+        "Suddenly, it started raining.",
+        "She wore a beautiful dress.",
+        "Let’s mix the colors together.",
+        "He was nervous before the exam."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "④ slippery(미끄러운)는 음식 맛을 표현할 때 부적절하다. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 다음 중 빈칸에 공통으로 들어갈 말로 적절하지 않은 것은?\n• The soup tastes ______.\n• This dish is very ______.\n• He likes eating ______ food.",
+      "choices": [
+        "spicy",
+        "delicious",
+        "tasty",
+        "slippery",
+        "sweet"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "③ gym은 ‘체육관’. ‘the front part of the body below the chest’는 stomach. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "choices": [
+        "novel: a long story, usually about imaginary people and events",
+        "strange: unusual or surprising, in a way that is difficult to understand",
+        "gym: the front part of the body below the chest",
+        "neighbor: a person who lives near your home",
+        "planet: a large, round object that moves around a star such as the Sun"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: (1) up — wake up. (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "05 다음 우리말에 맞도록 빈칸에 들어갈 적절한 단어를 보기에서 찾아 쓰시오. (서술형)\n[보기] up  off  on  from  in\n(1) 그는 일찍 일어나는 것을 원하지 않는다.\n→ He doesn’t want to wake ______ early.",
+      "accept": [
+        "up"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: (2) from — save A from B. (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "05 (2) 그들은 그 소년을 위험으로부터 구했다.\n→ They saved the boy ______ danger.",
+      "accept": [
+        "from"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "① try는 여기서 ‘먹어 보다’이므로 eat. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 다음 밑줄 친 단어 「try」와 바꿔 쓸 수 있는 것은?\nI’m going to try spicy food at the restaurant.",
+      "choices": [
+        "eat",
+        "explain",
+        "choose",
+        "show",
+        "sound"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "② shelf(선반). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• The ______ is full of books.\n• He put the book back on the ______.",
+      "choices": [
+        "stage",
+        "shelf",
+        "adventure",
+        "refrigerator",
+        "piece"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "③ (a) explain, (b) opinion. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "08 What is the correct word for each definition?\n(a): to make something easy to understand by saying more about it\n(b): your feelings or thoughts about somebody or something",
+      "choices": [
+        "step / opinion",
+        "explain / lesson",
+        "explain / opinion",
+        "add / lesson",
+        "add / opinion"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: champion(우승자). (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "09 다음 우리말에 맞도록 보기에서 알맞은 단어를 찾아 문장을 완성하시오. (서술형)\n• 그녀는 장기 자랑에서 우승자가 되었다.\n→ She became a ______ at the talent show.\n[보기] wizard  champion  factory  juggling  taste",
+      "accept": [
+        "champion"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "① curious(궁금한). (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nShe was very ______ about the new book, so she read it in one day.",
+      "choices": [
+        "curious",
+        "nervous",
+        "serious",
+        "boring",
+        "emotional"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "② viewer는 ‘시청자’ — 배우가 viewer 위에 있다는 말은 틀렸다. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 밑줄 친 단어의 쓰임이 적절하지 않은 것은?\n밑줄 친 단어: 「gym」 「viewer」 「mistake」 「suddenly」 「laugh」",
+      "choices": [
+        "The gym is very big.",
+        "The actors are on the viewer.",
+        "She learned from her mistake.",
+        "He suddenly stopped talking.",
+        "They always laugh when they watch cartoons."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "② 빌려주다는 lend — She lent me her novel. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 다음 밑줄 친 단어의 의미상 쓰임이 적절하지 않은 것은?\n밑줄 친 단어: 「borrows」 「borrowed (me)」 「borrow」 「borrowed」",
+      "choices": [
+        "He always borrows my pen.",
+        "She borrowed me her novel.",
+        "Can I borrow your dictionary?",
+        "I borrowed a book from the library.",
+        "She borrowed some money from her friend."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "14",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "④ 명사 : 형용사 관계. (답지 30쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 다음 중 짝지어진 두 단어의 관계가 보기와 같은 것은?\n[보기] danger : dangerous",
+      "choices": [
+        "loud : loudly",
+        "friend : friendship",
+        "wizard : magic",
+        "emotion : emotional",
+        "explain : explanation"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "15",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "sectionInstructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "explainKo": "정답: for the first time ever. (답지 30쪽)",
+      "type": "fill",
+      "promptEn": "14 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. (서술형)\n그녀는 난생처음으로 초밥을 먹었다.\n→ She ate sushi ______ ______ ______ ______ ______ .",
+      "accept": [
+        "for the first time ever"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 어휘 심화 문제를 읽고 답하시오. 15문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Vocabulary 심화",
+      "directionKo": "어휘 심화 문제를 읽고 답하시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "answerMode": "mixed",
+      "answerModeTag": "Vocabulary · 고르기와 쓰기",
+      "instructionKo": "어휘 심화 문제를 읽고 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
+      "itemCount": 15
+    }
+  ]
+}
