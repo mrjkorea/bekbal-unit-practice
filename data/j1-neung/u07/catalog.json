@@ -1,358 +1,397 @@
 {
-  "book": "j1-neung",
-  "unit": "u07",
-  "label": "Lesson 07 Save Earth, Save Us",
-  "status": "ready",
-  "note": "통과 80%. 중1 능률 김기택 Lesson 07 Save Earth, Save Us. book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
-  "sections": [
+ "book": "j1-neung",
+ "unit": "u07",
+ "label": "Lesson 07 Save Earth, Save Us",
+ "status": "ready",
+ "note": "통과 80%. 중1 능률 김기택 Lesson 07 Save Earth, Save Us. book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
+ "sections": [
+  {
+   "key": "A",
+   "title": "A. 본책",
+   "exercises": [
     {
-      "key": "A",
-      "title": "A. 본책",
-      "exercises": [
-        {
-          "id": "vocab-check",
-          "title": "Vocabulary 확인 문제",
-          "questionCount": 12
-        },
-        {
-          "id": "vocab-practice",
-          "title": "Vocabulary 실전 문제",
-          "questionCount": 7
-        },
-        {
-          "id": "vocab-advanced",
-          "title": "Vocabulary 심화 문제",
-          "questionCount": 16,
-          "omittedCount": 3
-        },
-        {
-          "id": "dialog-detail",
-          "title": "Dialog 자세히 보기",
-          "questionCount": 8
-        },
-        {
-          "id": "dialog-complete",
-          "title": "Dialog 완성하기",
-          "questionCount": 60
-        },
-        {
-          "id": "dialog-order",
-          "title": "Dialog 순서배열하기",
-          "questionCount": 8
-        },
-        {
-          "id": "dialog-practice",
-          "title": "Dialog 실전 문제",
-          "questionCount": 14
-        },
-        {
-          "id": "dialog-advanced",
-          "title": "Dialog 심화 문제",
-          "questionCount": 13
-        },
-        {
-          "id": "grammar-check",
-          "title": "Grammar 확인 문제",
-          "questionCount": 20,
-          "omittedCount": 11
-        },
-        {
-          "id": "grammar-practice",
-          "title": "Grammar 실전 문제",
-          "questionCount": 14
-        },
-        {
-          "id": "grammar-advanced",
-          "title": "Grammar 심화 문제",
-          "questionCount": 15
-        },
-        {
-          "id": "reading-content",
-          "title": "Reading 내용 확인하기",
-          "questionCount": 20
-        },
-        {
-          "id": "reading-lexgram",
-          "title": "Reading 적절한 어휘·어법 고르기",
-          "questionCount": 39
-        },
-        {
-          "id": "reading-order",
-          "title": "Reading 순서배열하기",
-          "questionCount": 29
-        },
-        {
-          "id": "reading-writing",
-          "title": "Reading 영작하기",
-          "questionCount": 29
-        },
-        {
-          "id": "reading-practice",
-          "title": "Reading 실전 문제",
-          "questionCount": 25
-        },
-        {
-          "id": "reading-advanced",
-          "title": "Reading 심화 문제",
-          "questionCount": 25
-        },
-        {
-          "id": "plus-practice",
-          "title": "Plus 기타 지문 실전 문제",
-          "questionCount": 3,
-          "omittedCount": 4
-        },
-        {
-          "id": "writing-finish",
-          "title": "서술형 끝내기",
-          "questionCount": 25,
-          "omittedCount": 1
-        },
-        {
-          "id": "mock-100",
-          "title": "100발 100중 모의고사",
-          "questionCount": 24,
-          "omittedCount": 1
-        },
-        {
-          "id": "mock-high",
-          "title": "고득점 모의고사",
-          "questionCount": 26
-        }
-      ]
+     "id": "vocab-check",
+     "title": "Vocabulary 확인 문제",
+     "questionCount": 12
     },
     {
-      "key": "B",
-      "title": "B. X-10 Part I",
-      "exercises": [
-        {
-          "id": "x10-vocab",
-          "title": "어휘 확인 문제",
-          "questionCount": 12
-        },
-        {
-          "id": "x10-dialog-cloze",
-          "title": "대화 빈칸 완성하기",
-          "questionCount": 90
-        },
-        {
-          "id": "x10-dialog-write",
-          "title": "대화 영작하기",
-          "questionCount": 43,
-          "omittedCount": 4
-        },
-        {
-          "id": "x10-grammar",
-          "title": "핵심 Grammar 확인 문제",
-          "deferred": true,
-          "reason": "교재 X-10 pp.36-37 다시 읽고 재작성 필요"
-        },
-        {
-          "id": "x10-reading-sentence",
-          "title": "Reading 문장 완성하기",
-          "questionCount": 101
-        },
-        {
-          "id": "x10-reading-cloze",
-          "title": "Reading 빈칸 완성하기",
-          "questionCount": 106
-        },
-        {
-          "id": "x10-review",
-          "title": "핵심 문장 Review",
-          "deferred": true,
-          "reason": "교재 X-10 pp.42-43 다시 읽고 재작성 필요"
-        }
-      ]
+     "id": "vocab-practice",
+     "title": "Vocabulary 실전 문제",
+     "questionCount": 7
     },
     {
-      "key": "C",
-      "title": "C. 모의고사",
-      "exercises": [
-        {
-          "id": "final-1",
-          "title": "최종점검 모의고사 1회",
-          "deferred": true,
-          "reason": "교재 pp.145-148 다시 읽고 재작성 필요"
-        },
-        {
-          "id": "final-2",
-          "title": "최종점검 모의고사 2회",
-          "deferred": true,
-          "reason": "교재 pp.149-152 다시 읽고 재작성 필요"
-        },
-        {
-          "id": "final-3",
-          "title": "최종점검 모의고사 3회",
-          "deferred": true,
-          "reason": "교재 pp.153-156 다시 읽고 재작성 필요"
-        }
-      ]
+     "id": "vocab-advanced",
+     "title": "Vocabulary 심화 문제",
+     "questionCount": 16,
+     "omittedCount": 3
     },
     {
-      "key": "W",
-      "title": "Word focus",
-      "lane": "focus",
-      "note": "Coming soon. WordMaster publish pending — pack JSON in this repo at handoff/word-packs/ (j1neung_u07_words01, j1neung_u07_words02, j1neung_u07_expressions01, j1neung_u07_wordplus01).",
-      "exercises": []
+     "id": "dialog-detail",
+     "title": "Dialog 자세히 보기",
+     "questionCount": 8
     },
     {
-      "key": "G",
-      "title": "Grammar focus",
-      "lane": "focus",
-      "note": "make+O+형용사 (5형식) · 접속사 that",
-      "exercises": [
-        {
-          "id": "gf-green4-u03-jump",
-          "title": "make+O+형용사 Jump",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/jump"
-        },
-        {
-          "id": "gf-green4-u03-walk1",
-          "title": "make+O+형용사 Walk1",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/walk1"
-        },
-        {
-          "id": "gf-green4-u03-writing",
-          "title": "make+O+형용사 Writing",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/writing"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-c09-u3-A",
-          "title": "천1 c09-u3-A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-A"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-c09-u3-B",
-          "title": "천1 c09-u3-B",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-B"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-c09-u3-C",
-          "title": "천1 c09-u3-C",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-C"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-wb-c09-u3-A",
-          "title": "천1 wb-c09-u3-A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-A"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-wb-c09-u3-B",
-          "title": "천1 wb-c09-u3-B",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-B"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-wb-c09-u3-C",
-          "title": "천1 wb-c09-u3-C",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-C"
-        },
-        {
-          "id": "gf-chunilmun1-chapter09-wb-c09-u3-D",
-          "title": "천1 wb-c09-u3-D",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-D"
-        },
-        {
-          "id": "gf-chunilmun2-chapter01-c01-u2-A",
-          "title": "천2 c01-u2-A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u2-A"
-        },
-        {
-          "id": "gf-chunilmun2-chapter01-c01-u2-C",
-          "title": "천2 c01-u2-C",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u2-C"
-        },
-        {
-          "id": "gf-chunilmun2-chapter01-wb-c01-u2-A",
-          "title": "천2 wb-c01-u2-A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-A"
-        },
-        {
-          "id": "gf-chunilmun2-chapter01-wb-c01-u2-D",
-          "title": "천2 wb-c01-u2-D",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-D"
-        },
-        {
-          "id": "gf-green4-u08-fly",
-          "title": "접속사 that Fly",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/fly"
-        },
-        {
-          "id": "gf-green4-u08-jump",
-          "title": "접속사 that Jump",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/jump"
-        },
-        {
-          "id": "gf-green4-u08-walk2",
-          "title": "접속사 that Walk2",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/walk2"
-        },
-        {
-          "id": "gf-green4-u08-wrap",
-          "title": "접속사 that Wrap",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/wrap"
-        },
-        {
-          "id": "gf-chunilmun1-chapter12-c12-u2-B",
-          "title": "천1 that SB B",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/c12-u2-B"
-        },
-        {
-          "id": "gf-chunilmun1-chapter12-c12-u2-C",
-          "title": "천1 that SB C",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/c12-u2-C"
-        },
-        {
-          "id": "gf-chunilmun1-chapter12-wb-c12-u2-B",
-          "title": "천1 that WB B",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-B"
-        },
-        {
-          "id": "gf-chunilmun1-chapter12-wb-c12-u2-C",
-          "title": "천1 that WB C",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-C"
-        },
-        {
-          "id": "gf-chunilmun1-chapter12-wb-c12-u2-D",
-          "title": "천1 that WB D",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-D"
-        },
-        {
-          "id": "gf-chunilmun2-chapter11-c11-u3-A",
-          "title": "천2 that SB A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-11/c11-u3-A"
-        },
-        {
-          "id": "gf-chunilmun2-chapter11-wb-c11-u3-A",
-          "title": "천2 that WB A",
-          "external": true,
-          "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-11/wb-c11-u3-A"
-        }
-      ]
+     "id": "dialog-complete",
+     "title": "Dialog 완성하기",
+     "questionCount": 60
+    },
+    {
+     "id": "dialog-order",
+     "title": "Dialog 순서배열하기",
+     "questionCount": 8
+    },
+    {
+     "id": "dialog-practice",
+     "title": "Dialog 실전 문제",
+     "questionCount": 14
+    },
+    {
+     "id": "dialog-advanced",
+     "title": "Dialog 심화 문제",
+     "questionCount": 13
+    },
+    {
+     "id": "grammar-check",
+     "title": "Grammar 확인 문제",
+     "questionCount": 20,
+     "omittedCount": 11
+    },
+    {
+     "id": "grammar-practice",
+     "title": "Grammar 실전 문제",
+     "questionCount": 14
+    },
+    {
+     "id": "grammar-advanced",
+     "title": "Grammar 심화 문제",
+     "questionCount": 15
+    },
+    {
+     "id": "reading-content",
+     "title": "Reading 내용 확인하기",
+     "questionCount": 20
+    },
+    {
+     "id": "reading-lexgram",
+     "title": "Reading 적절한 어휘·어법 고르기",
+     "questionCount": 39
+    },
+    {
+     "id": "reading-order",
+     "title": "Reading 순서배열하기",
+     "questionCount": 29
+    },
+    {
+     "id": "reading-writing",
+     "title": "Reading 영작하기",
+     "questionCount": 29
+    },
+    {
+     "id": "reading-practice",
+     "title": "Reading 실전 문제",
+     "questionCount": 25
+    },
+    {
+     "id": "reading-advanced",
+     "title": "Reading 심화 문제",
+     "questionCount": 25
+    },
+    {
+     "id": "plus-practice",
+     "title": "Plus 기타 지문 실전 문제",
+     "questionCount": 3,
+     "omittedCount": 4
+    },
+    {
+     "id": "writing-finish",
+     "title": "서술형 끝내기",
+     "questionCount": 25,
+     "omittedCount": 1
+    },
+    {
+     "id": "mock-100",
+     "title": "100발 100중 모의고사",
+     "questionCount": 24,
+     "omittedCount": 1
+    },
+    {
+     "id": "mock-high",
+     "title": "고득점 모의고사",
+     "questionCount": 26
     }
-  ]
+   ]
+  },
+  {
+   "key": "B",
+   "title": "B. X-10 Part I",
+   "exercises": [
+    {
+     "id": "x10-vocab",
+     "title": "어휘 확인 문제",
+     "questionCount": 12
+    },
+    {
+     "id": "x10-dialog-cloze",
+     "title": "대화 빈칸 완성하기",
+     "questionCount": 90
+    },
+    {
+     "id": "x10-dialog-write",
+     "title": "대화 영작하기",
+     "questionCount": 43,
+     "omittedCount": 4
+    },
+    {
+     "id": "x10-grammar",
+     "title": "핵심 Grammar 확인 문제",
+     "deferred": true,
+     "reason": "교재 X-10 pp.36-37 다시 읽고 재작성 필요"
+    },
+    {
+     "id": "x10-reading-sentence",
+     "title": "Reading 문장 완성하기",
+     "questionCount": 101
+    },
+    {
+     "id": "x10-reading-cloze",
+     "title": "Reading 빈칸 완성하기",
+     "questionCount": 106
+    },
+    {
+     "id": "x10-review",
+     "title": "핵심 문장 Review",
+     "deferred": true,
+     "reason": "교재 X-10 pp.42-43 다시 읽고 재작성 필요"
+    }
+   ]
+  },
+  {
+   "key": "C",
+   "title": "C. 모의고사",
+   "exercises": [
+    {
+     "id": "final-1",
+     "title": "최종점검 모의고사 1회",
+     "deferred": true,
+     "reason": "교재 pp.145-148 다시 읽고 재작성 필요"
+    },
+    {
+     "id": "final-2",
+     "title": "최종점검 모의고사 2회",
+     "deferred": true,
+     "reason": "교재 pp.149-152 다시 읽고 재작성 필요"
+    },
+    {
+     "id": "final-3",
+     "title": "최종점검 모의고사 3회",
+     "deferred": true,
+     "reason": "교재 pp.153-156 다시 읽고 재작성 필요"
+    }
+   ]
+  },
+  {
+   "key": "W",
+   "title": "Word focus",
+   "lane": "focus",
+   "note": "WordMaster packs · opens in Word Master",
+   "exercises": [
+    {
+     "id": "wm-j1neung_u07_expressions01",
+     "title": "Expressions · 10 words",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1neung_u07_expressions01.json"
+    },
+    {
+     "id": "wm-j1neung_u07_wordplus01",
+     "title": "Words Plus+ · 13 words",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1neung_u07_wordplus01.json"
+    },
+    {
+     "id": "wm-j1neung_u07_words01",
+     "title": "Words 01 · 20 words",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1neung_u07_words01.json"
+    },
+    {
+     "id": "wm-j1neung_u07_words02",
+     "title": "Words 02 · 20 words",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1neung_u07_words02.json"
+    }
+   ]
+  },
+  {
+   "key": "G",
+   "title": "Grammar focus",
+   "lane": "focus",
+   "note": "make+O+형용사 (5형식) · 접속사 that",
+   "exercises": [
+    {
+     "id": "gf-green4-u03-jump",
+     "title": "make+O+형용사 Jump",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/jump"
+    },
+    {
+     "id": "gf-green4-u03-walk1",
+     "title": "make+O+형용사 Walk1",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/walk1"
+    },
+    {
+     "id": "gf-green4-u03-writing",
+     "title": "make+O+형용사 Writing",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-03/writing"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-c09-u3-A",
+     "title": "천1 c09-u3-A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-A"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-c09-u3-B",
+     "title": "천1 c09-u3-B",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-B"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-c09-u3-C",
+     "title": "천1 c09-u3-C",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/c09-u3-C"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-wb-c09-u3-A",
+     "title": "천1 wb-c09-u3-A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-A"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-wb-c09-u3-B",
+     "title": "천1 wb-c09-u3-B",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-B"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-wb-c09-u3-C",
+     "title": "천1 wb-c09-u3-C",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-C"
+    },
+    {
+     "id": "gf-chunilmun1-chapter09-wb-c09-u3-D",
+     "title": "천1 wb-c09-u3-D",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-09/wb-c09-u3-D"
+    },
+    {
+     "id": "gf-chunilmun2-chapter01-c01-u2-A",
+     "title": "천2 c01-u2-A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u2-A"
+    },
+    {
+     "id": "gf-chunilmun2-chapter01-c01-u2-C",
+     "title": "천2 c01-u2-C",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u2-C"
+    },
+    {
+     "id": "gf-chunilmun2-chapter01-wb-c01-u2-A",
+     "title": "천2 wb-c01-u2-A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-A"
+    },
+    {
+     "id": "gf-chunilmun2-chapter01-wb-c01-u2-D",
+     "title": "천2 wb-c01-u2-D",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/wb-c01-u2-D"
+    },
+    {
+     "id": "gf-green4-u08-fly",
+     "title": "접속사 that Fly",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/fly"
+    },
+    {
+     "id": "gf-green4-u08-jump",
+     "title": "접속사 that Jump",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/jump"
+    },
+    {
+     "id": "gf-green4-u08-walk2",
+     "title": "접속사 that Walk2",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/walk2"
+    },
+    {
+     "id": "gf-green4-u08-wrap",
+     "title": "접속사 that Wrap",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/wrap"
+    },
+    {
+     "id": "gf-chunilmun1-chapter12-c12-u2-B",
+     "title": "천1 that SB B",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/c12-u2-B"
+    },
+    {
+     "id": "gf-chunilmun1-chapter12-c12-u2-C",
+     "title": "천1 that SB C",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/c12-u2-C"
+    },
+    {
+     "id": "gf-chunilmun1-chapter12-wb-c12-u2-B",
+     "title": "천1 that WB B",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-B"
+    },
+    {
+     "id": "gf-chunilmun1-chapter12-wb-c12-u2-C",
+     "title": "천1 that WB C",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-C"
+    },
+    {
+     "id": "gf-chunilmun1-chapter12-wb-c12-u2-D",
+     "title": "천1 that WB D",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-1/chapter-12/wb-c12-u2-D"
+    },
+    {
+     "id": "gf-chunilmun2-chapter11-c11-u3-A",
+     "title": "천2 that SB A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-11/c11-u3-A"
+    },
+    {
+     "id": "gf-chunilmun2-chapter11-wb-c11-u3-A",
+     "title": "천2 that WB A",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-11/wb-c11-u3-A"
+    }
+   ]
+  },
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "Sentence packs · WordMaster spelling, writing and test",
+   "exercises": [
+    {
+     "id": "wm-j1-neung_u07_reading01",
+     "title": "Reading Focus · 29 sentences",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1-neung_u07_reading01.json"
+    }
+   ]
+  }
+ ]
 }
