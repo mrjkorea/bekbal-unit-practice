@@ -1,0 +1,742 @@
+{
+  "id": "final-2",
+  "title": "최종점검 모의고사 2회",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.100-103",
+  "questionCount": 26,
+  "omitted": [
+    {
+      "page": "p.102",
+      "item": "15",
+      "reason": "밑줄 ⓐ~ⓔ 위치가 페이지 OCR에 없어 카드를 만들 수 없음. 답지 p.73 정답은 ②(easily buy→to easily buy)."
+    }
+  ],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "Q01",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 01) ② allow : permit만 유의어이고, ①③④⑤는 반의어이다.",
+      "promptEn": "01 다음 중 짝지어진 단어의 관계가 나머지와 다른 것은?\n① borrow : lend\n② allow : permit\n③ easy : difficult\n④ lock : unlock\n⑤ cheap : expensive",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q01",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1",
+      "choices": [
+        "borrow : lend",
+        "allow : permit",
+        "easy : difficult",
+        "lock : unlock",
+        "cheap : expensive"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 2,
+      "group": "Q02",
+      "explainKo": "정답: ⑤. (답지 p.73 최종점검 모의고사 2회 02) 100점을 받았다면 시험이 쉬웠다는 말이 자연스럽다. difficult는 문맥상 어색하다.",
+      "promptEn": "02 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?\n① Water is a very important natural <u>resource</u>.\n② You can <u>easily</u> solve this simple problem.\n③ The book explains every small <u>detail</u>.\n④ My parents <u>allow</u> me to play games.\n⑤ The test was <u>difficult</u>, so I got 100.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q02",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2",
+      "choices": [
+        "Water is a very important natural resource.",
+        "You can easily solve this simple problem.",
+        "The book explains every small detail.",
+        "My parents allow me to play games.",
+        "The test was difficult, so I got 100."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 3,
+      "group": "Q03",
+      "explainKo": "정답: exchanged. (답지 p.73 최종점검 모의고사 2회 03) 주고 그 대가로 받는 것은 exchange이다. wanted가 과거이므로 exchanged.",
+      "promptEn": "03 다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오. (시제에 유의할 것)\nto give something and receive something back\n\nWe (1) __________ seats because he wanted to sit by the window.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q03",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3",
+      "accept": [
+        "exchanged"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 4,
+      "group": "Q04",
+      "explainKo": "정답: ⑤. (답지 p.73 최종점검 모의고사 2회 04) 두 가지 색을 말한 뒤 소녀가 흰색을 골랐으므로, 어느 쪽을 더 선호하는지 묻는 ⑤가 알맞다.",
+      "promptEn": "04 다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. ______\nG: I prefer white to black.\n① How would you like to pay?\n② What size do you want?\n③ Which cap do you prefer?\n④ Do you want to try this on?\n⑤ Which one do you like more?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q04",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "4",
+      "choices": [
+        "How would you like to pay?",
+        "What size do you want?",
+        "Which cap do you prefer?",
+        "Do you want to try this on?",
+        "Which one do you like more?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 5,
+      "group": "Q05",
+      "explainKo": "정답: ④. (답지 p.73 최종점검 모의고사 2회 05) '유리컵은 얼마야?'는 유리컵을 골랐다는 말과 가격을 답하는 말 사이인 ④에 온다.",
+      "promptEn": "05 위 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nHow much is the glass one?\n\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore. (①)\nB: I see. Actually, I need a cup. (②) Can you recommend a good one?\nG: Sure. ⓐ <u>How about a large cup?</u>\nB: That would be great. (③)\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. (④)\nG: (⑤) It's three dollars, but I can give you a discount. How about two dollars?\nB: That's a good price. Here's the money.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q05",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "5",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 6,
+      "group": "Q06",
+      "explainKo": "정답: ③. (답지 p.73 최종점검 모의고사 2회 06) 추천을 요청하는 말에 '큰 컵은 어때?'라고 답한 것은 '큰 컵을 추천해'라는 뜻이다.",
+      "promptEn": "06 위 대화의 밑줄 친 ⓐ의 의미로 가장 적절한 것은?\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore. (①)\nB: I see. Actually, I need a cup. (②) Can you recommend a good one?\nG: Sure. ⓐ <u>How about a large cup?</u>\nB: That would be great. (③)\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. (④)\nG: (⑤) It's three dollars, but I can give you a discount. How about two dollars?\nB: That's a good price. Here's the money.\n① Do you like a large cup, too?\n② I'll show you a large cup.\n③ I recommend a large cup.\n④ I have a different kind of large cup.\n⑤ Are you thinking about a large cup?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q06",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6",
+      "choices": [
+        "Do you like a large cup, too?",
+        "I'll show you a large cup.",
+        "I recommend a large cup.",
+        "I have a different kind of large cup.",
+        "Are you thinking about a large cup?"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 7,
+      "group": "Q07",
+      "explainKo": "정답: ④. (답지 p.73 최종점검 모의고사 2회 07) Can you recommend ~?는 Can you suggest ~?와 바꿔 쓸 수 있다.",
+      "promptEn": "07 위 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 있는 말로 가장 적절한 것은?\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good on me.\nW: Which color would you like instead?\nB: ⓐ <u>Can you recommend another color for me?</u>\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them on?\nW: Of course. You can look in this mirror.\nB: Okay... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.\n① Do you like this color?\n② What's your favorite color?\n③ Which color cap is the most popular?\n④ Can you suggest another color?\n⑤ What color do you usually choose?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q07",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "7",
+      "choices": [
+        "Do you like this color?",
+        "What's your favorite color?",
+        "Which color cap is the most popular?",
+        "Can you suggest another color?",
+        "What color do you usually choose?"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 8,
+      "group": "Q08",
+      "explainKo": "정답: ④. (답지 p.73 최종점검 모의고사 2회 08) 소년은 모자를 써 본 뒤 갈색 모자를 골랐다. ①②③⑤는 대화와 다르다.",
+      "promptEn": "08 위 대화의 내용과 일치하는 것은?\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good on me.\nW: Which color would you like instead?\nB: ⓐ <u>Can you recommend another color for me?</u>\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them on?\nW: Of course. You can look in this mirror.\nB: Okay... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.\n① 소년은 초록색 모자가 자신에게 잘 어울린다고 말했다.\n② 소년은 모자를 환불받고 싶어 한다.\n③ 여자는 파란색 모자를 추천했다.\n④ 소년은 갈색 모자를 선택했다.\n⑤ 소년은 모자를 써 보지 않고 바로 선택했다.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q08",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "8",
+      "choices": [
+        "소년은 초록색 모자가 자신에게 잘 어울린다고 말했다.",
+        "소년은 모자를 환불받고 싶어 한다.",
+        "여자는 파란색 모자를 추천했다.",
+        "소년은 갈색 모자를 선택했다.",
+        "소년은 모자를 써 보지 않고 바로 선택했다."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 9,
+      "group": "Q09",
+      "explainKo": "정답: ③. (답지 p.73 최종점검 모의고사 2회 09) '내가 예상했던 것만큼 어렵지 않았다'는 not as + 원급 + as이다.",
+      "promptEn": "09 다음 두 문장의 의미가 같도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은?\n• I expected the test to be difficult. The test was not very difficult.\n→ The test was ______ I expected.\n① as difficult as\n② so difficult as\n③ not as difficult as\n④ more difficult than\n⑤ not as difficult than",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q09",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "9",
+      "choices": [
+        "as difficult as",
+        "so difficult as",
+        "not as difficult as",
+        "more difficult than",
+        "not as difficult than"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 10,
+      "group": "Q10",
+      "explainKo": "정답: ①. (답지 p.73 최종점검 모의고사 2회 10) 사역동사 let + 목적어 + 동사원형. The teacher let us use our phones.",
+      "promptEn": "10 다음 우리말을 바르게 영작한 것은?\n선생님은 우리에게 휴대폰을 사용하게 해 주셨다.\n① The teacher let us use our phones.\n② The teacher let us used our phones.\n③ The teacher let us using our phones.\n④ The teacher had us using our phones.\n⑤ The teacher had us to use our phones.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q10",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10",
+      "choices": [
+        "The teacher let us use our phones.",
+        "The teacher let us used our phones.",
+        "The teacher let us using our phones.",
+        "The teacher had us using our phones.",
+        "The teacher had us to use our phones."
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 11,
+      "group": "Q11",
+      "explainKo": "정답: ④. (답지 p.73 최종점검 모의고사 2회 11) as + 원급 + as. ① than→as, ② borrows→borrow, ③ fixed→fix, ⑤ to finish→finish.",
+      "promptEn": "11 다음 중 어법상 올바른 문장은?\n① She is as tall than me.\n② He let his friend borrows his bike.\n③ I had my friend fixed my computer.\n④ This bag is as expensive as that one.\n⑤ My teacher made me to finish my homework.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q11",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "11",
+      "choices": [
+        "She is as tall than me.",
+        "He let his friend borrows his bike.",
+        "I had my friend fixed my computer.",
+        "This bag is as expensive as that one.",
+        "My teacher made me to finish my homework."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 12,
+      "group": "Q12",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 12) ⓐ(have + clean)와 ⓑ(as smart as)만 옳다. ⓒ to cry→cry, ⓓ easier→easy, ⓔ laughing→laugh.",
+      "promptEn": "12 다음 중 어법상 옳은 것의 개수는?\nⓐ She had her brother <u>clean</u> the room.\nⓑ He is as <u>smart</u> as his older sister.\nⓒ The movie made me <u>to cry</u>.\nⓓ This book is as <u>easier</u> as that one.\nⓔ His joke made everyone <u>laughing</u>.\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q12",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 13,
+      "group": "Q13",
+      "explainKo": "정답: as difficult as / study. (답지 p.73 최종점검 모의고사 2회 13) not as + 원급 + as, 그리고 make + 목적어 + 동사원형 study.",
+      "promptEn": "13 다음 대화문을 괄호 안의 단어를 이용하여 완성하시오.\nA: How was the English test?\nB: It was not (1) __________ I thought. (difficult)\nA: Oh, really?\nB: Yes, but my teacher made me (2) __________ hard for it. (study)\nA: That sounds tough.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q13-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13",
+      "accept": [
+        "as difficult as"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 13,
+      "group": "Q13",
+      "explainKo": "정답: as difficult as / study. (답지 p.73 최종점검 모의고사 2회 13) not as + 원급 + as, 그리고 make + 목적어 + 동사원형 study.",
+      "promptEn": "13 다음 대화문을 괄호 안의 단어를 이용하여 완성하시오.\nA: How was the English test?\nB: It was not (1) __________ I thought. (difficult)\nA: Oh, really?\nB: Yes, but my teacher made me (2) __________ hard for it. (study)\nA: That sounds tough.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q13-2",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13",
+      "accept": [
+        "study"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 14,
+      "group": "Q14",
+      "explainKo": "정답: secondhand items. (답지 p.73 최종점검 모의고사 2회 14) 이미 사용한 자전거, 책, 장난감 같은 것은 중고 물품을 가리킨다.",
+      "promptEn": "14 윗글의 밑줄 친 (A)가 가리키는 것을 지문에서 찾아 두 단어로 쓰시오.\nHello, I'm Jimin. Have you ever shared (A) <u>things like bikes, books, or toys that you've already used</u>? Sharing saves resources and money, and it is good for the environment. Let me tell you about my experience with the sharing economy.\n\nLast week, I used an app (B) <u>to get</u> a backpack. The app allows users easily buy and sell secondhand items. (①) Sometimes, people also give away items which they don't need anymore. (②) Someone was giving it away. (③) It looked as good as a new one. (④) So, I sent a message to the person who posted it. (⑤)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n→ (1) __________",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q14",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "14",
+      "accept": [
+        "secondhand items",
+        "second-hand items"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 16,
+      "group": "Q16",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 16) '멋진 책가방 게시물을 보았다'는 말은 필요 없는 물건을 나눈다는 말 다음, 누군가 그것을 나누고 있다는 설명 앞인 ②에 온다.",
+      "promptEn": "16 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nI saw a post about a nice backpack.\n\nHello, I'm Jimin. Have you ever shared (A) <u>things like bikes, books, or toys that you've already used</u>? Sharing saves resources and money, and it is good for the environment. Let me tell you about my experience with the sharing economy.\n\nLast week, I used an app (B) <u>to get</u> a backpack. The app allows users easily buy and sell secondhand items. (①) Sometimes, people also give away items which they don't need anymore. (②) Someone was giving it away. (③) It looked as good as a new one. (④) So, I sent a message to the person who posted it. (⑤)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q16",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "16",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 17,
+      "group": "Q17",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 17) (B) to get과 ② to buy는 목적을 나타내는 to부정사 부사적 용법이다.",
+      "promptEn": "17 윗글의 밑줄 친 (B)와 쓰임이 같은 것은?\nHello, I'm Jimin. Have you ever shared (A) <u>things like bikes, books, or toys that you've already used</u>? Sharing saves resources and money, and it is good for the environment. Let me tell you about my experience with the sharing economy.\n\nLast week, I used an app (B) <u>to get</u> a backpack. The app allows users easily buy and sell secondhand items. (①) Sometimes, people also give away items which they don't need anymore. (②) Someone was giving it away. (③) It looked as good as a new one. (④) So, I sent a message to the person who posted it. (⑤)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n① He was glad to meet his old friend.\n② I went to the bakery to buy some bread.\n③ He promised to clean his room.\n④ She has no time to watch TV.\n⑤ The boy grew up to be a great soccer player.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q17",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "17",
+      "choices": [
+        "He was glad to meet his old friend.",
+        "I went to the bakery to buy some bread.",
+        "He promised to clean his room.",
+        "She has no time to watch TV.",
+        "The boy grew up to be a great soccer player."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 18,
+      "group": "Q18",
+      "explainKo": "정답: ⑤. (답지 p.73 최종점검 모의고사 2회 18) 지민은 책가방을 무료로 얻으려 했다. 산 가격은 알 수 없다.",
+      "promptEn": "18 윗글을 읽고 알 수 없는 것은?\nHello, I'm Jimin. Have you ever shared (A) <u>things like bikes, books, or toys that you've already used</u>? Sharing saves resources and money, and it is good for the environment. Let me tell you about my experience with the sharing economy.\n\nLast week, I used an app (B) <u>to get</u> a backpack. The app allows users easily buy and sell secondhand items. (①) Sometimes, people also give away items which they don't need anymore. (②) Someone was giving it away. (③) It looked as good as a new one. (④) So, I sent a message to the person who posted it. (⑤)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n① Jimin found information about the backpack through a sharing app.\n② The backpack looked like a new one.\n③ Jimin made an appointment to meet User 1 through messages.\n④ User 1 replied to Jimin's message.\n⑤ Jimin bought the backpack at a low price.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q18",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "18",
+      "choices": [
+        "Jimin found information about the backpack through a sharing app.",
+        "The backpack looked like a new one.",
+        "Jimin made an appointment to meet User 1 through messages.",
+        "User 1 replied to Jimin's message.",
+        "Jimin bought the backpack at a low price."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 19,
+      "group": "Q19",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 19) instead of는 '~대신에'이다. '~때문에'는 바르지 않다.",
+      "promptEn": "19 윗글의 밑줄 친 ①~⑤의 뜻풀이가 바르지 않은 것은?\nThe next day, I ① <u>got ready</u> to go to the park. I decided to borrow a bike ② <u>instead of</u> taking a bus. My city has a ③ <u>bike-sharing system</u>. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want ⓐ [ use / to use ]. Then you scan the QR code on the bike. This makes the bike's lock ⓑ [ open / opened ].\n\nBefore I rode to the park, I checked the bike ④ <u>carefully</u>. (A) 가끔 자전거들이 상태가 좋지 않거든요. This time, everything looked fine, so I ⑤ <u>headed for</u> the park. When I got there, I returned the bike ⓒ [ for / to ] a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n① 준비를 했다\n② ~때문에\n③ 자전거 공유 시스템\n④ 꼼꼼하게\n⑤ ~로 향했다",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q19",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "19",
+      "choices": [
+        "준비를 했다",
+        "~때문에",
+        "자전거 공유 시스템",
+        "꼼꼼하게",
+        "~로 향했다"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 20,
+      "group": "Q20",
+      "explainKo": "정답: ⑤. (답지 p.73 최종점검 모의고사 2회 20) want는 to부정사(to use), make는 동사원형(open), return A to B이므로 to.",
+      "promptEn": "20 윗글의 ⓐⓑⓒ 괄호 안에서 어법에 맞는 것을 골라 바르게 짝지은 것은?\nThe next day, I ① <u>got ready</u> to go to the park. I decided to borrow a bike ② <u>instead of</u> taking a bus. My city has a ③ <u>bike-sharing system</u>. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want ⓐ [ use / to use ]. Then you scan the QR code on the bike. This makes the bike's lock ⓑ [ open / opened ].\n\nBefore I rode to the park, I checked the bike ④ <u>carefully</u>. (A) 가끔 자전거들이 상태가 좋지 않거든요. This time, everything looked fine, so I ⑤ <u>headed for</u> the park. When I got there, I returned the bike ⓒ [ for / to ] a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n① use / open / to\n② use / opened / for\n③ to use / opened / to\n④ to use / open / for\n⑤ to use / open / to",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q20",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "20",
+      "choices": [
+        "use / open / to",
+        "use / opened / for",
+        "to use / opened / to",
+        "to use / open / for",
+        "to use / open / to"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 21,
+      "group": "Q21",
+      "explainKo": "정답: Sometimes, the bikes are not in good condition. (답지 p.73 최종점검 모의고사 2회 21) in good condition. 여덟 단어.",
+      "promptEn": "21 윗글의 밑줄 친 (A)의 우리말을 조건에 맞게 영작하시오.\n[조건]\n1. the bikes를 이용할 것.\n2. 총 8단어로 쓸 것.\n\nThe next day, I ① <u>got ready</u> to go to the park. I decided to borrow a bike ② <u>instead of</u> taking a bus. My city has a ③ <u>bike-sharing system</u>. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want ⓐ [ use / to use ]. Then you scan the QR code on the bike. This makes the bike's lock ⓑ [ open / opened ].\n\nBefore I rode to the park, I checked the bike ④ <u>carefully</u>. (A) 가끔 자전거들이 상태가 좋지 않거든요. This time, everything looked fine, so I ⑤ <u>headed for</u> the park. When I got there, I returned the bike ⓒ [ for / to ] a station in the park. Using the bike was really easy. Also, I was happy to help the environment.",
+      "type": "sentence",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "Q21",
+      "section": "sS",
+      "sectionTitle": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "sectionInstructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "21",
+      "accept": [
+        "Sometimes, the bikes are not in good condition",
+        "Sometimes the bikes are not in good condition"
+      ],
+      "seconds": 100
+    },
+    {
+      "sourceId": 22,
+      "group": "Q22",
+      "explainKo": "정답: ②. (답지 p.73 최종점검 모의고사 2회 22) 앱이 있는 사람은 누구나 이용할 수 있다. 관광객만 이용한다는 내용은 글과 다르다.",
+      "promptEn": "22 윗글의 내용과 일치하지 않는 것은?\nThe next day, I ① <u>got ready</u> to go to the park. I decided to borrow a bike ② <u>instead of</u> taking a bus. My city has a ③ <u>bike-sharing system</u>. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want ⓐ [ use / to use ]. Then you scan the QR code on the bike. This makes the bike's lock ⓑ [ open / opened ].\n\nBefore I rode to the park, I checked the bike ④ <u>carefully</u>. (A) 가끔 자전거들이 상태가 좋지 않거든요. This time, everything looked fine, so I ⑤ <u>headed for</u> the park. When I got there, I returned the bike ⓒ [ for / to ] a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n① The writer borrowed a bike instead of taking a bus.\n② The bike-sharing system can only be used by tourists.\n③ The writer used a bike-sharing app to borrow a bike.\n④ The writer checked the bike before riding it.\n⑤ The writer returned the bike at a station in the park.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q22",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "22",
+      "choices": [
+        "The writer borrowed a bike instead of taking a bus.",
+        "The bike-sharing system can only be used by tourists.",
+        "The writer used a bike-sharing app to borrow a bike.",
+        "The writer checked the bike before riding it.",
+        "The writer returned the bike at a station in the park."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 23,
+      "group": "Q23",
+      "explainKo": "정답: (1) bigger → big (2) at → in. (답지 p.73 최종점검 모의고사 2회 23) as + 원급 + as이므로 bigger→big. in great condition이므로 at→in.",
+      "promptEn": "23 윗글의 밑줄 친 (A)에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nAfter I got the backpack from the person, I went home. (A) The backpack wasn't as bigger as my old one, but it was at great condition. I also really liked the color of it. I looked forward to using it for school.\nThat day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think that I should share my things with others, too.\n\n(1) __________\n(2) __________",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q23-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "23",
+      "accept": [
+        "bigger → big",
+        "bigger -> big",
+        "bigger→big"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (1)만 씁니다. 틀린 말 → 고친 말.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 23,
+      "group": "Q23",
+      "explainKo": "정답: (1) bigger → big (2) at → in. (답지 p.73 최종점검 모의고사 2회 23) as + 원급 + as이므로 bigger→big. in great condition이므로 at→in.",
+      "promptEn": "23 윗글의 밑줄 친 (A)에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nAfter I got the backpack from the person, I went home. (A) The backpack wasn't as bigger as my old one, but it was at great condition. I also really liked the color of it. I looked forward to using it for school.\nThat day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think that I should share my things with others, too.\n\n(1) __________\n(2) __________",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q23-2",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "23",
+      "accept": [
+        "at → in",
+        "at -> in",
+        "at→in"
+      ],
+      "focusBlank": "2",
+      "phraseBlank": true,
+      "promptKo": "이 문항은 (2)만 씁니다. 틀린 말 → 고친 말.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 24,
+      "group": "Q24",
+      "explainKo": "정답: ④. (답지 p.73 최종점검 모의고사 2회 24) 집, 크기, 색에 대한 만족, 돈을 쓰지 않은 것은 알 수 있다. 원래 주인이 나눔 한 이유는 알 수 없다.",
+      "promptEn": "24 윗글을 읽고 알 수 없는 것은?\nAfter I got the backpack from the person, I went home. (A) The backpack wasn't as bigger as my old one, but it was at great condition. I also really liked the color of it. I looked forward to using it for school.\nThat day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think that I should share my things with others, too.\n① 나눔 받은 책가방을 받은 후 글쓴이가 간 곳\n② 예전 가방과 나눔 받은 책가방의 크기 비교\n③ 나눔 받은 책가방의 색상에 대한 글쓴이의 만족도\n④ 가방을 준 원래 주인이 책가방을 나눔 한 이유\n⑤ 글쓴이가 나눔 받은 책가방을 얻기 위해 쓴 비용",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q24",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "24",
+      "choices": [
+        "나눔 받은 책가방을 받은 후 글쓴이가 간 곳",
+        "예전 가방과 나눔 받은 책가방의 크기 비교",
+        "나눔 받은 책가방의 색상에 대한 글쓴이의 만족도",
+        "가방을 준 원래 주인이 책가방을 나눔 한 이유",
+        "글쓴이가 나눔 받은 책가방을 얻기 위해 쓴 비용"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 25,
+      "group": "Q25",
+      "explainKo": "정답: spend. (답지 p.73 최종점검 모의고사 2회 25) 상품이나 서비스에 대한 지불로 돈을 주는 것은 spend이다. 원형으로 쓴다.",
+      "promptEn": "25 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. (원형으로 쓸 것)\nAfter I got the backpack from the person, I went home. (A) The backpack wasn't as bigger as my old one, but it was at great condition. I also really liked the color of it. I looked forward to using it for school.\nThat day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think that I should share my things with others, too.\n\nto give money as a payment for goods or services\n→ (1) __________",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q25",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "25",
+      "accept": [
+        "spend"
+      ],
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 18문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 7문항, Section C · 서술형. 문장 전체를 쓰시오. 1문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요. 정답은 답지 p.73.",
+  "sections": [
+    {
+      "id": "sM",
+      "title": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 18
+    },
+    {
+      "id": "sF",
+      "title": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 7
+    },
+    {
+      "id": "sS",
+      "title": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    }
+  ]
+}
