@@ -382,7 +382,7 @@
       "type": "mc",
       "seconds": 45,
       "select": "one",
-      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n15 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also <u>④recognize</u> your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n15 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
       "choices": [
         "①",
         "②",

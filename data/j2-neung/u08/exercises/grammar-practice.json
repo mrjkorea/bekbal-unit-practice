@@ -149,13 +149,13 @@
       "explainKo": "정답: ⑤. careless는 사람의 태도이므로 of you가 맞다. 보기의 for you는 틀린 고침이다. (답지 p.40 Grammar 실전 06)",
       "type": "mc",
       "select": "one",
-      "promptEn": "06 다음 중 밑줄 친 부분을 어법상 바르게 고치지 않은 것은?\nThe underlined part is in 〔 〕. The arrow is the book's suggested fix.",
+      "promptEn": "06 다음 중 밑줄 친 부분을 어법상 바르게 고치지 않은 것은?\n① It is easy <u>make</u> a sandwich. (→ to make)\n② It was kind <u>for him</u> to help me. (→ of him)\n③ I don't know what <u>say</u> in the meeting. (→ to say)\n④ I can't decide <u>what one</u> to decide. (→ which)\n⑤ It was careless <u>you</u> to make such a mistake. (→ for you)",
       "choices": [
-        "It is easy 〔make〕 a sandwich. (→ to make)",
-        "It was kind 〔for him〕 to help me. (→ of him)",
-        "I don't know what 〔say〕 in the meeting. (→ to say)",
-        "I can't decide 〔what〕 one to choose. (→ which)",
-        "It was careless 〔you〕 to make such a mistake. (→ for you)"
+        "It is easy <u>make</u> a sandwich. (→ to make)",
+        "It was kind <u>for him</u> to help me. (→ of him)",
+        "I don't know what <u>say</u> in the meeting. (→ to say)",
+        "I can't decide <u>what one</u> to decide. (→ which)",
+        "It was careless <u>you</u> to make such a mistake. (→ for you)"
       ],
       "correctIndexes": [
         5

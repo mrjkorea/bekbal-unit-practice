@@ -306,7 +306,7 @@
       "type": "mc",
       "seconds": 45,
       "select": "one",
-      "promptEn": "[10-17] 다음 글을 읽고, 물음에 답하시오.\nUser: <u>ⓐAI는 일상생활에서 어떻게 사용되니?</u>\nANNIE: AI is used in many situations.\n<u>ⓑ______</u>, AI technology can recommend new videos <u>ⓒthat</u> you may like. It studies which videos you have already watched. Then it decides <u>ⓓ______</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns <u>ⓔ______</u> your face looks like. Over time, <u>①it</u> gets better at <u>④recognize</u> you, even if you change your hair or wear a mask.\n\n12 윗글의 밑줄 친 ①~⑤ 중, 어법상 틀린 것은?",
+      "promptEn": "[10-17] 다음 글을 읽고, 물음에 답하시오.\nUser: <u>ⓐAI는 일상생활에서 어떻게 사용되니?</u>\nANNIE: AI <u>①is used</u> in many situations.\n<u>ⓑ______</u>, AI technology can recommend new videos <u>ⓒthat</u> you may like. It studies which videos you <u>②have already watched</u>. Then it decides <u>ⓓ______</u> to recommend. AI can also recognize your face <u>③to unlock</u> your smartphone. It learns <u>ⓔ______</u> your face looks like. Over time, it gets better at <u>④recognize</u> you, even if <u>⑤you</u> change your hair or wear a mask.\n\n12 윗글의 밑줄 친 ①~⑤ 중, 어법상 틀린 것은?",
       "choices": [
         "①",
         "②",
@@ -461,7 +461,7 @@
       "type": "mc",
       "seconds": 45,
       "select": "one",
-      "promptEn": "[18-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be <u>①careful</u> about when I use AI?\nANNIE: You should <u>ⓐ______</u> the following things in mind:\n1. Accuracy: AI is not always <u>②wrong</u>, so you should always carefully check the information that it provides.\n2. Originality: <u>ⓑ정보가 정확하더라도</u>, do not ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: <u>ⓓIt</u> is not safe to share your personal information with AI.\nIf you are careful about <u>ⓔthese things</u>, ______.\nUser: Got it, thanks!\nANNIE: You're welcome! If you need help in the future, feel free to ask. Have a great day!\n\n18 윗글의 밑줄 친 ①~⑤ 중, 흐름상 어색한 것은?",
+      "promptEn": "[18-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be <u>①careful</u> about when I use AI?\nANNIE: You should <u>ⓐ______</u> the following things in mind:\n1. Accuracy: AI is not always <u>②wrong</u>, so you should always carefully check the information that it provides.\n2. Originality: <u>ⓑ정보가 정확하더라도</u>, do not ______ copy it. Make sure you <u>③understand</u> it, and then write it in your own words.\n3. Privacy: <u>ⓓIt</u> is not safe to share your <u>④personal</u> information with AI.\nIf you are careful about <u>ⓔthese things</u>, ______.\nUser: Got it, thanks!\nANNIE: You're welcome! If you need help in the future, feel <u>⑤free</u> to ask. Have a great day!\n\n18 윗글의 밑줄 친 ①~⑤ 중, 흐름상 어색한 것은?",
       "choices": [
         "①",
         "②",

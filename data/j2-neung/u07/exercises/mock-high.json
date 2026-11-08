@@ -48,12 +48,12 @@
       "explainKo": "정답: ⑤ gave a discount. ① from→to, ② kind→kinds, ③ pay→paying, ④ lend→borrow. (답지 p.35 고득점 모의고사 02)",
       "type": "mc",
       "select": "one",
-      "promptEn": "02 다음 중 밑줄 친 부분의 쓰임이 적절한 것은?",
+      "promptEn": "02 다음 중 밑줄 친 부분의 쓰임이 적절한 것은?\n① He returned the book <u>from</u> his friend.\n② They sell <u>all kind</u> of clothes and accessories.\n③ They left the store <u>without pay</u> for the items.\n④ She decided to <u>lend</u> the old books from the museum.\n⑤ The staff <u>gave a discount</u> because the item had a scratch on it.",
       "choices": [
-        "He <u>returned the book from</u> his friend.",
+        "He returned the book <u>from</u> his friend.",
         "They sell <u>all kind</u> of clothes and accessories.",
         "They left the store <u>without pay</u> for the items.",
-        "She decided to <u>lend</u> the old books <u>from</u> the museum.",
+        "She decided to <u>lend</u> the old books from the museum.",
         "The staff <u>gave a discount</u> because the item had a scratch on it."
       ],
       "correctIndexes": [

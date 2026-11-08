@@ -217,13 +217,13 @@
       "explainKo": "정답: ②. sense(감각)가 아니라 '센서, 감지기'인 sensor가 자연스럽다. (답지 p.37 Vocabulary 심화 09)",
       "type": "mc",
       "select": "one",
-      "promptEn": "Who uses the underlined word in an unnatural way?",
+      "promptEn": "09 다음 중 밑줄 친 단어를 어색하게 사용한 사람은?\n① 소라: Sam tried to <u>comfort</u> me when I was sad.\n② 지민: The door opens automatically with a <u>sense</u>.\n③ 민수: <u>Self-driving</u> cars will make driving easier for people.\n④ 정호: I use an app to <u>translate</u> foreign texts.\n⑤ 상준: Your <u>explanation</u> is very clear and easy to understand.",
       "choices": [
-        "Sam tried to comfort me when I was sad.",
-        "The door opens automatically with a sense.",
-        "Self-driving cars will make driving easier for people.",
-        "I use an app to translate foreign texts.",
-        "Your explanation is very clear and easy to understand."
+        "소라: Sam tried to <u>comfort</u> me when I was sad.",
+        "지민: The door opens automatically with a <u>sense</u>.",
+        "민수: <u>Self-driving</u> cars will make driving easier for people.",
+        "정호: I use an app to <u>translate</u> foreign texts.",
+        "상준: Your <u>explanation</u> is very clear and easy to understand."
       ],
       "correctIndexes": [
         2
@@ -352,13 +352,13 @@
       "explainKo": "정답: ④. similar with가 아니라 similar to이다. (답지 p.37 Vocabulary 심화 14)",
       "type": "mc",
       "select": "one",
-      "promptEn": "Which underlined expression is used unnaturally?",
+      "promptEn": "14 다음 밑줄 친 부분의 쓰임이 어색한 것은?\n① He cooked dinner <u>by</u> himself last night.\n② We came up <u>with</u> a new plan for the project.\n③ Feel free <u>to</u> call me anytime you need help.\n④ This bag is very similar <u>with</u> mine in color.\n⑤ Let's take a look <u>at</u> the new book.",
       "choices": [
-        "He cooked dinner by himself last night.",
-        "We came up with a new plan for the project.",
-        "Feel free to call me anytime you need help.",
-        "This bag is very similar with mine in color.",
-        "Let's take a look at the new book."
+        "He cooked dinner <u>by</u> himself last night.",
+        "We came up <u>with</u> a new plan for the project.",
+        "Feel free <u>to</u> call me anytime you need help.",
+        "This bag is very similar <u>with</u> mine in color.",
+        "Let's take a look <u>at</u> the new book."
       ],
       "correctIndexes": [
         4

@@ -169,13 +169,13 @@
       "explainKo": "정답: ④. It is time to는 '~할 시간이다'라는 비인칭 it이고, 나머지는 가주어 it. (답지 p.40 Grammar 심화 07)",
       "type": "mc",
       "select": "one",
-      "promptEn": "07 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?\nThe underlined part is in 〔 〕.",
+      "promptEn": "07 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?\n① <u>It</u> is important to exercise every day.\n② <u>It</u> is very hard to play tennis.\n③ <u>It</u> is easy to play this game.\n④ <u>It</u> is time to go to bed now.\n⑤ <u>It</u> is dangerous to swim here.",
       "choices": [
-        "It is important 〔to exercise〕 every day.",
-        "It is very hard 〔to play〕 tennis.",
-        "It is easy 〔to play〕 this game.",
-        "It is time 〔to go〕 to bed now.",
-        "It is dangerous 〔to swim〕 here."
+        "<u>It</u> is important to exercise every day.",
+        "<u>It</u> is very hard to play tennis.",
+        "<u>It</u> is easy to play this game.",
+        "<u>It</u> is time to go to bed now.",
+        "<u>It</u> is dangerous to swim here."
       ],
       "correctIndexes": [
         4
@@ -251,13 +251,13 @@
       "explainKo": "정답: ④. why to trust him → why she should trust him. (답지 p.40 Grammar 심화 10)",
       "type": "mc",
       "select": "one",
-      "promptEn": "10 다음 중 밑줄 친 부분이 어법상 틀린 것은?\nThe underlined part is in 〔 〕.",
+      "promptEn": "10 다음 중 밑줄 친 부분이 어법상 틀린 것은?\n① I don't know <u>where to park</u>.\n② We are thinking <u>what to write</u>.\n③ He asked me <u>which to choose</u>.\n④ She doesn't know <u>why to trust him</u>.\n⑤ Please teach me <u>how to draw a cat</u>.",
       "choices": [
-        "I don't know 〔where to park〕.",
-        "We are thinking 〔what to write〕.",
-        "He asked me 〔which to choose〕.",
-        "She doesn't know 〔why to trust him〕.",
-        "Please teach me 〔how to draw a cat〕."
+        "I don't know <u>where to park</u>.",
+        "We are thinking <u>what to write</u>.",
+        "He asked me <u>which to choose</u>.",
+        "She doesn't know <u>why to trust him</u>.",
+        "Please teach me <u>how to draw a cat</u>."
       ],
       "correctIndexes": [
         4

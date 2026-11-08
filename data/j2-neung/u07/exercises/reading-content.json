@@ -80,7 +80,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 공유 경제. (답지 p.29 Reading 내용 확인하기 04)",
       "type": "fill",
-      "promptEn": "04 밑줄 친 sharing economy의 우리말 뜻을 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 sharing economy.",
+      "promptEn": "04 밑줄 친 sharing economy의 우리말 뜻을 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 <u>sharing economy</u>.",
       "accept": [
         "공유 경제"
       ],
@@ -100,7 +100,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 부사적. (답지 p.29 Reading 내용 확인하기 05)",
       "type": "fill",
-      "promptEn": "05 밑줄 친 to get의 to부정사 용법을 쓰시오. (목적)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "promptEn": "05 밑줄 친 to get의 to부정사 용법을 쓰시오. (목적)\n\nLast week, I used an app 05 <u>to get</u> a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
       "accept": [
         "부사적"
       ],
@@ -120,7 +120,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 중고의. (답지 p.29 Reading 내용 확인하기 06)",
       "type": "fill",
-      "promptEn": "06 밑줄 친 secondhand의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "promptEn": "06 밑줄 친 secondhand의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 <u>secondhand</u> items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
       "accept": [
         "중고의"
       ],
@@ -140,7 +140,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 무료로 주다. (답지 p.29 Reading 내용 확인하기 07)",
       "type": "fill",
-      "promptEn": "07 밑줄 친 give away의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "promptEn": "07 밑줄 친 give away의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 <u>give away</u> items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
       "accept": [
         "무료로 주다"
       ],
@@ -160,7 +160,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 목적격. (답지 p.29 Reading 내용 확인하기 08)",
       "type": "fill",
-      "promptEn": "08 밑줄 친 that의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "promptEn": "08 밑줄 친 that의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 <u>that</u> they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
       "accept": [
         "목적격"
       ],
@@ -200,7 +200,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 주격. (답지 p.29 Reading 내용 확인하기 10)",
       "type": "fill",
-      "promptEn": "10 밑줄 친 who의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "promptEn": "10 밑줄 친 who의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 <u>who</u> posted it.",
       "accept": [
         "주격"
       ],
@@ -220,7 +220,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: at 3:00 p.m. tomorrow. (답지 p.29 Reading 내용 확인하기 11)",
       "type": "fill",
-      "promptEn": "11 밑줄 친 then이 가리키는 말을 쓰시오.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you 11 then. Thank you!",
+      "promptEn": "11 밑줄 친 then이 가리키는 말을 쓰시오.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you 11 <u>then</u>. Thank you!",
       "accept": [
         "at 3:00 p.m. tomorrow"
       ],
@@ -300,7 +300,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 상태가 좋은. (답지 p.29 Reading 내용 확인하기 15)",
       "type": "fill",
-      "promptEn": "15 밑줄 친 in good condition의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "promptEn": "15 밑줄 친 in good condition의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 <u>in good condition</u>.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
       "accept": [
         "상태가 좋은"
       ],
@@ -320,7 +320,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: ~로 향하다. (답지 p.29 Reading 내용 확인하기 16)",
       "type": "fill",
-      "promptEn": "16 밑줄 친 head for의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "promptEn": "16 밑줄 친 head for의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 <u>headed for</u> the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
       "accept": [
         "~로 향하다"
       ],
@@ -340,7 +340,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 부사적. (답지 p.29 Reading 내용 확인하기 17)",
       "type": "fill",
-      "promptEn": "17 밑줄 친 to help의 to부정사 용법을 쓰시오. (감정의 원인)\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "promptEn": "17 밑줄 친 to help의 to부정사 용법을 쓰시오. (감정의 원인)\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 <u>to help</u> the environment.",
       "accept": [
         "부사적"
       ],
@@ -360,7 +360,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: 내 예전 것만큼 큰. (답지 p.29 Reading 내용 확인하기 18)",
       "type": "fill",
-      "promptEn": "18 밑줄 친 as big as my old one의 우리말 뜻을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "promptEn": "18 밑줄 친 as big as my old one의 우리말 뜻을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 <u>as big as my old one</u>, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
       "accept": [
         "내 예전 것만큼 큰"
       ],
@@ -380,7 +380,7 @@
       "answerModeTag": "Type · 빈칸 말만",
       "explainKo": "정답: the backpack. (답지 p.29 Reading 내용 확인하기 19)",
       "type": "fill",
-      "promptEn": "19 밑줄 친 it이 가리키는 말을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "promptEn": "19 밑줄 친 it이 가리키는 말을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 <u>it</u> was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
       "accept": [
         "the backpack"
       ],
