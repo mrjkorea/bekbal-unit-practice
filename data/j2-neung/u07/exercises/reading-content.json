@@ -1,0 +1,465 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "p.152",
+  "questionCount": 22,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: shared. (답지 p.29 Reading 내용 확인하기 01)",
+      "type": "fill",
+      "promptEn": "01 (share)의 알맞은 형태를 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 sharing economy.",
+      "accept": [
+        "shared"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: saves. (답지 p.29 Reading 내용 확인하기 02)",
+      "type": "fill",
+      "promptEn": "02 (save)의 알맞은 형태를 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 sharing economy.",
+      "accept": [
+        "saves"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Let me tell. (답지 p.29 Reading 내용 확인하기 03)",
+      "type": "fill",
+      "promptEn": "03 괄호 안의 말을 바른 순서로 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 sharing economy.",
+      "accept": [
+        "Let me tell"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 공유 경제. (답지 p.29 Reading 내용 확인하기 04)",
+      "type": "fill",
+      "promptEn": "04 밑줄 친 sharing economy의 우리말 뜻을 쓰시오.\n\nHello, I'm Jimin. Have you ever 01 (share) things like bikes, books, or toys?\nSharing 02 (save) resources and money, and it is good for the environment.\n03 (tell, let, me) you about my experience with the 04 sharing economy.",
+      "accept": [
+        "공유 경제"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 부사적. (답지 p.29 Reading 내용 확인하기 05)",
+      "type": "fill",
+      "promptEn": "05 밑줄 친 to get의 to부정사 용법을 쓰시오. (목적)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "부사적"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 중고의. (답지 p.29 Reading 내용 확인하기 06)",
+      "type": "fill",
+      "promptEn": "06 밑줄 친 secondhand의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "중고의"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 무료로 주다. (답지 p.29 Reading 내용 확인하기 07)",
+      "type": "fill",
+      "promptEn": "07 밑줄 친 give away의 우리말 뜻을 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "무료로 주다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 목적격. (답지 p.29 Reading 내용 확인하기 08)",
+      "type": "fill",
+      "promptEn": "08 밑줄 친 that의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "목적격"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: good. (답지 p.29 Reading 내용 확인하기 09)",
+      "type": "fill",
+      "promptEn": "09 (good)의 알맞은 형태를 쓰시오.\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "good"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 주격. (답지 p.29 Reading 내용 확인하기 10)",
+      "type": "fill",
+      "promptEn": "10 밑줄 친 who의 격을 쓰시오. (관계대명사)\n\nLast week, I used an app 05 to get a backpack. The app allows users to easily buy and sell 06 secondhand items.\nSometimes, people also 07 give away items 08 that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away.\nIt looked as 09 (good) as a new one. So, I sent a message to the person 10 who posted it.",
+      "accept": [
+        "주격"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: at 3:00 p.m. tomorrow. (답지 p.29 Reading 내용 확인하기 11)",
+      "type": "fill",
+      "promptEn": "11 밑줄 친 then이 가리키는 말을 쓰시오.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you 11 then. Thank you!",
+      "accept": [
+        "at 3:00 p.m. tomorrow"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: taking. (답지 p.29 Reading 내용 확인하기 12)",
+      "type": "fill",
+      "promptEn": "12 (take)의 알맞은 형태를 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "taking"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: has. (답지 p.29 Reading 내용 확인하기 13)",
+      "type": "fill",
+      "promptEn": "13 (have)의 알맞은 형태를 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "has"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: open. (답지 p.29 Reading 내용 확인하기 14)",
+      "type": "fill",
+      "promptEn": "14 (to open)을 어법에 맞게 고쳐 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "open"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 상태가 좋은. (답지 p.29 Reading 내용 확인하기 15)",
+      "type": "fill",
+      "promptEn": "15 밑줄 친 in good condition의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "상태가 좋은"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~로 향하다. (답지 p.29 Reading 내용 확인하기 16)",
+      "type": "fill",
+      "promptEn": "16 밑줄 친 head for의 우리말 뜻을 쓰시오.\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "~로 향하다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 부사적. (답지 p.29 Reading 내용 확인하기 17)",
+      "type": "fill",
+      "promptEn": "17 밑줄 친 to help의 to부정사 용법을 쓰시오. (감정의 원인)\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of 12 (take) a bus.\nMy city has a bike-sharing system. Anyone who 13 (have) an app can borrow a bike easily.\nFirst, you choose a bike that you want to use. Then you scan the QR code on the bike. This makes the bike's lock 14 (to open).\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not 15 in good condition.\nThis time, everything looked fine, so I 16 headed for the park. When I got there, I returned the bike to a station in the park.\nUsing the bike was really easy. Also, I was happy 17 to help the environment.",
+      "accept": [
+        "부사적"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 내 예전 것만큼 큰. (답지 p.29 Reading 내용 확인하기 18)",
+      "type": "fill",
+      "promptEn": "18 밑줄 친 as big as my old one의 우리말 뜻을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "accept": [
+        "내 예전 것만큼 큰"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: the backpack. (답지 p.29 Reading 내용 확인하기 19)",
+      "type": "fill",
+      "promptEn": "19 밑줄 친 it이 가리키는 말을 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "accept": [
+        "the backpack"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: using. (답지 p.29 Reading 내용 확인하기 20)",
+      "type": "fill",
+      "promptEn": "20 (use)의 알맞은 형태를 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "accept": [
+        "using"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: spending. (답지 p.29 Reading 내용 확인하기 21)",
+      "type": "fill",
+      "promptEn": "21 (spend)의 알맞은 형태를 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "accept": [
+        "spending"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: think. (답지 p.29 Reading 내용 확인하기 22)",
+      "type": "fill",
+      "promptEn": "22 (thinks)의 알맞은 형태를 쓰시오.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't 18 as big as my old one, but 19 it was in great condition.\nI also really liked the color of it. I looked forward to 20 (use) it for school.\nThat day was a great experience for me. I got a cool backpack without 21 (spend) any money!\nThis experience also made me 22 (thinks) that I should share my things with others, too.",
+      "accept": [
+        "think"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 22문항.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 내용 확인",
+      "directionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "다음 글의 빈칸에 들어갈 적절한 말을 쓰거나, 괄호 안의 단어를 올바른 형태로 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 22
+    }
+  ]
+}

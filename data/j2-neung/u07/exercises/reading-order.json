@@ -1,0 +1,2230 @@
+{
+  "id": "reading-order",
+  "title": "Reading 순서배열하기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.154-155",
+  "questionCount": 30,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Hello, I'm Jimin. Have you ever shared things like bikes, books, or toys? (답지 p.30 Reading 순서배열하기 01)",
+      "type": "order",
+      "promptEn": "01 Put the words in order.\n안녕하세요. 저는 지민입니다. 여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "I'm"
+        },
+        {
+          "id": "c2",
+          "text": "Hello."
+        },
+        {
+          "id": "c3",
+          "text": "Jimin."
+        },
+        {
+          "id": "c4",
+          "text": "shared"
+        },
+        {
+          "id": "c5",
+          "text": "or"
+        },
+        {
+          "id": "c6",
+          "text": "Have"
+        },
+        {
+          "id": "c7",
+          "text": "bikes,"
+        },
+        {
+          "id": "c8",
+          "text": "ever"
+        },
+        {
+          "id": "c9",
+          "text": "things"
+        },
+        {
+          "id": "c10",
+          "text": "you"
+        },
+        {
+          "id": "c11",
+          "text": "like"
+        },
+        {
+          "id": "c12",
+          "text": "books,"
+        },
+        {
+          "id": "c13",
+          "text": "toys?"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c1",
+        "c3",
+        "c6",
+        "c10",
+        "c8",
+        "c4",
+        "c9",
+        "c11",
+        "c7",
+        "c12",
+        "c5",
+        "c13"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Sharing saves resources and money, and it is good for the environment. (답지 p.30 Reading 순서배열하기 02)",
+      "type": "order",
+      "promptEn": "02 Put the words in order.\n공유하는 것은 자원과 돈을 절약하고, 환경에 좋습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "environment."
+        },
+        {
+          "id": "c2",
+          "text": "resources"
+        },
+        {
+          "id": "c3",
+          "text": "and"
+        },
+        {
+          "id": "c4",
+          "text": "is"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "it"
+        },
+        {
+          "id": "c7",
+          "text": "money,"
+        },
+        {
+          "id": "c8",
+          "text": "saves"
+        },
+        {
+          "id": "c9",
+          "text": "for"
+        },
+        {
+          "id": "c10",
+          "text": "Sharing"
+        },
+        {
+          "id": "c11",
+          "text": "and"
+        },
+        {
+          "id": "c12",
+          "text": "good"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c8",
+        "c2",
+        "c3",
+        "c7",
+        "c11",
+        "c6",
+        "c4",
+        "c12",
+        "c9",
+        "c5",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Let me tell you about my experience with the sharing economy. (답지 p.30 Reading 순서배열하기 03)",
+      "type": "order",
+      "promptEn": "03 Put the words in order.\n공유 경제에 관한 저의 경험에 대해 이야기해 드리겠습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "experience"
+        },
+        {
+          "id": "c2",
+          "text": "tell"
+        },
+        {
+          "id": "c3",
+          "text": "sharing"
+        },
+        {
+          "id": "c4",
+          "text": "you"
+        },
+        {
+          "id": "c5",
+          "text": "economy."
+        },
+        {
+          "id": "c6",
+          "text": "about"
+        },
+        {
+          "id": "c7",
+          "text": "me"
+        },
+        {
+          "id": "c8",
+          "text": "my"
+        },
+        {
+          "id": "c9",
+          "text": "with"
+        },
+        {
+          "id": "c10",
+          "text": "Let"
+        },
+        {
+          "id": "c11",
+          "text": "the"
+        }
+      ],
+      "orderIds": [
+        "c10",
+        "c7",
+        "c2",
+        "c4",
+        "c6",
+        "c8",
+        "c1",
+        "c9",
+        "c11",
+        "c3",
+        "c5"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Last week, I used an app to get a backpack. (답지 p.30 Reading 순서배열하기 04)",
+      "type": "order",
+      "promptEn": "04 Put the words in order.\n지난주에, 저는 책가방을 구하기 위해 앱을 사용했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "get"
+        },
+        {
+          "id": "c2",
+          "text": "used"
+        },
+        {
+          "id": "c3",
+          "text": "an"
+        },
+        {
+          "id": "c4",
+          "text": "week,"
+        },
+        {
+          "id": "c5",
+          "text": "app"
+        },
+        {
+          "id": "c6",
+          "text": "backpack."
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c9",
+          "text": "Last"
+        },
+        {
+          "id": "c10",
+          "text": "a"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c4",
+        "c7",
+        "c2",
+        "c3",
+        "c5",
+        "c8",
+        "c1",
+        "c10",
+        "c6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: The app allows users to easily buy and sell secondhand items. (답지 p.30 Reading 순서배열하기 05)",
+      "type": "order",
+      "promptEn": "05 Put the words in order.\n그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "sell"
+        },
+        {
+          "id": "c2",
+          "text": "allows"
+        },
+        {
+          "id": "c3",
+          "text": "buy"
+        },
+        {
+          "id": "c4",
+          "text": "secondhand"
+        },
+        {
+          "id": "c5",
+          "text": "and"
+        },
+        {
+          "id": "c6",
+          "text": "users"
+        },
+        {
+          "id": "c7",
+          "text": "app"
+        },
+        {
+          "id": "c8",
+          "text": "easily"
+        },
+        {
+          "id": "c9",
+          "text": "The"
+        },
+        {
+          "id": "c10",
+          "text": "items."
+        },
+        {
+          "id": "c11",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "c9",
+        "c7",
+        "c2",
+        "c6",
+        "c11",
+        "c8",
+        "c3",
+        "c5",
+        "c1",
+        "c4",
+        "c10"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Sometimes, people also give away items that they don't need anymore. (답지 p.30 Reading 순서배열하기 06)",
+      "type": "order",
+      "promptEn": "06 Put the words in order.\n가끔, 사람들은 더 이상 필요하지 않은 물건들을 무료로 주기도 합니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "don't"
+        },
+        {
+          "id": "c2",
+          "text": "anymore."
+        },
+        {
+          "id": "c3",
+          "text": "give"
+        },
+        {
+          "id": "c4",
+          "text": "need"
+        },
+        {
+          "id": "c5",
+          "text": "items"
+        },
+        {
+          "id": "c6",
+          "text": "people"
+        },
+        {
+          "id": "c7",
+          "text": "they"
+        },
+        {
+          "id": "c8",
+          "text": "Sometimes,"
+        },
+        {
+          "id": "c9",
+          "text": "away"
+        },
+        {
+          "id": "c10",
+          "text": "that"
+        },
+        {
+          "id": "c11",
+          "text": "also"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c6",
+        "c11",
+        "c3",
+        "c9",
+        "c5",
+        "c10",
+        "c7",
+        "c1",
+        "c4",
+        "c2"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I saw a post about a nice backpack. Someone was giving it away. (답지 p.30 Reading 순서배열하기 07)",
+      "type": "order",
+      "promptEn": "07 Put the words in order.\n저는 멋진 책가방에 관한 게시물을 보았습니다. 누군가가 그것을 무료로 주고 있었습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "post"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "backpack."
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "about"
+        },
+        {
+          "id": "c7",
+          "text": "nice"
+        },
+        {
+          "id": "c8",
+          "text": "saw"
+        },
+        {
+          "id": "c9",
+          "text": "it"
+        },
+        {
+          "id": "c10",
+          "text": "was"
+        },
+        {
+          "id": "c11",
+          "text": "giving"
+        },
+        {
+          "id": "c12",
+          "text": "away."
+        },
+        {
+          "id": "c13",
+          "text": "Someone"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c8",
+        "c2",
+        "c1",
+        "c6",
+        "c5",
+        "c7",
+        "c4",
+        "c13",
+        "c10",
+        "c11",
+        "c9",
+        "c12"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: It looked as good as a new one. (답지 p.30 Reading 순서배열하기 08)",
+      "type": "order",
+      "promptEn": "08 Put the words in order.\n그것은 새것만큼 좋아 보였습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "as"
+        },
+        {
+          "id": "c2",
+          "text": "new"
+        },
+        {
+          "id": "c3",
+          "text": "It"
+        },
+        {
+          "id": "c4",
+          "text": "as"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "looked"
+        },
+        {
+          "id": "c7",
+          "text": "one."
+        },
+        {
+          "id": "c8",
+          "text": "good"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c6",
+        "c1",
+        "c8",
+        "c4",
+        "c5",
+        "c2",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: So, I sent a message to the person who posted it. (답지 p.30 Reading 순서배열하기 09)",
+      "type": "order",
+      "promptEn": "09 Put the words in order.\n그래서 저는 그것을 게시한 사람에게 메시지를 보냈습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "message"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "posted"
+        },
+        {
+          "id": "c4",
+          "text": "So,"
+        },
+        {
+          "id": "c5",
+          "text": "person"
+        },
+        {
+          "id": "c6",
+          "text": "it."
+        },
+        {
+          "id": "c7",
+          "text": "sent"
+        },
+        {
+          "id": "c8",
+          "text": "who"
+        },
+        {
+          "id": "c9",
+          "text": "I"
+        },
+        {
+          "id": "c10",
+          "text": "to"
+        },
+        {
+          "id": "c11",
+          "text": "a"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c9",
+        "c7",
+        "c11",
+        "c1",
+        "c10",
+        "c2",
+        "c5",
+        "c8",
+        "c3",
+        "c6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Hello, can I get the backpack? Sure. (답지 p.30 Reading 순서배열하기 10)",
+      "type": "order",
+      "promptEn": "10 Put Jimin's words in order. User 1: Sure.\n지민: 안녕하세요. 제가 책가방을 얻을 수 있을까요?\n사용자 1: 그럼요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "get"
+        },
+        {
+          "id": "c2",
+          "text": "Hello,"
+        },
+        {
+          "id": "c3",
+          "text": "backpack?"
+        },
+        {
+          "id": "c4",
+          "text": "can"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c4",
+        "c6",
+        "c1",
+        "c5",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Great! How can I get it? (답지 p.30 Reading 순서배열하기 11)",
+      "type": "order",
+      "promptEn": "11 Put Jimin's words in order.\n지민: 잘됐네요! 제가 그것을 어떻게 받을 수 있을까요?",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "I"
+        },
+        {
+          "id": "c2",
+          "text": "it?"
+        },
+        {
+          "id": "c3",
+          "text": "can"
+        },
+        {
+          "id": "c4",
+          "text": "Great!"
+        },
+        {
+          "id": "c5",
+          "text": "How"
+        },
+        {
+          "id": "c6",
+          "text": "get"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c5",
+        "c3",
+        "c1",
+        "c6",
+        "c2"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Can you come to Central Park at 3:00 p.m. tomorrow? (답지 p.30 Reading 순서배열하기 12)",
+      "type": "order",
+      "promptEn": "12 Put User 1's words in order.\n사용자 1: 내일 오후 3시에 Central Park로 올 수 있나요?",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "at"
+        },
+        {
+          "id": "c2",
+          "text": "come"
+        },
+        {
+          "id": "c3",
+          "text": "Can"
+        },
+        {
+          "id": "c4",
+          "text": "tomorrow?"
+        },
+        {
+          "id": "c5",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "Central Park"
+        },
+        {
+          "id": "c7",
+          "text": "3:00 p.m."
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c5",
+        "c2",
+        "c8",
+        "c6",
+        "c1",
+        "c7",
+        "c4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Sure! I'll see you then. Thank you! (답지 p.30 Reading 순서배열하기 13)",
+      "type": "order",
+      "promptEn": "13 Put Jimin's words in order.\n지민: 물론이죠! 그때 뵐게요. 고맙습니다!",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "then."
+        },
+        {
+          "id": "c2",
+          "text": "Sure!"
+        },
+        {
+          "id": "c3",
+          "text": "see"
+        },
+        {
+          "id": "c4",
+          "text": "I'll"
+        },
+        {
+          "id": "c5",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "you!"
+        },
+        {
+          "id": "c7",
+          "text": "Thank"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c4",
+        "c3",
+        "c5",
+        "c1",
+        "c7",
+        "c6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: The next day, I got ready to go to the park. (답지 p.30 Reading 순서배열하기 14)",
+      "type": "order",
+      "promptEn": "14 Put the words in order.\n다음 날, 저는 공원에 갈 준비를 했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "go"
+        },
+        {
+          "id": "c2",
+          "text": "to"
+        },
+        {
+          "id": "c3",
+          "text": "park."
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "got"
+        },
+        {
+          "id": "c6",
+          "text": "next"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c9",
+          "text": "ready"
+        },
+        {
+          "id": "c10",
+          "text": "day,"
+        },
+        {
+          "id": "c11",
+          "text": "The"
+        }
+      ],
+      "orderIds": [
+        "c11",
+        "c6",
+        "c10",
+        "c7",
+        "c5",
+        "c9",
+        "c2",
+        "c1",
+        "c8",
+        "c4",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I decided to borrow a bike instead of taking a bus. (답지 p.30 Reading 순서배열하기 15)",
+      "type": "order",
+      "promptEn": "15 Put the words in order.\n저는 버스를 타는 대신에 자전거를 빌리기로 결정했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "bus."
+        },
+        {
+          "id": "c2",
+          "text": "instead"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "decided"
+        },
+        {
+          "id": "c5",
+          "text": "taking"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "borrow"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c9",
+          "text": "bike"
+        },
+        {
+          "id": "c10",
+          "text": "of"
+        },
+        {
+          "id": "c11",
+          "text": "a"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c4",
+        "c8",
+        "c7",
+        "c3",
+        "c9",
+        "c2",
+        "c10",
+        "c5",
+        "c11",
+        "c1"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: My city has a bike-sharing system. Anyone who has an app can borrow a bike easily. (답지 p.30 Reading 순서배열하기 16)",
+      "type": "order",
+      "promptEn": "16 Put the words in order.\n제 도시는 자전거 공유 시스템이 있습니다. 앱이 있는 누구나 자전거를 쉽게 빌릴 수 있습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "city"
+        },
+        {
+          "id": "c2",
+          "text": "bike-sharing"
+        },
+        {
+          "id": "c3",
+          "text": "has"
+        },
+        {
+          "id": "c4",
+          "text": "My"
+        },
+        {
+          "id": "c5",
+          "text": "system."
+        },
+        {
+          "id": "c6",
+          "text": "a"
+        },
+        {
+          "id": "c7",
+          "text": "bike"
+        },
+        {
+          "id": "c8",
+          "text": "borrow"
+        },
+        {
+          "id": "c9",
+          "text": "a"
+        },
+        {
+          "id": "c10",
+          "text": "easily."
+        },
+        {
+          "id": "c11",
+          "text": "app"
+        },
+        {
+          "id": "c12",
+          "text": "who"
+        },
+        {
+          "id": "c13",
+          "text": "an"
+        },
+        {
+          "id": "c14",
+          "text": "Anyone"
+        },
+        {
+          "id": "c15",
+          "text": "has"
+        },
+        {
+          "id": "c16",
+          "text": "can"
+        }
+      ],
+      "orderIds": [
+        "c4",
+        "c1",
+        "c3",
+        "c6",
+        "c2",
+        "c5",
+        "c14",
+        "c12",
+        "c15",
+        "c13",
+        "c11",
+        "c16",
+        "c8",
+        "c9",
+        "c7",
+        "c10"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: First, you choose a bike that you want to use. (답지 p.30 Reading 순서배열하기 17)",
+      "type": "order",
+      "promptEn": "17 Put the words in order.\n먼저, 사용하고 싶은 자전거를 고릅니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "that"
+        },
+        {
+          "id": "c2",
+          "text": "you"
+        },
+        {
+          "id": "c3",
+          "text": "bike"
+        },
+        {
+          "id": "c4",
+          "text": "want"
+        },
+        {
+          "id": "c5",
+          "text": "choose"
+        },
+        {
+          "id": "c6",
+          "text": "to"
+        },
+        {
+          "id": "c7",
+          "text": "First,"
+        },
+        {
+          "id": "c8",
+          "text": "use."
+        },
+        {
+          "id": "c9",
+          "text": "a"
+        },
+        {
+          "id": "c10",
+          "text": "you"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c2",
+        "c5",
+        "c9",
+        "c3",
+        "c1",
+        "c10",
+        "c4",
+        "c6",
+        "c8"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Then you scan the QR code on the bike. This makes the bike's lock open. (답지 p.30 Reading 순서배열하기 18)",
+      "type": "order",
+      "promptEn": "18 Put the words in order.\n그리고 나서 자전거에 있는 QR 코드를 스캔합니다. 이것은 자전거의 자물쇠가 열리게 만듭니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "scan"
+        },
+        {
+          "id": "c2",
+          "text": "QR code"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "bike."
+        },
+        {
+          "id": "c7",
+          "text": "on"
+        },
+        {
+          "id": "c8",
+          "text": "Then"
+        },
+        {
+          "id": "c9",
+          "text": "open."
+        },
+        {
+          "id": "c10",
+          "text": "makes"
+        },
+        {
+          "id": "c11",
+          "text": "bike's"
+        },
+        {
+          "id": "c12",
+          "text": "lock"
+        },
+        {
+          "id": "c13",
+          "text": "the"
+        },
+        {
+          "id": "c14",
+          "text": "This"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c5",
+        "c1",
+        "c3",
+        "c2",
+        "c7",
+        "c4",
+        "c6",
+        "c14",
+        "c10",
+        "c13",
+        "c11",
+        "c12",
+        "c9"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Before I rode to the park, I checked the bike carefully. (답지 p.30 Reading 순서배열하기 19)",
+      "type": "order",
+      "promptEn": "19 Put the words in order.\n공원으로 타고 가기 전에, 저는 자전거를 꼼꼼히 확인했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "park,"
+        },
+        {
+          "id": "c2",
+          "text": "Before"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "bike"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c6",
+          "text": "checked"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "carefully."
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "rode"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c7",
+        "c10",
+        "c3",
+        "c5",
+        "c1",
+        "c11",
+        "c6",
+        "c9",
+        "c4",
+        "c8"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Sometimes, the bikes are not in good condition. (답지 p.30 Reading 순서배열하기 20)",
+      "type": "order",
+      "promptEn": "20 Put the words in order.\n가끔, 자전거들이 상태가 좋지 않거든요.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "good"
+        },
+        {
+          "id": "c2",
+          "text": "are"
+        },
+        {
+          "id": "c3",
+          "text": "condition."
+        },
+        {
+          "id": "c4",
+          "text": "bikes"
+        },
+        {
+          "id": "c5",
+          "text": "in"
+        },
+        {
+          "id": "c6",
+          "text": "Sometimes,"
+        },
+        {
+          "id": "c7",
+          "text": "not"
+        },
+        {
+          "id": "c8",
+          "text": "the"
+        }
+      ],
+      "orderIds": [
+        "c6",
+        "c8",
+        "c4",
+        "c2",
+        "c7",
+        "c5",
+        "c1",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: This time, everything looked fine, so I headed for the park. (답지 p.30 Reading 순서배열하기 21)",
+      "type": "order",
+      "promptEn": "21 Put the words in order.\n이번에는 모든 것이 좋아 보여서, 저는 공원으로 향했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "headed"
+        },
+        {
+          "id": "c2",
+          "text": "looked"
+        },
+        {
+          "id": "c3",
+          "text": "This"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "everything"
+        },
+        {
+          "id": "c6",
+          "text": "for"
+        },
+        {
+          "id": "c7",
+          "text": "so"
+        },
+        {
+          "id": "c8",
+          "text": "park."
+        },
+        {
+          "id": "c9",
+          "text": "fine,"
+        },
+        {
+          "id": "c10",
+          "text": "I"
+        },
+        {
+          "id": "c11",
+          "text": "time,"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c11",
+        "c5",
+        "c2",
+        "c9",
+        "c7",
+        "c10",
+        "c1",
+        "c6",
+        "c4",
+        "c8"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: When I got there, I returned the bike to a station in the park. (답지 p.30 Reading 순서배열하기 22)",
+      "type": "order",
+      "promptEn": "22 Put the words in order.\n그곳에 도착했을 때, 저는 자전거를 공원 안에 있는 정거장에 반납했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "there,"
+        },
+        {
+          "id": "c2",
+          "text": "When"
+        },
+        {
+          "id": "c3",
+          "text": "bike"
+        },
+        {
+          "id": "c4",
+          "text": "returned"
+        },
+        {
+          "id": "c5",
+          "text": "station"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "the"
+        },
+        {
+          "id": "c8",
+          "text": "got"
+        },
+        {
+          "id": "c9",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "to"
+        },
+        {
+          "id": "c11",
+          "text": "park."
+        },
+        {
+          "id": "c12",
+          "text": "a"
+        },
+        {
+          "id": "c13",
+          "text": "I"
+        },
+        {
+          "id": "c14",
+          "text": "in"
+        }
+      ],
+      "orderIds": [
+        "c2",
+        "c6",
+        "c8",
+        "c1",
+        "c13",
+        "c4",
+        "c7",
+        "c3",
+        "c10",
+        "c12",
+        "c5",
+        "c14",
+        "c9",
+        "c11"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: Using the bike was really easy. Also, I was happy to help the environment. (답지 p.30 Reading 순서배열하기 23)",
+      "type": "order",
+      "promptEn": "23 Put the words in order.\n자전거를 이용하는 것은 정말 쉬웠습니다. 또한, 저는 환경에 도움이 되어 기뻤습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "bike"
+        },
+        {
+          "id": "c2",
+          "text": "really"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c4",
+          "text": "easy."
+        },
+        {
+          "id": "c5",
+          "text": "Using"
+        },
+        {
+          "id": "c6",
+          "text": "was"
+        },
+        {
+          "id": "c7",
+          "text": "environment."
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        },
+        {
+          "id": "c9",
+          "text": "help"
+        },
+        {
+          "id": "c10",
+          "text": "happy"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c12",
+          "text": "the"
+        },
+        {
+          "id": "c13",
+          "text": "to"
+        },
+        {
+          "id": "c14",
+          "text": "Also,"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c3",
+        "c1",
+        "c6",
+        "c2",
+        "c4",
+        "c14",
+        "c11",
+        "c8",
+        "c10",
+        "c13",
+        "c9",
+        "c12",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: After I got the backpack from the person, I went home. (답지 p.30 Reading 순서배열하기 24)",
+      "type": "order",
+      "promptEn": "24 Put the words in order.\n그 사람에게서 책가방을 받은 후, 저는 집으로 갔습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "person,"
+        },
+        {
+          "id": "c2",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "backpack"
+        },
+        {
+          "id": "c4",
+          "text": "went"
+        },
+        {
+          "id": "c5",
+          "text": "from"
+        },
+        {
+          "id": "c6",
+          "text": "got"
+        },
+        {
+          "id": "c7",
+          "text": "After"
+        },
+        {
+          "id": "c8",
+          "text": "the"
+        },
+        {
+          "id": "c9",
+          "text": "home."
+        },
+        {
+          "id": "c10",
+          "text": "the"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c2",
+        "c6",
+        "c8",
+        "c3",
+        "c5",
+        "c10",
+        "c1",
+        "c11",
+        "c4",
+        "c9"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: The backpack wasn't as big as my old one, but it was in great condition. (답지 p.30 Reading 순서배열하기 25)",
+      "type": "order",
+      "promptEn": "25 Put the words in order.\n책가방은 제 예전 것만큼 크지는 않았지만, 상태가 훌륭했습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "big"
+        },
+        {
+          "id": "c2",
+          "text": "wasn't"
+        },
+        {
+          "id": "c3",
+          "text": "old"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c5",
+          "text": "backpack"
+        },
+        {
+          "id": "c6",
+          "text": "one,"
+        },
+        {
+          "id": "c7",
+          "text": "as"
+        },
+        {
+          "id": "c8",
+          "text": "but"
+        },
+        {
+          "id": "c9",
+          "text": "great"
+        },
+        {
+          "id": "c10",
+          "text": "my"
+        },
+        {
+          "id": "c11",
+          "text": "The"
+        },
+        {
+          "id": "c12",
+          "text": "as"
+        },
+        {
+          "id": "c13",
+          "text": "in"
+        },
+        {
+          "id": "c14",
+          "text": "it"
+        },
+        {
+          "id": "c15",
+          "text": "condition."
+        }
+      ],
+      "orderIds": [
+        "c11",
+        "c5",
+        "c2",
+        "c7",
+        "c1",
+        "c12",
+        "c10",
+        "c3",
+        "c6",
+        "c8",
+        "c14",
+        "c4",
+        "c13",
+        "c9",
+        "c15"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I also really liked the color of it. (답지 p.30 Reading 순서배열하기 26)",
+      "type": "order",
+      "promptEn": "26 Put the words in order.\n저는 그것의 색상도 정말 마음에 들었습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "color"
+        },
+        {
+          "id": "c2",
+          "text": "really"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "of"
+        },
+        {
+          "id": "c6",
+          "text": "liked"
+        },
+        {
+          "id": "c7",
+          "text": "it."
+        },
+        {
+          "id": "c8",
+          "text": "also"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c8",
+        "c2",
+        "c6",
+        "c4",
+        "c1",
+        "c5",
+        "c7"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I looked forward to using it for school. (답지 p.30 Reading 순서배열하기 27)",
+      "type": "order",
+      "promptEn": "27 Put the words in order.\n저는 그것을 학교에서 사용할 것이 기대됐습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "using"
+        },
+        {
+          "id": "c2",
+          "text": "looked"
+        },
+        {
+          "id": "c3",
+          "text": "it"
+        },
+        {
+          "id": "c4",
+          "text": "school."
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c6",
+          "text": "for"
+        },
+        {
+          "id": "c7",
+          "text": "forward"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        }
+      ],
+      "orderIds": [
+        "c8",
+        "c2",
+        "c7",
+        "c5",
+        "c1",
+        "c3",
+        "c6",
+        "c4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: That day was a great experience for me. (답지 p.30 Reading 순서배열하기 28)",
+      "type": "order",
+      "promptEn": "28 Put the words in order.\n그날은 저에게 정말 좋은 경험이었습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "day"
+        },
+        {
+          "id": "c2",
+          "text": "was"
+        },
+        {
+          "id": "c3",
+          "text": "me."
+        },
+        {
+          "id": "c4",
+          "text": "great"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "experience"
+        },
+        {
+          "id": "c7",
+          "text": "That"
+        },
+        {
+          "id": "c8",
+          "text": "for"
+        }
+      ],
+      "orderIds": [
+        "c7",
+        "c1",
+        "c2",
+        "c5",
+        "c4",
+        "c6",
+        "c8",
+        "c3"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: I got a cool backpack without spending any money! (답지 p.30 Reading 순서배열하기 29)",
+      "type": "order",
+      "promptEn": "29 Put the words in order.\n저는 돈을 조금도 쓰지 않고 멋진 책가방을 얻었습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "spending"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "without"
+        },
+        {
+          "id": "c5",
+          "text": "got"
+        },
+        {
+          "id": "c6",
+          "text": "money!"
+        },
+        {
+          "id": "c7",
+          "text": "cool"
+        },
+        {
+          "id": "c8",
+          "text": "any"
+        },
+        {
+          "id": "c9",
+          "text": "backpack"
+        }
+      ],
+      "orderIds": [
+        "c3",
+        "c5",
+        "c2",
+        "c7",
+        "c9",
+        "c4",
+        "c1",
+        "c8",
+        "c6"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: This experience also made me think that I should share my things with others, too. (답지 p.30 Reading 순서배열하기 30)",
+      "type": "order",
+      "promptEn": "30 Put the words in order.\n이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.",
+      "orderChunks": [
+        {
+          "id": "c1",
+          "text": "think"
+        },
+        {
+          "id": "c2",
+          "text": "experience"
+        },
+        {
+          "id": "c3",
+          "text": "should"
+        },
+        {
+          "id": "c4",
+          "text": "also"
+        },
+        {
+          "id": "c5",
+          "text": "This"
+        },
+        {
+          "id": "c6",
+          "text": "I"
+        },
+        {
+          "id": "c7",
+          "text": "share"
+        },
+        {
+          "id": "c8",
+          "text": "things"
+        },
+        {
+          "id": "c9",
+          "text": "others,"
+        },
+        {
+          "id": "c10",
+          "text": "my"
+        },
+        {
+          "id": "c11",
+          "text": "with"
+        },
+        {
+          "id": "c12",
+          "text": "made"
+        },
+        {
+          "id": "c13",
+          "text": "too."
+        },
+        {
+          "id": "c14",
+          "text": "that"
+        },
+        {
+          "id": "c15",
+          "text": "me"
+        }
+      ],
+      "orderIds": [
+        "c5",
+        "c2",
+        "c4",
+        "c12",
+        "c15",
+        "c1",
+        "c14",
+        "c6",
+        "c3",
+        "c7",
+        "c10",
+        "c8",
+        "c11",
+        "c9",
+        "c13"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 나오는 순서대로 누르시오. 30문항.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 문장 순서",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 30
+    }
+  ]
+}

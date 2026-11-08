@@ -1,0 +1,26 @@
+{
+  "book": "j2-neung",
+  "unit": "u07",
+  "group": "reading-a",
+  "section": "A",
+  "exercises": [
+    {
+      "id": "reading-content",
+      "title": "Reading 내용 확인하기",
+      "questionCount": 22,
+      "omittedCount": 0
+    },
+    {
+      "id": "reading-lexgram",
+      "title": "Reading 적절한 어휘·어법 고르기",
+      "questionCount": 34,
+      "omittedCount": 0
+    },
+    {
+      "id": "reading-order",
+      "title": "Reading 순서배열하기",
+      "questionCount": 30,
+      "omittedCount": 0
+    }
+  ]
+}
