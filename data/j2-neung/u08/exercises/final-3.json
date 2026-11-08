@@ -1,0 +1,604 @@
+{
+  "id": "final-3",
+  "title": "최종점검 모의고사 3회",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.116-119",
+  "questionCount": 19,
+  "omitted": [
+    {
+      "page": "p.116",
+      "item": "04",
+      "reason": "답지 p.77 해설은 ④(harder → easier)이나 밑줄 ①~⑤가 대화에 다 찍히지 않음"
+    },
+    {
+      "page": "p.116",
+      "item": "05",
+      "reason": "답지 p.77 해설은 ③(what inside it is → what is inside it)이나 밑줄 ①~⑤가 대화에 다 찍히지 않음"
+    },
+    {
+      "page": "p.118",
+      "item": "14",
+      "reason": "답지 p.77 정답은 ④이나 ⓐ·ⓑ 짝 선택지 표가 OCR에서 끝까지 읽히지 않음"
+    },
+    {
+      "page": "p.119",
+      "item": "18",
+      "reason": "답지 p.77 정답은 ②, ④이나 밑줄 ⓐ가 본문 어디에 있는지 확정하지 못함"
+    },
+    {
+      "page": "p.119",
+      "item": "19",
+      "reason": "답지 p.77 정답은 ③이나 빈칸 ⓑ~ⓓ의 위치가 본문에 다 찍히지 않음"
+    },
+    {
+      "page": "p.119",
+      "item": "24",
+      "reason": "답지 p.77 정답은 ④이나 흐름상 어색한 문장의 ①~⑤ 번호가 본문에 다 찍히지 않음"
+    },
+    {
+      "page": "p.119",
+      "item": "25",
+      "reason": "답지 p.77 정답은 ⓒ AI, ⓓ the information이나 ⓒ·ⓓ가 가리키는 밑줄이 본문에 다 찍히지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "sourceId": 1,
+      "group": "Q01",
+      "explainKo": "정답: ③. (답지 p.77 최종점검 모의고사 3회 01). 보기와 ③은 유의어. ①은 반의어, ②는 형용사-부사, ④⑤는 동사-명사.",
+      "promptEn": "01 다음 중 짝지어진 단어의 관계가 <보기>와 같은 것은?\n<보기> by oneself : alone",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q01",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "1",
+      "choices": [
+        "inside : outside",
+        "wise : wisely",
+        "mean : stand for",
+        "translate : translation",
+        "transport : transportation"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 2,
+      "group": "Q02",
+      "explainKo": "정답: ③. (답지 p.77 최종점검 모의고사 3회 02). '사람이 만든'은 artificial의 풀이이고 correct는 '맞는, 정확한'이다.",
+      "promptEn": "02 다음 중 단어의 영영풀이가 적절하지 않은 것은?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q02",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "2",
+      "choices": [
+        "blindly: without thinking carefully",
+        "accuracy: how correct something is",
+        "correct: made by people, not natural",
+        "unlock: to open something that is locked",
+        "provide: to give something that is needed"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 3,
+      "group": "Q03",
+      "explainKo": "정답: copy. (답지 p.77 최종점검 모의고사 3회 03). copy는 '복사하다'와 '베끼다'를 모두 가진다.",
+      "promptEn": "03 다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• You use the printer to __________ this paper.\n• Never __________ others' answers during a test.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q03",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "3",
+      "accept": [
+        "copy"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "sourceId": 6,
+      "group": "Q06",
+      "explainKo": "정답: ④. (답지 p.77 최종점검 모의고사 3회 06). 어디서 사는지는 대화에 없다.",
+      "promptEn": "06 According to the dialog, which one CANNOT be answered?\nB: Juhee, have you heard about smart refrigerators?\nG: No, I haven't. What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking easier.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q06",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "6",
+      "choices": [
+        "What is a smart refrigerator?",
+        "How does the smart refrigerator work?",
+        "How does Juhee feel about the smart refrigerator?",
+        "Where can people buy a smart refrigerator?",
+        "What can the smart refrigerator do?"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 7,
+      "group": "Q07",
+      "explainKo": "정답: aware of. (답지 p.77 최종점검 모의고사 3회 07). Have you heard about ~? = Are you aware of ~?",
+      "promptEn": "07 위 대화의 밑줄 친 ⓐ와 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.\nB: Okay.\n\nⓐ Have you heard about 3D printers?\n→ Are you __________ 3D printers?",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q07",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "7",
+      "accept": [
+        "aware of"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "sourceId": 8,
+      "group": "Q08",
+      "explainKo": "정답: ②. (답지 p.77 최종점검 모의고사 3회 08). 소년은 더 작은 3D 프린터를 본 적이 있다.",
+      "promptEn": "08 According to the dialog, which one is NOT true?\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.\nB: Okay.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q08",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "8",
+      "choices": [
+        "The girl knows about 3D printers.",
+        "The boy has never seen a 3D printer before.",
+        "The 3D printer in the dialog is very big.",
+        "This 3D printer is used to make buildings.",
+        "Both the boy and the girl want to look closer at the printer."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 9,
+      "group": "Q09",
+      "explainKo": "정답: solve → to solve. (답지 p.77 최종점검 모의고사 3회 09). It is hard to solve. to부정사가 진주어이다.",
+      "promptEn": "09 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nIt was hard solve the puzzle by myself.\n\n틀린 말 → 바른 말",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q09",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "9",
+      "accept": [
+        "solve → to solve",
+        "solve -> to solve",
+        "to solve"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "sourceId": 10,
+      "group": "Q10",
+      "explainKo": "정답: ⑤. (답지 p.77 최종점검 모의고사 3회 10). 보기와 ①~④는 what, ⑤는 where.",
+      "promptEn": "10 다음 중 <보기>의 빈칸에 들어갈 말과 다른 것은?\n<보기> I am in trouble now. I don't know __________ to do.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q10",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "10",
+      "choices": [
+        "He can't decide __________ to wear today.",
+        "She asked me __________ to eat for dinner.",
+        "I will show you __________ to bring to the trip.",
+        "They learned __________ to say in an emergency.",
+        "He is wondering __________ to sit in the classroom."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 11,
+      "group": "Q11",
+      "explainKo": "정답: ⑤. (답지 p.77 최종점검 모의고사 3회 11). what to say. says가 아니다.",
+      "promptEn": "11 다음 중 어법상 올바르지 않은 문장은?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q11",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "11",
+      "choices": [
+        "She asked me how to use this tool in the lab.",
+        "I want to know which to use for this experiment.",
+        "It is easy to decide what to choose in this situation.",
+        "She wondered how she could finish the project on time.",
+        "It is useful to know what to says during an interview."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 12,
+      "group": "Q12",
+      "explainKo": "정답: ③ 3개. (답지 p.77 최종점검 모의고사 3회 12). ⓐⓒⓔ가 맞다. ⓑ what to do, ⓓ for the robot to clean.",
+      "promptEn": "12 다음 중 어법상 옳은 문장의 개수는?\nⓐ I'm not sure which one to choose for my answer.\nⓑ It is necessary to know what to doing in case of fire.\nⓒ It is fun to decide where to go when traveling abroad.\nⓓ It is surprising for the robot clean the house by itself.\nⓔ It is hard to know when to start a new project.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q12",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "12",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 13,
+      "group": "Q13",
+      "explainKo": "정답: It is wise of you to follow. (답지 p.77 최종점검 모의고사 3회 13). It is wise of you to follow the teacher's advice.",
+      "promptEn": "13 다음 주어진 문장과 의미가 같도록 조건에 맞게 문장을 완성하시오.\nYou are wise to follow the teacher's advice.\n[조건] it을 이용하여 총 7단어로 작성할 것.\n__________ the teacher's advice.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q13",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "13",
+      "accept": [
+        "It is wise of you to follow",
+        "It is wise of you to follow."
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "sourceId": 15,
+      "group": "Q15",
+      "explainKo": "정답: ② 2개. (답지 p.77 최종점검 모의고사 3회 15). AI가 무엇을 뜻하는지, 사람처럼 무엇을 할 수 있는지만 답할 수 있다.",
+      "promptEn": "15 윗글을 읽고, 대답할 수 있는 질문의 개수로 적절한 것은?\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer __________ questions that you have. How can I help you?\nUser: Can I ask you __________ questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a kind of computer system. AI can understand language, learn from experiences, and make decisions like humans.\n• What does AI stand for?\n• Who made the first AI?\n• What can AI do like humans?\n• How fast can AI systems learn?\n• Why do people use AI systems?",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q15",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "15",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 16,
+      "group": "Q16",
+      "explainKo": "정답: intelligence. (답지 p.77 최종점검 모의고사 3회 16). Artificial Intelligence 안의 intelligence.",
+      "promptEn": "16 다음 영영풀이에 해당하는 단어를 지문에서 찾아 쓰시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer __________ questions that you have. How can I help you?\nUser: Can I ask you __________ questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a kind of computer system. AI can understand language, learn from experiences, and make decisions like humans.\n\nthe ability to think, learn, and solve problems",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q16",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "16",
+      "accept": [
+        "intelligence",
+        "Intelligence"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "sourceId": 17,
+      "group": "Q17",
+      "explainKo": "정답: It is hard to understand your explanation. (답지 p.77 최종점검 모의고사 3회 17).",
+      "promptEn": "17 윗글의 밑줄 친 (A)의 우리말에 맞도록 괄호 안의 단어들을 순서대로 배열하시오.\nUser: (A) 네 설명을 이해하기 어려워. Can you give me an example?\nANNIE: Sure! Imagine that you have a new pet dog and you want to teach it how to sit and stay. Your dog will learn from information and experiences. AI is similar. But you don't have to give AI a snack!\nUser: How is AI used in everyday life?\nANNIE: AI is used in many situations. For example, AI technology can recommend new videos that you may like. It studies which videos you have already watched. Then it decides what to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks like. Over time, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n네 설명을 이해하기 어려워.\n(is / understand / it / explanation / hard / your / to)",
+      "type": "order",
+      "directionKo": "서술형. 주어진 단어를 순서대로 누르시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "id": "Q17",
+      "section": "sO",
+      "sectionTitle": "Section D · 서술형. 주어진 단어를 순서대로 누르시오.",
+      "sectionInstructionKo": "서술형. 주어진 단어를 순서대로 누르시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "label": "17",
+      "orderChunks": [
+        {
+          "id": "w0",
+          "text": "is"
+        },
+        {
+          "id": "w1",
+          "text": "understand"
+        },
+        {
+          "id": "w2",
+          "text": "It"
+        },
+        {
+          "id": "w3",
+          "text": "explanation"
+        },
+        {
+          "id": "w4",
+          "text": "hard"
+        },
+        {
+          "id": "w5",
+          "text": "your"
+        },
+        {
+          "id": "w6",
+          "text": "to"
+        }
+      ],
+      "orderIds": [
+        "w2",
+        "w0",
+        "w4",
+        "w6",
+        "w1",
+        "w5",
+        "w3"
+      ],
+      "seconds": 75
+    },
+    {
+      "sourceId": 20,
+      "group": "Q20",
+      "explainKo": "정답: ④. (답지 p.77 최종점검 모의고사 3회 20). 기쁨이나 슬픔 같은 감정은 글에서 알 수 없다.",
+      "promptEn": "20 According to the passage, which one CANNOT be inferred?\nUser: (A) 네 설명을 이해하기 어려워. Can you give me an example?\nANNIE: Sure! Imagine that you have a new pet dog and you want to teach it how to sit and stay. Your dog will learn from information and experiences. AI is similar. But you don't have to give AI a snack!\nUser: How is AI used in everyday life?\nANNIE: AI is used in many situations. For example, AI technology can recommend new videos that you may like. It studies which videos you have already watched. Then it decides what to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks like. Over time, it gets better at recognizing you, even if you change your hair or wear a mask.",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q20",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "label": "20",
+      "choices": [
+        "AI can learn from information and experiences.",
+        "AI is used to recommend videos on some platforms.",
+        "AI can recognize a person's face to unlock a smartphone.",
+        "AI can understand human feelings like sadness or happiness.",
+        "AI becomes better at recognizing people over time."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "select": "one",
+      "seconds": 45
+    },
+    {
+      "sourceId": 21,
+      "group": "Q21",
+      "explainKo": "정답: videos. (답지 p.77 최종점검 모의고사 3회 21).",
+      "promptEn": "21 윗글을 읽고, 질문에 대한 답을 완성하시오.\nUser: (A) 네 설명을 이해하기 어려워. Can you give me an example?\nANNIE: Sure! Imagine that you have a new pet dog and you want to teach it how to sit and stay. Your dog will learn from information and experiences. AI is similar. But you don't have to give AI a snack!\nUser: How is AI used in everyday life?\nANNIE: AI is used in many situations. For example, AI technology can recommend new videos that you may like. It studies which videos you have already watched. Then it decides what to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks like. Over time, it gets better at recognizing you, even if you change your hair or wear a mask.\n\nQ. What does AI study to decide what to recommend?\n→ It studies the (1) __________ you have already (2) __________.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q21-1",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21",
+      "accept": [
+        "videos"
+      ],
+      "phraseBlank": false,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 21,
+      "group": "Q21",
+      "explainKo": "정답: watched. (답지 p.77 최종점검 모의고사 3회 21).",
+      "promptEn": "21 윗글을 읽고, 질문에 대한 답을 완성하시오.\nUser: (A) 네 설명을 이해하기 어려워. Can you give me an example?\nANNIE: Sure! Imagine that you have a new pet dog and you want to teach it how to sit and stay. Your dog will learn from information and experiences. AI is similar. But you don't have to give AI a snack!\nUser: How is AI used in everyday life?\nANNIE: AI is used in many situations. For example, AI technology can recommend new videos that you may like. It studies which videos you have already watched. Then it decides what to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks like. Over time, it gets better at recognizing you, even if you change your hair or wear a mask.\n\nQ. What does AI study to decide what to recommend?\n→ It studies the (1) __________ you have already (2) __________.",
+      "type": "fill",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "id": "Q21-2",
+      "section": "sF",
+      "sectionTitle": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "label": "21",
+      "accept": [
+        "watched"
+      ],
+      "phraseBlank": false,
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 씁니다.",
+      "seconds": 70
+    },
+    {
+      "sourceId": 22,
+      "group": "Q22",
+      "explainKo": "정답: You should keep the following things in mind. (답지 p.77 최종점검 모의고사 3회 22).",
+      "promptEn": "22 윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: ⓐ 당신은 다음 사항들을 명심해야 합니다.\n1. Accuracy: AI is not always <u>ⓑ correct</u>, so you should always carefully check the information that it provides.\n2. Originality: Even if the information is correct, do not blindly copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not safe to share your personal information with AI.\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! If you need help in the future, feel free to ask. Have a great day!\n\n[조건] 1. keep, follow, should, thing을 이용하고 필요하면 형태를 바꿀 것. 2. 총 8단어로 쓸 것.",
+      "type": "sentence",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "id": "Q22",
+      "section": "sS",
+      "sectionTitle": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "sectionInstructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "label": "22",
+      "accept": [
+        "You should keep the following things in mind.",
+        "You should keep the following things in mind"
+      ],
+      "seconds": 100
+    },
+    {
+      "sourceId": 23,
+      "group": "Q23",
+      "explainKo": "정답: ③, ⑤. (답지 p.77 최종점검 모의고사 3회 23). correct와 바꿔 쓸 수 있는 말은 right, accurate.",
+      "promptEn": "23 윗글의 밑줄 친 ⓑ와 바꿔 쓸 수 있는 것을 모두 고르면?\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: ⓐ 당신은 다음 사항들을 명심해야 합니다.\n1. Accuracy: AI is not always <u>ⓑ correct</u>, so you should always carefully check the information that it provides.\n2. Originality: Even if the information is correct, do not blindly copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not safe to share your personal information with AI.\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! If you need help in the future, feel free to ask. Have a great day!",
+      "type": "mc",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "id": "Q23",
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "label": "23",
+      "choices": [
+        "fair",
+        "personal",
+        "right",
+        "incorrect",
+        "accurate"
+      ],
+      "correctIndexes": [
+        3,
+        5
+      ],
+      "select": "multi",
+      "seconds": 45
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 10문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 7문항, Section C · 서술형. 문장 전체를 쓰시오. 1문항, Section D · 서술형. 주어진 단어를 순서대로 누르시오. 1문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "sections": [
+    {
+      "id": "sM",
+      "title": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "instructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "itemCount": 10
+    },
+    {
+      "id": "sF",
+      "title": "Section B · 서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "directionKo": "서술형. 빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "instructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "itemCount": 7
+    },
+    {
+      "id": "sS",
+      "title": "Section C · 서술형. 문장 전체를 쓰시오.",
+      "directionKo": "서술형. 문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "instructionKo": "서술형. 문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "itemCount": 1
+    },
+    {
+      "id": "sO",
+      "title": "Section D · 서술형. 주어진 단어를 순서대로 누르시오.",
+      "directionKo": "서술형. 주어진 단어를 순서대로 누르시오.",
+      "ruleKo": "보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "instructionKo": "서술형. 주어진 단어를 순서대로 누르시오. 보기 말을 들어가는 순서대로 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Choose · 순서 누르기",
+      "itemCount": 1
+    }
+  ]
+}
