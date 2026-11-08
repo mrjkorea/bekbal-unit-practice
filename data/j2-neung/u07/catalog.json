@@ -376,6 +376,20 @@
      "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-10/wb-c10-u2-D"
     }
    ]
+  },
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "Sentence packs · WordMaster spelling, writing and test",
+   "exercises": [
+    {
+     "id": "wm-j2neung_u07_reading01",
+     "title": "Reading Focus · 30 sentences",
+     "external": true,
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j2neung_u07_reading01.json"
+    }
+   ]
   }
  ]
 }
