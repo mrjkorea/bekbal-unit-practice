@@ -1,0 +1,606 @@
+{
+  "id": "x10-review",
+  "title": "핵심 문장 Review",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.56-57",
+  "questionCount": 24,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "A-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: F. 지문은 \"Artificial Intelligence.\" Information이 아니다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n01. AI stands for \"Artificial Information.\"",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "group": "A-01",
+      "seconds": 45
+    },
+    {
+      "id": "A-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: T. 지문: AI can understand language, learn from experiences, and make decisions like humans. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n02. AI can understand language and make decisions like humans.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "group": "A-02",
+      "seconds": 45
+    },
+    {
+      "id": "A-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: F. 지문: But you don't have to give AI a snack! 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n03. You must give AI a snack to teach it.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "group": "A-03",
+      "seconds": 45
+    },
+    {
+      "id": "A-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: T. 지문: AI technology can recommend new videos that you may like. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n04. AI can recommend new videos for you.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "group": "A-04",
+      "seconds": 45
+    },
+    {
+      "id": "A-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: F. 지문: it gets better at recognizing you, even if you wear a mask. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n05. AI cannot recognize you if you wear a mask.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "group": "A-05",
+      "seconds": 45
+    },
+    {
+      "id": "A-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: F. 지문: AI is not always correct, so you should always carefully check the information. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n06. You should always believe AI because it is always correct.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "select": "one",
+      "group": "A-06",
+      "seconds": 45
+    },
+    {
+      "id": "A-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "explainKo": "정답: T. 지문 24번과 같은 문장이다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "mc",
+      "promptEn": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n07. It is not safe to share your personal information with AI.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "select": "one",
+      "group": "A-07",
+      "seconds": 45
+    },
+    {
+      "id": "B-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sO",
+      "sectionTitle": "Section B · B 밑줄 친 부분이 맞으면 ○.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: O. 지문 02와 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n01. Talk to an AI chatbot, and <u>ask it some questions</u>.",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "group": "B-01",
+      "seconds": 45
+    },
+    {
+      "id": "B-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sX",
+      "sectionTitle": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: X that. 관계대명사는 that. 지문: questions that you have. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n02. I can answer ANY questions <u>what</u> you have.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "that"
+      ],
+      "group": "B-02",
+      "seconds": 70
+    },
+    {
+      "id": "B-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sX",
+      "sectionTitle": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: X to answer. I'd be happy to answer. to가 빠졌다. 지문과 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n03. I'd be happy <u>answer</u> your questions!",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "to answer",
+        "happy to answer",
+        "to"
+      ],
+      "group": "B-03",
+      "seconds": 70
+    },
+    {
+      "id": "B-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sX",
+      "sectionTitle": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: X It's. 가주어는 It. 지문: It is hard to understand your explanation. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n04. <u>That's</u> hard to understand your explanation.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "It's",
+        "It is"
+      ],
+      "group": "B-04",
+      "seconds": 70
+    },
+    {
+      "id": "B-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sX",
+      "sectionTitle": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: X to sit. how to sit. to가 빠졌다. 지문: how to sit and stay. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n05. Imagine that you have a new pet dog and you want to teach it how <u>sit</u> and stay.",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "to sit",
+        "how to sit"
+      ],
+      "group": "B-05",
+      "seconds": 70
+    },
+    {
+      "id": "B-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "sX",
+      "sectionTitle": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. 먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: X used. 수동태 used. 지문: How is AI used in everyday life? 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n06. How is AI <u>use</u> in everyday life?",
+      "oxMark": "X",
+      "rewriteAccept": [
+        "used"
+      ],
+      "group": "B-06",
+      "seconds": 70
+    },
+    {
+      "id": "B-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "sO",
+      "sectionTitle": "Section B · B 밑줄 친 부분이 맞으면 ○.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "explainKo": "정답: O. 지문 26번과 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "ox",
+      "promptEn": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n07. If you need help in the future, <u>feel free to ask</u>.",
+      "oxMark": "O",
+      "rewriteAccept": [],
+      "group": "B-07",
+      "seconds": 45
+    },
+    {
+      "id": "C-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It studies which videos you have already watched. 현재완료 have already watched. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n01. It studies which videos you have already (watch).",
+      "accept": [
+        "It studies which videos you have already watched.",
+        "It studies which videos you have already watched",
+        "Itstudieswhichvideosyouhavealreadywatched."
+      ],
+      "seconds": 100,
+      "group": "C-01"
+    },
+    {
+      "id": "C-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: AI can also recognize your face to unlock your smartphone. 목적의 to부정사 to unlock. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n02. AI can also recognize your face (unlock) your smartphone.",
+      "accept": [
+        "AI can also recognize your face to unlock your smartphone.",
+        "AI can also recognize your face to unlock your smartphone",
+        "AIcanalsorecognizeyourfacetounlockyoursmartphone."
+      ],
+      "seconds": 100,
+      "group": "C-02"
+    },
+    {
+      "id": "C-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Here is my last question: What should I be careful about when I use AI? Here is. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n03. Here (be) my last question: What should I be careful about when I use AI?",
+      "accept": [
+        "Here is my last question: What should I be careful about when I use AI?",
+        "Here is my last question: What should I be careful about when I use AI",
+        "Hereismylastquestion:WhatshouldIbecarefulaboutwhenIuseAI?"
+      ],
+      "seconds": 100,
+      "group": "C-03"
+    },
+    {
+      "id": "C-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Even if the information is correct, do not blindly copy it. 부사 blindly. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n04. Even if the information is correct, do not (blind) copy it.",
+      "accept": [
+        "Even if the information is correct, do not blindly copy it.",
+        "Even if the information is correct, do not blindly copy it",
+        "Eveniftheinformationiscorrect,donotblindlycopyit."
+      ],
+      "seconds": 100,
+      "group": "C-04"
+    },
+    {
+      "id": "C-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sC",
+      "sectionTitle": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: If you are careful about these things, you can use AI safely and wisely. 부사 safely, wisely. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\n05. If you are careful about these things, you can use AI (safe) and (wise).",
+      "accept": [
+        "If you are careful about these things, you can use AI safely and wisely.",
+        "If you are careful about these things, you can use AI safely and wisely",
+        "Ifyouarecarefulaboutthesethings,youcanuseAIsafelyandwisely."
+      ],
+      "seconds": 100,
+      "group": "C-05"
+    },
+    {
+      "id": "D-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Can you give me an example? give는 간접목적어 앞에 to를 쓰지 않는다. 지문: Can you give me an example? 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n01. Can you give to me an example?",
+      "accept": [
+        "Can you give me an example?",
+        "Can you give me an example",
+        "Canyougivemeanexample?"
+      ],
+      "seconds": 100,
+      "group": "D-01"
+    },
+    {
+      "id": "D-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Then it decides what to recommend. what to recommend. 본책 p.201. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n02. Then it decides what recommend.",
+      "accept": [
+        "Then it decides what to recommend.",
+        "Then it decides what to recommend",
+        "Thenitdecideswhattorecommend."
+      ],
+      "seconds": 100,
+      "group": "D-02"
+    },
+    {
+      "id": "D-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It learns what your face looks like. 주어 your face는 3인칭 단수 looks. 지문과 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n03. It learns what your face look like.",
+      "accept": [
+        "It learns what your face looks like.",
+        "It learns what your face looks like",
+        "Itlearnswhatyourfacelookslike."
+      ],
+      "seconds": 100,
+      "group": "D-03"
+    },
+    {
+      "id": "D-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: You should keep the following things in mind: keep ... in mind. on이 아니다. 지문과 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n04. You should keep the following things on mind:",
+      "accept": [
+        "You should keep the following things in mind:",
+        "Youshouldkeepthefollowingthingsinmind:"
+      ],
+      "seconds": 100,
+      "group": "D-04"
+    },
+    {
+      "id": "D-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sD",
+      "sectionTitle": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Make sure you understand it, and then write it in your own words. Make sure 뒤에 주어 you. 지문과 같다. 본책 p.208-209 Reading 자세히보기.",
+      "type": "sentence",
+      "promptEn": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\n05. Make sure understand it, and then write it in your own words.",
+      "accept": [
+        "Make sure you understand it, and then write it in your own words.",
+        "Make sure you understand it, and then write it in your own words",
+        "Makesureyouunderstandit,andthenwriteitinyourownwords."
+      ],
+      "seconds": 100,
+      "group": "D-05"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "X-10 답지(인쇄 pp.48-71)는 이 스캔에 없습니다. 빈칸은 본책 대화·읽기·어휘·문법 페이지의 문장으로 채웁니다. Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. 7문항 Section B · B 밑줄 친 부분이 맞으면 ○. 2문항 Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기. 5문항 Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 5문항 Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 5문항 고르기는 누르고, 빈칸은 그 칸의 말만, 영작은 문장 전체를 쓰세요.",
+  "sections": [
+    {
+      "id": "sA",
+      "title": "Section A · A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "directionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T / F",
+      "instructionKo": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+      "itemCount": 7
+    },
+    {
+      "id": "sO",
+      "title": "Section B · B 밑줄 친 부분이 맞으면 ○.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "itemCount": 2
+    },
+    {
+      "id": "sX",
+      "title": "Section C · B 밑줄 친 부분이 틀리면 × 하고 고치기.",
+      "directionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "ruleKo": "먼저 ○ 또는 ×를 누르세요. ×이면 고친 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · ○ / ×",
+      "instructionKo": "B 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 ×표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+      "itemCount": 5
+    },
+    {
+      "id": "sC",
+      "title": "Section D · C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "directionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+      "itemCount": 5
+    },
+    {
+      "id": "sD",
+      "title": "Section E · D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "directionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "instructionKo": "D 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+      "itemCount": 5
+    }
+  ]
+}
