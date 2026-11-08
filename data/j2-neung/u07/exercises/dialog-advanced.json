@@ -1,0 +1,348 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.140-141",
+  "questionCount": 13,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 지갑을 추천받았으므로 추천을 요청하는 말이 온다. (답지 p.27 Dialog 심화 문제 01)",
+      "type": "mc",
+      "promptEn": "01 다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nA: I'm looking for a gift for my friend.\nB: How about this wallet? It's in great condition and very popular.\nA: ______",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "I like both of them.",
+        "Which do you prefer, music or math?",
+        "My favorite gift is a colored pencil set.",
+        "Could you recommend something for her?",
+        "Do you prefer buying things online or offline?"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 간식 추천 요청에 다른 것을 먹고 싶다고 한 응답은 어색하다. (답지 p.27 Dialog 심화 문제 02)",
+      "type": "mc",
+      "promptEn": "02 다음 중 짝지어진 대화가 어색한 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "A: Which do you like more, the slippers or the sandals?\nB: I like the slippers more.",
+        "A: What do you recommend for souvenirs?\nB: How about this bookmark set?",
+        "A: Which food do you recommend for me?\nB: I recommend tteokbokki. It's really good.",
+        "A: What will you recommend for snack?\nB: I want to try something else.",
+        "A: Which do you prefer, hamburgers or chicken?\nB: I prefer hamburgers to chicken."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. ⓐ와 ② 모두 우산보다 시계를 선호한다. (답지 p.27 Dialog 심화 문제 03)",
+      "type": "mc",
+      "promptEn": "03 위 대화의 밑줄 친 ⓐ와 의미가 같은 것은?\n\nA: I have a watch and an umbrella for sale.\nB: Oh, I like both. But I can only buy one.\nA: I see. Which one do you prefer?\nB: <u>ⓐI prefer the watch.</u> How much is it?\nA: It's 5,000 won, but I can give you a 10 percent discount.\nB: Great! I'll take it.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "I want to buy both of them.",
+        "I like the watch better than the umbrella.",
+        "I think the umbrella is better than the watch.",
+        "I prefer the umbrella to the watch.",
+        "I like the watch as much as the umbrella."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장 쓰기",
+      "explainKo": "정답: watch, 500-won. 시계를 사고, 10퍼센트 할인은 500원이다. (답지 p.27 Dialog 심화 문제 04)",
+      "type": "sentence",
+      "promptEn": "04 위 대화를 읽고, 질문에 대한 답을 완성하시오.\n\nA: I have a watch and an umbrella for sale.\nB: Oh, I like both. But I can only buy one.\nA: I see. Which one do you prefer?\nB: <u>ⓐI prefer the watch.</u> How much is it?\nA: It's 5,000 won, but I can give you a 10 percent discount.\nB: Great! I'll take it.\n\nQ. Which item is the boy going to buy and how much is the discount for the item?\nHe's going to buy the ______ at a ______ discount.",
+      "seconds": 100,
+      "accept": [
+        "He's going to buy the watch at a 500-won discount.",
+        "He's going to buy the watch at a 500 won discount.",
+        "watch, 500-won",
+        "watch, 500 won"
+      ]
+    },
+    {
+      "id": "05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 추천 요청 다음에 꽃무늬 가방을 제안한다. (답지 p.27 Dialog 심화 문제 05)",
+      "type": "mc",
+      "promptEn": "05 위 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\n\nHow about the one with the flower on it?\n\nG: Hello. I'd like to buy a bag. ①\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: ② Then you can choose between these two bags.\nG: They both look nice. ③\nM: ④ It's popular with our customers.\nG: ⑤ That looks good. I'll take that one.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장 쓰기",
+      "explainKo": "정답: Can you recommend one for me? (답지 p.27 Dialog 심화 문제 06)",
+      "type": "sentence",
+      "promptEn": "06 위 대화의 ③에 있는 우리말 뜻을 조건에 맞게 영작하시오.\n조건 1. can, for, me를 포함하여 쓸 것.\n조건 2. 총 6단어의 완전한 문장으로 쓸 것.\n우리말: 저한테 하나 추천해 주시겠어요?\n\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: Then you can choose between these two bags.\nG: They both look nice. ③ 저한테 하나 추천해 주시겠어요?\nM: How about the one with the flower on it? It's popular with our customers.\nG: That looks good. I'll take <u>ⓑthat one</u>.",
+      "seconds": 100,
+      "accept": [
+        "Can you recommend one for me?"
+      ]
+    },
+    {
+      "id": "07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 소녀는 흰색을 고르고, 점원이 꽃무늬를 추천했으며, 소녀가 그것을 산다. (답지 p.27 Dialog 심화 문제 07)",
+      "type": "mc",
+      "promptEn": "07 위 대화의 밑줄 친 ⓑ가 가리키는 것은?\n\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: Then you can choose between these two bags.\nG: They both look nice. Can you recommend one for me?\nM: How about the one with the flower on it? It's popular with our customers.\nG: That looks good. I'll take <u>ⓑthat one</u>.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "the black bag",
+        "two white bags",
+        "all bags in the store",
+        "the white bag with a flower",
+        "the black bag with a flower"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "08",
+      "label": "08",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 소녀는 검은색보다 흰색 가방을 더 좋아한다. (답지 p.27 Dialog 심화 문제 08)",
+      "type": "mc",
+      "promptEn": "08 According to the dialog, which one is NOT true?\n\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: Then you can choose between these two bags.\nG: They both look nice. Can you recommend one for me?\nM: How about the one with the flower on it? It's popular with our customers.\nG: That looks good. I'll take <u>ⓑthat one</u>.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "The girl wants to buy a bag at the store.",
+        "The store has two different colors for the bags.",
+        "The girl likes the black bag more than the white one.",
+        "The clerk recommends a bag that is popular with customers.",
+        "The girl finally decides to buy only one bag."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "09",
+      "label": "09",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ shoes. 진호는 신발을 사려고 한다. (답지 p.27 Dialog 심화 문제 09)",
+      "type": "mc",
+      "promptEn": "09 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy ⓐ ______ online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: ⓑ ______ Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! <u>ⓒWhat size should I choose?</u>\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "a bag",
+        "a cap",
+        "shoes",
+        "pants",
+        "an umbrella"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 둘 다 좋아서 결정을 못 한다. (답지 p.27 Dialog 심화 문제 10)",
+      "type": "mc",
+      "promptEn": "10 위 대화의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy ⓐ ______ online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: ⓑ ______ Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! <u>ⓒWhat size should I choose?</u>\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "I don't like both.",
+        "I already bought sneakers.",
+        "I prefer boots to sneakers.",
+        "I like sneakers better than boots.",
+        "I like both, so I can't decide."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장 쓰기",
+      "explainKo": "정답: What color should I choose? size는 색을 말하는 다음 문장과 맞지 않는다. (답지 p.27 Dialog 심화 문제 11)",
+      "type": "sentence",
+      "promptEn": "11 위 대화의 밑줄 친 ⓒ에서 문맥상 어색한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 단어의 수는 같게 쓸 것.\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy ⓐ ______ online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: ⓑ ______ Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! <u>ⓒWhat size should I choose?</u>\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!",
+      "seconds": 100,
+      "accept": [
+        "What color should I choose?"
+      ]
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 민지가 진호의 신발 고르기를 돕고 있다. (답지 p.27 Dialog 심화 문제 12)",
+      "type": "mc",
+      "promptEn": "12 What are the speakers mainly talking about?\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy shoes online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: I like both, so I can't decide. Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! What color should I choose?\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "Jinho is teaching Minji how to buy shoes.",
+        "Minji is helping Jinho choose which shoes to buy.",
+        "Jinho and Minji are talking about their favorite colors.",
+        "Minji is asking Jinho to recommend some sneakers.",
+        "Jinho is explaining why sneakers are better than boots."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: they go well with all kinds of clothes. (답지 p.27 Dialog 심화 문제 13)",
+      "type": "fill",
+      "promptEn": "13 위 대화를 읽고, 질문에 대한 답을 조건에 맞게 완성하시오.\n조건 1. 대화문에 쓰인 표현을 이용할 것.\n조건 2. Because 다음에 총 8단어로 쓸 것.\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy shoes online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: I like both, so I can't decide. Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! What color should I choose?\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!\n\nQ. Why does Minji recommend sneakers to Jinho?\nBecause ______",
+      "seconds": 70,
+      "accept": [
+        "they go well with all kinds of clothes"
+      ],
+      "phraseBlank": true
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Dialog 심화 문제. 고르기는 누르고, 서술형은 답만 쓰시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 13
+    }
+  ]
+}

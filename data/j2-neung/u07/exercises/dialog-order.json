@@ -1,0 +1,420 @@
+{
+  "id": "dialog-order",
+  "title": "Dialog 순서배열하기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.136-137",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: Jisu, what are you doing? → I'm looking at socks → Which ones do you like? → I like the ones with the red hearts, but there a → Which do you prefer, the short ones or the long  → Um. (답지 p.26 Dialog 순서배열하기 01)",
+      "type": "order",
+      "promptEn": "01 Arrange the lines in the order they are spoken.\n\nUm... I prefer the long ones to the short ones. So, I'll take this pair.\nJisu, what are you doing?\nWhich do you prefer, the short ones or the long ones?\nI'm looking at socks. I want to buy a pair.\nWhich ones do you like?\nI like the ones with the red hearts, but there are two types.",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Um... I prefer the long ones to the short ones. So, I'll take this pair."
+        },
+        {
+          "id": "s2",
+          "text": "Jisu, what are you doing?"
+        },
+        {
+          "id": "s3",
+          "text": "Which do you prefer, the short ones or the long ones?"
+        },
+        {
+          "id": "s4",
+          "text": "I'm looking at socks. I want to buy a pair."
+        },
+        {
+          "id": "s5",
+          "text": "Which ones do you like?"
+        },
+        {
+          "id": "s6",
+          "text": "I like the ones with the red hearts, but there are two types."
+        }
+      ],
+      "orderIds": [
+        "s2",
+        "s4",
+        "s5",
+        "s6",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "id": "02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: I need a smartphone case → Yes, there are → Hmm → Sure! I think the one with the cloud pattern wou → I like that one, too. (답지 p.26 Dialog 순서배열하기 02)",
+      "type": "order",
+      "promptEn": "02 Arrange the lines in the order they are spoken.\n\nYes, there are. Which do you prefer?\nI like that one, too. I'll get it then. Thank you!\nI need a smartphone case. But there are so many cases here!\nSure! I think the one with the cloud pattern would look great on your phone.\nHmm... I'm not sure. Can you recommend one?",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Yes, there are. Which do you prefer?"
+        },
+        {
+          "id": "s2",
+          "text": "I like that one, too. I'll get it then. Thank you!"
+        },
+        {
+          "id": "s3",
+          "text": "I need a smartphone case. But there are so many cases here!"
+        },
+        {
+          "id": "s4",
+          "text": "Sure! I think the one with the cloud pattern would look great on your phone."
+        },
+        {
+          "id": "s5",
+          "text": "Hmm... I'm not sure. Can you recommend one?"
+        }
+      ],
+      "orderIds": [
+        "s3",
+        "s1",
+        "s5",
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "id": "03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: Hello → Okay → I prefer white to black → Then you can choose between these two bags → They both look nice → How about the one with the flower on it? It's po → That looks good. (답지 p.26 Dialog 순서배열하기 03)",
+      "type": "order",
+      "promptEn": "03 Arrange the lines in the order they are spoken.\n\nThey both look nice. Can you recommend one for me?\nHello. I'd like to buy a bag.\nHow about the one with the flower on it? It's popular with our customers.\nI prefer white to black.\nOkay. We have two colors, white and black. Which do you prefer?\nThat looks good. I'll take that one.\nThen you can choose between these two bags.",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "They both look nice. Can you recommend one for me?"
+        },
+        {
+          "id": "s2",
+          "text": "Hello. I'd like to buy a bag."
+        },
+        {
+          "id": "s3",
+          "text": "How about the one with the flower on it? It's popular with our customers."
+        },
+        {
+          "id": "s4",
+          "text": "I prefer white to black."
+        },
+        {
+          "id": "s5",
+          "text": "Okay. We have two colors, white and black. Which do you prefer?"
+        },
+        {
+          "id": "s6",
+          "text": "That looks good. I'll take that one."
+        },
+        {
+          "id": "s7",
+          "text": "Then you can choose between these two bags."
+        }
+      ],
+      "orderIds": [
+        "s2",
+        "s5",
+        "s4",
+        "s7",
+        "s1",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "id": "04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: Hi → Yes, please → Okay → Can you recommend another color for me? → Sure → I like both → Of course → Okay → Okay, I'll get you a new one → Thank you. (답지 p.26 Dialog 순서배열하기 04)",
+      "type": "order",
+      "promptEn": "04 Arrange the lines in the order they are spoken.\n\nOf course. You can look in this mirror.\nCan you recommend another color for me?\nOkay, I'll get you a new one.\nHi. Can I help you?\nOkay. Which color would you like instead?\nSure. I think this white one and the brown one are nice. Which do you prefer?\nYes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good on me.\nOkay. Oh, I really like this brown one. I'll take it!\nI like both. Can I try them on?\nThank you.",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "Of course. You can look in this mirror."
+        },
+        {
+          "id": "s2",
+          "text": "Can you recommend another color for me?"
+        },
+        {
+          "id": "s3",
+          "text": "Okay, I'll get you a new one."
+        },
+        {
+          "id": "s4",
+          "text": "Hi. Can I help you?"
+        },
+        {
+          "id": "s5",
+          "text": "Okay. Which color would you like instead?"
+        },
+        {
+          "id": "s6",
+          "text": "Sure. I think this white one and the brown one are nice. Which do you prefer?"
+        },
+        {
+          "id": "s7",
+          "text": "Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good on me."
+        },
+        {
+          "id": "s8",
+          "text": "Okay. Oh, I really like this brown one. I'll take it!"
+        },
+        {
+          "id": "s9",
+          "text": "I like both. Can I try them on?"
+        },
+        {
+          "id": "s10",
+          "text": "Thank you."
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s7",
+        "s5",
+        "s2",
+        "s6",
+        "s9",
+        "s1",
+        "s8",
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "id": "05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: Hi, Ginny → Yeah → I see → Sure → That would be great → Okay → I prefer a glass one to a plastic one → It's three dollars, but I can give you a discoun → That's a good price. (답지 p.26 Dialog 순서배열하기 05)",
+      "type": "order",
+      "promptEn": "05 Arrange the lines in the order they are spoken.\n\nIt's three dollars, but I can give you a discount. How about two dollars?\nSure. How about a large cup?\nI see. Actually, I need a cup. Can you recommend a good one?\nHi, Ginny. Wow! You have a lot of things for sale!\nThat's a good price. Here's the money.\nYeah. I brought some things from home. My family doesn't use them anymore.\nThat would be great.\nI prefer a glass one to a plastic one. How much is the glass one?\nOkay. Which do you prefer, a plastic one or a glass one?",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "It's three dollars, but I can give you a discount. How about two dollars?"
+        },
+        {
+          "id": "s2",
+          "text": "Sure. How about a large cup?"
+        },
+        {
+          "id": "s3",
+          "text": "I see. Actually, I need a cup. Can you recommend a good one?"
+        },
+        {
+          "id": "s4",
+          "text": "Hi, Ginny. Wow! You have a lot of things for sale!"
+        },
+        {
+          "id": "s5",
+          "text": "That's a good price. Here's the money."
+        },
+        {
+          "id": "s6",
+          "text": "Yeah. I brought some things from home. My family doesn't use them anymore."
+        },
+        {
+          "id": "s7",
+          "text": "That would be great."
+        },
+        {
+          "id": "s8",
+          "text": "I prefer a glass one to a plastic one. How much is the glass one?"
+        },
+        {
+          "id": "s9",
+          "text": "Okay. Which do you prefer, a plastic one or a glass one?"
+        }
+      ],
+      "orderIds": [
+        "s4",
+        "s6",
+        "s3",
+        "s2",
+        "s7",
+        "s9",
+        "s8",
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "id": "06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: I have a watch and an umbrella for sale → Oh, I like both → I see → I prefer the watch → It's 5,000 won, but I can give you a 10 percent  → Great! I'll take it. (답지 p.26 Dialog 순서배열하기 06)",
+      "type": "order",
+      "promptEn": "06 Arrange the lines in the order they are spoken.\n\nIt's 5,000 won, but I can give you a 10 percent discount.\nI prefer the watch. How much is it?\nOh, I like both. But I can only buy one.\nGreat! I'll take it.\nI have a watch and an umbrella for sale.\nI see. Which one do you prefer?",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "It's 5,000 won, but I can give you a 10 percent discount."
+        },
+        {
+          "id": "s2",
+          "text": "I prefer the watch. How much is it?"
+        },
+        {
+          "id": "s3",
+          "text": "Oh, I like both. But I can only buy one."
+        },
+        {
+          "id": "s4",
+          "text": "Great! I'll take it."
+        },
+        {
+          "id": "s5",
+          "text": "I have a watch and an umbrella for sale."
+        },
+        {
+          "id": "s6",
+          "text": "I see. Which one do you prefer?"
+        }
+      ],
+      "orderIds": [
+        "s5",
+        "s3",
+        "s6",
+        "s2",
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "id": "07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답 순서: Hi, Jinho! What are you doing? → Hi, Minji! I'm trying to buy shoes online → Sure! Hmm → I like both, so I can't decide → How about sneakers? They go well with all kinds  → That's true! What color should I choose? → I think the black ones look better → That sounds good! I'll buy them then. (답지 p.26 Dialog 순서배열하기 07)",
+      "type": "order",
+      "promptEn": "07 Arrange the lines in the order they are spoken.\n\nI like both, so I can't decide. Can you recommend one?\nHi, Minji! I'm trying to buy shoes online. Can you help me?\nThat sounds good! I'll buy them then. Thanks for your help!\nSure! Hmm... There are sneakers and boots. Which do you prefer?\nThat's true! What color should I choose?\nI think the black ones look better.\nHi, Jinho! What are you doing?\nHow about sneakers? They go well with all kinds of clothes.",
+      "seconds": 75,
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "I like both, so I can't decide. Can you recommend one?"
+        },
+        {
+          "id": "s2",
+          "text": "Hi, Minji! I'm trying to buy shoes online. Can you help me?"
+        },
+        {
+          "id": "s3",
+          "text": "That sounds good! I'll buy them then. Thanks for your help!"
+        },
+        {
+          "id": "s4",
+          "text": "Sure! Hmm... There are sneakers and boots. Which do you prefer?"
+        },
+        {
+          "id": "s5",
+          "text": "That's true! What color should I choose?"
+        },
+        {
+          "id": "s6",
+          "text": "I think the black ones look better."
+        },
+        {
+          "id": "s7",
+          "text": "Hi, Jinho! What are you doing?"
+        },
+        {
+          "id": "s8",
+          "text": "How about sneakers? They go well with all kinds of clothes."
+        }
+      ],
+      "orderIds": [
+        "s7",
+        "s2",
+        "s4",
+        "s1",
+        "s8",
+        "s5",
+        "s6",
+        "s3"
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다음 대화를 말하는 순서대로 누르시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 대화 순서",
+      "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "instructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    }
+  ]
+}
