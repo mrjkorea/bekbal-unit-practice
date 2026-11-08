@@ -1,0 +1,56 @@
+{
+  "book": "j2-neung",
+  "unit": "u08",
+  "group": "vocab-dialog",
+  "section": "A",
+  "exercises": [
+    {
+      "id": "vocab-check",
+      "title": "Vocabulary 확인 문제",
+      "questionCount": 12,
+      "omittedCount": 0
+    },
+    {
+      "id": "vocab-practice",
+      "title": "Vocabulary 실전 문제",
+      "questionCount": 7,
+      "omittedCount": 0
+    },
+    {
+      "id": "vocab-advanced",
+      "title": "Vocabulary 심화 문제",
+      "questionCount": 15,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-detail",
+      "title": "Dialog 자세히 보기",
+      "questionCount": 7,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-complete",
+      "title": "Dialog 완성하기",
+      "questionCount": 89,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-order",
+      "title": "Dialog 순서배열하기",
+      "questionCount": 7,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-practice",
+      "title": "Dialog 실전 문제",
+      "questionCount": 13,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-advanced",
+      "title": "Dialog 심화 문제",
+      "questionCount": 12,
+      "omittedCount": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "dialog-detail",
+  "title": "Dialog 자세히 보기",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.190-191",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T. 스마트 의자에는 특별한 센서가 있다. (답지 p.37 Dialog 자세히 보기 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 Listen and Talk A-1\n\nG: Look at this chair! It looks comfortable.\nB: It's a smart chair. Have you heard about smart chairs?\nG: No, I haven't. What are they?\nB: They are chairs with special sensors. They can check your health while you are sitting.\nG: I'm surprised that a chair can do so many things.\n\nSmart chairs have special sensors.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F. 소년은 전에 3D 프린터에 대해 들어 보았고 더 작은 것을 본 적이 있다. (답지 p.37 Dialog 자세히 보기 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 Listen and Talk A-2\n\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.\n\nThe boy has never heard about 3D printers before.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T. 드론이 농부의 일을 더 쉽게 만든다. (답지 p.37 Dialog 자세히 보기 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 Listen and Talk A-3\n\nB: Look at that drone! The man over there is flying it.\nG: Yes, I see that. What is the drone for?\nB: It helps farmers. It makes their work easier.\nG: Really? How does it do that?\nB: It can plant seeds. Then it can fly over the fields and water them.\nG: Wow. I'm surprised that a drone can do all that.\n\nFarming becomes easier because of the drone.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F. 자율주행 자전거는 스스로 가장 좋은 길을 선택할 수 있다. (답지 p.37 Dialog 자세히 보기 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 Listen and Talk C\n\nB: There are so many things to see at this show!\nG: You're right. What would you like to see first?\nB: Have you heard about self-driving bikes? I'd like to see them first!\nG: Oh, I'm surprised that a bike can drive itself! How do self-driving bikes work?\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: They can stop by themselves if there is something in the way.\nG: Wow, that's interesting.\n\nSelf-driving bikes cannot choose the way without help.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T. 스마트 안경이 있으면 길 안내를 위해 스마트폰을 쓸 필요가 없다. (답지 p.37 Dialog 자세히 보기 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "05 Real-Life Communication\n\nM: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item.\nW: Sure. I made smart glasses. Have you heard about them?\nM: Yes, I have, but I don't know much about them. What is special about these glasses?\nW: They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: Exactly. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\nWith smart glasses, you don't have to use a phone for directions.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: F. FlyBrella는 머리 위를 스스로 날 수 있어서 잡고 있을 필요가 없다. (답지 p.37 Dialog 자세히 보기 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 Real-Life Communication Step 2\n\nA: On rainy and windy days, holding an umbrella is uncomfortable.\nB: So, what did you come up with, Somi?\nA: I came up with the FlyBrella. Can you guess what it is?\nB: I have no idea. What is it?\nA: It is an umbrella that doesn't have a handle. It can fly above your head by itself.\nB: I'm surprised that you thought of that. I'd like to try it someday.\n\nThe FlyBrella needs someone to hold it above their head.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "explainKo": "정답: T. 센서가 냉장고 안의 음식을 확인하는 데 쓰인다. (답지 p.37 Dialog 자세히 보기 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 Lesson Review A\n\nB: Juhee, have you heard about smart refrigerators?\nG: No, I haven't. What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking easier.\n\nSensors are used to check the food inside the refrigerator.",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 대화를 읽고 내용과 같으면 T, 다르면 F를 고르시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "id": "vocab-check",
+  "title": "Vocabulary 확인 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "p.184",
+  "questionCount": 12,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "s1-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "comfort — 위로[위안]하다; 위로, 위안\npassword — 비밀번호\ninside — 안쪽에, 내부에; -의 안쪽에\noriginality — 독창성\nseed — 씨, 씨앗\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "comfort",
+          "ko": "위로[위안]하다; 위로, 위안",
+          "sourceId": 1,
+          "explainKo": "정답: comfort — 위로[위안]하다; 위로, 위안. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "2",
+          "en": "password",
+          "ko": "비밀번호",
+          "sourceId": 2,
+          "explainKo": "정답: password — 비밀번호. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "3",
+          "en": "inside",
+          "ko": "안쪽에, 내부에; -의 안쪽에",
+          "sourceId": 3,
+          "explainKo": "정답: inside — 안쪽에, 내부에; -의 안쪽에. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "4",
+          "en": "originality",
+          "ko": "독창성",
+          "sourceId": 4,
+          "explainKo": "정답: originality — 독창성. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "5",
+          "en": "seed",
+          "ko": "씨, 씨앗",
+          "sourceId": 5,
+          "explainKo": "정답: seed — 씨, 씨앗. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "technology — (과학) 기술\neveryday — 일상적인, 매일의\nchat — 대화, 담소; 대화하다\nexplanation — 설명\nhuman — 인간; 인간의\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "technology",
+          "ko": "(과학) 기술",
+          "sourceId": 6,
+          "explainKo": "정답: technology — (과학) 기술. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "7",
+          "en": "everyday",
+          "ko": "일상적인, 매일의",
+          "sourceId": 7,
+          "explainKo": "정답: everyday — 일상적인, 매일의. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "8",
+          "en": "chat",
+          "ko": "대화, 담소; 대화하다",
+          "sourceId": 8,
+          "explainKo": "정답: chat — 대화, 담소; 대화하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "9",
+          "en": "explanation",
+          "ko": "설명",
+          "sourceId": 9,
+          "explainKo": "정답: explanation — 설명. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "10",
+          "en": "human",
+          "ko": "인간; 인간의",
+          "sourceId": 10,
+          "explainKo": "정답: human — 인간; 인간의. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "wisely — 현명하게\ncorrect — 맞는, 정확한\nrepair — 수리하다\naccuracy — 정확성, 정확도\nrefrigerator — 냉장고\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "wisely",
+          "ko": "현명하게",
+          "sourceId": 11,
+          "explainKo": "정답: wisely — 현명하게. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "12",
+          "en": "correct",
+          "ko": "맞는, 정확한",
+          "sourceId": 12,
+          "explainKo": "정답: correct — 맞는, 정확한. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "13",
+          "en": "repair",
+          "ko": "수리하다",
+          "sourceId": 13,
+          "explainKo": "정답: repair — 수리하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "14",
+          "en": "accuracy",
+          "ko": "정확성, 정확도",
+          "sourceId": 14,
+          "explainKo": "정답: accuracy — 정확성, 정확도. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "15",
+          "en": "refrigerator",
+          "ko": "냉장고",
+          "sourceId": 15,
+          "explainKo": "정답: refrigerator — 냉장고. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "translate — 번역하다\nfollowing — 다음의, 이어지는\nintelligence — 지능\ndirections — 길 안내\nrecognize — 알아보다, 인식하다\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "translate",
+          "ko": "번역하다",
+          "sourceId": 16,
+          "explainKo": "정답: translate — 번역하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "17",
+          "en": "following",
+          "ko": "다음의, 이어지는",
+          "sourceId": 17,
+          "explainKo": "정답: following — 다음의, 이어지는. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "18",
+          "en": "intelligence",
+          "ko": "지능",
+          "sourceId": 18,
+          "explainKo": "정답: intelligence — 지능. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "19",
+          "en": "directions",
+          "ko": "길 안내",
+          "sourceId": 19,
+          "explainKo": "정답: directions — 길 안내. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "20",
+          "en": "recognize",
+          "ko": "알아보다, 인식하다",
+          "sourceId": 20,
+          "explainKo": "정답: recognize — 알아보다, 인식하다. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "recipe — 요리법, 조리법\nsensor — 센서, 감지기\nprivacy — 사생활\ntransportation — 교통수단\npersonal — 개인의, 개인적인\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "recipe",
+          "ko": "요리법, 조리법",
+          "sourceId": 1,
+          "explainKo": "정답: recipe — 요리법, 조리법. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "2",
+          "en": "sensor",
+          "ko": "센서, 감지기",
+          "sourceId": 2,
+          "explainKo": "정답: sensor — 센서, 감지기. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "3",
+          "en": "privacy",
+          "ko": "사생활",
+          "sourceId": 3,
+          "explainKo": "정답: privacy — 사생활. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "4",
+          "en": "transportation",
+          "ko": "교통수단",
+          "sourceId": 4,
+          "explainKo": "정답: transportation — 교통수단. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "5",
+          "en": "personal",
+          "ko": "개인의, 개인적인",
+          "sourceId": 5,
+          "explainKo": "정답: personal — 개인의, 개인적인. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "situation — 상황\nunlock — 열다, 잠금을 해제하다\nrecommend — 추천하다\nblindly — 무턱대고, 맹목적으로\ndecision — 결정\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "situation",
+          "ko": "상황",
+          "sourceId": 6,
+          "explainKo": "정답: situation — 상황. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "7",
+          "en": "unlock",
+          "ko": "열다, 잠금을 해제하다",
+          "sourceId": 7,
+          "explainKo": "정답: unlock — 열다, 잠금을 해제하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "8",
+          "en": "recommend",
+          "ko": "추천하다",
+          "sourceId": 8,
+          "explainKo": "정답: recommend — 추천하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "9",
+          "en": "blindly",
+          "ko": "무턱대고, 맹목적으로",
+          "sourceId": 9,
+          "explainKo": "정답: blindly — 무턱대고, 맹목적으로. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "10",
+          "en": "decision",
+          "ko": "결정",
+          "sourceId": 10,
+          "explainKo": "정답: decision — 결정. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "plant — 심다; 식물\ncopy — 베끼다, 모방하다; 복사하다\nscreen — 화면, 스크린; 영화\nscan — 스캔하다, 훑다\nartificial — 인공의\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "plant",
+          "ko": "심다; 식물",
+          "sourceId": 11,
+          "explainKo": "정답: plant — 심다; 식물. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "12",
+          "en": "copy",
+          "ko": "베끼다, 모방하다; 복사하다",
+          "sourceId": 12,
+          "explainKo": "정답: copy — 베끼다, 모방하다; 복사하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "13",
+          "en": "screen",
+          "ko": "화면, 스크린; 영화",
+          "sourceId": 13,
+          "explainKo": "정답: screen — 화면, 스크린; 영화. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "14",
+          "en": "scan",
+          "ko": "스캔하다, 훑다",
+          "sourceId": 14,
+          "explainKo": "정답: scan — 스캔하다, 훑다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "15",
+          "en": "artificial",
+          "ko": "인공의",
+          "sourceId": 15,
+          "explainKo": "정답: artificial — 인공의. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "entertainment — 오락\nhandle — 손잡이; 다루다\nprovide — 제공하다\narea — 지역\nfair — 타당한, 공정한\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "entertainment",
+          "ko": "오락",
+          "sourceId": 16,
+          "explainKo": "정답: entertainment — 오락. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "17",
+          "en": "handle",
+          "ko": "손잡이; 다루다",
+          "sourceId": 17,
+          "explainKo": "정답: handle — 손잡이; 다루다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "18",
+          "en": "provide",
+          "ko": "제공하다",
+          "sourceId": 18,
+          "explainKo": "정답: provide — 제공하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "19",
+          "en": "area",
+          "ko": "지역",
+          "sourceId": 19,
+          "explainKo": "정답: area — 지역. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "20",
+          "en": "fair",
+          "ko": "타당한, 공정한",
+          "sourceId": 20,
+          "explainKo": "정답: fair — 타당한, 공정한. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "come up with — ~을 생각해내다\nfeel free to — 편하게 ~하다\nkeep in mind — ~을 명심하다\nsimilar to — ~와 비슷한\nat once — 한 번에, 동시에\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "come up with",
+          "ko": "~을 생각해내다",
+          "sourceId": 1,
+          "explainKo": "정답: come up with — ~을 생각해내다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "2",
+          "en": "feel free to",
+          "ko": "편하게 ~하다",
+          "sourceId": 2,
+          "explainKo": "정답: feel free to — 편하게 ~하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "3",
+          "en": "keep in mind",
+          "ko": "~을 명심하다",
+          "sourceId": 3,
+          "explainKo": "정답: keep in mind — ~을 명심하다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "4",
+          "en": "similar to",
+          "ko": "~와 비슷한",
+          "sourceId": 4,
+          "explainKo": "정답: similar to — ~와 비슷한. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "5",
+          "en": "at once",
+          "ko": "한 번에, 동시에",
+          "sourceId": 5,
+          "explainKo": "정답: at once — 한 번에, 동시에. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "save time — 시간을 아끼다\npersonal information — 개인 정보\ncare for — ~을 돌보다\ntake a look at — ~을 한 번 보다, ~을 살펴보다\nself-driving bike — 자율주행 자전거\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "save time",
+          "ko": "시간을 아끼다",
+          "sourceId": 6,
+          "explainKo": "정답: save time — 시간을 아끼다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "7",
+          "en": "personal information",
+          "ko": "개인 정보",
+          "sourceId": 7,
+          "explainKo": "정답: personal information — 개인 정보. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "8",
+          "en": "care for",
+          "ko": "~을 돌보다",
+          "sourceId": 8,
+          "explainKo": "정답: care for — ~을 돌보다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "9",
+          "en": "take a look at",
+          "ko": "~을 한 번 보다, ~을 살펴보다",
+          "sourceId": 9,
+          "explainKo": "정답: take a look at — ~을 한 번 보다, ~을 살펴보다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "10",
+          "en": "self-driving bike",
+          "ko": "자율주행 자전거",
+          "sourceId": 10,
+          "explainKo": "정답: self-driving bike — 자율주행 자전거. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "by oneself — 혼자서, 혼자 힘으로\nsuch as — ~와 같은, ~처럼\neven if — (비록) ~일지라도\nin front of — ~의 앞에\nbe used for — ~하는 데 사용되다\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "by oneself",
+          "ko": "혼자서, 혼자 힘으로",
+          "sourceId": 1,
+          "explainKo": "정답: by oneself — 혼자서, 혼자 힘으로. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "2",
+          "en": "such as",
+          "ko": "~와 같은, ~처럼",
+          "sourceId": 2,
+          "explainKo": "정답: such as — ~와 같은, ~처럼. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "3",
+          "en": "even if",
+          "ko": "(비록) ~일지라도",
+          "sourceId": 3,
+          "explainKo": "정답: even if — (비록) ~일지라도. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "4",
+          "en": "in front of",
+          "ko": "~의 앞에",
+          "sourceId": 4,
+          "explainKo": "정답: in front of — ~의 앞에. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "5",
+          "en": "be used for",
+          "ko": "~하는 데 사용되다",
+          "sourceId": 5,
+          "explainKo": "정답: be used for — ~하는 데 사용되다. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "for example — 예를 들어\nmake a decision — 결정을 내리다\nget ready to — ~할 준비가 되다\nover time — 시간이 지나면서\nstand for — ~을 나타내다, ~을 의미하다\n(답지 p.36 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "for example",
+          "ko": "예를 들어",
+          "sourceId": 6,
+          "explainKo": "정답: for example — 예를 들어. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "7",
+          "en": "make a decision",
+          "ko": "결정을 내리다",
+          "sourceId": 7,
+          "explainKo": "정답: make a decision — 결정을 내리다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "8",
+          "en": "get ready to",
+          "ko": "~할 준비가 되다",
+          "sourceId": 8,
+          "explainKo": "정답: get ready to — ~할 준비가 되다. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "9",
+          "en": "over time",
+          "ko": "시간이 지나면서",
+          "sourceId": 9,
+          "explainKo": "정답: over time — 시간이 지나면서. (답지 p.36 Vocabulary 확인)"
+        },
+        {
+          "id": "10",
+          "en": "stand for",
+          "ko": "~을 나타내다, ~을 의미하다",
+          "sourceId": 10,
+          "explainKo": "정답: stand for — ~을 나타내다, ~을 의미하다. (답지 p.36 Vocabulary 확인)"
+        }
+      ],
+      "promptEn": "Match each English expression with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요.",
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 영어와 우리말을 짝지으세요. A 20개, B 20개, C 10개, D 10개.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}
