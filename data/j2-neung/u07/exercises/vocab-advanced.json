@@ -1,0 +1,381 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.128-129",
+  "questionCount": 14,
+  "omitted": [
+    {
+      "page": "p.129",
+      "item": "08",
+      "reason": "답지 p.25 key is ④, but the five choice combinations on p.129 are not legible, so the options cannot be copied"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②, ④. hard : difficult처럼 ② gift : present, ④ allow : permit은 유의어이다. ①③⑤는 반의어이다. (답지 p.25 Vocabulary 심화 01)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "다음 중 <보기>와 짝지어진 단어의 관계가 같은 것을 모두 고르면?\n<보기>\nhard : difficult",
+      "choices": [
+        "lock : key",
+        "gift : present",
+        "spend : save",
+        "allow : permit",
+        "expensive : cheap"
+      ],
+      "correctIndexes": [
+        2,
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ condition. 상태, 상황, 환경. in good condition, weather condition. (답지 p.25 Vocabulary 심화 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• The car is old, but it is in good ______.\n• We cannot play soccer in these terrible weather ______.",
+      "choices": [
+        "item",
+        "choice",
+        "condition",
+        "pattern",
+        "resource"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 보기의 stand는 '서다'이다. ③ stand up만 같은 뜻이고, ①②④⑤의 stand는 가판대이다. (답지 p.25 Vocabulary 심화 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 <보기>의 밑줄 친 부분과 의미가 같은 것은?\n<보기>\n「Stand」 behind the yellow line.\n① She set up a 「stand」 to sell lemonade.\n② There is a 「stand」 near the school gate.\n③ Please 「stand up」 when the teacher enters.\n④ He bought a book at the magazine 「stand」.\n⑤ They found a food 「stand」 at the flea market.",
+      "choices": [
+        "She set up a stand to sell lemonade.",
+        "There is a stand near the school gate.",
+        "Please stand up when the teacher enters.",
+        "He bought a book at the magazine stand.",
+        "They found a food stand at the flea market."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. a person who serves customers in a store는 clerk, (가게) 점원이다. (답지 p.25 Vocabulary 심화 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 영영풀이에 해당하는 단어가 들어간 문장은?\na person who serves customers in a store\n① I paid for the meal in cash.\n② The clerk helped me choose a bag.\n③ He spends too much money on games.\n④ There is a scratch on your phone screen.\n⑤ This was my first experience of traveling alone.",
+      "choices": [
+        "I paid for the meal in cash.",
+        "The clerk helped me choose a bag.",
+        "He spends too much money on games.",
+        "There is a scratch on your phone screen.",
+        "This was my first experience of traveling alone."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② detail. 나머지 빈칸은 price, mirror, station, space가 들어간다. detail(세부 사항)은 어느 빈칸에도 맞지 않는다. (답지 p.25 Vocabulary 심화 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\n• What is the ______ of this T-shirt?\n• He looked in the ______ before going out.\n• She waited at the ______ for the next bus.\n• There is not enough ______ for everyone in the classroom.",
+      "choices": [
+        "space",
+        "detail",
+        "mirror",
+        "price",
+        "station"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 'to like a person or thing better than another'는 prefer의 풀이이다. allow는 허락하다, 가능하게 하다. (답지 p.25 Vocabulary 심화 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 단어의 영영풀이가 바르지 않은 것은?\n① metal: a hard, shiny material like iron or gold\n② environment: the air, water, and land around us\n③ pair: two things of the same kind that go together\n④ allow: to like a person or thing better than another\n⑤ resource: something that a person or a country can use like water, oil, or money",
+      "choices": [
+        "metal: a hard, shiny material like iron or gold",
+        "environment: the air, water, and land around us",
+        "pair: two things of the same kind that go together",
+        "allow: to like a person or thing better than another",
+        "resource: something that a person or a country can use like water, oil, or money"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ jump / head / ask. jump into, head for, ask ~ for help. (답지 p.25 Vocabulary 심화 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ–ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• The boy tries to ⓐ ______ into the water on a hot day.\n• Let's ⓑ ______ for the hotel to check in before 3 p.m.\n• Don't be afraid to ⓒ ______ a stranger for help when you're lost.",
+      "choices": [
+        "get / head / try",
+        "stay / head / give",
+        "stay / post / ask",
+        "jump / head / ask",
+        "jump / post / give"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 할인을 했으면 비싸다(expensive)가 아니라 싸다(cheap)가 맞다. (답지 p.25 Vocabulary 심화 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 밑줄 친 단어의 쓰임이 어색한 것은?\n① The bag looks new, but it's 「secondhand」.\n② He 「returned」 the smartphone to its owner.\n③ They 「scanned」 the QR code to unlock the kickboard.\n④ She 「gave away」 her old clothes to people in need.\n⑤ The store gave a discount, so this book is 「expensive」.",
+      "choices": [
+        "The bag looks new, but it's secondhand.",
+        "He returned the smartphone to its owner.",
+        "They scanned the QR code to unlock the kickboard.",
+        "She gave away her old clothes to people in need.",
+        "The store gave a discount, so this book is expensive."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: anymore. not ~ anymore는 더 이상 ~ 아닌. (답지 p.25 Vocabulary 심화 03)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n우리는 더 이상 거기에 살지 않는다.\n→ We don't live there ______.",
+      "accept": [
+        "anymore"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: looking forward to. look forward to -ing는 ~하는 것을 기대하다 (= can't wait to). (답지 p.25 Vocabulary 심화 07)",
+      "type": "fill",
+      "promptEn": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nI can't wait to go on vacation.\n→ I'm ______ going on vacation.",
+      "accept": [
+        "looking forward to"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: money. spend는 상품이나 서비스에 대한 지불로 돈을 주다. (답지 p.25 Vocabulary 심화 11)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이의 빈칸에 들어갈 적절한 말을 쓰시오.\nspend: to give ______ as a payment for goods or services",
+      "accept": [
+        "money"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "13-1",
+      "label": "13 (1)",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "(1)번 빈칸의 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: getting. without -ing, without getting ready. get의 어형을 바꾼다. (답지 p.25 Vocabulary 심화 13)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 <보기>에서 골라 쓰시오. (필요시 어형을 바꿀 것)\n<보기>\nspend    difficult    careful    get    easy\n(1) 그들은 준비도 하지 않고 집을 나갔다.\n→ They left the house without ______ ready.\n(2) 그녀는 휴대폰의 도움을 받아 쉽게 공항을 찾았다.\n→ She found the airport (2) with the help of her phone.\n(3) 그는 시계를 사기 전에 꼼꼼하게 상태를 확인했다.\n→ He (3) checked the condition of the watch before buying it.",
+      "accept": [
+        "getting"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "promptKo": "이번 카드는 (1)만 쓰세요."
+    },
+    {
+      "id": "13-2",
+      "label": "13 (2)",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "(2)번 빈칸의 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: easily. easy의 부사형. (답지 p.25 Vocabulary 심화 13)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 <보기>에서 골라 쓰시오. (필요시 어형을 바꿀 것)\n<보기>\nspend    difficult    careful    get    easy\n(1) 그들은 준비도 하지 않고 집을 나갔다.\n→ They left the house without (1) ready.\n(2) 그녀는 휴대폰의 도움을 받아 쉽게 공항을 찾았다.\n→ She found the airport ______ with the help of her phone.\n(3) 그는 시계를 사기 전에 꼼꼼하게 상태를 확인했다.\n→ He (3) checked the condition of the watch before buying it.",
+      "accept": [
+        "easily"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "promptKo": "이번 카드는 (2)만 쓰세요."
+    },
+    {
+      "id": "13-3",
+      "label": "13 (3)",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "(3)번 빈칸의 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: carefully. careful의 부사형. (답지 p.25 Vocabulary 심화 13)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 <보기>에서 골라 쓰시오. (필요시 어형을 바꿀 것)\n<보기>\nspend    difficult    careful    get    easy\n(1) 그들은 준비도 하지 않고 집을 나갔다.\n→ They left the house without (1) ready.\n(2) 그녀는 휴대폰의 도움을 받아 쉽게 공항을 찾았다.\n→ She found the airport (2) with the help of her phone.\n(3) 그는 시계를 사기 전에 꼼꼼하게 상태를 확인했다.\n→ He ______ checked the condition of the watch before buying it.",
+      "accept": [
+        "carefully"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "promptKo": "이번 카드는 (3)만 쓰세요."
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 알맞은 것을 고르시오. 8문항. 빈칸에 들어갈 말만 쓰시오. 6문항. 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요. 08번은 보기가 읽히지 않아 빠졌습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 8
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 6
+    }
+  ]
+}
