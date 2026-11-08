@@ -1,0 +1,453 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "p.210",
+  "questionCount": 21,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ask some questions of it. (답지 p.41 Reading 내용 확인 01)",
+      "type": "fill",
+      "promptEn": "01 Rewrite \"ask it some questions\" as verb + thing + of + person.\n(1) Talk to an AI chatbot, and ask it some questions.",
+      "accept": [
+        "ask some questions of it"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: A를 B와 공유하다. (답지 p.41 Reading 내용 확인 02)",
+      "type": "fill",
+      "promptEn": "02 Write the Korean meaning of \"share A with B\".\n(2) Share your chat with your classmates.\nshare A with B",
+      "accept": [
+        "A를 B와 공유하다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 목적격 관계대명사. (답지 p.41 Reading 내용 확인 03)",
+      "type": "fill",
+      "promptEn": "03 Write the Korean grammar term for \"that\" in this sentence.\nI'm your AI friend ANNIE. I can answer ANY questions that you have.",
+      "accept": [
+        "목적격 관계대명사"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to answer. (답지 p.41 Reading 내용 확인 04)",
+      "type": "fill",
+      "promptEn": "04 Write the correct form of the word in parentheses.\nANNIE: Sure! I'd be happy ______ (answer) your questions!",
+      "accept": [
+        "to answer"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~을 나타내다[의미하다]. (답지 p.41 Reading 내용 확인 05)",
+      "type": "fill",
+      "promptEn": "05 Write the Korean meaning of \"stand for\".\nAI stands for \"Artificial Intelligence.\"",
+      "accept": [
+        "~을 나타내다[의미하다]",
+        "~을 나타내다",
+        "~을 의미하다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 가주어. (답지 p.41 Reading 내용 확인 06)",
+      "type": "fill",
+      "promptEn": "06 What kind of It is this? Write the Korean grammar term.\nUser: It is hard to understand your explanation.",
+      "accept": [
+        "가주어"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to sit. (답지 p.41 Reading 내용 확인 07)",
+      "type": "fill",
+      "promptEn": "07 Write the correct form of the word in parentheses.\nImagine that you have a new pet dog and you want to teach it how ______ (sit) and stay.",
+      "accept": [
+        "to sit"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~할 필요가 없다. (답지 p.41 Reading 내용 확인 08)",
+      "type": "fill",
+      "promptEn": "08 Write the Korean meaning of \"don't have to\".\nAI is similar. But you don't have to give AI a snack!",
+      "accept": [
+        "~할 필요가 없다",
+        "할 필요가 없다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: used. (답지 p.41 Reading 내용 확인 09)",
+      "type": "fill",
+      "promptEn": "09 Write the correct form of (use).\nUser: How is AI ______ (use) in everyday life?",
+      "accept": [
+        "used"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: is used. (답지 p.41 Reading 내용 확인 10)",
+      "type": "fill",
+      "promptEn": "10 Write the correct form of (use).\nANNIE: AI ______ (use) in many situations.",
+      "accept": [
+        "is used"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 추천하다. (답지 p.41 Reading 내용 확인 11)",
+      "type": "fill",
+      "promptEn": "11 Write the Korean meaning of \"recommend\".\nFor example, AI technology can recommend new videos that you may like.",
+      "accept": [
+        "추천하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: watched. (답지 p.41 Reading 내용 확인 12)",
+      "type": "fill",
+      "promptEn": "12 Write the correct form of (watch).\nIt studies which videos you have already ______ (watch).",
+      "accept": [
+        "watched"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: what. (답지 p.41 Reading 내용 확인 13)",
+      "type": "fill",
+      "promptEn": "13 Write the correct word: what / when.\nThen it decides ______ (what / when) to recommend.",
+      "accept": [
+        "what"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 잠금을 해제하기 위해. (답지 p.41 Reading 내용 확인 14)",
+      "type": "fill",
+      "promptEn": "14 Write the Korean meaning of \"to unlock\".\nAI can also recognize your face to unlock your smartphone.",
+      "accept": [
+        "잠금을 해제하기 위해"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: what your face looks like. (답지 p.41 Reading 내용 확인 15)",
+      "type": "fill",
+      "promptEn": "15 Arrange the words and write the phrase.\nIt learns ______ .\n(what / your / face / looks / like)",
+      "accept": [
+        "what your face looks like"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (비록) ~일지라도. (답지 p.41 Reading 내용 확인 16)",
+      "type": "fill",
+      "promptEn": "16 Write the Korean meaning of \"even if\".\nOver time, it gets better at recognizing you, even if you change your hair or wear a mask.",
+      "accept": [
+        "(비록) ~일지라도",
+        "비록 ~일지라도",
+        "~일지라도"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~을 명심하다. (답지 p.41 Reading 내용 확인 17)",
+      "type": "fill",
+      "promptEn": "17 Write the Korean meaning of \"keep in mind\".\nYou should keep the following things in mind:",
+      "accept": [
+        "~을 명심하다",
+        "명심하다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 항상 ~한 것은 아니다. (답지 p.41 Reading 내용 확인 18)",
+      "type": "fill",
+      "promptEn": "18 Write the Korean meaning of \"not always\".\n1. Accuracy: AI is not always correct, so you should always carefully check the information that it provides.",
+      "accept": [
+        "항상 ~한 것은 아니다"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 무턱대고, 맹목적으로. (답지 p.41 Reading 내용 확인 19)",
+      "type": "fill",
+      "promptEn": "19 Write the Korean meaning of \"blindly\".\n2. Originality: Even if the information is correct, do not blindly copy it.",
+      "accept": [
+        "무턱대고, 맹목적으로",
+        "무턱대고",
+        "맹목적으로"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: the information. (답지 p.41 Reading 내용 확인 20)",
+      "type": "fill",
+      "promptEn": "20 What does \"it\" refer to? Write the English words.\nEven if the information is correct, do not blindly copy it.\nMake sure you understand it, and then write it in your own words.",
+      "accept": [
+        "the information"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: to share. (답지 p.41 Reading 내용 확인 21)",
+      "type": "fill",
+      "promptEn": "21 Write the correct form of (share).\n3. Privacy: It is not safe ______ (share) your personal information with AI.",
+      "accept": [
+        "to share"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 오늘의 수업: What is AI? 빈칸·형태·뜻을 쓰시오. 21문항.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 21
+    }
+  ]
+}
