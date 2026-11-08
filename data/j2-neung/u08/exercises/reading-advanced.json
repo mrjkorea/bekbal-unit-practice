@@ -1,0 +1,654 @@
+{
+  "id": "reading-advanced",
+  "title": "Reading 심화 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.220-223",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② This is the book that I read yesterday. ⓐ that과 ②의 that은 목적격 관계대명사. (답지 p.43 Reading 심화 01)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n01 윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?",
+      "choices": [
+        "It is important that you study every day.",
+        "This is the book that I read yesterday.",
+        "He hopes that he can pass the test.",
+        "We visited that museum last week.",
+        "I think that he will be a good leader."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ Can I ask some questions of you about AI. ask + 직접목적어 + of + 간접목적어. (답지 p.43 Reading 심화 02)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n02 윗글의 밑줄 친 ⓑ(Can I ask you some questions about AI?)를 3형식으로 바르게 바꿔 쓴 것은?\n<u>ⓑCan I ask you some questions about AI?</u>",
+      "choices": [
+        "Can I ask some questions you about AI?",
+        "Can I ask some questions to you about AI?",
+        "Can I ask some questions of you about AI?",
+        "Can I ask some questions for you about AI?",
+        "Can I ask some questions about you about AI?"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ He was surprised to hear the news. 감정의 원인을 나타내는 부사적 용법의 to부정사. (답지 p.43 Reading 심화 03)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n03 윗글의 밑줄 친 ⓒ(Nice to meet you의 to meet)와 쓰임이 같은 것은?\nHello! Nice <u>ⓒto meet</u> you, too!",
+      "choices": [
+        "I went to the mall to buy new sneakers.",
+        "It was difficult to set up a tent by myself.",
+        "We decided to go out for dinner.",
+        "He was surprised to hear the news.",
+        "She needs a new dress to wear at the party."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "해당하는 것을 모두 고르시오.",
+      "ruleKo": "해당하는 보기를 모두 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "해당하는 것을 모두 고르시오. 해당하는 보기를 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ③, ⑤. kind가 '종류'라는 명사로 쓰인 것은 ③과 ⑤. ①②④는 '친절한'이라는 형용사. (답지 p.43 Reading 심화 04)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "multi",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n04 윗글의 밑줄 친 ⓓ와 같은 의미로 쓰인 것을 모두 고르면?",
+      "choices": [
+        "She is kind to everyone she meets.",
+        "He was kind to me when I was sad.",
+        "That kind of food is popular here.",
+        "They are always kind to animals.",
+        "What kind of music do you like?"
+      ],
+      "correctIndexes": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ from / like. learn from experiences, make decisions like humans. (답지 p.43 Reading 심화 05)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n05 윗글의 빈칸 ⓔ와 ⓕ에 들어갈 말이 바르게 짝지어진 것은?",
+      "choices": [
+        "at / and",
+        "to / as",
+        "at / like",
+        "from / as",
+        "from / like"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ AI is a computer system that can learn and make decisions. (답지 p.43 Reading 심화 06)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n06 윗글의 내용과 일치하는 것은?",
+      "choices": [
+        "ANNIE is a human teacher who answers questions.",
+        "The User already knows everything about AI.",
+        "AI can only solve simple math problems.",
+        "AI is a computer system that can learn and make decisions.",
+        "ANNIE cannot answer questions about AI."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: humans, make. (답지 p.43 Reading 심화 07)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[01-07] 다음 글을 읽고 물음에 답하시오.\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>ⓐthat</u> you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a <u>ⓓkind</u> of computer system. AI can understand language, learn <u>ⓔ______</u> experiences, and make decisions <u>ⓕ______</u> humans.\n\n07 윗글을 다음과 같이 요약할 때 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\nAI can think and act similarly to ______ because it can understand language, gain knowledge, and ______ decisions.",
+      "accept": [
+        "humans, make",
+        "humans / make",
+        "humans and make"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ hard / teach / similar. (답지 p.43 Reading 심화 08)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n08 윗글의 (A)-(C)의 각 괄호 안에서 문맥상 적절한 것을 골라 바르게 짝지은 것은?",
+      "choices": [
+        "easy / teach / different",
+        "easy / make / similar",
+        "hard / teach / similar",
+        "hard / make / similar",
+        "hard / teach / different"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: explanation. understand의 목적어는 명사. (답지 p.43 Reading 심화 09)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n09 윗글의 밑줄 친 ⓐ를 어법에 맞게 바꿔 쓰시오.",
+      "accept": [
+        "explanation"
+      ],
+      "phraseBlank": false
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ Could you show me an example? give an example은 show an example로 바꿔 쓸 수 있다. (답지 p.43 Reading 심화 10)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n10 윗글의 밑줄 친 ⓑ와 의미가 같은 것은?",
+      "choices": [
+        "Is this example correct?",
+        "Do you like this example?",
+        "Can I give you an example?",
+        "Why do you need an example?",
+        "Could you show me an example?"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: how to sit and stay. how it should sit and stay를 의문사 + to부정사로 바꾼다. (답지 p.43 Reading 심화 11)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n11 윗글의 밑줄 친 ⓒ를 to를 활용하여 다섯 단어로 바꿔 쓰시오.",
+      "accept": [
+        "how to sit and stay"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② don't have to give AI a snack. give + 간접목적어 + 직접목적어. (답지 p.43 Reading 심화 12)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n12 윗글의 밑줄 친 ⓓ를 어법상 바르게 고친 것은?",
+      "choices": [
+        "don't have to give a snack AI",
+        "don't have to give AI a snack",
+        "doesn't have to give AI a snack",
+        "don't have to give AI to a snack",
+        "don't have to give for AI a snack"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ by learning from information and experiences. (답지 p.43 Reading 심화 13)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n13 According to the passage, how does AI learn?",
+      "choices": [
+        "by asking people questions",
+        "by imagining a new pet dog",
+        "by copying everything people say",
+        "by following human instructions all the time",
+        "by learning from information and experiences"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ (c), (d). AI는 개와 비슷하게 학습하고, 생명체처럼 음식을 필요로 하지 않는다. (답지 p.43 Reading 심화 14)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[08-14] 다음 글을 읽고, 물음에 답하시오.\nUser: It is (A) [easy / hard] to understand your <u>ⓐexplain</u>. Can you <u>ⓑgive me an example</u>?\nANNIE: Sure! Imagine that you have a new pet dog and you want to (B) [make / teach] it how <u>ⓒit should sit and stay</u>. Your dog will learn from information and experiences. AI is (C) [different / similar]. But you <u>ⓓdon't have to give to AI a snack</u>!\n\n14 윗글의 내용과 일치하는 것끼리 바르게 짝지어진 것은?\n(a) The User doesn't need any more examples.\n(b) ANNIE gives an example of a plant.\n(c) AI is like a dog in how it learns.\n(d) AI does not need food like a living thing.\n(e) AI can't understand human information.",
+      "choices": [
+        "(a), (b)",
+        "(b), (d)",
+        "(b), (e)",
+        "(c), (d)",
+        "(d), (e)"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ where → what. '어디서'가 아니라 '무엇을' 추천할지이다. (답지 p.43 Reading 심화 15)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n15 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: which videos you have already watched. which + 명사 + 주어 + 현재완료. (답지 p.43 Reading 심화 16)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n16 윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 바르게 영작하시오.\n조건\n1. which, already, watch를 사용할 것.\n2. 6단어로 작성할 것.",
+      "accept": [
+        "which videos you have already watched"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ She sings like a professional singer. ⓑ like와 ④의 like는 '~처럼'이라는 전치사. (답지 p.43 Reading 심화 17)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n17 다음 중 윗글의 밑줄 친 ⓑ와 의미가 같은 것은?",
+      "choices": [
+        "I like spending time with my family.",
+        "We like taking walks after dinner.",
+        "My brother likes watching action movies.",
+        "She sings like a professional singer.",
+        "He likes playing soccer after school."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② face. AI는 얼굴을 인식하여 스마트폰 잠금을 해제한다. (답지 p.43 Reading 심화 18)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[15-18] 다음 글을 읽고 물음에 답하시오.\nUser: How is AI used in everyday life?\nANNIE: AI is used in many <u>①situations</u>. For example, AI technology can <u>②recommend</u> new videos that you may like. It studies <u>ⓐ어떤 영상들을 당신이 이미 시청했는지</u>. Then it decides <u>③where</u> to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks <u>ⓑlike</u>. Over time, it gets <u>⑤better</u> at recognizing you, even if you change your hair or wear a mask.\n\n18 What does AI recognize when it unlocks your smartphone?",
+      "choices": [
+        "hair",
+        "face",
+        "mask",
+        "a video",
+        "technology"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 독창성에서 내용을 이해한 다음 자신의 말로 작성하는 흐름. (답지 p.43 Reading 심화 19)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n19 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nAnd then write it in your own words.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② gives. provide는 '주다, 제공하다'이므로 give와 바꿔 쓸 수 있다. (답지 p.43 Reading 심화 20)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n20 윗글의 밑줄 친 ⓐ와 의미가 가장 가까운 것은?",
+      "choices": [
+        "finds",
+        "gives",
+        "keeps",
+        "makes",
+        "takes"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ to tell the user help is available later. 앞으로 도움이 필요하면 물어보라는 말. (답지 p.43 Reading 심화 21)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n21 윗글에서 ANNIE가 밑줄 친 문장 ⓑ를 언급한 의도로 가장 적절한 것은?",
+      "choices": [
+        "to say sorry for a mistake",
+        "to ask the user a question",
+        "to give new information about AI",
+        "to warn the user about a problem",
+        "to tell the user help is available later"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: correct. 틀리지 않고 실수가 없는. (답지 p.43 Reading 심화 22)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n22 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.\nnot wrong and has no mistakes",
+      "accept": [
+        "correct"
+      ],
+      "phraseBlank": false
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ AI가 제공하는 정보는 틀릴 수도 있으므로 반드시 확인해야 한다. (답지 p.43 Reading 심화 23)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n23 윗글에서 'User'가 정확성에 대해 새로 배운 점으로 적절한 것은?",
+      "choices": [
+        "AI는 항상 최신의 정보를 제공한다.",
+        "AI는 단순한 질문에만 답할 수 있다.",
+        "AI는 모든 정보를 스스로 검증한 뒤 제공한다.",
+        "AI는 항상 사용자에게 가장 흥미로운 답을 준다.",
+        "AI가 제공하는 정보는 틀릴 수도 있으므로 반드시 확인해야 한다."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: personal information. (답지 p.43 Reading 심화 24)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n24 윗글을 읽고, 조건에 맞게 질문에 대한 답을 완성하시오.\n조건\n1. 지문에 쓰인 표현을 이용할 것.\n2. 2단어로 쓸 것.\nQ. What kind of information should we not give to AI?\n→ We should not give AI ______.",
+      "accept": [
+        "personal information"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 심화",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: When we use AI, we should carefully check AI's information because it is not always correct. We should not copy it blindly but use it in our own words. (답지 p.43 Reading 심화 25)",
+      "type": "sentence",
+      "seconds": 100,
+      "promptEn": "[19-25] 다음 글을 읽고 물음에 답하시오.\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always correct. (①) So you should always carefully check the information that it <u>ⓐprovides</u>. (②)\n2. Originality: Even if the information is correct, do not blindly copy it. (③) Make sure you understand it. (④)\n3. Privacy: It is not safe to share your personal information with AI. (⑤)\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! <u>ⓑIf you need help in the future, feel free to ask.</u> Have a great day!\n\n25 윗글을 다음과 같이 요약할 때 흐름상 어색한 부분을 모두 바르게 고쳐 문장을 다시 쓰시오. (지문의 표현을 이용할 것)\nWhen we use AI, we should carelessly check AI's information because it is always correct. We should copy it blindly but use it in our own words.",
+      "accept": [
+        "When we use AI, we should carefully check AI's information because it is not always correct. We should not copy it blindly but use it in our own words.",
+        "When we use AI, we should carefully check AI's information because it is not always correct. We should not copy it blindly but use it in our own words"
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "글을 읽고 알맞은 것을 고르거나 쓰시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Reading 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 25
+    }
+  ]
+}
