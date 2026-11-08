@@ -1,0 +1,44 @@
+{
+  "book": "j2-neung",
+  "unit": "u08",
+  "group": "grammar-reading-a",
+  "section": "A",
+  "exercises": [
+    {
+      "id": "grammar-check",
+      "title": "Grammar 확인 문제",
+      "questionCount": 30,
+      "omittedCount": 0
+    },
+    {
+      "id": "grammar-practice",
+      "title": "Grammar 실전 문제",
+      "questionCount": 14,
+      "omittedCount": 0
+    },
+    {
+      "id": "grammar-advanced",
+      "title": "Grammar 심화 문제",
+      "questionCount": 13,
+      "omittedCount": 0
+    },
+    {
+      "id": "reading-content",
+      "title": "Reading 내용 확인하기",
+      "questionCount": 21,
+      "omittedCount": 0
+    },
+    {
+      "id": "reading-lexgram",
+      "title": "Reading 적절한 어휘·어법 고르기",
+      "questionCount": 35,
+      "omittedCount": 0
+    },
+    {
+      "id": "reading-order",
+      "title": "Reading 순서배열하기",
+      "questionCount": 38,
+      "omittedCount": 0
+    }
+  ]
+}
