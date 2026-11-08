@@ -1,0 +1,32 @@
+{
+  "book": "j2-neung",
+  "unit": "u07",
+  "group": "writing-mock",
+  "section": "A",
+  "exercises": [
+    {
+      "id": "plus-practice",
+      "title": "Plus 기타 지문 실전 문제",
+      "questionCount": 10,
+      "omittedCount": 0
+    },
+    {
+      "id": "writing-finish",
+      "title": "서술형 끝내기",
+      "questionCount": 25,
+      "omittedCount": 0
+    },
+    {
+      "id": "mock-100",
+      "title": "100발 100중 모의고사",
+      "questionCount": 24,
+      "omittedCount": 1
+    },
+    {
+      "id": "mock-high",
+      "title": "고득점 모의고사",
+      "questionCount": 26,
+      "omittedCount": 0
+    }
+  ]
+}
