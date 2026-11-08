@@ -1,0 +1,1367 @@
+{
+  "id": "x10-vocab",
+  "title": "어휘 확인 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.30-31",
+  "questionCount": 38,
+  "omitted": [
+    {
+      "page": "p.31",
+      "item": "Words Plus A 02",
+      "reason": "X-10 답지 없음, 지문으로 확정 불가. ______ : key = lend : borrow 에서 lock과 unlock이 모두 본책 p.125 함께 외우기에 있다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "s1-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "lock — 자물쇠; 잠그다\nchoice — 선택\npattern — 무늬, 패턴\neasily — 쉽게\nexperience — 경험; 경험하다\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "lock",
+          "ko": "자물쇠; 잠그다",
+          "sourceId": 1,
+          "explainKo": "정답: 자물쇠; 잠그다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "2",
+          "en": "choice",
+          "ko": "선택",
+          "sourceId": 2,
+          "explainKo": "정답: 선택. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "3",
+          "en": "pattern",
+          "ko": "무늬, 패턴",
+          "sourceId": 3,
+          "explainKo": "정답: 무늬, 패턴. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "4",
+          "en": "easily",
+          "ko": "쉽게",
+          "sourceId": 4,
+          "explainKo": "정답: 쉽게. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "5",
+          "en": "experience",
+          "ko": "경험; 경험하다",
+          "sourceId": 5,
+          "explainKo": "정답: 경험; 경험하다. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "cash — 현금\nprice — 가격\ncarefully — 꼼꼼하게, 주의 깊게\ncustomer — 손님, 고객\nexchange — 교환하다; 교환\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "cash",
+          "ko": "현금",
+          "sourceId": 6,
+          "explainKo": "정답: 현금. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "7",
+          "en": "price",
+          "ko": "가격",
+          "sourceId": 7,
+          "explainKo": "정답: 가격. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "8",
+          "en": "carefully",
+          "ko": "꼼꼼하게, 주의 깊게",
+          "sourceId": 8,
+          "explainKo": "정답: 꼼꼼하게, 주의 깊게. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "9",
+          "en": "customer",
+          "ko": "손님, 고객",
+          "sourceId": 9,
+          "explainKo": "정답: 손님, 고객. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "10",
+          "en": "exchange",
+          "ko": "교환하다; 교환",
+          "sourceId": 10,
+          "explainKo": "정답: 교환하다; 교환. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "space — 공간; 우주\nitem — 물품, 품목\npair — 한 켤레; 한 쌍\npost — 게시글; 게시하다\nexercise — 운동하다; 운동\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "space",
+          "ko": "공간; 우주",
+          "sourceId": 11,
+          "explainKo": "정답: 공간; 우주. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "12",
+          "en": "item",
+          "ko": "물품, 품목",
+          "sourceId": 12,
+          "explainKo": "정답: 물품, 품목. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "13",
+          "en": "pair",
+          "ko": "한 켤레; 한 쌍",
+          "sourceId": 13,
+          "explainKo": "정답: 한 켤레; 한 쌍. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "14",
+          "en": "post",
+          "ko": "게시글; 게시하다",
+          "sourceId": 14,
+          "explainKo": "정답: 게시글; 게시하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "15",
+          "en": "exercise",
+          "ko": "운동하다; 운동",
+          "sourceId": 15,
+          "explainKo": "정답: 운동하다; 운동. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어→우리말",
+      "directionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "expensive — 비싼\nground — 땅\nscratch — 긁힌 자국; 긁다\nget — 얻다; 도착하다; 사다\ngift — 선물\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "expensive",
+          "ko": "비싼",
+          "sourceId": 16,
+          "explainKo": "정답: 비싼. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "17",
+          "en": "ground",
+          "ko": "땅",
+          "sourceId": 17,
+          "explainKo": "정답: 땅. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "18",
+          "en": "scratch",
+          "ko": "긁힌 자국; 긁다",
+          "sourceId": 18,
+          "explainKo": "정답: 긁힌 자국; 긁다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "19",
+          "en": "get",
+          "ko": "얻다; 도착하다; 사다",
+          "sourceId": 19,
+          "explainKo": "정답: 얻다; 도착하다; 사다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "20",
+          "en": "gift",
+          "ko": "선물",
+          "sourceId": 20,
+          "explainKo": "정답: 선물. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "allow — 허락하다; 가능하게 하다\ncondition — 상태, 상황, 환경\nprefer — (더) 좋아하다, 선호하다\nscan — 스캔하다, 훑다\nenvironment — 환경\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "allow",
+          "ko": "허락하다; 가능하게 하다",
+          "sourceId": 1,
+          "explainKo": "정답: 허락하다; 가능하게 하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "2",
+          "en": "condition",
+          "ko": "상태, 상황, 환경",
+          "sourceId": 2,
+          "explainKo": "정답: 상태, 상황, 환경. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "3",
+          "en": "prefer",
+          "ko": "(더) 좋아하다, 선호하다",
+          "sourceId": 3,
+          "explainKo": "정답: (더) 좋아하다, 선호하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "4",
+          "en": "scan",
+          "ko": "스캔하다, 훑다",
+          "sourceId": 4,
+          "explainKo": "정답: 스캔하다, 훑다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "5",
+          "en": "environment",
+          "ko": "환경",
+          "sourceId": 5,
+          "explainKo": "정답: 환경. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "economy — 경제\ntype — 종류, 타입\nwallet — 지갑\nspend — (돈을) 쓰다, 소비하다\nstation — 정거장\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "economy",
+          "ko": "경제",
+          "sourceId": 6,
+          "explainKo": "정답: 경제. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "7",
+          "en": "type",
+          "ko": "종류, 타입",
+          "sourceId": 7,
+          "explainKo": "정답: 종류, 타입. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "8",
+          "en": "wallet",
+          "ko": "지갑",
+          "sourceId": 8,
+          "explainKo": "정답: 지갑. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "9",
+          "en": "spend",
+          "ko": "(돈을) 쓰다, 소비하다",
+          "sourceId": 9,
+          "explainKo": "정답: (돈을) 쓰다, 소비하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "10",
+          "en": "station",
+          "ko": "정거장",
+          "sourceId": 10,
+          "explainKo": "정답: 정거장. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "rent — (돈을 내고) 빌리다, 임차하다\nsneaker — 운동화\nmetal — 금속\nrecommend — 추천하다\nmirror — 거울\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "rent",
+          "ko": "(돈을 내고) 빌리다, 임차하다",
+          "sourceId": 11,
+          "explainKo": "정답: (돈을 내고) 빌리다, 임차하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "12",
+          "en": "sneaker",
+          "ko": "운동화",
+          "sourceId": 12,
+          "explainKo": "정답: 운동화. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "13",
+          "en": "metal",
+          "ko": "금속",
+          "sourceId": 13,
+          "explainKo": "정답: 금속. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "14",
+          "en": "recommend",
+          "ko": "추천하다",
+          "sourceId": 14,
+          "explainKo": "정답: 추천하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "15",
+          "en": "mirror",
+          "ko": "거울",
+          "sourceId": 15,
+          "explainKo": "정답: 거울. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말→영어",
+      "directionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "resource — 자원\nclerk — (가게) 점원\nstand — 가판대; 서다\nsecondhand — 중고의\ndetail — 세부 사항\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "resource",
+          "ko": "자원",
+          "sourceId": 16,
+          "explainKo": "정답: 자원. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "17",
+          "en": "clerk",
+          "ko": "(가게) 점원",
+          "sourceId": 17,
+          "explainKo": "정답: (가게) 점원. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "18",
+          "en": "stand",
+          "ko": "가판대; 서다",
+          "sourceId": 18,
+          "explainKo": "정답: 가판대; 서다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "19",
+          "en": "secondhand",
+          "ko": "중고의",
+          "sourceId": 19,
+          "explainKo": "정답: 중고의. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "20",
+          "en": "detail",
+          "ko": "세부 사항",
+          "sourceId": 20,
+          "explainKo": "정답: 세부 사항. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s3",
+      "sectionTitle": "Section C · 표현 영어→우리말",
+      "directionKo": "C 다음 영어 표현을 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "C 다음 영어 표현을 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "look good on — ~에게 잘 어울리다\nsharing economy — 공유 경제\ngo well with — ~와 잘 맞다\ninstead of — ~대신에\nask for help — ~에게 도움을 요청하다\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "look good on",
+          "ko": "~에게 잘 어울리다",
+          "sourceId": 1,
+          "explainKo": "정답: ~에게 잘 어울리다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "2",
+          "en": "sharing economy",
+          "ko": "공유 경제",
+          "sourceId": 2,
+          "explainKo": "정답: 공유 경제. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "3",
+          "en": "go well with",
+          "ko": "~와 잘 맞다",
+          "sourceId": 3,
+          "explainKo": "정답: ~와 잘 맞다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "4",
+          "en": "instead of",
+          "ko": "~대신에",
+          "sourceId": 4,
+          "explainKo": "정답: ~대신에. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "5",
+          "en": "ask for help",
+          "ko": "~에게 도움을 요청하다",
+          "sourceId": 5,
+          "explainKo": "정답: ~에게 도움을 요청하다. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s3",
+      "sectionTitle": "Section C · 표현 영어→우리말",
+      "directionKo": "C 다음 영어 표현을 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "C 다음 영어 표현을 우리말로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "come up — 다가오다\nfor sale — 판매 중인\nflea market — 벼룩시장\ngive away — 무료로 주다\nwithout -ing — ~하지 않고\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "come up",
+          "ko": "다가오다",
+          "sourceId": 6,
+          "explainKo": "정답: 다가오다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "7",
+          "en": "for sale",
+          "ko": "판매 중인",
+          "sourceId": 7,
+          "explainKo": "정답: 판매 중인. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "8",
+          "en": "flea market",
+          "ko": "벼룩시장",
+          "sourceId": 8,
+          "explainKo": "정답: 벼룩시장. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "9",
+          "en": "give away",
+          "ko": "무료로 주다",
+          "sourceId": 9,
+          "explainKo": "정답: 무료로 주다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "10",
+          "en": "without -ing",
+          "ko": "~하지 않고",
+          "sourceId": 10,
+          "explainKo": "정답: ~하지 않고. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s4",
+      "sectionTitle": "Section D · 표현 우리말→영어",
+      "directionKo": "D 다음 우리말 표현을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "D 다음 우리말 표현을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "give a discount — 할인하다\nin good condition — 상태가 좋은\nbe good for — ~에 좋다\nnot ~ anymore — 더 이상 ~ 아닌\nbike-sharing system — 자전거 공유 시스템\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "give a discount",
+          "ko": "할인하다",
+          "sourceId": 1,
+          "explainKo": "정답: 할인하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "2",
+          "en": "in good condition",
+          "ko": "상태가 좋은",
+          "sourceId": 2,
+          "explainKo": "정답: 상태가 좋은. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "3",
+          "en": "be good for",
+          "ko": "~에 좋다",
+          "sourceId": 3,
+          "explainKo": "정답: ~에 좋다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "4",
+          "en": "not ~ anymore",
+          "ko": "더 이상 ~ 아닌",
+          "sourceId": 4,
+          "explainKo": "정답: 더 이상 ~ 아닌. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "5",
+          "en": "bike-sharing system",
+          "ko": "자전거 공유 시스템",
+          "sourceId": 5,
+          "explainKo": "정답: 자전거 공유 시스템. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 표현 우리말→영어",
+      "directionKo": "D 다음 우리말 표현을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "D 다음 우리말 표현을 영어로 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "get ready — 준비를 하다\nhead for — ~로 향하다\njump into — ~로 뛰어들다\ntry on — (옷 등을) 입어 보다\nprefer A to B — B보다 A를 선호하다\n본책 p.124 어휘 목록.",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "get ready",
+          "ko": "준비를 하다",
+          "sourceId": 6,
+          "explainKo": "정답: 준비를 하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "7",
+          "en": "head for",
+          "ko": "~로 향하다",
+          "sourceId": 7,
+          "explainKo": "정답: ~로 향하다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "8",
+          "en": "jump into",
+          "ko": "~로 뛰어들다",
+          "sourceId": 8,
+          "explainKo": "정답: ~로 뛰어들다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "9",
+          "en": "try on",
+          "ko": "(옷 등을) 입어 보다",
+          "sourceId": 9,
+          "explainKo": "정답: (옷 등을) 입어 보다. 본책 p.124 어휘 목록."
+        },
+        {
+          "id": "10",
+          "en": "prefer A to B",
+          "ko": "B보다 A를 선호하다",
+          "sourceId": 10,
+          "explainKo": "정답: B보다 A를 선호하다. 본책 p.124 어휘 목록."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "E-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: well. go well with. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n01. Black goes (1)__________ with almost any color.",
+      "accept": [
+        "well"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-01"
+    },
+    {
+      "id": "E-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: instead. instead of. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n02. He chose to walk (1)__________ of using his car.",
+      "accept": [
+        "instead"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-02"
+    },
+    {
+      "id": "E-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: without. without -ing. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n03. I got the wallet (1)__________ paying any money.",
+      "accept": [
+        "without"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-03"
+    },
+    {
+      "id": "E-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: condition. in good condition. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n04. It was old, but it was still in a good (1)__________.",
+      "accept": [
+        "condition"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-04"
+    },
+    {
+      "id": "E-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: station. station 정거장. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n05. I parked the bike at a nearby (1)__________ in the park.",
+      "accept": [
+        "station"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-05"
+    },
+    {
+      "id": "E-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: economy. sharing economy. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n06. The sharing (1)__________ allows people to reuse items easily.",
+      "accept": [
+        "economy"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-06"
+    },
+    {
+      "id": "E-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s5",
+      "sectionTitle": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: give. give away. 본책 p.124 어휘 목록.",
+      "type": "fill",
+      "promptEn": "E Choose the word from the box.\n보기: well, post, head, station, give, instead, without, sale, condition, economy\n07. She decided to (1)__________ away a backpack through the app.",
+      "accept": [
+        "give"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "E-07"
+    },
+    {
+      "id": "F-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: expensive (비싼). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n01. (          ): costing a lot of money",
+      "accept": [
+        "expensive",
+        "expensive 비싼",
+        "expensive (비싼)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 비싼.",
+      "group": "F-01"
+    },
+    {
+      "id": "F-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: cash (현금). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n02. (          ): money you can use in coins or paper notes",
+      "accept": [
+        "cash",
+        "cash 현금",
+        "cash (현금)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 현금.",
+      "group": "F-02"
+    },
+    {
+      "id": "F-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: customer (손님, 고객). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n03. (          ): a person who buys goods or services",
+      "accept": [
+        "customer",
+        "customer 손님, 고객",
+        "customer (손님, 고객)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 손님, 고객.",
+      "group": "F-03"
+    },
+    {
+      "id": "F-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: mirror (거울). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n04. (          ): a piece of glass that shows a reflection",
+      "accept": [
+        "mirror",
+        "mirror 거울",
+        "mirror (거울)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 거울.",
+      "group": "F-04"
+    },
+    {
+      "id": "F-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: clerk ((가게) 점원). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n05. (          ): a person who serves customers in a store",
+      "accept": [
+        "clerk",
+        "clerk (가게) 점원",
+        "clerk ((가게) 점원)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 (가게) 점원.",
+      "group": "F-05"
+    },
+    {
+      "id": "F-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: wallet (지갑). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n06. (          ): a small case for holding money and cards",
+      "accept": [
+        "wallet",
+        "wallet 지갑",
+        "wallet (지갑)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 지갑.",
+      "group": "F-06"
+    },
+    {
+      "id": "F-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: pair (한 켤레; 한 쌍). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n07. (          ): two things of the same kind that go together",
+      "accept": [
+        "pair",
+        "pair 한 켤레; 한 쌍",
+        "pair (한 켤레; 한 쌍)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 한 켤레; 한 쌍.",
+      "group": "F-07"
+    },
+    {
+      "id": "F-08",
+      "label": "08",
+      "sourceId": 8,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: prefer ((더) 좋아하다, 선호하다). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n08. (          ): to like a person or thing better than another",
+      "accept": [
+        "prefer",
+        "prefer (더) 좋아하다, 선호하다",
+        "prefer ((더) 좋아하다, 선호하다)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 (더) 좋아하다, 선호하다.",
+      "group": "F-08"
+    },
+    {
+      "id": "F-09",
+      "label": "09",
+      "sourceId": 9,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: exchange (교환하다). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n09. (          ): to give something and receive something back",
+      "accept": [
+        "exchange",
+        "exchange 교환하다",
+        "exchange (교환하다)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 교환하다.",
+      "group": "F-09"
+    },
+    {
+      "id": "F-10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s6",
+      "sectionTitle": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어를 쓰세요. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: lock (자물쇠). 본책 p.125 Meaning in English.",
+      "type": "fill",
+      "promptEn": "F Write the word.\n10. (          ): a device that keeps a door or box from being opened",
+      "accept": [
+        "lock",
+        "lock 자물쇠",
+        "lock (자물쇠)"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "영어 단어를 쓰세요. 뜻은 자물쇠.",
+      "group": "F-10"
+    },
+    {
+      "id": "PA-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: present. gift = present. 본책 p.125 함께 외우기 유의어.",
+      "type": "fill",
+      "promptEn": "Words Plus A\n01. gift : (1)__________ = type : kind",
+      "accept": [
+        "present"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PA-01"
+    },
+    {
+      "id": "PA-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: expensive. expensive ↔ cheap. 본책 p.125 함께 외우기 반의어.",
+      "type": "fill",
+      "promptEn": "Words Plus A\n03. difficult : easy = (1)__________ : cheap",
+      "accept": [
+        "expensive"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PA-03"
+    },
+    {
+      "id": "PA-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: secondhand. secondhand = used. 본책 p.125 함께 외우기 유의어.",
+      "type": "fill",
+      "promptEn": "Words Plus A\n04. allow : permit = (1)__________ : used",
+      "accept": [
+        "secondhand"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PA-04"
+    },
+    {
+      "id": "PA-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: choice. choose의 명사는 choice. 본책 p.124 choice (choose 선택하다), p.125 rent : rental.",
+      "type": "fill",
+      "promptEn": "Words Plus A\n05. rent : rental = choose : (1)__________",
+      "accept": [
+        "choice"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PA-05"
+    },
+    {
+      "id": "PB-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s8",
+      "sectionTitle": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: hard. difficult = hard. 본책 p.124.",
+      "type": "fill",
+      "promptEn": "Words Plus B\n01. difficult (유의어) → (1)__________",
+      "accept": [
+        "hard"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PB-01"
+    },
+    {
+      "id": "PB-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s8",
+      "sectionTitle": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: easily. easy → easily. 본책 p.125 접미사 -ly.",
+      "type": "fill",
+      "promptEn": "Words Plus B\n02. easy (부사형) → (1)__________",
+      "accept": [
+        "easily"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PB-02"
+    },
+    {
+      "id": "PB-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s8",
+      "sectionTitle": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: save. spend ↔ save. 본책 p.125 함께 외우기 반의어.",
+      "type": "fill",
+      "promptEn": "Words Plus B\n03. spend (반의어) → (1)__________",
+      "accept": [
+        "save"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PB-03"
+    },
+    {
+      "id": "PB-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s8",
+      "sectionTitle": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: decision. decide → decision. 본책 p.124.",
+      "type": "fill",
+      "promptEn": "Words Plus B\n04. decide (명사형) → (1)__________",
+      "accept": [
+        "decision"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PB-04"
+    },
+    {
+      "id": "PB-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s8",
+      "sectionTitle": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recommendation. recommend → recommendation. 본책 p.124.",
+      "type": "fill",
+      "promptEn": "Words Plus B\n05. recommend (명사형) → (1)__________",
+      "accept": [
+        "recommendation"
+      ],
+      "phraseBlank": false,
+      "seconds": 70,
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1)번 빈칸만 씁니다.",
+      "group": "PB-05"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "X-10 어휘 확인 문제. 답지 인쇄 pp.48-71은 이 스캔에 없습니다. 뜻은 본책 p.124 어휘 목록과 p.125 Meaning in English, Words Plus에서 맞춥니다. Words Plus A 02는 lock과 unlock이 모두 가능해서 뺐습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영어→우리말",
+      "directionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "A 다음 영어를 우리말로 짝지으세요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 우리말→영어",
+      "directionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "B 다음 우리말을 영어로 짝지으세요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 표현 영어→우리말",
+      "directionKo": "C 다음 영어 표현을 우리말로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "C 다음 영어 표현을 우리말로 짝지으세요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 표현 우리말→영어",
+      "directionKo": "D 다음 우리말 표현을 영어로 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "D 다음 우리말 표현을 영어로 짝지으세요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s5",
+      "title": "Section E · 보기에서 고르기",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "E 보기에서 단어를 골라 빈칸에 쓰시오.",
+      "itemCount": 7
+    },
+    {
+      "id": "s6",
+      "title": "Section F · 영영풀이",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "F 영영풀이의 영어 단어를 쓰시오.",
+      "itemCount": 10
+    },
+    {
+      "id": "s7",
+      "title": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "Words Plus A 관계를 보고 단어를 쓰시오.",
+      "itemCount": 4
+    },
+    {
+      "id": "s8",
+      "title": "Section H · Words Plus 형태",
+      "directionKo": "Words Plus B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "Words Plus B 조건에 맞는 단어를 쓰시오.",
+      "itemCount": 5
+    }
+  ]
+}

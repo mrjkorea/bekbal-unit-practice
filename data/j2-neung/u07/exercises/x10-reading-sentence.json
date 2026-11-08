@@ -1,0 +1,3269 @@
+{
+  "id": "x10-reading-sentence",
+  "title": "Reading 문장 완성하기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.38-39",
+  "questionCount": 114,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: ever, shared, things, like. 이 칸은 ever. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "01. Hello, I'm Jimin. Have you (1)__________ (2)__________ (3)__________ (4)__________ bikes, books, or toys?\n(like, shared, ever, things)\n여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?",
+      "choices": [
+        "like",
+        "shared",
+        "ever",
+        "things"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: ever, shared, things, like. 이 칸은 shared. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "01. Hello, I'm Jimin. Have you (1)__________ (2)__________ (3)__________ (4)__________ bikes, books, or toys?\n(like, shared, ever, things)\n여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?",
+      "choices": [
+        "like",
+        "shared",
+        "ever",
+        "things"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: ever, shared, things, like. 이 칸은 things. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "01. Hello, I'm Jimin. Have you (1)__________ (2)__________ (3)__________ (4)__________ bikes, books, or toys?\n(like, shared, ever, things)\n여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?",
+      "choices": [
+        "like",
+        "shared",
+        "ever",
+        "things"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: ever, shared, things, like. 이 칸은 like. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-01",
+      "promptEn": "01. Hello, I'm Jimin. Have you (1)__________ (2)__________ (3)__________ (4)__________ bikes, books, or toys?\n(like, shared, ever, things)\n여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?",
+      "choices": [
+        "like",
+        "shared",
+        "ever",
+        "things"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sharing, resources, environment. 이 칸은 Sharing. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "02. (1)__________ saves (2)__________ and money, and it is good for the (3)__________.\n(resources, environment, sharing)\n공유하는 것은 자원과 돈을 절약하고 환경에 좋습니다.",
+      "choices": [
+        "resources",
+        "environment",
+        "Sharing"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sharing, resources, environment. 이 칸은 resources. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "02. (1)__________ saves (2)__________ and money, and it is good for the (3)__________.\n(resources, environment, sharing)\n공유하는 것은 자원과 돈을 절약하고 환경에 좋습니다.",
+      "choices": [
+        "resources",
+        "environment",
+        "Sharing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sharing, resources, environment. 이 칸은 environment. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-02",
+      "promptEn": "02. (1)__________ saves (2)__________ and money, and it is good for the (3)__________.\n(resources, environment, sharing)\n공유하는 것은 자원과 돈을 절약하고 환경에 좋습니다.",
+      "choices": [
+        "resources",
+        "environment",
+        "Sharing"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "8",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: tell, experience, economy. 이 칸은 tell. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "03. Let me (1)__________ you about my (2)__________ with the sharing (3)__________.\n(experience, economy, tell)\n공유 경제에 관한 저의 경험에 대해 이야기해 드리겠습니다.",
+      "choices": [
+        "experience",
+        "economy",
+        "tell"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: tell, experience, economy. 이 칸은 experience. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "03. Let me (1)__________ you about my (2)__________ with the sharing (3)__________.\n(experience, economy, tell)\n공유 경제에 관한 저의 경험에 대해 이야기해 드리겠습니다.",
+      "choices": [
+        "experience",
+        "economy",
+        "tell"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: tell, experience, economy. 이 칸은 economy. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-03",
+      "promptEn": "03. Let me (1)__________ you about my (2)__________ with the sharing (3)__________.\n(experience, economy, tell)\n공유 경제에 관한 저의 경험에 대해 이야기해 드리겠습니다.",
+      "choices": [
+        "experience",
+        "economy",
+        "tell"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: used, to, get, backpack. 이 칸은 used. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "04. Last week, I (1)__________ an app (2)__________ (3)__________ a (4)__________.\n(to, backpack, used, get)\n지난주에, 저는 책가방을 구하기 위해 앱을 사용했습니다.",
+      "choices": [
+        "to",
+        "backpack",
+        "used",
+        "get"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: used, to, get, backpack. 이 칸은 to. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "04. Last week, I (1)__________ an app (2)__________ (3)__________ a (4)__________.\n(to, backpack, used, get)\n지난주에, 저는 책가방을 구하기 위해 앱을 사용했습니다.",
+      "choices": [
+        "to",
+        "backpack",
+        "used",
+        "get"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "13",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: used, to, get, backpack. 이 칸은 get. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "04. Last week, I (1)__________ an app (2)__________ (3)__________ a (4)__________.\n(to, backpack, used, get)\n지난주에, 저는 책가방을 구하기 위해 앱을 사용했습니다.",
+      "choices": [
+        "to",
+        "backpack",
+        "used",
+        "get"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "14",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: used, to, get, backpack. 이 칸은 backpack. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-04",
+      "promptEn": "04. Last week, I (1)__________ an app (2)__________ (3)__________ a (4)__________.\n(to, backpack, used, get)\n지난주에, 저는 책가방을 구하기 위해 앱을 사용했습니다.",
+      "choices": [
+        "to",
+        "backpack",
+        "used",
+        "get"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "15",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: allows, easily, secondhand, items. 이 칸은 allows. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "05. The app (1)__________ users to (2)__________ buy and sell (3)__________ (4)__________.\n(secondhand, easily, allows, items)\n그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다.",
+      "choices": [
+        "secondhand",
+        "easily",
+        "allows",
+        "items"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "16",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: allows, easily, secondhand, items. 이 칸은 easily. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "05. The app (1)__________ users to (2)__________ buy and sell (3)__________ (4)__________.\n(secondhand, easily, allows, items)\n그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다.",
+      "choices": [
+        "secondhand",
+        "easily",
+        "allows",
+        "items"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "17",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: allows, easily, secondhand, items. 이 칸은 secondhand. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "05. The app (1)__________ users to (2)__________ buy and sell (3)__________ (4)__________.\n(secondhand, easily, allows, items)\n그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다.",
+      "choices": [
+        "secondhand",
+        "easily",
+        "allows",
+        "items"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "18",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: allows, easily, secondhand, items. 이 칸은 items. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-05",
+      "promptEn": "05. The app (1)__________ users to (2)__________ buy and sell (3)__________ (4)__________.\n(secondhand, easily, allows, items)\n그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다.",
+      "choices": [
+        "secondhand",
+        "easily",
+        "allows",
+        "items"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "19",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: give, away, that, anymore. 이 칸은 give. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "06. Sometimes, people also (1)__________ (2)__________ items (3)__________ they don't need (4)__________.\n(anymore, give, that, away)\n가끔, 사람들은 더 이상 필요하지 않은 물건들을 무료로 주기도 합니다.",
+      "choices": [
+        "anymore",
+        "give",
+        "that",
+        "away"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "20",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: give, away, that, anymore. 이 칸은 away. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "06. Sometimes, people also (1)__________ (2)__________ items (3)__________ they don't need (4)__________.\n(anymore, give, that, away)\n가끔, 사람들은 더 이상 필요하지 않은 물건들을 무료로 주기도 합니다.",
+      "choices": [
+        "anymore",
+        "give",
+        "that",
+        "away"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "21",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: give, away, that, anymore. 이 칸은 that. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "06. Sometimes, people also (1)__________ (2)__________ items (3)__________ they don't need (4)__________.\n(anymore, give, that, away)\n가끔, 사람들은 더 이상 필요하지 않은 물건들을 무료로 주기도 합니다.",
+      "choices": [
+        "anymore",
+        "give",
+        "that",
+        "away"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "22",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: give, away, that, anymore. 이 칸은 anymore. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-06",
+      "promptEn": "06. Sometimes, people also (1)__________ (2)__________ items (3)__________ they don't need (4)__________.\n(anymore, give, that, away)\n가끔, 사람들은 더 이상 필요하지 않은 물건들을 무료로 주기도 합니다.",
+      "choices": [
+        "anymore",
+        "give",
+        "that",
+        "away"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "23",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: saw, post, backpack. 이 칸은 saw. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "07. I (1)__________ a (2)__________ about a nice (3)__________.\n(post, backpack, saw)\n저는 멋진 책가방에 관한 게시물을 보았습니다.",
+      "choices": [
+        "post",
+        "backpack",
+        "saw"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "24",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: saw, post, backpack. 이 칸은 post. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "07. I (1)__________ a (2)__________ about a nice (3)__________.\n(post, backpack, saw)\n저는 멋진 책가방에 관한 게시물을 보았습니다.",
+      "choices": [
+        "post",
+        "backpack",
+        "saw"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "25",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: saw, post, backpack. 이 칸은 backpack. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-07",
+      "promptEn": "07. I (1)__________ a (2)__________ about a nice (3)__________.\n(post, backpack, saw)\n저는 멋진 책가방에 관한 게시물을 보았습니다.",
+      "choices": [
+        "post",
+        "backpack",
+        "saw"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "26",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: giving, it, away. 이 칸은 giving. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "08. Someone was (1)__________ (2)__________ (3)__________.\n(giving, away, it)\n누군가가 그것을 무료로 주고 있었습니다.",
+      "choices": [
+        "giving",
+        "away",
+        "it"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "27",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: giving, it, away. 이 칸은 it. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "08. Someone was (1)__________ (2)__________ (3)__________.\n(giving, away, it)\n누군가가 그것을 무료로 주고 있었습니다.",
+      "choices": [
+        "giving",
+        "away",
+        "it"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "28",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: giving, it, away. 이 칸은 away. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-08",
+      "promptEn": "08. Someone was (1)__________ (2)__________ (3)__________.\n(giving, away, it)\n누군가가 그것을 무료로 주고 있었습니다.",
+      "choices": [
+        "giving",
+        "away",
+        "it"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "29",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, good, as, new. 이 칸은 looked. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "09. It (1)__________ as (2)__________ (3)__________ a (4)__________ one.\n(good, looked, new, as)\n그것은 새것만큼 좋아 보였습니다.",
+      "choices": [
+        "good",
+        "looked",
+        "new",
+        "as"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "30",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, good, as, new. 이 칸은 good. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "09. It (1)__________ as (2)__________ (3)__________ a (4)__________ one.\n(good, looked, new, as)\n그것은 새것만큼 좋아 보였습니다.",
+      "choices": [
+        "good",
+        "looked",
+        "new",
+        "as"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "31",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, good, as, new. 이 칸은 as. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "09. It (1)__________ as (2)__________ (3)__________ a (4)__________ one.\n(good, looked, new, as)\n그것은 새것만큼 좋아 보였습니다.",
+      "choices": [
+        "good",
+        "looked",
+        "new",
+        "as"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "32",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, good, as, new. 이 칸은 new. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-09",
+      "promptEn": "09. It (1)__________ as (2)__________ (3)__________ a (4)__________ one.\n(good, looked, new, as)\n그것은 새것만큼 좋아 보였습니다.",
+      "choices": [
+        "good",
+        "looked",
+        "new",
+        "as"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "33",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sent, to, who, posted. 이 칸은 sent. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "10. So, I (1)__________ a message (2)__________ the person (3)__________ (4)__________ it.\n(posted, who, sent, to)\n그래서 저는 그것을 게시한 사람에게 메시지를 보냈습니다.",
+      "choices": [
+        "posted",
+        "who",
+        "sent",
+        "to"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "34",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sent, to, who, posted. 이 칸은 to. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "10. So, I (1)__________ a message (2)__________ the person (3)__________ (4)__________ it.\n(posted, who, sent, to)\n그래서 저는 그것을 게시한 사람에게 메시지를 보냈습니다.",
+      "choices": [
+        "posted",
+        "who",
+        "sent",
+        "to"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "35",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sent, to, who, posted. 이 칸은 who. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "10. So, I (1)__________ a message (2)__________ the person (3)__________ (4)__________ it.\n(posted, who, sent, to)\n그래서 저는 그것을 게시한 사람에게 메시지를 보냈습니다.",
+      "choices": [
+        "posted",
+        "who",
+        "sent",
+        "to"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "36",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: sent, to, who, posted. 이 칸은 posted. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-10",
+      "promptEn": "10. So, I (1)__________ a message (2)__________ the person (3)__________ (4)__________ it.\n(posted, who, sent, to)\n그래서 저는 그것을 게시한 사람에게 메시지를 보냈습니다.",
+      "choices": [
+        "posted",
+        "who",
+        "sent",
+        "to"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "37",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: can, I, get. 이 칸은 can. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-11",
+      "promptEn": "11. Jimin: Hello, (1)__________ (2)__________ (3)__________ the backpack? User 1: Sure.\n(get, I, can)\n지민: 안녕하세요. 제가 책가방을 얻을 수 있을까요? 사용자 1: 그럼요.",
+      "choices": [
+        "get",
+        "I",
+        "can"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "38",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: can, I, get. 이 칸은 I. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-11",
+      "promptEn": "11. Jimin: Hello, (1)__________ (2)__________ (3)__________ the backpack? User 1: Sure.\n(get, I, can)\n지민: 안녕하세요. 제가 책가방을 얻을 수 있을까요? 사용자 1: 그럼요.",
+      "choices": [
+        "get",
+        "I",
+        "can"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "39",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: can, I, get. 이 칸은 get. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-11",
+      "promptEn": "11. Jimin: Hello, (1)__________ (2)__________ (3)__________ the backpack? User 1: Sure.\n(get, I, can)\n지민: 안녕하세요. 제가 책가방을 얻을 수 있을까요? 사용자 1: 그럼요.",
+      "choices": [
+        "get",
+        "I",
+        "can"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "40",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, get. 이 칸은 How. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "12. Jimin: Great! (1)__________ (2)__________ I (3)__________ it?\n(get, how, can)\n지민: 잘됐네요! 제가 그것을 어떻게 받을 수 있을까요?",
+      "choices": [
+        "get",
+        "How",
+        "can"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "41",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, get. 이 칸은 can. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "12. Jimin: Great! (1)__________ (2)__________ I (3)__________ it?\n(get, how, can)\n지민: 잘됐네요! 제가 그것을 어떻게 받을 수 있을까요?",
+      "choices": [
+        "get",
+        "How",
+        "can"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "42",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: How, can, get. 이 칸은 get. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-12",
+      "promptEn": "12. Jimin: Great! (1)__________ (2)__________ I (3)__________ it?\n(get, how, can)\n지민: 잘됐네요! 제가 그것을 어떻게 받을 수 있을까요?",
+      "choices": [
+        "get",
+        "How",
+        "can"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "43",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: come, to, at, tomorrow. 이 칸은 come. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "13. User 1: Can you (1)__________ (2)__________ Central Park (3)__________ 3:00 p.m. (4)__________?\n(at, come, tomorrow, to)\n사용자 1: 내일 오후 3시에 Central Park로 올 수 있나요?",
+      "choices": [
+        "at",
+        "come",
+        "tomorrow",
+        "to"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "44",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: come, to, at, tomorrow. 이 칸은 to. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "13. User 1: Can you (1)__________ (2)__________ Central Park (3)__________ 3:00 p.m. (4)__________?\n(at, come, tomorrow, to)\n사용자 1: 내일 오후 3시에 Central Park로 올 수 있나요?",
+      "choices": [
+        "at",
+        "come",
+        "tomorrow",
+        "to"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "45",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: come, to, at, tomorrow. 이 칸은 at. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "13. User 1: Can you (1)__________ (2)__________ Central Park (3)__________ 3:00 p.m. (4)__________?\n(at, come, tomorrow, to)\n사용자 1: 내일 오후 3시에 Central Park로 올 수 있나요?",
+      "choices": [
+        "at",
+        "come",
+        "tomorrow",
+        "to"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "46",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: come, to, at, tomorrow. 이 칸은 tomorrow. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-13",
+      "promptEn": "13. User 1: Can you (1)__________ (2)__________ Central Park (3)__________ 3:00 p.m. (4)__________?\n(at, come, tomorrow, to)\n사용자 1: 내일 오후 3시에 Central Park로 올 수 있나요?",
+      "choices": [
+        "at",
+        "come",
+        "tomorrow",
+        "to"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "47",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: see, then. 이 칸은 see. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "14. Jimin: Sure! I'll (1)__________ you (2)__________. Thank you!\n(then, see)\n지민: 물론이죠! 그때 뵐게요. 고맙습니다!",
+      "choices": [
+        "then",
+        "see"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "48",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: see, then. 이 칸은 then. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-14",
+      "promptEn": "14. Jimin: Sure! I'll (1)__________ you (2)__________. Thank you!\n(then, see)\n지민: 물론이죠! 그때 뵐게요. 고맙습니다!",
+      "choices": [
+        "then",
+        "see"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "49",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, ready, to. 이 칸은 got. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "15. The next day, I (1)__________ (2)__________ to go (3)__________ the park.\n(ready, to, got)\n다음 날, 저는 공원에 갈 준비를 했습니다.",
+      "choices": [
+        "ready",
+        "to",
+        "got"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "50",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, ready, to. 이 칸은 ready. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "15. The next day, I (1)__________ (2)__________ to go (3)__________ the park.\n(ready, to, got)\n다음 날, 저는 공원에 갈 준비를 했습니다.",
+      "choices": [
+        "ready",
+        "to",
+        "got"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "51",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, ready, to. 이 칸은 to. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-15",
+      "promptEn": "15. The next day, I (1)__________ (2)__________ to go (3)__________ the park.\n(ready, to, got)\n다음 날, 저는 공원에 갈 준비를 했습니다.",
+      "choices": [
+        "ready",
+        "to",
+        "got"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "52",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: decided, borrow, instead. 이 칸은 decided. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "16. I (1)__________ to (2)__________ a bike (3)__________ of taking a bus.\n(borrow, instead, decided)\n저는 버스를 타는 대신에 자전거를 빌리기로 결정했습니다.",
+      "choices": [
+        "borrow",
+        "instead",
+        "decided"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "53",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: decided, borrow, instead. 이 칸은 borrow. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "16. I (1)__________ to (2)__________ a bike (3)__________ of taking a bus.\n(borrow, instead, decided)\n저는 버스를 타는 대신에 자전거를 빌리기로 결정했습니다.",
+      "choices": [
+        "borrow",
+        "instead",
+        "decided"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "54",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: decided, borrow, instead. 이 칸은 instead. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-16",
+      "promptEn": "16. I (1)__________ to (2)__________ a bike (3)__________ of taking a bus.\n(borrow, instead, decided)\n저는 버스를 타는 대신에 자전거를 빌리기로 결정했습니다.",
+      "choices": [
+        "borrow",
+        "instead",
+        "decided"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "55",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: city, bike-sharing, system. 이 칸은 city. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "17. My (1)__________ has a (2)__________ (3)__________.\n(system, city, bike-sharing)\n제 도시는 자전거 공유 시스템이 있습니다.",
+      "choices": [
+        "system",
+        "city",
+        "bike-sharing"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "56",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: city, bike-sharing, system. 이 칸은 bike-sharing. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "17. My (1)__________ has a (2)__________ (3)__________.\n(system, city, bike-sharing)\n제 도시는 자전거 공유 시스템이 있습니다.",
+      "choices": [
+        "system",
+        "city",
+        "bike-sharing"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "57",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: city, bike-sharing, system. 이 칸은 system. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-17",
+      "promptEn": "17. My (1)__________ has a (2)__________ (3)__________.\n(system, city, bike-sharing)\n제 도시는 자전거 공유 시스템이 있습니다.",
+      "choices": [
+        "system",
+        "city",
+        "bike-sharing"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "58",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Anyone, who, has, borrow. 이 칸은 Anyone. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "18. (1)__________ (2)__________ (3)__________ an app can (4)__________ a bike easily.\n(anyone, borrow, has, who)\n앱이 있는 누구나 자전거를 쉽게 빌릴 수 있습니다.",
+      "choices": [
+        "Anyone",
+        "borrow",
+        "has",
+        "who"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "59",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Anyone, who, has, borrow. 이 칸은 who. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "18. (1)__________ (2)__________ (3)__________ an app can (4)__________ a bike easily.\n(anyone, borrow, has, who)\n앱이 있는 누구나 자전거를 쉽게 빌릴 수 있습니다.",
+      "choices": [
+        "Anyone",
+        "borrow",
+        "has",
+        "who"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "60",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Anyone, who, has, borrow. 이 칸은 has. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "18. (1)__________ (2)__________ (3)__________ an app can (4)__________ a bike easily.\n(anyone, borrow, has, who)\n앱이 있는 누구나 자전거를 쉽게 빌릴 수 있습니다.",
+      "choices": [
+        "Anyone",
+        "borrow",
+        "has",
+        "who"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "61",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Anyone, who, has, borrow. 이 칸은 borrow. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-18",
+      "promptEn": "18. (1)__________ (2)__________ (3)__________ an app can (4)__________ a bike easily.\n(anyone, borrow, has, who)\n앱이 있는 누구나 자전거를 쉽게 빌릴 수 있습니다.",
+      "choices": [
+        "Anyone",
+        "borrow",
+        "has",
+        "who"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "62",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: choose, that, to, use. 이 칸은 choose. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "19. First, you (1)__________ a bike (2)__________ you want (3)__________ (4)__________.\n(to, choose, use, that)\n먼저, 사용하고 싶은 자전거를 고릅니다.",
+      "choices": [
+        "to",
+        "choose",
+        "use",
+        "that"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "63",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: choose, that, to, use. 이 칸은 that. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "19. First, you (1)__________ a bike (2)__________ you want (3)__________ (4)__________.\n(to, choose, use, that)\n먼저, 사용하고 싶은 자전거를 고릅니다.",
+      "choices": [
+        "to",
+        "choose",
+        "use",
+        "that"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "64",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: choose, that, to, use. 이 칸은 to. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "19. First, you (1)__________ a bike (2)__________ you want (3)__________ (4)__________.\n(to, choose, use, that)\n먼저, 사용하고 싶은 자전거를 고릅니다.",
+      "choices": [
+        "to",
+        "choose",
+        "use",
+        "that"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "65",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: choose, that, to, use. 이 칸은 use. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-19",
+      "promptEn": "19. First, you (1)__________ a bike (2)__________ you want (3)__________ (4)__________.\n(to, choose, use, that)\n먼저, 사용하고 싶은 자전거를 고릅니다.",
+      "choices": [
+        "to",
+        "choose",
+        "use",
+        "that"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "66",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Then, scan, code. 이 칸은 Then. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-20",
+      "promptEn": "20. (1)__________ you (2)__________ the QR (3)__________ on the bike.\n(scan, then, code)\n그러고 나서 자전거에 있는 QR 코드를 스캔합니다.",
+      "choices": [
+        "scan",
+        "Then",
+        "code"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "67",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Then, scan, code. 이 칸은 scan. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-20",
+      "promptEn": "20. (1)__________ you (2)__________ the QR (3)__________ on the bike.\n(scan, then, code)\n그러고 나서 자전거에 있는 QR 코드를 스캔합니다.",
+      "choices": [
+        "scan",
+        "Then",
+        "code"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "68",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Then, scan, code. 이 칸은 code. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-20",
+      "promptEn": "20. (1)__________ you (2)__________ the QR (3)__________ on the bike.\n(scan, then, code)\n그러고 나서 자전거에 있는 QR 코드를 스캔합니다.",
+      "choices": [
+        "scan",
+        "Then",
+        "code"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "69",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: lock, open. 이 칸은 lock. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "21. This makes the bike's (1)__________ (2)__________.\n(open, lock)\n이것은 자전거의 자물쇠가 열리게 합니다.",
+      "choices": [
+        "open",
+        "lock"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "70",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: lock, open. 이 칸은 open. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-21",
+      "promptEn": "21. This makes the bike's (1)__________ (2)__________.\n(open, lock)\n이것은 자전거의 자물쇠가 열리게 합니다.",
+      "choices": [
+        "open",
+        "lock"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "71",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Before, checked, carefully. 이 칸은 Before. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "22. (1)__________ I rode to the park, I (2)__________ the bike (3)__________.\n(carefully, checked, before)\n공원으로 타고 가기 전에, 저는 자전거를 꼼꼼히 확인했습니다.",
+      "choices": [
+        "carefully",
+        "checked",
+        "Before"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "72",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Before, checked, carefully. 이 칸은 checked. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "22. (1)__________ I rode to the park, I (2)__________ the bike (3)__________.\n(carefully, checked, before)\n공원으로 타고 가기 전에, 저는 자전거를 꼼꼼히 확인했습니다.",
+      "choices": [
+        "carefully",
+        "checked",
+        "Before"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "73",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Before, checked, carefully. 이 칸은 carefully. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-22",
+      "promptEn": "22. (1)__________ I rode to the park, I (2)__________ the bike (3)__________.\n(carefully, checked, before)\n공원으로 타고 가기 전에, 저는 자전거를 꼼꼼히 확인했습니다.",
+      "choices": [
+        "carefully",
+        "checked",
+        "Before"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "74",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sometimes, good, condition. 이 칸은 Sometimes. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "23. (1)__________, the bikes are not in (2)__________ (3)__________.\n(condition, good, sometimes)\n가끔 자전거들이 상태가 좋지 않습니다.",
+      "choices": [
+        "condition",
+        "good",
+        "Sometimes"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "75",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sometimes, good, condition. 이 칸은 good. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "23. (1)__________, the bikes are not in (2)__________ (3)__________.\n(condition, good, sometimes)\n가끔 자전거들이 상태가 좋지 않습니다.",
+      "choices": [
+        "condition",
+        "good",
+        "Sometimes"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "76",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Sometimes, good, condition. 이 칸은 condition. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-23",
+      "promptEn": "23. (1)__________, the bikes are not in (2)__________ (3)__________.\n(condition, good, sometimes)\n가끔 자전거들이 상태가 좋지 않습니다.",
+      "choices": [
+        "condition",
+        "good",
+        "Sometimes"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "77",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: everything, fine, headed, for. 이 칸은 everything. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "24. This time, (1)__________ looked (2)__________, so I (3)__________ (4)__________ the park.\n(headed, everything, for, fine)\n이번에는 모든 것이 좋아 보여서, 저는 공원으로 향했습니다.",
+      "choices": [
+        "headed",
+        "everything",
+        "for",
+        "fine"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "78",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: everything, fine, headed, for. 이 칸은 fine. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "24. This time, (1)__________ looked (2)__________, so I (3)__________ (4)__________ the park.\n(headed, everything, for, fine)\n이번에는 모든 것이 좋아 보여서, 저는 공원으로 향했습니다.",
+      "choices": [
+        "headed",
+        "everything",
+        "for",
+        "fine"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "79",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: everything, fine, headed, for. 이 칸은 headed. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "24. This time, (1)__________ looked (2)__________, so I (3)__________ (4)__________ the park.\n(headed, everything, for, fine)\n이번에는 모든 것이 좋아 보여서, 저는 공원으로 향했습니다.",
+      "choices": [
+        "headed",
+        "everything",
+        "for",
+        "fine"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "80",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: everything, fine, headed, for. 이 칸은 for. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-24",
+      "promptEn": "24. This time, (1)__________ looked (2)__________, so I (3)__________ (4)__________ the park.\n(headed, everything, for, fine)\n이번에는 모든 것이 좋아 보여서, 저는 공원으로 향했습니다.",
+      "choices": [
+        "headed",
+        "everything",
+        "for",
+        "fine"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "81",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, returned, station. 이 칸은 got. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "25. When I (1)__________ there, I (2)__________ the bike to a (3)__________ in the park.\n(returned, station, got)\n그곳에 도착했을 때, 저는 자전거를 공원 안에 있는 정거장에 반납했습니다.",
+      "choices": [
+        "returned",
+        "station",
+        "got"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "82",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, returned, station. 이 칸은 returned. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "25. When I (1)__________ there, I (2)__________ the bike to a (3)__________ in the park.\n(returned, station, got)\n그곳에 도착했을 때, 저는 자전거를 공원 안에 있는 정거장에 반납했습니다.",
+      "choices": [
+        "returned",
+        "station",
+        "got"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "83",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: got, returned, station. 이 칸은 station. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-25",
+      "promptEn": "25. When I (1)__________ there, I (2)__________ the bike to a (3)__________ in the park.\n(returned, station, got)\n그곳에 도착했을 때, 저는 자전거를 공원 안에 있는 정거장에 반납했습니다.",
+      "choices": [
+        "returned",
+        "station",
+        "got"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "84",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Using, really, easy. 이 칸은 Using. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "26. (1)__________ the bike was (2)__________ (3)__________.\n(using, easy, really)\n자전거를 이용하는 것은 정말 쉬웠습니다.",
+      "choices": [
+        "Using",
+        "easy",
+        "really"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "85",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Using, really, easy. 이 칸은 really. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "26. (1)__________ the bike was (2)__________ (3)__________.\n(using, easy, really)\n자전거를 이용하는 것은 정말 쉬웠습니다.",
+      "choices": [
+        "Using",
+        "easy",
+        "really"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "86",
+      "label": "26",
+      "sourceId": 26,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: Using, really, easy. 이 칸은 easy. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-26",
+      "promptEn": "26. (1)__________ the bike was (2)__________ (3)__________.\n(using, easy, really)\n자전거를 이용하는 것은 정말 쉬웠습니다.",
+      "choices": [
+        "Using",
+        "easy",
+        "really"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "87",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: happy, help, environment. 이 칸은 happy. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "27. Also, I was (1)__________ to (2)__________ the (3)__________.\n(environment, help, happy)\n또한, 저는 환경에 도움이 되어 기뻤습니다.",
+      "choices": [
+        "environment",
+        "help",
+        "happy"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "88",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: happy, help, environment. 이 칸은 help. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "27. Also, I was (1)__________ to (2)__________ the (3)__________.\n(environment, help, happy)\n또한, 저는 환경에 도움이 되어 기뻤습니다.",
+      "choices": [
+        "environment",
+        "help",
+        "happy"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "89",
+      "label": "27",
+      "sourceId": 27,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: happy, help, environment. 이 칸은 environment. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-27",
+      "promptEn": "27. Also, I was (1)__________ to (2)__________ the (3)__________.\n(environment, help, happy)\n또한, 저는 환경에 도움이 되어 기뻤습니다.",
+      "choices": [
+        "environment",
+        "help",
+        "happy"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "90",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: After, from, went. 이 칸은 After. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "28. (1)__________ I got the backpack (2)__________ the person, I (3)__________ home.\n(from, went, after)\n그 사람에게서 책가방을 받은 후, 저는 집으로 갔습니다.",
+      "choices": [
+        "from",
+        "went",
+        "After"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "91",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: After, from, went. 이 칸은 from. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "28. (1)__________ I got the backpack (2)__________ the person, I (3)__________ home.\n(from, went, after)\n그 사람에게서 책가방을 받은 후, 저는 집으로 갔습니다.",
+      "choices": [
+        "from",
+        "went",
+        "After"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "92",
+      "label": "28",
+      "sourceId": 28,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: After, from, went. 이 칸은 went. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-28",
+      "promptEn": "28. (1)__________ I got the backpack (2)__________ the person, I (3)__________ home.\n(from, went, after)\n그 사람에게서 책가방을 받은 후, 저는 집으로 갔습니다.",
+      "choices": [
+        "from",
+        "went",
+        "After"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "93",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: as, big, in, condition. 이 칸은 as. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "29. The backpack wasn't (1)__________ (2)__________ as my old one, but it was (3)__________ great (4)__________.\n(in, big, condition, as)\n책가방은 제 예전 것만큼 크지는 않았지만, 상태가 훌륭했습니다.",
+      "choices": [
+        "in",
+        "big",
+        "condition",
+        "as"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "94",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: as, big, in, condition. 이 칸은 big. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "29. The backpack wasn't (1)__________ (2)__________ as my old one, but it was (3)__________ great (4)__________.\n(in, big, condition, as)\n책가방은 제 예전 것만큼 크지는 않았지만, 상태가 훌륭했습니다.",
+      "choices": [
+        "in",
+        "big",
+        "condition",
+        "as"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "95",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: as, big, in, condition. 이 칸은 in. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "29. The backpack wasn't (1)__________ (2)__________ as my old one, but it was (3)__________ great (4)__________.\n(in, big, condition, as)\n책가방은 제 예전 것만큼 크지는 않았지만, 상태가 훌륭했습니다.",
+      "choices": [
+        "in",
+        "big",
+        "condition",
+        "as"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "96",
+      "label": "29",
+      "sourceId": 29,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: as, big, in, condition. 이 칸은 condition. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-29",
+      "promptEn": "29. The backpack wasn't (1)__________ (2)__________ as my old one, but it was (3)__________ great (4)__________.\n(in, big, condition, as)\n책가방은 제 예전 것만큼 크지는 않았지만, 상태가 훌륭했습니다.",
+      "choices": [
+        "in",
+        "big",
+        "condition",
+        "as"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "97",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: also, really, liked. 이 칸은 also. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-30",
+      "promptEn": "30. I (1)__________ (2)__________ (3)__________ the color of it.\n(really, liked, also)\n저는 그것의 색상도 정말 마음에 들었습니다.",
+      "choices": [
+        "really",
+        "liked",
+        "also"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "98",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: also, really, liked. 이 칸은 really. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-30",
+      "promptEn": "30. I (1)__________ (2)__________ (3)__________ the color of it.\n(really, liked, also)\n저는 그것의 색상도 정말 마음에 들었습니다.",
+      "choices": [
+        "really",
+        "liked",
+        "also"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "99",
+      "label": "30",
+      "sourceId": 30,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: also, really, liked. 이 칸은 liked. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-30",
+      "promptEn": "30. I (1)__________ (2)__________ (3)__________ the color of it.\n(really, liked, also)\n저는 그것의 색상도 정말 마음에 들었습니다.",
+      "choices": [
+        "really",
+        "liked",
+        "also"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "100",
+      "label": "31",
+      "sourceId": 31,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, forward, using, school. 이 칸은 looked. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-31",
+      "promptEn": "31. I (1)__________ (2)__________ to (3)__________ it for (4)__________.\n(forward, looked, using, school)\n저는 그것을 학교에서 사용할 것이 기대됐습니다.",
+      "choices": [
+        "forward",
+        "looked",
+        "using",
+        "school"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "101",
+      "label": "31",
+      "sourceId": 31,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, forward, using, school. 이 칸은 forward. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-31",
+      "promptEn": "31. I (1)__________ (2)__________ to (3)__________ it for (4)__________.\n(forward, looked, using, school)\n저는 그것을 학교에서 사용할 것이 기대됐습니다.",
+      "choices": [
+        "forward",
+        "looked",
+        "using",
+        "school"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "102",
+      "label": "31",
+      "sourceId": 31,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, forward, using, school. 이 칸은 using. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-31",
+      "promptEn": "31. I (1)__________ (2)__________ to (3)__________ it for (4)__________.\n(forward, looked, using, school)\n저는 그것을 학교에서 사용할 것이 기대됐습니다.",
+      "choices": [
+        "forward",
+        "looked",
+        "using",
+        "school"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "103",
+      "label": "31",
+      "sourceId": 31,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: looked, forward, using, school. 이 칸은 school. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-31",
+      "promptEn": "31. I (1)__________ (2)__________ to (3)__________ it for (4)__________.\n(forward, looked, using, school)\n저는 그것을 학교에서 사용할 것이 기대됐습니다.",
+      "choices": [
+        "forward",
+        "looked",
+        "using",
+        "school"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "104",
+      "label": "32",
+      "sourceId": 32,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: day, experience, for. 이 칸은 day. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-32",
+      "promptEn": "32. That (1)__________ was a great (2)__________ (3)__________ me.\n(experience, day, for)\n그날은 저에게 정말 좋은 경험이었습니다.",
+      "choices": [
+        "experience",
+        "day",
+        "for"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "105",
+      "label": "32",
+      "sourceId": 32,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: day, experience, for. 이 칸은 experience. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-32",
+      "promptEn": "32. That (1)__________ was a great (2)__________ (3)__________ me.\n(experience, day, for)\n그날은 저에게 정말 좋은 경험이었습니다.",
+      "choices": [
+        "experience",
+        "day",
+        "for"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "106",
+      "label": "32",
+      "sourceId": 32,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: day, experience, for. 이 칸은 for. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-32",
+      "promptEn": "32. That (1)__________ was a great (2)__________ (3)__________ me.\n(experience, day, for)\n그날은 저에게 정말 좋은 경험이었습니다.",
+      "choices": [
+        "experience",
+        "day",
+        "for"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "107",
+      "label": "33",
+      "sourceId": 33,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: without, spending, any, money. 이 칸은 without. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-33",
+      "promptEn": "33. I got a cool backpack (1)__________ (2)__________ (3)__________ (4)__________!\n(any, spending, without, money)\n저는 돈을 조금도 쓰지 않고 멋진 책가방을 얻었습니다!",
+      "choices": [
+        "any",
+        "spending",
+        "without",
+        "money"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "108",
+      "label": "33",
+      "sourceId": 33,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: without, spending, any, money. 이 칸은 spending. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-33",
+      "promptEn": "33. I got a cool backpack (1)__________ (2)__________ (3)__________ (4)__________!\n(any, spending, without, money)\n저는 돈을 조금도 쓰지 않고 멋진 책가방을 얻었습니다!",
+      "choices": [
+        "any",
+        "spending",
+        "without",
+        "money"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "109",
+      "label": "33",
+      "sourceId": 33,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: without, spending, any, money. 이 칸은 any. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-33",
+      "promptEn": "33. I got a cool backpack (1)__________ (2)__________ (3)__________ (4)__________!\n(any, spending, without, money)\n저는 돈을 조금도 쓰지 않고 멋진 책가방을 얻었습니다!",
+      "choices": [
+        "any",
+        "spending",
+        "without",
+        "money"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "110",
+      "label": "33",
+      "sourceId": 33,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: without, spending, any, money. 이 칸은 money. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-33",
+      "promptEn": "33. I got a cool backpack (1)__________ (2)__________ (3)__________ (4)__________!\n(any, spending, without, money)\n저는 돈을 조금도 쓰지 않고 멋진 책가방을 얻었습니다!",
+      "choices": [
+        "any",
+        "spending",
+        "without",
+        "money"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "111",
+      "label": "34",
+      "sourceId": 34,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: made, think, share, others. 이 칸은 made. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-34",
+      "promptEn": "34. This experience also (1)__________ me (2)__________ that I should (3)__________ my things with (4)__________, too.\n(share, made, think, others)\n이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.",
+      "choices": [
+        "share",
+        "made",
+        "think",
+        "others"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "112",
+      "label": "34",
+      "sourceId": 34,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: made, think, share, others. 이 칸은 think. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-34",
+      "promptEn": "34. This experience also (1)__________ me (2)__________ that I should (3)__________ my things with (4)__________, too.\n(share, made, think, others)\n이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.",
+      "choices": [
+        "share",
+        "made",
+        "think",
+        "others"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "2",
+      "promptKo": "이 문항은 (2) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "113",
+      "label": "34",
+      "sourceId": 34,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: made, think, share, others. 이 칸은 share. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-34",
+      "promptEn": "34. This experience also (1)__________ me (2)__________ that I should (3)__________ my things with (4)__________, too.\n(share, made, think, others)\n이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.",
+      "choices": [
+        "share",
+        "made",
+        "think",
+        "others"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "3",
+      "promptKo": "이 문항은 (3) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "114",
+      "label": "34",
+      "sourceId": 34,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: made, think, share, others. 이 칸은 others. 본책 p.150-151 My Day with the Sharing Economy.",
+      "type": "bank",
+      "select": "one",
+      "group": "RS-34",
+      "promptEn": "34. This experience also (1)__________ me (2)__________ that I should (3)__________ my things with (4)__________, too.\n(share, made, think, others)\n이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.",
+      "choices": [
+        "share",
+        "made",
+        "think",
+        "others"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "4",
+      "promptKo": "이 문항은 (4) 빈칸만 고릅니다.",
+      "seconds": 45
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "X-10 Reading 문장 완성하기. 답지 인쇄 pp.48-71은 이 스캔에 없습니다. 단어 순서는 본책 pp.150-151 본문을 그대로 따릅니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Reading 문장",
+      "directionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "instructionKo": "My Day with the Sharing Economy. 다음 빈칸에 들어갈 적절한 말을 골라 쓰시오.",
+      "itemCount": 114
+    }
+  ]
+}
