@@ -1,0 +1,38 @@
+{
+  "book": "j2-neung",
+  "unit": "u07",
+  "group": "dialog",
+  "section": "A",
+  "exercises": [
+    {
+      "id": "dialog-detail",
+      "title": "Dialog 자세히 보기",
+      "questionCount": 7,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-complete",
+      "title": "Dialog 완성하기",
+      "questionCount": 88,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-order",
+      "title": "Dialog 순서배열하기",
+      "questionCount": 7,
+      "omittedCount": 0
+    },
+    {
+      "id": "dialog-practice",
+      "title": "Dialog 실전 문제",
+      "questionCount": 13,
+      "omittedCount": 1
+    },
+    {
+      "id": "dialog-advanced",
+      "title": "Dialog 심화 문제",
+      "questionCount": 13,
+      "omittedCount": 0
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "dialog-detail",
+  "title": "Dialog 자세히 보기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.132-133",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: F. 지수는 빨간 하트가 있는 긴 양말을 사기로 했다. (답지 p.26 Dialog 자세히 보기 01)",
+      "type": "mc",
+      "promptEn": "01 Listen and Talk\n\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: Which ones do you like?\nG: I like the ones with the red hearts, but there are two types.\nB: Which do you prefer, the short ones or the long ones?\nG: Um... I prefer the long ones to the short ones. So, I'll take this pair.\n\nJisu decided not to buy any socks today.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: T. 소녀는 구름 무늬 케이스가 전화기에 잘 어울릴 것이라고 했다. (답지 p.26 Dialog 자세히 보기 02)",
+      "type": "mc",
+      "promptEn": "02 Listen and Talk\n\nB: I need a smartphone case. But there are so many cases here!\nG: Yes, there are. Which do you prefer?\nB: Hmm... I'm not sure. Can you recommend one?\nG: Sure! I think the one with the cloud pattern would look great on your phone.\nB: I like that one, too. I'll get it then. Thank you!\n\nThe girl thinks the cloud pattern case is a good choice.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: T. 소녀는 검은색보다 흰색을 더 선호한다. (답지 p.26 Dialog 자세히 보기 03)",
+      "type": "mc",
+      "promptEn": "03 Listen and Talk\n\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: Then you can choose between these two bags.\nG: They both look nice. Can you recommend one for me?\nM: How about the one with the flower on it? It's popular with our customers.\nG: That looks good. I'll take that one.\n\nThe girl likes the white bag more than the black one.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: F. 소년은 초록색 모자를 어제 샀다. (답지 p.26 Dialog 자세히 보기 04)",
+      "type": "mc",
+      "promptEn": "04 Listen and Talk\n\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good on me.\nW: Okay. Which color would you like instead?\nB: Can you recommend another color for me?\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them on?\nW: Of course. You can look in this mirror.\nB: Okay.... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.\n\nThe boy bought the green cap two days ago.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: T. 유리컵의 원래 가격은 3달러이고, 할인가가 2달러이다. (답지 p.26 Dialog 자세히 보기 05)",
+      "type": "mc",
+      "promptEn": "05 Listen and Talk\n\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. How much is the glass one?\nG: It's three dollars, but I can give you a discount. How about two dollars?\nB: That's a good price. Here's the money.\n\nThe original price of the glass cup is three dollars.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: F. 10퍼센트 할인을 받으면 4,500원을 낸다. (답지 p.26 Dialog 자세히 보기 06)",
+      "type": "mc",
+      "promptEn": "06 Listen and Talk\n\nA: I have a watch and an umbrella for sale.\nB: Oh, I like both. But I can only buy one.\nA: I see. Which one do you prefer?\nB: I prefer the watch. How much is it?\nA: It's 5,000 won, but I can give you a 10 percent discount.\nB: Great! I'll take it.\n\nSpeaker A has to pay 5,000 won for the watch.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: F. 민지는 검은색 운동화를 추천했다. (답지 p.26 Dialog 자세히 보기 07)",
+      "type": "mc",
+      "promptEn": "07 Listen and Talk\n\nG: Hi, Jinho! What are you doing?\nB: Hi, Minji! I'm trying to buy shoes online. Can you help me?\nG: Sure! Hmm... There are sneakers and boots. Which do you prefer?\nB: I like both, so I can't decide. Can you recommend one?\nG: How about sneakers? They go well with all kinds of clothes.\nB: That's true! What color should I choose?\nG: I think the black ones look better.\nB: That sounds good! I'll buy them then. Thanks for your help!\n\nMinji recommends the white sneakers to Jinho.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "T",
+        "F"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 대화를 읽고 내용과 같으면 T, 다르면 F를 고르시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · T/F",
+      "directionKo": "내용과 같으면 T, 다르면 F를 고르시오.",
+      "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · T/F",
+      "instructionKo": "내용과 같으면 T, 다르면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+      "itemCount": 7
+    }
+  ]
+}

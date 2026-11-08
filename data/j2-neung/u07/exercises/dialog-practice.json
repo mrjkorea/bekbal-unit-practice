@@ -1,0 +1,353 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.138-139",
+  "questionCount": 13,
+  "omitted": [
+    {
+      "page": "p.139",
+      "item": "11",
+      "reason": "답지 p.27은 어색한 표현이 How many → How much(⑤)라고 하나, 밑줄 친 ⓐ~ⓔ 다섯 곳의 위치가 인쇄면 OCR에서 확인되지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② 추천해 주기. How about ~?는 추천이다. (답지 p.26 Dialog 실전 문제 01)",
+      "type": "mc",
+      "promptEn": "01 다음 대화의 밑줄 친 부분의 의도로 가장 적절한 것은?\n\nA: Can you recommend a good mystery novel for me?\nB: <u>How about The Secret Key? I think it's the best.</u>",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "되묻기",
+        "추천해 주기",
+        "정보 묻기",
+        "확신 여부 묻기",
+        "동의 구하기"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. Which do you prefer?에 대한 응답으로 추천은 적절하지 않다. (답지 p.26 Dialog 실전 문제 02)",
+      "type": "mc",
+      "promptEn": "02 다음 대화의 빈칸에 들어갈 말로 적절하지 않은 것은?\n\nA: Which do you prefer, the tie or the scarf?\nB: ______",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "I prefer the scarf.",
+        "I like the scarf better.",
+        "I prefer the tie to the scarf.",
+        "I think the tie is good for you.",
+        "I like the tie better than the scarf."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ ⓔ. 순서 ⓒ → ⓐ → ⓔ → ⓑ → ⓓ에서 세 번째는 ⓔ이다. (답지 p.26 Dialog 실전 문제 03)",
+      "type": "mc",
+      "promptEn": "03 다음 대화 ⓐ~ⓔ를 순서대로 바르게 배열할 때, 세 번째로 오는 것은?\n\nⓐ Yes, there are. Which do you prefer?\nⓑ Sure! I think the one with the cloud pattern would look great on your phone.\nⓒ I need a smartphone case. But there are so many cases here!\nⓓ I like that one, too. I'll get it then. Thank you!\nⓔ Hmm... I'm not sure. Can you recommend one?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장 쓰기",
+      "explainKo": "정답: Which ones do you like? (답지 p.26 Dialog 실전 문제 04)",
+      "type": "sentence",
+      "promptEn": "04 위 대화의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어를 이용하여 다섯 단어로 영작하시오.\n(ones, like)\n\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: <u>ⓐ너는 어떤 게 마음에 들어?</u>\nG: I like the ones with the red hearts, but there are two types.\nB: ⓑ ______\nG: Um... I prefer the long ones to the short ones. So, I'll take this pair.",
+      "seconds": 100,
+      "accept": [
+        "Which ones do you like?"
+      ]
+    },
+    {
+      "id": "05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 짧은 것과 긴 것 중 선호를 묻는 말이 와야 한다. (답지 p.26 Dialog 실전 문제 05)",
+      "type": "mc",
+      "promptEn": "05 위 대화의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?\n\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: <u>ⓐ너는 어떤 게 마음에 들어?</u>\nG: I like the ones with the red hearts, but there are two types.\nB: ⓑ ______\nG: Um... I prefer the long ones to the short ones. So, I'll take this pair.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "How much are they?",
+        "Which ones do you have?",
+        "Do you like the heart pattern?",
+        "How many socks do you want to buy?",
+        "Which do you prefer, the short ones or the long ones?"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 지수는 빨간 하트 양말을 좋아한다. (답지 p.26 Dialog 실전 문제 06)",
+      "type": "mc",
+      "promptEn": "06 위 대화의 내용과 일치하는 것은?\n\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: Which ones do you like?\nG: I like the ones with the red hearts, but there are two types.\nB: Which do you prefer, the short ones or the long ones?\nG: Um... I prefer the long ones to the short ones. So, I'll take this pair.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "Jisu is looking for a pair of shoes.",
+        "Jisu likes the socks with red hearts.",
+        "There is only one type of red heart socks.",
+        "Jisu prefers short socks to long socks.",
+        "Jisu decided to buy the short socks."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: two types of socks. (답지 p.26 Dialog 실전 문제 07)",
+      "type": "fill",
+      "promptEn": "07 위 대화를 읽고, 질문에 대한 답을 네 단어로 완성하시오.\n\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: Which ones do you like?\nG: I like the ones with the red hearts, but there are two types.\nB: Which do you prefer, the short ones or the long ones?\nG: Um... I prefer the long ones to the short ones. So, I'll take this pair.\n\nQ. Why can't Jisu decide easily?\nBecause there are ______ with the red hearts.",
+      "seconds": 70,
+      "accept": [
+        "two types of socks"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "08",
+      "label": "08",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② on / on. look good on, try them on. (답지 p.26 Dialog 실전 문제 08)",
+      "type": "mc",
+      "promptEn": "08 위 대화의 빈칸 ⓐ와 ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good ⓐ ______ me.\nW: Okay. Which color would you like instead?\nB: ⓑ ______\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them ⓒ ______?\nW: Of course. You can look in this mirror.\nB: Okay.... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "on / as",
+        "on / on",
+        "in / as",
+        "on / with",
+        "in / on"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "09",
+      "label": "09",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 다른 색을 추천해 달라는 요청이 자연스럽다. (답지 p.26 Dialog 실전 문제 09)",
+      "type": "mc",
+      "promptEn": "09 위 대화의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?\n\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good ⓐ ______ me.\nW: Okay. Which color would you like instead?\nB: ⓑ ______\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them ⓒ ______?\nW: Of course. You can look in this mirror.\nB: Okay.... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "What's your favorite cap?",
+        "How about trying a brown cap?",
+        "Can you show me the white cap?",
+        "Why don't you try on some new caps?",
+        "Can you recommend another color for me?"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 소년은 갈색 모자를 골랐고, 여자는 새 모자를 가져다준다. (답지 p.26 Dialog 실전 문제 10)",
+      "type": "mc",
+      "promptEn": "10 위 대화가 끝난 후 여자가 할 일로 가장 적절한 것은?\n\nW: Hi. Can I help you?\nB: Yes, please. I'd like to exchange this green cap. I bought it yesterday, but the color doesn't look good ⓐ ______ me.\nW: Okay. Which color would you like instead?\nB: ⓑ ______\nW: Sure. I think this white one and the brown one are nice. Which do you prefer?\nB: I like both. Can I try them ⓒ ______?\nW: Of course. You can look in this mirror.\nB: Okay.... Oh, I really like this brown one. I'll take it!\nW: Okay, I'll get you a new one.\nB: Thank you.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "거울을 닦는다.",
+        "다른 손님을 도와준다.",
+        "소년에게 환불을 해준다.",
+        "초록색 모자를 할인해 준다.",
+        "소년에게 새 갈색 모자를 가져다준다."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: like better 또는 like more. prefer 대신 like better[more]. (답지 p.26 Dialog 실전 문제 12)",
+      "type": "fill",
+      "promptEn": "12 위 대화의 밑줄 친 (A)와 같은 의미가 되도록 빈칸에 들어갈 말을 쓰시오.\n\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. <u>(A) Which do you prefer</u>, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. How much is the glass one?\nG: It's three dollars, but I can (B) ______ you a discount. How about two dollars?\nB: That's a good price. Here's the money.\n\n= Which do you ______, a plastic one or a glass one?",
+      "seconds": 70,
+      "accept": [
+        "like better",
+        "like more"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② give. give a discount. (답지 p.26 Dialog 실전 문제 13)",
+      "type": "mc",
+      "promptEn": "13 위 대화의 빈칸 (B)에 들어갈 말로 가장 적절한 것은?\n\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. <u>(A) Which do you prefer</u>, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. How much is the glass one?\nG: It's three dollars, but I can (B) ______ you a discount. How about two dollars?\nB: That's a good price. Here's the money.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "ask",
+        "give",
+        "have",
+        "take",
+        "make"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "빈칸이나 문장을 쓰시오.",
+      "ruleKo": "빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "sectionInstructionKo": "빈칸이나 문장을 쓰시오. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장 쓰기",
+      "explainKo": "정답: He paid two dollars. 할인가 2달러를 냈다. (답지 p.26 Dialog 실전 문제 14)",
+      "type": "sentence",
+      "promptEn": "14 위 대화를 읽고, 질문에 대한 답을 네 단어의 완전한 영어 문장으로 쓰시오.\n\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family doesn't use them anymore.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. How much is the glass one?\nG: It's three dollars, but I can give you a discount. How about two dollars?\nB: That's a good price. Here's the money.\n\nQ. How much did the boy pay for the cup?",
+      "seconds": 100,
+      "accept": [
+        "He paid two dollars."
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Dialog 실전 문제. 고르기는 누르고, 서술형은 답만 쓰시오.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 13
+    }
+  ]
+}
