@@ -1,0 +1,194 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "p.185",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ natural. in front of : behind가 반의어이므로 artificial의 반의어 natural. (답지 p.36 Vocabulary 실전 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the word that completes the analogy.\n\nin front of : behind = artificial : ______",
+      "choices": [
+        "fair",
+        "smart",
+        "correct",
+        "natural",
+        "personal"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ made. make a decision은 '결정을 내리다'. (답지 p.36 Vocabulary 실전 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the best word for the blank.\n\nAfter talking with my parents, I ______ a decision to change schools.",
+      "choices": [
+        "put",
+        "began",
+        "took",
+        "kept",
+        "made"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recipe. 음식을 만드는 방법에 대한 설명. (답지 p.36 Vocabulary 실전 03)",
+      "type": "fill",
+      "promptEn": "Write the word that matches the definition. It starts with r.\n\ninstructions for making food\n→ r______",
+      "accept": [
+        "recipe"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: copy. 베끼다, 모방하다; 복사하다. (답지 p.36 Vocabulary 실전 04)",
+      "type": "fill",
+      "promptEn": "Write the word that fits both blanks.\n\nDon't try to ______ my answers during the test. The teacher is watching.\nI want to ______ this file to keep the original safe.",
+      "accept": [
+        "copy"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ① offers, ⑤ supplies. provide는 give, offer, supply와 바꿔 쓸 수 있다. (답지 p.36 Vocabulary 실전 05)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "Choose every word that can replace the underlined word.\n\nThe hotel <u>provides</u> free breakfast for its guests.",
+      "choices": [
+        "offers",
+        "comforts",
+        "recommends",
+        "translates",
+        "supplies"
+      ],
+      "correctIndexes": [
+        1,
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. take a look at은 '~을 한 번 보다, ~을 살펴보다'이지 '~을 찾다'가 아니다. (답지 p.37 Vocabulary 실전 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the sentence whose Korean gloss of the underlined words is NOT correct.\n\n① She <u>came up with</u> a good idea for the class project. (생각해 냈다)\n② Fruits <u>such as</u> apples and bananas are good for health. (~와 같은)\n③ Let's <u>take a look at</u> the new comic book. (~을 찾다)\n④ He finished the homework <u>by himself</u>. (혼자서)\n⑤ TV <u>stands for</u> television. (~을 의미하다)",
+      "choices": [
+        "She came up with a good idea for the class project. (생각해 냈다)",
+        "Fruits such as apples and bananas are good for health. (~와 같은)",
+        "Let's take a look at the new comic book. (~을 찾다)",
+        "He finished the homework by himself. (혼자서)",
+        "TV stands for television. (~을 의미하다)"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: unlock. 잠긴 것을 열다. (답지 p.37 Vocabulary 실전 07)",
+      "type": "fill",
+      "promptEn": "Complete the sentence with the word that matches the definition.\n\nto open something that is locked\n\nI forgot the key, so I couldn't ______ the door.",
+      "accept": [
+        "unlock"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Vocabulary 실전 문제. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "itemCount": 7
+    }
+  ]
+}

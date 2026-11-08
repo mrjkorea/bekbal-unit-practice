@@ -1,0 +1,346 @@
+{
+  "id": "dialog-advanced",
+  "title": "Dialog 심화 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.198-199",
+  "questionCount": 12,
+  "omitted": [
+    {
+      "page": "p.198",
+      "item": "07",
+      "reason": "답지 p.39는 ⓒ를 I don't know much about them으로 고치라고 하나, 교재 밑줄 ⓐ~ⓔ의 경계가 OCR에서 읽히지 않음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ No, I haven't. B가 그것이 무엇인지 물으므로 들어 본 적이 없다. (답지 p.38 Dialog 심화 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the best response.\n\nA: Have you heard about smart chairs?\nB: ______. What are they?",
+      "choices": [
+        "Yes, I did.",
+        "Yes, I have.",
+        "No, I didn't.",
+        "No, I haven't.",
+        "That's great."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "대화를 나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요.",
+      "sectionInstructionKo": "대화를 나오는 순서대로 누르시오. 말을 순서대로 누르세요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: ②. Look at this chair! → It's a smart chair. Have you heard about smart chairs? → No, I haven't. What are they? → They are chairs with special sensors. → I'm surprised that a chair can do so many things. (답지 p.38 Dialog 심화 02)",
+      "type": "order",
+      "promptEn": "Tap the lines in the order of the dialog.\n\n1. No, I haven't. What are they?\n2. Look at this chair! It looks comfortable.\n3. They are chairs with special sensors. They can check your health while you are sitting.\n4. I'm surprised that a chair can do so many things.\n5. It's a smart chair. Have you heard about smart chairs?",
+      "orderChunks": [
+        {
+          "id": "s1",
+          "text": "No, I haven't. What are they?"
+        },
+        {
+          "id": "s2",
+          "text": "Look at this chair! It looks comfortable."
+        },
+        {
+          "id": "s3",
+          "text": "They are chairs with special sensors. They can check your health while you are sitting."
+        },
+        {
+          "id": "s4",
+          "text": "I'm surprised that a chair can do so many things."
+        },
+        {
+          "id": "s5",
+          "text": "It's a smart chair. Have you heard about smart chairs?"
+        }
+      ],
+      "orderIds": [
+        "s2",
+        "s5",
+        "s1",
+        "s3",
+        "s4"
+      ],
+      "seconds": 75
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 새 영화를 들어 본 적이 전혀 없다고 한 뒤에 어제 봤다고 하면 앞뒤가 맞지 않는다. (답지 p.38 Dialog 심화 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Which dialog is unnatural?",
+      "choices": [
+        "A: Have you heard about the new library?\nB: Yes, I have. I heard it is very big.",
+        "A: Did you know about the school festival?\nB: Yes, I did. It will be next week.",
+        "A: Have you heard about the new movie?\nB: I have no idea. I watched it yesterday.",
+        "A: Did you hear the news about the soccer match?\nB: Yes, I did. I can't believe that we won the game!",
+        "A: I went to the supermarket this morning, but it was closed.\nB: I'm shocked that the store is closed today."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ Let's check it carefully. take a closer look at은 '그것을 조금 더 자세히 살펴보다'. (답지 p.39 Dialog 심화 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Read the dialog.\n\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. ⓐ <u>Let's take a closer look at it.</u>\n\n04 Which sentence means the same as ⓐ <u>Let's take a closer look at it.</u>",
+      "choices": [
+        "Don't break it.",
+        "Let's play with it.",
+        "Let's throw it away.",
+        "Let's check it carefully.",
+        "Let's run away from it."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 이 3D 프린터는 건물을 만드는 데 사용된다고 했다. 소년은 더 작은 것을 본 적이 있고, 자세히 보자고만 했다. (답지 p.39 Dialog 심화 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Read the dialog.\n\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.\n\n05 What can we know from the dialog?",
+      "choices": [
+        "3D 프린터는 모두 크기가 같다.",
+        "소녀는 3D 프린터를 다룰 줄 안다.",
+        "소년은 3D 프린터를 한 번도 본 적이 없다.",
+        "3D 프린터는 건물을 만드는 데 사용될 수 있다.",
+        "대화가 끝난 후 소년과 소녀는 3D 프린터를 사용할 예정이다."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "다섯 단어로 완성하시오.",
+      "ruleKo": "It's because the 3D printer 뒤에 다섯 단어만 쓰세요.",
+      "sectionInstructionKo": "다섯 단어로 완성하시오. It's because the 3D printer 뒤에 다섯 단어만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: is used for making buildings. 건물을 짓는 데 사용되기 때문이다. (답지 p.39 Dialog 심화 06)",
+      "type": "fill",
+      "promptEn": "Read the dialog.\n\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I have seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for making buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.\n\n06 Complete the answer in five words.\n\nQ. Why is the 3D printer so big?\nIt's because the 3D printer ______.",
+      "accept": [
+        "is used for making buildings"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "여덟 단어로 영작하시오.",
+      "ruleKo": "can, that, all that를 넣어 여덟 단어로 쓰세요.",
+      "sectionInstructionKo": "여덟 단어로 영작하시오. can, that, all that를 넣어 여덟 단어로 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: I'm surprised that glasses can do all that! 놀람은 I'm surprised (that) ~. (답지 p.39 Dialog 심화 08)",
+      "type": "sentence",
+      "promptEn": "Read the dialog.\n\nM: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item.\nW: Sure. I made smart glasses. Have you heard about them?\nM: Yes, I have, but I don't know much about them. What is special about these glasses?\nW: They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: Exactly. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n08 Write the Korean in eight words. Use can, that, and all that.\n\n안경이 그 모든 것을 할 수 있다니 놀랍네요!",
+      "accept": [
+        "I'm surprised that glasses can do all that!"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 스마트 안경은 눈앞에 디지털 지도를 보여 준다. (답지 p.38 Dialog 심화 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Read the dialog.\n\nM: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item.\nW: Sure. I made smart glasses. Have you heard about them?\nM: Yes, I have, but I don't know much about them. What is special about these glasses?\nW: They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: Exactly. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n09 According to the dialog, which one is true?",
+      "choices": [
+        "Emma Brown made a new smartphone.",
+        "Smart glasses show digital maps in front of your eyes.",
+        "The host has used the smart glasses before.",
+        "You need a smartphone to use directions with smart glasses.",
+        "You need to use your hands to send texts with the smart glasses."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 해당하는 것을 모두 누르세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ① to take photos, ⑤ to make phone calls. 사진 찍기와 전화 걸기는 대화에 없다. (답지 p.38 Dialog 심화 10)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "Read the dialog.\n\nM: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item.\nW: Sure. I made smart glasses. Have you heard about them?\nM: Yes, I have, but I don't know much about them. What is special about these glasses?\nW: They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: Exactly. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n10 Choose every thing the dialog does NOT say the smart glasses can do.",
+      "choices": [
+        "to take photos",
+        "to show digital information",
+        "to recognize your voice",
+        "to send texts",
+        "to make phone calls"
+      ],
+      "correctIndexes": [
+        1,
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. '이게 무엇인지 맞혀 볼래?'는 FlyBrella를 처음 말한 직후, I have no idea 앞인 (2)에 온다. (답지 p.39 Dialog 심화 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Read the dialog. The sentence below was taken out.\n\nCan you guess what it is?\n\nA: On rainy and windy days, holding an umbrella is uncomfortable.\nB: So, what did you come up with, Somi? (1)\nA: I came up with the FlyBrella. (2)\nB: I have no idea. What is it? (3)\nA: It is an umbrella that doesn't have a handle. It can fly above your head by itself. (4)\nB: I'm surprised that you thought of that. I'd like to try it someday. (5)\n\n11 Where does the sentence belong?",
+      "choices": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "열 단어로 완성하시오.",
+      "ruleKo": "It's because 뒤에 열 단어만 쓰세요.",
+      "sectionInstructionKo": "열 단어로 완성하시오. It's because 뒤에 열 단어만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: holding an umbrella is uncomfortable on rainy and windy days. 또는 on rainy and windy days, holding an umbrella is uncomfortable. (답지 p.39 Dialog 심화 12)",
+      "type": "fill",
+      "promptEn": "Read the dialog.\n\nA: On rainy and windy days, holding an umbrella is uncomfortable.\nB: So, what did you come up with, Somi?\nA: I came up with the FlyBrella. Can you guess what it is?\nB: I have no idea. What is it?\nA: It is an umbrella that doesn't have a handle. It can fly above your head by itself.\nB: I'm surprised that you thought of that. I'd like to try it someday.\n\n12 Complete the answer in ten words.\n\nQ. Why did Somi come up with the FlyBrella?\nIt's because ______.",
+      "accept": [
+        "holding an umbrella is uncomfortable on rainy and windy days",
+        "on rainy and windy days, holding an umbrella is uncomfortable"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 심화",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "빈칸의 말만 쓰세요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 빈칸의 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: by itself. FlyBrella는 손잡이 없이 스스로 머리 위에 떠 있는 우산이다. (답지 p.39 Dialog 심화 13)",
+      "type": "fill",
+      "promptEn": "Read the dialog.\n\nA: On rainy and windy days, holding an umbrella is uncomfortable.\nB: So, what did you come up with, Somi?\nA: I came up with the FlyBrella. Can you guess what it is?\nB: I have no idea. What is it?\nA: It is an umbrella that doesn't have a handle. It can fly above your head by itself.\nB: I'm surprised that you thought of that. I'd like to try it someday.\n\n13 Complete the sentence.\n\nThe FlyBrella is an umbrella that doesn't have a handle and stays above your head ______.",
+      "accept": [
+        "by itself"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Dialog 심화 문제. 07번은 밑줄 경계가 답지와 맞춰지지 않아 빠졌습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 쓰라는 칸이면 그 말만 쓰세요.",
+      "itemCount": 12
+    }
+  ]
+}

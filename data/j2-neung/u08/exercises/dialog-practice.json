@@ -1,0 +1,352 @@
+{
+  "id": "dialog-practice",
+  "title": "Dialog 실전 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.196-197",
+  "questionCount": 13,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② Yes, I've heard about it. Have you heard ~?에는 들어 본 적이 있는지 Yes, I've ~ 또는 No, I haven't ~로 답한다. (답지 p.38 Dialog 실전 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the best response.\n\nA: Have you heard about the new library?\nB: ______",
+      "choices": [
+        "I couldn't go there yesterday.",
+        "Yes, I've heard about it.",
+        "Did you enjoy it?",
+        "Yes, it will be there soon.",
+        "No, I don't know how to read."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ I'm glad that you won the game. ①②③⑤는 놀람이고 ④는 기쁨이다. (답지 p.38 Dialog 실전 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Which sentence does NOT express surprise?",
+      "choices": [
+        "I'm surprised to see this place so crowded.",
+        "I'm shocked that the test was so easy.",
+        "Really? That's surprising!",
+        "I'm glad that you won the game.",
+        "I can't believe that you finished the project so fast."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ I am familiar with this English book. 새 영어 선생님에 대해 들어 봤는지 묻는 말에 영어 책을 잘 안다는 답은 어색하다. (답지 p.38 Dialog 실전 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Which response does NOT fit?\n\nA: Have you heard about the new English teacher?\nB: ______",
+      "choices": [
+        "Really? I have no idea.",
+        "Yes, I heard he is very kind.",
+        "I am familiar with this English book.",
+        "No, not yet. What does he look like?",
+        "No, I haven't. Tell me more about him in detail."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "여섯 단어의 문장으로 쓰시오.",
+      "ruleKo": "hear, have, self-driving을 넣어 여섯 단어로 쓰세요.",
+      "sectionInstructionKo": "여섯 단어의 문장으로 쓰시오. hear, have, self-driving을 넣어 여섯 단어로 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: Have you heard about self-driving bikes? 무언가에 대해 들어 본 적이 있는지 물을 때 Have you heard ~?를 쓴다. (답지 p.38 Dialog 실전 04)",
+      "type": "sentence",
+      "promptEn": "[04-07] Read the dialog and answer.\n\nB: There are so many things to see at this show!\nG: You're right. What would you like to see first?\nB: (a) ______? I'd like to see them first!\nG: Oh, I'm surprised that a bike can drive itself!\n(b) ______\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: (c) 그것들은 스스로 멈출 수 있어, if there is something in the way.\nG: Wow, that's interesting.\n\n04 Write blank (a) as a sentence of six words. Use hear, have, and self-driving.",
+      "accept": [
+        "Have you heard about self-driving bikes?"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ How do self-driving bikes work? 다음 말에서 소년이 작동 방식을 설명한다. (답지 p.38 Dialog 실전 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[04-07] Read the dialog and answer.\n\nB: There are so many things to see at this show!\nG: You're right. What would you like to see first?\nB: (a) ______? I'd like to see them first!\nG: Oh, I'm surprised that a bike can drive itself!\n(b) ______\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: (c) 그것들은 스스로 멈출 수 있어, if there is something in the way.\nG: Wow, that's interesting.\n\n05 Choose the best sentence for blank (b).",
+      "choices": [
+        "Where did you buy the bike?",
+        "Do you like riding a bike?",
+        "How do self-driving bikes work?",
+        "When will you go there?",
+        "Why is the show so popular?"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "다섯 단어로 영작하시오.",
+      "ruleKo": "stop, by, oneself를 넣어 다섯 단어로 쓰세요.",
+      "sectionInstructionKo": "다섯 단어로 영작하시오. stop, by, oneself를 넣어 다섯 단어로 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: They can stop by themselves. by oneself는 '혼자서, 혼자 힘으로'이고, they에는 themselves를 쓴다. (답지 p.38 Dialog 실전 06)",
+      "type": "sentence",
+      "promptEn": "[04-07] Read the dialog and answer.\n\nB: There are so many things to see at this show!\nG: You're right. What would you like to see first?\nB: (a) ______? I'd like to see them first!\nG: Oh, I'm surprised that a bike can drive itself!\n(b) ______\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: (c) 그것들은 스스로 멈출 수 있어, if there is something in the way.\nG: Wow, that's interesting.\n\n06 Write the Korean at (c) in five English words. Use stop, by, and oneself.\n그것들은 스스로 멈출 수 있어.",
+      "accept": [
+        "They can stop by themselves."
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 자율주행 자전거는 스스로 멈출 수 있으므로, 멈추려면 사람이 필요하다는 말은 대화와 일치하지 않는다. (답지 p.38 Dialog 실전 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[04-07] Read the dialog and answer.\n\nB: There are so many things to see at this show!\nG: You're right. What would you like to see first?\nB: (a) ______? I'd like to see them first!\nG: Oh, I'm surprised that a bike can drive itself!\n(b) ______\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: (c) 그것들은 스스로 멈출 수 있어, if there is something in the way.\nG: Wow, that's interesting.\n\n07 Which statement does NOT match the dialog?",
+      "choices": [
+        "The boy wants to see self-driving bikes first.",
+        "The girl is surprised that a bike can drive itself.",
+        "Self-driving bikes use cameras and sensors to move.",
+        "The girl thinks self-driving bikes are similar to self-driving cars.",
+        "Self-driving bikes need people to stop them."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ What / How. (a)는 What is the drone for?이고 (b)는 How does it do that?이다. (답지 p.38 Dialog 실전 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[08-09] Read the dialog and answer.\n\nB: Look at that drone! The man over there is flying it.\nG: Yes, I see that. (a) ______ is the drone for?\nB: It helps farmers. It makes their work easier.\nG: Really? (b) ______ does it do that?\nB: It can plant seeds. Then it can fly over the fields and water them.\nG: Wow. (c) I'm surprised that a drone can do all that.\n\n08 Choose the correct pair for (a) and (b).",
+      "choices": [
+        "What / When",
+        "How / When",
+        "What / How",
+        "How / Where",
+        "Where / How"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ I don't think drones can do all that. 놀람이 아니라 드론이 그 일을 할 수 없다고 생각하는 말이다. (답지 p.38 Dialog 실전 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[08-09] Read the dialog and answer.\n\nB: Look at that drone! The man over there is flying it.\nG: Yes, I see that. (a) ______ is the drone for?\nB: It helps farmers. It makes their work easier.\nG: Really? (b) ______ does it do that?\nB: It can plant seeds. Then it can fly over the fields and water them.\nG: Wow. (c) I'm surprised that a drone can do all that.\n\n09 Which sentence can NOT replace (c) I'm surprised that a drone can do all that?",
+      "choices": [
+        "That's really surprising to me.",
+        "I can't believe a drone can do all that.",
+        "I don't think drones can do all that.",
+        "I didn't know a drone could do all that.",
+        "I'm shocked that a drone can do all that."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ No, I haven't. 주희는 스마트 냉장고가 무엇인지 다시 묻고 있으므로 들어 본 적이 없다. (답지 p.38 Dialog 실전 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[10-13] Read the dialog and answer.\n\nB: Juhee, have you heard about smart refrigerators?\nG: (a) ______ What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking (b) ______.\n\n10 Choose the best words for blank (a).",
+      "choices": [
+        "Yes, I did.",
+        "Yes, I have.",
+        "No, I haven't.",
+        "I already know that.",
+        "I'm sorry to hear that."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ easier. 스마트 냉장고가 요리를 더 쉽게 해 준다. (답지 p.38 Dialog 실전 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[10-13] Read the dialog and answer.\n\nB: Juhee, have you heard about smart refrigerators?\nG: (a) ______ What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking (b) ______.\n\n11 Choose the best word for blank (b).",
+      "choices": [
+        "harder",
+        "slower",
+        "longer",
+        "cheaper",
+        "easier"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ smart refrigerators and how they work. 스마트 냉장고의 기능과 작동 방식에 관한 대화이다. (답지 p.38 Dialog 실전 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[10-13] Read the dialog and answer.\n\nB: Juhee, have you heard about smart refrigerators?\nG: (a) ______ What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking (b) ______.\n\n12 What is the best topic of the dialog?",
+      "choices": [
+        "Juhee's favorite food",
+        "how to cook food at home",
+        "different kinds of kitchen tools",
+        "ways to keep food fresh longer",
+        "smart refrigerators and how they work"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Dialog 실전",
+      "directionKo": "열네 단어의 완전한 영어 문장으로 쓰시오.",
+      "ruleKo": "질문에 대한 답을 열네 단어로 쓰세요.",
+      "sectionInstructionKo": "열네 단어의 완전한 영어 문장으로 쓰시오. 질문에 대한 답을 열네 단어로 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: It uses special sensors to see what is inside it and then finds recipes. (답지 p.38 Dialog 실전 13)",
+      "type": "sentence",
+      "promptEn": "[10-13] Read the dialog and answer.\n\nB: Juhee, have you heard about smart refrigerators?\nG: (a) ______ What is a smart refrigerator?\nB: It's a refrigerator that can scan the things inside and show you recipes.\nG: That sounds interesting. How does it work?\nB: It uses special sensors to see what is inside it and then finds recipes.\nG: I'm surprised that a refrigerator can do that. I want to have one at my house.\nB: Me too. It would make cooking (b) ______.\n\n13 Answer the question in one complete sentence of fourteen words.\n\nQ. How does a smart refrigerator work?",
+      "accept": [
+        "It uses special sensors to see what is inside it and then finds recipes."
+      ],
+      "seconds": 100
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Dialog 실전 문제. 고르기는 누르고, 문장은 통째로 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Dialog 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르거나, 빈칸이면 그 말만 쓰세요.",
+      "itemCount": 13
+    }
+  ]
+}

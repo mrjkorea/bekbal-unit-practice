@@ -1,0 +1,413 @@
+{
+  "id": "vocab-advanced",
+  "title": "Vocabulary 심화 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.186-187",
+  "questionCount": 15,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ intelligent : intelligence. accurate : accuracy와 같이 형용사-명사. (답지 p.37 Vocabulary 심화 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "The pair accurate : accuracy is adjective : noun. Choose the pair with the same relationship.",
+      "choices": [
+        "fair : unfair",
+        "wise : wisely",
+        "decision : decide",
+        "translate : translation",
+        "intelligent : intelligence"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: at once. 한 번에, 동시에, 한꺼번에. (답지 p.37 Vocabulary 심화 02)",
+      "type": "fill",
+      "promptEn": "Write the English that completes the sentence.\n\n나는 공부하면서 음악을 듣는 것을 한꺼번에 할 수 없다.\n→ I can't study and listen to music ______.",
+      "accept": [
+        "at once"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Even if. (비록) ~일지라도. (답지 p.37 Vocabulary 심화 03)",
+      "type": "fill",
+      "promptEn": "Write the English that completes the sentence.\n\n내일 비가 오더라도 우리는 공원에 갈 것이다.\n→ ______ it rains tomorrow, we will go to the park.",
+      "accept": [
+        "Even if",
+        "even if"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② technology. 네 빈칸은 directions, screen, repair, recommend. technology는 어디에도 들어가지 않는다. (답지 p.37 Vocabulary 심화 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Which word does NOT fit any blank?\n\nCan you give me the ______ to the nearest library?\nMy eyes hurt because I looked at the computer ______ all day.\nIt takes more than a year to ______ the old building.\nThe burger at this restaurant is really good. I really ______ it.",
+      "choices": [
+        "directions",
+        "technology",
+        "recommend",
+        "repair",
+        "screen"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: stands for. represent는 '~을 나타내다'이고 stand for와 같다. (답지 p.37 Vocabulary 심화 05)",
+      "type": "fill",
+      "promptEn": "Write the words that keep the same meaning.\n\nThe number 8 represents wealth in China.\n= The number 8 ______ wealth in China.",
+      "accept": [
+        "stands for"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. originality는 타인의 작품을 베끼는 능력이 아니라, 새롭고 다른 것과 구별되는 특성이다. (답지 p.37 Vocabulary 심화 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the definition that is NOT correct.",
+      "choices": [
+        "blindly: without thinking carefully",
+        "explanation: information or details that make something clear or easy to understand",
+        "handle: the part of an object that you use to carry or hold it",
+        "originality: the ability to copy other people's work",
+        "privacy: the state of being free from other people's attention or control"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ get. get ready to는 '~할 준비가 되다'. (답지 p.37 Vocabulary 심화 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the best word for the blank.\n\n그들은 캠핑을 갈 준비를 하려고 가방을 쌌다.\n→ They packed their bags to ______ ready to go camping.",
+      "choices": [
+        "come",
+        "take",
+        "save",
+        "get",
+        "feel"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② over time. 그는 많이 연습했고, 시간이 지나면서 좋은 선수가 되었다. (답지 p.37 Vocabulary 심화 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the best expression for the blank.\n\nHe practiced a lot, and ______ he became a good player.",
+      "choices": [
+        "thanks to",
+        "over time",
+        "such as",
+        "for example",
+        "in front of"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. sense(감각)가 아니라 '센서, 감지기'인 sensor가 자연스럽다. (답지 p.37 Vocabulary 심화 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Who uses the underlined word in an unnatural way?",
+      "choices": [
+        "Sam tried to comfort me when I was sad.",
+        "The door opens automatically with a sense.",
+        "Self-driving cars will make driving easier for people.",
+        "I use an app to translate foreign texts.",
+        "Your explanation is very clear and easy to understand."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ personal. 개인의, 개인적인. personal information은 개인 정보. (답지 p.37 Vocabulary 심화 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the word that fits both blanks.\n\nHe felt uncomfortable when she asked a ______ question.\nNever give your ______ information to strangers.",
+      "choices": [
+        "smart",
+        "correct",
+        "straight",
+        "personal",
+        "following"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ for / for / in. be used for, care for, keep in mind. (답지 p.37 Vocabulary 심화 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Choose the correct set for (a), (b), and (c).\n\nThis room is used (a) ______ watching movies on weekends.\nShe cares (b) ______ her little brother after school.\nKeep (c) ______ mind that the test is next Monday.",
+      "choices": [
+        "to / of / on",
+        "to / for / in",
+        "for / to / in",
+        "for / for / in",
+        "for / of / on"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ plant. 씨앗이나 식물을 땅에 심어 자라게 하다. (답지 p.37 Vocabulary 심화 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "to put seeds or plants into the ground to grow\n\nWhich sentence uses the word for this definition?",
+      "choices": [
+        "The milk is in the refrigerator.",
+        "Don't tell anyone your password.",
+        "The flowers in the vase are artificial.",
+        "She wants to plant some flowers in her garden.",
+        "This website provides a lot of useful information."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. ①②③⑤는 unlock(열다)이고, ④는 lock(잠그다)이다. (답지 p.37 Vocabulary 심화 13)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "In which sentence does the blank take a DIFFERENT word from the others?\n\n① I will ______ the door for you.\n② You should ______ your phone first to read the message.\n③ I forgot the password, so I couldn't ______ the locker.\n④ Don't forget to ______ your bike when you park it.\n⑤ They will ______ the suitcase to check what is inside.",
+      "choices": [
+        "I will ______ the door for you.",
+        "You should ______ your phone first to read the message.",
+        "I forgot the password, so I couldn't ______ the locker.",
+        "Don't forget to ______ your bike when you park it.",
+        "They will ______ the suitcase to check what is inside."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. similar with가 아니라 similar to이다. (답지 p.37 Vocabulary 심화 14)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "Which underlined expression is used unnaturally?",
+      "choices": [
+        "He cooked dinner by himself last night.",
+        "We came up with a new plan for the project.",
+        "Feel free to call me anytime you need help.",
+        "This bag is very similar with mine in color.",
+        "Let's take a look at the new book."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: correct. accuracy는 어떤 것이 얼마나 정확한지이므로 형용사 correct. (답지 p.37 Vocabulary 심화 15)",
+      "type": "fill",
+      "promptEn": "Complete the definition. The word starts with c.\n\naccuracy: how ______ something is",
+      "accept": [
+        "correct"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Vocabulary 심화 문제. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 11
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 빈칸에 쓸 말",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 4
+    }
+  ]
+}
