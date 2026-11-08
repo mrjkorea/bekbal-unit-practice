@@ -1,0 +1,703 @@
+{
+  "id": "vocab-check",
+  "title": "Vocabulary 확인 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "p.126",
+  "questionCount": 12,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "s1-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "station — 정거장\nrecommend — 추천하다\nscan — 스캔하다, 훑다\nclerk — (가게) 점원\nsecondhand — 중고의\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "station",
+          "ko": "정거장",
+          "sourceId": 1,
+          "explainKo": "정답: 정거장. (답지 p.25)"
+        },
+        {
+          "id": "2",
+          "en": "recommend",
+          "ko": "추천하다",
+          "sourceId": 2,
+          "explainKo": "정답: 추천하다. (답지 p.25)"
+        },
+        {
+          "id": "3",
+          "en": "scan",
+          "ko": "스캔하다, 훑다",
+          "sourceId": 3,
+          "explainKo": "정답: 스캔하다, 훑다. (답지 p.25)"
+        },
+        {
+          "id": "4",
+          "en": "clerk",
+          "ko": "(가게) 점원",
+          "sourceId": 4,
+          "explainKo": "정답: (가게) 점원. (답지 p.25)"
+        },
+        {
+          "id": "5",
+          "en": "secondhand",
+          "ko": "중고의",
+          "sourceId": 5,
+          "explainKo": "정답: 중고의. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "sneaker — 운동화\nmetal — 금속\nstand — 가판대; 서다\nenvironment — 환경\ntype — 종류, 타입\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "sneaker",
+          "ko": "운동화",
+          "sourceId": 6,
+          "explainKo": "정답: 운동화. (답지 p.25)"
+        },
+        {
+          "id": "7",
+          "en": "metal",
+          "ko": "금속",
+          "sourceId": 7,
+          "explainKo": "정답: 금속. (답지 p.25)"
+        },
+        {
+          "id": "8",
+          "en": "stand",
+          "ko": "가판대; 서다",
+          "sourceId": 8,
+          "explainKo": "정답: 가판대; 서다. (답지 p.25)"
+        },
+        {
+          "id": "9",
+          "en": "environment",
+          "ko": "환경",
+          "sourceId": 9,
+          "explainKo": "정답: 환경. (답지 p.25)"
+        },
+        {
+          "id": "10",
+          "en": "type",
+          "ko": "종류, 타입",
+          "sourceId": 10,
+          "explainKo": "정답: 종류, 타입. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "economy — 경제\ndetail — 세부 사항\nmirror — 거울\ncondition — 상태, 상황, 환경\nresource — 자원\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "economy",
+          "ko": "경제",
+          "sourceId": 11,
+          "explainKo": "정답: 경제. (답지 p.25)"
+        },
+        {
+          "id": "12",
+          "en": "detail",
+          "ko": "세부 사항",
+          "sourceId": 12,
+          "explainKo": "정답: 세부 사항. (답지 p.25)"
+        },
+        {
+          "id": "13",
+          "en": "mirror",
+          "ko": "거울",
+          "sourceId": 13,
+          "explainKo": "정답: 거울. (답지 p.25)"
+        },
+        {
+          "id": "14",
+          "en": "condition",
+          "ko": "상태, 상황, 환경",
+          "sourceId": 14,
+          "explainKo": "정답: 상태, 상황, 환경. (답지 p.25)"
+        },
+        {
+          "id": "15",
+          "en": "resource",
+          "ko": "자원",
+          "sourceId": 15,
+          "explainKo": "정답: 자원. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s1-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "allow — 허락하다, 가능하게 하다\nprefer — (더) 좋아하다, 선호하다\nwallet — 지갑\nspend — (돈을) 쓰다, 소비하다\nrent — (돈을 내고) 빌리다, 임차하다\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "allow",
+          "ko": "허락하다, 가능하게 하다",
+          "sourceId": 16,
+          "explainKo": "정답: 허락하다, 가능하게 하다. (답지 p.25)"
+        },
+        {
+          "id": "17",
+          "en": "prefer",
+          "ko": "(더) 좋아하다, 선호하다",
+          "sourceId": 17,
+          "explainKo": "정답: (더) 좋아하다, 선호하다. (답지 p.25)"
+        },
+        {
+          "id": "18",
+          "en": "wallet",
+          "ko": "지갑",
+          "sourceId": 18,
+          "explainKo": "정답: 지갑. (답지 p.25)"
+        },
+        {
+          "id": "19",
+          "en": "spend",
+          "ko": "(돈을) 쓰다, 소비하다",
+          "sourceId": 19,
+          "explainKo": "정답: (돈을) 쓰다, 소비하다. (답지 p.25)"
+        },
+        {
+          "id": "20",
+          "en": "rent",
+          "ko": "(돈을 내고) 빌리다, 임차하다",
+          "sourceId": 20,
+          "explainKo": "정답: (돈을 내고) 빌리다, 임차하다. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "price — 가격\ncash — 현금\nitem — 물품, 품목\nscratch — 긁힌 자국, 스크래치; 긁다\npattern — 무늬, 패턴\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "price",
+          "ko": "가격",
+          "sourceId": 1,
+          "explainKo": "정답: price. (답지 p.25)"
+        },
+        {
+          "id": "2",
+          "en": "cash",
+          "ko": "현금",
+          "sourceId": 2,
+          "explainKo": "정답: cash. (답지 p.25)"
+        },
+        {
+          "id": "3",
+          "en": "item",
+          "ko": "물품, 품목",
+          "sourceId": 3,
+          "explainKo": "정답: item. (답지 p.25)"
+        },
+        {
+          "id": "4",
+          "en": "scratch",
+          "ko": "긁힌 자국, 스크래치; 긁다",
+          "sourceId": 4,
+          "explainKo": "정답: scratch. (답지 p.25)"
+        },
+        {
+          "id": "5",
+          "en": "pattern",
+          "ko": "무늬, 패턴",
+          "sourceId": 5,
+          "explainKo": "정답: pattern. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "post — 게시글; 게시하다\ngift — 선물\nground — 땅\nexperience — 경험; 경험하다, 겪다\neasily — 쉽게\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "post",
+          "ko": "게시글; 게시하다",
+          "sourceId": 6,
+          "explainKo": "정답: post. (답지 p.25)"
+        },
+        {
+          "id": "7",
+          "en": "gift",
+          "ko": "선물",
+          "sourceId": 7,
+          "explainKo": "정답: gift. (답지 p.25)"
+        },
+        {
+          "id": "8",
+          "en": "ground",
+          "ko": "땅",
+          "sourceId": 8,
+          "explainKo": "정답: ground. (답지 p.25)"
+        },
+        {
+          "id": "9",
+          "en": "experience",
+          "ko": "경험; 경험하다, 겪다",
+          "sourceId": 9,
+          "explainKo": "정답: experience. (답지 p.25)"
+        },
+        {
+          "id": "10",
+          "en": "easily",
+          "ko": "쉽게",
+          "sourceId": 10,
+          "explainKo": "정답: easily. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b3",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "pair — 한 켤레[쌍]\nboot — 부츠, 장화\nlock — 자물쇠; 잠그다\nexpensive — 비싼\nspace — 공간; 우주\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "11",
+          "en": "pair",
+          "ko": "한 켤레[쌍]",
+          "sourceId": 11,
+          "explainKo": "정답: pair. (답지 p.25)"
+        },
+        {
+          "id": "12",
+          "en": "boot",
+          "ko": "부츠, 장화",
+          "sourceId": 12,
+          "explainKo": "정답: boot. (답지 p.25)"
+        },
+        {
+          "id": "13",
+          "en": "lock",
+          "ko": "자물쇠; 잠그다",
+          "sourceId": 13,
+          "explainKo": "정답: lock. (답지 p.25)"
+        },
+        {
+          "id": "14",
+          "en": "expensive",
+          "ko": "비싼",
+          "sourceId": 14,
+          "explainKo": "정답: expensive. (답지 p.25)"
+        },
+        {
+          "id": "15",
+          "en": "space",
+          "ko": "공간; 우주",
+          "sourceId": 15,
+          "explainKo": "정답: space. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s2-b4",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "s2",
+      "sectionTitle": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "customer — 손님, 고객\ncarefully — 꼼꼼하게, 주의 깊게\nchoice — 선택\nexercise — 운동하다; 운동\nexchange — 교환하다, 맞바꾸다; 교환\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "16",
+          "en": "customer",
+          "ko": "손님, 고객",
+          "sourceId": 16,
+          "explainKo": "정답: customer. (답지 p.25)"
+        },
+        {
+          "id": "17",
+          "en": "carefully",
+          "ko": "꼼꼼하게, 주의 깊게",
+          "sourceId": 17,
+          "explainKo": "정답: carefully. (답지 p.25)"
+        },
+        {
+          "id": "18",
+          "en": "choice",
+          "ko": "선택",
+          "sourceId": 18,
+          "explainKo": "정답: choice. (답지 p.25)"
+        },
+        {
+          "id": "19",
+          "en": "exercise",
+          "ko": "운동하다; 운동",
+          "sourceId": 19,
+          "explainKo": "정답: exercise. (답지 p.25)"
+        },
+        {
+          "id": "20",
+          "en": "exchange",
+          "ko": "교환하다, 맞바꾸다; 교환",
+          "sourceId": 20,
+          "explainKo": "정답: exchange. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "head for — ~로 향하다\ngive a discount — 할인하다\nbike-sharing system — 자전거 공유 시스템\nstay out — (밤에) 집 밖에 있다\nbe good for — ~에 좋다\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "head for",
+          "ko": "~로 향하다",
+          "sourceId": 1,
+          "explainKo": "정답: ~로 향하다. (답지 p.25)"
+        },
+        {
+          "id": "2",
+          "en": "give a discount",
+          "ko": "할인하다",
+          "sourceId": 2,
+          "explainKo": "정답: 할인하다. (답지 p.25)"
+        },
+        {
+          "id": "3",
+          "en": "bike-sharing system",
+          "ko": "자전거 공유 시스템",
+          "sourceId": 3,
+          "explainKo": "정답: 자전거 공유 시스템. (답지 p.25)"
+        },
+        {
+          "id": "4",
+          "en": "stay out",
+          "ko": "(밤에) 집 밖에 있다",
+          "sourceId": 4,
+          "explainKo": "정답: (밤에) 집 밖에 있다. (답지 p.25)"
+        },
+        {
+          "id": "5",
+          "en": "be good for",
+          "ko": "~에 좋다",
+          "sourceId": 5,
+          "explainKo": "정답: ~에 좋다. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s3-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s3",
+      "sectionTitle": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "get ready — 준비를 하다\ntry on — (옷 등을) 입어 보다\nin good condition — 상태가 좋은\nprefer A to B — B보다 A를 선호하다\nnot ~ anymore — 더 이상 ~ 아닌\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "get ready",
+          "ko": "준비를 하다",
+          "sourceId": 6,
+          "explainKo": "정답: 준비를 하다. (답지 p.25)"
+        },
+        {
+          "id": "7",
+          "en": "try on",
+          "ko": "(옷 등을) 입어 보다",
+          "sourceId": 7,
+          "explainKo": "정답: (옷 등을) 입어 보다. (답지 p.25)"
+        },
+        {
+          "id": "8",
+          "en": "in good condition",
+          "ko": "상태가 좋은",
+          "sourceId": 8,
+          "explainKo": "정답: 상태가 좋은. (답지 p.25)"
+        },
+        {
+          "id": "9",
+          "en": "prefer A to B",
+          "ko": "B보다 A를 선호하다",
+          "sourceId": 9,
+          "explainKo": "정답: B보다 A를 선호하다. (답지 p.25)"
+        },
+        {
+          "id": "10",
+          "en": "not ~ anymore",
+          "ko": "더 이상 ~ 아닌",
+          "sourceId": 10,
+          "explainKo": "정답: 더 이상 ~ 아닌. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b1",
+      "label": "1–5",
+      "sourceId": 1,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "for sale — 팔려고 내놓은, 판매 중인\nlook forward to -ing — ~하는 것을 기대하다\ninstead of — ~ 대신에\nsharing economy — 공유 경제\ncome up — 다가오다\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "1",
+          "en": "for sale",
+          "ko": "팔려고 내놓은, 판매 중인",
+          "sourceId": 1,
+          "explainKo": "정답: for sale. (답지 p.25)"
+        },
+        {
+          "id": "2",
+          "en": "look forward to -ing",
+          "ko": "~하는 것을 기대하다",
+          "sourceId": 2,
+          "explainKo": "정답: look forward to -ing. (답지 p.25)"
+        },
+        {
+          "id": "3",
+          "en": "instead of",
+          "ko": "~ 대신에",
+          "sourceId": 3,
+          "explainKo": "정답: instead of. (답지 p.25)"
+        },
+        {
+          "id": "4",
+          "en": "sharing economy",
+          "ko": "공유 경제",
+          "sourceId": 4,
+          "explainKo": "정답: sharing economy. (답지 p.25)"
+        },
+        {
+          "id": "5",
+          "en": "come up",
+          "ko": "다가오다",
+          "sourceId": 5,
+          "explainKo": "정답: come up. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "s4-b2",
+      "label": "6–10",
+      "sourceId": 6,
+      "section": "s4",
+      "sectionTitle": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "without -ing — ~하지 않고\ngive away — 무료로 주다\nlook good on — ~에게 잘 어울리다\nreturn A to B — A를 B에 반납하다\ngo well with — ~와 잘 맞다[어울리다]\n(답지 p.25 Vocabulary 확인)",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "6",
+          "en": "without -ing",
+          "ko": "~하지 않고",
+          "sourceId": 6,
+          "explainKo": "정답: without -ing. (답지 p.25)"
+        },
+        {
+          "id": "7",
+          "en": "give away",
+          "ko": "무료로 주다",
+          "sourceId": 7,
+          "explainKo": "정답: give away. (답지 p.25)"
+        },
+        {
+          "id": "8",
+          "en": "look good on",
+          "ko": "~에게 잘 어울리다",
+          "sourceId": 8,
+          "explainKo": "정답: look good on. (답지 p.25)"
+        },
+        {
+          "id": "9",
+          "en": "return A to B",
+          "ko": "A를 B에 반납하다",
+          "sourceId": 9,
+          "explainKo": "정답: return A to B. (답지 p.25)"
+        },
+        {
+          "id": "10",
+          "en": "go well with",
+          "ko": "~와 잘 맞다[어울리다]",
+          "sourceId": 10,
+          "explainKo": "정답: go well with. (답지 p.25)"
+        }
+      ],
+      "promptEn": "영어와 우리말을 짝지으세요.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Vocabulary 확인은 짝짓기입니다. 영어와 우리말을 다섯 쌍씩 보여 줍니다. 왼쪽 영어를 누르고 같은 뜻의 우리말을 누르세요. 타자는 없습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 4
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 영어를 보고 같은 뜻의 우리말을 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 2
+    },
+    {
+      "id": "s4",
+      "title": "Section D · 우리말을 보고 같은 뜻의 영어를 누르세요.",
+      "directionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "itemCount": 2
+    }
+  ]
+}

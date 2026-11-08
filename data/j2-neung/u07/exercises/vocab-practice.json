@@ -1,0 +1,186 @@
+{
+  "id": "vocab-practice",
+  "title": "Vocabulary 실전 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "p.127",
+  "questionCount": 7,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: recommendation. decide : decision처럼 recommend의 명사형은 recommendation이다. (답지 p.25 Vocabulary 실전 01)",
+      "type": "fill",
+      "promptEn": "다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\ndecide : decision = recommend : ______",
+      "accept": [
+        "recommendation"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: customer. (답지 p.25 Vocabulary 실전 02)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.\na person who buys goods or services\nc________",
+      "accept": [
+        "customer"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ look good on. ~에게 잘 어울리다. (답지 p.25 Vocabulary 실전 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 빈칸에 들어갈 말로 가장 적절한 것은?\nI like these black sneakers. I think they really ______ me.",
+      "choices": [
+        "get ready",
+        "head for",
+        "look good on",
+        "give away",
+        "look forward to"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: exchange. 교환하다, 맞바꾸다; 교환. (답지 p.25 Vocabulary 실전 04)",
+      "type": "fill",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• This store allows an easy ______ within 7 days.\n• I want to ______ this shirt for a larger size because it doesn't fit me.",
+      "accept": [
+        "exchange"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. ①~④는 borrowed(빌렸다)이고, ⑤는 lent(빌려주었다)이다. (답지 p.25 Vocabulary 실전 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 빈칸에 들어갈 단어가 나머지와 다른 것은?\n① She ______ her brother's bike to go to school.\n② I forgot my ruler, so I ______ one from Jason.\n③ Sally ______ my charger during lunch time.\n④ Don't ______ money if you can't pay it back.\n⑤ Dad ______ his car to my uncle yesterday.",
+      "choices": [
+        "She ______ her brother's bike to go to school.",
+        "I forgot my ruler, so I ______ one from Jason.",
+        "Sally ______ my charger during lunch time.",
+        "Don't ______ money if you can't pay it back.",
+        "Dad ______ his car to my uncle yesterday."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. for sale는 팔려고 내놓은, 판매 중인이다. 할인 중인은 on sale이다. (답지 p.25 Vocabulary 실전 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 밑줄 친 부분의 뜻풀이가 바르지 않은 것은?\n① He had a great 「experience」. (경험)\n② The 「economy」 is growing fast. (경제)\n③ This bag is not 「for sale」. (할인 중인)\n④ I want to 「try on」 this dress. (입어 보다)\n⑤ They went home 「without eating」 dinner. (먹지 않고)",
+      "choices": [
+        "He had a great experience. (경험)",
+        "The economy is growing fast. (경제)",
+        "This bag is not for sale. (할인 중인)",
+        "I want to try on this dress. (입어 보다)",
+        "They went home without eating dinner. (먹지 않고)"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "sectionInstructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: lock. 문이나 상자가 열리지 않도록 막는 장치. (답지 p.25 Vocabulary 실전 07)",
+      "type": "fill",
+      "promptEn": "다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오.\na device that keeps a door or box from being opened\nI bought a strong ______ to keep my bike safe outside the station.",
+      "accept": [
+        "lock"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. Vocabulary 실전 문제 7문항. 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Vocabulary 실전",
+      "directionKo": "Vocabulary 실전 문제",
+      "ruleKo": "하나를 누르거나 빈칸 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "Vocabulary 실전 문제 하나를 누르거나 빈칸 말만 쓰세요.",
+      "itemCount": 7
+    }
+  ]
+}
