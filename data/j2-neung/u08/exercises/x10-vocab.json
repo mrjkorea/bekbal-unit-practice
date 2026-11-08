@@ -1,0 +1,1413 @@
+{
+  "id": "x10-vocab",
+  "title": "어휘 확인 문제",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.44-45",
+  "questionCount": 37,
+  "omitted": [
+    {
+      "page": "p.45",
+      "item": "A04",
+      "reason": "X-10 답지 없음, 지문으로 확정 불가. repair : fix = ( ) : accurate에서 본책 p.183은 correct = right, accurate라 correct와 right가 모두 된다."
+    },
+    {
+      "page": "p.45",
+      "item": "B03",
+      "reason": "X-10 답지 없음, 지문으로 확정 불가. provide의 유의어로 본책 p.183에 give, offer, supply가 함께 있다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "sA-01",
+      "label": "01–05",
+      "sourceId": 1,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "screen — 화면, 스크린; 영화\nexperience — 경험; 경험하다\nprivacy — 사생활\ndecision — 결정\nfollowing — 다음의, 이어지는\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sA-01",
+          "en": "screen",
+          "ko": "화면, 스크린; 영화",
+          "sourceId": 1,
+          "explainKo": "정답: 화면, 스크린; 영화. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-02",
+          "en": "experience",
+          "ko": "경험; 경험하다",
+          "sourceId": 2,
+          "explainKo": "정답: 경험; 경험하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-03",
+          "en": "privacy",
+          "ko": "사생활",
+          "sourceId": 3,
+          "explainKo": "정답: 사생활. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-04",
+          "en": "decision",
+          "ko": "결정",
+          "sourceId": 4,
+          "explainKo": "정답: 결정. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-05",
+          "en": "following",
+          "ko": "다음의, 이어지는",
+          "sourceId": 5,
+          "explainKo": "정답: 다음의, 이어지는. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sA-06",
+      "label": "06–10",
+      "sourceId": 6,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "copy — 베끼다, 모방하다; 복사하다\nfair — 타당한, 공정한\nartificial — 인공의\nchat — 대화, 담소; 대화하다\nrecipe — 요리법, 조리법\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sA-06",
+          "en": "copy",
+          "ko": "베끼다, 모방하다; 복사하다",
+          "sourceId": 6,
+          "explainKo": "정답: 베끼다, 모방하다; 복사하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-07",
+          "en": "fair",
+          "ko": "타당한, 공정한",
+          "sourceId": 7,
+          "explainKo": "정답: 타당한, 공정한. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-08",
+          "en": "artificial",
+          "ko": "인공의",
+          "sourceId": 8,
+          "explainKo": "정답: 인공의. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-09",
+          "en": "chat",
+          "ko": "대화, 담소; 대화하다",
+          "sourceId": 9,
+          "explainKo": "정답: 대화, 담소; 대화하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-10",
+          "en": "recipe",
+          "ko": "요리법, 조리법",
+          "sourceId": 10,
+          "explainKo": "정답: 요리법, 조리법. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sA-11",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "blindly — 무턱대고, 맹목적으로\narea — 지역\nsensor — 센서, 감지기\nscan — 스캔하다, 훑어보다\nhandle — 손잡이; 다루다\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sA-11",
+          "en": "blindly",
+          "ko": "무턱대고, 맹목적으로",
+          "sourceId": 11,
+          "explainKo": "정답: 무턱대고, 맹목적으로. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-12",
+          "en": "area",
+          "ko": "지역",
+          "sourceId": 12,
+          "explainKo": "정답: 지역. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-13",
+          "en": "sensor",
+          "ko": "센서, 감지기",
+          "sourceId": 13,
+          "explainKo": "정답: 센서, 감지기. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-14",
+          "en": "scan",
+          "ko": "스캔하다, 훑어보다",
+          "sourceId": 14,
+          "explainKo": "정답: 스캔하다, 훑어보다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-15",
+          "en": "handle",
+          "ko": "손잡이; 다루다",
+          "sourceId": 15,
+          "explainKo": "정답: 손잡이; 다루다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sA-16",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "sA",
+      "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "A 다음 영어를 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "directions — 길 안내\nprovide — 제공하다\nunlock — 열다, 잠금을 해제하다\nsituation — 상황\ntransportation — 교통수단\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sA-16",
+          "en": "directions",
+          "ko": "길 안내",
+          "sourceId": 16,
+          "explainKo": "정답: 길 안내. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-17",
+          "en": "provide",
+          "ko": "제공하다",
+          "sourceId": 17,
+          "explainKo": "정답: 제공하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-18",
+          "en": "unlock",
+          "ko": "열다, 잠금을 해제하다",
+          "sourceId": 18,
+          "explainKo": "정답: 열다, 잠금을 해제하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-19",
+          "en": "situation",
+          "ko": "상황",
+          "sourceId": 19,
+          "explainKo": "정답: 상황. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sA-20",
+          "en": "transportation",
+          "ko": "교통수단",
+          "sourceId": 20,
+          "explainKo": "정답: 교통수단. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sB-01",
+      "label": "01–05",
+      "sourceId": 1,
+      "section": "sB",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "machine — 기계\nwisely — 현명하게\ninside — 안쪽에, 내부에; ~의 안쪽에\nplant — 심다; 식물\ntechnology — (과학) 기술\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sB-01",
+          "en": "machine",
+          "ko": "기계",
+          "sourceId": 1,
+          "explainKo": "정답: 기계. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-02",
+          "en": "wisely",
+          "ko": "현명하게",
+          "sourceId": 2,
+          "explainKo": "정답: 현명하게. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-03",
+          "en": "inside",
+          "ko": "안쪽에, 내부에; ~의 안쪽에",
+          "sourceId": 3,
+          "explainKo": "정답: 안쪽에, 내부에; ~의 안쪽에. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-04",
+          "en": "plant",
+          "ko": "심다; 식물",
+          "sourceId": 4,
+          "explainKo": "정답: 심다; 식물. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-05",
+          "en": "technology",
+          "ko": "(과학) 기술",
+          "sourceId": 5,
+          "explainKo": "정답: (과학) 기술. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sB-06",
+      "label": "06–10",
+      "sourceId": 6,
+      "section": "sB",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "seed — 씨, 씨앗\neveryday — 일상적인, 매일의\noriginality — 독창성\npassword — 비밀번호\nsmart — 똑똑한, 스마트한\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sB-06",
+          "en": "seed",
+          "ko": "씨, 씨앗",
+          "sourceId": 6,
+          "explainKo": "정답: 씨, 씨앗. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-07",
+          "en": "everyday",
+          "ko": "일상적인, 매일의",
+          "sourceId": 7,
+          "explainKo": "정답: 일상적인, 매일의. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-08",
+          "en": "originality",
+          "ko": "독창성",
+          "sourceId": 8,
+          "explainKo": "정답: 독창성. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-09",
+          "en": "password",
+          "ko": "비밀번호",
+          "sourceId": 9,
+          "explainKo": "정답: 비밀번호. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-10",
+          "en": "smart",
+          "ko": "똑똑한, 스마트한",
+          "sourceId": 10,
+          "explainKo": "정답: 똑똑한, 스마트한. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sB-11",
+      "label": "11–15",
+      "sourceId": 11,
+      "section": "sB",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "human — 인간; 인간의\nrecommend — 추천하다\ntranslate — 번역하다\naccuracy — 정확성, 정확도\ncomfort — 위로[위안]하다; 위로, 위안\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sB-11",
+          "en": "human",
+          "ko": "인간; 인간의",
+          "sourceId": 11,
+          "explainKo": "정답: 인간; 인간의. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-12",
+          "en": "recommend",
+          "ko": "추천하다",
+          "sourceId": 12,
+          "explainKo": "정답: 추천하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-13",
+          "en": "translate",
+          "ko": "번역하다",
+          "sourceId": 13,
+          "explainKo": "정답: 번역하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-14",
+          "en": "accuracy",
+          "ko": "정확성, 정확도",
+          "sourceId": 14,
+          "explainKo": "정답: 정확성, 정확도. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-15",
+          "en": "comfort",
+          "ko": "위로[위안]하다; 위로, 위안",
+          "sourceId": 15,
+          "explainKo": "정답: 위로[위안]하다; 위로, 위안. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sB-16",
+      "label": "16–20",
+      "sourceId": 16,
+      "section": "sB",
+      "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "B 다음 우리말을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "recognize — 알아보다, 인식하다\nrefrigerator — 냉장고\nexplanation — 설명\nintelligence — 지능\ncorrect — 맞는, 정확한\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sB-16",
+          "en": "recognize",
+          "ko": "알아보다, 인식하다",
+          "sourceId": 16,
+          "explainKo": "정답: 알아보다, 인식하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-17",
+          "en": "refrigerator",
+          "ko": "냉장고",
+          "sourceId": 17,
+          "explainKo": "정답: 냉장고. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-18",
+          "en": "explanation",
+          "ko": "설명",
+          "sourceId": 18,
+          "explainKo": "정답: 설명. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-19",
+          "en": "intelligence",
+          "ko": "지능",
+          "sourceId": 19,
+          "explainKo": "정답: 지능. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sB-20",
+          "en": "correct",
+          "ko": "맞는, 정확한",
+          "sourceId": 20,
+          "explainKo": "정답: 맞는, 정확한. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sC-01",
+      "label": "01–05",
+      "sourceId": 1,
+      "section": "sC",
+      "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "directionKo": "C 다음 영어 표현을 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "C 다음 영어 표현을 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "such as — ~와 같은, ~처럼\nsave time — 시간을 아끼다\nby oneself — 혼자서, 혼자 힘으로\nover time — 시간이 지나면서\nbe used for — ~하는 데 사용되다\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sC-01",
+          "en": "such as",
+          "ko": "~와 같은, ~처럼",
+          "sourceId": 1,
+          "explainKo": "정답: ~와 같은, ~처럼. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-02",
+          "en": "save time",
+          "ko": "시간을 아끼다",
+          "sourceId": 2,
+          "explainKo": "정답: 시간을 아끼다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-03",
+          "en": "by oneself",
+          "ko": "혼자서, 혼자 힘으로",
+          "sourceId": 3,
+          "explainKo": "정답: 혼자서, 혼자 힘으로. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-04",
+          "en": "over time",
+          "ko": "시간이 지나면서",
+          "sourceId": 4,
+          "explainKo": "정답: 시간이 지나면서. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-05",
+          "en": "be used for",
+          "ko": "~하는 데 사용되다",
+          "sourceId": 5,
+          "explainKo": "정답: ~하는 데 사용되다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sC-06",
+      "label": "06–10",
+      "sourceId": 6,
+      "section": "sC",
+      "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "directionKo": "C 다음 영어 표현을 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "C 다음 영어 표현을 우리말로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "stand for — ~을 나타내다[의미하다]\nin front of — ~의 앞에\nsci-fi movie — 공상 과학 영화\nmake a decision — 결정을 내리다\neven if — (비록) ~일지라도\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sC-06",
+          "en": "stand for",
+          "ko": "~을 나타내다[의미하다]",
+          "sourceId": 6,
+          "explainKo": "정답: ~을 나타내다[의미하다]. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-07",
+          "en": "in front of",
+          "ko": "~의 앞에",
+          "sourceId": 7,
+          "explainKo": "정답: ~의 앞에. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-08",
+          "en": "sci-fi movie",
+          "ko": "공상 과학 영화",
+          "sourceId": 8,
+          "explainKo": "정답: 공상 과학 영화. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-09",
+          "en": "make a decision",
+          "ko": "결정을 내리다",
+          "sourceId": 9,
+          "explainKo": "정답: 결정을 내리다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sC-10",
+          "en": "even if",
+          "ko": "(비록) ~일지라도",
+          "sourceId": 10,
+          "explainKo": "정답: (비록) ~일지라도. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sD-01",
+      "label": "01–05",
+      "sourceId": 1,
+      "section": "sD",
+      "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "directionKo": "D 다음 우리말 표현을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "D 다음 우리말 표현을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "personal information — 개인 정보\nself-driving bike — 자율주행 자전거\nkeep in mind — ~을 명심하다\ncome up with — ~을 생각해내다\ntake a look at — ~을 한 번 보다, ~을 살펴보다\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sD-01",
+          "en": "personal information",
+          "ko": "개인 정보",
+          "sourceId": 1,
+          "explainKo": "정답: 개인 정보. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-02",
+          "en": "self-driving bike",
+          "ko": "자율주행 자전거",
+          "sourceId": 2,
+          "explainKo": "정답: 자율주행 자전거. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-03",
+          "en": "keep in mind",
+          "ko": "~을 명심하다",
+          "sourceId": 3,
+          "explainKo": "정답: ~을 명심하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-04",
+          "en": "come up with",
+          "ko": "~을 생각해내다",
+          "sourceId": 4,
+          "explainKo": "정답: ~을 생각해내다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-05",
+          "en": "take a look at",
+          "ko": "~을 한 번 보다, ~을 살펴보다",
+          "sourceId": 5,
+          "explainKo": "정답: ~을 한 번 보다, ~을 살펴보다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "sD-06",
+      "label": "06–10",
+      "sourceId": 6,
+      "section": "sD",
+      "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "directionKo": "D 다음 우리말 표현을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "sectionInstructionKo": "D 다음 우리말 표현을 영어로 쓰시오. 영어와 같은 뜻의 우리말을 짝지으세요. 왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "explainKo": "get ready to — ~할 준비가 되다\nfeel free to — 편하게 ~하다\nat once — 한 번에, 동시에\nsimilar to — ~와 비슷한\ncare for — ~을 돌보다\n본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인..",
+      "type": "match",
+      "pairs": [
+        {
+          "id": "sD-06",
+          "en": "get ready to",
+          "ko": "~할 준비가 되다",
+          "sourceId": 6,
+          "explainKo": "정답: ~할 준비가 되다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-07",
+          "en": "feel free to",
+          "ko": "편하게 ~하다",
+          "sourceId": 7,
+          "explainKo": "정답: 편하게 ~하다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-08",
+          "en": "at once",
+          "ko": "한 번에, 동시에",
+          "sourceId": 8,
+          "explainKo": "정답: 한 번에, 동시에. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-09",
+          "en": "similar to",
+          "ko": "~와 비슷한",
+          "sourceId": 9,
+          "explainKo": "정답: ~와 비슷한. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        },
+        {
+          "id": "sD-10",
+          "en": "care for",
+          "ko": "~을 돌보다",
+          "sourceId": 10,
+          "explainKo": "정답: ~을 돌보다. 본책 p.182-183 어휘 목록. 같은 뜻은 답지 p.36 Vocabulary 확인 문제에서도 확인.."
+        }
+      ],
+      "promptEn": "Match each English word or phrase with its Korean meaning.",
+      "promptKo": "영어를 먼저 누르고, 같은 뜻의 우리말을 누르세요. 다시 누르면 풀립니다.",
+      "seconds": 90
+    },
+    {
+      "id": "E-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: break. 유리 꽃병을 깨지 않도록 조심해라. break는 깨다. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-01",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n01. Be careful not to (1)__________ the glass vase.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: free. feel free to는 편하게 ~하다. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-02",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n02. If you have any questions, feel (1)__________ to ask me.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: recognize. recognize는 알아보다, 인식하다. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-03",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n03. I could not (1)__________ him because he wore a mask.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: repair. repair는 수리하다 (= fix). 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-04",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n04. My computer doesn't work, so I have to (1)__________ it.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        8
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: come. come up with는 ~을 생각해내다. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-05",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n05. She tries to (1)__________ up with an answer to the question.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        10
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: such. such as는 ~와 같은. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-06",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n06. I like smart items, (1)__________ as smart glasses and watches.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "E-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "sE",
+      "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
+      "sectionInstructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "explainKo": "정답: personal. personal information은 개인 정보. 본책 p.182-183 어휘 목록.",
+      "type": "bank",
+      "select": "one",
+      "group": "E-07",
+      "promptEn": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.\n보기: such, free, break, recognize, keep, directions, similar, repair, personal, come\n07. You should be careful when you put your (1)__________ information online.",
+      "choices": [
+        "such",
+        "free",
+        "break",
+        "recognize",
+        "keep",
+        "directions",
+        "similar",
+        "repair",
+        "personal",
+        "come"
+      ],
+      "correctIndexes": [
+        9
+      ],
+      "focusBlank": "1",
+      "promptKo": "이 문항은 (1) 빈칸만 고릅니다.",
+      "seconds": 45
+    },
+    {
+      "id": "F-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: blindly (무턱대고, 맹목적으로). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n01. (1)__________: without thinking carefully",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "blindly"
+      ],
+      "seconds": 70,
+      "group": "F-01"
+    },
+    {
+      "id": "F-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: artificial (인공의). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n02. (1)__________: made by people, not natural",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "artificial"
+      ],
+      "seconds": 70,
+      "group": "F-02"
+    },
+    {
+      "id": "F-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: correct (맞는, 정확한). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n03. (1)__________: not wrong and has no mistakes",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "correct"
+      ],
+      "seconds": 70,
+      "group": "F-03"
+    },
+    {
+      "id": "F-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: unlock (열다, 잠금을 해제하다). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n04. (1)__________: to open something that is locked",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "unlock"
+      ],
+      "seconds": 70,
+      "group": "F-04"
+    },
+    {
+      "id": "F-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recipe (요리법, 조리법). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n05. (1)__________: instructions for making food",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "recipe"
+      ],
+      "seconds": 70,
+      "group": "F-05"
+    },
+    {
+      "id": "F-06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: refrigerator (냉장고). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n06. (1)__________: a machine that keeps food and drinks cold",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "refrigerator"
+      ],
+      "seconds": 70,
+      "group": "F-06"
+    },
+    {
+      "id": "F-07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: originality (독창성). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n07. (1)__________: the quality of being new and different from others",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "originality"
+      ],
+      "seconds": 70,
+      "group": "F-07"
+    },
+    {
+      "id": "F-08",
+      "label": "08",
+      "sourceId": 8,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: handle (손잡이). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n08. (1)__________: the part of an object that you use to carry or hold it",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "handle"
+      ],
+      "seconds": 70,
+      "group": "F-08"
+    },
+    {
+      "id": "F-09",
+      "label": "09",
+      "sourceId": 9,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: password (비밀번호). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n09. (1)__________: a secret code that you use to gain access to something",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "password"
+      ],
+      "seconds": 70,
+      "group": "F-09"
+    },
+    {
+      "id": "F-10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "sF",
+      "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "sectionInstructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오. 영어 단어만 쓰세요. 한글 뜻은 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: copy (베끼다, 모방하다; 복사하다). 본책 p.183 Meaning in English. 본책 p.182-183 어휘 목록.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\n10. (1)__________: to make something that is exactly like something else",
+      "promptKo": "이 문항은 영어 단어만 씁니다.",
+      "accept": [
+        "copy"
+      ],
+      "seconds": 70,
+      "group": "F-10"
+    },
+    {
+      "id": "PA-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: inside. fair ↔ unfair(반의어)이므로 outside의 반의어 inside. 본책 p.182 inside ↔ outside.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\n01. fair : unfair = (1)__________ : outside",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "inside"
+      ],
+      "seconds": 70,
+      "group": "PA-01"
+    },
+    {
+      "id": "PA-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: following. comfort의 형용사 comfortable처럼 follow의 형용사는 following. 본책 p.182 following(follow 뒤따르다).",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\n02. comfort : comfortable = follow : (1)__________",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "following"
+      ],
+      "seconds": 70,
+      "group": "PA-02"
+    },
+    {
+      "id": "PA-03",
+      "label": "03",
+      "sourceId": 3,
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: wisely. 형용사에 -ly가 붙은 부사. wise의 부사는 wisely. 본책 p.182 wisely.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\n03. blind : blindly = wise : (1)__________",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "wisely"
+      ],
+      "seconds": 70,
+      "group": "PA-03"
+    },
+    {
+      "id": "PA-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sPA",
+      "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: unlock. fair ↔ unfair(반의어)이므로 lock의 반의어 unlock. 본책 p.183 lock ↔ unlock.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\n05. lock : (1)__________ = fair : unfair",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "unlock"
+      ],
+      "seconds": 70,
+      "group": "PA-05"
+    },
+    {
+      "id": "PB-01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: privacy. private의 명사형은 privacy. 본책 p.183 형용사를 명사로 만드는 -(a)cy.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\n01. private (1)__________ (명사형)",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "privacy"
+      ],
+      "seconds": 70,
+      "group": "PB-01"
+    },
+    {
+      "id": "PB-02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: natural. artificial ↔ natural. 본책 p.183 반의어.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\n02. artificial (1)__________ (반의어)",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "natural"
+      ],
+      "seconds": 70,
+      "group": "PB-02"
+    },
+    {
+      "id": "PB-04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: accuracy. accurate의 명사형은 accuracy. 본책 p.183.",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\n04. accurate (1)__________ (명사형)",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "accuracy"
+      ],
+      "seconds": 70,
+      "group": "PB-04"
+    },
+    {
+      "id": "PB-05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "sPB",
+      "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recommendation. recommend의 명사형은 recommendation. 본책 p.182 recommend (recommendation 추천).",
+      "type": "fill",
+      "focusBlank": "1",
+      "phraseBlank": false,
+      "promptEn": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\n05. recommend (1)__________ (명사형)",
+      "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
+      "accept": [
+        "recommendation"
+      ],
+      "seconds": 70,
+      "group": "PB-05"
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "X-10 답지(인쇄 pp.48-71)는 이 스캔에 없습니다. 빈칸은 본책 대화·읽기·어휘·문법 페이지의 문장으로 채웁니다. Section A · A 다음 영어를 우리말로 쓰시오. 4문항 Section B · B 다음 우리말을 영어로 쓰시오. 4문항 Section C · C 다음 영어 표현을 우리말로 쓰시오. 2문항 Section D · D 다음 우리말 표현을 영어로 쓰시오. 2문항 Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오. 7문항 Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오. 10문항 Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오. 4문항 Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오. 4문항 고르기는 누르고, 빈칸은 그 칸의 말만, 영작은 문장 전체를 쓰세요.",
+  "sections": [
+    {
+      "id": "sA",
+      "title": "Section A · A 다음 영어를 우리말로 쓰시오.",
+      "directionKo": "A 다음 영어를 우리말로 쓰시오.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "itemCount": 4
+    },
+    {
+      "id": "sB",
+      "title": "Section B · B 다음 우리말을 영어로 쓰시오.",
+      "directionKo": "B 다음 우리말을 영어로 쓰시오.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "itemCount": 4
+    },
+    {
+      "id": "sC",
+      "title": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
+      "directionKo": "C 다음 영어 표현을 우리말로 쓰시오.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "itemCount": 2
+    },
+    {
+      "id": "sD",
+      "title": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
+      "directionKo": "D 다음 우리말 표현을 영어로 쓰시오.",
+      "ruleKo": "왼쪽 영어를 누르고, 같은 뜻의 오른쪽 우리말을 누르세요. 직접 쓰지 않아요.",
+      "answerMode": "match",
+      "answerModeTag": "Match · 짝짓기",
+      "instructionKo": "영어와 같은 뜻의 우리말을 짝지으세요.",
+      "itemCount": 2
+    },
+    {
+      "id": "sE",
+      "title": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "directionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "ruleKo": "보기에서 이 빈칸에 들어갈 말을 하나 누르세요.",
+      "answerMode": "bank",
+      "answerModeTag": "Choose · 보기에서 고르기",
+      "instructionKo": "E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
+      "itemCount": 7
+    },
+    {
+      "id": "sF",
+      "title": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
+      "directionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "ruleKo": "영어 단어만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "F 다음 영영풀이에 해당하는 단어와 그 뜻을 쓰시오.",
+      "itemCount": 10
+    },
+    {
+      "id": "sPA",
+      "title": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "itemCount": 4
+    },
+    {
+      "id": "sPB",
+      "title": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "directionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
+      "itemCount": 4
+    }
+  ]
+}
