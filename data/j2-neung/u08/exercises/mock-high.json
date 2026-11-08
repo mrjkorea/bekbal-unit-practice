@@ -1,0 +1,645 @@
+{
+  "id": "mock-high",
+  "title": "고득점 모의고사",
+  "book": "j2-neung",
+  "unit": "u08",
+  "sourcePages": "pp.234-237",
+  "questionCount": 24,
+  "omitted": [
+    {
+      "page": "p.236",
+      "item": "14",
+      "reason": "답지 키는 ⓔ → make decisions이나, 지문의 ⓐ~ⓓ 밑줄 위치가 OCR에서 확인되지 않아 기호 문항을 카드로 만들 수 없음"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. fair:unfair는 반의어, care for:look after는 유의어. (답지 p.46 고득점 01)",
+      "type": "mc",
+      "promptEn": "01 다음 중 A:B와 C:D의 관계가 서로 일치하지 않는 것은?\n① inside : outside = in front of : behind\n② fair : unfair = care for : look after\n③ accurate : accuracy = private : privacy\n④ artificial : natural = correct : incorrect\n⑤ recognize : recognition = translate : translation",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "inside : outside = in front of : behind",
+        "fair : unfair = care for : look after",
+        "accurate : accuracy = private : privacy",
+        "artificial : natural = correct : incorrect",
+        "recognize : recognition = translate : translation"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ with - for - by. come up with, stand for, by oneself. (답지 p.46 고득점 02)",
+      "type": "mc",
+      "promptEn": "02 다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?\n• I need to come up ______ a good idea for my project.\n• NBA stands ______ the National Basketball Association.\n• I can solve this problem ______ myself.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "for - to - with",
+        "for - with - by",
+        "with - with - in",
+        "with - for - by",
+        "from - for - on"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (1) comfortable (2) recognize (3) decision. (답지 p.46 고득점 03)",
+      "type": "fill",
+      "promptEn": "03 다음 우리말에 맞도록 [보기]에서 적절한 단어를 골라 빈칸에 쓰시오. (필요시 어형을 바꿀 것)\n[보기] wish, comfort, provide, recognize, decide\n(1) 나는 이 의자에서 편안함을 느낀다.\n→ I feel ______ in this chair.\n(2) 나는 그녀의 목소리를 쉽게 알아볼 수 있다.\n→ I can ______ her voice easily.\n(3) 나는 오늘 결정을 내려야 한다.\n→ I need to make a ______ today.\n세 칸을 쉼표로 구분하여 차례대로 쓰시오.",
+      "seconds": 70,
+      "accept": [
+        "comfortable, recognize, decision"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. Have you heard에는 Yes, I have / No, I haven't. (답지 p.46 고득점 04)",
+      "type": "mc",
+      "promptEn": "04 다음 중 짝지어진 대화가 어색한 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "A: Have you heard about self-driving cars? B: Yes, I have. They can stop by themselves if there is something in the way.",
+        "A: Are you familiar with AI technology? B: I'm familiar with it. It can recognize faces and recommend videos.",
+        "A: Have you heard of this new app? B: No, I haven't. What is it about?",
+        "A: Have you heard that AI can now write poems and stories? B: Yes, I do. I think it is very interesting.",
+        "A: Do you know what a smart refrigerator is? B: I know about that. It can scan the things inside and show you recipes."
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. Have you heard about them?에 대한 대답. (답지 p.46 고득점 05)",
+      "type": "mc",
+      "promptEn": "M: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item. (①)\nW: (②) Sure. I made smart glasses. Have you heard about them? (③)\nM: (④) What is special about these glasses?\nW: (⑤) They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: <u>ⓐ Exactly</u>. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n05 위 대화의 ①~⑤ 중 주어진 문장이 들어가기에 가장 적절한 곳은?\nYes, I have, but I don't know much about them.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ You're absolutely right. Exactly는 강한 동의. (답지 p.46 고득점 06)",
+      "type": "mc",
+      "promptEn": "M: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item. (①)\nW: (②) Sure. I made smart glasses. Have you heard about them? (③)\nM: (④) What is special about these glasses?\nW: (⑤) They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: <u>ⓐ Exactly</u>. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n06 위 대화의 밑줄 친 ⓐ 대신에 쓸 수 있는 표현으로 가장 적절한 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "I don't know.",
+        "I don't think so.",
+        "You're absolutely right.",
+        "I'm not sure about that.",
+        "That might not be true."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 안경 가격은 대화에 없다. (답지 p.46 고득점 07)",
+      "type": "mc",
+      "promptEn": "M: Hi, everyone! Today's special guest is Emma Brown. She has made a lot of amazing items.\nW: Hi! Thanks for having me today.\nM: Thank you for coming. Please tell us about your new item. (①)\nW: (②) Sure. I made smart glasses. Have you heard about them? (③)\nM: (④) What is special about these glasses?\nW: (⑤) They can show digital information, such as maps, in front of your eyes.\nM: Wow! Then I don't need to use my smartphone for directions anymore.\nW: <u>ⓐ Exactly</u>. Also, they can recognize your voice and send texts.\nM: I'm surprised that glasses can do all that! Can I take a look?\nW: Of course. Let me show you.\n\n07 According to the dialog, which one CANNOT be answered?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "What is the new item?",
+        "What can the glasses do?",
+        "Can the glasses show maps?",
+        "How much do the glasses cost?",
+        "Can the glasses recognize your voice?"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: check your health, special sensors. (답지 p.46 고득점 08)",
+      "type": "fill",
+      "promptEn": "G: Look at this chair! It looks comfortable.\nB: It's a smart chair. Have you heard about smart chairs?\nG: No, I haven't. What are they?\nB: They are chairs with special sensors. They can check your health while you are sitting.\nG: I'm surprised that a chair can do so many things.\n\n08 다음 대화를 읽고, 요약문의 빈칸을 완성하시오. (대화문의 표현을 이용할 것)\nSmart chairs can ______ because they have ______.\n두 칸을 쉼표로 구분하여 차례대로 쓰시오.",
+      "seconds": 70,
+      "accept": [
+        "check your health, special sensors"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 모두 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ②, ③. I seen → have seen, for make → for making. (답지 p.46 고득점 09)",
+      "type": "mc",
+      "promptEn": "09 다음 대화를 읽고 어법상 틀린 문장을 모두 고르면?\nG: Have you heard about 3D printers?\nB: Yes, I have. Actually, I seen smaller ones before, but this one is very big.\nG: Yeah. It's because this is used for make buildings.\nB: I see. I'm surprised that a 3D printer can build buildings.\nG: Me too. Let's take a closer look at it.",
+      "seconds": 45,
+      "select": "multi",
+      "choices": [
+        "G: Have you heard about 3D printers?",
+        "B: Yes, I have. Actually, I seen smaller ones before, but this one is very big.",
+        "G: Yeah. It's because this is used for make buildings.",
+        "B: I see. I'm surprised that a 3D printer can build buildings.",
+        "G: Me too. Let's take a closer look at it."
+      ],
+      "correctIndexes": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. when to ate가 아니라 when to eat이다. (답지 p.46 고득점 10)",
+      "type": "mc",
+      "promptEn": "10 다음 중 밑줄 친 부분을 어법상 바르게 고치지 않은 것은?\n① She asked me where to parked his bike yesterday. (where to park his bike)\n② He didn't know how fix it by himself. (how to fix it)\n③ He knows where should he go today. (where he should go)\n④ I asked her when ate dinner. (when to ate dinner)\n⑤ She asked me what do to for me. (what to do for me)",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "She asked me where to parked his bike yesterday. (where to park his bike)",
+        "He didn't know how fix it by himself. (how to fix it)",
+        "He knows where should he go today. (where he should go)",
+        "I asked her when ate dinner. (when to ate dinner)",
+        "She asked me what do to for me. (what to do for me)"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. that절에 주어 we가 없다. (답지 p.46 고득점 11)",
+      "type": "mc",
+      "promptEn": "11 다음 우리말을 영어로 옮길 때 어법상 어색한 것은?\n① 우리는 성공했을 때 행복해하는 것이 당연하다. It is natural for us to feel happy in success.\n② 그녀가 낯선 사람들을 돕는 것은 친절한 일이다. It is kind of her to help strangers.\n③ 우리가 일찍 도착한 것은 중요했다. It was important that arrived early.\n④ 나는 어떤 버튼을 눌러야 하는지 잊어버렸다. I forgot which button to press.\n⑤ 나는 파티에 누구를 초대해야 할지 모르겠다. I don't know whom to invite to the party.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "It is natural for us to feel happy in success.",
+        "It is kind of her to help strangers.",
+        "It was important that arrived early.",
+        "I forgot which button to press.",
+        "I don't know whom to invite to the party."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① ⓐ, ⓓ. finish → to finish, of them → for them. (답지 p.46 고득점 12)",
+      "type": "mc",
+      "promptEn": "12 다음 중 어법상 틀린 것끼리 바르게 짝지어진 것은?\nⓐ It is necessary for him finish his homework before dinner.\nⓑ It is wise of you to learn from mistakes.\nⓒ It is a good idea to tell the truth.\nⓓ It is impossible of them to lift that box.\nⓔ It is amazing that AI can recognize your face.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "ⓐ, ⓓ",
+        "ⓑ, ⓒ",
+        "ⓑ, ⓓ",
+        "ⓒ, ⓓ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It is dangerous for you to cross the road here. (답지 p.46 고득점 13)",
+      "type": "sentence",
+      "promptEn": "13 [조건]에 맞게 우리말을 바르게 영작하시오.\n[조건] 1. dangerous, cross, the road를 사용할 것. 2. 가주어 it을 사용하여 총 10단어로 쓸 것.\n네가 여기서 길을 건너는 것은 위험하다.",
+      "seconds": 100,
+      "accept": [
+        "It is dangerous for you to cross the road here."
+      ]
+    },
+    {
+      "id": "14",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 모두 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ②, ③, ⑤. 언어 이해, 경험 학습, 사람처럼 결정. (답지 p.46 고득점 15)",
+      "type": "mc",
+      "promptEn": "User: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions that you have. How can I help you?\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy to answer your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a kind of computer system. AI can understand language, learn from experiences, and make decisions like humans.\n\n15 Choose ALL things AI can do according to the passage.",
+      "seconds": 45,
+      "select": "multi",
+      "choices": [
+        "make songs",
+        "know what words mean",
+        "get knowledge from experiences",
+        "make foods for humans",
+        "decide things as humans do"
+      ],
+      "correctIndexes": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "15",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. Over time은 '시간이 지나면서'이다. (답지 p.46 고득점 16)",
+      "type": "mc",
+      "promptEn": "User: It is hard to understand your <u>ⓐ explanation</u>. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how to sit and stay. (③) Your dog will learn from information and experiences. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used in <u>ⓑ everyday life</u>?\nANNIE: AI is used in many situations. <u>(a) For example</u>, AI technology can <u>ⓒ recommend</u> new videos that you may like.\n(A) AI can also recognize your face to <u>ⓓ unlock</u> your smartphone.\n(B) It studies which videos you have already watched.\n(C) Then it decides what to recommend.\nIt learns what your face looks like. <u>ⓔ Over time</u>, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n16 윗글의 밑줄 친 ⓐ~ⓔ의 의미가 적절하지 않은 것은?\n① ⓐ: 설명\n② ⓑ: 일상생활\n③ ⓒ: 추천하다\n④ ⓓ: 잠금을 해제하다\n⑤ ⓔ: 시간 초과로",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "ⓐ: 설명",
+        "ⓑ: 일상생활",
+        "ⓒ: 추천하다",
+        "ⓓ: 잠금을 해제하다",
+        "ⓔ: 시간 초과로"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "16",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 반려견 학습 다음에 AI와 비교하는 자리. (답지 p.46 고득점 17)",
+      "type": "mc",
+      "promptEn": "User: It is hard to understand your <u>ⓐ explanation</u>. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how to sit and stay. (③) Your dog will learn from information and experiences. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used in <u>ⓑ everyday life</u>?\nANNIE: AI is used in many situations. <u>(a) For example</u>, AI technology can <u>ⓒ recommend</u> new videos that you may like.\n(A) AI can also recognize your face to <u>ⓓ unlock</u> your smartphone.\n(B) It studies which videos you have already watched.\n(C) Then it decides what to recommend.\nIt learns what your face looks like. <u>ⓔ Over time</u>, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n17 위 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nAI is similar.",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "17",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ For instance. For example과 같다. (답지 p.46 고득점 18)",
+      "type": "mc",
+      "promptEn": "User: It is hard to understand your <u>ⓐ explanation</u>. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how to sit and stay. (③) Your dog will learn from information and experiences. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used in <u>ⓑ everyday life</u>?\nANNIE: AI is used in many situations. <u>(a) For example</u>, AI technology can <u>ⓒ recommend</u> new videos that you may like.\n(A) AI can also recognize your face to <u>ⓓ unlock</u> your smartphone.\n(B) It studies which videos you have already watched.\n(C) Then it decides what to recommend.\nIt learns what your face looks like. <u>ⓔ Over time</u>, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n18 윗글의 밑줄 친 (a) 대신에 들어갈 말로 가장 적절한 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "But",
+        "Also",
+        "However",
+        "In contrast",
+        "For instance"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "18",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ (B)-(C)-(A). 시청 기록, 추천 결정, 그다음 얼굴 인식. (답지 p.46 고득점 19)",
+      "type": "mc",
+      "promptEn": "User: It is hard to understand your <u>ⓐ explanation</u>. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how to sit and stay. (③) Your dog will learn from information and experiences. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used in <u>ⓑ everyday life</u>?\nANNIE: AI is used in many situations. <u>(a) For example</u>, AI technology can <u>ⓒ recommend</u> new videos that you may like.\n(A) AI can also recognize your face to <u>ⓓ unlock</u> your smartphone.\n(B) It studies which videos you have already watched.\n(C) Then it decides what to recommend.\nIt learns what your face looks like. <u>ⓔ Over time</u>, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n19 윗글의 (A)-(C)를 순서대로 바르게 배열한 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "19",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 비용은 글에 없다. (답지 p.46 고득점 20)",
+      "type": "mc",
+      "promptEn": "User: It is hard to understand your <u>ⓐ explanation</u>. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how to sit and stay. (③) Your dog will learn from information and experiences. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used in <u>ⓑ everyday life</u>?\nANNIE: AI is used in many situations. <u>(a) For example</u>, AI technology can <u>ⓒ recommend</u> new videos that you may like.\n(A) AI can also recognize your face to <u>ⓓ unlock</u> your smartphone.\n(B) It studies which videos you have already watched.\n(C) Then it decides what to recommend.\nIt learns what your face looks like. <u>ⓔ Over time</u>, it gets better at recognizing you, even if you change your hair or wear a mask.\n\n20 윗글을 읽고 알 수 없는 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "AI learns from information and experiences like a pet dog.",
+        "AI does not need snacks.",
+        "AI technology costs a lot of money in everyday life.",
+        "AI can recognize faces to unlock smartphones.",
+        "AI gets better at recognizing people over time."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "20",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ Unless. '도움이 필요하면'은 If이다. (답지 p.46 고득점 21)",
+      "type": "mc",
+      "promptEn": "User: Here is my last question: What should I be careful about ① ______ I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always (A)(correct / incorrect), so you should always carefully check the information ② ______ it provides.\n2. Originality: ③ ______ the information is correct, do not ⓐ ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not (B)(dangerous / safe) to share your personal information with AI.\n④ ______ you are careful about these things, you can use AI safely and (C)(wisely / foolishly).\nUser: Got it, thanks!\nANNIE: You're welcome! ⑤ ______ you need help in the future, feel free to ask. Have a great day!\n\n21 윗글의 빈칸 ①~⑤에 들어갈 말이 아닌 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "when",
+        "that",
+        "Even if",
+        "If",
+        "Unless"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "21",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ correct / safe / wisely. not always correct, not safe, safely and wisely. (답지 p.46 고득점 22)",
+      "type": "mc",
+      "promptEn": "User: Here is my last question: What should I be careful about ① ______ I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always (A)(correct / incorrect), so you should always carefully check the information ② ______ it provides.\n2. Originality: ③ ______ the information is correct, do not ⓐ ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not (B)(dangerous / safe) to share your personal information with AI.\n④ ______ you are careful about these things, you can use AI safely and (C)(wisely / foolishly).\nUser: Got it, thanks!\nANNIE: You're welcome! ⑤ ______ you need help in the future, feel free to ask. Have a great day!\n\n22 윗글의 괄호 (A)-(C)의 각 괄호 안에서 문맥상 적절한 것을 골라 바르게 짝지은 것은?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "correct / safe / foolishly",
+        "correct / dangerous / foolishly",
+        "correct / safe / wisely",
+        "incorrect / dangerous / wisely",
+        "incorrect / safe / foolishly"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "22",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 정확성, 독창성, 개인 정보를 고려하여 써야 한다. (답지 p.46 고득점 23)",
+      "type": "mc",
+      "promptEn": "User: Here is my last question: What should I be careful about ① ______ I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always (A)(correct / incorrect), so you should always carefully check the information ② ______ it provides.\n2. Originality: ③ ______ the information is correct, do not ⓐ ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not (B)(dangerous / safe) to share your personal information with AI.\n④ ______ you are careful about these things, you can use AI safely and (C)(wisely / foolishly).\nUser: Got it, thanks!\nANNIE: You're welcome! ⑤ ______ you need help in the future, feel free to ask. Have a great day!\n\n23 What is the main idea of the passage?",
+      "seconds": 45,
+      "select": "one",
+      "choices": [
+        "AI는 우리의 생활을 편리하게 만든다.",
+        "AI 정보를 빠르게 활용하는 것이 중요하다.",
+        "AI 정보를 올바르고 책임감 있게 사용해야 한다.",
+        "AI는 사용자의 정보를 바탕으로 더 정확한 결과를 제공한다.",
+        "AI는 데이터를 통해 학습하면서 점점 더 정확한 정보를 제공한다."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "23",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: privacy. (답지 p.46 고득점 24)",
+      "type": "fill",
+      "promptEn": "User: Here is my last question: What should I be careful about ① ______ I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always (A)(correct / incorrect), so you should always carefully check the information ② ______ it provides.\n2. Originality: ③ ______ the information is correct, do not ⓐ ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not (B)(dangerous / safe) to share your personal information with AI.\n④ ______ you are careful about these things, you can use AI safely and (C)(wisely / foolishly).\nUser: Got it, thanks!\nANNIE: You're welcome! ⑤ ______ you need help in the future, feel free to ask. Have a great day!\n\n24 다음 영영풀이에 해당하는 단어를 윗글에서 찾아 쓰시오.\nthe state of being free from other people's attention or control",
+      "seconds": 70,
+      "accept": [
+        "privacy"
+      ],
+      "phraseBlank": false
+    },
+    {
+      "id": "24",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It is not good to blindly copy information from the Internet. (답지 p.46 고득점 25)",
+      "type": "sentence",
+      "promptEn": "User: Here is my last question: What should I be careful about ① ______ I use AI?\nANNIE: You should keep the following things in mind:\n1. Accuracy: AI is not always (A)(correct / incorrect), so you should always carefully check the information ② ______ it provides.\n2. Originality: ③ ______ the information is correct, do not ⓐ ______ copy it. Make sure you understand it, and then write it in your own words.\n3. Privacy: It is not (B)(dangerous / safe) to share your personal information with AI.\n④ ______ you are careful about these things, you can use AI safely and (C)(wisely / foolishly).\nUser: Got it, thanks!\nANNIE: You're welcome! ⑤ ______ you need help in the future, feel free to ask. Have a great day!\n\n25 윗글의 빈칸 ⓐ에 들어갈 표현을 활용하여 아래 문장을 영작하시오.\n[조건] 1. it, good, to, from the Internet을 사용할 것. 2. blindly는 윗글의 빈칸 ⓐ에 들어갈 말이다. 3. 총 11단어로 쓸 것.\n인터넷에서 정보를 맹목적으로 베끼는 것은 좋지 않다.",
+      "seconds": 100,
+      "accept": [
+        "It is not good to blindly copy information from the Internet."
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "Lesson 08 고득점 모의고사. 고르기는 누르고, 빈칸과 영작은 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고득점",
+      "directionKo": "모의고사 문제를 푸시오.",
+      "ruleKo": "고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "itemCount": 24
+    }
+  ]
+}
