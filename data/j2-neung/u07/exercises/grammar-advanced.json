@@ -1,0 +1,348 @@
+{
+  "id": "grammar-advanced",
+  "title": "Grammar 심화 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.148-149",
+  "questionCount": 13,
+  "omitted": [
+    {
+      "page": "p.149",
+      "item": "13",
+      "reason": "그림이 OCR에 없어 빈칸이 가리키는 장면을 카드에 넣을 수 없음. 답지 문장 had the children be quiet는 읽힘"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "01",
+      "sourceId": "01",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ① not, ⑤ twice. not as exciting as, twice as exciting as가 된다. (답지 p.29 Grammar 심화 01)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "다음 빈칸에 들어갈 말로 적절한 것을 모두 고르시오.\nThe second half of the movie was ______ as exciting as the first half.",
+      "choices": [
+        "not",
+        "very",
+        "less",
+        "more",
+        "twice"
+      ],
+      "correctIndexes": [
+        1,
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "02",
+      "sourceId": "02",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ sends → send. have의 목적격 보어는 동사원형이다. (답지 p.29 Grammar 심화 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 어법상 틀린 것은?\n① She let her son stay up late.\n② He made his dogs sit on the floor.\n③ Mr. Wilson had me clean up his office.\n④ They had their assistant sends the email.\n⑤ The teacher didn't let the students leave early.",
+      "choices": [
+        "She let her son stay up late.",
+        "He made his dogs sit on the floor.",
+        "Mr. Wilson had me clean up his office.",
+        "They had their assistant sends the email.",
+        "The teacher didn't let the students leave early."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "03",
+      "sourceId": "03",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: cheaper than. not as expensive as는 cheaper than으로 바꿀 수 있다. (답지 p.29 Grammar 심화 03)",
+      "type": "fill",
+      "promptEn": "다음 두 문장의 의미가 같도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\nThis secondhand laptop is not as expensive as a new one.\nThis secondhand laptop is ______ a new one. (cheap)",
+      "accept": [
+        "cheaper than"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "4",
+      "label": "04",
+      "sourceId": "04",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ to use. get만 to부정사를 쓰고, have/let/make는 동사원형을 쓴다. (답지 p.29 Grammar 심화 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 빈칸에 들어갈 단어의 형태가 나머지와 다른 것은?\n① Ms. Lee had me ______ the report. (review)\n② She let the kids ______ on the wall. (paint)\n③ The song made her ______ that day. (remember)\n④ He got us ______ the empty classroom. (use)\n⑤ A simple mistake made him ______ confidence. (lose)",
+"choices": [
+      "Ms. Lee had me ______ the report. (review)",
+      "She let the kids ______ on the wall. (paint)",
+      "The song made her ______ that day. (remember)",
+      "He got us ______ the empty classroom. (use)",
+      "A simple mistake made him ______ confidence. (lose)"
+    ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "05",
+      "sourceId": "05",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: three times as much as. 배수 비교는 배수사 + as + 원급 + as로 쓸 수 있다. (답지 p.29 Grammar 심화 05)",
+      "type": "fill",
+      "promptEn": "다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 말을 쓰시오.\nHe eats three times more than I do.\nHe eats ______ I do.",
+      "accept": [
+        "three times as much as"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "6",
+      "label": "06",
+      "sourceId": "06",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ③, ⑤. 보기와 같이 make + 목적어 + 동사원형(5형식)이다. ①②④는 make + 간접목적어 + 직접목적어(4형식)이다. (답지 p.29 Grammar 심화 06)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "다음 중 <보기>와 문장 구조가 같은 것을 모두 고르시오.\n<보기> My mom made me wash the dishes after dinner.\n① She made her son apple juice.\n② My uncle made them pizza and pasta.\n③ He made me do my homework before lunch.\n④ I made Jake a teddy bear for his birthday.\n⑤ The coach made the players go to bed early the night before the game.",
+      "choices": [
+        "She made her son apple juice.",
+        "My uncle made them pizza and pasta.",
+        "He made me do my homework before lunch.",
+        "I made Jake a teddy bear for his birthday.",
+        "The coach made the players go to bed early the night before the game."
+      ],
+      "correctIndexes": [
+        3,
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
+      "label": "07",
+      "sourceId": "07",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. sings를 수식하므로 beautiful이 아니라 부사 beautifully가 맞다. (답지 p.29 Grammar 심화 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 부분을 어법상 바르게 고치지 않은 것은?\n① He runs as <u>fast than</u> his friends. (→ as)\n② David can dance as <u>good</u> as Lucas. (→ well)\n③ The soup is as <u>spicier</u> as I expected. (→ spicy)\n④ The class was as <u>more boring</u> as I thought. (→ boring)\n⑤ She sings as <u>more beautifully</u> as her mother. (→ beautiful)",
+      "choices": [
+        "He runs as fast than his friends. (→ as)",
+        "David can dance as good as Lucas. (→ well)",
+        "The soup is as spicier as I expected. (→ spicy)",
+        "The class was as more boring as I thought. (→ boring)",
+        "She sings as more beautifully as her mother. (→ beautiful)"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "8",
+      "label": "08",
+      "sourceId": "08",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① let / fix / practice. 허락은 let이고, have와 make의 목적격 보어는 동사원형이다. (답지 p.29 Grammar 심화 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ-ⓒ에 들어갈 말이 바르게 짝지어진 것은?\nThey ⓐ ______ us take pictures inside the museum.\nShe had him ⓑ ______ the broken chair.\nHe made his daughter ⓒ ______ the piano every day.",
+      "choices": [
+        "let / fix / practice",
+        "let / fix / practiced",
+        "made / fixed / practicing",
+        "made / fixed / to practice",
+        "got / to fix / practice"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9-1",
+      "label": "09(1)",
+      "sourceId": "09",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: He had his team review the plan again. have의 목적격 보어는 동사원형이다. (답지 p.29 Grammar 심화 09(1))",
+      "type": "sentence",
+      "promptEn": "다음 중 어법상 틀린 문장 두 개를 찾아 고치시오.\nⓐ It made me change my mind.\nⓑ He had his team reviewed the plan again.\nⓒ The library is not as noise as the cafeteria.\nⓓ This smartphone is twice as expensive as my old one.\n\n(1) ⓑ를 바르게 고친 문장을 쓰시오.",
+      "accept": [
+        "He had his team review the plan again."
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "9-2",
+      "label": "09(2)",
+      "sourceId": "09",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The library is not as noisy as the cafeteria. as와 as 사이에는 형용사 noisy가 온다. (답지 p.29 Grammar 심화 09(2))",
+      "type": "sentence",
+      "promptEn": "다음 중 어법상 틀린 문장 두 개를 찾아 고치시오.\nⓐ It made me change my mind.\nⓑ He had his team reviewed the plan again.\nⓒ The library is not as noise as the cafeteria.\nⓓ This smartphone is twice as expensive as my old one.\n\n(2) ⓒ를 바르게 고친 문장을 쓰시오.",
+      "accept": [
+        "The library is not as noisy as the cafeteria.",
+        "The library is not so noisy as the cafeteria."
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ ⓑ, ⓓ, ⓔ. ⓐ starting → start, ⓒ bright → brightly. (답지 p.29 Grammar 심화 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\nⓐ Let us starting the meeting.\nⓑ He always makes me feel special.\nⓒ The little boy smiled as bright as the sun.\nⓓ He explained the problem as clearly as the teacher.\nⓔ This classroom is not as warm as the one next door.",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓐ, ⓒ, ⓔ",
+        "ⓑ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": "11",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: as clear as. (답지 p.29 Grammar 심화 11)",
+      "type": "fill",
+      "promptEn": "다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오.\n호수의 물은 거울만큼 깨끗했다. (clear)\nThe water in the lake is ______ a mirror.",
+      "accept": [
+        "as clear as"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": "12",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 앞 문장은 돈이 건강만큼 중요하지 않다는 뜻이고, 뒤 문장은 돈이 더 중요하다는 뜻이다. (답지 p.29 Grammar 심화 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 두 문장의 의미가 같지 않은 것은?\n① Mike doesn't eat as fast as John.\n= John eats faster than Mike.\n② Money isn't as important as health.\n= Money is more important than health.\n③ This building is taller than that building.\n= That building isn't so tall as this building.\n④ The loud noise made the baby wake up.\n= The baby woke up because of the loud noise.\n⑤ This blue box is 8 kg. The red box is 2 kg.\n= This blue box is four times as heavy as the red one.",
+      "choices": [
+        "Mike doesn't eat as fast as John. = John eats faster than Mike.",
+        "Money isn't as important as health. = Money is more important than health.",
+        "This building is taller than that building. = That building isn't so tall as this building.",
+        "The loud noise made the baby wake up. = The baby woke up because of the loud noise.",
+        "This blue box is 8 kg. The red box is 2 kg. = This blue box is four times as heavy as the red one."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. pp.148-149. 01번과 06번은 모두 고르기이다. 13번은 그림이 없어 빼 두었다. 고르기는 누르고, 빈칸은 그 칸만 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오.",
+      "ruleKo": "모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르거나, 빈칸·문장을 쓰시오. 모두 고르기는 해당하는 것을 모두 누르세요. 빈칸은 그 칸만, 고친 문장은 전체를 쓰세요.",
+      "itemCount": 13
+    }
+  ]
+}
