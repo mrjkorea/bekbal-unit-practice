@@ -1,0 +1,706 @@
+{
+  "id": "mock-high",
+  "title": "고득점 모의고사",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.176-179",
+  "questionCount": 26,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. careful : carefully는 형용사-부사이고 choose : choice는 동사-명사라 관계가 다르다. (답지 p.35 고득점 모의고사 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 다음 중 A:B와 C:D의 관계가 서로 일치하지 않는 것은?",
+      "choices": [
+        "spend : save = difficult : easy",
+        "allow : permit = gift : present",
+        "expensive : cheap = lock : key",
+        "decide : decision = rent : rental",
+        "careful : carefully = choose : choice"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ gave a discount. ① from→to, ② kind→kinds, ③ pay→paying, ④ lend→borrow. (답지 p.35 고득점 모의고사 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 중 밑줄 친 부분의 쓰임이 적절한 것은?",
+      "choices": [
+        "He <u>returned the book from</u> his friend.",
+        "They sell <u>all kind</u> of clothes and accessories.",
+        "They left the store <u>without pay</u> for the items.",
+        "She decided to <u>lend</u> the old books <u>from</u> the museum.",
+        "The staff <u>gave a discount</u> because the item had a scratch on it."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② condition. ①③④⑤의 색칠된 철자는 e이고, ②의 색칠된 철자는 i이다. (답지 p.35 고득점 모의고사 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 주어진 영영풀이에 해당하는 단어 중 색칠한 부분의 철자가 다른 하나는?\n① exp<u>e</u>nsive — adj. costing a lot of money\n② cond<u>i</u>tion — n. the state of something\n③ m<u>e</u>tal — n. a hard, shiny material like iron or gold\n④ wall<u>e</u>t — n. a small case for holding money and cards\n⑤ cl<u>e</u>rk — n. a person who serves customers in a store",
+      "choices": [
+        "expensive",
+        "condition",
+        "metal",
+        "wallet",
+        "clerk"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 유리컵 가격을 물었으므로 a glass one to a plastic one이 되어야 한다. (답지 p.35 고득점 모의고사 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[04-06]\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family ① <u>doesn't use them anymore</u>.\nB: I see. Actually, I need a cup. ② <u>Can you recommend a good one?</u>\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: ③ <u>I prefer a plastic one to a glass one.</u> How much is the glass one?\nG: It's three dollars, but ④ <u>I can give you a discount</u>. How about two dollars?\nB: That's a good price. ⑤ <u>Here's the money.</u>\n\n04 위 대화의 밑줄 친 ①~⑤ 중 흐름상 적절하지 않은 것은?",
+      "choices": [
+        "① doesn't use them anymore",
+        "② Can you recommend a good one?",
+        "③ I prefer a plastic one to a glass one.",
+        "④ I can give you a discount.",
+        "⑤ Here's the money."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②, ③. 물건의 총 개수와 쓰지 않는 이유는 언급되지 않았다. (답지 p.35 고득점 모의고사 05)",
+      "type": "mc",
+      "select": "multi",
+      "promptEn": "[04-06]\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family ① <u>doesn't use them anymore</u>.\nB: I see. Actually, I need a cup. ② <u>Can you recommend a good one?</u>\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: ③ <u>I prefer a plastic one to a glass one.</u> How much is the glass one?\nG: It's three dollars, but ④ <u>I can give you a discount</u>. How about two dollars?\nB: That's a good price. ⑤ <u>Here's the money.</u>\n\n05 위 대화를 읽고 알 수 없는 것을 모두 고르면?",
+      "choices": [
+        "Ginny가 판매할 물건을 가져온 장소",
+        "Ginny가 오늘 팔려고 계획한 물건의 총 개수",
+        "Ginny의 가족이 컵을 더 이상 쓰지 않는 이유",
+        "소년이 선호하는 컵의 재질",
+        "소년이 사려는 컵의 원래 가격과 할인된 가격"
+      ],
+      "correctIndexes": [
+        2,
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: She gave him a one-dollar discount. 3달러에서 2달러로 1달러 할인. (답지 p.35 고득점 모의고사 06)",
+      "type": "sentence",
+      "promptEn": "[04-06]\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family ① <u>doesn't use them anymore</u>.\nB: I see. Actually, I need a cup. ② <u>Can you recommend a good one?</u>\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: ③ <u>I prefer a plastic one to a glass one.</u> How much is the glass one?\nG: It's three dollars, but ④ <u>I can give you a discount</u>. How about two dollars?\nB: That's a good price. ⑤ <u>Here's the money.</u>\n\n06 위 대화를 읽고, 질문에 대한 답을 조건에 맞게 쓰시오.\n1. 구체적인 금액을 쓸 것.\n2. 총 6단어로 쓸 것.\nQ. How much discount did Ginny give to the boy?",
+      "accept": [
+        "She gave him a one-dollar discount.",
+        "She gave him a one-dollar discount"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② with / or / to. the ones with the red hearts, short or long, prefer A to B. (답지 p.35 고득점 모의고사 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[07-08]\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: Which ones do you like?\nG: I like the ones ⓐ ______ the red hearts, but there are two types.\nB: Which do you prefer, the short ones ⓑ ______ the long ones?\nG: Um... I prefer the long ones ⓒ ______ the short ones. So, I'll take this pair.\n\n07 위 대화의 빈칸 ⓐ~ⓒ에 들어갈 적절한 것끼리 바르게 짝지어진 것은?",
+      "choices": [
+        "on / or / than",
+        "with / or / to",
+        "with / and / to",
+        "for / and / than",
+        "for / but / than"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 지수가 고른 양말의 가격은 알 수 없다. (답지 p.35 고득점 모의고사 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[07-08]\nB: Jisu, what are you doing?\nG: I'm looking at socks. I want to buy a pair.\nB: Which ones do you like?\nG: I like the ones ⓐ ______ the red hearts, but there are two types.\nB: Which do you prefer, the short ones ⓑ ______ the long ones?\nG: Um... I prefer the long ones ⓒ ______ the short ones. So, I'll take this pair.\n\n08 위 대화를 읽고 대답할 수 없는 질문은?",
+      "choices": [
+        "What is Jisu doing now?",
+        "What kind of pattern does Jisu like on the socks?",
+        "Does Jisu prefer the short socks?",
+        "Which pair of socks will Jisu finally buy?",
+        "How much is the pair of socks Jisu chose?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ slowly - boring. as + 부사/형용사의 원급 + as. (답지 p.35 고득점 모의고사 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "09 다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?\n• Please drive as ______ as possible.\n• The musical is not as ______ as I expected.",
+      "choices": [
+        "slow - boring",
+        "slower - boring",
+        "slowly - boring",
+        "more slowly - boring",
+        "more slowly - more boring"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② 2개. apologizes → apologize, using → (to) use. (답지 p.35 고득점 모의고사 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 다음 중 어법상 틀린 문장의 개수로 적절한 것은?\n• The music makes me feel relaxed.\n• My teacher had us write a short essay.\n• He made his son apologizes to the teacher.\n• She let her daughter choose her own clothes.\n• They helped the guests using the swimming pool.",
+      "choices": [
+        "1개",
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ than. 비교급 + 명사 앞에는 than, 나머지 빈칸은 as. (답지 p.35 고득점 모의고사 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
+      "choices": [
+        "Her roommate never wakes up as early ______ her.",
+        "The air in our town is not ______ clean as in the city.",
+        "The other book is not as popular ______ this one.",
+        "The second lesson was not so interesting ______ the first.",
+        "That store gets three times more customers ______ ours."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. She is less active than her sister는 언니가 더 활동적이라는 뜻이라 뒤 문장과 반대이다. (답지 p.35 고득점 모의고사 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 다음 중 두 문장의 의미가 다른 것은?",
+      "choices": [
+        "His grade is better than mine. = My grade is not as good as his.",
+        "She is less active than her sister. = Her sister is not as active as she is.",
+        "His cousin is not as talkative as he is. = He is more talkative than his cousin.",
+        "I am not as good at drawing as Alex. = Alex is better at drawing than I am.",
+        "The second floor is quieter than the first floor. = The first floor is not as quiet as the second floor."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: Sally eats lunch as quickly as James. (답지 p.35 고득점 모의고사 13)",
+      "type": "sentence",
+      "promptEn": "13 다음 두 문장을 괄호 안의 단어와 as ~ as 구문을 이용하여 한 문장으로 바꿔 쓰시오.\n• Sally takes 5 minutes to eat lunch.\n• James also eats lunch in 5 minutes. (quickly)\n→ Sally ______.",
+      "accept": [
+        "Sally eats lunch as quickly as James.",
+        "eats lunch as quickly as James"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 자신의 보드게임을 빌려주겠다고 제안하는 글이다. (답지 p.35 고득점 모의고사 14)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-15]\nSharing My Board Game with You!\nI'd like to share my board game with you because I don't play it very often. I bought it about two years ago, but it is in good condition. I think anyone can play it because it's not as difficult as other games.\nLet me know if you'd like to borrow my board game. I would be happy to share it with you.\n\n14 윗글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "보드게임 대여 후기를 공유하기 위해",
+        "특정 보드게임 구매를 추천하기 위해",
+        "보드게임의 규칙을 자세히 설명하기 위해",
+        "보드게임을 함께 살 사람을 모집하기 위해",
+        "자신의 보드게임을 빌려주겠다고 제안하기 위해"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 글쓴이는 보드게임을 약 2년 전에 샀다. (답지 p.35 고득점 모의고사 15)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-15]\nSharing My Board Game with You!\nI'd like to share my board game with you because I don't play it very often. I bought it about two years ago, but it is in good condition. I think anyone can play it because it's not as difficult as other games.\nLet me know if you'd like to borrow my board game. I would be happy to share it with you.\n\n15 According to the passage, which one is NOT true?",
+      "choices": [
+        "The writer wants to share the board game with others.",
+        "The board game is not as difficult as other games.",
+        "The board game is currently in good condition.",
+        "The writer bought the board game less than a year ago.",
+        "Anyone who wants to borrow the game can let the writer know."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. 'Someone was giving it away' 바로 앞이 자연스럽다. (답지 p.35 고득점 모의고사 16)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-21]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? (1) Sharing saves resources and money, and it is good for the environment. (2)\nⓐ ______ about my experience with the sharing economy.\n\nLast week, I used an app ⓑ ______ a backpack. The app allows users to easily buy and sell (A) secondhand items. Sometimes, people also give away items that they don't ⓒ ______. (3) Someone was giving it away. It looked as good ⓓ ______. So, I sent a message to the person ⓔ ______. (4)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it? (5)\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n16 윗글의 (1)~(5) 중 다음 문장이 들어가기에 가장 적절한 곳은?\nI saw a post about a nice backpack.",
+      "choices": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ than a new one. as good as a new one이 되어야 하므로 than → as. (답지 p.35 고득점 모의고사 17)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-21]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? (1) Sharing saves resources and money, and it is good for the environment. (2)\nⓐ ______ about my experience with the sharing economy.\n\nLast week, I used an app ⓑ ______ a backpack. The app allows users to easily buy and sell (A) secondhand items. Sometimes, people also give away items that they don't ⓒ ______. (3) Someone was giving it away. It looked as good ⓓ ______. So, I sent a message to the person ⓔ ______. (4)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it? (5)\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n17 윗글의 빈칸 ⓐ~ⓔ에 들어갈 말이 적절하지 않은 것은?",
+      "choices": [
+        "Let me tell you",
+        "to get",
+        "need anymore",
+        "than a new one",
+        "who posted it"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: used. secondhand의 유의어. (답지 p.35 고득점 모의고사 18)",
+      "type": "fill",
+      "promptEn": "[16-21]\nThe app allows users to easily buy and sell (A) secondhand items.\n\n18 윗글의 밑줄 친 (A)의 유의어를 쓰시오.",
+      "accept": [
+        "used"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ Jimin's Experience with the Sharing Economy. (답지 p.35 고득점 모의고사 19)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-21]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? (1) Sharing saves resources and money, and it is good for the environment. (2)\nLet me tell you about my experience with the sharing economy.\n\nLast week, I used an app to get a backpack. The app allows users to easily buy and sell (A) secondhand items. Sometimes, people also give away items that they don't need anymore. (3) Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it. (4)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it? (5)\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n19 What is the best title of the passage?",
+      "choices": [
+        "Why Jimin Decided to Buy a New Backpack",
+        "A Guide to Buying Brand New Items Online",
+        "Jimin's Experience with the Sharing Economy",
+        "How to Protect the Environment by Recycling",
+        "Tips for Using Apps to Send Secondhand Items"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 지민이 사용한 앱을 누가 만들었는지는 알 수 없다. (답지 p.35 고득점 모의고사 20)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[16-21]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? (1) Sharing saves resources and money, and it is good for the environment. (2)\nLet me tell you about my experience with the sharing economy.\n\nLast week, I used an app to get a backpack. The app allows users to easily buy and sell (A) secondhand items. Sometimes, people also give away items that they don't need anymore. (3) Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it. (4)\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it? (5)\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n20 According to the passage, which one CANNOT be answered?",
+      "choices": [
+        "What kinds of things can people share?",
+        "What does the app allow users to do?",
+        "Why is sharing good for the environment?",
+        "What item did Jimin get through the app?",
+        "Who made the app Jimin used?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: at Central Park at 3:00 p.m. (답지 p.35 고득점 모의고사 21)",
+      "type": "fill",
+      "promptEn": "[16-21]\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n21 윗글을 읽고, 질문에 대한 답을 완성하시오.\nQ. When and where did Jimin decide to meet User 1?\n→ He decided to meet User 1 ______ the next day.",
+      "accept": [
+        "at Central Park at 3:00 p.m."
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ①. borrow는 '빌려주다'가 아니라 '빌리다'이다. (답지 p.35 고득점 모의고사 22)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[22-25]\nThe next day, I got ready to go to the park. I decided to (A) <u>borrow</u> a bike instead of taking a bus. My city has a bike-sharing system. Anyone ⓐ <u>who</u> has an app can borrow a bike easily. First, you choose a bike ⓑ ______ you want to use. Then you scan the QR code on the bike. This makes the bike's lock open.\n\nBefore I rode to the park, I checked the bike (B) <u>carefully</u>. Sometimes, the bikes are not in good (C) <u>condition</u>. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a (D) <u>station</u> in the park. Using the bike was really easy. Also, I was happy to help the (E) <u>environment</u>.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't as big as my old one, but it was in great condition. I also really liked the color of it. I looked forward to using it for school. That day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think ⓒ ______ I should share my things with others, too.\n\n22 윗글의 밑줄 친 (A)~(E)의 의미가 적절하지 않은 것은?",
+      "choices": [
+        "(A) borrow: 빌려주다",
+        "(B) carefully: 꼼꼼하게",
+        "(C) condition: 상태",
+        "(D) station: 정거장",
+        "(E) environment: 환경"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. ⓐ와 ①②③⑤는 관계대명사이고, ④의 who는 의문사이다. (답지 p.35 고득점 모의고사 23)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[22-25]\nAnyone ⓐ <u>who</u> has an app can borrow a bike easily.\n\n23 윗글의 밑줄 친 ⓐ의 쓰임과 다른 것은?",
+      "choices": [
+        "The girl who is wearing glasses is my sister.",
+        "The man who lives next door is a famous chef.",
+        "I have a friend who can speak English well.",
+        "She knows who that tall boy in the picture is.",
+        "We know the boy who is playing the piano."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ that. ⓑ는 목적격 관계대명사 which/that, ⓒ는 완전한 절을 이끄는 접속사 that. 공통으로 that. (답지 p.35 고득점 모의고사 24)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[22-25]\nFirst, you choose a bike ⓑ ______ you want to use.\nThis experience also made me think ⓒ ______ I should share my things with others, too.\n\n24 윗글의 빈칸 ⓑ와 ⓒ에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "who",
+        "which",
+        "that",
+        "while",
+        "because"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (a) scanned (b) returned (c) chose (d) free. (답지 p.35 고득점 모의고사 25)",
+      "type": "fill",
+      "promptEn": "[22-25]\nThe next day, I got ready to go to the park. I decided to (A) <u>borrow</u> a bike instead of taking a bus. My city has a bike-sharing system. Anyone ⓐ <u>who</u> has an app can borrow a bike easily. First, you choose a bike ⓑ ______ you want to use. Then you scan the QR code on the bike. This makes the bike's lock open.\n\nBefore I rode to the park, I checked the bike (B) <u>carefully</u>. Sometimes, the bikes are not in good (C) <u>condition</u>. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a (D) <u>station</u> in the park. Using the bike was really easy. Also, I was happy to help the (E) <u>environment</u>.\n\nAfter I got the backpack from the person, I went home. The backpack wasn't as big as my old one, but it was in great condition. I also really liked the color of it. I looked forward to using it for school. That day was a great experience for me. I got a cool backpack without spending any money! This experience also made me think ⓒ ______ I should share my things with others, too.\n\n25 (1) 윗글의 내용과 일치하도록 (a)~(d)의 빈칸에 적절한 말을 쓰시오.\n(a) He ______ the QR code to open the lock.\n(b) He ______ the bike to a station in the park.\n(c) He ______ a bike he wanted to use.\n(d) He got the backpack from a person for ______.\n(a)부터 (d)까지 쉼표로 구분하시오.",
+      "accept": [
+        "scanned, returned, chose, free"
+      ],
+      "phraseBlank": true,
+      "seconds": 280
+    },
+    {
+      "id": "26",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "일어난 순서대로 배열하시오.",
+      "ruleKo": "카드를 바른 순서로 누르세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서",
+      "explainKo": "정답: (c) - (a) - (b) - (d). 자전거를 고르고, QR을 스캔하고, 공원 정거장에 반납한 뒤 책가방을 받았다. (답지 p.35 고득점 모의고사 25)",
+      "type": "order",
+      "promptEn": "[22-25]\n25 (2) 글쓴이가 한 일을 순서대로 배열하시오.\n(a) He scanned the QR code to open the lock.\n(b) He returned the bike to a station in the park.\n(c) He chose a bike he wanted to use.\n(d) He got the backpack from a person for free.",
+      "orderChunks": [
+        {
+          "id": "a",
+          "text": "(a) scanned the QR code"
+        },
+        {
+          "id": "d",
+          "text": "(d) got the backpack for free"
+        },
+        {
+          "id": "b",
+          "text": "(b) returned the bike"
+        },
+        {
+          "id": "c",
+          "text": "(c) chose a bike"
+        }
+      ],
+      "orderIds": [
+        "c",
+        "a",
+        "b",
+        "d"
+      ],
+      "seconds": 75
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 고득점 모의고사 pp.176-179. 답지 헤더는 pp.176~179입니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 고득점",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오.",
+      "itemCount": 26
+    }
+  ]
+}

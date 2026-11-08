@@ -1,0 +1,528 @@
+{
+  "id": "writing-finish",
+  "title": "서술형 끝내기",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.168-171",
+  "questionCount": 25,
+  "omitted": [],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: recommendation. recommend의 명사형. (답지 p.32 서술형 끝내기 01)",
+      "type": "fill",
+      "promptEn": "01 다음 짝지어진 두 단어의 관계가 같도록 빈칸에 들어갈 적절한 말을 쓰시오.\nchoose : choice = recommend : ______",
+      "accept": [
+        "recommendation"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: on. look good on, try on. (답지 p.32 서술형 끝내기 02)",
+      "type": "fill",
+      "promptEn": "02 다음 빈칸에 공통으로 들어갈 적절한 말을 쓰시오.\n• The hat looks good ______ him.\n• He tried ______ the sneakers before buying them.",
+      "accept": [
+        "on"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: borrowed, scanned. 빌리다, 훑어보다의 과거형. (답지 p.32 서술형 끝내기 03)",
+      "type": "fill",
+      "promptEn": "03 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n나는 도서관에서 책을 한 권 빌려서 첫 장을 빨리 훑어보았다.\n→ I ______ a book from the library and ______ the first chapter quickly.\n첫 빈칸부터 차례대로 쓰고, 쉼표로 구분하시오.",
+      "accept": [
+        "borrowed, scanned"
+      ],
+      "phraseBlank": true,
+      "seconds": 140
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (1) to pay money to use something (2) the air, water, and land around us (3) the system of making, buying, selling, and using money in a country. (답지 p.32 서술형 끝내기 04)",
+      "type": "fill",
+      "promptEn": "04 다음 보기에서 각 단어에 해당하는 영영풀이를 골라 쓰시오.\n보기\n• the air, water, and land around us\n• to pay money to use something\n• money you can use in coins or paper notes\n• to give something and receive something back\n• the system of making, buying, selling, and using money in a country\n\n(1) rent:\n(2) environment:\n(3) economy:\n(1)부터 차례대로 쓰고, 줄바꿈이나 슬래시로 구분하시오.",
+      "accept": [
+        "to pay money to use something / the air, water, and land around us / the system of making, buying, selling, and using money in a country",
+        "to pay money to use something\nthe air, water, and land around us\nthe system of making, buying, selling, and using money in a country"
+      ],
+      "phraseBlank": true,
+      "seconds": 210
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: Can you recommend. (답지 p.32 서술형 끝내기 05)",
+      "type": "fill",
+      "promptEn": "05 다음 조건에 맞게 대화를 완성하시오.\nG: Hello. I'd like to buy a bag.\nM: Okay. We have two colors, white and black. Which do you prefer?\nG: I prefer white to black.\nM: Then you can choose between these two bags.\nG: They both look nice. ______ one for me?\nM: How about the one with the flower on it? It's popular with our customers.\n\n조건: can을 이용하여 총 3단어로 쓸 것.",
+      "accept": [
+        "Can you recommend"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: Which do you prefer? (답지 p.32 서술형 끝내기 06)",
+      "type": "sentence",
+      "promptEn": "[06-07]\nB: I need a smartphone case. But there are so many cases here!\nG: Yes, there are. ⓐ 너는 어떤 걸 더 좋아하니?\nB: Hmm... I'm not sure. Can you recommend one?\nG: Sure! I think the one with the cloud pattern would look great on your phone.\nB: I like that one, too. I'll get ⓑ it then. Thank you!\n\n06 위 대화의 밑줄 친 우리말 ⓐ에 맞도록 네 단어로 영작하시오.",
+      "accept": [
+        "Which do you prefer?",
+        "Which do you prefer"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: the smartphone case with the cloud pattern. (답지 p.32 서술형 끝내기 07)",
+      "type": "fill",
+      "promptEn": "[06-07]\nB: I need a smartphone case. But there are so many cases here!\nG: Yes, there are. ⓐ 너는 어떤 걸 더 좋아하니?\nB: Hmm... I'm not sure. Can you recommend one?\nG: Sure! I think the one with the cloud pattern would look great on your phone.\nB: I like that one, too. I'll get ⓑ it then. Thank you!\n\n07 위 대화의 밑줄 친 ⓑ가 가리키는 것을 일곱 단어로 쓰시오.",
+      "accept": [
+        "the smartphone case with the cloud pattern"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ⓐ doesn't use them anymore ⓑ How much is the glass one ⓒ I can give you a discount. (답지 p.33 서술형 끝내기 08)",
+      "type": "fill",
+      "promptEn": "[08-09]\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family ⓐ ______.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. ⓑ ______\nG: It's three dollars, but ⓒ ______. How about two dollars?\nB: That's a good price. Here's the money.\n\n보기\n• use them every day\n• I have to raise the price\n• I can give you a discount\n• doesn't use them anymore\n• How much is the glass one\n• How much is the plastic one\n\n08 위 대화의 빈칸 ⓐ~ⓒ에 들어갈 적절한 말을 보기에서 골라 쓰시오.\nⓐ / ⓑ / ⓒ 순서로 쓰고, 슬래시로 구분하시오.",
+      "accept": [
+        "doesn't use them anymore / How much is the glass one / I can give you a discount",
+        "doesn't use them anymore / How much is the glass one? / I can give you a discount"
+      ],
+      "phraseBlank": true,
+      "seconds": 210
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: She brought them from home. (답지 p.33 서술형 끝내기 09)",
+      "type": "sentence",
+      "promptEn": "[08-09]\nB: Hi, Ginny. Wow! You have a lot of things for sale!\nG: Yeah. I brought some things from home. My family ⓐ ______.\nB: I see. Actually, I need a cup. Can you recommend a good one?\nG: Sure. How about a large cup?\nB: That would be great.\nG: Okay. Which do you prefer, a plastic one or a glass one?\nB: I prefer a glass one to a plastic one. ⓑ ______\nG: It's three dollars, but ⓒ ______. How about two dollars?\nB: That's a good price. Here's the money.\n\n09 위 대화를 읽고, 질문에 대한 답을 조건에 맞게 쓰시오.\n1. them과 대화문에 쓰인 표현들을 이용할 것.\n2. 총 5단어로 쓸 것.\nQ. Where did Ginny get the things for sale?",
+      "accept": [
+        "She brought them from home.",
+        "She brought them from home"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: four times as careful as. (답지 p.33 서술형 끝내기 10)",
+      "type": "fill",
+      "promptEn": "10 다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오.\nShe is four times more careful than her brother.\n→ She is ______ her brother.",
+      "accept": [
+        "four times as careful as"
+      ],
+      "phraseBlank": true,
+      "seconds": 70
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: The zookeeper let the children feed the baby deer. (답지 p.33 서술형 끝내기 11)",
+      "type": "sentence",
+      "promptEn": "11 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n사육사는 아이들이 아기 사슴에게 먹이를 주게 해줬다.\n(children / let / baby / the / feed / the / deer)\n→ The zookeeper ______.",
+      "accept": [
+        "The zookeeper let the children feed the baby deer.",
+        "let the children feed the baby deer"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: This watch is not so expensive as yours. (답지 p.33 서술형 끝내기 12)",
+      "type": "sentence",
+      "promptEn": "12 조건에 맞게 우리말을 바르게 영작하시오.\n1. 원급 비교 구문을 사용하여 총 8단어로 쓸 것.\n2. so와 as를 사용할 것.\n이 시계는 네 것만큼 비싸지 않다.",
+      "accept": [
+        "This watch is not so expensive as yours.",
+        "This watch is not so expensive as yours"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: made. 5형식과 4형식에 모두 쓰이는 동사 make의 과거형. (답지 p.33 서술형 끝내기 13)",
+      "type": "fill",
+      "promptEn": "13 다음 빈칸에 공통으로 들어갈 적절한 동사를 쓰시오. (과거 시제로 쓸 것)\n• His words ______ her very angry.\n• This story ______ us think about our life.\n• My grandmother ______ me a birthday cake.",
+      "accept": [
+        "made"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: Yesterday, I tried to draw a cat as well as she did. as better as → as well as. (답지 p.33 서술형 끝내기 14)",
+      "type": "sentence",
+      "promptEn": "14 다음 글에서 어법상 틀린 문장을 찾아 바르게 고쳐 다시 쓰시오.\nI am not as good at drawing as my sister.\nYesterday, I tried to draw a cat as better as she did.\nIt was fun, but I need more practice to be as good as her.",
+      "accept": [
+        "Yesterday, I tried to draw a cat as well as she did.",
+        "Yesterday, I tried to draw a cat as well as she did"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: as deeply as / made me feel. (답지 p.33 서술형 끝내기 15)",
+      "type": "fill",
+      "promptEn": "15 다음 조건에 맞게 문장을 완성하시오.\n1. deep, feel을 이용하되, 필요시 어형을 바꿀 것.\n2. as와 사역동사 make를 이용하여 각각 3단어로 쓸 것.\nI slept ______ a baby. This ______ refreshed.\n두 빈칸을 슬래시로 구분하시오.",
+      "accept": [
+        "as deeply as / made me feel"
+      ],
+      "phraseBlank": true,
+      "seconds": 140
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: Let me tell you about my experience with the sharing economy. let + 동사원형. (답지 p.33 서술형 끝내기 16)",
+      "type": "sentence",
+      "promptEn": "[16-19]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? Sharing saves resources and money, and it is good for the environment.\nLet me telling you about my experience with the sharing economy.\nLast week, I used an app to get a backpack.\nⓑ 그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다. Sometimes, people also give away items that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it.\n\n16 윗글의 밑줄 친 부분에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\nLet me telling you about my experience with the sharing economy.",
+      "accept": [
+        "Let me tell you about my experience with the sharing economy.",
+        "Let me tell you about my experience with the sharing economy"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: The app allows users to easily buy and sell secondhand items. (답지 p.33 서술형 끝내기 17)",
+      "type": "sentence",
+      "promptEn": "[16-19]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? Sharing saves resources and money, and it is good for the environment.\nLet me telling you about my experience with the sharing economy.\nLast week, I used an app to get a backpack.\nⓑ 그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다. Sometimes, people also give away items that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it.\n\n17 윗글의 밑줄 친 ⓑ의 우리말을 조건에 맞게 바르게 영작하시오.\n1. easy, allow, secondhand, items을 이용하되, 필요시 어형을 바꿀 것.\n2. 총 11단어로 쓸 것.\n3. 대소문자와 구두점에 유의할 것.",
+      "accept": [
+        "The app allows users to easily buy and sell secondhand items.",
+        "The app allows users to easily buy and sell secondhand items"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: He sent a message to the person who posted it. (답지 p.33 서술형 끝내기 18)",
+      "type": "sentence",
+      "promptEn": "[16-19]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? Sharing saves resources and money, and it is good for the environment.\nLet me telling you about my experience with the sharing economy.\nLast week, I used an app to get a backpack.\nⓑ 그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다. Sometimes, people also give away items that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it.\n\n18 윗글을 읽고, 질문에 대한 답을 지문에서 찾아 열 단어의 완전한 문장으로 쓰시오.\nQ. What did Jimin do after seeing the post about the backpack?",
+      "accept": [
+        "He sent a message to the person who posted it.",
+        "He sent a message to the person who posted it"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: secondhand, give away. (답지 p.33 서술형 끝내기 19)",
+      "type": "fill",
+      "promptEn": "[16-19]\nHello, I'm Jimin. Have you ever shared things like bikes, books, or toys? Sharing saves resources and money, and it is good for the environment.\nLet me telling you about my experience with the sharing economy.\nLast week, I used an app to get a backpack.\nⓑ 그 앱은 사용자들이 중고 물품을 쉽게 사고파는 것을 가능하게 합니다. Sometimes, people also give away items that they don't need anymore. I saw a post about a nice backpack. Someone was giving it away. It looked as good as a new one. So, I sent a message to the person who posted it.\n\n19 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 지문에서 찾아 쓰시오.\nThe app Jimin used helps people buy and sell ______ items. People can also ______ things they no longer need.\n두 빈칸을 쉼표로 구분하시오.",
+      "accept": [
+        "secondhand, give away"
+      ],
+      "phraseBlank": true,
+      "seconds": 140
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: This makes the bike's lock open. QR 코드를 스캔하면 자물쇠가 열린다. close → open. (답지 p.33 서술형 끝내기 20)",
+      "type": "sentence",
+      "promptEn": "[20-23]\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of taking a bus. My city has a bike-sharing system. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want to use. Then you scan the QR code on the bike. ⓐ This makes the bike's lock close.\n\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the ⓑ ______.\n\n20 윗글의 밑줄 친 ⓐ에서 문맥상 어색한 부분을 찾아 바르게 고쳐 쓰시오.\nThis makes the bike's lock close.",
+      "accept": [
+        "This makes the bike's lock open.",
+        "This makes the bike's lock open"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: environment. (답지 p.33 서술형 끝내기 21)",
+      "type": "fill",
+      "promptEn": "[20-23]\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of taking a bus. My city has a bike-sharing system. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want to use. Then you scan the QR code on the bike. ⓐ This makes the bike's lock close.\n\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the ⓑ ______.\n\n21 윗글의 빈칸 ⓑ에 들어갈 말을 다음 영영풀이를 참고하여 주어진 철자로 시작하여 쓰시오.\nthe air, water, and land around us\n→ e______",
+      "accept": [
+        "environment"
+      ],
+      "phraseBlank": false,
+      "seconds": 70
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: He returned the bike to a station in the park. (답지 p.33 서술형 끝내기 22)",
+      "type": "sentence",
+      "promptEn": "[20-23]\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of taking a bus. My city has a bike-sharing system. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want to use. Then you scan the QR code on the bike. ⓐ This makes the bike's lock close.\n\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the ⓑ ______.\n\n22 윗글을 읽고, 질문에 대한 답을 조건에 맞게 쓰시오.\n1. 지문에 있는 표현을 이용할 것.\n2. 총 10단어의 완전한 문장으로 쓸 것.\n3. 인칭과 시제에 주의하여 쓸 것.\nQ. What did the writer do when he arrived at the park?",
+      "accept": [
+        "He returned the bike to a station in the park.",
+        "He returned the bike to a station in the park"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: carefully, condition. (답지 p.33 서술형 끝내기 23)",
+      "type": "fill",
+      "promptEn": "[20-23]\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\nThe next day, I got ready to go to the park. I decided to borrow a bike instead of taking a bus. My city has a bike-sharing system. Anyone who has an app can borrow a bike easily. First, you choose a bike that you want to use. Then you scan the QR code on the bike. ⓐ This makes the bike's lock close.\n\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the ⓑ ______.\n\n23 윗글의 내용과 일치하도록 빈칸에 들어갈 적절한 말을 주어진 철자로 시작하여 쓰시오.\nBefore riding to the park, Jimin checked the bike c______ because sometimes the bikes are not in good c______.\n두 빈칸을 쉼표로 구분하시오.",
+      "accept": [
+        "carefully, condition"
+      ],
+      "phraseBlank": true,
+      "seconds": 140
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: This experience also made me think that I should share my things with others, too. (답지 p.33 서술형 끝내기 24)",
+      "type": "sentence",
+      "promptEn": "[24-25]\nAfter I got the backpack from the person, I went home. The backpack wasn't as big as my old one, but it was in great condition. I also really liked the color of it. I looked forward to using it for school.\n\nThat day was a great experience for me. I got a cool backpack without spending any money! ⓐ 이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.\n\n24 윗글의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(that / share / also / me / with / should / this / things / think / too / my / others / made / experience / I)",
+      "accept": [
+        "This experience also made me think that I should share my things with others, too.",
+        "This experience also made me think that I should share my things with others, too"
+      ],
+      "seconds": 100
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "문장 전체를 쓰세요. 대소문자와 구두점에 유의하세요.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 대소문자와 구두점에 유의하세요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 문장",
+      "explainKo": "정답: ⓑ → The backpack was smaller than his old one. not as big as = smaller than. (답지 p.33 서술형 끝내기 25)",
+      "type": "sentence",
+      "promptEn": "[24-25]\nAfter I got the backpack from the person, I went home. The backpack wasn't as big as my old one, but it was in great condition. I also really liked the color of it. I looked forward to using it for school.\n\nThat day was a great experience for me. I got a cool backpack without spending any money! ⓐ 이 경험은 또한 제가 제 물건을 다른 사람들과 공유해야겠다고 생각하게 만들었습니다.\n\n25 윗글의 내용과 일치하지 않는 것을 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오.\nⓐ The writer got a backpack for free.\nⓑ The backpack was bigger than his old one.\nⓒ The writer liked the color of the backpack.",
+      "accept": [
+        "b, The backpack was smaller than his old one",
+        "ⓑ The backpack was smaller than his old one.",
+        "b The backpack was smaller than his old one"
+      ],
+      "seconds": 100
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 서술형 끝내기. 빈칸은 그 칸의 말만, 문장 문제는 문장 전체를 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 빈칸에 들어갈 말만 쓰세요.",
+      "itemCount": 25
+    }
+  ]
+}
