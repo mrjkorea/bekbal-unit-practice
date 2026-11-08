@@ -113,7 +113,7 @@ function promptHtml(raw, item) {
   const text = String(raw ?? "");
   const focus = item && item.focusBlank ? String(item.focusBlank) : "";
   if (!focus) {
-    return esc(text).replace(/_{3,}/g, '<span class="blank-mark">______</span>').replace(/\n/g, "<br>");
+    return esc(text).replace(/_{3,}/g, '<span class="blank-mark">______</span>').replace(/\n/g, "<br>").replace(/&lt;u&gt;/g, "<u>").replace(/&lt;\/u&gt;/g, "</u>");
   }
   const re = /[（(]\s*(\d+)\s*[)）]\s*_{2,}|([ⓐ-ⓙ])(?:\s*_{2,}|\s*\([^)\n]+\)|\s*[A-Za-z][A-Za-z'’]*)|[（(]([A-Z])[)）]\s*\[[^\]\n]+\]|_{3,}/g;
   const parts = [];
@@ -147,7 +147,7 @@ function promptHtml(raw, item) {
     const tag = esc(blankLabel(focus));
     if (p.kind === "word") return `<span class="blank-live"><span class="blank-live-tag">이 칸 ${tag}</span> ${esc(p.show)} → ______</span>`;
     return `<span class="blank-live"><span class="blank-live-tag">이 칸 ${tag}</span> ______</span>`;
-  }).join("").replace(/\n/g, "<br>");
+  }).join("").replace(/\n/g, "<br>").replace(/&lt;u&gt;/g, "<u>").replace(/&lt;\/u&gt;/g, "</u>");
 }
 
 function timeFor(ex) {
