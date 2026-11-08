@@ -46,8 +46,7 @@
     {
      "id": "dialog-advanced",
      "title": "Dialog 심화 문제",
-     "questionCount": 12,
-     "omittedCount": 1
+     "questionCount": 12
     },
     {
      "id": "grammar-check",
@@ -107,14 +106,12 @@
     {
      "id": "mock-100",
      "title": "100발 100중 모의고사",
-     "questionCount": 22,
-     "omittedCount": 3
+     "questionCount": 22
     },
     {
      "id": "mock-high",
      "title": "고득점 모의고사",
-     "questionCount": 24,
-     "omittedCount": 1
+     "questionCount": 24
     }
    ]
   },
@@ -125,8 +122,7 @@
     {
      "id": "x10-vocab",
      "title": "어휘 확인 문제",
-     "questionCount": 37,
-     "omittedCount": 2
+     "questionCount": 37
     },
     {
      "id": "x10-dialog-cloze",
@@ -167,20 +163,17 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "questionCount": 23,
-     "omittedCount": 4
+     "questionCount": 23
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "questionCount": 24,
-     "omittedCount": 4
+     "questionCount": 24
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "questionCount": 19,
-     "omittedCount": 7
+     "questionCount": 19
     }
    ]
   },
