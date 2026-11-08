@@ -1,0 +1,658 @@
+{
+  "id": "reading-practice",
+  "title": "Reading 실전 문제",
+  "book": "j2-neung",
+  "unit": "u07",
+  "sourcePages": "pp.158-161",
+  "questionCount": 24,
+  "omitted": [
+    {
+      "page": "p.158",
+      "item": "03",
+      "reason": "답지 p.30 marks ⑤, but the printed English of choice ⑤ is not legible in the page text (the OCR repeats the economy definition). Not guessed."
+    }
+  ],
+  "questions": [
+    {
+      "id": "01",
+      "label": "01",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ Have you ever shared things like bikes, books, or toys? (답지 p.30 Reading 실전 01)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-05] 다음 글을 읽고 물음에 답하시오.\n\nHello, I'm Jimin. <u>ⓐ여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?</u> ⓑ______ saves <u>ⓒresources</u> and money, and it is good for the environment. ⓓ______ me tell you about my experience with the ______.\n\n01 윗글의 밑줄 친 ⓐ를 가장 바르게 영작한 것은?",
+      "choices": [
+        "Did you share things like bikes, books, or toys?",
+        "Can you share things like bikes, books, or toys?",
+        "Will you share things like bikes, books, or toys?",
+        "Are you sharing things like bikes, books, or toys?",
+        "Have you ever shared things like bikes, books, or toys?"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "02",
+      "label": "02",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ Sharing / Let. ⓑ는 주어 자리의 동명사 Sharing, ⓓ는 명령문 Let. (답지 p.30 Reading 실전 02)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-05] 다음 글을 읽고 물음에 답하시오.\n\nHello, I'm Jimin. <u>ⓐ여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?</u> ⓑ______ saves <u>ⓒresources</u> and money, and it is good for the environment. ⓓ______ me tell you about my experience with the ______.\n\n02 윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?",
+      "choices": [
+        "Share / Let",
+        "Sharing / Let's",
+        "Sharing / Let",
+        "To share / To let",
+        "Shared / To let"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "04",
+      "label": "04",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ sharing economy. (답지 p.30 Reading 실전 04)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-05] 다음 글을 읽고 물음에 답하시오.\n\nHello, I'm Jimin. <u>ⓐ여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?</u> ⓑ______ saves <u>ⓒresources</u> and money, and it is good for the environment. ⓓ______ me tell you about my experience with the ______.\n\n04 윗글의 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "hobby",
+        "bike stations",
+        "sharing economy",
+        "school life",
+        "daily routines"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "05",
+      "label": "05",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ 지민이는 자신의 경험을 이야기하려고 한다. (답지 p.30 Reading 실전 05)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[01-05] 다음 글을 읽고 물음에 답하시오.\n\nHello, I'm Jimin. <u>ⓐ여러분은 자전거, 책, 또는 장난감 같은 것들을 공유해 본 적이 있나요?</u> ⓑ______ saves <u>ⓒresources</u> and money, and it is good for the environment. ⓓ______ me tell you about my experience with the ______.\n\n05 윗글의 내용과 일치하는 것은?",
+      "choices": [
+        "자전거, 책, 장난감은 다른 사람과 공유할 수 없는 물건이다.",
+        "공유를 하기 위해서는 돈이 많이 든다.",
+        "공유는 환경에 나쁜 영향을 준다.",
+        "지민이는 절대 물건을 다른 사람들과 공유하지 않는다.",
+        "지민이는 자신의 경험을 이야기하려고 한다."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "06",
+      "label": "06",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ to get / easily. 목적은 to부정사, buy and sell을 꾸미는 부사는 easily. (답지 p.30 Reading 실전 06)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n06 윗글의 괄호 ⓐ와 ⓑ 안 단어의 형태가 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+      "choices": [
+        "getting / easier",
+        "getting / easy",
+        "to get / easy",
+        "to get / easily",
+        "got / easily"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "07",
+      "label": "07",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① (A). (A)는 특정되지 않은 책가방이고, (B)~(E)는 게시글의 멋진 책가방이다. (답지 p.30 Reading 실전 07)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n07 윗글의 밑줄 친 (A)~(E) 중 가리키는 대상이 나머지와 다른 것은?",
+      "choices": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "08",
+      "label": "08",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② used. secondhand = 중고의. (답지 p.30 Reading 실전 08)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n08 윗글의 밑줄 친 ⓒ와 바꿔 쓸 수 있는 것은?",
+      "choices": [
+        "popular",
+        "used",
+        "perfect",
+        "new",
+        "expensive"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "09",
+      "label": "09",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ give something to someone for free. give away = 무료로 주다. (답지 p.30 Reading 실전 09)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n09 윗글의 밑줄 친 ⓓ의 의미로 가장 적절한 것은?",
+      "choices": [
+        "repair broken things",
+        "throw away something",
+        "lend something to others",
+        "sell something at a high price",
+        "give something to someone for free"
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 모두 고르시오.",
+      "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 모두 고르시오. 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "multi",
+      "answerModeTag": "Choose · 모두 고르기",
+      "explainKo": "정답: ③ which, ④ that. (답지 p.30 Reading 실전 10). 사물 items를 선행사로 하는 목적격 관계대명사.",
+      "type": "mc",
+      "seconds": 45,
+      "select": "multi",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n10 윗글의 빈칸 ⓔ에 들어갈 말로 적절한 것을 모두 고르면?",
+      "choices": [
+        "who",
+        "whom",
+        "which",
+        "that",
+        "what"
+      ],
+      "correctIndexes": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: It looked as good as a new one. (답지 p.30 Reading 실전 11)",
+      "type": "sentence",
+      "seconds": 100,
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n11 윗글의 밑줄 친 ①의 우리말에 맞도록 괄호 안의 단어들을 이용하여 여덟 단어로 영작하시오. (필요시 어형을 바꿀 것)\n(one, a, look, as, it, good)",
+      "accept": [
+        "It looked as good as a new one.",
+        "It looked as good as a new one"
+      ]
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ 지오. Someone was giving it away. (답지 p.30 Reading 실전 12)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n12 윗글의 내용을 바르게 이해한 사람은?",
+      "choices": [
+        "하준: 지민이는 새 책가방을 사려고 앱을 이용했어.",
+        "현수: 지민이는 앱에서 중고 물건을 팔았어.",
+        "지오: 지민이는 공짜로 책가방을 줄 사람을 찾았어.",
+        "하나: 지민이는 게시물을 올린 사람과 전화 통화를 했어.",
+        "유진: 지민이는 오늘 오후 3시에 공원에 가기로 했어."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: app, backpack, sent. (답지 p.30 Reading 실전 13)",
+      "type": "fill",
+      "seconds": 70,
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n13 윗글의 내용과 일치하도록 빈칸에 적절한 말을 지문에서 찾아 쓰시오.\nJimin used a(n) ______ to find a secondhand ______.\nHe ______ a message and decided to meet the person to get it.",
+      "accept": [
+        "app, backpack, sent",
+        "app / backpack / sent",
+        "app backpack sent"
+      ],
+      "phraseBlank": true
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ What did Jimin do after seeing the backpack post?. (답지 p.30 Reading 실전 14)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n14 According to the passage, which of the following can be answered?",
+      "choices": [
+        "How many users are using the app?",
+        "How long did the person who posted the backpack use it?",
+        "How much did the backpack originally cost?",
+        "What did Jimin do after seeing the backpack post?",
+        "Where does the person who posted the backpack live?"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The app allows users to easily buy and sell secondhand items. (답지 p.30 Reading 실전 15)",
+      "type": "sentence",
+      "seconds": 100,
+      "promptEn": "[06-15] 다음 글을 읽고, 물음에 답하시오.\n\nLast week, I used an app ⓐ(get) (A) a backpack. The app allows users to ⓑ(easy) buy and sell <u>ⓒsecondhand</u> items. Sometimes, people also <u>ⓓgive away</u> items ⓔ______ they don't need anymore. I saw a post about (B) a nice backpack. Someone was giving (C) it away.\n<u>①그것은 새것만큼 좋아 보였습니다.</u> So, I sent a message to the person who posted (D) it.\n\nJimin: Hello, can I get the backpack?\nUser 1: Sure.\nJimin: Great! How can I get (E) it?\nUser 1: Can you come to Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n15 윗글을 읽고, 자기에 맞게 질문에 대한 답을 완성하시오.\n조건\n1. 지문에 나오는 표현을 이용할 것.\n2. 총 9단어로 쓸 것.\n3. 인칭과 시제에 유의할 것.\n\nQ. What does the app Jimin used allow users to do?\n→ The app ______.",
+      "accept": [
+        "The app allows users to easily buy and sell secondhand items.",
+        "allows users to easily buy and sell secondhand items",
+        "The app allows users to easily buy and sell secondhand items"
+      ]
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: The next day, I got ready to go to the park. (답지 p.30 Reading 실전 16)",
+      "type": "sentence",
+      "seconds": 100,
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n16 윗글의 밑줄 친 ⓐ의 우리말을 자신에 맞게 바르게 영작하시오.\n조건\n1. get, the park, next를 사용할 것.\n2. 총 11단어로 쓸 것.",
+      "accept": [
+        "The next day, I got ready to go to the park.",
+        "The next day I got ready to go to the park.",
+        "The next day, I got ready to go to the park"
+      ]
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ I decided to borrow a bike instead of taking a bus. decide는 to부정사, instead of 뒤에는 동명사. (답지 p.30 Reading 실전 17)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n17 윗글의 밑줄 친 ⓑ를 어법상 바르게 고친 것은?",
+      "choices": [
+        "I decided borrow a bike instead of taking a bus.",
+        "I decided borrowing a bike instead of take a bus.",
+        "I decided borrowing a bike instead of taking a bus.",
+        "I decided to borrow a bike instead of take a bus.",
+        "I decided to borrow a bike instead of taking a bus."
+      ],
+      "correctIndexes": [
+        5
+      ]
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① a bike-sharing system. (답지 p.30 Reading 실전 18)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n18 윗글의 빈칸에 들어갈 말로 적절한 것은?",
+      "choices": [
+        "a bike-sharing system",
+        "a bus stop near the park",
+        "a used bike market",
+        "a free transportation service",
+        "a public parking lot for bikes"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "나오는 순서대로 누르시오.",
+      "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+      "answerMode": "order",
+      "answerModeTag": "Order · 순서 누르기",
+      "explainKo": "정답: (B) - (C) - (A). (답지 p.30 Reading 실전 19)",
+      "type": "order",
+      "seconds": 75,
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n19 윗글의 밑줄 친 (A)~(C)를 순서대로 바르게 배열하시오.",
+      "orderChunks": [
+        {
+          "id": "A",
+          "text": "(A) This makes the bike's lock open."
+        },
+        {
+          "id": "B",
+          "text": "(B) First, you choose a bike that you want to use."
+        },
+        {
+          "id": "C",
+          "text": "(C) Then you scan the QR code on the bike."
+        }
+      ],
+      "orderIds": [
+        "B",
+        "C",
+        "A"
+      ]
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② We got to the station just in time. got there의 get은 도착하다. (답지 p.30 Reading 실전 20)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n20 윗글의 밑줄 친 ⓓ와 의미가 같은 것은?",
+      "choices": [
+        "He got this coupon for free.",
+        "We got to the station just in time.",
+        "Where did Justin get that scarf?",
+        "She got a new laptop yesterday.",
+        "Sam got a book from her teacher."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: Sometimes, the bikes are not in good condition. (답지 p.30 Reading 실전 21)",
+      "type": "sentence",
+      "seconds": 100,
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n21 윗글을 읽고, 질문에 대한 답을 지문에서 찾아 여덟 단어의 완전한 영어 문장으로 쓰시오.\n\nQ. Why do we need to check the bikes before riding?",
+      "accept": [
+        "Sometimes, the bikes are not in good condition.",
+        "Sometimes the bikes are not in good condition.",
+        "Sometimes, the bikes are not in good condition"
+      ]
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ There is a QR code on the bike, and users can scan it to unlock the bike. (답지 p.30 Reading 실전 22)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n22 윗글을 읽고 알 수 있는 것은?",
+      "choices": [
+        "The writer rode the bike to the park for the first time.",
+        "Most of the bikes at the station were in bad condition.",
+        "There is a QR code on the bike, and users can scan it to unlock the bike.",
+        "The writer returned the bike after ten minutes.",
+        "Anyone who uses the bike-sharing system must pay a fee in advance."
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ to use it. looked forward to 뒤에는 동명사 using이 와야 한다. (답지 p.30 Reading 실전 23)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n\nⓐBefore I got the backpack from the person, I went home. (A) The backpack wasn't as big as my old one, but it ⓑwas on great condition. I also really liked the color of it. I looked forward ⓒuse it for school.\n\nThat day was a great experience for me. I got a cool backpack ⓓwithout spend any money! This experience also ⓔmade I think that I should share my things with others, too.\n\n23 윗글의 밑줄 친 ⓐ~ⓔ가 문맥이나 어법상 바르게 고쳐지지 않은 것은?",
+      "choices": [
+        "ⓐ After I got the backpack",
+        "ⓑ it was in great condition",
+        "ⓒ to use it",
+        "ⓓ without spending",
+        "ⓔ made me think"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② This new backpack isn't as small as my old one. 이것만 새 가방이 더 크다는 뜻이다. (답지 p.30 Reading 실전 24)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n\nⓐBefore I got the backpack from the person, I went home. (A) The backpack wasn't as big as my old one, but it ⓑwas on great condition. I also really liked the color of it. I looked forward ⓒuse it for school.\n\nThat day was a great experience for me. I got a cool backpack ⓓwithout spend any money! This experience also ⓔmade I think that I should share my things with others, too.\n\n24 윗글의 밑줄 친 (A)와 다른 의미로 쓰인 것은?",
+      "choices": [
+        "My old backpack is bigger than this new one.",
+        "This new backpack isn't as small as my old one.",
+        "This new backpack is smaller than my old one.",
+        "This new backpack isn't so big as my old one.",
+        "My old backpack isn't so small as this new one."
+      ],
+      "correctIndexes": [
+        2
+      ]
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② 책가방의 브랜드. (답지 p.30 Reading 실전 25)",
+      "type": "mc",
+      "seconds": 45,
+      "select": "one",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n\nⓐBefore I got the backpack from the person, I went home. (A) The backpack wasn't as big as my old one, but it ⓑwas on great condition. I also really liked the color of it. I looked forward ⓒuse it for school.\n\nThat day was a great experience for me. I got a cool backpack ⓓwithout spend any money! This experience also ⓔmade I think that I should share my things with others, too.\n\n25 According to the passage, which one is NOT mentioned?",
+      "choices": [
+        "책가방의 상태",
+        "책가방의 브랜드",
+        "책가방의 크기 비교",
+        "책가방의 사용 목적",
+        "책가방을 좋아한 이유"
+      ],
+      "correctIndexes": [
+        2
+      ]
+    }
+  ],
+  "sectionsVersion": 2,
+  "introKo": "Reading 실전 문제. 지문과 보기를 읽고 고르거나, 서술형은 문장이나 빈칸을 쓰시오. 25문항.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Reading 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르거나, 서술형은 지시에 맞게 쓰시오. 고르기는 누르기만 하면 됩니다.",
+      "itemCount": 24
+    }
+  ]
+}
