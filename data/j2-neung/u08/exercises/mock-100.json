@@ -4,24 +4,8 @@
   "book": "j2-neung",
   "unit": "u08",
   "sourcePages": "pp.230-233",
-  "questionCount": 22,
-  "omitted": [
-    {
-      "page": "p.231",
-      "item": "10",
-      "reason": "답지 정답 번호는 ③이고 해설은 for이지만, 인쇄 보기의 배열(for/in/of/with/as)이 OCR에서 번호와 짝지어지지 않음"
-    },
-    {
-      "page": "p.232",
-      "item": "14",
-      "reason": "밑줄 ①(what)만 확인되고 ②~⑤의 밑줄 위치가 인쇄면에서 확인되지 않음"
-    },
-    {
-      "page": "p.232",
-      "item": "17",
-      "reason": "답지 정답은 ①(ⓐ=반려견)이지만 ⓐ~ⓔ가 어느 낱말인지 인쇄 OCR에서 확인되지 않음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": "1",
@@ -247,6 +231,33 @@
       ]
     },
     {
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "모의고사 문제를 푸시오.",
+      "ruleKo": "고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "sectionInstructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "10a",
+      "label": "10",
+      "sourceId": 10,
+      "explainKo": "정답: ③ for. It is + 형용사 + for + 목적격 + to부정사. (답지 p.45 100발 100중 10)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• It is important ______ students to study hard.\n• It is easy ______ me to use this app.",
+      "choices": [
+        "in",
+        "of",
+        "for",
+        "as",
+        "with"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
       "id": "10",
       "label": "11",
       "sourceId": 11,
@@ -322,6 +333,33 @@
       "phraseBlank": true
     },
     {
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "모의고사 문제를 푸시오.",
+      "ruleKo": "고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "sectionInstructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "14a",
+      "label": "14",
+      "sourceId": 14,
+      "explainKo": "정답: ① what → that. questions that you have. (답지 p.45 100발 100중 14)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[14-15] 다음 글을 읽고, 물음에 답하시오.\n\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer ANY questions <u>①what</u> you have. <u>②How can I help you?</u>\nUser: Can I ask you some questions about AI?\nANNIE: Sure! I'd be happy <u>③to answer</u> your questions!\nUser: My first question is: What is AI?\nANNIE: AI <u>④stands</u> for \"Artificial Intelligence.\" It is a kind of computer system. AI can understand language, learn from experiences, and <u>⑤make decisions</u> like humans.\n\n14 윗글의 밑줄 친 ①~⑤ 중 어법상 틀린 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ]
+    },
+    {
       "id": "13",
       "label": "15",
       "sourceId": 15,
@@ -373,6 +411,33 @@
       ],
       "correctIndexes": [
         4
+      ]
+    },
+    {
+      "section": "s1",
+      "sectionTitle": "Section A · 모의고사",
+      "directionKo": "모의고사 문제를 푸시오.",
+      "ruleKo": "고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "sectionInstructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "17a",
+      "label": "17",
+      "sourceId": 17,
+      "explainKo": "정답: ① ⓐ. teach it의 it은 반려견이다. ⓑⓒⓓⓔ의 it은 AI를 가리킨다. (답지 p.45 100발 100중 17)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[16-20] 다음 글을 읽고, 물음에 답하시오.\n\nUser: It is hard (A)(understand) your explanation. Can you give me an example?\nANNIE: Sure! Imagine that you have a new pet dog and you want to teach <u>ⓐit</u> how to sit and stay. Your dog will learn from information and experiences. AI is similar. But you don't have to give AI a snack!\nUser: (B) ______\nANNIE: AI is used in many situations. For example, AI technology can recommend new videos that you may like. <u>ⓑIt</u> studies which videos you have already watched. Then <u>ⓒit</u> decides what to recommend. AI can also recognize your face to unlock your smartphone. <u>ⓓIt</u> learns what your face looks like. Over time, <u>ⓔit</u> gets better at recognizing you, even if you change your hair or wear a mask.\n\n17 윗글의 밑줄 친 ⓐ~ⓔ 중 가리키는 대상이 나머지와 다른 것은?",
+      "choices": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "correctIndexes": [
+        1
       ]
     },
     {
@@ -586,7 +651,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "instructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
-      "itemCount": 22
+      "itemCount": 25
     }
   ]
 }

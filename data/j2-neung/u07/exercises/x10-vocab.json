@@ -4,14 +4,8 @@
   "book": "j2-neung",
   "unit": "u07",
   "sourcePages": "pp.30-31",
-  "questionCount": 38,
-  "omitted": [
-    {
-      "page": "p.31",
-      "item": "Words Plus A 02",
-      "reason": "X-10 답지 없음, 지문으로 확정 불가. ______ : key = lend : borrow 에서 lock과 unlock이 모두 본책 p.125 함께 외우기에 있다."
-    }
-  ],
+  "questionCount": 39,
+  "omitted": [],
   "questions": [
     {
       "id": "s1-b1",
@@ -1096,6 +1090,27 @@
       "group": "PA-01"
     },
     {
+      "section": "s7",
+      "sectionTitle": "Section G · Words Plus 관계",
+      "directionKo": "Words Plus A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "Words Plus A 관계를 보고 단어를 쓰시오.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "id": "PA-02",
+      "label": "02",
+      "sourceId": 2,
+      "explainKo": "정답: lock 또는 unlock. ______ : key = lend : borrow는 반의어 관계이다. 본책 p.125 함께 외우기 반의어에 lock, key, unlock이 함께 있다. X-10 답지는 이 스캔에 없어서 lock과 unlock을 모두 받는다.",
+      "type": "fill",
+      "seconds": 70,
+      "phraseBlank": false,
+      "promptEn": "Words Plus A\n02. (1)__________ : key = lend : borrow",
+      "accept": [
+        "lock",
+        "unlock"
+      ]
+    },
+    {
       "id": "PA-03",
       "label": "03",
       "sourceId": 3,
@@ -1281,7 +1296,7 @@
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "X-10 어휘 확인 문제. 답지 인쇄 pp.48-71은 이 스캔에 없습니다. 뜻은 본책 p.124 어휘 목록과 p.125 Meaning in English, Words Plus에서 맞춥니다. Words Plus A 02는 lock과 unlock이 모두 가능해서 뺐습니다.",
+  "introKo": "X-10 어휘 확인 문제. 답지 인쇄 pp.48-71은 이 스캔에 없습니다. 뜻은 본책 p.124 어휘 목록과 p.125 Meaning in English, Words Plus에서 맞춥니다. Words Plus A 02는 lock과 unlock을 모두 받는다.",
   "sections": [
     {
       "id": "s1",
@@ -1351,7 +1366,7 @@
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
       "instructionKo": "Words Plus A 관계를 보고 단어를 쓰시오.",
-      "itemCount": 4
+      "itemCount": 5
     },
     {
       "id": "s8",

@@ -4,14 +4,8 @@
   "book": "j2-neung",
   "unit": "u08",
   "sourcePages": "pp.234-237",
-  "questionCount": 24,
-  "omitted": [
-    {
-      "page": "p.236",
-      "item": "14",
-      "reason": "답지 키는 ⓔ → make decisions이나, 지문의 ⓐ~ⓓ 밑줄 위치가 OCR에서 확인되지 않아 기호 문항을 카드로 만들 수 없음"
-    }
-  ],
+  "questionCount": 25,
+  "omitted": [],
   "questions": [
     {
       "id": "1",
@@ -344,6 +338,43 @@
       ]
     },
     {
+      "section": "s1",
+      "sectionTitle": "Section A · 고득점",
+      "directionKo": "모의고사 문제를 푸시오.",
+      "ruleKo": "고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "sectionInstructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "14a",
+      "label": "14",
+      "sourceId": 14,
+      "explainKo": "정답: ⓔ making decisions → make decisions. understand, learn과 병렬이므로 동사원형 make가 온다. (답지 p.46 고득점 14)",
+      "type": "parts",
+      "seconds": 90,
+      "promptEn": "[14-15] 다음 글을 읽고, 물음에 답하시오.\n\nUser: Hi, nice to meet you!\nANNIE: Hello! Nice to meet you, too! I'm your AI friend ANNIE. I can answer <u>ⓐANY questions that you have</u>. <u>ⓑHow can I help you?</u>\nUser: Can I <u>ⓒask you some questions about AI</u>?\nANNIE: Sure! <u>ⓓI'd be happy to answer</u> your questions!\nUser: My first question is: What is AI?\nANNIE: AI stands for \"Artificial Intelligence.\" It is a kind of computer system. AI can understand language, learn from experiences, and <u>ⓔmaking decisions</u> like humans.\n\n14 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 곳을 찾아 기호를 쓰고, 바르게 고쳐 쓰시오.",
+      "parts": [
+        {
+          "kind": "fill",
+          "label": "기호",
+          "placeholder": "ⓐ~ⓔ",
+          "accept": [
+            "ⓔ",
+            "e",
+            "E"
+          ]
+        },
+        {
+          "kind": "fill",
+          "label": "고친 말",
+          "placeholder": "바르게 고친 말",
+          "accept": [
+            "make decisions",
+            "make decisions."
+          ]
+        }
+      ]
+    },
+    {
       "id": "14",
       "label": "15",
       "sourceId": 15,
@@ -639,7 +670,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "instructionKo": "모의고사 문제를 푸시오. 고르기는 누르고, 빈칸은 그 칸의 말만 쓰세요.",
-      "itemCount": 24
+      "itemCount": 25
     }
   ]
 }

@@ -4,19 +4,8 @@
   "book": "j2-neung",
   "unit": "u07",
   "sourcePages": "pp.104-107",
-  "questionCount": 24,
-  "omitted": [
-    {
-      "page": "p.106",
-      "item": "16",
-      "reason": "가리키는 대상이 다른 ①~⑤의 밑줄 위치가 페이지 OCR에 없음. 답지 p.74 정답은 ③(게시물)."
-    },
-    {
-      "page": "p.107",
-      "item": "20",
-      "reason": "흐름상 어색한 문장의 밑줄 ①~⑤가 페이지 OCR에 없음. 답지 p.74 정답은 ④."
-    }
-  ],
+  "questionCount": 26,
+  "omitted": [],
   "questions": [
     {
       "sourceId": 1,
@@ -429,6 +418,34 @@
       "seconds": 45
     },
     {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q16",
+      "label": "16",
+      "sourceId": 16,
+      "group": "Q16",
+      "explainKo": "정답: ③. posted it의 it은 게시물이다. ① a nice backpack, ②④⑤ it은 책가방을 가리킨다. (답지 p.74 최종점검 모의고사 3회 16)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[14-19] 다음 글을 읽고, 물음에 답하시오.\n\nHello, I'm Jimin. Have you ever shared things ⓐ ______ bikes, books, or toys? Sharing saves resources and money, and it is good ⓑ ______ the environment. Let me tell you about my experience with the ⓒ ______ economy.\n\nLast week, I used an app to get a backpack. The app allows users to easily buy and sell secondhand items. Sometimes, people also give away items (A) that they don't need ⓓ ______. I saw a post about <u>①a nice backpack</u>. Someone was giving <u>②it</u> away. (B) 그것은 새것만큼 좋아 보였습니다. So, I sent a message to the person who posted <u>③it</u>.\n\nJimin: Hello, I saw the post that you wrote about the bag. Can I get <u>④it</u>?\nUser 1: Sure.\nJimin: Great! How can I get <u>⑤it</u>?\nUser 1: Can you come ⓔ ______ Central Park at 3:00 p.m. tomorrow?\nJimin: Sure! I'll see you then. Thank you!\n\n16 윗글의 밑줄 친 ①~⑤ 중 가리키는 대상이 나머지와 다른 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
       "sourceId": 17,
       "group": "Q17",
       "explainKo": "정답: It looked as good as a new one. (답지 p.74 최종점검 모의고사 3회 17, 해설 p.75) look + as + 형용사 원급 + as. 여덟 단어.",
@@ -498,6 +515,34 @@
       "phraseBlank": false,
       "promptKo": "이 문항은 (1) 빈칸만 씁니다.",
       "seconds": 70
+    },
+    {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q20",
+      "label": "20",
+      "sourceId": 20,
+      "group": "Q20",
+      "explainKo": "정답: ④. 자전거를 고르고 QR코드를 스캔하는 절차 사이에, 아침 운동으로 자전거를 탄다는 문장은 흐름과 맞지 않는다. (답지 p.74 최종점검 모의고사 3회 20)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[20-22] 다음 글을 읽고, 물음에 답하시오.\n\nThe next day, I got ready to go to the park. <u>①I decided to borrow a bike instead of taking a bus.</u> <u>②My city has a bike-sharing system. If you have an app, you can borrow a bike easily.</u> <u>③First, you choose a bike that you want to use.</u> <u>④Some people enjoy riding bikes for exercise in the morning.</u> <u>⑤Then you scan the QR code on the bike.</u> (B) This makes the bike's lock to open.\n\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When I got there, I returned the bike to a station in the park. Using the bike was really easy because I only needed to scan a QR code to use it. Also, I was happy to help the environment by borrowing a bike.\n\n20 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
     },
     {
       "sourceId": 21,
@@ -652,7 +697,7 @@
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 17문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 5문항, Section C · 서술형. 문장 전체를 쓰시오. 2문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요. 정답은 답지 p.74 (14번 이후 해설은 p.75).",
+  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 19문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 5문항, Section C · 서술형. 문장 전체를 쓰시오. 2문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요. 정답은 답지 p.74 (14번 이후 해설은 p.75).",
   "sections": [
     {
       "id": "sM",
@@ -662,7 +707,7 @@
       "instructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "itemCount": 17
+      "itemCount": 19
     },
     {
       "id": "sF",

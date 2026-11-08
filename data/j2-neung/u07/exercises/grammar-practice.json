@@ -4,19 +4,8 @@
   "book": "j2-neung",
   "unit": "u07",
   "sourcePages": "pp.146-147",
-  "questionCount": 15,
-  "omitted": [
-    {
-      "page": "p.147",
-      "item": "11",
-      "reason": "답지 해설은 ⓑⓒⓔ가 사역동사 had라고 하나, 선택지 ⑤가 OCR에 없고 답지 동그라미 번호가 흐려 번호를 확정할 수 없음"
-    },
-    {
-      "page": "p.147",
-      "item": "13",
-      "reason": "①의 영어 문장과 ③의 우리말이 OCR에서 빠져 선택지를 확정할 수 없음"
-    }
-  ],
+  "questionCount": 17,
+  "omitted": [],
   "questions": [
     {
       "id": "1",
@@ -283,6 +272,33 @@
       "seconds": 45
     },
     {
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르거나, 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "고르기는 하나를 누르세요. 빈칸은 그 칸의 말만 쓰고, 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸에 들어갈 말을 쓰시오. 고르기는 하나를 누르세요. 빈칸은 그 칸의 말만 쓰고, 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "11",
+      "label": "11",
+      "sourceId": "11",
+      "explainKo": "정답: ④ ⓑ, ⓒ, ⓔ. 보기 had는 사역동사(had + 목적어 + 동사원형)이다. ⓑⓒⓔ가 같다. ⓐ는 '가지고 있다', ⓓ는 '했다(경험)'이다. (답지 p.28 Grammar 실전 11)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것끼리 바르게 짝지어진 것은?\n<보기>\nMy mom <u>had</u> me do my homework.\n\nⓐ I <u>had</u> something to give you.\nⓑ We <u>had</u> them finish the work.\nⓒ Ms. Kim <u>had</u> him wait outside.\nⓓ They <u>had</u> a picnic last Sunday.\nⓔ He <u>had</u> his sister open the door.",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓐ, ⓒ",
+        "ⓑ, ⓓ",
+        "ⓑ, ⓒ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
       "id": "12",
       "label": "12",
       "sourceId": "12",
@@ -308,6 +324,33 @@
         1
       ],
       "seconds": 45
+    },
+    {
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르거나, 빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "고르기는 하나를 누르세요. 빈칸은 그 칸의 말만 쓰고, 문장은 전체를 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르거나, 빈칸에 들어갈 말을 쓰시오. 고르기는 하나를 누르세요. 빈칸은 그 칸의 말만 쓰고, 문장은 전체를 쓰세요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "13",
+      "label": "13",
+      "sourceId": "13",
+      "explainKo": "정답: ⑤. had의 목적격 보어는 동사원형이다. had him to wash → had him wash. ① let, ② made, ③ have, ④ got ... to는 맞다. (답지 p.28 Grammar 실전 13)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "다음 중 우리말을 영작한 것으로 적절하지 않은 것은?\n① 그들은 그녀가 테니스 동아리에 가입하는 것을 허락했다.\n→ They let her join the tennis club.\n② 그는 그의 팀이 매일 연습하게 했다.\n→ He made his team practice every day.\n③ 그가 당신에게 내일 전화하도록 하겠습니다.\n→ I will have him call you tomorrow.\n④ 그녀는 자신의 아들에게 매일 아침 개를 산책시키도록 했다.\n→ She got her son to walk the dog every morning.\n⑤ 그녀는 그에게 먹기 전에 손을 씻도록 했다.\n→ She had him to wash his hands before eating.",
+      "choices": [
+        "They let her join the tennis club.",
+        "He made his team practice every day.",
+        "I will have him call you tomorrow.",
+        "She got her son to walk the dog every morning.",
+        "She had him to wash his hands before eating."
+      ],
+      "correctIndexes": [
+        5
+      ]
     },
     {
       "id": "14",
@@ -392,7 +435,7 @@
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "통과 80%. pp.146-147. 고르기와 빈칸이 섞여 있다. 11번과 13번은 원문 확인 전 빼 두었다. 고르기는 누르고, 빈칸은 그 칸만 쓰세요.",
+  "introKo": "통과 80%. pp.146-147. 고르기와 빈칸이 섞여 있다. 고르기는 누르고, 빈칸은 그 칸만 쓰세요.",
   "sections": [
     {
       "id": "s1",
@@ -402,7 +445,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "instructionKo": "알맞은 것을 고르거나, 빈칸에 들어갈 말을 쓰시오. 고르기는 하나를 누르세요. 빈칸은 그 칸의 말만 쓰고, 문장은 전체를 쓰세요.",
-      "itemCount": 15
+      "itemCount": 17
     }
   ]
 }

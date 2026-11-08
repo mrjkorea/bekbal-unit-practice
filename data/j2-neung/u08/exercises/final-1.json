@@ -4,29 +4,8 @@
   "book": "j2-neung",
   "unit": "u08",
   "sourcePages": "pp.108-111",
-  "questionCount": 23,
-  "omitted": [
-    {
-      "page": "p.108",
-      "item": "05",
-      "reason": "답지 p.75 정답은 ③(I'm surprised for → that)이나 밑줄 ⓐ~ⓔ가 본문 OCR에 다 찍히지 않음"
-    },
-    {
-      "page": "p.109",
-      "item": "12",
-      "reason": "답지 p.75 정답은 ④이나 ⓐ~ⓔ 짝 선택지가 OCR에서 끝까지 읽히지 않음"
-    },
-    {
-      "page": "p.110",
-      "item": "18",
-      "reason": "답지 p.76 해설은 ③(강아지 훈련과 AI is similar 사이)이나 ①~⑤ 삽입 번호가 문장에 다 찍히지 않음"
-    },
-    {
-      "page": "p.111",
-      "item": "22",
-      "reason": "답지 p.76 해설은 ④(others' → your own)이나 밑줄 ①~⑤ 위치가 본문에 다 찍히지 않음"
-    }
-  ],
+  "questionCount": 27,
+  "omitted": [],
   "questions": [
     {
       "sourceId": 1,
@@ -132,6 +111,34 @@
       ],
       "select": "one",
       "seconds": 45
+    },
+    {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q05",
+      "label": "5",
+      "sourceId": 5,
+      "group": "Q05",
+      "explainKo": "정답: ③ ⓒ. I'm surprised for → I'm surprised that. 놀람의 내용은 that절이다. (답지 p.75 최종점검 모의고사 1회 05)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\n\nB: There are so many things to see at this show!\nG: You're right. What would you like <u>ⓐto see</u> first?\nB: Have you <u>ⓑheard</u> about self-driving bikes? I'd like to see them first!\nG: Oh, I'm surprised <u>ⓒfor</u> a bike can drive itself! How <u>ⓓdo</u> self-driving bikes work?\nB: They have cameras and sensors. So, they can check the area around them, and they can choose the best way.\nG: They sound similar to self-driving cars. What else can they do?\nB: They can stop <u>ⓔby</u> themselves if there is something in the way.\nG: Wow, that's interesting.\n\n05 위 대화의 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것은?",
+      "choices": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "correctIndexes": [
+        3
+      ]
     },
     {
       "sourceId": 6,
@@ -321,6 +328,34 @@
       "seconds": 45
     },
     {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q12",
+      "label": "12",
+      "sourceId": 12,
+      "group": "Q12",
+      "explainKo": "정답: ④ ⓐ, ⓓ, ⓔ. It is + 형용사 + to부정사, 그리고 where to go가 맞다. ⓑ when leave → when to leave, ⓒ interesting read → interesting to read. (답지 p.75 최종점검 모의고사 1회 12)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "다음 중 어법상 옳은 것끼리 바르게 짝지어진 것은?\nⓐ It is helpful to write a to-do list.\nⓑ I'm not sure when leave the house.\nⓒ It is interesting read books about history.\nⓓ It is important to review the lesson every day.\nⓔ We haven't decided where to go for our vacation.",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓔ",
+        "ⓐ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "correctIndexes": [
+        4
+      ]
+    },
+    {
       "sourceId": 13,
       "group": "Q13",
       "explainKo": "정답: It is careless of him to lose his wallet. (답지 p.75 최종점검 모의고사 1회 13). careless는 of + 목적격.",
@@ -448,6 +483,34 @@
       "seconds": 45
     },
     {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q18",
+      "label": "18",
+      "sourceId": 18,
+      "group": "Q18",
+      "explainKo": "정답: ③. 'Your dog will learn from information and experiences.'는 강아지 훈련 문장과 AI is similar 사이에 들어간다. (답지 p.76 최종점검 모의고사 1회 18)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[17-21] 다음 글을 읽고, 물음에 답하시오.\n\nUser: It is hard (A) to understand your explanation. Can you give me an example?\nANNIE: Sure! (①) Imagine that you have a new pet dog. (②) And you want to teach it how ⓐ ______ sit and stay. (③) AI is similar. (④) But you don't have to give AI a snack! (⑤)\nUser: How is AI used ⓑ ______ everyday life?\nANNIE: AI is used in many situations. ⓒ ______ example, AI technology can recommend new videos that you may like. (B) 그것은 당신이 어떤 영상들을 이미 시청했었는지 학습합니다. Then it decides what to recommend. AI can also recognize your face to unlock your smartphone. It learns what your face looks like. ⓓ ______ time, it gets better at recognizing you, ⓔ ______ if you change your hair or wear a mask.\n\n18 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nYour dog will learn from information and experiences.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        3
+      ]
+    },
+    {
       "sourceId": 19,
       "group": "Q19",
       "explainKo": "정답: ④ (d): On. (답지 p.75 최종점검 모의고사 1회 19). (d)는 Over time이다. On이 아니다.",
@@ -523,6 +586,34 @@
       ],
       "select": "one",
       "seconds": 45
+    },
+    {
+      "section": "sM",
+      "sectionTitle": "Section A · 객관식. 보기를 누르시오.",
+      "directionKo": "객관식. 보기를 누르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "id": "Q22",
+      "label": "22",
+      "sourceId": 22,
+      "group": "Q22",
+      "explainKo": "정답: ④. others' words → your own words. 정보를 그대로 베끼지 말고 자기 말로 써야 한다. (답지 p.76 최종점검 모의고사 1회 22)",
+      "type": "mc",
+      "select": "one",
+      "seconds": 45,
+      "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\n\nUser: Here is my last question: What should I be careful about when I use AI?\nANNIE: You should <u>①keep the following things in mind</u>:\n1. Accuracy: AI <u>②is not always correct</u>, so you should always carefully check the information that it provides.\n2. Originality: Even if the information is correct, <u>③do not blindly copy it</u>. Make sure you understand it, and then <u>④write it in others' words</u>.\n3. Privacy: It is not safe to share your ⓐ ______ information with AI, because it could see your private things.\nIf you are careful about these things, you can use AI safely and wisely.\nUser: Got it, thanks!\nANNIE: You're welcome! If you need help in the future, <u>⑤feel free to ask</u>. I can always help you. Have a great day!\n\n22 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ]
     },
     {
       "sourceId": 23,
@@ -628,7 +719,7 @@
     }
   ],
   "sectionsVersion": 2,
-  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 15문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 5문항, Section C · 서술형. 문장 전체를 쓰시오. 3문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
+  "introKo": "이 연습은 Section A · 객관식. 보기를 누르시오. 19문항, Section B · 서술형. 빈칸에 들어갈 말만 쓰시오. 5문항, Section C · 서술형. 문장 전체를 쓰시오. 3문항으로 되어 있어요. 고르기는 번호를 쓰지 않고 누르고, 빈칸은 그 칸의 말만, 영작·다시 쓰기는 문장 전체를 쓰세요. 맞힌 답은 종이책에도 적으세요.",
   "sections": [
     {
       "id": "sM",
@@ -638,7 +729,7 @@
       "instructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "itemCount": 15
+      "itemCount": 19
     },
     {
       "id": "sF",
