@@ -245,8 +245,20 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "to부정사 명사적 용법 · 감탄문 How/What",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u07-0",
+     "title": "to부정사의명사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/toverbnoun.pdf"
+    },
+    {
+     "id": "quiz-u07-1",
+     "title": "to부정사의명사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-05/walk1"
+    },
     {
      "id": "gf-green2-u05-fly",
      "title": "to부정사 명사적 Fly",

@@ -220,8 +220,32 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "make+O+형용사 (5형식) · 접속사 that",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u07-0",
+     "title": "5형 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/5HSobject.pdf.pdf"
+    },
+    {
+     "id": "quiz-u07-1",
+     "title": "5형 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-01/c01-u1-A"
+    },
+    {
+     "id": "note-u07-2",
+     "title": "접속사 that · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/jeobsoksathat.pdf"
+    },
+    {
+     "id": "quiz-u07-3",
+     "title": "접속사 that · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/wrap"
+    },
     {
      "id": "gf-green4-u03-jump",
      "title": "make+O+형용사 Jump",

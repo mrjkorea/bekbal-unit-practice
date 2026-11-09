@@ -213,8 +213,32 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "사역동사 make/let/have+O+V · 원급 비교 as…as",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u07-0",
+     "title": "사역동사 make have let · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/sayeoksa.pdf"
+    },
+    {
+     "id": "quiz-u07-1",
+     "title": "사역동사 make have let · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-04/walk1"
+    },
+    {
+     "id": "note-u07-2",
+     "title": "원급as · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/weongeup.pdf"
+    },
+    {
+     "id": "quiz-u07-3",
+     "title": "원급as · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-04/walk1"
+    },
     {
      "id": "gf-green4-u04-fly",
      "title": "사역동사 Fly",

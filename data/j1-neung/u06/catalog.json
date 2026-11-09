@@ -230,8 +230,32 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "감각동사+형용사 · 접속사 because",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u06-0",
+     "title": "감각 동사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/gamgakverb.pdf"
+    },
+    {
+     "id": "quiz-u06-1",
+     "title": "감각 동사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-blue-4/unit-08/lesson01-run"
+    },
+    {
+     "id": "note-u06-2",
+     "title": "because 접속사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/because%20jeopsoksa.pdf"
+    },
+    {
+     "id": "quiz-u06-3",
+     "title": "because 접속사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/walk1"
+    },
     {
      "id": "gf-blue4-u08-lesson01-fly",
      "title": "감각동사+형용사 Fly",

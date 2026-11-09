@@ -261,8 +261,32 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "to부정사 부사적 (목적) · 접속사 that 명사절",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u08-0",
+     "title": "to부정사부사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/tobujungboosa.pdf"
+    },
+    {
+     "id": "quiz-u08-1",
+     "title": "to부정사부사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-06/walk2"
+    },
+    {
+     "id": "note-u08-2",
+     "title": "접속사 that · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/jeobsoksathat.pdf"
+    },
+    {
+     "id": "quiz-u08-3",
+     "title": "접속사 that · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-4/unit-08/wrap"
+    },
     {
      "id": "gf-green2-u06-fly",
      "title": "to부정사 부사적 Fly",

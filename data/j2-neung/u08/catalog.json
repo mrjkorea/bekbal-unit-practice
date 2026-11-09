@@ -213,8 +213,32 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "가주어 it+to V · 의문사+to부정사",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u08-0",
+     "title": "가주어IT · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/gahjuit.pdf"
+    },
+    {
+     "id": "quiz-u08-1",
+     "title": "가주어IT · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-05/c05-u4-A"
+    },
+    {
+     "id": "note-u08-2",
+     "title": "의문사to부정사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/moonseotobujeong.pdf"
+    },
+    {
+     "id": "quiz-u08-3",
+     "title": "의문사to부정사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-2/unit-08/walk2"
+    },
     {
      "id": "gf-chunilmun2-chapter05-c05-u1-A",
      "title": "천2 가주어 it~to SB A",

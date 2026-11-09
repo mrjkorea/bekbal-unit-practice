@@ -233,8 +233,20 @@
    "key": "G",
    "title": "Grammar focus",
    "lane": "focus",
-   "note": "감탄문 · -thing+형용사",
+   "note": "설명 노트 + 쪽지시험, then the practice drills · opens in a new tab",
    "exercises": [
+    {
+     "id": "note-u08-0",
+     "title": "thing 형용사 · 설명 노트",
+     "external": true,
+     "href": "https://mrjkorea.github.io/middle-school/notes/thing%20hyeongyongsa.pdf"
+    },
+    {
+     "id": "quiz-u08-1",
+     "title": "thing 형용사 · 쪽지시험",
+     "external": true,
+     "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/zap-green-3/unit-08/walk1"
+    },
     {
      "id": "gf-blue1-u01-lesson01-walk2",
      "title": "감탄문 intro",
