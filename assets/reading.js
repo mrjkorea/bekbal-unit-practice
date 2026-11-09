@@ -64,6 +64,13 @@
         scoreValue: value,
         scoreMax: max,
         eventKind: "learning_result",
+        /* the columns the sheet really fills (Reg/Metrics 2026-11-10):
+           course_name, assignment_id, unit_id and lesson_id. unitTitle has no
+           column of its own, so the copy of the library puts it in metadata. */
+        courseName: bookTitle,
+        unitId: unit,
+        assignmentId: meta && meta.assignmentId ? meta.assignmentId : "",
+        lessonId: meta && meta.lessonId ? meta.lessonId : "",
         metadata: meta || {}
       });
       if (p && p.then) {
@@ -259,7 +266,9 @@
         groups: groups.length,
         step: step,
         passed: passed,
-        packId: PACK
+        packId: PACK,
+        assignmentId: unitTag() + "_g" + (groupIndex + 1),
+        lessonId: "g" + (groupIndex + 1)
       });
     }
     testTally[step + ":" + groupIndex] = { right: right, total: total };
@@ -292,7 +301,13 @@
         uRight += testTally[k].right;
         uTotal += testTally[k].total;
       }
-      postScore(unitTag() + "_unit", uRight, uTotal, { steps: "dictation+writing+test", unit: true, packId: PACK });
+      postScore(unitTag() + "_unit", uRight, uTotal, {
+        steps: "dictation+writing+test",
+        unit: true,
+        packId: PACK,
+        assignmentId: unitTag(),
+        lessonId: "unit"
+      });
     }
     scoreEl.textContent = "";
   }

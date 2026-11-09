@@ -29,7 +29,9 @@
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js?v=20261030-cf-login-1.7.3"></script>
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js?v=20261030-cf-login-1.7.3"
         data-mrj-app="bekbal-reading" data-mrj-score-programs="bekbal-reading"></script>
-<script src="https://mrjkorea.github.io/word-master/mrj-scores.js?v=20261013-scoresrecv"></script>
-<script src="assets/reading.js?v=3"></script>
+<!-- Our own copy of the shared score library, from Reg/Metrics 2026-11-10: it sends
+     courseName, assignmentId, unitId and lessonId, which are the columns the sheet fills. -->
+<script src="assets/vendor/mrj-scores.js?v=20261110-course-unit"></script>
+<script src="assets/reading.js?v=4"></script>
 </body>
 </html>
