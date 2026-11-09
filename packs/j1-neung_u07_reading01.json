@@ -154,5 +154,19 @@
  "noPictures": true,
  "startAt": "dictation",
  "uiLang": "ko",
- "note": "Korean middle-school test pack: English and Korean only, no pictures, starts at Dictation."
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test.",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "langs": [
+  "en",
+  "ko"
+ ]
 }
