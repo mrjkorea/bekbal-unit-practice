@@ -9,6 +9,19 @@
   var unit = params.get("u") || "";
   var PACK = params.get("pack") || ("packs/" + book + "_" + unit + "_reading01.json");
   var PASS = 80;
+  // The eight voices Jay uses in Word Master: same order, same labels.
+  var VOICES = [
+    { id: "us_m", label: "미국 남자", lang: "en-US", pitch: 0.95, rate: 0.92 },
+    { id: "us_f", label: "미국 여자", lang: "en-US", pitch: 1.12, rate: 0.94 },
+    { id: "uk_m", label: "영국 남자", lang: "en-GB", pitch: 0.9, rate: 0.9 },
+    { id: "uk_f", label: "영국 여자", lang: "en-GB", pitch: 1.1, rate: 0.92 },
+    { id: "grandma", label: "할머니", lang: "en-US", pitch: 1.28, rate: 0.82 },
+    { id: "teenager", label: "십대", lang: "en-US", pitch: 1.18, rate: 1.02 },
+    { id: "grandpa", label: "할아버지", lang: "en-US", pitch: 0.72, rate: 0.84 },
+    { id: "robot", label: "로봇", lang: "en-US", pitch: 0.5, rate: 0.86, robot: true }
+  ];
+  var voiceId = localStorage.getItem("rf_voice") || "us_m";
+
   var GROUP = 5;
   var NEED = 2; // consecutive rights before a sentence is cleared
 
@@ -44,15 +57,45 @@
     if (!t) return false;
     return acceptList(card).some(function (a) { return norm(a) === t; });
   }
+  function voiceNow() {
+    for (var i = 0; i < VOICES.length; i++) if (VOICES[i].id === voiceId) return VOICES[i];
+    return VOICES[0];
+  }
+
   function speak(text) {
     if (!("speechSynthesis" in window)) return;
+    var v = voiceNow();
     try {
       speechSynthesis.cancel();
-      var u = new SpeechSynthesisUtterance(text);
-      u.lang = "en-US"; u.rate = 0.92;
+      var u = new SpeechSynthesisUtterance(v.robot ? String(text).replace(/\s+/g, " ") : text);
+      u.lang = v.lang;
+      u.pitch = v.pitch;
+      u.rate = v.rate;
+      var sys = window.speechSynthesis.getVoices().filter(function (x) { return x.lang === v.lang; });
+      if (sys.length) u.voice = sys[0];
       speechSynthesis.speak(u);
     } catch (e) {}
   }
+
+  function voiceBar() {
+    var h = '<div class="rf-voices">';
+    VOICES.forEach(function (v) {
+      h += '<button class="rf-voice' + (v.id === voiceId ? " on" : "") + '" data-voice="' + v.id + '">' + v.label + "</button>";
+    });
+    return h + "</div>";
+  }
+
+  function wireVoices() {
+    Array.prototype.forEach.call(document.querySelectorAll(".rf-voice"), function (b) {
+      b.onclick = function () {
+        voiceId = b.getAttribute("data-voice");
+        localStorage.setItem("rf_voice", voiceId);
+        Array.prototype.forEach.call(document.querySelectorAll(".rf-voice"), function (x) { x.classList.toggle("on", x === b); });
+        speak(current ? current.en : "");
+      };
+    });
+  }
+
   function markStep() {
     Array.prototype.forEach.call(stepsEl.children, function (li) {
       li.className = li.getAttribute("data-step") === step ? "on" : "";
@@ -93,9 +136,11 @@
     if (step === "dictation") {
       main.innerHTML = head +
         '<p class="rf-ask">영어 문장을 듣고 그대로 쓰세요.</p>' +
+        voiceBar() +
         '<p><button id="rf-play" class="rf-btn">🔊 다시 듣기</button></p>' +
         '<textarea id="rf-in" rows="3" placeholder="듣고 쓴 문장"></textarea>' +
         '<p><button id="rf-check" class="rf-btn primary">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
+      wireVoices();
       document.getElementById("rf-play").onclick = function () { speak(current.en); };
       speak(current.en);
     } else {

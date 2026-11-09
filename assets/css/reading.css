@@ -24,3 +24,6 @@ textarea { width:100%; padding:12px; font-size:1.05rem; border:1px solid #c7d5e6
 .rf-result.bad { color:var(--bad); }
 .rf-error { color:var(--bad); }
 .rf-loading { color:#5b6b80; }
+.rf-voices { display:flex; flex-wrap:wrap; gap:6px; margin:6px 0 12px; }
+.rf-voice { padding:6px 10px; border-radius:999px; border:1px solid #c7d5e6; background:#fff; font:inherit; font-size:.85rem; cursor:pointer; }
+.rf-voice.on { background:#1b63c4; border-color:#1b63c4; color:#fff; }
