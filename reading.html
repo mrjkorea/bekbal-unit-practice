@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Reading Focus · 백발백중</title>
 <link rel="stylesheet" href="assets/css/reading.css">
+<!-- MRJ Classroom Metrics: the shared sign-in door and the one score sheet (Jay 28SEP2026). -->
+<link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css?v=20261030-cf-login-1.7.3">
 </head>
 <body>
 <header class="rf-head">
@@ -23,6 +25,11 @@
   <p class="rf-loading">불러오는 중…</p>
 </main>
 
-<script src="assets/reading.js?v=2"></script>
+<!-- Sign-in first, then the score library: a row is posted only for a signed-in student. -->
+<script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js?v=20261030-cf-login-1.7.3"></script>
+<script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js?v=20261030-cf-login-1.7.3"
+        data-mrj-app="bekbal-reading" data-mrj-score-programs="bekbal-reading"></script>
+<script src="https://mrjkorea.github.io/word-master/mrj-scores.js?v=20261013-scoresrecv"></script>
+<script src="assets/reading.js?v=3"></script>
 </body>
 </html>

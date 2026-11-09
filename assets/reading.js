@@ -41,6 +41,49 @@
   var right = 0;
   var asked = 0;
 
+  /* MRJ Classroom Metrics. One row per finished group, then one row for the whole unit.
+     The sheet is the only place a score goes: program bekbal-reading, appName Reading Focus. */
+  var bookTitle = "";
+  var unitTitle = "";
+  var testTally = {};   // "<step>:<group>" -> {right,total}, latest attempt, every step counted
+  var unitPosted = false;
+  var runSerial = 0;
+  var postedRuns = {};
+  var SCORE_PROGRAM = "bekbal-reading";
+
+  function postScore(itemId, value, max, meta) {
+    try {
+      if (!window.MRJ_SCORES || typeof window.MRJ_SCORES.post !== "function") return;
+      var p = window.MRJ_SCORES.post({
+        program: SCORE_PROGRAM,
+        appName: "Reading Focus",
+        bookTitle: bookTitle,
+        unitTitle: unitTitle,
+        itemId: itemId,
+        itemType: "reading_focus",
+        scoreValue: value,
+        scoreMax: max,
+        eventKind: "learning_result",
+        metadata: meta || {}
+      });
+      if (p && p.then) {
+        p.then(function (res) {
+          if (res && (res.status === "skipped" || res.error)) {
+            console.warn("[reading] score not sent", itemId, (res && res.status) || "", (res && res.error) || "");
+          } else {
+            console.log("[reading] score sent", itemId, value + "/" + max, (res && res.status) || "");
+          }
+        }).catch(function (e) { console.warn("[reading] score post failed", e); });
+      }
+    } catch (e) {
+      console.warn("[reading] score error", e);
+    }
+  }
+
+  function unitTag() {
+    return (book || "") + "_" + (unit || "");
+  }
+
   function esc(s) {
     return String(s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -123,6 +166,7 @@
     firstTry = {};
     right = 0;
     asked = 0;
+    runSerial++;
     scoreEl.textContent = "";
     render();
   }
@@ -156,6 +200,9 @@
 
   function check() {
     var typed = document.getElementById("rf-in").value;
+    /* a fast double tap must not answer twice, or one group posts two rows */
+    var btn = document.getElementById("rf-check");
+    if (btn) btn.disabled = true;
     var ok = isRight(current, typed);
     var fb = document.getElementById("rf-fb");
     asked++;
@@ -202,6 +249,21 @@
     var passed = pct >= PASS;
     var last = groupIndex + 1 >= groups.length;
     var nextLabel = step === "dictation" ? "쓰기로" : step === "writing" ? "시험으로" : "다음 묶음";
+
+    /* one row per finished group, first try only counted, same number the student sees */
+    var runKey = step + ":" + groupIndex + ":" + runSerial;
+    if (!postedRuns[runKey]) {
+      postedRuns[runKey] = true;
+      postScore(unitTag() + "_g" + (groupIndex + 1) + "_" + step, right, total, {
+        group: groupIndex + 1,
+        groups: groups.length,
+        step: step,
+        passed: passed,
+        packId: PACK
+      });
+    }
+    testTally[step + ":" + groupIndex] = { right: right, total: total };
+
     var html = '<p class="rf-count">' + stepName(step) + " · " + (groupIndex + 1) + " / " + groups.length + " 묶음 결과</p>" +
       '<p class="rf-result ' + (passed ? "good" : "bad") + '">' + pct + "% · " + right + " / " + total + "</p>";
     if (!passed) {
@@ -219,7 +281,19 @@
     if (!passed) document.getElementById("rf-again").onclick = startGroup;
     else if (!last) document.getElementById("rf-next").onclick = function () { groupIndex++; startGroup(); };
     else if (step !== "test") document.getElementById("rf-next").onclick = function () { startPhase(step === "dictation" ? "writing" : "test"); };
-    else document.getElementById("rf-restart").onclick = function () { startPhase("dictation"); };
+    else document.getElementById("rf-restart").onclick = function () { unitPosted = false; testTally = {}; startPhase("dictation"); };
+
+    /* the whole unit, once the last test group passes: every step, first try only */
+    if (step === "test" && last && passed && !unitPosted) {
+      unitPosted = true;
+      var uRight = 0, uTotal = 0;
+      for (var k in testTally) {
+        if (!Object.prototype.hasOwnProperty.call(testTally, k)) continue;
+        uRight += testTally[k].right;
+        uTotal += testTally[k].total;
+      }
+      postScore(unitTag() + "_unit", uRight, uTotal, { steps: "dictation+writing+test", unit: true, packId: PACK });
+    }
     scoreEl.textContent = "";
   }
 
@@ -228,8 +302,23 @@
     .then(function (pack) {
       cards = (pack.words || []).map(function (w) { return { id: w.id, en: w.en, ko: w.ko, accept: w.accept }; });
       titleEl.textContent = pack.title || "Reading Focus";
+      /* the sheet wants the book and the unit by name, not just the pack id */
+      book = pack.book || book;
+      unit = pack.unit || unit;
+      bookTitle = pack.bookTitle || pack.book || book;
+      unitTitle = pack.title || [book, unit].join(" ");
       if (!cards.length) throw new Error("empty");
-      startPhase("dictation");
+      /* a readable book name for the sheet, from the site's own book list; a miss is harmless */
+      fetch("data/books.json", { cache: "no-store" })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (list) {
+          var books = (list && list.books) || [];
+          for (var i = 0; i < books.length; i++) {
+            if (books[i].slug === book && books[i].title) { bookTitle = books[i].title; break; }
+          }
+        })
+        .catch(function () {})
+        .then(function () { startPhase("dictation"); });
     })
     .catch(function (e) {
       main.innerHTML = '<p class="rf-error">이 단원의 Reading Focus 문장 팩을 찾지 못했습니다.<br><small>' +
