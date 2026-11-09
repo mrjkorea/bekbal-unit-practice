@@ -78,3 +78,30 @@ input[type="text"]:focus,textarea:focus{outline:none;border-color:#1f9a55;box-sh
 .result-line{white-space:pre-wrap}
 .explain{white-space:pre-wrap;color:#243028}
 .remind{background:#fff3cd;border:3px solid #e63946;border-radius:16px;padding:14px;font-size:1.05rem;font-weight:800;color:#9b2226;margin:14px 0}
+
+/* ---- Focus blocks (unit page redesign) ---- */
+body[data-page="unit"] main{max-width:960px}
+.focus{margin:26px 0 8px;border-radius:20px;background:#fff;box-shadow:0 6px 22px #0f172a14;overflow:hidden;border:1px solid #e6ecf3}
+.focus-head{display:flex;align-items:center;gap:10px;padding:14px 18px;color:#fff;font-weight:900;font-size:19px}
+.focus-head .cnt{margin-left:auto;font-size:14px;font-weight:800;background:#ffffff2e;padding:4px 10px;border-radius:999px}
+.focus-body{padding:14px 16px 18px;display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+.focus-body.single{grid-template-columns:1fr}
+.focus.vocab .focus-head{background:linear-gradient(135deg,#2563eb,#1e40af)}
+.focus.reading .focus-head{background:linear-gradient(135deg,#0891b2,#0e7490)}
+.focus.grammar .focus-head{background:linear-gradient(135deg,#7c3aed,#5b21b6)}
+.focus.tests .focus-head{background:linear-gradient(135deg,#ea580c,#9a3412)}
+.ex{display:flex;flex-direction:column;gap:4px;padding:12px 14px;border-radius:14px;border:2px solid #e2e8f0;background:#fbfdff;text-decoration:none;color:#0f172a;transition:transform .1s,border-color .1s}
+.ex:hover{transform:translateY(-2px);border-color:#94a3b8}
+.ex.done{background:#ecfdf5;border-color:#22c55e}
+.ex .t{font-weight:900;font-size:15px}
+.ex .m{font-size:12.5px;color:#64748b;font-weight:700}
+.ex .sc{font-size:12.5px;font-weight:900;color:#15803d}
+.ex.off{opacity:.6}
+.gram-tools{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin:0 0 4px}
+.tool{display:flex;align-items:center;gap:8px;padding:11px 13px;border-radius:12px;font-weight:900;font-size:14px;text-decoration:none;color:#fff;box-shadow:0 3px 0 #0002}
+.tool.v{background:linear-gradient(#a78bfa,#7c3aed)}
+.tool.n{background:linear-gradient(#fcd34d,#d97706);color:#4a2d00}
+.tool.q{background:linear-gradient(#6ee7b7,#059669)}
+.tool.p{background:linear-gradient(#f9a8d4,#db2777)}
+.tool.soon{background:linear-gradient(#cbd5e1,#94a3b8);color:#334155;box-shadow:none}
+.focus-sub{grid-column:1/-1;font-size:12.5px;font-weight:900;color:#64748b;text-transform:uppercase;letter-spacing:.04em;margin-top:2px}

@@ -27,33 +27,97 @@ async function book() {
   if (!b) return (app.textContent = "Book not found");
   app.innerHTML = `<h1>${esc(b.title)}</h1><div class="grid">${b.units.map((u) => `<a class="card ${u.status === "coming-soon" ? "off" : ""}" href="unit.html?b=${b.slug}&u=${u.unit}">${u.label}<span class="tag ${u.status}">${STATUS[u.status]}</span></a>`).join("")}</div>`;
 }
+function pickFocus(e) {
+  const id = (e && e.id) || "";
+  const t = (e && e.title) || "";
+  if (/^vocab/.test(id) || /^(Words|Expressions)/i.test(t)) return "vocab";
+  if (/^(dialog|reading|plus|writing)/.test(id) || /^Reading Focus/i.test(t)) return "reading";
+  if (/^grammar/.test(id)) return "grammar";
+  if (/^(x10|mock|review|final|midterm)/.test(id)) return "tests";
+  if (e && e.external) {
+    if (/쪽지|노트|영상|Walk|Fly|Jump|Wrap|천1|천2|Grammar/i.test(t)) return "grammar";
+    if (/Words|Expressions/i.test(t)) return "vocab";
+    if (/Reading/i.test(t)) return "reading";
+    return "tests";
+  }
+  return "tests";
+}
+const FOCUS = [
+  { key: "vocab",   title: "① 단어 Focus · Vocabulary" },
+  { key: "reading", title: "② 읽기 Focus · Reading" },
+  { key: "grammar", title: "③ 문법 Focus · Grammar" },
+  { key: "tests",   title: "④ 100발백중 · X-10 시험" }
+];
+
+function bekDone() { try { return JSON.parse(localStorage.getItem("bek.progress.v1") || "{}"); } catch (e) { return {}; } }
+function bekScore() { try { return JSON.parse(localStorage.getItem("bek.scores.v1") || "{}"); } catch (e) { return {}; } }
+
 async function unit() {
   const b = qs.get("b"), u = qs.get("u");
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
-  const exerciseCard = (e) => {
+  let links = {};
+  try { links = (await getJSON("data/grammar-links.json"))[b + "|" + u] || {}; } catch (e) { links = {}; }
+  const done = bekDone(), scores = bekScore();
+
+  const card = (e) => {
+    const key = b + "|" + u + "|" + e.id;
+    const isDone = !!done[key];
+    const sc = scores[key];
     if (e.external && /^https:\/\//.test(e.href || "")) {
-      return `<a class="card" href="${esc(e.href)}" target="_blank" rel="noopener">${esc(e.title)}</a>`;
+      return `<a class="ex" href="${esc(e.href)}" target="_blank" rel="noopener"><span class="t">${esc(e.title)}</span><span class="m">다른 사이트에서 열립니다</span></a>`;
     }
-    if (e.deferred) return `<div class="card off">${esc(e.title)}<span class="tag deferred">확인 필요</span>${e.reason ? `<br><small>${esc(e.reason)}</small>` : ""}</div>`;
-    const n = e.questionCount ? ` <small>(${e.questionCount})</small>` : "";
-    const hold = e.omittedCount ? `<br><small>OCR 확인 보류 ${e.omittedCount}문항</small>` : "";
-    return `<a class="card" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">${esc(e.title)}${n}${hold}</a>`;
+    if (e.deferred) return `<div class="ex off"><span class="t">${esc(e.title)}</span><span class="m">확인 필요</span></div>`;
+    const n = e.questionCount ? ` · ${e.questionCount}문항` : "";
+    const hold = e.omittedCount ? ` · 보류 ${e.omittedCount}` : "";
+    return `<a class="ex${isDone ? " done" : ""}" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">` +
+      `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
+      `<span class="m">${n.replace(" ·", "")}${hold}</span>` +
+      (sc ? `<span class="sc">점수 ${sc.got} / ${sc.total}</span>` : "") + `</a>`;
   };
-  const sectionBody = (s) => {
-    const exercises = s.exercises || [];
-    if (!exercises.length) {
-      if (s.lane === "focus") {
-        return `<div class="card off">${esc(s.title)}<span class="tag coming-soon">Coming soon</span>${s.note ? `<br><small>${esc(s.note)}</small>` : ""}</div>`;
+
+  const tools = () => {
+    const t = links;
+    const v = t.video ? `<a class="tool v" href="${esc(t.video)}" target="_blank" rel="noopener">▶ 문법 영상</a>` : `<span class="tool soon">▶ 영상 준비 중</span>`;
+    const n = t.notes ? `<a class="tool n" href="${esc(t.notes)}" target="_blank" rel="noopener">📄 문법 노트</a>` : `<span class="tool soon">📄 노트 준비 중</span>`;
+    const q = t.quick ? `<a class="tool q" href="${esc(t.quick)}" target="_blank" rel="noopener">⚡ 퀵 테스트</a>` : `<span class="tool soon">⚡ 퀵 테스트 준비 중</span>`;
+    const p = t.practice ? `<a class="tool p" href="${esc(t.practice)}" target="_blank" rel="noopener">📝 추가 연습</a>` : `<span class="tool soon">📝 추가 연습 준비 중</span>`;
+    return `<div class="gram-tools">${v}${n}${q}${p}</div>`;
+  };
+
+  const all = [];
+  (c.sections || []).forEach((s) => (s.exercises || []).forEach((e) => all.push(e)));
+
+  let html = `<p class="crumb"><a href="book.html?b=${b}">← 단원 목록</a></p>` +
+    `<h1 class="practice-title">${esc(c.label)}<span class="tag ${c.status}">${STATUS[c.status] || c.status}</span></h1>`;
+
+  FOCUS.forEach((f) => {
+    const list = all.filter((e) => pickFocus(e) === f.key);
+    const finished = list.filter((e) => done[b + "|" + u + "|" + e.id]).length;
+    html += `<section class="focus ${f.key}"><div class="focus-head">${f.title}` +
+      (list.length ? `<span class="cnt">${finished} / ${list.length}</span>` : `<span class="cnt">Coming soon</span>`) +
+      `</div><div class="focus-body${f.key === "grammar" ? "" : ""}">`;
+    if (f.key === "grammar") html += tools();
+    if (!list.length) {
+      html += `<div class="ex off"><span class="t">아직 준비 중입니다</span><span class="m">Coming soon</span></div>`;
+    } else if (f.key === "grammar") {
+      const core = list.filter((e) => !e.external);
+      const extra = list.filter((e) => e.external);
+      html += core.length ? core.map(card).join("") : `<div class="ex off"><span class="t">교재 문법 문제 준비 중</span><span class="m">Coming soon</span></div>`;
+      if (extra.length) {
+        html += `<div class="focus-sub">추가 연습 · Zap · 천일문 · 영상</div>` + extra.map(card).join("");
       }
-      return `<p class="card off">Coming soon</p>`;
+    } else {
+      html += list.map(card).join("");
     }
-    const note = s.lane === "focus" && s.note ? `<p><small>${esc(s.note)}</small></p>` : "";
-    return note + `<div class="grid">${exercises.map(exerciseCard).join("")}</div>`;
-  };
-  app.innerHTML = `<p><a href="book.html?b=${b}">← 단원 목록</a></p><h1>${esc(c.label)} <span class="tag ${c.status}">${STATUS[c.status] || c.status}</span></h1>` +
-    (c.note ? `<p>${esc(c.note)}</p>` : "") +
-    c.sections.map((s) => `<h2>${esc(s.title)}</h2>` + sectionBody(s)).join("");
+    html += `</div></section>`;
+  });
+
+  const leftover = [];
+  if (leftover.length) {
+    html += `<section class="focus tests"><div class="focus-head">기타</div><div class="focus-body">` + leftover.map(card).join("") + `</div></section>`;
+  }
+  app.innerHTML = html;
 }
 
 function legacyExercise(ex) {
@@ -514,6 +578,19 @@ async function play() {
     const pct = total ? score / total : 0;
     const passed = pct >= PASS;
     const reveal = passed || attempts >= MAX_ATTEMPTS;
+    try {
+      const bk = qs.get("b"), un = qs.get("u"), exid = qs.get("e") || "";
+      const k = bk + "|" + un + "|" + exid;
+      const d = JSON.parse(localStorage.getItem("bek.progress.v1") || "{}");
+      const sc = JSON.parse(localStorage.getItem("bek.scores.v1") || "{}");
+      sc[k] = { got: score, total: total, pct: Math.round(pct * 100), at: Date.now() };
+      if (passed) d[k] = Date.now();
+      localStorage.setItem("bek.progress.v1", JSON.stringify(d));
+      localStorage.setItem("bek.scores.v1", JSON.stringify(sc));
+      const SP = window.StudyProgress;
+      if (SP && SP.markDone) SP.markDone("bek|" + k);
+    } catch (e) {}
+
     const mistakes = score < total;
     const allMatch = (ex.questions || []).length > 0 && (ex.questions || []).every((q) => q.type === "match");
     const unitName = allMatch ? " 짝" : "";
