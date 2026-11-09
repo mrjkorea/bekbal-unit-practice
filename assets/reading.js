@@ -146,6 +146,27 @@
     });
   }
 
+
+  var PACK_ID = PACK.split("/").pop().replace(/\.json$/, "");
+  var audioCache = {};
+
+  function audioUrl(card) {
+    return "packs/" + PACK_ID + "/audio/us_m/" + String(card.id).toLowerCase() + ".mp3";
+  }
+
+  function playCard(card) {
+    var url = audioUrl(card);
+    try {
+      var a = audioCache[url] || (audioCache[url] = new Audio(url));
+      a.currentTime = 0;
+      var pr = a.play();
+      if (pr && pr.catch) pr.catch(function () { speak(card.en); });
+      return;
+    } catch (e) {
+      speak(card.en);
+    }
+  }
+
   function markStep() {
     Array.prototype.forEach.call(stepsEl.children, function (li) {
       li.className = li.getAttribute("data-step") === step ? "on" : "";
@@ -187,13 +208,11 @@
     if (step === "dictation") {
       main.innerHTML = head +
         '<p class="rf-ask">영어 문장을 듣고 그대로 쓰세요.</p>' +
-        voiceBar() +
         '<p><button id="rf-play" class="rf-btn">🔊 다시 듣기</button></p>' +
         '<textarea id="rf-in" rows="3" placeholder="듣고 쓴 문장"></textarea>' +
         '<p><button id="rf-check" class="rf-btn primary">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
-      wireVoices();
-      document.getElementById("rf-play").onclick = function () { speak(current.en); };
-      speak(current.en);
+      document.getElementById("rf-play").onclick = function () { playCard(current); };
+      playCard(current);
     } else {
       main.innerHTML = head +
         '<p class="rf-ask">' + (step === "writing" ? "우리말을 보고 영어로 쓰세요." : "시험 · 우리말을 영어로 쓰세요.") + "</p>" +
