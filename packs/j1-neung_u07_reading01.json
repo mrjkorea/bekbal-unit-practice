@@ -150,5 +150,9 @@
    "en": "You are amazing at saving water!",
    "ko": "물 절약에 뛰어나요!"
   }
- ]
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "uiLang": "ko",
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, starts at Dictation."
 }

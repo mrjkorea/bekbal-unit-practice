@@ -105,5 +105,9 @@
    "en": "recognize",
    "ko": "알아보다, 인식하다"
   }
- ]
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "uiLang": "ko",
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, starts at Dictation."
 }

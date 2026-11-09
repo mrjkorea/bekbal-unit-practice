@@ -135,5 +135,9 @@
    "en": "You're welcome! If you need help in the future, feel free to ask. Have a great day!",
    "ko": "ANNIE: 천만에요! 앞으로 도움이 필요하면, 편하게 물어보세요. 좋은 하루 보내세요!"
   }
- ]
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "uiLang": "ko",
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, starts at Dictation."
 }
