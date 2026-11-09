@@ -1,0 +1,744 @@
+{
+ "id": "final-2",
+ "title": "최종점검 모의고사 2회",
+ "book": "중1 능률 김기택",
+ "unit": "Lesson 07 Save Earth, Save Us",
+ "sourcePages": "88-91",
+ "questionCount": 25,
+ "omitted": [],
+ "questions": [
+  {
+   "sourceId": 1,
+   "group": "01",
+   "promptEn": "01 다음 밑줄 친 It이 가리키는 것으로 가장 적절한 것은?\n<u>It</u> is a device used to control the flow of water from a pipe.",
+   "explainKo": "정답: ① tap. 파이프에서 나오는 물의 흐름을 조정하는 데 사용되는 장치는 tap(수도꼭지)입니다. (답지 56쪽 01)",
+   "id": "01",
+   "section": "s1",
+   "sectionTitle": "Section A · 01–03 단답",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "01",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "tap",
+    "bin",
+    "waste",
+    "activity",
+    "movement"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 2,
+   "group": "02",
+   "promptEn": "02 다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• I picked ⓐ________ the pencil from the floor.\n• The body takes several hours to break ⓑ________ fat.",
+   "explainKo": "정답: ④ up / down. pick up은 ‘~을 집다’, break down은 ‘분해하다’라는 뜻입니다. (답지 56쪽 02)",
+   "id": "02",
+   "section": "s1",
+   "sectionTitle": "Section A · 01–03 단답",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "02",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "on / away",
+    "up / off",
+    "by / down",
+    "up / down",
+    "on / away"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 3,
+   "group": "03",
+   "promptEn": "03 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n그는 초보자 요리 수업에 참석했다.\n→ He ________ ________ ________ the cooking class for beginners.",
+   "explainKo": "정답: took part in. ‘~에 참석하다’는 take part in이고, 과거이므로 took으로 씁니다. (답지 56쪽 03)",
+   "id": "03",
+   "section": "s1",
+   "sectionTitle": "Section A · 01–03 단답",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "03",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "took part in",
+    "tookpartin"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 4,
+   "group": "04",
+   "promptEn": "04 다음 대화의 빈칸에 들어갈 대답으로 적절하지 않은 것은?\nA: Do you know about this activity?\nB: ________",
+   "explainKo": "정답: ④ I don't agree with you. ‘이 활동에 대해 아니?’라는 물음에 ④ ‘나는 네 말에 동의하지 않아’라고 답하는 것은 어색합니다. (답지 56쪽 04)",
+   "id": "04",
+   "section": "s2",
+   "sectionTitle": "Section B · 04–06 대화",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "04",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "Yes, I do.",
+    "No, I don't.",
+    "I have no idea.",
+    "I don't agree with you.",
+    "Yes, it is about protecting nature."
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 5,
+   "group": "05",
+   "promptEn": "[05–06] 다음 대화를 읽고, 물음에 답하시오.\nG: Do you know about global warming?\nB: Yes, I do. Earth's temperature is rising. ⓐIt is a big problem.\nG: Right. The ice is melting quickly, and polar bears are losing their homes.\nB: We should do something to help ⓑthem.\n\n05 위 대화의 밑줄 친 ⓐ와 ⓑ가 가리키는 것끼리 바르게 짝지어진 것은?",
+   "explainKo": "정답: ⑤ global warming / polar bears. ⓐ ‘그것은 큰 문제야.’의 It은 앞 문장의 global warming이고, ⓑ ‘그들을 돕기 위해’의 them은 집을 잃어가고 있는 polar bears입니다. (답지 56쪽 05)",
+   "id": "05",
+   "section": "s2",
+   "sectionTitle": "Section B · 04–06 대화",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "05",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "Earth / homes",
+    "Earth / polar bears",
+    "global warming / homes",
+    "temperature / problems",
+    "global warming / polar bears"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 6,
+   "group": "06",
+   "promptEn": "[05–06] 다음 대화를 읽고, 물음에 답하시오.\nG: Do you know about global warming?\nB: Yes, I do. Earth's temperature is rising. ⓐIt is a big problem.\nG: Right. The ice is melting quickly, and polar bears are losing their homes.\nB: We should do something to help ⓑthem.\n\n06 위 대화의 내용과 일치하지 않는 것은?",
+   "explainKo": "정답: ⑤ We don't need to do anything to help. 대화의 마지막에 ‘우리는 그들을 돕기 위해 뭔가를 해야 해’라고 했으므로 ⑤는 일치하지 않습니다. (답지 56쪽 06)",
+   "id": "06",
+   "section": "s2",
+   "sectionTitle": "Section B · 04–06 대화",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "06",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "Global warming is a big problem.",
+    "The Earth's temperature is going up.",
+    "The ice is melting quickly.",
+    "Polar bears are losing their homes.",
+    "We don't need to do anything to help."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 7,
+   "group": "07",
+   "promptEn": "[07–08] 다음 대화를 읽고, 물음에 답하시오.\nA: Do you know about the eco club at our school? (①)\nB: No, I don't. (②) What do the club members do?\nA: They do a lot of things for Earth. (③)\nB: That sounds fun. Let's join the club together! (④)\nA: Sure. ⓐ너는 어떤 활동을 하고 싶니?\nB: I want to pick up waste. (⑤)\n\n07 위 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nFor example, they grow plants.",
+   "explainKo": "정답: ③. ‘그들은 지구를 위해 많은 일을 해.’ 뒤에 예를 드는 문장이 오는 것이 자연스럽습니다. (답지 56쪽 07)",
+   "id": "07",
+   "section": "s3",
+   "sectionTitle": "Section C · 07–08 대화 (eco club)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "07",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 8,
+   "group": "08",
+   "promptEn": "[07–08] 다음 대화를 읽고, 물음에 답하시오.\nA: Do you know about the eco club at our school? (①)\nB: No, I don't. (②) What do the club members do?\nA: They do a lot of things for Earth. (③)\nB: That sounds fun. Let's join the club together! (④)\nA: Sure. ⓐ너는 어떤 활동을 하고 싶니?\nB: I want to pick up waste. (⑤)\n\n08 위 대화의 밑줄 친 ⓐ의 우리말과 의미가 같도록 조건에 맞게 다음 문장을 완성하시오.\n조건 1. which, activity, want, do를 모두 이용할 것.\n조건 2. 총 7단어로 쓸 것.\n→ ________",
+   "explainKo": "정답: Which activity do you want to do? 조건 1의 네 단어를 넣고 7단어로 쓰면 Which(1) activity(2) do(3) you(4) want(5) to(6) do(7)입니다. (답지 56쪽 08)",
+   "id": "08",
+   "section": "s3",
+   "sectionTitle": "Section C · 07–08 대화 (eco club)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "08",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "Which activity do you want to do",
+    "Whichactivitydoyouwanttodo"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 100
+  },
+  {
+   "sourceId": 9,
+   "group": "09",
+   "promptEn": "09 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nShe believes ________ practice makes perfect.",
+   "explainKo": "정답: ② that. believes 뒤에 ‘주어 + 동사’의 절을 이끄는 접속사 that이 필요합니다. (답지 56쪽 09)",
+   "id": "09",
+   "section": "s4",
+   "sectionTitle": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "09",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "or",
+    "that",
+    "but",
+    "and",
+    "because"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 10,
+   "group": "10",
+   "promptEn": "10 다음 중 어법상 옳은 것은?",
+   "explainKo": "정답: ⑤ His answer made the teacher confused. make + 목적어 + 형용사의 구조입니다. (답지 56쪽 10)",
+   "id": "10",
+   "section": "s4",
+   "sectionTitle": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "10",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "The joke made our laugh.",
+    "The long wait made us tire.",
+    "The story made everyone angrily.",
+    "The noise made the baby scare.",
+    "His answer made the teacher confused."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 11,
+   "group": "11",
+   "promptEn": "11 다음 우리말에 맞도록 괄호 안의 단어들을 바르게 배열할 때, ⓐ에 들어갈 말로 가장 적절한 것은?\n그 실수는 내 가장 친한 친구를 긴장하게 만들었다.\n→ That mistake ________ ________ ________ ⓐ________ ________.\n(friend / made / best / nervous / my)",
+   "explainKo": "정답: ④ friend. That mistake made my best friend nervous.의 순서이므로 ⓐ에는 friend가 옵니다. (답지 56쪽 11)",
+   "id": "11",
+   "section": "s4",
+   "sectionTitle": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "11",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "my",
+    "best",
+    "made",
+    "friend",
+    "nervous"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 12,
+   "group": "12",
+   "promptEn": "[12–13] 다음 문장에서 어법상 틀린 1곳을 찾아 바르게 고쳐 쓰시오.\nI found out while the shoes were on sale. So I bought two pairs.",
+   "explainKo": "정답: while → that. found out 뒤에 ‘주어 + 동사’의 절을 이끄는 접속사 that이 와야 합니다. (답지 56쪽 12)",
+   "id": "12",
+   "section": "s4",
+   "sectionTitle": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "12",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "that"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 13,
+   "group": "13",
+   "promptEn": "[12–13] 다음 문장에서 어법상 틀린 1곳을 찾아 바르게 고쳐 쓰시오.\nThe loud thunder made the dog scaring. It ran under the bed and didn't come out for hours.",
+   "explainKo": "정답: scaring → scared. make + 목적어 + 형용사의 구조이므로 ‘겁먹은’이라는 뜻의 scared를 씁니다. (답지 56쪽 13)",
+   "id": "13",
+   "section": "s4",
+   "sectionTitle": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "13",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "scared"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 14,
+   "group": "14",
+   "promptEn": "[14–17] 다음 대화를 읽고, 물음에 답하시오.\nPollution is a big problem. ①Luckily, three superheroes are working to protect the environment. They want to make the world ②dirty. Will you join (A)them?\nHi! I'm Recycle Wizard.\nPeople ③waste too many resources. But recycling can save (B)them. For example, recycling 1,000 kilograms of paper can ④save (C)about 19 trees and 29,000 liters of water. Do you want to be a wizard at recycling? Then you should ⑤recycle properly! Put plastic, paper, food waste, and glass in the correct bins.\n\n14 윗글의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+   "explainKo": "정답: ②. ‘그들은 세상을 ②dirty하게 만들고 싶어 한다’는 앞뒤 내용과 어긋납니다. (답지 56쪽 14)",
+   "id": "14",
+   "section": "s5",
+   "sectionTitle": "Section E · 14–17 지문",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "14",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 15,
+   "group": "15",
+   "promptEn": "[14–17] 다음 대화를 읽고, 물음에 답하시오.\nPollution is a big problem. ①Luckily, three superheroes are working to protect the environment. They want to make the world ②dirty. Will you join (A)them?\nHi! I'm Recycle Wizard.\nPeople ③waste too many resources. But recycling can save (B)them. For example, recycling 1,000 kilograms of paper can ④save (C)about 19 trees and 29,000 liters of water. Do you want to be a wizard at recycling? Then you should ⑤recycle properly! Put plastic, paper, food waste, and glass in the correct bins.\n\n15 윗글의 밑줄 친 (A)와 (B)가 가리키는 것을 본문에서 찾아 쓰시오.\n(A) them → ________ (2단어)\n(B) them → ________ (1단어)",
+   "explainKo": "정답: (A) three superheroes, (B) resources. (A)는 ‘Will you join them?’의 them으로 세 명의 슈퍼히어로를, (B)는 재활용이 아낄 수 있는 자원을 가리킵니다. (답지 56쪽 15)",
+   "id": "15",
+   "section": "s5",
+   "sectionTitle": "Section E · 14–17 지문",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "15",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "three superheroes / resources",
+    "three superheroes, resources",
+    "three superheroes/resource"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 100
+  },
+  {
+   "sourceId": 16,
+   "group": "16",
+   "promptEn": "[14–17] 다음 대화를 읽고, 물음에 답하시오.\nPollution is a big problem. ①Luckily, three superheroes are working to protect the environment. They want to make the world ②dirty. Will you join (A)them?\nHi! I'm Recycle Wizard.\nPeople ③waste too many resources. But recycling can save (B)them. For example, recycling 1,000 kilograms of paper can ④save (C)about 19 trees and 29,000 liters of water. Do you want to be a wizard at recycling? Then you should ⑤recycle properly! Put plastic, paper, food waste, and glass in the correct bins.\n\n16 윗글의 밑줄 친 (C)about과 같은 의미로 쓰인 것은?",
+   "explainKo": "정답: ⑤ There are about fifty people at the party. (C)의 about은 ‘약, 대략’의 뜻이고 ⑤의 about도 같은 뜻입니다. (답지 56쪽 16)",
+   "id": "16",
+   "section": "s5",
+   "sectionTitle": "Section E · 14–17 지문",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "16",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "Let's talk about the plan.",
+    "I read a book about animals.",
+    "Do you know anything about her?",
+    "I have a question about this homework.",
+    "There are about fifty people at the party."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 17,
+   "group": "17",
+   "promptEn": "[14–17] 다음 대화를 읽고, 물음에 답하시오.\nPollution is a big problem. ①Luckily, three superheroes are working to protect the environment. They want to make the world ②dirty. Will you join (A)them?\nHi! I'm Recycle Wizard.\nPeople ③waste too many resources. But recycling can save (B)them. For example, recycling 1,000 kilograms of paper can ④save (C)about 19 trees and 29,000 liters of water. Do you want to be a wizard at recycling? Then you should ⑤recycle properly! Put plastic, paper, food waste, and glass in the correct bins.\n\n17 윗글의 내용과 일치하지 않는 것은?",
+   "explainKo": "정답: ③ Recycle Wizard는 사람들이 자원을 잘 아끼고 있다고 말했다. 글에는 사람들이 자원을 너무 많이 낭비하고 있다고 했으므로 ③은 일치하지 않습니다. (답지 56쪽 17)",
+   "id": "17",
+   "section": "s5",
+   "sectionTitle": "Section E · 14–17 지문",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "17",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "오염이 큰 문제가 되고 있다.",
+    "슈퍼히어로들이 환경을 보호하려고 노력하고 있다.",
+    "Recycle Wizard는 사람들이 자원을 잘 아끼고 있다고 말했다.",
+    "재활용은 자원을 절약하는 데 도움이 된다.",
+    "쓰레기는 알맞은 쓰레기통에 분리해서 버려야 한다."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 18,
+   "group": "18",
+   "promptEn": "[18–21] 다음 글을 읽고, 물음에 답하시오.\nI'm Fashion Clever.\nPeople ①throws away clothes too often. They become waste and hurt the environment. Did you know ②what some clothes take over 200 years ③break down?\n④Doesn't buy too many clothes. ⑤Wore your clothes for a long time. You can also create new items from your old clothes! (A)(old / let's / useful / make / clothes).\nThere (B)________ some items below. What can you make with these old clothes? Match the old clothes with the correct new items. Now you can be clever at fashion too!\n\n18 윗글의 밑줄 친 ①~⑤를 어법에 맞게 고친 것 중 틀린 것은?",
+   "explainKo": "정답: ⑤ → Wearing. ⑤Wore your clothes는 명령문이므로 동사원형 Wear로 고쳐야 합니다. (답지 56쪽 18)",
+   "id": "18",
+   "section": "s6",
+   "sectionTitle": "Section F · 18–21 지문 (Fashion Clever)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "18",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "① → throw",
+    "② → that",
+    "③ → to break",
+    "④ → Don't",
+    "⑤ → Wearing"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 19,
+   "group": "19",
+   "promptEn": "[18–21] 다음 글을 읽고, 물음에 답하시오.\nI'm Fashion Clever.\nPeople ①throws away clothes too often. They become waste and hurt the environment. Did you know ②what some clothes take over 200 years ③break down?\n④Doesn't buy too many clothes. ⑤Wore your clothes for a long time. You can also create new items from your old clothes! (A)(old / let's / useful / make / clothes).\nThere (B)________ some items below. What can you make with these old clothes? Match the old clothes with the correct new items. Now you can be clever at fashion too!\n\n19 윗글의 (A)의 괄호 안에 있는 단어들을 우리말에 맞게 바르게 배열하시오. (대·소문자 구분할 것)\n헌 옷을 유용하게 만들어 봅시다.\n→ ________",
+   "explainKo": "정답: Let's make old clothes useful. (답지 56쪽 19)",
+   "id": "19",
+   "section": "s6",
+   "sectionTitle": "Section F · 18–21 지문 (Fashion Clever)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "19",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "Let's make old clothes useful",
+    "Letsmakeoldclothesuseful",
+    "Let's make old clothes useful."
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 100
+  },
+  {
+   "sourceId": 20,
+   "group": "20",
+   "promptEn": "[18–21] 다음 글을 읽고, 물음에 답하시오.\nI'm Fashion Clever.\nPeople ①throws away clothes too often. They become waste and hurt the environment. Did you know ②what some clothes take over 200 years ③break down?\n④Doesn't buy too many clothes. ⑤Wore your clothes for a long time. You can also create new items from your old clothes! (A)(old / let's / useful / make / clothes).\nThere (B)________ some items below. What can you make with these old clothes? Match the old clothes with the correct new items. Now you can be clever at fashion too!\n\n20 윗글의 빈칸 (B)에 들어갈 말이 다음 빈칸에 들어갈 말과 같은 것은?\nThere (B)________ some items below.",
+   "explainKo": "정답: ① There ________ lots of people. (B)에는 are가 들어가고, ①도 복수 명사 lots of people이므로 are가 들어갑니다. (답지 56쪽 20)",
+   "id": "20",
+   "section": "s6",
+   "sectionTitle": "Section F · 18–21 지문 (Fashion Clever)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "20",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "There ________ lots of people.",
+    "There ________ a cat on the roof.",
+    "There ________ some milk in the fridge.",
+    "There ________ a lot of noise outside.",
+    "There ________ a book on the table."
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 21,
+   "group": "21",
+   "promptEn": "[18–21] 다음 글을 읽고, 물음에 답하시오.\nI'm Fashion Clever.\nPeople ①throws away clothes too often. They become waste and hurt the environment. Did you know ②what some clothes take over 200 years ③break down?\n④Doesn't buy too many clothes. ⑤Wore your clothes for a long time. You can also create new items from your old clothes! (A)(old / let's / useful / make / clothes).\nThere (B)________ some items below. What can you make with these old clothes? Match the old clothes with the correct new items. Now you can be clever at fashion too!\n\n21 윗글의 내용과 일치하는 것끼리 바르게 짝지어진 것은?\nⓐ Some clothes take more than 200 years to break down.\nⓑ We should buy new clothes every month.\nⓒ You can make new items from your old clothes.\nⓓ Throwing away clothes helps the environment.",
+   "explainKo": "정답: ② ⓐ, ⓒ. 옷이 분해되는 데 200년이 넘게 걸린다는 것과 헌 옷으로 새 물건을 만들 수 있다는 것만 글의 내용과 일치합니다. (답지 56쪽 21)",
+   "id": "21",
+   "section": "s6",
+   "sectionTitle": "Section F · 18–21 지문 (Fashion Clever)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "21",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "ⓐ, ⓑ",
+    "ⓐ, ⓒ",
+    "ⓑ, ⓒ",
+    "ⓑ, ⓓ",
+    "ⓒ, ⓓ"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 22,
+   "group": "22",
+   "promptEn": "[22–25] 다음 글을 읽고, 물음에 답하시오.\nHi! I'm Water Saver!\n(①) We can't live without it. But people waste a lot of water. It makes me (A)[sad / sadly]. How can we save water? (②) Take quick showers. (③) Turn off the water while you brush your teeth. 또한, 여러분이 수도꼭지를 완전히 잠갔는지를 확인하세요. (④)\nLook at the pictures below. Which (B)[is / are] ways to save water and which are not? Write an O or X on each picture. (⑤)\nI'm sure (C)[when / that] you got the right answers. You are amazing at saving water!\n\n22 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nWater is very important.",
+   "explainKo": "정답: ①. ‘Water is very important.’는 ‘우리는 그것 없이는 살 수 없다’ 앞에 오는 것이 자연스럽습니다. (답지 56쪽 22)",
+   "id": "22",
+   "section": "s7",
+   "sectionTitle": "Section G · 22–25 지문 (Water Saver)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "22",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 23,
+   "group": "23",
+   "promptEn": "[22–25] 다음 글을 읽고, 물음에 답하시오.\nHi! I'm Water Saver!\n(①) We can't live without it. But people waste a lot of water. It makes me (A)[sad / sadly]. How can we save water? (②) Take quick showers. (③) Turn off the water while you brush your teeth. 또한, 여러분이 수도꼭지를 완전히 잠갔는지를 확인하세요. (④)\nLook at the pictures below. Which (B)[is / are] ways to save water and which are not? Write an O or X on each picture. (⑤)\nI'm sure (C)[when / that] you got the right answers. You are amazing at saving water!\n\n23 윗글의 (A)~(C)의 각 네모 안에서 어법에 맞는 것을 골라 바르게 짝지은 것은?",
+   "explainKo": "정답: ② sad / are / that. (A)는 목적격 보어이므로 형용사 sad, (B)는 주어 Which(복수)에 맞춰 are, (C)는 sure 뒤의 접속사 that입니다. (답지 56쪽 23)",
+   "id": "23",
+   "section": "s7",
+   "sectionTitle": "Section G · 22–25 지문 (Water Saver)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "23",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "sad / is / when",
+    "sad / are / that",
+    "sad / are / when",
+    "sadly / is / that",
+    "sadly / are / when"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 24,
+   "group": "24",
+   "promptEn": "[22–25] 다음 글을 읽고, 물음에 답하시오.\nHi! I'm Water Saver!\n(①) We can't live without it. But people waste a lot of water. It makes me (A)[sad / sadly]. How can we save water? (②) Take quick showers. (③) Turn off the water while you brush your teeth. 또한, 여러분이 수도꼭지를 완전히 잠갔는지를 확인하세요. (④)\nLook at the pictures below. Which (B)[is / are] ways to save water and which are not? Write an O or X on each picture. (⑤)\nI'm sure (C)[when / that] you got the right answers. You are amazing at saving water!\n\n24 윗글을 읽고, 대답할 수 없는 질문을 모두 고르면?",
+   "explainKo": "정답: ④, ⑤. 글에는 물을 아끼는 방법만 나오고, 물을 아끼지 않으면 생길 일이나 한 사람이 하루에 쓰는 물의 양은 나오지 않습니다. (답지 56쪽 24)",
+   "id": "24",
+   "section": "s7",
+   "sectionTitle": "Section G · 22–25 지문 (Water Saver)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "24",
+   "type": "mc",
+   "answerMode": "multi",
+   "choices": [
+    "How can you save water when taking a shower?",
+    "What should you do while brushing your teeth?",
+    "What should you do with the tap after using it?",
+    "What will happen if we don't save water?",
+    "How much water does a person use every day?"
+   ],
+   "correctIndexes": [
+    4,
+    5
+   ],
+   "select": "multi",
+   "answerModeTag": "Choose · 모두 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 25,
+   "group": "25",
+   "promptEn": "[22–25] 다음 글을 읽고, 물음에 답하시오.\nHi! I'm Water Saver!\n(①) We can't live without it. But people waste a lot of water. It makes me (A)[sad / sadly]. How can we save water? (②) Take quick showers. (③) Turn off the water while you brush your teeth. 또한, 여러분이 수도꼭지를 완전히 잠갔는지를 확인하세요. (④)\nLook at the pictures below. Which (B)[is / are] ways to save water and which are not? Write an O or X on each picture. (⑤)\nI'm sure (C)[when / that] you got the right answers. You are amazing at saving water!\n\n25 윗글의 밑줄 친 우리말에 맞게 주어진 단어들을 바르게 배열하여 문장을 완성하시오.\n(that / make / turn / sure / you / off)\n→ Also, ________ the tap completely.",
+   "explainKo": "정답: make sure that you turn off. (답지 56쪽 25)",
+   "id": "25",
+   "section": "s7",
+   "sectionTitle": "Section G · 22–25 지문 (Water Saver)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "카드마다 한 가지만 하세요. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "25",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "make sure that you turn off",
+    "makesurethatyouturnoff"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 100
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 최종점검 모의고사 2회 25문항입니다. 고르기는 누르기만, 쓰기는 그 칸의 말만 쓰면 됩니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 01–03 단답",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "01–03 단답 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 01–03 단답 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 3
+  },
+  {
+   "id": "s2",
+   "title": "Section B · 04–06 대화",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "04–06 대화 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 04–06 대화 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 3
+  },
+  {
+   "id": "s3",
+   "title": "Section C · 07–08 대화 (eco club)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "07–08 대화 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 07–08 대화 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 2
+  },
+  {
+   "id": "s4",
+   "title": "Section D · 09–13 어법",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "09–13 어법 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 09–13 어법 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 5
+  },
+  {
+   "id": "s5",
+   "title": "Section E · 14–17 지문",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "14–17 지문 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 14–17 지문 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 4
+  },
+  {
+   "id": "s6",
+   "title": "Section F · 18–21 지문 (Fashion Clever)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "18–21 지문 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 18–21 지문 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 4
+  },
+  {
+   "id": "s7",
+   "title": "Section G · 22–25 지문 (Water Saver)",
+   "directionKo": "카드마다 한 가지만 하세요.",
+   "ruleKo": "22–25 지문 문제입니다.",
+   "instructionKo": "카드마다 한 가지만 하세요. 22–25 지문 문제입니다.",
+   "answerMode": "mixed",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 4
+  }
+ ]
+}

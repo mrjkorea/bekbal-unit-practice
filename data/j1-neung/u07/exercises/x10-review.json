@@ -1,0 +1,675 @@
+{
+ "id": "x10-review",
+ "title": "핵심 문장 Review",
+ "book": "중1 능률 김기택",
+ "unit": "Lesson 07 Save Earth, Save Us",
+ "sourcePages": [
+  "42",
+  "43"
+ ],
+ "questionCount": 25,
+ "omitted": [],
+ "questions": [
+  {
+   "sourceId": 1,
+   "group": "A-01",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "1",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "1",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nPollution is a small problem.",
+   "explainKo": "정답: F. (답지 47쪽 핵심 문장 Review A 01)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 2,
+   "group": "A-02",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "2",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "2",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nRecycling can save many resources.",
+   "explainKo": "정답: T. (답지 47쪽 핵심 문장 Review A 02)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 3,
+   "group": "A-03",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "3",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "3",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nRecycling 1,000 kilograms of paper can save about 29 trees.",
+   "explainKo": "정답: F. (답지 47쪽 핵심 문장 Review A 03)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 4,
+   "group": "A-04",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "4",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "4",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nYou can't also create new items from your old clothes!",
+   "explainKo": "정답: F. (답지 47쪽 핵심 문장 Review A 04)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 5,
+   "group": "A-05",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "5",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "5",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nWe can't live with water.",
+   "explainKo": "정답: F. (답지 47쪽 핵심 문장 Review A 05)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 6,
+   "group": "A-06",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "6",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "6",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nPeople throw away clothes too often.",
+   "explainKo": "정답: T. (답지 47쪽 핵심 문장 Review A 06)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 7,
+   "group": "A-07",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "id": "7",
+   "section": "s1",
+   "sectionTitle": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "sectionInstructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerModeTag": "Choose · T/F",
+   "label": "7",
+   "promptEn": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nPeople don't waste too many resources.",
+   "explainKo": "정답: F. (답지 47쪽 핵심 문장 Review A 07)",
+   "choices": [
+    "T",
+    "F"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "seconds": 45
+  },
+  {
+   "sourceId": 8,
+   "group": "B-01",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "1",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "1",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nThey want to <u>making</u> the world clean.",
+   "oxMark": "X",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "rewriteAccept": [
+    "make"
+   ],
+   "explainKo": "정답: X. 고친 말: make (답지 47쪽 B 01)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 9,
+   "group": "B-02",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "2",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "2",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n<u>There is</u> some items below.",
+   "oxMark": "X",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "rewriteAccept": [
+    "There are"
+   ],
+   "explainKo": "정답: X. 고친 말: There are (답지 47쪽 B 02)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 10,
+   "group": "B-03",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "3",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "3",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nPut plastic, paper, food waste, and glass in the correct <u>bins</u>.",
+   "oxMark": "O",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "rewriteAccept": [],
+   "explainKo": "정답: O. 틀린 곳이 없습니다. (답지 47쪽 B 03)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 11,
+   "group": "B-04",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "4",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "4",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nWhat can you make with <u>this</u> old clothes?",
+   "oxMark": "X",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "rewriteAccept": [
+    "these"
+   ],
+   "explainKo": "정답: X. 고친 말: these (답지 47쪽 B 04)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 12,
+   "group": "B-05",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "5",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "5",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nAlso, make sure <u>of</u> you turn off the tap completely.",
+   "oxMark": "X",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "rewriteAccept": [
+    "that"
+   ],
+   "explainKo": "정답: X. 고친 말: that (답지 47쪽 B 05)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 13,
+   "group": "B-06",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "6",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "6",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\n<u>Write</u> an O or X on each picture.",
+   "oxMark": "O",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "rewriteAccept": [],
+   "explainKo": "정답: O. 틀린 곳이 없습니다. (답지 47쪽 B 06)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 14,
+   "group": "B-07",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "7",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "7",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nLuckily, three <u>superhero</u> are working to protect the environment.",
+   "oxMark": "X",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "rewriteAccept": [
+    "superheroes"
+   ],
+   "explainKo": "정답: X. 고친 말: superheroes (답지 47쪽 B 07)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 15,
+   "group": "B-08",
+   "type": "ox",
+   "answerMode": "choice",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "id": "8",
+   "section": "s2",
+   "sectionTitle": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "sectionInstructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerModeTag": "Choose · ○ / ×",
+   "label": "8",
+   "promptEn": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.\nYou are amazing at <u>saving</u> water!",
+   "oxMark": "O",
+   "choices": [
+    "O",
+    "X"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "rewriteAccept": [],
+   "explainKo": "정답: O. 틀린 곳이 없습니다. (답지 47쪽 B 08)",
+   "seconds": 45
+  },
+  {
+   "sourceId": 16,
+   "group": "C-01",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "1",
+   "section": "s3",
+   "sectionTitle": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "1",
+   "promptEn": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\nDo you want to be a wizard at (recycle)?\n여러분은 재활용 마법사가 되고 싶나요?",
+   "explainKo": "정답: Do you want to be a wizard at recycling? (답지 47쪽 C 01)",
+   "accept": [
+    "Do you want to be a wizard at recycling?",
+    "Doyouwanttobeawizardatrecycling?"
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 17,
+   "group": "C-02",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "2",
+   "section": "s3",
+   "sectionTitle": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "2",
+   "promptEn": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\nThen you should recycle (proper)!\n그렇다면 재활용을 제대로 해야 합니다!",
+   "explainKo": "정답: Then you should recycle properly! (답지 47쪽 C 02)",
+   "accept": [
+    "Then you should recycle properly!",
+    "Thenyoushouldrecycleproperly!"
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 18,
+   "group": "C-03",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "3",
+   "section": "s3",
+   "sectionTitle": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "3",
+   "promptEn": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\nPeople waste a lot of (waters).\n사람들은 많은 물을 낭비해요.",
+   "explainKo": "정답: People waste a lot of water. (답지 47쪽 C 03)",
+   "accept": [
+    "People waste a lot of water.",
+    "People waste a lot of water",
+    "Peoplewastealotofwater."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 19,
+   "group": "C-04",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "4",
+   "section": "s3",
+   "sectionTitle": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "4",
+   "promptEn": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\nIt makes me (sadly).\n그것이 저를 슬프게 만들어요.",
+   "explainKo": "정답: It makes me sad. (답지 47쪽 C 04)",
+   "accept": [
+    "It makes me sad.",
+    "It makes me sad",
+    "Itmakesmesad."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 20,
+   "group": "C-05",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "5",
+   "section": "s3",
+   "sectionTitle": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "5",
+   "promptEn": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.\nDraw a line from each (pieces) of waste to the right bin.\n각 쓰레기 조각에서 알맞은 쓰레기통까지 선을 그어보세요.",
+   "explainKo": "정답: Draw a line from each piece of waste to the right bin. (답지 47쪽 C 05)",
+   "accept": [
+    "Draw a line from each piece of waste to the right bin.",
+    "Draw a line from each piece of waste to the right bin",
+    "Drawalinefromeachpieceofwastetotherightbin."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 21,
+   "group": "D-01",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "1",
+   "section": "s4",
+   "sectionTitle": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "1",
+   "promptEn": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nI'm sure of you got the right answers.\n저는 여러분이 정답을 맞혔다고 확신해요.",
+   "explainKo": "정답: I'm sure that you got the right answers. (답지 47쪽 D 01)",
+   "accept": [
+    "I'm sure that you got the right answers.",
+    "I'm sure that you got the right answers",
+    "I'msurethatyougottherightanswers."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 22,
+   "group": "D-02",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "2",
+   "section": "s4",
+   "sectionTitle": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "2",
+   "promptEn": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nWhich are ways to saving water and which are not?\n물을 절약하는 방법과 그렇지 않은 방법은 무엇인가요?",
+   "explainKo": "정답: Which are ways to save water and which are not? (답지 47쪽 D 02)",
+   "accept": [
+    "Which are ways to save water and which are not?",
+    "Whicharewaystosavewaterandwhicharenot?"
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 23,
+   "group": "D-03",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "3",
+   "section": "s4",
+   "sectionTitle": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "3",
+   "promptEn": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nTurn off the water during you brush your teeth.\n여러분이 이를 닦는 동안에는 물을 잠그세요.",
+   "explainKo": "정답: Turn off the water while you brush your teeth. (답지 47쪽 D 03)",
+   "accept": [
+    "Turn off the water while you brush your teeth.",
+    "Turn off the water while you brush your teeth",
+    "Turnoffthewaterwhileyoubrushyourteeth."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 24,
+   "group": "D-04",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "4",
+   "section": "s4",
+   "sectionTitle": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "4",
+   "promptEn": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nMatch the old clothes in the correct new items.\n헌옷과 알맞은 새 물건을 연결해 보세요.",
+   "explainKo": "정답: Match the old clothes with the correct new items. (답지 47쪽 D 04)",
+   "accept": [
+    "Match the old clothes with the correct new items.",
+    "Match the old clothes with the correct new items",
+    "Matchtheoldclotheswiththecorrectnewitems."
+   ],
+   "seconds": 100
+  },
+  {
+   "sourceId": 25,
+   "group": "D-05",
+   "type": "sentence",
+   "answerMode": "sentence",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "id": "5",
+   "section": "s4",
+   "sectionTitle": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "sectionInstructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 문장 전체",
+   "label": "5",
+   "promptEn": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nDid you know that some clothes take over 200 years break down?\n몇몇 옷들은 분해되는 데 200년이 넘게 걸린다는 것을 알고 있었나요?",
+   "explainKo": "정답: Did you know that some clothes take over 200 years to break down? (답지 47쪽 D 05)",
+   "accept": [
+    "Did you know that some clothes take over 200 years to break down?",
+    "Didyouknowthatsomeclothestakeover200yearstobreakdown?"
+   ],
+   "seconds": 100
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 핵심 문장 Review. T/F와 ○/×는 누르기만, C와 D는 문장 전체를 쓰면 됩니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "directionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.",
+   "ruleKo": "T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "instructionKo": "A. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오. T 또는 F를 누르세요. 받아쓰기는 하지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · T/F",
+   "itemCount": 7
+  },
+  {
+   "id": "s2",
+   "title": "Section B · B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐…",
+   "directionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오.",
+   "ruleKo": "○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "instructionKo": "B. 다음 밑줄 친 부분이 어법상 올바르면 ○표에, 틀리면 X표에 표시하고 틀린 부분은 바르게 고쳐 쓰시오. ○ 또는 ×만 누르세요. 맞으면 고칠 말을 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · ○ / ×",
+   "itemCount": 8
+  },
+  {
+   "id": "s3",
+   "title": "Section C · C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "directionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "instructionKo": "C. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "itemCount": 5
+  },
+  {
+   "id": "s4",
+   "title": "Section D · D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "directionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "instructionKo": "D. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "itemCount": 5
+  }
+ ]
+}

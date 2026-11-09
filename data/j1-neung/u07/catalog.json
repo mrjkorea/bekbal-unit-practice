@@ -3,7 +3,7 @@
  "unit": "u07",
  "label": "Lesson 07 Save Earth, Save Us",
  "status": "ready",
- "note": "통과 80%. 중1 능률 김기택 Lesson 07 Save Earth, Save Us. book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
+ "note": "통과 80%. 중1 능률 김기택 Lesson 07 Save Earth, Save Us. 31개 연습이 모두 있습니다. X-10(핵심 Grammar·핵심 문장 Review)은 교재 pp.36–43, 최종점검 1·2·3회는 pp.84–95이고, 정답은 답지 45·47·55·56·57쪽 이미지에서 직접 읽었습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
  "sections": [
   {
    "key": "A",
@@ -144,8 +144,7 @@
     {
      "id": "x10-grammar",
      "title": "핵심 Grammar 확인 문제",
-     "deferred": true,
-     "reason": "교재 X-10 pp.36-37 다시 읽고 재작성 필요"
+     "questionCount": 38
     },
     {
      "id": "x10-reading-sentence",
@@ -160,8 +159,7 @@
     {
      "id": "x10-review",
      "title": "핵심 문장 Review",
-     "deferred": true,
-     "reason": "교재 X-10 pp.42-43 다시 읽고 재작성 필요"
+     "questionCount": 25
     }
    ]
   },
@@ -172,20 +170,17 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "deferred": true,
-     "reason": "교재 pp.145-148 다시 읽고 재작성 필요"
+     "questionCount": 27
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "deferred": true,
-     "reason": "교재 pp.149-152 다시 읽고 재작성 필요"
+     "questionCount": 25
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "deferred": true,
-     "reason": "교재 pp.153-156 다시 읽고 재작성 필요"
+     "questionCount": 30
     }
    ]
   },
