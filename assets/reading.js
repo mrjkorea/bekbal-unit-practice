@@ -141,7 +141,7 @@
         voiceId = b.getAttribute("data-voice");
         localStorage.setItem("rf_voice", voiceId);
         Array.prototype.forEach.call(document.querySelectorAll(".rf-voice"), function (x) { x.classList.toggle("on", x === b); });
-        speak(current ? current.en : "");
+        if (current) playCard(current);
       };
     });
   }
@@ -150,20 +150,28 @@
   var PACK_ID = PACK.split("/").pop().replace(/\.json$/, "");
   var audioCache = {};
 
-  function audioUrl(card) {
-    return "packs/" + PACK_ID + "/audio/us_m/" + String(card.id).toLowerCase() + ".mp3";
+  function audioUrl(card, vid) {
+    return "packs/" + PACK_ID + "/audio/" + (vid || voiceId) + "/" + String(card.id).toLowerCase() + ".mp3";
   }
 
-  function playCard(card) {
-    var url = audioUrl(card);
+  /* The chosen voice has its own recording folder. If that file is missing, fall back to
+     the American male recording, then to the device voice, so a student never hears silence. */
+  function playCard(card, plan) {
+    var order = plan || [voiceId, "us_m"].filter(function (v, i, a) { return a.indexOf(v) === i; });
+    var url = audioUrl(card, order[0]);
     try {
       var a = audioCache[url] || (audioCache[url] = new Audio(url));
+      a.onerror = function () {
+        if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
+      };
       a.currentTime = 0;
       var pr = a.play();
-      if (pr && pr.catch) pr.catch(function () { speak(card.en); });
+      if (pr && pr.catch) pr.catch(function () {
+        if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
+      });
       return;
     } catch (e) {
-      speak(card.en);
+      if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
     }
   }
 
