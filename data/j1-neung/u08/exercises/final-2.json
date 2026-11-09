@@ -1,0 +1,672 @@
+{
+  "id": "final-2",
+  "title": "최종점검 모의고사 2회",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.100-103",
+  "questionCount": 26,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 2회 27문항입니다. 어휘·대화·문법·독해가 모두 나옵니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 26
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ laugh : laughter는 ‘동사 : 명사’이고 나머지는 ‘명사 : 형용사’이다. (답지 59쪽, pp.100-103)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 다음 중 두 단어의 관계가 나머지와 다른 것은? (어휘)",
+      "choices": [
+        "fantasy : fantastic",
+        "magic : magical",
+        "laugh : laughter",
+        "emotion : emotional",
+        "danger : dangerous"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① close. ‘가깝다’, ‘아슬아슬하다’ 두 뜻이 모두 맞는다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? (어휘)\n• She’s very ______ to her grandmother.\n• The game was really ______, but our team won.",
+      "choices": [
+        "close",
+        "itch",
+        "deep",
+        "borrow",
+        "curious"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: explain. (답지 59쪽)",
+      "type": "fill",
+      "promptEn": "03 다음 영영풀이에 해당하는 단어를 이용하여 문장을 완성하시오.\nto make something easy to understand by saying more about it\n→ Can you ______ the meaning of this word?",
+      "accept": [
+        "explain"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ curious. be curious about는 ‘~이 궁금하다’이다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? (대화)\nA: I’m ______ about Korean food.\nB: It’s very tasty. Try kimchi and bulgogi!",
+      "choices": [
+        "good",
+        "know",
+        "think",
+        "curious",
+        "interesting"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② library. 책을 고르는 상황이다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-07] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ①Can you help me?\nM: Sure. ②What kind of book are you looking for?\nG: Well, I want to read about animals.\nM: Okay. ③Books about animals are on this shelf. What kind of animals are you interested in?\nG: I’m curious about sea life.\nM: Then what about this book, The Blue Planet? ④It’s about animals in the jungle.\nG: ⑤That sounds perfect. Thank you.\nM: You’re welcome.\n\n05 위 대화가 이루어지고 있는 장소로 가장 적절한 것은?",
+      "choices": [
+        "theater",
+        "library",
+        "school",
+        "museum",
+        "restaurant"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 바다 생물에 관한 책이므로 jungle이 아니라 deep sea가 맞다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-07] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ①Can you help me?\nM: Sure. ②What kind of book are you looking for?\nG: Well, I want to read about animals.\nM: Okay. ③Books about animals are on this shelf. What kind of animals are you interested in?\nG: I’m curious about sea life.\nM: Then what about this book, The Blue Planet? ④It’s about animals in the jungle.\nG: ⑤That sounds perfect. Thank you.\nM: You’re welcome.\n\n06 위 대화의 밑줄 친 ①~⑤ 중 흐름상 어색한 것은?",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③, ⑤. 대화에 답이 없다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[05-07] 다음 대화를 읽고 물음에 답하시오.\nG: Excuse me. I’m trying to choose a book. ①Can you help me?\nM: Sure. ②What kind of book are you looking for?\nG: Well, I want to read about animals.\nM: Okay. ③Books about animals are on this shelf. What kind of animals are you interested in?\nG: I’m curious about sea life.\nM: Then what about this book, The Blue Planet? ④It’s about animals in the jungle.\nG: ⑤That sounds perfect. Thank you.\nM: You’re welcome.\n\n07 위 대화를 읽고, 대답할 수 없는 질문을 모두 고르면?",
+      "choices": [
+        "① What kind of book does the girl want to read?",
+        "② Where are the books about animals?",
+        "③ What is the girl’s favorite sea animal?",
+        "④ What is the title of the book the man suggests?",
+        "⑤ What other books does the man recommend?"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: Can you explain the lesson of the story. (답지 59쪽)",
+      "type": "sentence",
+      "promptEn": "[08-08] 다음 대화를 읽고 물음에 답하시오.\nA: Which story did you choose?\nB: I chose Inside Out.\nA: 나에게 이야기의 교훈을 설명해 줄 수 있니?\nB: Sure. The lesson is that emotions aren’t good or bad.\n\n08 다음 대화의 밑줄 친 우리말을 괄호 안의 단어들을 바르게 배열하여 문장을 완성하시오. (대·소문자 구분하여 쓸 것)\n(the / you / explain / the / lesson / story / of / can) to me?",
+      "accept": [
+        "Can you explain the lesson of the story",
+        "can you explain the lesson of the story"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ①. What an interesting book he wrote!가 맞다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "09 다음 밑줄 친 ①~⑤ 중 어법상 틀린 것은? (문법)\n① How an interesting book he wrote!",
+      "choices": [
+        "① How an interesting book he wrote!",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. anything hot to drink가 맞다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 다음 우리말을 영어로 옮길 때 틀린 것은? (문법)\n① 그들이 가진 집은 정말 크구나! → What a big house they have!\n② 이 케이크는 정말 맛있구나! → How delicious this cake tastes!\n③ 내 손에 뭔가 차가운 게 느껴진다. → I feel something cold in my hand.\n④ 뜨거운 음료를 원하니? → Do you want hot anything to drink?\n⑤ 보고할 새로운 내용이 없다. → There is nothing new to report.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② ⓑ, ⓒ. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 중 어법상 옳은 것을 모두 고르면? (고난도)\nⓐ How loudly that noise is!\nⓑ You can eat anything spicy.\nⓒ What a cute puppy you have!\nⓓ What a bad luck he had last week!\nⓔ Important everything is in this folder.",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓑ, ⓒ",
+        "ⓒ, ⓓ",
+        "ⓓ, ⓔ",
+        "ⓔ, ⓐ"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12-1",
+      "label": "12-1",
+      "sourceId": "12-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (1) amazing. something 뒤에는 형용사가 온다. (답지 59쪽)",
+      "type": "fill",
+      "promptEn": "12 다음 문장에서 어법상 틀린 곳을 두 군데 찾아 바르게 고치시오.\nI found something amazingly in the garden. What an amazing thing was it! It was a colorful butterfly.\n(1) amazingly를 바르게 고친 말을 쓰시오.",
+      "accept": [
+        "amazing"
+      ],
+      "phraseBlank": false,
+      "seconds": 60
+    },
+    {
+      "id": "12-2",
+      "label": "12-2",
+      "sourceId": "12-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (2) it was. 감탄문은 「What + a + 형용사 + 명사 + 주어 + 동사」 어순이다. (답지 59쪽)",
+      "type": "fill",
+      "promptEn": "12 다음 문장에서 어법상 틀린 곳을 두 군데 찾아 바르게 고치시오.\nI found something amazingly in the garden. What an amazing thing was it! It was a colorful butterfly.\n(2) was it을 바르게 고친 말을 쓰시오.",
+      "accept": [
+        "it was"
+      ],
+      "phraseBlank": false,
+      "seconds": 60
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: I’m looking for something new to read. (답지 59쪽)",
+      "type": "sentence",
+      "promptEn": "13 다음 우리말에 맞게 바르게 영작하시오. (문법)\n조건 1. something, look for, new를 모두 포함하여 총 7단어로 쓸 것.\n조건 2. 필요시 어형을 바꿀 것.\n조건 3. 주어와 동사를 갖춘 완전한 문장으로 쓸 것.\n조건 4. 대소문자 및 구두점에 유의할 것.\n나는 읽을 만한 새로운 것을 찾고 있다.",
+      "accept": [
+        "I’m looking for something new to read.",
+        "I am looking for something new to read."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ because. 실수하지 않았기 때문에 그렇게 불렀다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-16] 다음 글을 읽고 물음에 답하시오.\nFor Beatrice, Friday began like any other day. She wore the same white socks on both of her feet. Then she made a sandwich. She put exactly the same amount of peanut butter on each piece of bread.\nOn her way to school, her neighbor said, “Good morning, Perfect Girl.” People called Beatrice “Perfect Girl” ⓐ ______ she never made mistakes. “Are you ready for tonight’s talent show?” her neighbor asked. Beatrice just smiled. She was a juggling champion. She won the talent show every year. ⓑHow wonderful she was!\n\n14 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "but",
+        "when",
+        "while",
+        "after",
+        "because"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: How wonderful she was! (답지 59쪽)",
+      "type": "sentence",
+      "promptEn": "[14-16] 다음 글을 읽고 물음에 답하시오.\nFor Beatrice, Friday began like any other day. She wore the same white socks on both of her feet. Then she made a sandwich. She put exactly the same amount of peanut butter on each piece of bread.\nOn her way to school, her neighbor said, “Good morning, Perfect Girl.” People called Beatrice “Perfect Girl” ⓐ ______ she never made mistakes. “Are you ready for tonight’s talent show?” her neighbor asked. Beatrice just smiled. She was a juggling champion. She won the talent show every year. ⓑHow wonderful she was!\n\n15 윗글의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 바르게 배열하시오.\n(was / how / she / wonderful / !)",
+      "accept": [
+        "How wonderful she was!",
+        "How wonderful she was"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 똑같은 양을 발랐다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[14-16] 다음 글을 읽고 물음에 답하시오.\nFor Beatrice, Friday began like any other day. She wore the same white socks on both of her feet. Then she made a sandwich. She put exactly the same amount of peanut butter on each piece of bread.\nOn her way to school, her neighbor said, “Good morning, Perfect Girl.” People called Beatrice “Perfect Girl” ⓐ ______ she never made mistakes. “Are you ready for tonight’s talent show?” her neighbor asked. Beatrice just smiled. She was a juggling champion. She won the talent show every year. ⓑHow wonderful she was!\n\n16 Which of the following is NOT true about Beatrice?",
+      "choices": [
+        "Beatrice는 양말을 양쪽에 똑같이 신었다.",
+        "Beatrice는 각 빵 조각에 땅콩버터를 다르게 발랐다.",
+        "사람들은 Beatrice를 ‘완벽한 소녀’라고 불렀다.",
+        "Beatrice는 저글링 챔피언이었다.",
+        "Beatrice는 매년 장기 자랑에서 우승했다."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① loudly. 어느 빈칸에도 맞지 않는다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[17-19] 다음 글을 읽고 물음에 답하시오.\nAt school, Beatrice had a cooking class. To make a cake, she carefully took some eggs ⓐ ______ the refrigerator. When she turned around, she stepped on something ⓑ ______. She was about to fall! But she didn’t. “That was close!” she thought. She almost made a mistake. Because of this, she began (A)to feel ⓒ ______.\nIt was time for the talent show. The school gym was full of people. They said, “Look! That’s Perfect Girl!” Beatrice had butterflies in her ⓓ ______. “Will I mess up? I’m worried,” she thought.\n\n17 윗글의 빈칸 ⓐ~ⓓ에 들어갈 말로 적절하지 않은 것은?",
+      "choices": [
+        "loudly",
+        "nervous",
+        "out of",
+        "stomach",
+        "slippery"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. to feel과 to study 모두 동사의 목적어로 쓰인 to부정사이다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[17-19] 다음 글을 읽고 물음에 답하시오.\nAt school, Beatrice had a cooking class. To make a cake, she carefully took some eggs ⓐ ______ the refrigerator. When she turned around, she stepped on something ⓑ ______. She was about to fall! But she didn’t. “That was close!” she thought. She almost made a mistake. Because of this, she began (A)to feel ⓒ ______.\nIt was time for the talent show. The school gym was full of people. They said, “Look! That’s Perfect Girl!” Beatrice had butterflies in her ⓓ ______. “Will I mess up? I’m worried,” she thought.\n\n18 윗글의 밑줄 친 (A)와 어법상 쓰임이 같은 것은?",
+      "choices": [
+        "She got up early to catch the bus.",
+        "To learn a new language takes time.",
+        "He plans to study abroad next year.",
+        "Do you have any homework to finish?",
+        "Their duty is to protect the environment."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. 케이크 종류는 글에 나오지 않는다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[17-19] 다음 글을 읽고 물음에 답하시오.\nAt school, Beatrice had a cooking class. To make a cake, she carefully took some eggs ⓐ ______ the refrigerator. When she turned around, she stepped on something ⓑ ______. She was about to fall! But she didn’t. “That was close!” she thought. She almost made a mistake. Because of this, she began (A)to feel ⓒ ______.\nIt was time for the talent show. The school gym was full of people. They said, “Look! That’s Perfect Girl!” Beatrice had butterflies in her ⓓ ______. “Will I mess up? I’m worried,” she thought.\n\n19 윗글을 읽고, 대답을 할 수 없는 질문은?",
+      "choices": [
+        "What did Beatrice take out of the refrigerator?",
+        "What kind of cake did Beatrice make?",
+        "Why did Beatrice almost fall?",
+        "How did Beatrice feel after almost falling?",
+        "What did people call Beatrice at the talent show?"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. The egg broke가 맞다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[20-22] 다음 글을 읽고 물음에 답하시오.\nBeatrice threw an egg into the air. Next, she added a salt shaker. Finally, she added a water balloon. ①How a good start! But then she felt something ②strangely... Uh-oh! Beatrice’s nose started ③itchy. The salt shaker was full ④with... pepper! “ACHOO!” Beatrice missed ⓐthe water balloon, and it fell to the floor. Then... OOPS! The egg ⑤break on top of her head.\n\n20 윗글의 밑줄 친 ①~⑤를 어법상 바르게 고칠 때 틀린 것은?",
+      "choices": [
+        "① → What",
+        "② → strange",
+        "③ → itching",
+        "④ → of",
+        "⑤ → broken"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "sourceId": 21,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: the water balloon. (답지 59쪽)",
+      "type": "fill",
+      "promptEn": "[20-22] 다음 글을 읽고 물음에 답하시오.\nBeatrice threw an egg into the air. Next, she added a salt shaker. Finally, she added a water balloon. ①How a good start! But then she felt something ②strangely... Uh-oh! Beatrice’s nose started ③itchy. The salt shaker was full ④with... pepper! “ACHOO!” Beatrice missed ⓐthe water balloon, and it fell to the floor. Then... OOPS! The egg ⑤break on top of her head.\n\n21 윗글에서 밑줄 친 ⓐ가 가리키는 것을 세 단어로 쓰시오.",
+      "accept": [
+        "the water balloon"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": 22,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. 물풍선을 놓쳤다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[20-22] 다음 글을 읽고 물음에 답하시오.\nBeatrice threw an egg into the air. Next, she added a salt shaker. Finally, she added a water balloon. ①How a good start! But then she felt something ②strangely... Uh-oh! Beatrice’s nose started ③itchy. The salt shaker was full ④with... pepper! “ACHOO!” Beatrice missed ⓐthe water balloon, and it fell to the floor. Then... OOPS! The egg ⑤break on top of her head.\n\n22 윗글의 내용과 일치하지 않는 것은? (독해)",
+      "choices": [
+        "Beatrice threw an egg into the air.",
+        "Beatrice added a salt shaker after the egg.",
+        "The salt shaker was actually filled with pepper.",
+        "Beatrice caught all the items perfectly.",
+        "The egg broke on top of Beatrice’s head."
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": 23,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ (B)-(C)-(A). (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n(A) Now, people no longer call her “Perfect Girl.” They just call her Beatrice.\n(B) For the first time ever, Beatrice made a mistake. What a surprise! She thought, “What should I do? Cry? Run off the stage?” Suddenly, she began ⓐ ______ loudly. The people looked at each other. Then everyone started ⓑ ______ together.\n(C) That night, Beatrice had a deep sleep. The next morning, she woke up with a smile. She put a white sock on her left foot... and a green sock on her right foot!\n\n23 윗글의 (A)~(C)를 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(B)-(C)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "sourceId": 24,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ to laugh. begin to ~, start to ~ 형태이다. (답지 59쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n(A) Now, people no longer call her “Perfect Girl.” They just call her Beatrice.\n(B) For the first time ever, Beatrice made a mistake. What a surprise! She thought, “What should I do? Cry? Run off the stage?” Suddenly, she began ⓐ ______ loudly. The people looked at each other. Then everyone started ⓑ ______ together.\n(C) That night, Beatrice had a deep sleep. The next morning, she woke up with a smile. She put a white sock on her left foot... and a green sock on her right foot!\n\n24 윗글의 빈칸 ⓐ와 ⓑ에 공통으로 들어갈 말로 가장 적절한 것은? (고난도)",
+      "choices": [
+        "laugh",
+        "laughed",
+        "laughs",
+        "to laughing",
+        "to laugh"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": 25,
+      "section": "s1",
+      "sectionTitle": "Section A · 2회",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: a white sock, on her right foot. (답지 59쪽)",
+      "type": "fill",
+      "promptEn": "[23-25] 다음 글을 읽고 물음에 답하시오.\n(A) Now, people no longer call her “Perfect Girl.” They just call her Beatrice.\n(B) For the first time ever, Beatrice made a mistake. What a surprise! She thought, “What should I do? Cry? Run off the stage?” Suddenly, she began ⓐ ______ loudly. The people looked at each other. Then everyone started ⓑ ______ together.\n(C) That night, Beatrice had a deep sleep. The next morning, she woke up with a smile. She put a white sock on her left foot... and a green sock on her right foot!\n\n25 윗글을 읽고, 다음 질문에 대한 답을 완성하시오. (독해)\nQ. What did Beatrice do the next morning?\n→ She smiled and wore ______ on her left foot and a green sock ______.",
+      "accept": [
+        "a white sock, on her right foot",
+        "a white sock on her right foot"
+      ],
+      "phraseBlank": true,
+      "seconds": 90
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "id": "reading-lexgram",
+  "title": "Reading 적절한 어휘·어법 고르기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "p.211",
+  "questionCount": 44,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 본문 괄호 30문항을 빈칸마다 하나씩 나눴습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 44
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": "1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: any. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 For Beatrice, Friday began like [any / every] other day.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "any",
+        "every"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "2-1",
+      "label": "2-1",
+      "sourceId": "2-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: feet. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 She wore the same white socks on both of her [foot / feet]. [Than / Then] she made a sandwich.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "foot",
+        "feet"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "2-2",
+      "label": "2-2",
+      "sourceId": "2-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Then. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 She wore the same white socks on both of her [foot / feet]. [Than / Then] she made a sandwich.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Than",
+        "Then"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": "3",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: piece. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 She put exactly the same amount of peanut butter on each [pieces / piece] of bread.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "pieces",
+        "piece"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": "4",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: said. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 On her way to school, her neighbor [said / will say], “Good morning, Perfect Girl.”\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "said",
+        "will say"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": "5",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: because. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "05 People called Beatrice “Perfect Girl” [because / so] she never made mistakes.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "because",
+        "so"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": "6",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ready. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 “Are you [already / ready] for tonight’s talent show?” her neighbor asked.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "already",
+        "ready"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "7-1",
+      "label": "7-1",
+      "sourceId": "7-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: smiled. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 Beatrice just [smiled / smiling]. She [did / was] a juggling champion.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "smiled",
+        "smiling"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "7-2",
+      "label": "7-2",
+      "sourceId": "7-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: was. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 Beatrice just [smiled / smiling]. She [did / was] a juggling champion.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "did",
+        "was"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "8-1",
+      "label": "8-1",
+      "sourceId": "8-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: won. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "08 She [lost / won] the talent show every year. [What / How] wonderful she was!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "lost",
+        "won"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "8-2",
+      "label": "8-2",
+      "sourceId": "8-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: How. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "08 She [lost / won] the talent show every year. [What / How] wonderful she was!\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "What",
+        "How"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": "9",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: cooking. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "09 At school, Beatrice had a [cooking / cook] class.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "cooking",
+        "cook"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": "10",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: out of. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 To make a cake, she carefully took some eggs [out of / into] the refrigerator.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "out of",
+        "into"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": "11",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: When. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 [Where / When] she turned around, she stepped on something slippery.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Where",
+        "When"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": "12",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: didn’t. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 She was about to fall! But she [doesn’t / didn’t].\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "doesn’t",
+        "didn’t"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "13-1",
+      "label": "13-1",
+      "sourceId": "13-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: close. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 “That was [close / closed]!” she thought. She [most / almost] made a mistake.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "close",
+        "closed"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "13-2",
+      "label": "13-2",
+      "sourceId": "13-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: almost. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "13 “That was [close / closed]!” she thought. She [most / almost] made a mistake.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "most",
+        "almost"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": "14",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Because of. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "14 [Because of / Because] this, she began to feel nervous.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Because of",
+        "Because"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "15-1",
+      "label": "15-1",
+      "sourceId": "15-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: It. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "15 [It / That] was time for the talent show. The school gym was full [of / from] people.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "It",
+        "That"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "15-2",
+      "label": "15-2",
+      "sourceId": "15-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: of. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "15 [It / That] was time for the talent show. The school gym was full [of / from] people.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "of",
+        "from"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "16-1",
+      "label": "16-1",
+      "sourceId": "16-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Look. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "16 They said, “[Look / Looking]! That’s Perfect Girl!” Beatrice had butterflies in her [head / stomach].\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Look",
+        "Looking"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "16-2",
+      "label": "16-2",
+      "sourceId": "16-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: stomach. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "16 They said, “[Look / Looking]! That’s Perfect Girl!” Beatrice had butterflies in her [head / stomach].\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "head",
+        "stomach"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": "17",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: worried. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "17 “Will I mess up? I’m [worrying / worried],” she thought.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "worrying",
+        "worried"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "18-1",
+      "label": "18-1",
+      "sourceId": "18-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: into. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "18 Beatrice threw an egg [onto / into] the air. [Next / Before], she added a salt shaker.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "onto",
+        "into"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "18-2",
+      "label": "18-2",
+      "sourceId": "18-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Next. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "18 Beatrice threw an egg [onto / into] the air. [Next / Before], she added a salt shaker.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Next",
+        "Before"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "19-1",
+      "label": "19-1",
+      "sourceId": "19-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Finally. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "19 [First / Finally], she added a water balloon. What a good [started / start]!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "First",
+        "Finally"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "19-2",
+      "label": "19-2",
+      "sourceId": "19-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: start. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "19 [First / Finally], she added a water balloon. What a good [started / start]!\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "started",
+        "start"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": "20",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: something. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "20 But then she felt [something / some] strange... Uh-oh!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "something",
+        "some"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "21-1",
+      "label": "21-1",
+      "sourceId": "21-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: started. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "21 Beatrice’s nose [start / started] to itch. The salt shaker was [filled / full] of... pepper!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "start",
+        "started"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "21-2",
+      "label": "21-2",
+      "sourceId": "21-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: full. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "21 Beatrice’s nose [start / started] to itch. The salt shaker was [filled / full] of... pepper!\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "filled",
+        "full"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "sourceId": "22",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: and. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "22 “ACHOO!” Beatrice missed the water balloon, [but / and] it fell to the floor.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "but",
+        "and"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "sourceId": "23",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: broke. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "23 Then... OOPS! The egg [broke / break] on top of her head.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "broke",
+        "break"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "24-1",
+      "label": "24-1",
+      "sourceId": "24-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ever. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "24 For the first time [ever / never], Beatrice made a mistake. What [an / a] surprise!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "ever",
+        "never"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "24-2",
+      "label": "24-2",
+      "sourceId": "24-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: a. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "24 For the first time [ever / never], Beatrice made a mistake. What [an / a] surprise!\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "an",
+        "a"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "sourceId": "25",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Run. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "25 She thought, “What should I do? Cry? [Running / Run] off the stage?”\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Running",
+        "Run"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "26-1",
+      "label": "26-1",
+      "sourceId": "26-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: Suddenly. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "26 [Sudden / Suddenly], she began to laugh loudly. The people looked [at / for] each other.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "Sudden",
+        "Suddenly"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "26-2",
+      "label": "26-2",
+      "sourceId": "26-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: at. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "26 [Sudden / Suddenly], she began to laugh loudly. The people looked [at / for] each other.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "at",
+        "for"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "sourceId": "27",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: laugh. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "27 Then everyone started to [laughed / laugh] together.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "laughed",
+        "laugh"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "28-1",
+      "label": "28-1",
+      "sourceId": "28-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: had. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "28 That night, Beatrice [had / has] a deep sleep. The [after / next] morning, she woke up with a smile.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "had",
+        "has"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "28-2",
+      "label": "28-2",
+      "sourceId": "28-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: next. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "28 That night, Beatrice [had / has] a deep sleep. The [after / next] morning, she woke up with a smile.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "after",
+        "next"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "29-1",
+      "label": "29-1",
+      "sourceId": "29-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: foot. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "29 She put a white sock on her left [foot / feet]... and a green sock on her right [foot / feet]!\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "foot",
+        "feet"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "29-2",
+      "label": "29-2",
+      "sourceId": "29-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: foot. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "29 She put a white sock on her left [foot / feet]... and a green sock on her right [foot / feet]!\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "foot",
+        "feet"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "30-1",
+      "label": "30-1",
+      "sourceId": "30-1",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: no longer call. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "30 Now, people [call no longer / no longer call] her “Perfect Girl.” They just [call / called] her Beatrice.\n\n1번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "call no longer",
+        "no longer call"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 40
+    },
+    {
+      "id": "30-2",
+      "label": "30-2",
+      "sourceId": "30-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 괄호",
+      "directionKo": "괄호 안에서 문맥상 적절한 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "괄호 안에서 문맥상 적절한 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: call. (답지 34쪽, p.211)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "30 Now, people [call no longer / no longer call] her “Perfect Girl.” They just [call / called] her Beatrice.\n\n2번째 괄호에 들어갈 알맞은 것을 고르시오.",
+      "choices": [
+        "call",
+        "called"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 40
+    }
+  ]
+}

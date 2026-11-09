@@ -1,0 +1,200 @@
+{
+  "id": "plus-practice",
+  "title": "Plus 기타 지문 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "p.225",
+  "questionCount": 7,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 다른 지문 7문항입니다. 지문은 문항 안에 함께 보입니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 7
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤. 모든 감정이 중요하다는 교훈이므로 unimportant가 아니라 important여야 한다. (답지 36쪽, p.225)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "01 다음 글의 ①~⑤ 중 흐름상 어색한 것은?\nI’ll ①tell you ②about Inside Out. Its ③lesson is that emotions ④aren’t good or bad. I like the lesson. I learned that all emotions are ⑤unimportant.",
+      "choices": [
+        "① tell you",
+        "② about",
+        "③ lesson",
+        "④ aren’t good or bad",
+        "⑤ unimportant"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ made. make a mistake는 ‘실수하다’이다. (답지 36쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[02-05] 다음 글을 읽고, 물음에 답하시오.\nPeople called Beatrice “Perfect Girl” because she never ⓐ ______ mistakes. She was a juggling champion. She won the talent show every year. In a cooking class, (A)그녀는 미끄러운 무언가를 밟았다. She almost fell and began to feel ⓑ ______. At the talent show, she ⓒ ______ a mistake. The salt shaker was full of pepper. Her nose itched, and she didn’t catch the water balloon or the egg. ⓓ ______ crying or running off the stage, she just laughed with everyone. That night, she had a deep sleep. After that day, people just called her Beatrice.\n\n02 윗글의 빈칸 ⓐ와 ⓒ에 공통으로 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "had",
+        "got",
+        "took",
+        "wrote",
+        "made"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: she stepped on something slippery. (답지 36쪽)",
+      "type": "sentence",
+      "promptEn": "[02-05] 다음 글을 읽고, 물음에 답하시오.\nPeople called Beatrice “Perfect Girl” because she never ⓐ ______ mistakes. She was a juggling champion. She won the talent show every year. In a cooking class, (A)그녀는 미끄러운 무언가를 밟았다. She almost fell and began to feel ⓑ ______. At the talent show, she ⓒ ______ a mistake. The salt shaker was full of pepper. Her nose itched, and she didn’t catch the water balloon or the egg. ⓓ ______ crying or running off the stage, she just laughed with everyone. That night, she had a deep sleep. After that day, people just called her Beatrice.\n\n03 윗글의 밑줄 친 (A)의 우리말에 맞도록 괄호 안의 단어들을 이용하여 5단어로 바르게 영작하시오.\n(stepped, slippery)",
+      "accept": [
+        "she stepped on something slippery",
+        "She stepped on something slippery"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② nervous. 넘어질 뻔한 뒤 불안해졌다. (답지 36쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[02-05] 다음 글을 읽고, 물음에 답하시오.\nPeople called Beatrice “Perfect Girl” because she never ⓐ ______ mistakes. She was a juggling champion. She won the talent show every year. In a cooking class, (A)그녀는 미끄러운 무언가를 밟았다. She almost fell and began to feel ⓑ ______. At the talent show, she ⓒ ______ a mistake. The salt shaker was full of pepper. Her nose itched, and she didn’t catch the water balloon or the egg. ⓓ ______ crying or running off the stage, she just laughed with everyone. That night, she had a deep sleep. After that day, people just called her Beatrice.\n\n04 윗글의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "excited",
+        "nervous",
+        "sad",
+        "happy",
+        "sleepy"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① Instead of. ‘~하는 대신에’라는 뜻이다. (답지 36쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[02-05] 다음 글을 읽고, 물음에 답하시오.\nPeople called Beatrice “Perfect Girl” because she never ⓐ ______ mistakes. She was a juggling champion. She won the talent show every year. In a cooking class, (A)그녀는 미끄러운 무언가를 밟았다. She almost fell and began to feel ⓑ ______. At the talent show, she ⓒ ______ a mistake. The salt shaker was full of pepper. Her nose itched, and she didn’t catch the water balloon or the egg. ⓓ ______ crying or running off the stage, she just laughed with everyone. That night, she had a deep sleep. After that day, people just called her Beatrice.\n\n05 윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "Instead of",
+        "Before",
+        "After",
+        "when",
+        "During"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ beautiful. 색을 섞은 뒤 하늘이 아름다워 보였다. (답지 36쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "[06-07] 다음 글을 읽고, 물음에 답하시오.\nI made a mistake in my art class. I dropped some red paint on my blue sky. But after I mixed the colors together, the sky looked ⓐ ______! ⓑ나는 중요한 것을 배웠다. Mistakes are not always bad.\n\n06 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "ugly",
+        "terrible",
+        "beautiful",
+        "blue",
+        "delicious"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Plus 기타 지문",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: I learned something important. (답지 36쪽)",
+      "type": "sentence",
+      "promptEn": "[06-07] 다음 글을 읽고, 물음에 답하시오.\nI made a mistake in my art class. I dropped some red paint on my blue sky. But after I mixed the colors together, the sky looked ⓐ ______! ⓑ나는 중요한 것을 배웠다. Mistakes are not always bad.\n\n07 윗글의 밑줄 친 ⓑ의 우리말에 맞도록 괄호 안의 단어들을 이용하여 바르게 영작하시오. (필요시 어형을 바꿀 것)\n(learn, important)",
+      "accept": [
+        "I learned something important.",
+        "I learned something important"
+      ],
+      "seconds": 110
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "id": "grammar-practice",
+  "title": "Grammar 실전 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.204-205",
+  "questionCount": 15,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 13문항입니다. 고르기와 빈칸·영작이 섞여 있습니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 15
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What a smart. How + 형용사 문장은 What + a(n) + 형용사 + 명사로 바꾼다. (답지 33쪽, pp.204-205)",
+      "type": "fill",
+      "promptEn": "01 다음 두 문장이 같은 의미가 되도록 빈칸에 들어갈 적절한 말을 쓰시오. (3단어로 쓸 것)\nHow smart the dog is!\n= ______ ______ ______ dog it is!",
+      "accept": [
+        "What a smart"
+      ],
+      "phraseBlank": true,
+      "seconds": 80
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③. find 뒤의 something strange는 ‘이상한 것’이고 뒤에서 형용사가 꾸민다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 문장을 우리말로 바르게 해석한 것은?\nShe found something strange in the box.",
+      "choices": [
+        "그녀는 상자에서 무언가를 찾았다.",
+        "그녀는 상자에서 모든 것을 찾았다.",
+        "그녀는 상자에서 이상한 것을 찾았다.",
+        "그녀는 상자에서 아무것도 찾지 못했다.",
+        "그녀는 상자에서 이상한 것을 찾지 못했다."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② What. What + a(n) + 형용사 + 명사 형태이고 명사 sunset이 있다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 다음 빈칸에 들어갈 말로 가장 적절한 것은?\n______ a beautiful sunset!",
+      "choices": [
+        "How",
+        "What",
+        "Who",
+        "Which",
+        "Where"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ something. something cold는 ‘차가운 무언가’이다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nJames wants to drink ______ cold.",
+      "choices": [
+        "some",
+        "every",
+        "anything",
+        "someone",
+        "something"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ How a wonderful idea! 감탄사 뒤에 a(n) + 형용사 + 명사가 오면 What을 쓴다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "05 다음 중 어법상 틀린 것은?",
+      "choices": [
+        "What a nice day!",
+        "How fast he runs!",
+        "How smart she is!",
+        "How a wonderful idea!",
+        "What a delicious cake!"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ lovely. How + 형용사 형태가 되므로 lovely가 들어간다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "06 다음 두 문장이 같은 의미가 되도록 할 때, 빈칸에 들어갈 말로 가장 적절한 것은?\nWhat a lovely dress she is wearing!\n= How ______ she looks in that dress!",
+      "choices": [
+        "wear",
+        "dress",
+        "lovely",
+        "wearing",
+        "love"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: I can't find anything useful here. anything은 뒤에서 useful이 꾸민다. (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "07 다음 우리말에 맞도록 주어진 단어들을 바르게 배열하여 영작하시오.\n나는 여기서 유용한 것을 찾을 수 없다.\n(useful / can't / find // here / anything / .)",
+      "accept": [
+        "I can't find anything useful here.",
+        "I can’t find anything useful here."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② What a kind person you are! What 감탄문은 「What + a + 형용사 + 명사 + 주어 + 동사」 어순이다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "08 다음 문장을 어법에 맞게 바르게 고쳐 쓴 것은?\nWhat a kind person are you!",
+      "choices": [
+        "What kind person are you!",
+        "What a kind person you are!",
+        "How a kind person are you!",
+        "How a kind person you are!",
+        "How kind person you are!"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How. 형용사·부사가 바로 뒤에 오는 감탄문은 How로 시작한다. (답지 33쪽)",
+      "type": "fill",
+      "promptEn": "09 다음 빈칸에 공통으로 들어갈 적절한 말을 보기에서 찾아 쓰시오.\n보기: Too / How / What / So / Why\n______ fast you can swim!\n______ friendly your classmates are!",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ Is there anything wrong with your phone? anything을 뒤에서 wrong이 꾸민다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "10 네 전화기에 무슨 문제라도 있니?\n다음 우리말에 맞도록 바르게 영작한 것은?",
+      "choices": [
+        "Is there wrong something with your phone?",
+        "Is there wrong anything with your phone?",
+        "Is there wrong nothing with your phone?",
+        "Is there anything wrong with your phone?",
+        "Is there nothing wrong with your phone?"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ I have nothing important to do today. nothing + 형용사 어순이다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 나는 오늘 해야 할 중요한 일이 없다.\n다음 우리말에 맞도록 바르게 영작한 것은?",
+      "choices": [
+        "I have no important to do today.",
+        "I have important anything to do today.",
+        "I have nothing important to do today.",
+        "I have important nothing to do today.",
+        "I have anything important to do today."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12-1",
+      "label": "12-1",
+      "sourceId": "12-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: (1) What cute dogs they are! (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "12 다음 괄호 안의 지시대로 문장을 바꿔 쓰시오. (They are very cute dogs. (What))",
+      "accept": [
+        "What cute dogs they are!"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "12-2",
+      "label": "12-2",
+      "sourceId": "12-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: (2) How tall these big towers are! (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "12 다음 괄호 안의 지시대로 문장을 바꿔 쓰시오. (These big towers are very tall. (How))",
+      "accept": [
+        "How tall these big towers are!"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "12-3",
+      "label": "12-3",
+      "sourceId": "12-3",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: (3) How fast Mary swims (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "12 다음 괄호 안의 지시대로 문장을 바꿔 쓰시오. (Mary swims very fast. (How))",
+      "accept": [
+        "How fast Mary swims"
+      ],
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 실전",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: This dog wants to eat something delicious. deliciously는 형용사 delicious로 고친다. (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "13 다음 그림을 보고, 괄호 안의 표현들을 순서대로 바르게 배열하시오. (필요시 어형을 바꿀 것)\n그림: 강아지가 누워서 뼈다귀를 먹고 싶다는 생각을 하고 있다.\n(something / This dog / deliciously / want to / eat / .)",
+      "accept": [
+        "This dog wants to eat something delicious.",
+        "This dog wants to eat something delicious"
+      ],
+      "seconds": 110
+    }
+  ]
+}

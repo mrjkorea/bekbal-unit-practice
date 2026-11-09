@@ -1,0 +1,359 @@
+{
+  "id": "grammar-advanced",
+  "title": "Grammar 심화 문제",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "pp.206-207",
+  "questionCount": 14,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 14문항입니다. 감탄문과 something + 형용사가 중심입니다.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 14
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: nice. What 감탄문에는 형용사가 들어가고 hair는 a(n) 없이 쓴다. (답지 33쪽, pp.206-207)",
+      "type": "fill",
+      "promptEn": "01 다음 빈칸에 들어갈 말을 보기에서 골라 쓰시오. (감탄문)\nWhat ______ hair she has!\n보기: well / nice / nicely / fairly / greatly",
+      "accept": [
+        "nice"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ① possible. everything을 뒤에서 형용사 possible이 꾸민다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "02 다음 빈칸에 들어갈 말로 가장 적절한 것은?\nShe tried everything ______ to fix the problem.",
+      "choices": [
+        "possible",
+        "possibility",
+        "impossible",
+        "sweet",
+        "soft"
+      ],
+      "correctIndexes": [
+        1
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ What a hard cookie it is! What 감탄문의 어순은 「What + a + 형용사 + 명사 + 주어 + 동사」이다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "03 다음 우리말을 바르게 영작한 것은?\n정말 딱딱한 쿠키구나!",
+      "choices": [
+        "How a hard!",
+        "How a hard it is!",
+        "What a hard cookie is!",
+        "What a hard cookie it is!",
+        "What a hard cookie is it!"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. Don’t touch anything slippery on the floor.가 된다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "04 다음 ①~⑤ 중 anything이 들어갈 곳으로 가장 적절한 곳은?\n바닥의 미끄러운 것을 만지지 마세요.\nDon't ① touch ② slippery ③ on ④ the ⑤ floor.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ How a terrible accident it was! a(n) + 형용사 + 명사가 오면 What을 써야 한다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "05 다음 중 어법상 틀린 것은?",
+      "choices": [
+        "How cold it is!",
+        "How joyful they were!",
+        "What a wonderful world!",
+        "What an amazing man he is!",
+        "How a terrible accident it was!"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: Is there anything delicious. anything + 형용사 어순이다. (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "06 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하여 문장을 완성하시오.\n오늘 메뉴에 뭐 맛있는 거 있어?\n(anything / there / delicious / is) ______ on the menu today?",
+      "accept": [
+        "Is there anything delicious",
+        "is there anything delicious"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② How fast this plant grows! How + 부사 + 주어 + 동사 어순이다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "07 다음 문장을 감탄문으로 바꿔 쓸 때, 가장 적절한 것은?\nThis plant grows very fast.",
+      "choices": [
+        "How fast grows this plant!",
+        "How fast this plant grows!",
+        "How this plant grows fast!",
+        "How a fast grows this plant!",
+        "How a fast this plant grows!"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: What hardworking students. What + 형용사 + 명사(복수) + 주어 + 동사 어순이다. (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "08 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. (감탄문으로 쓸 것)\n그녀의 아이들은 정말 열심히 공부하는 학생들이구나! (hardworking)\n______ her children are!",
+      "accept": [
+        "What hardworking students"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ She saw something shiny on the ground. something을 shiny가 뒤에서 꾸민다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "09 다음 우리말을 바르게 영작한 것은?\n그녀는 땅에서 반짝이는 것을 보았다.",
+      "choices": [
+        "She saw some shiny on the ground.",
+        "She saw shiny some on the ground.",
+        "She saw something shiny on the ground.",
+        "She saw shiny something on the ground.",
+        "She saw shine something on the ground."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "우리말에 맞게 영어 문장을 쓰세요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 우리말에 맞게 영어 문장을 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Write · 문장 쓰기",
+      "explainKo": "정답: What a fun game this is! (답지 33쪽)",
+      "type": "sentence",
+      "promptEn": "10 다음 문장을 감탄문으로 바꾸시오. (What으로 시작)\nThis is a really fun game.\n→ ______",
+      "accept": [
+        "What a fun game this is!"
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② ⓐ, ⓒ. something 뒤에는 형용사가 온다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "11 다음 중 밑줄 친 부분이 어법상 옳은 것끼리 바르게 짝지어진 것은?\nⓐ Tell me something funny.\nⓑ I need something warmly to wear.\nⓒ I felt something soft on my head.\nⓓ I heard something stranger outside.\nⓔ They need something specially for the party.",
+      "choices": [
+        "ⓐ, ⓑ",
+        "ⓐ, ⓒ",
+        "ⓐ, ⓒ, ⓔ",
+        "ⓑ, ⓒ, ⓓ, ⓔ",
+        "ⓒ, ⓓ, ⓔ"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: (2). (2)만 How가 들어가고 나머지는 What이 들어간다. (답지 33쪽)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "12 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?\n(1) ______ cute kittens!\n(2) ______ friendly you are!\n(3) ______ a heavy bag it is!\n(4) ______ an interesting game!\n(5) ______ special guests they are!",
+      "choices": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 60
+    },
+    {
+      "id": "13-1",
+      "label": "13-1",
+      "sourceId": "13-1",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ⓐ something. 긍정문에서 ‘무언가’는 something이다. (답지 33쪽)",
+      "type": "fill",
+      "promptEn": "13 다음 우리말에 맞도록 빈칸 ⓐ에 들어갈 적절한 말을 쓰시오. (고난도)\n나는 정원에서 특별한 것을 발견했지만, 집 안에는 흥미로운 것이 없었다.\nI found ⓐ ______ special in the garden, but ⓑ ______ interesting in the house.\n(ⓐ에 들어갈 말)",
+      "accept": [
+        "something"
+      ],
+      "phraseBlank": false,
+      "seconds": 60
+    },
+    {
+      "id": "13-2",
+      "label": "13-2",
+      "sourceId": "13-2",
+      "section": "s1",
+      "sectionTitle": "Section A · Grammar 심화",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ⓑ nothing. ‘없었다’이므로 nothing을 쓴다. (답지 33쪽)",
+      "type": "fill",
+      "promptEn": "13 다음 우리말에 맞도록 빈칸 ⓑ에 들어갈 적절한 말을 쓰시오. (고난도)\n나는 정원에서 특별한 것을 발견했지만, 집 안에는 흥미로운 것이 없었다.\nI found ⓐ something special in the garden, but ⓑ ______ interesting in the house.\n(ⓑ에 들어갈 말)",
+      "accept": [
+        "nothing"
+      ],
+      "phraseBlank": false,
+      "seconds": 60
+    }
+  ]
+}

@@ -3,7 +3,7 @@
  "unit": "u08",
  "label": "Lesson 08 Dive into Stories",
  "status": "ready",
- "note": "통과 80%. 중1 능률 김기택 Lesson 08 Dive into Stories. X-10 핵심 Grammar(pp.50-51)와 핵심 문장 Review(pp.56-57)를 답지 48·49쪽 이미지에서 직접 읽어 새로 넣었습니다. 나머지 17개 연습은 아직 없습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
+ "note": "통과 80%. 중1 능률 김기택 Lesson 08 Dive into Stories. 31개 연습 모두 답지 이미지에서 직접 읽어 새로 넣었습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
  "sections": [
   {
    "key": "A",
@@ -12,120 +12,129 @@
     {
      "id": "vocab-check",
      "title": "Vocabulary 확인 문제",
-     "questionCount": 12
+     "questionCount": 12,
+     "sourcePages": "p.184"
     },
     {
      "id": "vocab-practice",
      "title": "Vocabulary 실전 문제",
-     "questionCount": 7
+     "questionCount": 7,
+     "sourcePages": "p.185"
     },
     {
      "id": "vocab-advanced",
      "title": "Vocabulary 심화 문제",
-     "questionCount": 15
+     "questionCount": 15,
+     "sourcePages": "pp.186-187"
     },
     {
      "id": "dialog-detail",
      "title": "Dialog 자세히 보기",
-     "questionCount": 8
+     "questionCount": 8,
+     "sourcePages": "pp.190-191"
     },
     {
      "id": "dialog-complete",
      "title": "Dialog 완성하기",
-     "questionCount": 65
+     "questionCount": 65,
+     "sourcePages": "pp.192-193"
     },
     {
      "id": "dialog-order",
      "title": "Dialog 순서배열하기",
-     "questionCount": 8
+     "questionCount": 8,
+     "sourcePages": "pp.194-195"
     },
     {
      "id": "dialog-practice",
      "title": "Dialog 실전 문제",
-     "questionCount": 15
+     "questionCount": 15,
+     "sourcePages": "pp.196-197"
     },
     {
      "id": "dialog-advanced",
      "title": "Dialog 심화 문제",
-     "deferred": true,
-     "reason": "교재 pp.198-199 다시 읽고 재작성 필요"
+     "questionCount": 16,
+     "sourcePages": "pp.198-199"
     },
     {
      "id": "grammar-check",
      "title": "Grammar 확인 문제",
      "questionCount": 10,
-     "omittedCount": 20
+     "omittedCount": 20,
+     "sourcePages": "pp.202-203"
     },
     {
      "id": "grammar-practice",
      "title": "Grammar 실전 문제",
-     "deferred": true,
-     "reason": "교재 L08 grammar 다시 읽고 재작성 필요"
+     "questionCount": 15,
+     "sourcePages": "pp.204-205"
     },
     {
      "id": "grammar-advanced",
      "title": "Grammar 심화 문제",
-     "deferred": true,
-     "reason": "교재 L08 grammar 다시 읽고 재작성 필요"
+     "questionCount": 14,
+     "sourcePages": "pp.206-207"
     },
     {
      "id": "reading-content",
      "title": "Reading 내용 확인하기",
-     "deferred": true,
-     "reason": "교재 p.152 다시 읽고 재작성 필요"
+     "questionCount": 20,
+     "sourcePages": "p.210"
     },
     {
      "id": "reading-lexgram",
      "title": "Reading 적절한 어휘·어법 고르기",
-     "deferred": true,
-     "reason": "교재 p.153 다시 읽고 재작성 필요"
+     "questionCount": 44,
+     "sourcePages": "p.211"
     },
     {
      "id": "reading-order",
      "title": "Reading 순서배열하기",
-     "questionCount": 30
+     "questionCount": 30,
+     "sourcePages": "pp.154-157"
     },
     {
      "id": "reading-writing",
      "title": "Reading 영작하기",
-     "deferred": true,
-     "reason": "교재 pp.154-157 다시 읽고 재작성 필요"
+     "questionCount": 30,
+     "sourcePages": "pp.212-215"
     },
     {
      "id": "reading-practice",
      "title": "Reading 실전 문제",
-     "deferred": true,
-     "reason": "교재 pp.216+ 다시 읽고 재작성 필요"
+     "questionCount": 25,
+     "sourcePages": "pp.216-219"
     },
     {
      "id": "reading-advanced",
      "title": "Reading 심화 문제",
-     "deferred": true,
-     "reason": "교재 pp.216+ 다시 읽고 재작성 필요"
+     "questionCount": 28,
+     "sourcePages": "pp.220-223"
     },
     {
      "id": "plus-practice",
      "title": "Plus 기타 지문 실전 문제",
-     "deferred": true,
-     "reason": "교재 L08 plus 다시 읽고 재작성 필요"
+     "questionCount": 7,
+     "sourcePages": "p.225"
     },
     {
      "id": "writing-finish",
      "title": "서술형 끝내기",
-     "deferred": true,
-     "reason": "교재 L08 writing 다시 읽고 재작성 필요"
+     "questionCount": 28,
+     "sourcePages": "pp.226-229"
     },
     {
      "id": "mock-100",
      "title": "100발 100중 모의고사",
-     "deferred": true,
-     "reason": "교재 pp.047-058 다시 읽고 재작성 필요"
+     "questionCount": 25,
+     "sourcePages": "pp.230-233"
     },
     {
      "id": "mock-high",
      "title": "고득점 모의고사",
-     "deferred": true,
-     "reason": "교재 L08 mock 다시 읽고 재작성 필요"
+     "questionCount": 27,
+     "sourcePages": "pp.234-237"
     }
    ]
   },
@@ -136,40 +145,51 @@
     {
      "id": "x10-vocab",
      "title": "어휘 확인 문제",
-     "questionCount": 12
+     "questionCount": 12,
+     "sourcePages": "X-10 pp.30-31"
     },
     {
      "id": "x10-dialog-cloze",
      "title": "대화 빈칸 완성하기",
-     "questionCount": 87
+     "questionCount": 87,
+     "sourcePages": "X-10 p133+"
     },
     {
      "id": "x10-dialog-write",
      "title": "대화 영작하기",
      "questionCount": 44,
-     "omittedCount": 7
+     "omittedCount": 7,
+     "sourcePages": "X-10 pp.48-49"
     },
     {
      "id": "x10-grammar",
      "title": "핵심 Grammar 확인 문제",
-     "questionCount": 36
+     "questionCount": 36,
+     "sourcePages": [
+      "50",
+      "51"
+     ]
     },
     {
      "id": "x10-reading-sentence",
-     "title": "Reading 문장 완성하기",
-     "deferred": true,
-     "reason": "교재 X-10 p.139-140 답지 미확인 — 재작성 필요"
+     "title": "Reading 문장 완성하기 X-10",
+     "questionCount": 137,
+     "sourcePages": "X-10 pp.52-53"
     },
     {
      "id": "x10-reading-cloze",
-     "title": "Reading 빈칸 완성하기",
-     "deferred": true,
-     "reason": "교재 X-10 p.141-142 답지 미확인 — 재작성 필요"
+     "title": "Reading 빈칸 완성하기 X-10",
+     "questionCount": 114,
+     "sourcePages": "X-10 pp.54-55"
     },
     {
      "id": "x10-review",
      "title": "핵심 문장 Review",
-     "questionCount": 25
+     "questionCount": 25,
+     "sourcePages": [
+      "56",
+      "57"
+     ]
     }
    ]
   },
@@ -180,20 +200,20 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "deferred": true,
-     "reason": "교재 finals 다시 읽고 재작성 필요"
+     "questionCount": 25,
+     "sourcePages": "pp.96-99"
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "deferred": true,
-     "reason": "교재 finals 다시 읽고 재작성 필요"
+     "questionCount": 26,
+     "sourcePages": "pp.100-103"
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "deferred": true,
-     "reason": "교재 finals 다시 읽고 재작성 필요"
+     "questionCount": 30,
+     "sourcePages": "pp.104-107"
     }
    ]
   },
@@ -384,6 +404,20 @@
      "title": "천2 -thing WB B",
      "external": true,
      "href": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/#/p/chunilmun-grammar-2/chapter-09/wb-c09-u1-B"
+    }
+   ]
+  },
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "영어 문장 + 우리말 · 받아쓰기 · 쓰기 · 시험 · 80% 통과",
+   "exercises": [
+    {
+     "id": "wm-j1-neung_u08_reading01",
+     "title": "Reading Focus · 문장 받아쓰기 · 쓰기 · 시험",
+     "external": false,
+     "href": "reading.html?b=j1-neung&u=u08"
     }
    ]
   }

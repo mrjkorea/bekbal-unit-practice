@@ -1,0 +1,438 @@
+{
+  "id": "reading-content",
+  "title": "Reading 내용 확인하기",
+  "book": "중1 능률 김기택",
+  "unit": "Lesson 08 Dive into Stories",
+  "sourcePages": "p.210",
+  "questionCount": 20,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 본문 20문항입니다. 우리말 뜻을 묻는 칸은 우리말로, 형태를 바꾸는 칸은 영어로 쓰세요.",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "instructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "itemCount": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: wore. 과거 이야기이므로 과거형을 쓴다. (답지 34쪽, p.210)",
+      "type": "fill",
+      "promptEn": "01 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nShe ① (wear) the same white socks on both of her feet.",
+      "accept": [
+        "wore"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 정확히. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "02 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nShe put ② exactly the same amount of peanut butter on each piece of bread.\n(②의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "정확히",
+        "정확하게"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: her. on one’s way to ~는 ‘~로 가는 길에’이다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "03 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nOn ③ (she) way to school, her neighbor said, “Good morning, Perfect Girl.”",
+      "accept": [
+        "her"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: made. never 뒤에 과거형 made를 쓴다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "04 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nPeople called Beatrice “Perfect Girl” because she never ④ (make) mistakes.",
+      "accept": [
+        "made"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 장기 자랑. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "05 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\n“Are you ready for tonight’s ⑤ talent show?” her neighbor asked.\n(⑤의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "장기 자랑",
+        "경기 자랑"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: How. 형용사 wonderful이 바로 오므로 How를 쓴다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "06 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nShe won the talent show every year. ⑥ (What) wonderful she was!",
+      "accept": [
+        "How"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 냉장고. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "07 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nTo make a cake, she carefully took some eggs out of the ⑦ refrigerator.\n(⑦의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "냉장고"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: something slippery. something을 형용사가 뒤에서 꾸민다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "08 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nWhen she turned around, she stepped on ⑧ (slippery something).\n(괄호 안을 올바른 형태로 쓰시오.)",
+      "accept": [
+        "something slippery"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: fall. But she didn’t fall.에서 fall이 생략되었다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "09 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nShe was about to fall! But she ⑨ didn’t.\n(⑨의 didn’t 뒤에 생략된 단어를 쓰시오.)",
+      "accept": [
+        "fall"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 아슬아슬한. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "10 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\n“That was ⑩ close!” she thought. She almost made a mistake.\n(⑩의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "아슬아슬한",
+        "아슬아슬하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 불안해하는, 긴장한. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "11 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nBecause of this, she began to feel ⑪ nervous.\n(⑪의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "불안해하는, 긴장한",
+        "긴장한",
+        "불안해하는"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: ~로 가득하다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "12 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nIt was time for the talent show. The school gym ⑫ was full of people.\n(be full of의 뜻을 쓰시오.)",
+      "accept": [
+        "~로 가득하다",
+        "~로 가득 차다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 언질부절못했다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "13 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nBeatrice ⑬ had butterflies in her stomach.\n(⑬의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "언질부절못했다",
+        "조마조마했다",
+        "안절부절못했다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 망치다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "14 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\n“Will I ⑭ mess up? I’m worried,” she thought.\n(⑭의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "망치다",
+        "실수하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "sourceId": 15,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 더하다, 추가하다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "15 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nBeatrice threw an egg into the air. Next, she ⑮ added a salt shaker.\n(⑮의 기본형 add의 뜻을 쓰시오.)",
+      "accept": [
+        "더하다, 추가하다",
+        "추가하다",
+        "더하다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "sourceId": 16,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: What. a good start가 오므로 What을 쓴다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "16 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nFinally, she added a water balloon. ⑯ (How) a good start!",
+      "accept": [
+        "What"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "sourceId": 17,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 가렵다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "17 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nBeatrice’s nose started to ⑰ itch. The salt shaker was full of... pepper!\n(⑰의 뜻을 우리말로 쓰시오.)",
+      "accept": [
+        "가렵다",
+        "가렵다"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "sourceId": 18,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: 놓치다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "18 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\n“ACHOO!” Beatrice ⑱ missed the water balloon, and it fell to the floor.\n(⑱의 기본형 miss의 뜻을 쓰시오.)",
+      "accept": [
+        "놓치다",
+        "놓치다."
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: a. What a surprise! 형태이다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "19 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nFor the first time ever, Beatrice made a mistake. What ⑲ ______ surprise!",
+      "accept": [
+        "a"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "sourceId": 20,
+      "section": "s1",
+      "sectionTitle": "Section A · 내용 확인",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: woke. 과거 이야기이므로 과거형을 쓴다. (답지 34쪽)",
+      "type": "fill",
+      "promptEn": "20 다음 글의 빈칸에 들어가거나 괄호 안을 올바른 형태로 쓰시오.\nThat night, Beatrice had a deep sleep. The next morning, she ⑳ (wake) up with a smile.",
+      "accept": [
+        "woke"
+      ],
+      "phraseBlank": false,
+      "seconds": 90
+    }
+  ]
+}
