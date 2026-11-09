@@ -1,0 +1,127 @@
+{
+ "id": "j2donga_u07_words02",
+ "title": "중2동아 U07 · Words 02",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u07",
+ "book": "j2-donga",
+ "words": [
+  {
+   "id": "j2donga_u07_words02_01",
+   "en": "celebrate",
+   "ko": "축하하다, 기념하다"
+  },
+  {
+   "id": "j2donga_u07_words02_02",
+   "en": "possible",
+   "ko": "가능한"
+  },
+  {
+   "id": "j2donga_u07_words02_03",
+   "en": "invite",
+   "ko": "초대하다"
+  },
+  {
+   "id": "j2donga_u07_words02_04",
+   "en": "set",
+   "ko": "(해·달이) 지다: 놓다"
+  },
+  {
+   "id": "j2donga_u07_words02_05",
+   "en": "souvenir",
+   "ko": "기념품: 선물"
+  },
+  {
+   "id": "j2donga_u07_words02_06",
+   "en": "skeleton",
+   "ko": "해골; 뼈대"
+  },
+  {
+   "id": "j2donga_u07_words02_07",
+   "en": "reindeer",
+   "ko": "순록"
+  },
+  {
+   "id": "j2donga_u07_words02_08",
+   "en": "altar",
+   "ko": "제단"
+  },
+  {
+   "id": "j2donga_u07_words02_09",
+   "en": "light",
+   "ko": "가벼운"
+  },
+  {
+   "id": "j2donga_u07_words02_10",
+   "en": "matter",
+   "ko": "중요하다: 문제, 일"
+  },
+  {
+   "id": "j2donga_u07_words02_11",
+   "en": "traditional",
+   "ko": "전통의, 전통적인"
+  },
+  {
+   "id": "j2donga_u07_words02_12",
+   "en": "dark",
+   "ko": "어두운"
+  },
+  {
+   "id": "j2donga_u07_words02_13",
+   "en": "world-famous",
+   "ko": "세계적으로 유명한"
+  },
+  {
+   "id": "j2donga_u07_words02_14",
+   "en": "recipe",
+   "ko": "요리법"
+  },
+  {
+   "id": "j2donga_u07_words02_15",
+   "en": "midsummer",
+   "ko": "한여름"
+  },
+  {
+   "id": "j2donga_u07_words02_16",
+   "en": "symbolize",
+   "ko": "상징하다; 나타내다"
+  },
+  {
+   "id": "j2donga_u07_words02_17",
+   "en": "burn",
+   "ko": "태우다; 불에 타다"
+  },
+  {
+   "id": "j2donga_u07_words02_18",
+   "en": "forget",
+   "ko": "잊다"
+  },
+  {
+   "id": "j2donga_u07_words02_19",
+   "en": "seasonal",
+   "ko": "계절의"
+  },
+  {
+   "id": "j2donga_u07_words02_20",
+   "en": "dead",
+   "ko": "죽은, 사망한"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

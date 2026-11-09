@@ -1,0 +1,127 @@
+{
+ "id": "j2donga_u08_words01",
+ "title": "중2동아 U08 · Words 01",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u08",
+ "book": "j2-donga",
+ "words": [
+  {
+   "id": "j2donga_u08_words01_01",
+   "en": "except",
+   "ko": "~을 제외하고는"
+  },
+  {
+   "id": "j2donga_u08_words01_02",
+   "en": "terrified",
+   "ko": "무서워하는, 겁이 난"
+  },
+  {
+   "id": "j2donga_u08_words01_03",
+   "en": "calm",
+   "ko": "침착한"
+  },
+  {
+   "id": "j2donga_u08_words01_04",
+   "en": "panic",
+   "ko": "겁에 질려 어쩔 줄 모르다. 극심한 공포"
+  },
+  {
+   "id": "j2donga_u08_words01_05",
+   "en": "scared",
+   "ko": "무서워하는"
+  },
+  {
+   "id": "j2donga_u08_words01_06",
+   "en": "finally",
+   "ko": "마침내"
+  },
+  {
+   "id": "j2donga_u08_words01_07",
+   "en": "inside",
+   "ko": "안으로"
+  },
+  {
+   "id": "j2donga_u08_words01_08",
+   "en": "confused",
+   "ko": "혼란스러워하는"
+  },
+  {
+   "id": "j2donga_u08_words01_09",
+   "en": "explain",
+   "ko": "설명하다"
+  },
+  {
+   "id": "j2donga_u08_words01_10",
+   "en": "mud",
+   "ko": "진흙"
+  },
+  {
+   "id": "j2donga_u08_words01_11",
+   "en": "president",
+   "ko": "대통령"
+  },
+  {
+   "id": "j2donga_u08_words01_12",
+   "en": "carefully",
+   "ko": "주의 깊게"
+  },
+  {
+   "id": "j2donga_u08_words01_13",
+   "en": "roar",
+   "ko": "포효: 포효하다, 으르렁거리다"
+  },
+  {
+   "id": "j2donga_u08_words01_14",
+   "en": "stare",
+   "ko": "빤히 쳐다보다. 응시하다"
+  },
+  {
+   "id": "j2donga_u08_words01_15",
+   "en": "fog",
+   "ko": "안개"
+  },
+  {
+   "id": "j2donga_u08_words01_16",
+   "en": "name",
+   "ko": "(정확히) 말하다: 이름 짓다: 이름"
+  },
+  {
+   "id": "j2donga_u08_words01_17",
+   "en": "cause",
+   "ko": "일으키다, ~의 원인이 되다: 원인"
+  },
+  {
+   "id": "j2donga_u08_words01_18",
+   "en": "quiet",
+   "ko": "조용한"
+  },
+  {
+   "id": "j2donga_u08_words01_19",
+   "en": "foolish",
+   "ko": "어리석은"
+  },
+  {
+   "id": "j2donga_u08_words01_20",
+   "en": "machine",
+   "ko": "기계"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

@@ -1,0 +1,127 @@
+{
+ "id": "j2donga_u08_words02",
+ "title": "중2동아 U08 · Words 02",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u08",
+ "book": "j2-donga",
+ "words": [
+  {
+   "id": "j2donga_u08_words02_01",
+   "en": "instruction",
+   "ko": "지시(사항)"
+  },
+  {
+   "id": "j2donga_u08_words02_02",
+   "en": "voice",
+   "ko": "목소리"
+  },
+  {
+   "id": "j2donga_u08_words02_03",
+   "en": "appear",
+   "ko": "나타나다"
+  },
+  {
+   "id": "j2donga_u08_words02_04",
+   "en": "sign",
+   "ko": "표지판, 간판"
+  },
+  {
+   "id": "j2donga_u08_words02_05",
+   "en": "change",
+   "ko": "바꾸다; 변화"
+  },
+  {
+   "id": "j2donga_u08_words02_06",
+   "en": "suddenly",
+   "ko": "갑자기"
+  },
+  {
+   "id": "j2donga_u08_words02_07",
+   "en": "dinosaur",
+   "ko": "공룡"
+  },
+  {
+   "id": "j2donga_u08_words02_08",
+   "en": "closely",
+   "ko": "자세히; 가까이"
+  },
+  {
+   "id": "j2donga_u08_words02_09",
+   "en": "unthinkable",
+   "ko": "상상할 수 없는"
+  },
+  {
+   "id": "j2donga_u08_words02_10",
+   "en": "breathe",
+   "ko": "숨을 쉬다, 호흡하다"
+  },
+  {
+   "id": "j2donga_u08_words02_11",
+   "en": "whisper",
+   "ko": "속삭이다"
+  },
+  {
+   "id": "j2donga_u08_words02_12",
+   "en": "founder",
+   "ko": "설립자, 창립자"
+  },
+  {
+   "id": "j2donga_u08_words02_13",
+   "en": "million",
+   "ko": "백만의; 백만"
+  },
+  {
+   "id": "j2donga_u08_words02_14",
+   "en": "since",
+   "ko": "~ 이후(로)"
+  },
+  {
+   "id": "j2donga_u08_words02_15",
+   "en": "follow",
+   "ko": "따르다; 따라가다"
+  },
+  {
+   "id": "j2donga_u08_words02_16",
+   "en": "shocked",
+   "ko": "충격을 받은"
+  },
+  {
+   "id": "j2donga_u08_words02_17",
+   "en": "possible",
+   "ko": "가능한"
+  },
+  {
+   "id": "j2donga_u08_words02_18",
+   "en": "toward",
+   "ko": "~을 향하여"
+  },
+  {
+   "id": "j2donga_u08_words02_19",
+   "en": "path",
+   "ko": "길, 오솔길"
+  },
+  {
+   "id": "j2donga_u08_words02_20",
+   "en": "silence",
+   "ko": "고요, 침묵"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

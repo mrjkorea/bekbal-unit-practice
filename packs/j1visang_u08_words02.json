@@ -1,0 +1,127 @@
+{
+ "id": "j1visang_u08_words02",
+ "title": "중1비상 U08 · Words 02",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u08",
+ "book": "j1-visang",
+ "words": [
+  {
+   "id": "j1visang_u08_words02_01",
+   "en": "drink",
+   "ko": "음료"
+  },
+  {
+   "id": "j1visang_u08_words02_02",
+   "en": "carefully",
+   "ko": "주의 깊게"
+  },
+  {
+   "id": "j1visang_u08_words02_03",
+   "en": "blow",
+   "ko": "불다"
+  },
+  {
+   "id": "j1visang_u08_words02_04",
+   "en": "hard",
+   "ko": "열심히; 어려운"
+  },
+  {
+   "id": "j1visang_u08_words02_05",
+   "en": "string",
+   "ko": "줄, 끈"
+  },
+  {
+   "id": "j1visang_u08_words02_06",
+   "en": "smartphone",
+   "ko": "스마트폰"
+  },
+  {
+   "id": "j1visang_u08_words02_07",
+   "en": "hope",
+   "ko": "희망하다"
+  },
+  {
+   "id": "j1visang_u08_words02_08",
+   "en": "practice",
+   "ko": "연습하다"
+  },
+  {
+   "id": "j1visang_u08_words02_09",
+   "en": "hospital",
+   "ko": "병원"
+  },
+  {
+   "id": "j1visang_u08_words02_10",
+   "en": "snowy",
+   "ko": "눈 덮인"
+  },
+  {
+   "id": "j1visang_u08_words02_11",
+   "en": "race",
+   "ko": "경주"
+  },
+  {
+   "id": "j1visang_u08_words02_12",
+   "en": "recycle",
+   "ko": "재활용하다"
+  },
+  {
+   "id": "j1visang_u08_words02_13",
+   "en": "reporter",
+   "ko": "기자"
+  },
+  {
+   "id": "j1visang_u08_words02_14",
+   "en": "tie",
+   "ko": "묶다"
+  },
+  {
+   "id": "j1visang_u08_words02_15",
+   "en": "friendship",
+   "ko": "우정"
+  },
+  {
+   "id": "j1visang_u08_words02_16",
+   "en": "special",
+   "ko": "특별한"
+  },
+  {
+   "id": "j1visang_u08_words02_17",
+   "en": "join",
+   "ko": "참여하다"
+  },
+  {
+   "id": "j1visang_u08_words02_18",
+   "en": "return",
+   "ko": "반납하다"
+  },
+  {
+   "id": "j1visang_u08_words02_19",
+   "en": "guess",
+   "ko": "추측하다"
+  },
+  {
+   "id": "j1visang_u08_words02_20",
+   "en": "teach",
+   "ko": "가르치다"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

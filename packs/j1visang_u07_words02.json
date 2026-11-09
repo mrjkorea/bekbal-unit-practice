@@ -1,0 +1,127 @@
+{
+ "id": "j1visang_u07_words02",
+ "title": "중1비상 U07 · Words 02",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u07",
+ "book": "j1-visang",
+ "words": [
+  {
+   "id": "j1visang_u07_words02_01",
+   "en": "beautiful",
+   "ko": "아름다운"
+  },
+  {
+   "id": "j1visang_u07_words02_02",
+   "en": "wind",
+   "ko": "바람"
+  },
+  {
+   "id": "j1visang_u07_words02_03",
+   "en": "hope",
+   "ko": "희망하다"
+  },
+  {
+   "id": "j1visang_u07_words02_04",
+   "en": "concert",
+   "ko": "콘서트"
+  },
+  {
+   "id": "j1visang_u07_words02_05",
+   "en": "arrive",
+   "ko": "도착하다"
+  },
+  {
+   "id": "j1visang_u07_words02_06",
+   "en": "jean",
+   "ko": "청바지"
+  },
+  {
+   "id": "j1visang_u07_words02_07",
+   "en": "island",
+   "ko": "섬"
+  },
+  {
+   "id": "j1visang_u07_words02_08",
+   "en": "storm",
+   "ko": "폭풍"
+  },
+  {
+   "id": "j1visang_u07_words02_09",
+   "en": "light",
+   "ko": "가벼운"
+  },
+  {
+   "id": "j1visang_u07_words02_10",
+   "en": "Earth",
+   "ko": "지구"
+  },
+  {
+   "id": "j1visang_u07_words02_11",
+   "en": "turtle",
+   "ko": "거북이"
+  },
+  {
+   "id": "j1visang_u07_words02_12",
+   "en": "finally",
+   "ko": "마침내"
+  },
+  {
+   "id": "j1visang_u07_words02_13",
+   "en": "beach",
+   "ko": "해변"
+  },
+  {
+   "id": "j1visang_u07_words02_14",
+   "en": "bring",
+   "ko": "가져오다"
+  },
+  {
+   "id": "j1visang_u07_words02_15",
+   "en": "free",
+   "ko": "자유롭게 하다"
+  },
+  {
+   "id": "j1visang_u07_words02_16",
+   "en": "plastic",
+   "ko": "플라스틱"
+  },
+  {
+   "id": "j1visang_u07_words02_17",
+   "en": "website",
+   "ko": "웹사이트"
+  },
+  {
+   "id": "j1visang_u07_words02_18",
+   "en": "cool",
+   "ko": "멋진"
+  },
+  {
+   "id": "j1visang_u07_words02_19",
+   "en": "draw",
+   "ko": "그리다"
+  },
+  {
+   "id": "j1visang_u07_words02_20",
+   "en": "sadly",
+   "ko": "슬프게도"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

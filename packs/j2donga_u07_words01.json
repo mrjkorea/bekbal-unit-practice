@@ -1,0 +1,127 @@
+{
+ "id": "j2donga_u07_words01",
+ "title": "중2동아 U07 · Words 01",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u07",
+ "book": "j2-donga",
+ "words": [
+  {
+   "id": "j2donga_u07_words01_01",
+   "en": "pole",
+   "ko": "기둥, 막대기"
+  },
+  {
+   "id": "j2donga_u07_words01_02",
+   "en": "participate",
+   "ko": "참여하다"
+  },
+  {
+   "id": "j2donga_u07_words01_03",
+   "en": "important",
+   "ko": "중요한, 중대한"
+  },
+  {
+   "id": "j2donga_u07_words01_04",
+   "en": "festival",
+   "ko": "축제, 기념제"
+  },
+  {
+   "id": "j2donga_u07_words01_05",
+   "en": "wear",
+   "ko": "입다, 착용하다"
+  },
+  {
+   "id": "j2donga_u07_words01_06",
+   "en": "hardly",
+   "ko": "거의 ~ 아니다"
+  },
+  {
+   "id": "j2donga_u07_words01_07",
+   "en": "miss",
+   "ko": "놓치다: 그리워하다"
+  },
+  {
+   "id": "j2donga_u07_words01_08",
+   "en": "various",
+   "ko": "다양한, 여러 가지의"
+  },
+  {
+   "id": "j2donga_u07_words01_09",
+   "en": "area",
+   "ko": "지역, 구역"
+  },
+  {
+   "id": "j2donga_u07_words01_10",
+   "en": "statue",
+   "ko": "조각상, 동상"
+  },
+  {
+   "id": "j2donga_u07_words01_11",
+   "en": "decorate",
+   "ko": "장식하다, 꾸미다"
+  },
+  {
+   "id": "j2donga_u07_words01_12",
+   "en": "order",
+   "ko": "주문하다: 명령하다: 주문: 명령: 순서"
+  },
+  {
+   "id": "j2donga_u07_words01_13",
+   "en": "costume",
+   "ko": "의상, 복장"
+  },
+  {
+   "id": "j2donga_u07_words01_14",
+   "en": "fireworks",
+   "ko": "불꽃놀이"
+  },
+  {
+   "id": "j2donga_u07_words01_15",
+   "en": "perfect",
+   "ko": "완벽한, 완전한"
+  },
+  {
+   "id": "j2donga_u07_words01_16",
+   "en": "giant",
+   "ko": "거대한"
+  },
+  {
+   "id": "j2donga_u07_words01_17",
+   "en": "puzzle",
+   "ko": "퍼즐, 수수께끼"
+  },
+  {
+   "id": "j2donga_u07_words01_18",
+   "en": "parade",
+   "ko": "퍼레이드, 행진"
+  },
+  {
+   "id": "j2donga_u07_words01_19",
+   "en": "spicy",
+   "ko": "매운: 양념 맛이 강한"
+  },
+  {
+   "id": "j2donga_u07_words01_20",
+   "en": "surprise",
+   "ko": "놀라운 일, 깜짝 놀람; 놀라게 하다"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

@@ -1,0 +1,127 @@
+{
+ "id": "j1visang_u07_expressions01",
+ "title": "중1비상 U07 · Expressions",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u07",
+ "book": "j1-visang",
+ "words": [
+  {
+   "id": "j1visang_u07_expressions01_01",
+   "en": "in front of",
+   "ko": "~의 앞에"
+  },
+  {
+   "id": "j1visang_u07_expressions01_02",
+   "en": "speaking test",
+   "ko": "말하기 시험"
+  },
+  {
+   "id": "j1visang_u07_expressions01_03",
+   "en": "a lot of",
+   "ko": "많은"
+  },
+  {
+   "id": "j1visang_u07_expressions01_04",
+   "en": "think about",
+   "ko": "~에 대해 생각하다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_05",
+   "en": "because of",
+   "ko": "~ 때문에"
+  },
+  {
+   "id": "j1visang_u07_expressions01_06",
+   "en": "old man",
+   "ko": "노인"
+  },
+  {
+   "id": "j1visang_u07_expressions01_07",
+   "en": "take apart",
+   "ko": "갈라놓다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_08",
+   "en": "in trouble",
+   "ko": "곤경에 처한"
+  },
+  {
+   "id": "j1visang_u07_expressions01_09",
+   "en": "much time",
+   "ko": "많은 시간"
+  },
+  {
+   "id": "j1visang_u07_expressions01_10",
+   "en": "put up",
+   "ko": "게시하다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_11",
+   "en": "big problem",
+   "ko": "큰 문제"
+  },
+  {
+   "id": "j1visang_u07_expressions01_12",
+   "en": "make with",
+   "ko": "~로 만들다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_13",
+   "en": "last long",
+   "ko": "오래 지속되다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_14",
+   "en": "one day",
+   "ko": "어느 날"
+  },
+  {
+   "id": "j1visang_u07_expressions01_15",
+   "en": "fall into",
+   "ko": "~에 빠지다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_16",
+   "en": "clean up",
+   "ko": "청소하다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_17",
+   "en": "polar bear",
+   "ko": "북극곰"
+  },
+  {
+   "id": "j1visang_u07_expressions01_18",
+   "en": "in the middle of",
+   "ko": "~의 한가운데에"
+  },
+  {
+   "id": "j1visang_u07_expressions01_19",
+   "en": "throw a party",
+   "ko": "파티를 열다"
+  },
+  {
+   "id": "j1visang_u07_expressions01_20",
+   "en": "find out",
+   "ko": "알아내다"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

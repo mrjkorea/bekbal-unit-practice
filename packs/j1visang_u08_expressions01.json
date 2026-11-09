@@ -1,0 +1,127 @@
+{
+ "id": "j1visang_u08_expressions01",
+ "title": "중1비상 U08 · Expressions",
+ "source": "100발100중 중2/중1 · Lesson",
+ "unit": "u08",
+ "book": "j1-visang",
+ "words": [
+  {
+   "id": "j1visang_u08_expressions01_01",
+   "en": "nursing home",
+   "ko": "요양원"
+  },
+  {
+   "id": "j1visang_u08_expressions01_02",
+   "en": "cheer for",
+   "ko": "~를 응원하다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_03",
+   "en": "look for",
+   "ko": "~를 찾다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_04",
+   "en": "at last",
+   "ko": "마침내"
+  },
+  {
+   "id": "j1visang_u08_expressions01_05",
+   "en": "finish line",
+   "ko": "결승선"
+  },
+  {
+   "id": "j1visang_u08_expressions01_06",
+   "en": "sign up for",
+   "ko": "~에 등록하다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_07",
+   "en": "take pictures",
+   "ko": "사진을 찍다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_08",
+   "en": "in need",
+   "ko": "어려움에 처한; ~이 필요한"
+  },
+  {
+   "id": "j1visang_u08_expressions01_09",
+   "en": "no way",
+   "ko": "말도 안 돼"
+  },
+  {
+   "id": "j1visang_u08_expressions01_10",
+   "en": "run together",
+   "ko": "함께 달리다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_11",
+   "en": "go fishing",
+   "ko": "낚시하러 가다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_12",
+   "en": "help out",
+   "ko": "도와주다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_13",
+   "en": "the best day",
+   "ko": "최고의 날"
+  },
+  {
+   "id": "j1visang_u08_expressions01_14",
+   "en": "at the same time",
+   "ko": "동시에"
+  },
+  {
+   "id": "j1visang_u08_expressions01_15",
+   "en": "do one's best",
+   "ko": "최선을 다하다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_16",
+   "en": "each other",
+   "ko": "서로"
+  },
+  {
+   "id": "j1visang_u08_expressions01_17",
+   "en": "move to",
+   "ko": "~로 이동하다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_18",
+   "en": "take a guess",
+   "ko": "추측해보다"
+  },
+  {
+   "id": "j1visang_u08_expressions01_19",
+   "en": "for sure",
+   "ko": "확실히"
+  },
+  {
+   "id": "j1visang_u08_expressions01_20",
+   "en": "give one's hand",
+   "ko": "도움을 주다"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

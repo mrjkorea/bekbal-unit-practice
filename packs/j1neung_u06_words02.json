@@ -1,0 +1,127 @@
+{
+ "id": "j1neung_u06_words02",
+ "title": "중1능률 U06 · Words 02",
+ "source": "100발100중 · middle school",
+ "unit": "u06",
+ "book": "j1-neung",
+ "words": [
+  {
+   "id": "j1neung_u06_words02_01",
+   "en": "introduce",
+   "ko": "소개하다"
+  },
+  {
+   "id": "j1neung_u06_words02_02",
+   "en": "board",
+   "ko": "판자, 널"
+  },
+  {
+   "id": "j1neung_u06_words02_03",
+   "en": "decide",
+   "ko": "결정하다"
+  },
+  {
+   "id": "j1neung_u06_words02_04",
+   "en": "light",
+   "ko": "가벼운, 빛, (전)등"
+  },
+  {
+   "id": "j1neung_u06_words02_05",
+   "en": "period",
+   "ko": "시대"
+  },
+  {
+   "id": "j1neung_u06_words02_06",
+   "en": "stick",
+   "ko": "막대"
+  },
+  {
+   "id": "j1neung_u06_words02_07",
+   "en": "special",
+   "ko": "특별한"
+  },
+  {
+   "id": "j1neung_u06_words02_08",
+   "en": "most",
+   "ko": "대부분의, 가장 큰[많은]"
+  },
+  {
+   "id": "j1neung_u06_words02_09",
+   "en": "share",
+   "ko": "공유하다"
+  },
+  {
+   "id": "j1neung_u06_words02_10",
+   "en": "scientific",
+   "ko": "과학적인"
+  },
+  {
+   "id": "j1neung_u06_words02_11",
+   "en": "interview",
+   "ko": "인터뷰를 하다"
+  },
+  {
+   "id": "j1neung_u06_words02_12",
+   "en": "pot",
+   "ko": "병[항아리/통]"
+  },
+  {
+   "id": "j1neung_u06_words02_13",
+   "en": "professor",
+   "ko": "교수"
+  },
+  {
+   "id": "j1neung_u06_words02_14",
+   "en": "tongue",
+   "ko": "혀"
+  },
+  {
+   "id": "j1neung_u06_words02_15",
+   "en": "late",
+   "ko": "늦은, 지각한; 늦게"
+  },
+  {
+   "id": "j1neung_u06_words02_16",
+   "en": "unique",
+   "ko": "독특한"
+  },
+  {
+   "id": "j1neung_u06_words02_17",
+   "en": "order",
+   "ko": "주문하다, 주문"
+  },
+  {
+   "id": "j1neung_u06_words02_18",
+   "en": "letter",
+   "ko": "글자, 문자: 편지"
+  },
+  {
+   "id": "j1neung_u06_words02_19",
+   "en": "create",
+   "ko": "창조하다, 창작하다"
+  },
+  {
+   "id": "j1neung_u06_words02_20",
+   "en": "traditional",
+   "ko": "전통의"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

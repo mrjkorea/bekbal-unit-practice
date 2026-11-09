@@ -1,0 +1,127 @@
+{
+ "id": "j1neung_u06_words01",
+ "title": "중1능률 U06 · Words 01",
+ "source": "100발100중 · middle school",
+ "unit": "u06",
+ "book": "j1-neung",
+ "words": [
+  {
+   "id": "j1neung_u06_words01_01",
+   "en": "contest",
+   "ko": "대회"
+  },
+  {
+   "id": "j1neung_u06_words01_02",
+   "en": "bad",
+   "ko": "안 좋은, 나쁜"
+  },
+  {
+   "id": "j1neung_u06_words01_03",
+   "en": "festival",
+   "ko": "축제"
+  },
+  {
+   "id": "j1neung_u06_words01_04",
+   "en": "sound",
+   "ko": "소리: ~하게 들리다"
+  },
+  {
+   "id": "j1neung_u06_words01_05",
+   "en": "get",
+   "ko": "얻다"
+  },
+  {
+   "id": "j1neung_u06_words01_06",
+   "en": "miss",
+   "ko": "놓치다"
+  },
+  {
+   "id": "j1neung_u06_words01_07",
+   "en": "tasty",
+   "ko": "맛있는"
+  },
+  {
+   "id": "j1neung_u06_words01_08",
+   "en": "important",
+   "ko": "중요한"
+  },
+  {
+   "id": "j1neung_u06_words01_09",
+   "en": "forest",
+   "ko": "숲, 삼림"
+  },
+  {
+   "id": "j1neung_u06_words01_10",
+   "en": "battle",
+   "ko": "전투"
+  },
+  {
+   "id": "j1neung_u06_words01_11",
+   "en": "clothes",
+   "ko": "옷, 의복"
+  },
+  {
+   "id": "j1neung_u06_words01_12",
+   "en": "introduce",
+   "ko": "소개하다"
+  },
+  {
+   "id": "j1neung_u06_words01_13",
+   "en": "mask",
+   "ko": "가면"
+  },
+  {
+   "id": "j1neung_u06_words01_14",
+   "en": "cool",
+   "ko": "시원한, 서늘한: 멋진"
+  },
+  {
+   "id": "j1neung_u06_words01_15",
+   "en": "performance",
+   "ko": "공연"
+  },
+  {
+   "id": "j1neung_u06_words01_16",
+   "en": "wear",
+   "ko": "입고[쓰고/신고/착용하고] 있다"
+  },
+  {
+   "id": "j1neung_u06_words01_17",
+   "en": "tower",
+   "ko": "탑"
+  },
+  {
+   "id": "j1neung_u06_words01_18",
+   "en": "different",
+   "ko": "다른, 여러 가지의"
+  },
+  {
+   "id": "j1neung_u06_words01_19",
+   "en": "rule",
+   "ko": "규칙"
+  },
+  {
+   "id": "j1neung_u06_words01_20",
+   "en": "instrument",
+   "ko": "악기"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}

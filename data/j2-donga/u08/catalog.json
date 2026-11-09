@@ -152,31 +152,25 @@
    "key": "W",
    "title": "Word focus",
    "lane": "focus",
-   "note": "WordMaster packs · opens in Word Master",
+   "note": "WordMaster packs · starts at Dictation · no pictures",
    "exercises": [
     {
      "id": "wm-j2donga_u08_words01",
      "title": "Words 01 · 20 words",
      "external": true,
-     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j2donga_u08_words01.json"
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j2donga_u08_words01.json"
     },
     {
      "id": "wm-j2donga_u08_words02",
      "title": "Words 02 · 20 words",
      "external": true,
-     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j2donga_u08_words02.json"
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j2donga_u08_words02.json"
     },
     {
      "id": "wm-j2donga_u08_expressions01",
-     "title": "Expressions · 15 words",
+     "title": "Expressions · 20 words",
      "external": true,
-     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j2donga_u08_expressions01.json"
-    },
-    {
-     "id": "wm-j2donga_u08_wordplus01",
-     "title": "Words Plus+ · 20 words",
-     "external": true,
-     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/word-master/packs/j2donga_u08_wordplus01.json"
+     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j2donga_u08_expressions01.json"
     }
    ]
   },

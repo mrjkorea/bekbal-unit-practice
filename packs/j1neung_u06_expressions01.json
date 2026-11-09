@@ -1,0 +1,127 @@
+{
+ "id": "j1neung_u06_expressions01",
+ "title": "중1능률 U06 · Expressions",
+ "source": "100발100중 · middle school",
+ "unit": "u06",
+ "book": "j1-neung",
+ "words": [
+  {
+   "id": "j1neung_u06_expressions01_01",
+   "en": "at the same time",
+   "ko": "동시에"
+  },
+  {
+   "id": "j1neung_u06_expressions01_02",
+   "en": "in the past",
+   "ko": "과거에"
+  },
+  {
+   "id": "j1neung_u06_expressions01_03",
+   "en": "be able to",
+   "ko": "~할 수 있다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_04",
+   "en": "big fan",
+   "ko": "열혈 팬"
+  },
+  {
+   "id": "j1neung_u06_expressions01_05",
+   "en": "feel sick",
+   "ko": "속이 안 좋다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_06",
+   "en": "not really",
+   "ko": "그럴 리가, 설마"
+  },
+  {
+   "id": "j1neung_u06_expressions01_07",
+   "en": "have a sale",
+   "ko": "세일하다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_08",
+   "en": "try on",
+   "ko": "~을 해[입어/신어/착용해] 보다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_09",
+   "en": "go well with",
+   "ko": "~와 잘 어울리다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_10",
+   "en": "get points",
+   "ko": "점수를 얻다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_11",
+   "en": "go out",
+   "ko": "외출하다[나가다]"
+  },
+  {
+   "id": "j1neung_u06_expressions01_12",
+   "en": "throw A into B",
+   "ko": "A를 B 안에 던지다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_13",
+   "en": "be interested in",
+   "ko": "~에 관심이 있다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_14",
+   "en": "in the past",
+   "ko": "과거에"
+  },
+  {
+   "id": "j1neung_u06_expressions01_15",
+   "en": "go shopping",
+   "ko": "쇼핑 가다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_16",
+   "en": "stand on",
+   "ko": "~ 위에 서 있다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_17",
+   "en": "stop -ing",
+   "ko": "~하는 것을 멈추다"
+  },
+  {
+   "id": "j1neung_u06_expressions01_18",
+   "en": "a long time ago",
+   "ko": "오래전에"
+  },
+  {
+   "id": "j1neung_u06_expressions01_19",
+   "en": "in the air",
+   "ko": "공중에"
+  },
+  {
+   "id": "j1neung_u06_expressions01_20",
+   "en": "be famous for",
+   "ko": "~로 유명하다"
+  }
+ ],
+ "noPictures": true,
+ "startAt": "dictation",
+ "steps": [
+  "dictation",
+  "writing",
+  "test"
+ ],
+ "skipSteps": [
+  "meet",
+  "learn",
+  "match"
+ ],
+ "uiLang": "ko",
+ "langs": [
+  "en",
+  "ko"
+ ],
+ "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test."
+}
