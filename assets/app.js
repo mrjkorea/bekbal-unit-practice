@@ -105,7 +105,7 @@ async function unit() {
       const extra = list.filter((e) => e.external);
       html += core.length ? core.map(card).join("") : `<div class="ex off"><span class="t">교재 문법 문제 준비 중</span><span class="m">Coming soon</span></div>`;
       if (extra.length) {
-        html += `<div class="focus-sub">추가 연습 · Zap · 천일문 · 영상</div>` + extra.map(card).join("");
+        html += `<div class="focus-sub">Quick Test · 추가 연습 · Zap · 천일문 · 영상</div>` + extra.map(card).join("");
       }
     } else {
       html += list.map(card).join("");
