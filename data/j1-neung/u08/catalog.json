@@ -3,7 +3,7 @@
  "unit": "u08",
  "label": "Lesson 08 Dive into Stories",
  "status": "ready",
- "note": "통과 80%. 중1 능률 김기택 Lesson 08 Dive into Stories. book-txt와 답지(answers/ans-169..201)로 대조했습니다. 답지 스캔 공백(40–44, 50–54) 문항은 omitted에 표시했습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
+ "note": "통과 80%. 중1 능률 김기택 Lesson 08 Dive into Stories. X-10 핵심 Grammar(pp.50-51)와 핵심 문장 Review(pp.56-57)를 답지 48·49쪽 이미지에서 직접 읽어 새로 넣었습니다. 나머지 17개 연습은 아직 없습니다. 틀리고 다시 풀기 전에만 종이 교재 안내가 나옵니다.",
  "sections": [
   {
    "key": "A",
@@ -152,8 +152,7 @@
     {
      "id": "x10-grammar",
      "title": "핵심 Grammar 확인 문제",
-     "deferred": true,
-     "reason": "교재 X-10 pp.50-51 다시 읽고 재작성 필요"
+     "questionCount": 36
     },
     {
      "id": "x10-reading-sentence",
@@ -170,8 +169,7 @@
     {
      "id": "x10-review",
      "title": "핵심 문장 Review",
-     "deferred": true,
-     "reason": "교재 X-10 pp.56-57 다시 읽고 재작성 필요"
+     "questionCount": 25
     }
    ]
   },

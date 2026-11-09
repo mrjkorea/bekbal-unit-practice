@@ -1,0 +1,902 @@
+{
+ "id": "x10-grammar",
+ "title": "핵심 Grammar 확인 문제",
+ "book": "중1 능률 김기택",
+ "unit": "Lesson 08 Dive into Stories",
+ "sourcePages": [
+  "50",
+  "51"
+ ],
+ "questionCount": 36,
+ "omitted": [],
+ "questions": [
+  {
+   "sourceId": 1,
+   "group": "01",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ tall he is!",
+   "explainKo": "정답: How. How는 형용사·부사 tall을 꾸밀 때 씁니다. (답지 48쪽 Point 1)",
+   "id": "01",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "01",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 2,
+   "group": "02",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ a strong bear!",
+   "explainKo": "정답: What. What은 「What + a + 형용사 + 명사」로 감탄할 때 씁니다. (답지 48쪽 Point 1)",
+   "id": "02",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "02",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 3,
+   "group": "03",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ smart you are!",
+   "explainKo": "정답: How. How는 형용사 smart를 꾸밉니다. (답지 48쪽 Point 1)",
+   "id": "03",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "03",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 4,
+   "group": "04",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ quickly she runs!",
+   "explainKo": "정답: How. How는 부사 quickly를 꾸밉니다. (답지 48쪽 Point 1)",
+   "id": "04",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "04",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 5,
+   "group": "05",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ a good start!",
+   "explainKo": "정답: What. 「What + a + 형용사 + 명사」입니다. (답지 48쪽 Point 1)",
+   "id": "05",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "05",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 6,
+   "group": "06",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ wonderful she was!",
+   "explainKo": "정답: How. How는 형용사 wonderful을 꾸밉니다. (답지 48쪽 Point 1)",
+   "id": "06",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "06",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 7,
+   "group": "07",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ a beautiful day it is!",
+   "explainKo": "정답: What. 「What + a + 형용사 + 명사」입니다. (답지 48쪽 Point 1)",
+   "id": "07",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "07",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 8,
+   "group": "08",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ good friends we are!",
+   "explainKo": "정답: What. What은 명사 friends를 포함한 감탄문에 씁니다. (답지 48쪽 Point 1)",
+   "id": "08",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "08",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 9,
+   "group": "09",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ delicious this cake is!",
+   "explainKo": "정답: How. How는 형용사 delicious를 꾸밉니다. (답지 48쪽 Point 1)",
+   "id": "09",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "09",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 10,
+   "group": "10",
+   "promptEn": "Point 1. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을 고르시오.\n________ an interesting book!",
+   "explainKo": "정답: What. 「What + an + 형용사 + 명사」입니다. (답지 48쪽 Point 1)",
+   "id": "10",
+   "section": "s1",
+   "sectionTitle": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "10",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "What",
+    "How"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 11,
+   "group": "01",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n정말 끔찍한 실수구나! (mistake / what / terrible / it / a / is)\n→",
+   "explainKo": "정답: What a terrible mistake it is! (답지 48쪽 Point 1 More Exercise)",
+   "id": "01",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "01",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "What a terrible mistake it is!",
+    "What a terrible mistake it is"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 12,
+   "group": "02",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n저 건물은 정말 높구나! (that / how / building / is / tall)\n→",
+   "explainKo": "정답: How tall that building is! (답지 48쪽 Point 1 More Exercise)",
+   "id": "02",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "02",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "How tall that building is!",
+    "How tall that building is"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 13,
+   "group": "03",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n정말 이상한 소리구나! (strange / it / what / a / noise / is)\n→",
+   "explainKo": "정답: What a strange noise it is! (답지 48쪽 Point 1 More Exercise)",
+   "id": "03",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "03",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "What a strange noise it is!",
+    "What a strange noise it is"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 14,
+   "group": "04",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n오늘 정말 춥구나! (how / is / cold / today / it)\n→",
+   "explainKo": "정답: How cold it is today! (답지 48쪽 Point 1 More Exercise)",
+   "id": "04",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "04",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "How cold it is today!",
+    "How cold it is today"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 15,
+   "group": "05",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n너 정말 멋진 생각을 했구나! (a / what / great / you / idea / had)\n→",
+   "explainKo": "정답: What a great idea you had! (답지 48쪽 Point 1 More Exercise)",
+   "id": "05",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "05",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "What a great idea you had!",
+    "What a great idea you had"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 16,
+   "group": "06",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n이 문제는 정말 어렵구나! (this / difficult / how / problem / is)\n→",
+   "explainKo": "정답: How difficult this problem is! (답지 48쪽 Point 1 More Exercise)",
+   "id": "06",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "06",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "How difficult this problem is!",
+    "How difficult this problem is"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 17,
+   "group": "07",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n그들이 산 차는 정말 빠르구나! (they / a / fast / bought / car / what)\n→",
+   "explainKo": "정답: What a fast car they bought! (답지 48쪽 Point 1 More Exercise)",
+   "id": "07",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "07",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "What a fast car they bought!",
+    "What a fast car they bought"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 18,
+   "group": "08",
+   "promptEn": "Point 1. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n그 아기는 정말 크게 우는구나! (how / baby / loudly / cries / the)\n→",
+   "explainKo": "정답: How loudly the baby cries! (답지 48쪽 Point 1 More Exercise)",
+   "id": "08",
+   "section": "s2",
+   "sectionTitle": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "sectionInstructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "label": "08",
+   "type": "sentence",
+   "answerMode": "words",
+   "accept": [
+    "How loudly the baby cries!",
+    "How loudly the baby cries"
+   ],
+   "answerModeTag": "Type · 문장 쓰기",
+   "seconds": 100
+  },
+  {
+   "sourceId": 19,
+   "group": "01",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nI want (some / something) sweet.",
+   "explainKo": "정답: something. 「something + 형용사」이므로 something이 맞습니다. (답지 48쪽 Point 2)",
+   "id": "01",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "01",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "some",
+    "something"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 20,
+   "group": "02",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nI taste (some / something) spicy.",
+   "explainKo": "정답: something. 「something + 형용사」이므로 something이 맞습니다. (답지 48쪽 Point 2)",
+   "id": "02",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "02",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "some",
+    "something"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 21,
+   "group": "03",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nI need something (cold / coldly) to drink.",
+   "explainKo": "정답: cold. something 뒤에는 형용사가 옵니다. (답지 48쪽 Point 2)",
+   "id": "03",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "03",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "cold",
+    "coldly"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 22,
+   "group": "04",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nI didn't see anything (unusual / unusually).",
+   "explainKo": "정답: unusual. anything 뒤에는 형용사가 옵니다. (답지 48쪽 Point 2)",
+   "id": "04",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "04",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "unusual",
+    "unusually"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 23,
+   "group": "05",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nI want to be (some / somebody) important.",
+   "explainKo": "정답: somebody. 사람을 가리키는 somebody가 맞습니다. (답지 48쪽 Point 2)",
+   "id": "05",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "05",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "some",
+    "somebody"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 24,
+   "group": "06",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nShe never talks to (anybody new / any new).",
+   "explainKo": "정답: anybody new. 「anybody + 형용사」의 어순입니다. (답지 48쪽 Point 2)",
+   "id": "06",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "06",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "anybody new",
+    "any new"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 25,
+   "group": "07",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nIs there anything (interest / interesting) to read?",
+   "explainKo": "정답: interesting. anything 뒤에는 형용사가 옵니다. (답지 48쪽 Point 2)",
+   "id": "07",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "07",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "interest",
+    "interesting"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 26,
+   "group": "08",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nShe found (not / nothing) interesting in the book.",
+   "explainKo": "정답: nothing. ‘아무것도’라는 뜻의 nothing이 맞습니다. (답지 48쪽 Point 2)",
+   "id": "08",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "08",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "not",
+    "nothing"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 27,
+   "group": "09",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nDo you have (anything cold / cold anything) to drink?",
+   "explainKo": "정답: anything cold. 「anything + 형용사」의 어순입니다. (답지 48쪽 Point 2)",
+   "id": "09",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "09",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "anything cold",
+    "cold anything"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 28,
+   "group": "10",
+   "promptEn": "Point 2. 교과서 문장 속 Grammar. 다음 괄호 안에서 알맞은 것을 고르시오.\nSomething (strange / strangely) happened at school today.",
+   "explainKo": "정답: strange. something 뒤에는 형용사가 옵니다. (답지 48쪽 Point 2)",
+   "id": "10",
+   "section": "s3",
+   "sectionTitle": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "label": "10",
+   "type": "mc",
+   "answerMode": "choice",
+   "choices": [
+    "strange",
+    "strangely"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "select": "one",
+   "answerModeTag": "Choose · 고르기",
+   "seconds": 45
+  },
+  {
+   "sourceId": 29,
+   "group": "01",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n너는 유용한 것을 찾았니? (anything / find / useful)\nDid you ______ ?",
+   "explainKo": "정답: find anything useful (답지 49쪽 More Exercise)",
+   "id": "01",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "01",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "find anything useful",
+    "find anything useful"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 30,
+   "group": "02",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n여기에 중요한 것은 없다. (important / there's / nothing)\n______ here.",
+   "explainKo": "정답: There's nothing important (답지 49쪽 More Exercise)",
+   "id": "02",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "02",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "There's nothing important",
+    "There's nothing important"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 31,
+   "group": "03",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n키 큰 누군가가 문을 열었다. (opened / someone / tall)\n______ the door.",
+   "explainKo": "정답: Someone tall opened (답지 49쪽 More Exercise)",
+   "id": "03",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "03",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "Someone tall opened",
+    "Someone tall opened"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 32,
+   "group": "04",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n낯선 누군가가 파티에 왔다. (somebody / came / strange)\n______ to the party.",
+   "explainKo": "정답: Somebody strange came (답지 49쪽 More Exercise)",
+   "id": "04",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "04",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "Somebody strange came",
+    "Somebody strange came"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 33,
+   "group": "05",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n피곤한 사람은 누구든 쉴 수 있다. (can / anyone / tired / take)\n______ a break.",
+   "explainKo": "정답: Anyone tired can take (답지 49쪽 More Exercise)",
+   "id": "05",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "05",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "Anyone tired can take",
+    "Anyone tired can take"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 34,
+   "group": "06",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n그는 그 아기를 위해 부드러운 것을 가져왔다. (the / soft / something / for / baby)\nHe brought ______ .",
+   "explainKo": "정답: something soft for the baby (답지 49쪽 More Exercise)",
+   "id": "06",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "06",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "something soft for the baby",
+    "something soft for the baby"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 35,
+   "group": "07",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n나는 마실 차가운 것이 필요하다. (drink / something / to / cold)\nI need ______ .",
+   "explainKo": "정답: something cold to drink (답지 49쪽 More Exercise)",
+   "id": "07",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "07",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "something cold to drink",
+    "something cold to drink"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "sourceId": 36,
+   "group": "08",
+   "promptEn": "Point 2. More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하시오.\n그녀는 입기에 편한 것을 원한다. (to / comfortable / something / wear)\nShe wants ______ .",
+   "explainKo": "정답: something comfortable to wear (답지 49쪽 More Exercise)",
+   "id": "08",
+   "section": "s4",
+   "sectionTitle": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "sectionInstructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "label": "08",
+   "type": "fill",
+   "answerMode": "words",
+   "accept": [
+    "something comfortable to wear",
+    "something comfortable to wear"
+   ],
+   "answerModeTag": "Type · 빈칸 말만",
+   "phraseBlank": true,
+   "seconds": 70
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 핵심 Grammar 확인 문제. 빈칸은 그 칸의 말만, 배열은 문장 전체를 쓰고, 고르기는 누르기만 하면 됩니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "directionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을…",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "Point 1 감탄문. 교과서 문장 속 Grammar. 다음 빈칸에 What 또는 How 중 알맞은 말을… 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 10
+  },
+  {
+   "id": "s2",
+   "title": "Section B · Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "directionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열…",
+   "ruleKo": "배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "instructionKo": "Point 1 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열… 배열한 문장을 그대로 쓰세요. 마침표와 느낌표는 써도 되고 쓰지 않아도 됩니다.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 문장 쓰기",
+   "itemCount": 8
+  },
+  {
+   "id": "s3",
+   "title": "Section C · Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "directionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "Point 2 「something + 형용사」. 다음 괄호 안에서 알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 10
+  },
+  {
+   "id": "s4",
+   "title": "Section D · Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "directionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하…",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "instructionKo": "Point 2 More Exercise. 다음 우리말에 맞도록 괄호 안의 단어들을 배열하여 문장을 완성하… 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "itemCount": 8
+  }
+ ]
+}
