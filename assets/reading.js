@@ -217,9 +217,11 @@
       main.innerHTML = head +
         '<p class="rf-ask">영어 문장을 듣고 그대로 쓰세요.</p>' +
         '<p><button id="rf-play" class="rf-btn">🔊 다시 듣기</button></p>' +
+        voiceBar() +
         '<textarea id="rf-in" rows="3" placeholder="듣고 쓴 문장"></textarea>' +
         '<p><button id="rf-check" class="rf-btn primary">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
       document.getElementById("rf-play").onclick = function () { playCard(current); };
+      wireVoices();
       playCard(current);
     } else {
       main.innerHTML = head +
