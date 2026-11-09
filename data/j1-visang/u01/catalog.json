@@ -1,37 +1,37 @@
 {
-  "book": "j1-visang",
-  "unit": "u01",
-  "label": "Lesson 01",
-  "status": "coming-soon",
-  "sections": [
-    {
-      "key": "A",
-      "title": "A. 본책",
-      "exercises": []
-    },
-    {
-      "key": "B",
-      "title": "B. X-10 워크북",
-      "exercises": []
-    },
-    {
-      "key": "C",
-      "title": "C. 실전 테스트",
-      "exercises": []
-    },
-    {
-      "key": "W",
-      "title": "Word focus",
-      "lane": "focus",
-      "note": "Coming soon.",
-      "exercises": []
-    },
-    {
-      "key": "G",
-      "title": "Grammar focus",
-      "lane": "focus",
-      "note": "Coming soon.",
-      "exercises": []
-    }
-  ]
+ "book": "j1-visang",
+ "unit": "u01",
+ "label": "Lesson 01",
+ "status": "coming-soon",
+ "sections": [
+  {
+   "key": "A",
+   "title": "A. 본책",
+   "exercises": []
+  },
+  {
+   "key": "B",
+   "title": "B. X-10 워크북",
+   "exercises": []
+  },
+  {
+   "key": "C",
+   "title": "C. 실전 테스트",
+   "exercises": []
+  },
+  {
+   "key": "W",
+   "title": "Word focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  },
+  {
+   "key": "G",
+   "title": "Grammar focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  }
+ ]
 }

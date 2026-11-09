@@ -463,13 +463,13 @@
    "key": "R",
    "title": "Reading focus",
    "lane": "focus",
-   "note": "Sentence packs · WordMaster spelling, writing and test",
+   "note": "영어 문장 + 우리말 · 받아쓰기 · 쓰기 · 시험 · 80% 통과",
    "exercises": [
     {
      "id": "wm-j1-visang_u07_reading01",
-     "title": "Reading Focus · 30 sentences",
-     "external": true,
-     "href": "https://mrjkorea.github.io/word-master/?packsrc=https://mrjkorea.github.io/bekbal-unit-practice/packs/j1-visang_u07_reading01.json"
+     "title": "Reading Focus · 문장 받아쓰기 · 쓰기 · 시험",
+     "external": false,
+     "href": "reading.html?b=j1-visang&u=u07"
     }
    ]
   }
