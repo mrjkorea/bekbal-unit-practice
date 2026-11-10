@@ -44,7 +44,39 @@
     );
   }
 
-  /* One finished item -> one row in ClassroomMetrics. */
+  /* Student key the book and the index both use: lower case, spaces collapsed. */
+  function idKey(s) {
+    return String(s == null ? "" : s).trim().toLowerCase().replace(/\s+/g, " ");
+  }
+
+  /* Remember the same item in StudentScoreIndex, which is the store the student
+     My scores page and the teacher dashboard read. Without this call a score is
+     in the book and invisible to both pages (Reg/Metrics 2026-11-11). */
+  function remember(opts, itemId, pct, localDateText) {
+    try {
+      if (!root.MRJ_AUTH || typeof root.MRJ_AUTH.noteScore !== "function") return;
+      if (typeof root.MRJ_AUTH.student !== "function") return;
+      if (!String(root.MRJ_AUTH.student() || "").trim()) return;
+      root.MRJ_AUTH.noteScore({
+        program: opts.program,
+        appName: opts.appName,
+        source: opts.source,
+        bookTitle: opts.bookTitle,
+        unitTitle: opts.unitTitle,
+        itemId: itemId,
+        itemType: opts.itemType,
+        scoreValue: opts.scoreValue,
+        scoreMax: opts.scoreMax,
+        scorePct: pct,
+        correctness: opts.correctness,
+        localDate: localDateText,
+      });
+    } catch (e) {}
+  }
+
+  /* One finished item -> one row in ClassroomMetrics, and the same item in
+     StudentScoreIndex. A post with no signed-in student is refused, not written
+     as "unknown" (Reg/Metrics 2026-11-11). */
   function post(opts) {
     opts = opts || {};
     var authed = "";
@@ -52,6 +84,8 @@
       authed = root.MRJ_AUTH && root.MRJ_AUTH.student ? root.MRJ_AUTH.student() : "";
     } catch (e) {}
     var student = String(authed || opts.student || "").trim();
+    if (!student) return Promise.resolve({ status: "skipped", error: "no student" });
+    var key = idKey(student);
     var itemId = String(opts.itemId || uid("item"));
     var when = opts.when ? new Date(opts.when) : new Date();
     var pct =
@@ -69,11 +103,11 @@
     if (opts.unitTitle && !meta.unitTitle) meta.unitTitle = opts.unitTitle;
 
     var body = {
-      /* The site identity is a bare id_key (no @). Receiver 5.1.0 stores it as is;
-         "unknown" is only for a post with no student at all. */
-      student_email: (student || "unknown").slice(0, 320),
+      /* The site identity is a bare id_key (no @). Receiver 5.1.0 stores it as is,
+         so the book keeps the real student instead of "unknown". */
+      student_email: (student.indexOf("@") > 0 ? student : key).slice(0, 320),
       student_name: student,
-      session_id: [opts.program || "mrj", student || "anon", localDate(when)].join("-"),
+      session_id: [opts.program || "mrj", key, localDate(when)].join("-"),
       events: [
         {
           event_id: opts.eventId || uid(opts.program || "mrj"),
@@ -112,6 +146,13 @@
           return { status: "sent, not confirmed" };
         });
       })
+      .then(function (result) {
+        /* The book has the row. Put the same item in StudentScoreIndex, so the
+           student My scores page shows it too. noteScore has its own retry
+           queue, so a network miss here is not lost. */
+        remember(opts, itemId, pct, localDate(when));
+        return result;
+      })
       .catch(function (err) {
         // offline: keep it on the device, flush later
         try {
@@ -119,6 +160,9 @@
           q.push(body);
           localStorage.setItem("mrj.score.queue", JSON.stringify(q.slice(-200)));
         } catch (e) {}
+        /* The item is still the student's work: record it on the index side now,
+           which does not depend on this endpoint. */
+        remember(opts, itemId, pct, localDate(when));
         return { status: "queued", error: String(err && err.message) };
       });
   }
