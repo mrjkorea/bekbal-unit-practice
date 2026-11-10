@@ -44,11 +44,34 @@ const FOCUS = [
 function bekDone() { try { return JSON.parse(localStorage.getItem("bek.progress.v1") || "{}"); } catch (e) { return {}; } }
 function bekScore() { try { return JSON.parse(localStorage.getItem("bek.scores.v1") || "{}"); } catch (e) { return {}; } }
 
+const chipLink = (cls, label, href, title) =>
+  `<a class="chip ${cls}" href="${esc(href)}" target="_blank" rel="noopener"${title ? ` title="${esc(title)}"` : ""}>${label}</a>`;
+const qtLabel = (q) => `${q.shape} · ${q.minutes || (q.shape === "TF" ? 5 : 15)}분${q.items ? " · " + q.items + "문항" : ""}`;
+const noVideo = `<span class="chip soon" title="이 문법의 영상이 아직 없습니다">영상 준비 중</span>`;
+const noTest = `<span class="chip soon" title="테스트를 만드는 중입니다">테스트 준비 중</span>`;
+
+function grammarQuick(types) {
+  if (!types || !types.length) return "";
+  return `<div class="gq-head"><span class="gq-badge">Quick Test</span>` +
+    `<span class="gq-lead">노트 → 영상 → 테스트 순서로 하세요</span>` +
+    `<span class="gq-hint">Notes → Video → three tests</span></div>` +
+    `<div class="gq-grid">` + types.map((t) => {
+      const chips = [chipLink("gold", "노트 Notes", t.note, t.type + " 설명 노트")];
+      chips.push(t.video ? chipLink("purple", "영상 Video", t.video, t.type + " 설명 영상") : noVideo);
+      (t.tests || []).forEach((q) => chips.push(chipLink("qt", "⚡ " + qtLabel(q), q.url, t.type + " · " + q.shape)));
+      if (!(t.tests || []).length) chips.push(noTest);
+      return `<div class="gq-card"><div class="gq-type">${esc(t.type)}</div>` +
+        `<div class="chips">${chips.join("")}</div></div>`;
+    }).join("") + `</div>`;
+}
+
 async function unit() {
   const b = qs.get("b"), u = qs.get("u");
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
   const done = bekDone(), scores = bekScore();
+  let gmap = null;
+  try { const g = await getJSON("data/grammar-focus.json"); gmap = (g && g[b + "/" + u]) || null; } catch (e) { gmap = null; }
 
   const card = (e) => {
     const key = b + "|" + u + "|" + e.id;
@@ -91,6 +114,18 @@ async function unit() {
 
   FOCUS.forEach((f) => {
     const list = buckets[f.key];
+    if (f.key === "grammar" && list.length) {
+      const quickIds = /^(note-|video-|grammar-quicktest-)/;
+      const more = gmap ? list.filter((e) => !quickIds.test(e.id)) : list;
+      const quick = grammarQuick(gmap);
+      let body = quick;
+      if (more.length) {
+        body += `<div class="gq-sub">추가 연습 · More practice</div><div class="gq-more">` + more.map(card).join("") + `</div>`;
+      }
+      html += `<section class="focus grammar"><div class="focus-head">${f.title}` +
+        `<span class="cnt">${countOf(list)}</span></div><div class="focus-body single">` + (body || soon) + `</div></section>`;
+      return;
+    }
     html += `<section class="focus ${f.key}"><div class="focus-head">${f.title}` +
       `<span class="cnt">${countOf(list)}</span></div><div class="focus-body">` +
       (list.length ? list.map(card).join("") : soon) + `</div></section>`;
