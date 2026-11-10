@@ -49,6 +49,7 @@ function bekScore() { try { return JSON.parse(localStorage.getItem("bek.scores.v
    time; nothing is invented when a row is missing. ---- */
 const SCORE_PROGRAMS = ["bekbal-unit", "bekbal-reading", "mse-quicktest", "greenzap", "word-master"];
 const latestScore = [];
+let scorePass = 0;
 
 function rowScore(row) {
   const raw = String(row && row.score != null ? row.score : "").trim();
@@ -69,22 +70,31 @@ function scoreText(s) {
 }
 
 function loadScores() {
+  /* One request for every program, the same call My Scores uses (action "progress"),
+     so the page does not wait on five slow round trips. */
   const a = window.MRJ_AUTH || window.MRJSignin;
-  if (!a || typeof a.loadProgressForApp !== "function") return Promise.resolve(false);
-  let who = "";
-  try { who = a.student ? String(a.student() || "") : ""; } catch (e) { who = ""; }
-  if (!who) return Promise.resolve(false);
-  return Promise.all(SCORE_PROGRAMS.map((p) => a.loadProgressForApp(p).catch(() => ({ progress: [] }))))
-    .then((sets) => {
-      sets.forEach((r, i) => {
-        ((r && r.progress) || []).forEach((row) => {
-          const s = rowScore({ program: row.program || SCORE_PROGRAMS[i], item: row.item, score: row.score, date: row.date });
-          if (s) latestScore.push(s);
-        });
-      });
-      return latestScore.length > 0;
-    })
-    .catch(() => false);
+  if (!a || !a.ENDPOINT || typeof a.token !== "function") return Promise.resolve(false);
+  let who = "", tok = "";
+  try { who = a.student ? String(a.student() || "") : ""; tok = String(a.token() || ""); } catch (e) { return Promise.resolve(false); }
+  if (!who || !tok) return Promise.resolve(false);
+  const rows = [];
+  const page = (off) => fetch(a.ENDPOINT, {
+    method: "POST", redirect: "follow", headers: { "Content-Type": "text/plain;charset=utf-8" },
+    body: JSON.stringify({ action: "progress", id: who, token: tok, offset: off, limit: 500 })
+  }).then((r) => r.json()).then((d) => {
+    if (!d || !d.ok) return rows;
+    const c = Array.isArray(d.progress) ? d.progress : [];
+    c.forEach((x) => rows.push(x));
+    if (d.hasMore === true && c.length && off < 3000) return page(off + c.length);
+    return rows;
+  });
+  return page(0).then((all) => {
+    all.forEach((row) => {
+      const s = rowScore({ program: row.program, item: row.item, score: row.score, date: row.date });
+      if (s) latestScore.push(s);
+    });
+    return latestScore.length > 0;
+  }).catch(() => false);
 }
 
 function findScore(program, q) {
@@ -130,7 +140,6 @@ async function unit() {
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
   const done = bekDone(), scores = bekScore();
-  await loadScores();
   const scoreOf = (href) => {
     const h = String(href || "");
     let m;
@@ -219,6 +228,13 @@ async function unit() {
     `<span class="cnt">${bookItems ? countOf(buckets.book.reduce((a, s) => a.concat(s.exercises), [])) : "Coming soon"}</span>` +
     `</div><div class="focus-body">${bookHtml || soon}</div></section>`;
   app.innerHTML = html;
+  /* The page paints at once; the signed-in scores arrive after and redraw it once
+     (Jay 2026-11-10: the score must be on the page, not behind a click). */
+  if (scorePass === 0) {
+    scorePass = 1;
+    if (latestScore.length) { scorePass = 2; }
+    else loadScores().then((got) => { scorePass = 2; if (got) unit(); });
+  }
 }
 
 function legacyExercise(ex) {
