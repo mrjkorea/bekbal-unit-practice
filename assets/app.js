@@ -27,26 +27,18 @@ async function book() {
   if (!b) return (app.textContent = "Book not found");
   app.innerHTML = `<h1>${esc(b.title)}</h1><div class="grid">${b.units.map((u) => `<a class="card ${u.status === "coming-soon" ? "off" : ""}" href="unit.html?b=${b.slug}&u=${u.unit}">${u.label}<span class="tag ${u.status}">${STATUS[u.status]}</span></a>`).join("")}</div>`;
 }
-function pickFocus(e) {
-  const id = (e && e.id) || "";
-  const t = (e && e.title) || "";
-  if (/^vocab/.test(id) || /^(Words|Expressions)/i.test(t)) return "vocab";
-  if (/^(dialog|reading|plus|writing)/.test(id) || /^Reading Focus/i.test(t)) return "reading";
-  if (/^grammar/.test(id)) return "grammar";
-  if (/^(x10|mock|review|final|midterm)/.test(id)) return "tests";
-  if (e && e.external) {
-    if (/쪽지|노트|영상|Walk|Fly|Jump|Wrap|천1|천2|Grammar/i.test(t)) return "grammar";
-    if (/Words|Expressions/i.test(t)) return "vocab";
-    if (/Reading/i.test(t)) return "reading";
-    return "tests";
-  }
-  return "tests";
+function focusOf(sectionTitle) {
+  // The catalog section is the area. A vocab- or grammar- id is still a book question.
+  const t = sectionTitle || "";
+  if (/word\s*focus/i.test(t)) return "vocab";
+  if (/reading\s*focus/i.test(t)) return "reading";
+  if (/grammar\s*focus/i.test(t)) return "grammar";
+  return "book";
 }
 const FOCUS = [
-  { key: "vocab",   title: "① 단어 Focus · Vocabulary" },
-  { key: "reading", title: "② 읽기 Focus · Reading" },
-  { key: "grammar", title: "③ 문법 Focus · Grammar" },
-  { key: "tests",   title: "④ 100발백중 · X-10 시험" }
+  { key: "vocab", title: "① Word Focus · 단어" },
+  { key: "reading", title: "② Reading Focus · 읽기" },
+  { key: "grammar", title: "③ Grammar Focus · 문법" },
 ];
 
 function bekDone() { try { return JSON.parse(localStorage.getItem("bek.progress.v1") || "{}"); } catch (e) { return {}; } }
@@ -56,16 +48,19 @@ async function unit() {
   const b = qs.get("b"), u = qs.get("u");
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
-  let links = {};
-  try { links = (await getJSON("data/grammar-links.json"))[b + "|" + u] || {}; } catch (e) { links = {}; }
   const done = bekDone(), scores = bekScore();
 
   const card = (e) => {
     const key = b + "|" + u + "|" + e.id;
     const isDone = !!done[key];
     const sc = scores[key];
-    if (e.external && /^https:\/\//.test(e.href || "")) {
+    if (e.href && /^https:\/\//.test(e.href)) {
       return `<a class="ex" href="${esc(e.href)}" target="_blank" rel="noopener"><span class="t">${esc(e.title)}</span><span class="m">다른 사이트에서 열립니다</span></a>`;
+    }
+    if (e.href && /^reading\.html\?b=[a-z0-9-]+&u=u0[1-8]$/.test(e.href)) {
+      return `<a class="ex${isDone ? " done" : ""}" href="${esc(e.href)}">` +
+        `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
+        `<span class="m">받아쓰기 · 쓰기 · 시험</span></a>`;
     }
     if (e.deferred) return `<div class="ex off"><span class="t">${esc(e.title)}</span><span class="m">확인 필요</span></div>`;
     const n = e.questionCount ? ` · ${e.questionCount}문항` : "";
@@ -76,47 +71,40 @@ async function unit() {
       (sc ? `<span class="sc">점수 ${sc.got} / ${sc.total}</span>` : "") + `</a>`;
   };
 
-  const tools = () => {
-    const t = links;
-    const v = t.video ? `<a class="tool v" href="${esc(t.video)}" target="_blank" rel="noopener">▶ 문법 영상</a>` : `<span class="tool soon">▶ 영상 준비 중</span>`;
-    const n = t.notes ? `<a class="tool n" href="${esc(t.notes)}" target="_blank" rel="noopener">📄 문법 노트</a>` : `<span class="tool soon">📄 노트 준비 중</span>`;
-    const q = t.quick ? `<a class="tool q" href="${esc(t.quick)}" target="_blank" rel="noopener">⚡ 퀵 테스트</a>` : `<span class="tool soon">⚡ 퀵 테스트 준비 중</span>`;
-    const p = t.practice ? `<a class="tool p" href="${esc(t.practice)}" target="_blank" rel="noopener">📝 추가 연습</a>` : `<span class="tool soon">📝 추가 연습 준비 중</span>`;
-    return `<div class="gram-tools">${v}${n}${q}${p}</div>`;
-  };
+  const buckets = { vocab: [], reading: [], grammar: [], book: [] };
+  (c.sections || []).forEach((s) => {
+    const key = focusOf(s.title);
+    const items = s.exercises || [];
+    if (key === "book") buckets.book.push({ title: s.title || "교재", exercises: items });
+    else items.forEach((e) => buckets[key].push(e));
+  });
 
-  const all = [];
-  (c.sections || []).forEach((s) => (s.exercises || []).forEach((e) => all.push(e)));
+  const countOf = (list) => {
+    if (!list.length) return "Coming soon";
+    const finished = list.filter((e) => done[b + "|" + u + "|" + e.id]).length;
+    return `${finished} / ${list.length}`;
+  };
+  const soon = `<div class="ex off"><span class="t">아직 준비 중입니다</span><span class="m">Coming soon</span></div>`;
 
   let html = `<p class="crumb"><a href="book.html?b=${b}">← 단원 목록</a></p>` +
     `<h1 class="practice-title">${esc(c.label)}<span class="tag ${c.status}">${STATUS[c.status] || c.status}</span></h1>`;
 
   FOCUS.forEach((f) => {
-    const list = all.filter((e) => pickFocus(e) === f.key);
-    const finished = list.filter((e) => done[b + "|" + u + "|" + e.id]).length;
+    const list = buckets[f.key];
     html += `<section class="focus ${f.key}"><div class="focus-head">${f.title}` +
-      (list.length ? `<span class="cnt">${finished} / ${list.length}</span>` : `<span class="cnt">Coming soon</span>`) +
-      `</div><div class="focus-body${f.key === "grammar" ? "" : ""}">`;
-    if (f.key === "grammar") html += tools();
-    if (!list.length) {
-      html += `<div class="ex off"><span class="t">아직 준비 중입니다</span><span class="m">Coming soon</span></div>`;
-    } else if (f.key === "grammar") {
-      const core = list.filter((e) => !e.external);
-      const extra = list.filter((e) => e.external);
-      html += core.length ? core.map(card).join("") : `<div class="ex off"><span class="t">교재 문법 문제 준비 중</span><span class="m">Coming soon</span></div>`;
-      if (extra.length) {
-        html += `<div class="focus-sub">Quick Test · 추가 연습 · Zap · 천일문 · 영상</div>` + extra.map(card).join("");
-      }
-    } else {
-      html += list.map(card).join("");
-    }
-    html += `</div></section>`;
+      `<span class="cnt">${countOf(list)}</span></div><div class="focus-body">` +
+      (list.length ? list.map(card).join("") : soon) + `</div></section>`;
   });
 
-  const leftover = [];
-  if (leftover.length) {
-    html += `<section class="focus tests"><div class="focus-head">기타</div><div class="focus-body">` + leftover.map(card).join("") + `</div></section>`;
-  }
+  const bookItems = buckets.book.reduce((n, s) => n + s.exercises.length, 0);
+  let bookHtml = "";
+  buckets.book.forEach((s) => {
+    if (!s.exercises.length) return;
+    bookHtml += `<div class="focus-sub">${esc(s.title)}</div>` + s.exercises.map(card).join("");
+  });
+  html += `<section class="focus tests"><div class="focus-head">④ 교재 문제 · Book` +
+    `<span class="cnt">${bookItems ? countOf(buckets.book.reduce((a, s) => a.concat(s.exercises), [])) : "Coming soon"}</span>` +
+    `</div><div class="focus-body">${bookHtml || soon}</div></section>`;
   app.innerHTML = html;
 }
 
