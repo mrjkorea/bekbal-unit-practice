@@ -163,32 +163,6 @@
  ],
  "j1-neung/u07": [
   {
-   "type": "5형",
-   "note": "https://mrjkorea.github.io/middle-school/notes/5HSobject.pdf.pdf",
-   "video": "https://mrj-videos.canadianvegetarian.workers.dev/videos/msenew__044__%EC%A4%91%EB%93%B1%EC%9D%B8%EA%B0%95_%EC%A4%912_%EC%98%81%EC%96%B4__5%ED%98%95%EC%8B%9D_%EB%B3%B4%EC%96%B4_-_%EC%88%98%EB%B0%95%EC%94%A8%EB%8B%B7%EC%BB%B4_%ED%99%8D%EC%9E%AC%EC%9B%90%EC%84%A0%EC%83%9D%EB%8B%98.mp4",
-   "topic": "5형",
-   "tests": [
-    {
-     "shape": "T3",
-     "minutes": 15,
-     "items": 25,
-     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/T3"
-    },
-    {
-     "shape": "F3",
-     "minutes": 15,
-     "items": 25,
-     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/F3"
-    },
-    {
-     "shape": "TF",
-     "minutes": 5,
-     "items": 25,
-     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/TF"
-    }
-   ]
-  },
-  {
    "type": "접속사 that",
    "note": "https://mrjkorea.github.io/middle-school/notes/jeobsoksathat.pdf",
    "video": "https://mrj-videos.canadianvegetarian.workers.dev/videos/msenew__153_%EC%A0%91%EC%86%8D%EC%82%AC_that_1.mp4",
@@ -211,6 +185,32 @@
      "minutes": 5,
      "items": 25,
      "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t49/TF"
+    }
+   ]
+  },
+  {
+   "type": "5형",
+   "note": "https://mrjkorea.github.io/middle-school/notes/5HSobject.pdf.pdf",
+   "video": "https://mrj-videos.canadianvegetarian.workers.dev/videos/msenew__044__%EC%A4%91%EB%93%B1%EC%9D%B8%EA%B0%95_%EC%A4%912_%EC%98%81%EC%96%B4__5%ED%98%95%EC%8B%9D_%EB%B3%B4%EC%96%B4_-_%EC%88%98%EB%B0%95%EC%94%A8%EB%8B%B7%EC%BB%B4_%ED%99%8D%EC%9E%AC%EC%9B%90%EC%84%A0%EC%83%9D%EB%8B%98.mp4",
+   "topic": "5형",
+   "tests": [
+    {
+     "shape": "T3",
+     "minutes": 15,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/T3"
+    },
+    {
+     "shape": "F3",
+     "minutes": 15,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/F3"
+    },
+    {
+     "shape": "TF",
+     "minutes": 5,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t54/TF"
     }
    ]
   }
