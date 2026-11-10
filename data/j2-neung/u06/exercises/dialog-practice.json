@@ -1,0 +1,348 @@
+{
+ "id": "dialog-practice",
+ "title": "Dialog 실전 문제",
+ "book": "j2-neung",
+ "unit": "u06",
+ "sourcePages": "pp.80-81",
+ "questionCount": 13,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "q01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ② I'd like to visit traditional places.. ((답지 P160L Dialog 실전 문제 pp.80-81 01)",
+   "type": "mc",
+   "promptEn": "다음 중 빈칸에 들어갈 말로 가장 적절한 것은?\nA: What do you want to do in Japan?\nB: ______",
+   "choices": [
+    "I enjoyed trying street foods.",
+    "I'd like to visit traditional places.",
+    "I had a really good time in Japan.",
+    "I want to travel around the world.",
+    "I am looking at pictures of Japan."
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ ⓒ-ⓐ-ⓓ-ⓑ-ⓔ. ((답지 P160L Dialog 실전 문제 pp.80-81 02)",
+   "type": "mc",
+   "promptEn": "다음 대화의 ⓐ~ⓔ를 순서대로 바르게 배열한 것은?\nⓐ They look nice. If you go to the US, which of these places would you like to visit?\nⓑ That sounds fun!\nⓒ Look, here are pictures of two interesting places in the US.\nⓓ I'd like to visit this place to see the famous statue and take pictures of the city.\nⓔ I agree! I hope I can go there one day.",
+   "choices": [
+    "ⓐ-ⓒ-ⓔ-ⓓ-ⓑ",
+    "ⓑ-ⓓ-ⓒ-ⓐ-ⓔ",
+    "ⓒ-ⓐ-ⓓ-ⓑ-ⓔ",
+    "ⓒ-ⓑ-ⓔ-ⓐ-ⓓ",
+    "ⓓ-ⓑ-ⓔ-ⓐ-ⓒ"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ I'm going to order pasta for dinner.. ((답지 P160L Dialog 실전 문제 pp.80-81 03)",
+   "type": "mc",
+   "promptEn": "다음 대화의 빈칸에 들어갈 수 없는 것은?\nA: What are your goals for this year?\nB: ______",
+   "choices": [
+    "I'd like to get healthier.",
+    "I hope to save more money.",
+    "I want to make more friends.",
+    "I'd love to learn a new language.",
+    "I'm going to order pasta for dinner."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: \"Where would you like to go?\". ((답지 P160L Dialog 실전 문제 pp.80-81 04)",
+   "type": "fill",
+   "promptEn": "[04~07] 다음 대화를 읽고, 물음에 답하시오.\nG: Dad, let's plan our trip to Australia!\nM: Okay, Yumi. ⓐ___________? We can learn about the history of the building.\nG: I'd like to visit the Sydney Opera House.\nM: Then how about taking a tour of the Sydney Opera House on the first day? We can learn about the history of the building.\nG: That sounds perfect! I'd like to watch a live performance, too.\nM: Of course! We can buy tickets to an opera or a classical music concert.\nG: I want to see an opera.\nM: Okay. I'll look for ⓑ___________.\nG: Thank you, Dad. ⓒ우리는 우리가 즐거운 시간을 보내면 좋겠어.\n\n04 위 대화의 밑줄 친 ⓐ의 우리말에 맞도록 괄호 안의 단어들을 이용하여 여섯 단어로 영작하시오.\n→ ______________________ (would, go)",
+   "accept": [
+    "Where would you like to go?",
+    "Where would you love to go?"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "q05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ tickets to an opera. ((답지 P160L Dialog 실전 문제 pp.80-81 05)",
+   "type": "mc",
+   "promptEn": "위 대화의 빈칸 ⓑ에 들어갈 말로 가장 적절한 것은?\nG: Dad, let's plan our trip to Australia!\nM: Okay, Yumi. ⓐ___________? We can learn about the history of the building.\nG: I'd like to visit the Sydney Opera House.\nM: Then how about taking a tour of the Sydney Opera House on the first day? We can learn about the history of the building.\nG: That sounds perfect! I'd like to watch a live performance, too.\nM: Of course! We can buy tickets to an opera or a classical music concert.\nG: I want to see an opera.\nM: Okay. I'll look for ⓑ___________.\nG: Thank you, Dad. ⓒ우리는 우리가 즐거운 시간을 보내면 좋겠어.",
+   "choices": [
+    "an opera singer",
+    "a music teacher",
+    "tickets to an opera",
+    "a theater to perform",
+    "empty seats to sit on"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q06",
+   "label": "06",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: I hope we have a great time.. ((답지 P160L Dialog 실전 문제 pp.80-81 06)",
+   "type": "fill",
+   "promptEn": "위 대화의 밑줄 친 ⓒ의 우리말을 <보기>에 맞게 바르게 영작하시오.\n<보기> 1. great와 have를 이용할 것. 2. 기원하는 표현을 이용할 것. 3. 총 7단어의 완전한 문장으로 쓸 것.\nG: Dad, let's plan our trip to Australia!\nM: Okay, Yumi. ⓐ___________? We can learn about the history of the building.\nG: I'd like to visit the Sydney Opera House.\nM: Then how about taking a tour of the Sydney Opera House on the first day? We can learn about the history of the building.\nG: That sounds perfect! I'd like to watch a live performance, too.\nM: Of course! We can buy tickets to an opera or a classical music concert.\nG: I want to see an opera.\nM: Okay. I'll look for ⓑ___________.\nG: Thank you, Dad. ⓒ우리는 우리가 즐거운 시간을 보내면 좋겠어.",
+   "accept": [
+    "I hope we have a great time.",
+    "I hope we have a great time"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "q07",
+   "label": "07",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ② Yumi did not accept her dad's suggestion.. ((답지 P160L Dialog 실전 문제 pp.80-81 07)",
+   "type": "mc",
+   "promptEn": "위 대화를 읽고, According to the dialog, which one is NOT true?\nG: Dad, let's plan our trip to Australia!\nM: Okay, Yumi. ⓐ___________? We can learn about the history of the building.\nG: I'd like to visit the Sydney Opera House.\nM: Then how about taking a tour of the Sydney Opera House on the first day? We can learn about the history of the building.\nG: That sounds perfect! I'd like to watch a live performance, too.\nM: Of course! We can buy tickets to an opera or a classical music concert.\nG: I want to see an opera.\nM: Okay. I'll look for ⓑ___________.\nG: Thank you, Dad. ⓒ우리는 우리가 즐거운 시간을 보내면 좋겠어.",
+   "choices": [
+    "Yumi wants to visit the Sydney Opera House.",
+    "Yumi did not accept her dad's suggestion.",
+    "Yumi and her dad are planning to visit the Sydney Opera House on the first day.",
+    "Yumi wants to watch a live performance.",
+    "Yumi hopes she and her dad will enjoy the trip."
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q08",
+   "label": "08",
+   "sourceId": 8,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ④ Where / when. ((답지 P160L Dialog 실전 문제 pp.80-81 08)",
+   "type": "mc",
+   "promptEn": "[08~09] 다음 대화를 읽고, 물음에 답하시오.\nA: I made a poster for the Rio Carnival.\nB: ⓐ___________ and ⓑ___________ is it held?\nA: It is held in Rio de Janeiro, Brazil, from late February to early March every year.\nB: I see. ⓒWhat would you like to do at the festival?\nA: I'd like to see a parade and learn a traditional Brazilian dance.\nB: Sounds interesting!\n\n08 위 대화의 빈칸 ⓐ와 ⓑ에 적절한 것끼리 바르게 짝지어진 것은?\nⓐ / ⓑ\n① How / which\n② How / what\n③ What / when\n④ Where / when\n⑤ Where / why",
+   "choices": [
+    "How / which",
+    "How / what",
+    "What / when",
+    "Where / when",
+    "Where / why"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q09",
+   "label": "09",
+   "sourceId": 9,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ④ 축제의 입장료. ((답지 P160L Dialog 실전 문제 pp.80-81 09)",
+   "type": "mc",
+   "promptEn": "위 대화의 Rio Carnival에 대해 알 수 없는 것은?\nA: I made a poster for the Rio Carnival.\nB: ⓐ___________ and ⓑ___________ is it held?\nA: It is held in Rio de Janeiro, Brazil, from late February to early March every year.\nB: I see. ⓒWhat would you like to do at the festival?\nA: I'd like to see a parade and learn a traditional Brazilian dance.\nB: Sounds interesting!",
+   "choices": [
+    "축제가 열리는 도시",
+    "축제가 열리는 시기",
+    "축제가 열리는 번도",
+    "축제의 입장료",
+    "축제에서 할 수 있는 활동"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ② That sounds exciting!. ((답지 P160L Dialog 실전 문제 pp.80-81 10)",
+   "type": "mc",
+   "promptEn": "[10~13] 다음 대화를 읽고, 물음에 답하시오.\nB: What are you doing?\nG: I'm planning my trip to France.\nB: ⓐ___________ What would you like to do there?\nG: I'd like to stay at a place by the ocean and spend some time at the beach.\nB: Wow, the water looks bright blue in this picture.\nG: Yes. ⓑIt looks really beautiful.\nB: I hope you have a nice trip!\n\n10 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "That's too bad.",
+    "That sounds exciting!",
+    "I'm sorry to hear that.",
+    "I don't agree with you.",
+    "I think that's a bad idea."
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ④ the bright blue water. ((답지 P160L Dialog 실전 문제 pp.80-81 11)",
+   "type": "mc",
+   "promptEn": "위 대화의 밑줄 친 ⓑ가 가리키는 것으로 가장 적절한 것은?\nB: What are you doing?\nG: I'm planning my trip to France.\nB: ⓐ___________ What would you like to do there?\nG: I'd like to stay at a place by the ocean and spend some time at the beach.\nB: Wow, the water looks bright blue in this picture.\nG: Yes. ⓑIt looks really beautiful.\nB: I hope you have a nice trip!",
+   "choices": [
+    "the boy's plan",
+    "the planning process",
+    "the picture of France",
+    "the bright blue water",
+    "the most popular places in France"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ② the girl's plan for a trip to France. ((답지 P160L Dialog 실전 문제 pp.80-81 12)",
+   "type": "mc",
+   "promptEn": "위 대화의 주제로 가장 적절한 것은?\nB: What are you doing?\nG: I'm planning my trip to France.\nB: ⓐ___________ What would you like to do there?\nG: I'd like to stay at a place by the ocean and spend some time at the beach.\nB: Wow, the water looks bright blue in this picture.\nG: Yes. ⓑIt looks really beautiful.\nB: I hope you have a nice trip!",
+   "choices": [
+    "reasons to visit France",
+    "the girl's plan for a trip to France",
+    "the boy's wish to go to the beach",
+    "how to take beautiful ocean pictures",
+    "differences between France and other countries"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: She would like to stay at a place by the ocean.. ((답지 P160L Dialog 실전 문제 pp.80-81 13)",
+   "type": "fill",
+   "promptEn": "위 대화를 읽고, 질문에 대한 답을 열한 단어의 완전한 영어 문장으로 쓰시오. (축약형은 쓰지 말 것)\nQ. Where would the girl like to stay in France?\nB: What are you doing?\nG: I'm planning my trip to France.\nB: ⓐ___________ What would you like to do there?\nG: I'd like to stay at a place by the ocean and spend some time at the beach.\nB: Wow, the water looks bright blue in this picture.\nG: Yes. ⓑIt looks really beautiful.\nB: I hope you have a nice trip!",
+   "accept": [
+    "She would like to stay at a place by the ocean.",
+    "She would like to stay at a place by the ocean"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 실전 문제는 고르기와 짧은 영작입니다. 답은 답지 p.14에서 읽었습니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 대화 실전 문제",
+   "directionKo": "문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "instructionKo": "대화를 읽고 문제의 답을 고르거나 빈칸에 써 넣으세요.",
+   "itemCount": 13
+  }
+ ]
+}

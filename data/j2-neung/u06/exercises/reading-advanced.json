@@ -1,0 +1,372 @@
+{
+ "id": "reading-advanced",
+ "title": "Reading 심화 문제",
+ "book": "j2-neung",
+ "unit": "u06",
+ "sourcePages": "pp.104-105",
+ "questionCount": 14,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "q01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ — ⓐ와 ⑤는 현재분사로서 지각동사의 목적격보어로 쓰였다. ①②③④는 동명사다. ((답지 P165L Reading 심화 문제 pp.104-107 01)",
+   "type": "mc",
+   "promptEn": "01 윗글의 밑줄 친 ⓐ와 쓰임이 같은 것은?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "choices": [
+    "I enjoy <u>swimming</u> in the sea.",
+    "<u>Running</u> is good for your health.",
+    "He keeps <u>asking</u> the same question.",
+    "Thank you for <u>helping</u> me solve the problem.",
+    "I saw a man <u>walking</u> his dog late at night in the park."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ for / in — wait for: ~을 기다리다, in a circle: 원 모양으로. ((답지 P165L Reading 심화 문제 pp.104-107 02)",
+   "type": "mc",
+   "promptEn": "02 윗글의 빈칸 ⓑ와 ⓓ에 들어갈 말이 바르게 짝지어진 것은?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"\n\nⓑ / ⓓ\n① at / to\n② at / in\n③ for / in\n④ for / away\n⑤ with / through",
+   "choices": [
+    "at / to",
+    "at / in",
+    "for / in",
+    "for / away",
+    "with / through"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ to hold someone with your arms to show friendship or love — hug(껴안다, 포옹하다): 우정이나 사랑을 보여주기 위해 두 팔로 누군가를 안다. ((답지 P165L Reading 심화 문제 pp.104-107 03)",
+   "type": "mc",
+   "promptEn": "03 윗글의 밑줄 친 ⓒ의 영영풀이로 가장 적절한 것은?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "choices": [
+    "to lift something up or make it higher",
+    "to travel or go in a particular direction",
+    "to hurt somebody or to damage something",
+    "to swim underwater while breathing through a tube",
+    "to hold someone with your arms to show friendship or love"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ — ⑤에는 간접의문문이 되도록 의문사 where가 들어가고, ⓔ와 ①②③④에는 명사절을 이끄는 접속사 that이 들어간다. ((답지 P165L Reading 심화 문제 pp.104-107 04)",
+   "type": "mc",
+   "promptEn": "04 윗글의 빈칸 ⓔ에 들어갈 말과 다음 빈칸에 들어갈 말이 다른 것은?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "choices": [
+    "I think ______ he is right.",
+    "He believes ______ it is true.",
+    "She said ______ she was tired.",
+    "We know ______ Milan is beautiful.",
+    "The man told me ______ the library was."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ joyful — 가족과 반갑게 만나 서로 껴안고 뛰며 기쁨을 나누고 꽃목걸이로 따뜻한 환영을 받는 모습이므로 '아주 기쁜'이 가장 적절하다. ((답지 P165L Reading 심화 문제 pp.104-107 05)",
+   "type": "mc",
+   "promptEn": "05 윗글의 분위기로 가장 적절한 것은?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "choices": [
+    "scary",
+    "lonely",
+    "joyful",
+    "peaceful",
+    "depressing"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q06",
+   "label": "06",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ④ — 수빈이와 글쓴이가 동갑인지는 글에서 알 수 없다. ((답지 P165L Reading 심화 문제 pp.104-107 06)",
+   "type": "mc",
+   "promptEn": "06 윗글을 읽고, What CANNOT be inferred from the passage?\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "choices": [
+    "The writer wasn't alone during the flight.",
+    "Soobin did not know the writer at all.",
+    "The writer was unhappy to meet Soobin.",
+    "Soobin is the same age as the writer.",
+    "Hawaii has a tradition of welcoming guests with flowers."
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q07",
+   "label": "07",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: welcome, flower necklaces — 하와이에서는 사람들이 방문객들에게 꽃목걸이를 주며 환영한다. ((답지 P165L Reading 심화 문제 pp.104-107 07)",
+   "type": "fill",
+   "promptEn": "07 윗글의 내용을 바탕으로 다음의 하와이 전통문화에 대한 내용을 완성하시오.\nIn Hawaii, people ______ visitors by giving them ______. They are called leis and are symbols of warm greetings.\n[01-07] 다음 글을 읽고, 물음에 답하시오.\n\nMonday, August 1\n\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu. When we came through the gate, I heard someone ⓐcalling my name. My cousin Soobin and her family were waiting ⓑ______ us. When we saw each other, we ⓒhugged and jumped together ⓓ______ a circle. Then Soobin put a pretty flower necklace around my neck. She called it a lei and said ⓔ______ \"lei\" means \"warm welcome.\"",
+   "accept": [
+    "welcome, flower necklaces"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "q08",
+   "label": "08",
+   "sourceId": 8,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ — how it got its name은 '어떻게 그런 이름을 갖게 되었는지'라는 뜻이므로 '그것의 이름에 대한 유래를 설명했다'로 바꿔 쓸 수 있다. ((답지 P165L Reading 심화 문제 pp.104-107 08)",
+   "type": "mc",
+   "promptEn": "08 윗글의 밑줄 친 ⓐ와 의미가 같은 것은?\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!",
+   "choices": [
+    "My uncle forgot the name.",
+    "My uncle asked us its name.",
+    "My uncle wrote its name down.",
+    "My uncle has heard its name before.",
+    "My uncle explained the origin of its name."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q09",
+   "label": "09",
+   "sourceId": 9,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ mistook / view / took — mistake A for B(A를 B로 오해하다), the view from the top, took many pictures가 알맞다. ((답지 P165L Reading 심화 문제 pp.104-107 09)",
+   "type": "mc",
+   "promptEn": "09 윗글의 (A)~(C)의 각 괄호 안에서 문맥상 적절한 것을 골라 바르게 짝지은 것은?\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!\n\n(A) / (B) / (C)\n① mistook / secret / bought\n② mistook / secret / took\n③ mistook / view / took\n④ raised / secret / bought\n⑤ raised / view / took",
+   "choices": [
+    "mistook / secret / bought",
+    "mistook / secret / took",
+    "mistook / view / took",
+    "raised / secret / bought",
+    "raised / view / took"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ③ So, they named the place Diamond Head. — they were named는 수동태이므로 능동태 named로 고쳐야 한다. ((답지 P165L Reading 심화 문제 pp.104-107 10)",
+   "type": "mc",
+   "promptEn": "10 윗글의 밑줄 친 ⓑ를 어법상 바르게 고친 것은?\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!",
+   "choices": [
+    "So, it named they Diamond Head.",
+    "So, they name the place Diamond Head.",
+    "So, they named the place Diamond Head.",
+    "So, they are named the place Diamond Head.",
+    "So, they were named the place Diamond Head."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: How interesting it is! — 「How + 형용사 (+ 주어 + 동사)!」 형태의 감탄문으로 쓴다. ((답지 P165L Reading 심화 문제 pp.104-107 11)",
+   "type": "sentence",
+   "promptEn": "11 윗글의 밑줄 친 ⓒ를 감탄문으로 바꿔 쓰시오.\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!",
+   "accept": [
+    "How interesting it is!",
+    "How interesting!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "q12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ a hiking trail — It is a famous hiking place.에서 다이아몬드헤드가 유명한 하이킹 장소임을 알 수 있다. ((답지 P165L Reading 심화 문제 pp.104-107 12)",
+   "type": "mc",
+   "promptEn": "12 윗글을 읽고, According to the passage, what is the Diamond Head famous for?\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!",
+   "choices": [
+    "a surfing spot",
+    "a beach party",
+    "a large cave",
+    "a picnic place",
+    "a hiking trail"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: ⑤ How did the writer feel about Diamond Head? — The view from the top was amazing.에서 글쓴이가 다이아몬드헤드에 대해 어떻게 느꼈는지 알 수 있다. ((답지 P165L Reading 심화 문제 pp.104-107 13)",
+   "type": "mc",
+   "promptEn": "13 윗글을 읽고 대답할 수 있는 질문은?\n[08-14] 다음 글을 읽고, 물음에 답하시오.\n\nWe visited Diamond Head first. It is a famous hiking place. ⓐMy uncle told us how it got its name. In the past, people (A)[mistook / raised] its shiny rocks for diamonds. ⓑSo, they were named the place Diamond Head. ⓒIt is very interesting! The (B)[carnival / view] from the top was amazing. Soobin and I (C)[bought / took] many pictures there!",
+   "choices": [
+    "Is the ticket for Diamond Head free?",
+    "When was Diamond Head built?",
+    "How many shiny rocks were found there?",
+    "Who found Diamond Head for the first time?",
+    "How did the writer feel about Diamond Head?"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "q14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s1",
+   "sectionTitle": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: (A)-(C)-(B) — 반짝이는 바위가 있는 장소를 발견하고, 바위를 다이아몬드로 착각한 뒤, 그 장소를 다이아몬드헤드라고 이름 지었다. ((답지 P165L Reading 심화 문제 pp.104-107 14)",
+   "type": "sentence",
+   "promptEn": "14 윗글을 읽고, 다이아몬드헤드가 이름을 얻게 된 과정을 순서대로 바르게 배열하시오.\n(A) People discovered a place with shiny rocks.\n(B) The place was named Diamond Head.\n(C) People thought the shiny rocks were diamonds.",
+   "accept": [
+    "(A)-(C)-(B)",
+    "A-C-B",
+    "A,C,B"
+   ],
+   "seconds": 100
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 지문 'Yeji's Family Trip to the Rainbow State'의 심화 문제입니다. 이 파일은 본책 104-105쪽 문제(01-14)를 담았습니다. 정답은 답지 p.20에 있습니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · Reading 심화 문제",
+   "directionKo": "지문을 읽고 물음에 답하세요.",
+   "ruleKo": "고르기는 보기 하나를 누르고(모두 고르기는 여러 개), 빈칸은 답만, 문장 문제는 문장 전체를 쓰세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "instructionKo": "지문을 읽고 물음에 답하세요. 고르기는 보기 하나를 누르고, 빈칸은 답만 쓰세요.",
+   "itemCount": 14
+  }
+ ]
+}
