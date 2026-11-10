@@ -1,29 +1,83 @@
-:root { --ink:#12233b; --blue:#1b63c4; --good:#0f7a3d; --bad:#b3261e; --line:#dbe4ef; }
+:root { --ink:#12233b; --blue:#1b63c4; --good:#0f7a3d; --bad:#b3261e; --line:#dbe4ef; --soft:#eef4fc; }
 * { box-sizing: border-box; }
 body { margin:0; font-family: system-ui, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
-  color:var(--ink); background:#f4f7fb; }
+  color:var(--ink); background:#f4f7fb; font-size:18px; line-height:1.55; }
 .rf-head { display:flex; align-items:center; gap:14px; padding:14px 18px; background:#fff; border-bottom:1px solid var(--line); }
-.rf-back { color:var(--blue); text-decoration:none; font-weight:600; }
-#rf-title { font-size:1.05rem; }
-.rf-score { margin-left:auto; color:#5b6b80; font-variant-numeric: tabular-nums; }
-.rf-steps { display:flex; gap:8px; list-style:none; padding:14px 18px 0; margin:0; }
-.rf-steps li { padding:6px 14px; border-radius:999px; background:#e7eef8; color:#4a5a71; font-weight:600; font-size:.9rem; }
-.rf-steps li.on { background:var(--blue); color:#fff; }
-main { max-width:760px; margin:18px auto 60px; padding:0 18px; }
-.rf-count { color:#5b6b80; font-size:.9rem; margin:0 0 6px; }
-.rf-ask { font-size:1.05rem; margin:6px 0 10px; }
-.rf-ko { font-size:1.15rem; margin:6px 0 14px; padding:12px 14px; background:#fff; border:1px solid var(--line); border-radius:12px; }
-textarea { width:100%; padding:12px; font-size:1.05rem; border:1px solid #c7d5e6; border-radius:12px; font-family:inherit; }
-.rf-btn { padding:10px 18px; border-radius:12px; border:1px solid #c7d5e6; background:#fff; font:inherit; font-weight:600; cursor:pointer; }
+.rf-back { color:var(--blue); text-decoration:none; font-weight:700; font-size:1rem; }
+#rf-title { font-size:1.15rem; }
+.rf-score { margin-left:auto; color:#1b63c4; font-weight:800; font-variant-numeric: tabular-nums; }
+
+/* the three stage chips: bigger, so a student sees where they are */
+.rf-steps { display:flex; gap:10px; list-style:none; padding:16px 18px 0; margin:0; flex-wrap:wrap; }
+.rf-steps li { padding:10px 20px; border-radius:999px; background:#e7eef8; color:#4a5a71; font-weight:800; font-size:1.05rem; }
+.rf-steps li.on { background:var(--blue); color:#fff; box-shadow:0 4px 14px rgba(27,99,196,.28); }
+
+main { max-width:820px; margin:18px auto 80px; padding:0 18px; }
+.rf-count { color:#41536b; font-size:1rem; font-weight:700; margin:0 0 8px; }
+.rf-ask { font-size:1.25rem; font-weight:700; margin:8px 0 12px; }
+.rf-ko { font-size:1.5rem; font-weight:700; margin:8px 0 18px; padding:18px 20px; background:#fff;
+  border:2px solid var(--line); border-left:6px solid var(--blue); border-radius:14px; }
+
+/* five dots, one per sentence of this five */
+.rf-dots { display:flex; gap:10px; margin:0 0 14px; }
+.rf-dot { width:18px; height:18px; border-radius:50%; background:#dbe4ef; border:2px solid #c7d5e6; }
+.rf-dot.seen { background:#ffe9b8; border-color:#e8b93a; }
+.rf-dot.done { background:var(--good); border-color:var(--good); }
+
+/* the audio block: a big listen button, then 1x-3x-5x and 100-80-50 */
+.rf-audio { display:flex; gap:14px; align-items:center; flex-wrap:wrap; margin:0 0 16px; }
+.rf-big { display:inline-flex; align-items:center; gap:10px; padding:18px 28px; font-size:1.2rem;
+  font-weight:800; border-radius:18px; border:2px solid var(--blue); background:var(--blue); color:#fff;
+  cursor:pointer; box-shadow:0 6px 18px rgba(27,99,196,.3); }
+.rf-big:active { transform:translateY(1px); }
+.rf-audio-sets { display:flex; flex-direction:column; gap:8px; }
+.rf-set { display:flex; gap:6px; align-items:center; }
+.rf-set-label { font-size:.85rem; font-weight:800; color:#5b6b80; min-width:34px; }
+.rf-chip { padding:10px 16px; border-radius:12px; border:2px solid #c7d5e6; background:#fff;
+  font:inherit; font-weight:800; font-size:1rem; cursor:pointer; color:#2b3d55; }
+.rf-chip.on { background:#0f7a3d; border-color:#0f7a3d; color:#fff; }
+
+textarea { width:100%; padding:16px; font-size:1.35rem; line-height:1.5; border:2px solid #c7d5e6;
+  border-radius:14px; font-family:inherit; background:#fff; }
+textarea:focus { outline:none; border-color:var(--blue); box-shadow:0 0 0 4px rgba(27,99,196,.15); }
+
+.rf-btn { padding:14px 24px; border-radius:14px; border:2px solid #c7d5e6; background:#fff;
+  font:inherit; font-weight:800; font-size:1.05rem; cursor:pointer; }
 .rf-btn.primary { background:var(--blue); border-color:var(--blue); color:#fff; }
-.rf-fb { margin-top:14px; font-weight:600; }
+.rf-btn.big { padding:18px 32px; font-size:1.2rem; }
+
+.rf-fb { margin-top:18px; font-weight:800; font-size:1.15rem; }
 .rf-fb.good { color:var(--good); }
 .rf-fb.bad { color:var(--bad); }
-.rf-result { font-size:2rem; font-weight:800; margin:8px 0; }
+.rf-fb .rf-btn { margin-top:10px; }
+
+/* the score for the five, kept on screen */
+.rf-card { background:#fff; border:2px solid var(--line); border-radius:20px; padding:22px 22px 24px;
+  box-shadow:0 10px 30px rgba(18,35,59,.07); }
+.rf-result { font-size:3.4rem; font-weight:900; margin:4px 0; line-height:1.1; }
 .rf-result.good { color:var(--good); }
 .rf-result.bad { color:var(--bad); }
-.rf-error { color:var(--bad); }
+.rf-sub { color:#4a5a71; margin:4px 0 10px; font-weight:700; }
+.rf-rows { list-style:none; padding:0; margin:10px 0 16px; }
+.rf-rows li { display:flex; justify-content:space-between; gap:14px; padding:12px 14px; background:var(--soft);
+  border-radius:12px; margin-bottom:8px; font-size:1.1rem; font-weight:700; }
+.rf-rows b { font-variant-numeric: tabular-nums; }
+.rf-missed { margin:6px 0 16px; padding-left:22px; color:#2b3d55; }
+.rf-missed li { margin-bottom:6px; }
+.rf-actions { display:flex; gap:12px; flex-wrap:wrap; margin-top:8px; }
+
+.rf-voices { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 4px; }
+.rf-voice { padding:9px 14px; border-radius:999px; border:2px solid #c7d5e6; background:#fff;
+  font:inherit; font-size:.95rem; font-weight:700; cursor:pointer; }
+.rf-voice.on { background:#2b3d55; border-color:#2b3d55; color:#fff; }
+
+.rf-error { color:var(--bad); font-weight:700; }
 .rf-loading { color:#5b6b80; }
-.rf-voices { display:flex; flex-wrap:wrap; gap:6px; margin:6px 0 12px; }
-.rf-voice { padding:6px 10px; border-radius:999px; border:1px solid #c7d5e6; background:#fff; font:inherit; font-size:.85rem; cursor:pointer; }
-.rf-voice.on { background:#1b63c4; border-color:#1b63c4; color:#fff; }
+
+@media (max-width:600px) {
+  body { font-size:17px; }
+  .rf-ko { font-size:1.3rem; }
+  .rf-big { padding:16px 22px; font-size:1.1rem; }
+  .rf-result { font-size:2.8rem; }
+  .rf-steps li { padding:8px 16px; font-size:1rem; }
+}

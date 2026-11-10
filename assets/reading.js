@@ -1,6 +1,9 @@
 /* Reading Focus player — sentences only, no pictures.
-   Same rhythm as Word Master: groups of five, dictation then writing then a five-question test,
-   and a missed sentence comes back until it is answered right twice in a row. Pass at 80%. */
+   Jay 2026-11-10: one session is FIVE sentences. Those five go through dictation,
+   writing and test, then a new five. One right answer clears a sentence, so a
+   sentence is asked twice only when the student misses it.
+   Audio: 1x / 3x / 5x play buttons and 50 / 80 / 100 percent speed, like the
+   decodable books. The score for the five stays on screen with a do-it-again button. */
 (function () {
   "use strict";
 
@@ -22,8 +25,17 @@
   ];
   var voiceId = localStorage.getItem("rf_voice") || "us_m";
 
-  var GROUP = 5;
-  var NEED = 2; // consecutive rights before a sentence is cleared
+  var GROUP = 5;                     // five sentences in one session
+  var STAGES = ["dictation", "writing", "test"];
+  var STAGE_LABEL = { dictation: "받아쓰기", writing: "쓰기", test: "시험" };
+
+  /* the two audio controls Jay asked for, remembered between visits */
+  var COUNTS = [1, 3, 5];
+  var SPEEDS = [100, 80, 50];
+  var playCount = Number(localStorage.getItem("rf_count")) || 1;
+  var speedPct = Number(localStorage.getItem("rf_speed")) || 100;
+  if (COUNTS.indexOf(playCount) < 0) playCount = 1;
+  if (SPEEDS.indexOf(speedPct) < 0) speedPct = 100;
 
   var main = document.getElementById("rf-main");
   var titleEl = document.getElementById("rf-title");
@@ -31,24 +43,24 @@
   var stepsEl = document.getElementById("rf-steps");
 
   var cards = [];
-  var step = "dictation";
-  var groupIndex = 0;
-  var groups = [];
-  var queue = [];
+  var sessions = [];
+  var sessionIndex = 0;
+  var stage = "dictation";
+  var queue = [];          // sentences still to answer in this stage
   var current = null;
-  var streak = {};
-  var firstTry = {};
-  var right = 0;
-  var asked = 0;
+  var stageRight = {};     // stage -> first-try rights in this session
+  var firstTry = {};       // "<stage>:<id>" -> true/false
+  var askedInStage = {};   // "<stage>:<id>" -> true once seen
+  var missed = [];         // card ids missed in this session, any stage
+  var sessionDone = false;
 
-  /* MRJ Classroom Metrics. One row per finished group, then one row for the whole unit.
+  /* MRJ Classroom Metrics. One row per finished five, then one row for the whole unit.
      The sheet is the only place a score goes: program bekbal-reading, appName Reading Focus. */
   var bookTitle = "";
   var unitTitle = "";
-  var testTally = {};   // "<step>:<group>" -> {right,total}, latest attempt, every step counted
+  var unitRight = 0;
+  var unitTotal = 0;
   var unitPosted = false;
-  var runSerial = 0;
-  var postedRuns = {};
   var SCORE_PROGRAM = "bekbal-reading";
 
   function postScore(itemId, value, max, meta) {
@@ -112,7 +124,27 @@
     return VOICES[0];
   }
 
-  function speak(text) {
+  /* ---------- audio: one clip, repeated 1, 3 or 5 times, at the chosen speed ---------- */
+
+  var PACK_ID = PACK.split("/").pop().replace(/\.json$/, "");
+  var audioCache = {};
+  var playToken = 0;      // bump to stop a running repeat chain
+
+  function audioUrl(card, vid) {
+    return "packs/" + PACK_ID + "/audio/" + (vid || voiceId) + "/" + String(card.id).toLowerCase() + ".mp3";
+  }
+
+  function stopAudio() {
+    playToken++;
+    try { speechSynthesis.cancel(); } catch (e) {}
+    for (var k in audioCache) {
+      if (Object.prototype.hasOwnProperty.call(audioCache, k)) {
+        try { audioCache[k].pause(); audioCache[k].currentTime = 0; } catch (e) {}
+      }
+    }
+  }
+
+  function speakText(text, rate) {
     if (!("speechSynthesis" in window)) return;
     var v = voiceNow();
     try {
@@ -120,12 +152,68 @@
       var u = new SpeechSynthesisUtterance(v.robot ? String(text).replace(/\s+/g, " ") : text);
       u.lang = v.lang;
       u.pitch = v.pitch;
-      u.rate = v.rate;
+      u.rate = Math.max(0.3, v.rate * rate);
       var sys = window.speechSynthesis.getVoices().filter(function (x) { return x.lang === v.lang; });
       if (sys.length) u.voice = sys[0];
       speechSynthesis.speak(u);
     } catch (e) {}
   }
+
+  /* Play one clip. If the selected voice has no recording, fall back to the American
+     male recording, then to the device voice, so a student never hears silence. */
+  function playOnce(card, rate, plan, done) {
+    var order = plan || [voiceId, "us_m"].filter(function (v, i, a) { return a.indexOf(v) === i; });
+    var url = audioUrl(card, order[0]);
+    var a = audioCache[url] || (audioCache[url] = new Audio(url));
+    var finished = false;
+    function next(fallback) {
+      if (finished) return;
+      finished = true;
+      a.onended = null;
+      a.onerror = null;
+      if (fallback) {
+        if (order.length > 1) playOnce(card, rate, order.slice(1), done);
+        else { speakText(card.en, rate); setTimeout(done, 700); }
+      } else {
+        done();
+      }
+    }
+    a.onended = function () { next(false); };
+    a.onerror = function () { next(true); };
+    try {
+      a.preservesPitch = true;          // keep the voice natural at 50 and 80 percent
+      a.mozPreservesPitch = true;
+      a.webkitPreservesPitch = true;
+      a.playbackRate = rate;
+      a.currentTime = 0;
+      var pr = a.play();
+      if (pr && pr.catch) pr.catch(function () { next(true); });
+    } catch (e) {
+      next(true);
+    }
+  }
+
+  /* one clip, then a short gap, then the next, up to `times` plays */
+  function playCard(card, times, done) {
+    if (!card) return;
+    stopAudio();
+    var myToken = playToken;
+    var rate = speedPct / 100;
+    var left = times || 1;
+    function again() {
+      if (myToken !== playToken) return;
+      if (left <= 0) { if (done) done(); return; }
+      left--;
+      playOnce(card, rate, null, function () {
+        if (myToken !== playToken) return;
+        if (left <= 0) { if (done) done(); return; }
+        setTimeout(again, 420);
+      });
+    }
+    again();
+  }
+
+  /* ---------- small pieces of the screen ---------- */
 
   function voiceBar() {
     var h = '<div class="rf-voices">';
@@ -141,205 +229,297 @@
         voiceId = b.getAttribute("data-voice");
         localStorage.setItem("rf_voice", voiceId);
         Array.prototype.forEach.call(document.querySelectorAll(".rf-voice"), function (x) { x.classList.toggle("on", x === b); });
-        if (current) playCard(current);
+        if (current) playCard(current, playCount);
       };
     });
   }
 
-
-  var PACK_ID = PACK.split("/").pop().replace(/\.json$/, "");
-  var audioCache = {};
-
-  function audioUrl(card, vid) {
-    return "packs/" + PACK_ID + "/audio/" + (vid || voiceId) + "/" + String(card.id).toLowerCase() + ".mp3";
+  /* the 1x / 3x / 5x row and the 100 / 80 / 50 row — same two ideas as the decodable books */
+  function audioBar() {
+    var h = '<div class="rf-audio">';
+    h += '<button id="rf-play" class="rf-big" aria-label="듣기">🔊 <span>듣기</span></button>';
+    h += '<div class="rf-audio-sets">';
+    h += '<div class="rf-set"><span class="rf-set-label">반복</span>';
+    COUNTS.forEach(function (n) {
+      h += '<button class="rf-chip rf-count' + (n === playCount ? " on" : "") + '" data-count="' + n + '">' + n + "x</button>";
+    });
+    h += "</div>";
+    h += '<div class="rf-set"><span class="rf-set-label">속도</span>';
+    SPEEDS.forEach(function (s) {
+      h += '<button class="rf-chip rf-speed' + (s === speedPct ? " on" : "") + '" data-speed="' + s + '">' + s + "%</button>";
+    });
+    h += "</div></div></div>";
+    return h;
   }
 
-  /* The chosen voice has its own recording folder. If that file is missing, fall back to
-     the American male recording, then to the device voice, so a student never hears silence. */
-  function playCard(card, plan) {
-    var order = plan || [voiceId, "us_m"].filter(function (v, i, a) { return a.indexOf(v) === i; });
-    var url = audioUrl(card, order[0]);
-    try {
-      var a = audioCache[url] || (audioCache[url] = new Audio(url));
-      a.onerror = function () {
-        if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
+  function wireAudio() {
+    var play = document.getElementById("rf-play");
+    if (play) play.onclick = function () { if (current) playCard(current, playCount); };
+    Array.prototype.forEach.call(document.querySelectorAll(".rf-count"), function (b) {
+      b.onclick = function () {
+        playCount = Number(b.getAttribute("data-count")) || 1;
+        localStorage.setItem("rf_count", playCount);
+        Array.prototype.forEach.call(document.querySelectorAll(".rf-count"), function (x) { x.classList.toggle("on", x === b); });
+        if (current) playCard(current, playCount);
       };
-      a.currentTime = 0;
-      var pr = a.play();
-      if (pr && pr.catch) pr.catch(function () {
-        if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
-      });
-      return;
-    } catch (e) {
-      if (order.length > 1) playCard(card, order.slice(1)); else speak(card.en);
+    });
+    Array.prototype.forEach.call(document.querySelectorAll(".rf-speed"), function (b) {
+      b.onclick = function () {
+        speedPct = Number(b.getAttribute("data-speed")) || 100;
+        localStorage.setItem("rf_speed", speedPct);
+        Array.prototype.forEach.call(document.querySelectorAll(".rf-speed"), function (x) { x.classList.toggle("on", x === b); });
+        if (current) playCard(current, playCount);
+      };
+    });
+    wireVoices();
+  }
+
+  /* five dots: a green dot is a sentence cleared in this stage */
+  function dots() {
+    var done = {};
+    for (var i = 0; i < queue.length; i++) done[queue[i].id] = false;
+    var h = '<div class="rf-dots">';
+    var list = currentSession();
+    for (var j = 0; j < list.length; j++) {
+      var c = list[j];
+      var state = "todo";
+      if (askedInStage[stage + ":" + c.id]) state = "seen";
+      if (!done.hasOwnProperty(c.id)) state = "done";
+      h += '<span class="rf-dot ' + state + '"></span>';
     }
+    return h + "</div>";
   }
 
   function markStep() {
     Array.prototype.forEach.call(stepsEl.children, function (li) {
-      li.className = li.getAttribute("data-step") === step ? "on" : "";
+      li.className = li.getAttribute("data-step") === stage ? "on" : "";
     });
   }
-  function stepName(s) {
-    return s === "dictation" ? "받아쓰기" : s === "writing" ? "쓰기" : "시험";
-  }
-  function chunk() {
-    return groups[groupIndex] || [];
+
+  function currentSession() {
+    return sessions[sessionIndex] || [];
   }
 
-  function startPhase(name) {
-    step = name;
-    markStep();
-    groupIndex = 0;
-    groups = [];
-    for (var i = 0; i < cards.length; i += GROUP) groups.push(cards.slice(i, i + GROUP));
-    startGroup();
-  }
+  /* ---------- the flow: five sentences, three stages ---------- */
 
-  function startGroup() {
-    queue = chunk().slice();
-    streak = {};
+  function startSession(index, keepStage) {
+    sessionIndex = index;
+    stopAudio();
+    sessionDone = false;
     firstTry = {};
-    right = 0;
-    asked = 0;
-    runSerial++;
-    scoreEl.textContent = "";
+    askedInStage = {};
+    stageRight = { dictation: 0, writing: 0, test: 0 };
+    missed = [];
+    stage = keepStage || "dictation";
+    unitPosted = false;
+    beginStage();
+  }
+
+  function beginStage() {
+    queue = currentSession().slice();
+    markStep();
     render();
   }
 
-  function render() {
-    if (!queue.length) return finishGroup();
-    current = queue[0];
-    var g = groupIndex + 1, total = groups.length;
-    var head = '<p class="rf-count">' + stepName(step) + ' · ' + g + " / " + total + " 묶음 · " + chunk().length + "문장</p>";
+  function nextStage() {
+    var i = STAGES.indexOf(stage);
+    if (i < STAGES.length - 1) {
+      stage = STAGES[i + 1];
+      beginStage();
+    } else {
+      finishSession();
+    }
+  }
 
-    if (step === "dictation") {
+  function render() {
+    if (!queue.length) return nextStage();
+    current = queue[0];
+    sessionDone = false;
+    var total = sessions.length;
+    var head = '<p class="rf-count">' + STAGE_LABEL[stage] + " · 5문장 묶음 " + (sessionIndex + 1) + " / " + total + "</p>" + dots();
+
+    if (stage === "dictation") {
       main.innerHTML = head +
         '<p class="rf-ask">영어 문장을 듣고 그대로 쓰세요.</p>' +
-        '<p><button id="rf-play" class="rf-btn">🔊 다시 듣기</button></p>' +
-        voiceBar() +
-        '<textarea id="rf-in" rows="3" placeholder="듣고 쓴 문장"></textarea>' +
-        '<p><button id="rf-check" class="rf-btn primary">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
-      document.getElementById("rf-play").onclick = function () { playCard(current); };
-      wireVoices();
-      playCard(current);
+        audioBar() +
+        '<textarea id="rf-in" rows="3" placeholder="듣고 쓴 문장" autocomplete="off" autocapitalize="off" spellcheck="false"></textarea>' +
+        '<p><button id="rf-check" class="rf-btn primary big">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
+      wireAudio();
     } else {
       main.innerHTML = head +
-        '<p class="rf-ask">' + (step === "writing" ? "우리말을 보고 영어로 쓰세요." : "시험 · 우리말을 영어로 쓰세요.") + "</p>" +
+        '<p class="rf-ask">' + (stage === "writing" ? "우리말을 보고 영어로 쓰세요." : "시험 · 우리말을 영어로 쓰세요.") + "</p>" +
         '<p class="rf-ko">' + esc(current.ko) + "</p>" +
-        '<textarea id="rf-in" rows="3" placeholder="영어 문장"></textarea>' +
-        '<p><button id="rf-check" class="rf-btn primary">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
+        '<textarea id="rf-in" rows="3" placeholder="영어 문장" autocomplete="off" autocapitalize="off" spellcheck="false"></textarea>' +
+        '<p><button id="rf-check" class="rf-btn primary big">확인</button></p><div id="rf-fb" class="rf-fb"></div>';
     }
     document.getElementById("rf-check").onclick = check;
-    document.getElementById("rf-in").focus();
+    var input = document.getElementById("rf-in");
+    try { input.focus(); } catch (e) {}
+    if (stage === "dictation") playCard(current, playCount);
   }
 
   function check() {
-    var typed = document.getElementById("rf-in").value;
-    /* a fast double tap must not answer twice, or one group posts two rows */
+    var input = document.getElementById("rf-in");
+    var typed = input ? input.value : "";
+    /* a fast double tap must not answer twice, or one five posts two rows */
     var btn = document.getElementById("rf-check");
     if (btn) btn.disabled = true;
-    var ok = isRight(current, typed);
     var fb = document.getElementById("rf-fb");
-    asked++;
-    if (firstTry[current.id] === undefined) firstTry[current.id] = ok;
+    var key = stage + ":" + current.id;
+    var ok = isRight(current, typed);
+    var wasSeen = askedInStage[key] === true;
+    askedInStage[key] = true;
+    if (!wasSeen) firstTry[key] = ok;
 
     if (ok) {
-      streak[current.id] = (streak[current.id] || 0) + 1;
-      if (streak[current.id] >= NEED) {
-        queue.shift();
-        if (firstTry[current.id]) right++;
-        fb.className = "rf-fb good";
-        fb.innerHTML = "정답입니다.";
-        setTimeout(render, 400);
-        return;
-      }
-      // right once: move it back two places so it is asked again
+      if (!wasSeen) stageRight[stage]++;
       queue.shift();
-      queue.splice(Math.min(2, queue.length), 0, current);
       fb.className = "rf-fb good";
-      fb.innerHTML = "정답입니다. 한 번 더 확인해요.";
-      setTimeout(render, 400);
+      fb.innerHTML = queue.length ? "정답입니다. 다음 문장으로." : "정답입니다. " + STAGE_LABEL[stage] + " 끝.";
+      setTimeout(render, 380);
       return;
     }
 
-    streak[current.id] = 0;
+    /* a miss: show the key, then this sentence comes back later in the same five */
+    if (missed.indexOf(current.id) < 0) missed.push(current.id);
     fb.className = "rf-fb bad";
     fb.innerHTML = "정답: " + esc(acceptList(current)[0]);
-    document.getElementById("rf-check").disabled = true;
     var b = document.createElement("button");
     b.className = "rf-btn";
     b.textContent = "다음";
     b.onclick = function () {
       queue.shift();
-      queue.splice(Math.min(2, queue.length), 0, current);
+      if (queue.length) queue.push(current);   // re-asked inside this five, not the next five
       render();
     };
     fb.appendChild(document.createElement("br"));
     fb.appendChild(b);
   }
 
-  function finishGroup() {
-    var total = chunk().length;
-    var pct = total ? Math.round((right / total) * 100) : 0;
-    var passed = pct >= PASS;
-    var last = groupIndex + 1 >= groups.length;
-    var nextLabel = step === "dictation" ? "쓰기로" : step === "writing" ? "시험으로" : "다음 묶음";
+  /* ---------- the score for these five, kept on screen ---------- */
 
-    /* one row per finished group, first try only counted, same number the student sees */
-    var runKey = step + ":" + groupIndex + ":" + runSerial;
-    if (!postedRuns[runKey]) {
-      postedRuns[runKey] = true;
-      postScore(unitTag() + "_g" + (groupIndex + 1) + "_" + step, right, total, {
-        group: groupIndex + 1,
-        groups: groups.length,
-        step: step,
-        passed: passed,
-        packId: PACK,
-        assignmentId: unitTag() + "_g" + (groupIndex + 1),
-        lessonId: "g" + (groupIndex + 1)
-      });
-    }
-    testTally[step + ":" + groupIndex] = { right: right, total: total };
-
-    var html = '<p class="rf-count">' + stepName(step) + " · " + (groupIndex + 1) + " / " + groups.length + " 묶음 결과</p>" +
-      '<p class="rf-result ' + (passed ? "good" : "bad") + '">' + pct + "% · " + right + " / " + total + "</p>";
-    if (!passed) {
-      html += "<p>80%가 넘지 않아 이 묶음을 다시 합니다.</p>" +
-        '<button class="rf-btn primary" id="rf-again">다시 하기</button>';
-    } else if (!last) {
-      html += '<button class="rf-btn primary" id="rf-next">' + nextLabel + "</button>";
-    } else if (step !== "test") {
-      html += '<button class="rf-btn primary" id="rf-next">' + nextLabel + "</button>";
-    } else {
-      html += "<p>이 단원 Reading Focus를 끝냈습니다.</p>" +
-        '<button class="rf-btn primary" id="rf-restart">처음부터 다시</button>';
-    }
-    main.innerHTML = html;
-    if (!passed) document.getElementById("rf-again").onclick = startGroup;
-    else if (!last) document.getElementById("rf-next").onclick = function () { groupIndex++; startGroup(); };
-    else if (step !== "test") document.getElementById("rf-next").onclick = function () { startPhase(step === "dictation" ? "writing" : "test"); };
-    else document.getElementById("rf-restart").onclick = function () { unitPosted = false; testTally = {}; startPhase("dictation"); };
-
-    /* the whole unit, once the last test group passes: every step, first try only */
-    if (step === "test" && last && passed && !unitPosted) {
-      unitPosted = true;
-      var uRight = 0, uTotal = 0;
-      for (var k in testTally) {
-        if (!Object.prototype.hasOwnProperty.call(testTally, k)) continue;
-        uRight += testTally[k].right;
-        uTotal += testTally[k].total;
+  /* Jay 2026-11-10: the score for the five stays. It stays on the result card, in the
+     header, and after a reload it shows the last five this student finished. */
+  function restoreLastScore() {
+    try {
+      var raw = localStorage.getItem("rf_last_" + PACK_ID);
+      if (!raw) return;
+      var last = JSON.parse(raw);
+      if (last && typeof last.pct === "number" && !sessionDone) {
+        scoreEl.textContent = "지난번 5문장 " + last.pct + "%";
       }
-      postScore(unitTag() + "_unit", uRight, uTotal, {
+    } catch (e) {}
+  }
+
+  function saveLastSession(pct, rows) {
+    try {
+      localStorage.setItem("rf_last_" + PACK_ID, JSON.stringify({ pct: pct, at: Date.now(), rows: rows }));
+    } catch (e) {}
+  }
+
+  function finishSession() {
+    stopAudio();
+    sessionDone = true;
+    var list = currentSession();
+    var per = list.length;
+    var totalRight = stageRight.dictation + stageRight.writing + stageRight.test;
+    var totalMax = per * STAGES.length;
+    var pct = totalMax ? Math.round((totalRight / totalMax) * 100) : 0;
+    var passed = pct >= PASS;
+    var last = sessionIndex + 1 >= sessions.length;
+    unitRight += totalRight;
+    unitTotal += totalMax;
+
+    var rows = [
+      { label: "받아쓰기", right: stageRight.dictation, max: per },
+      { label: "쓰기", right: stageRight.writing, max: per },
+      { label: "시험", right: stageRight.test, max: per }
+    ];
+    saveLastSession(pct, rows);
+
+    postScore(unitTag() + "_s" + (sessionIndex + 1), totalRight, totalMax, {
+      session: sessionIndex + 1,
+      sessions: sessions.length,
+      steps: "dictation+writing+test",
+      passed: passed,
+      packId: PACK,
+      assignmentId: unitTag() + "_s" + (sessionIndex + 1),
+      lessonId: "s" + (sessionIndex + 1)
+    });
+
+    var html = '<div class="rf-card">' +
+      '<p class="rf-count">5문장 묶음 ' + (sessionIndex + 1) + " / " + sessions.length + " 성적</p>" +
+      '<p class="rf-result ' + (passed ? "good" : "bad") + '">' + pct + "%</p>" +
+      '<p class="rf-sub">15번 중 ' + totalRight + "번 첫 시도에 맞혔습니다.</p>" +
+      '<ul class="rf-rows">';
+    rows.forEach(function (r) {
+      html += '<li><span>' + r.label + "</span><b>" + r.right + " / " + r.max + "</b></li>";
+    });
+    html += "</ul>";
+
+    if (missed.length) {
+      html += '<p class="rf-sub">다시 볼 문장</p><ul class="rf-missed">';
+      for (var i = 0; i < missed.length; i++) {
+        for (var j = 0; j < list.length; j++) {
+          if (list[j].id === missed[i]) {
+            html += "<li>" + esc(list[j].en) + "</li>";
+            break;
+          }
+        }
+      }
+      html += "</ul>";
+    }
+
+    html += '<div class="rf-actions">' +
+      '<button class="rf-btn big" id="rf-again">다시 하기</button>';
+    if (last) {
+      html += '<button class="rf-btn primary big" id="rf-unit">이 단원 끝내기</button>';
+    } else {
+      html += '<button class="rf-btn primary big" id="rf-next">다음 5문장</button>';
+    }
+    html += "</div></div>";
+
+    main.innerHTML = html;
+    scoreEl.textContent = "이번 5문장 " + pct + "%";
+    document.getElementById("rf-again").onclick = function () {
+      unitRight -= totalRight;
+      unitTotal -= totalMax;
+      startSession(sessionIndex);
+    };
+    var nx = document.getElementById("rf-next");
+    if (nx) nx.onclick = function () { startSession(sessionIndex + 1); };
+    var un = document.getElementById("rf-unit");
+    if (un) un.onclick = finishUnit;
+  }
+
+  function finishUnit() {
+    var pct = unitTotal ? Math.round((unitRight / unitTotal) * 100) : 0;
+    if (!unitPosted) {
+      unitPosted = true;
+      postScore(unitTag() + "_unit", unitRight, unitTotal, {
         steps: "dictation+writing+test",
+        sessions: sessions.length,
         unit: true,
         packId: PACK,
         assignmentId: unitTag(),
         lessonId: "unit"
       });
     }
-    scoreEl.textContent = "";
+    main.innerHTML = '<div class="rf-card">' +
+      '<p class="rf-count">이 단원 Reading Focus 완료</p>' +
+      '<p class="rf-result ' + (pct >= PASS ? "good" : "bad") + '">' + pct + "%</p>" +
+      '<p class="rf-sub">' + unitTotal + "번 중 " + unitRight + "번 첫 시도에 맞혔습니다.</p>" +
+      '<div class="rf-actions"><button class="rf-btn primary big" id="rf-restart">처음부터 다시</button></div></div>';
+    scoreEl.textContent = "단원 " + pct + "%";
+    document.getElementById("rf-restart").onclick = function () {
+      unitRight = 0;
+      unitTotal = 0;
+      unitPosted = false;
+      startSession(0);
+    };
   }
+
+  /* ---------- boot ---------- */
 
   fetch(PACK, { cache: "no-store" })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
@@ -352,6 +532,8 @@
       bookTitle = pack.bookTitle || pack.book || book;
       unitTitle = pack.title || [book, unit].join(" ");
       if (!cards.length) throw new Error("empty");
+      sessions = [];
+      for (var i = 0; i < cards.length; i += GROUP) sessions.push(cards.slice(i, i + GROUP));
       /* a readable book name for the sheet, from the site's own book list; a miss is harmless */
       fetch("data/books.json", { cache: "no-store" })
         .then(function (r) { return r.ok ? r.json() : null; })
@@ -362,7 +544,10 @@
           }
         })
         .catch(function () {})
-        .then(function () { startPhase("dictation"); });
+        .then(function () {
+          startSession(0);
+          restoreLastScore();
+        });
     })
     .catch(function (e) {
       main.innerHTML = '<p class="rf-error">이 단원의 Reading Focus 문장 팩을 찾지 못했습니다.<br><small>' +
