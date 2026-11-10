@@ -1,0 +1,450 @@
+{
+ "id": "dialog-order",
+ "title": "Dialog 순서배열하기",
+ "book": "j2-neung",
+ "unit": "u05",
+ "sourcePages": "pp.20-21",
+ "questionCount": 8,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "o01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: Rosa, are you good at baking? → Thanks. You can try some if you want. → That's amazing. Your bread must be delicious. → Yes. I started learning to bake three years ago. (P147R Dialog 순서배열하기 pp.20-21 01)",
+   "type": "order",
+   "promptEn": "01 Arrange the lines in the order they are spoken.\n\n(a) Rosa, are you good at baking?\n(b) Thanks. You can try some if you want.\n(c) That's amazing. Your bread must be delicious.\n(d) Yes. I started learning to bake three years ago.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "Rosa, are you good at baking?"
+    },
+    {
+     "id": "b",
+     "text": "Thanks. You can try some if you want."
+    },
+    {
+     "id": "c",
+     "text": "That's amazing. Your bread must be delicious."
+    },
+    {
+     "id": "d",
+     "text": "Yes. I started learning to bake three years ago."
+    }
+   ],
+   "orderIds": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: What are you doing? → I'm studying coding. My goal is to make a game someday. → I see. Are you good at coding? → No, I'm not good at it yet. But I'm working hard. → That's good. I'm sure you will create a fun game one day. (P147R Dialog 순서배열하기 pp.20-21 02)",
+   "type": "order",
+   "promptEn": "02 Arrange the lines in the order they are spoken.\n\n(a) What are you doing?\n(b) I see. Are you good at coding?\n(c) No, I'm not good at it yet. But I'm working hard.\n(d) I'm studying coding. My goal is to make a game someday.\n(e) That's good. I'm sure you will create a fun game one day.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "What are you doing?"
+    },
+    {
+     "id": "b",
+     "text": "I see. Are you good at coding?"
+    },
+    {
+     "id": "c",
+     "text": "No, I'm not good at it yet. But I'm working hard."
+    },
+    {
+     "id": "d",
+     "text": "I'm studying coding. My goal is to make a game someday."
+    },
+    {
+     "id": "e",
+     "text": "That's good. I'm sure you will create a fun game one day."
+    }
+   ],
+   "orderIds": [
+    "a",
+    "d",
+    "b",
+    "c",
+    "e"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: Hi, nice to meet you. I'm Jake, the new guitarist. → Nice to meet you. Welcome to our band! I'm Luna, and I play  → Oh, I heard that you are good at playing the drums. → That's nice to hear. I practice a lot. → Well, I look forward to playing with you. → Yes, it will be fun! I'm sure we will make a great band. (P147R Dialog 순서배열하기 pp.20-21 03)",
+   "type": "order",
+   "promptEn": "03 Arrange the lines in the order they are spoken.\n\n(a) That's nice to hear. I practice a lot.\n(b) Well, I look forward to playing with you.\n(c) Hi, nice to meet you. I'm Jake, the new guitarist.\n(d) Oh, I heard that you are good at playing the drums.\n(e) Yes, it will be fun! I'm sure we will make a great band.\n(f) Nice to meet you. Welcome to our band! I'm Luna, and I play the drums.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "That's nice to hear. I practice a lot."
+    },
+    {
+     "id": "b",
+     "text": "Well, I look forward to playing with you."
+    },
+    {
+     "id": "c",
+     "text": "Hi, nice to meet you. I'm Jake, the new guitarist."
+    },
+    {
+     "id": "d",
+     "text": "Oh, I heard that you are good at playing the drums."
+    },
+    {
+     "id": "e",
+     "text": "Yes, it will be fun! I'm sure we will make a great band."
+    },
+    {
+     "id": "f",
+     "text": "Nice to meet you. Welcome to our band! I'm Luna, and I play the drums."
+    }
+   ],
+   "orderIds": [
+    "c",
+    "f",
+    "d",
+    "a",
+    "b",
+    "e"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: Mia, you're interested in writing, right? → Yes. I want to be a writer, so I keep a diary every day. → That's great! I'm sure you will be a good writer. → Thank you. How about you, Suho? Do you enjoy writing? → I enjoy it, but I'm not good at it. → Then why don't you join a writing class with me? There's a n → Really? Can you tell me more about it? → Sure. It is held every Wednesday at 5:00 p.m. in the school  → That sounds good. Let's sign up together. → Great! (P147R Dialog 순서배열하기 pp.20-21 04)",
+   "type": "order",
+   "promptEn": "04 Arrange the lines in the order they are spoken.\n\n(a) Great!\n(b) I enjoy it, but I'm not good at it.\n(c) Mia, you're interested in writing, right?\n(d) That sounds good. Let's sign up together.\n(e) Really? Can you tell me more about it?\n(f) That's great! I'm sure you will be a good writer.\n(g) Yes. I want to be a writer, so I keep a diary every day.\n(h) Thank you. How about you, Suho? Do you enjoy writing?\n(i) Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\n(j) Then why don't you join a writing class with me? There's a new one in the after-school program.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "Great!"
+    },
+    {
+     "id": "b",
+     "text": "I enjoy it, but I'm not good at it."
+    },
+    {
+     "id": "c",
+     "text": "Mia, you're interested in writing, right?"
+    },
+    {
+     "id": "d",
+     "text": "That sounds good. Let's sign up together."
+    },
+    {
+     "id": "e",
+     "text": "Really? Can you tell me more about it?"
+    },
+    {
+     "id": "f",
+     "text": "That's great! I'm sure you will be a good writer."
+    },
+    {
+     "id": "g",
+     "text": "Yes. I want to be a writer, so I keep a diary every day."
+    },
+    {
+     "id": "h",
+     "text": "Thank you. How about you, Suho? Do you enjoy writing?"
+    },
+    {
+     "id": "i",
+     "text": "Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays."
+    },
+    {
+     "id": "j",
+     "text": "Then why don't you join a writing class with me? There's a new one in the after-school program."
+    }
+   ],
+   "orderIds": [
+    "c",
+    "g",
+    "f",
+    "h",
+    "b",
+    "j",
+    "e",
+    "i",
+    "d",
+    "a"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: I want to take the soccer class. → Okay. Are you good at playing soccer? → Yes, I am. → Great! I'm sure you will enjoy the class. (P147R Dialog 순서배열하기 pp.20-21 05)",
+   "type": "order",
+   "promptEn": "05 Arrange the lines in the order they are spoken.\n\n(a) Yes, I am.\n(b) I want to take the soccer class.\n(c) Okay. Are you good at playing soccer?\n(d) Great! I'm sure you will enjoy the class.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "Yes, I am."
+    },
+    {
+     "id": "b",
+     "text": "I want to take the soccer class."
+    },
+    {
+     "id": "c",
+     "text": "Okay. Are you good at playing soccer?"
+    },
+    {
+     "id": "d",
+     "text": "Great! I'm sure you will enjoy the class."
+    }
+   ],
+   "orderIds": [
+    "b",
+    "c",
+    "a",
+    "d"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o06",
+   "label": "06",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: Jiwon, I saw your dance video on social media. → Really? What did you think of it? → It was amazing. You are really good at dancing! → Thank you. I often make dance videos and post them. → That's great. Look, this video got a lot of comments. People → I think you're already good. → I'm glad to hear that. But I should practice more. → Actually, I'm practicing new dance moves these days. They ar → I see. I'm sure you will learn them quickly! (P147R Dialog 순서배열하기 pp.20-21 06)",
+   "type": "order",
+   "promptEn": "06 Arrange the lines in the order they are spoken.\n\n(a) I think you're already good.\n(b) Really? What did you think of it?\n(c) Jiwon, I saw your dance video on social media.\n(d) I see. I'm sure you will learn them quickly!\n(e) It was amazing. You are really good at dancing!\n(f) I'm glad to hear that. But I should practice more.\n(g) Thank you. I often make dance videos and post them.\n(h) Actually, I'm practicing new dance moves these days. They are very difficult.\n(i) That's great. Look, this video got a lot of comments. People said that they loved your dance moves.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "I think you're already good."
+    },
+    {
+     "id": "b",
+     "text": "Really? What did you think of it?"
+    },
+    {
+     "id": "c",
+     "text": "Jiwon, I saw your dance video on social media."
+    },
+    {
+     "id": "d",
+     "text": "I see. I'm sure you will learn them quickly!"
+    },
+    {
+     "id": "e",
+     "text": "It was amazing. You are really good at dancing!"
+    },
+    {
+     "id": "f",
+     "text": "I'm glad to hear that. But I should practice more."
+    },
+    {
+     "id": "g",
+     "text": "Thank you. I often make dance videos and post them."
+    },
+    {
+     "id": "h",
+     "text": "Actually, I'm practicing new dance moves these days. They are very difficult."
+    },
+    {
+     "id": "i",
+     "text": "That's great. Look, this video got a lot of comments. People said that they loved your dance moves."
+    }
+   ],
+   "orderIds": [
+    "c",
+    "b",
+    "e",
+    "g",
+    "i",
+    "a",
+    "f",
+    "h",
+    "d"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o07",
+   "label": "07",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: The person who sits to my right is Jinho. → What did you write to him? → I wrote, \"You are good at giving presentations.\" → That's nice. How did he become good at it? → He practiced speaking in front of other people. → I'm sure he will be thankful for your message. (P147R Dialog 순서배열하기 pp.20-21 07)",
+   "type": "order",
+   "promptEn": "07 Arrange the lines in the order they are spoken.\n\n(a) What did you write to him?\n(b) The person who sits to my right is Jinho.\n(c) That's nice. How did he become good at it?\n(d) He practiced speaking in front of other people.\n(e) I wrote, \"You are good at giving presentations.\"\n(f) I'm sure he will be thankful for your message.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "What did you write to him?"
+    },
+    {
+     "id": "b",
+     "text": "The person who sits to my right is Jinho."
+    },
+    {
+     "id": "c",
+     "text": "That's nice. How did he become good at it?"
+    },
+    {
+     "id": "d",
+     "text": "He practiced speaking in front of other people."
+    },
+    {
+     "id": "e",
+     "text": "I wrote, \"You are good at giving presentations.\""
+    },
+    {
+     "id": "f",
+     "text": "I'm sure he will be thankful for your message."
+    }
+   ],
+   "orderIds": [
+    "b",
+    "a",
+    "e",
+    "c",
+    "d",
+    "f"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "o08",
+   "label": "08",
+   "sourceId": 8,
+   "section": "s1",
+   "sectionTitle": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답 순서: Our Sports Day is coming, Siwoo! I'm excited. → Hi, Yejin. What event are you going to take part in? → I'm going to run a race. → Oh, me too. Are you good at running? → Yes. I have won races before. → That's so cool. Actually, I'm worried about the race because → I can help you. Why don't we run together every morning? → I'd love to! Thank you, Yejin. → No problem. I'm sure you will get better. (P147R Dialog 순서배열하기 pp.20-21 08)",
+   "type": "order",
+   "promptEn": "08 Arrange the lines in the order they are spoken.\n\n(a) I'm going to run a race.\n(b) Yes. I have won races before.\n(c) I'd love to! Thank you, Yejin.\n(d) No problem. I'm sure you will get better.\n(e) Oh, me too. Are you good at running?\n(f) Our Sports Day is coming, Siwoo! I'm excited.\n(g) Hi, Yejin. What event are you going to take part in?\n(h) I can help you. Why don't we run together every morning?\n(i) That's so cool. Actually, I'm worried about the race because I'm not good at running.",
+   "orderChunks": [
+    {
+     "id": "a",
+     "text": "I'm going to run a race."
+    },
+    {
+     "id": "b",
+     "text": "Yes. I have won races before."
+    },
+    {
+     "id": "c",
+     "text": "I'd love to! Thank you, Yejin."
+    },
+    {
+     "id": "d",
+     "text": "No problem. I'm sure you will get better."
+    },
+    {
+     "id": "e",
+     "text": "Oh, me too. Are you good at running?"
+    },
+    {
+     "id": "f",
+     "text": "Our Sports Day is coming, Siwoo! I'm excited."
+    },
+    {
+     "id": "g",
+     "text": "Hi, Yejin. What event are you going to take part in?"
+    },
+    {
+     "id": "h",
+     "text": "I can help you. Why don't we run together every morning?"
+    },
+    {
+     "id": "i",
+     "text": "That's so cool. Actually, I'm worried about the race because I'm not good at running."
+    }
+   ],
+   "orderIds": [
+    "f",
+    "g",
+    "a",
+    "e",
+    "b",
+    "i",
+    "h",
+    "c",
+    "d"
+   ],
+   "seconds": 75
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 대화의 말을 순서대로 누릅니다. 정답 순서는 답지 p.2에서 읽었습니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 대화 순서",
+   "directionKo": "다음 대화를 순서대로 바르게 배열하시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "instructionKo": "다음 대화를 순서대로 바르게 배열하시오. 말을 순서대로 누르세요.",
+   "itemCount": 8
+  }
+ ]
+}

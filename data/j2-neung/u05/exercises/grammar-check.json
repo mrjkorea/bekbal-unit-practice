@@ -1,0 +1,765 @@
+{
+ "id": "grammar-check",
+ "title": "Grammar 확인 문제",
+ "book": "j2-neung",
+ "unit": "u05",
+ "sourcePages": "pp.28-29",
+ "questionCount": 30,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "a01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The teacher told us to open our books. — 목적어가 되어야 하므로 목적격 us로 고쳐야 한다. ((답지 P149L Grammar 확인 문제 p.28 A 01)",
+   "type": "sentence",
+   "promptEn": "01 다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.\nThe teacher told <u>we</u> to open our books.",
+   "accept": [
+    "The teacher told us to open our books.",
+    "The teacher told us to open our books"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "a02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The doctor advised me to get more rest. — 동사 advise는 목적격보어로 to부정사를 쓴다. ((답지 P149L Grammar 확인 문제 p.28 A 02)",
+   "type": "sentence",
+   "promptEn": "02 다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.\nThe doctor advised me <u>getting</u> more rest.",
+   "accept": [
+    "The doctor advised me to get more rest.",
+    "The doctor advised me to get more rest"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "a03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: My mom told me not to play video games. — to부정사의 부정은 not to 뒤에 to부정사를 둔다. ((답지 P149L Grammar 확인 문제 p.28 A 03)",
+   "type": "sentence",
+   "promptEn": "03 다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.\nMy mom told me <u>to not</u> play video games.",
+   "accept": [
+    "My mom told me not to play video games.",
+    "My mom told me not to play video games"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "a04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Did your mom tell you to clean your room? — tell은 목적격보어로 to부정사를 쓴다. ((답지 P149L Grammar 확인 문제 p.28 A 04)",
+   "type": "sentence",
+   "promptEn": "04 다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.\nDid your mom tell you <u>cleaning</u> your room?",
+   "accept": [
+    "Did your mom tell you to clean your room?",
+    "Did your mom tell you to clean your room?"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "a05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Can you ask the waiter to bring the check? — ask는 목적격보어로 to부정사를 쓴다. ((답지 P149L Grammar 확인 문제 p.28 A 05)",
+   "type": "sentence",
+   "promptEn": "05 다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.\nCan you ask the waiter <u>bring</u> the check?",
+   "accept": [
+    "Can you ask the waiter to bring the check?",
+    "Can you ask the waiter to bring the check?"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "b01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s2",
+   "sectionTitle": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: them to join our team. ((답지 P149L Grammar 확인 문제 p.28 B 01)",
+   "type": "fill",
+   "promptEn": "01 다음 괄호 안의 문장을 이용하여 문장을 완성하시오.\n(They join our team.)\n→ We asked ______________________.",
+   "accept": [
+    "them to join our team"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "b02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s2",
+   "sectionTitle": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: us to bring some food. ((답지 P149L Grammar 확인 문제 p.28 B 02)",
+   "type": "fill",
+   "promptEn": "02 다음 괄호 안의 문장을 이용하여 문장을 완성하시오.\n(We bring some food.)\n→ They asked ______________________.",
+   "accept": [
+    "us to bring some food"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "b03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s2",
+   "sectionTitle": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: us to use our phones for class. ((답지 P149L Grammar 확인 문제 p.28 B 03)",
+   "type": "fill",
+   "promptEn": "03 다음 괄호 안의 문장을 이용하여 문장을 완성하시오.\n(We use our phones for class.)\n→ The teacher allows ______________________.",
+   "accept": [
+    "us to use our phones for class"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "b04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s2",
+   "sectionTitle": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: our children to be happy. ((답지 P149L Grammar 확인 문제 p.28 B 04)",
+   "type": "fill",
+   "promptEn": "04 다음 괄호 안의 문장을 이용하여 문장을 완성하시오.\n(Our children are happy.)\n→ We want ______________________.",
+   "accept": [
+    "our children to be happy"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "b05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s2",
+   "sectionTitle": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: my brother to be careful. ((답지 P149L Grammar 확인 문제 p.28 B 05)",
+   "type": "fill",
+   "promptEn": "05 다음 괄호 안의 문장을 이용하여 문장을 완성하시오.\n(My brother is careful.)\n→ I told ______________________.",
+   "accept": [
+    "my brother to be careful"
+   ],
+   "phraseBlank": true,
+   "seconds": 70
+  },
+  {
+   "id": "c01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s3",
+   "sectionTitle": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: I told her to wait for me.. ((답지 P149L Grammar 확인 문제 p.28 C 01)",
+   "type": "sentence",
+   "promptEn": "01 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n나는 그녀에게 기다리라고 말했다. (me / her / for / told / to wait)",
+   "accept": [
+    "I told her to wait for me.",
+    "I told her to wait for me"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "c02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s3",
+   "sectionTitle": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She asked me to help with her homework.. ((답지 P149L Grammar 확인 문제 p.28 C 02)",
+   "type": "sentence",
+   "promptEn": "02 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n그녀는 나에게 그녀의 숙제를 도와줄 것을 요청했다. (me / with / asked / to help / her homework)",
+   "accept": [
+    "She asked me to help with her homework.",
+    "She asked me to help with her homework"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "c03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s3",
+   "sectionTitle": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: My father advised me to save money.. ((답지 P149L Grammar 확인 문제 p.28 C 03)",
+   "type": "sentence",
+   "promptEn": "03 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n나의 아버지는 내게 저축할 것을 조언했다. (me / money / advised / to save)",
+   "accept": [
+    "My father advised me to save money.",
+    "My father advised me to save money"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "c04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s3",
+   "sectionTitle": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: I want you to understand the situation.. ((답지 P149L Grammar 확인 문제 p.28 C 04)",
+   "type": "sentence",
+   "promptEn": "04 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n나는 네가 그 상황을 이해하길 원해. (you / want / the situation / to understand)",
+   "accept": [
+    "I want you to understand the situation.",
+    "I want you to understand the situation"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "c05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s3",
+   "sectionTitle": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: They don't allow visitors to take pictures.. ((답지 P149L Grammar 확인 문제 p.28 C 05)",
+   "type": "sentence",
+   "promptEn": "05 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n그들은 방문자들이 사진을 찍도록 허락하지 않는다. (allow / visitors / don't / pictures / to take)",
+   "accept": [
+    "They don't allow visitors to take pictures.",
+    "They don't allow visitors to take pictures"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "d01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s4",
+   "sectionTitle": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "sectionInstructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "explainKo": "정답: who / I visited was sick. ((답지 P149R Grammar 확인 문제 p.29 A 01)",
+   "type": "parts",
+   "promptEn": "01 다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.\nThe girl was sick. I visited the girl.\n→ The girl [who / which] ______________________.",
+   "parts": [
+    {
+     "kind": "mc",
+     "label": "관계대명사",
+     "choices": [
+      "who",
+      "which"
+     ],
+     "correctIndexes": [
+      1
+     ],
+     "indexBase": 1
+    },
+    {
+     "kind": "fill",
+     "label": "나머지",
+     "accept": [
+      "I visited was sick"
+     ],
+     "placeholder": "관계대명사 뒤의 말"
+    }
+   ],
+   "seconds": 70
+  },
+  {
+   "id": "d02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s4",
+   "sectionTitle": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "sectionInstructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "explainKo": "정답: that / I need is on the table. ((답지 P149R Grammar 확인 문제 p.29 A 02)",
+   "type": "parts",
+   "promptEn": "02 다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.\nThe key is on the table. I need the key.\n→ The key [who / that] ______________________.",
+   "parts": [
+    {
+     "kind": "mc",
+     "label": "관계대명사",
+     "choices": [
+      "who",
+      "that"
+     ],
+     "correctIndexes": [
+      2
+     ],
+     "indexBase": 1
+    },
+    {
+     "kind": "fill",
+     "label": "나머지",
+     "accept": [
+      "I need is on the table"
+     ],
+     "placeholder": "관계대명사 뒤의 말"
+    }
+   ],
+   "seconds": 70
+  },
+  {
+   "id": "d03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s4",
+   "sectionTitle": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "sectionInstructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "explainKo": "정답: which / her mom gave her. ((답지 P149R Grammar 확인 문제 p.29 A 03)",
+   "type": "parts",
+   "promptEn": "03 다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.\nShe wore the dress. Her mom gave her the dress.\n→ She wore the dress [who / which] ______________________.",
+   "parts": [
+    {
+     "kind": "mc",
+     "label": "관계대명사",
+     "choices": [
+      "who",
+      "which"
+     ],
+     "correctIndexes": [
+      2
+     ],
+     "indexBase": 1
+    },
+    {
+     "kind": "fill",
+     "label": "나머지",
+     "accept": [
+      "her mom gave her"
+     ],
+     "placeholder": "관계대명사 뒤의 말"
+    }
+   ],
+   "seconds": 70
+  },
+  {
+   "id": "d04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s4",
+   "sectionTitle": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "sectionInstructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "explainKo": "정답: that / I want to buy is very expensive. ((답지 P149R Grammar 확인 문제 p.29 A 04)",
+   "type": "parts",
+   "promptEn": "04 다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.\nThe phone is very expensive. I want to buy the phone.\n→ The phone [who / that] ______________________.",
+   "parts": [
+    {
+     "kind": "mc",
+     "label": "관계대명사",
+     "choices": [
+      "who",
+      "that"
+     ],
+     "correctIndexes": [
+      2
+     ],
+     "indexBase": 1
+    },
+    {
+     "kind": "fill",
+     "label": "나머지",
+     "accept": [
+      "I want to buy is very expensive"
+     ],
+     "placeholder": "관계대명사 뒤의 말"
+    }
+   ],
+   "seconds": 70
+  },
+  {
+   "id": "d05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s4",
+   "sectionTitle": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "sectionInstructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "explainKo": "정답: who / we met at the party. ((답지 P149R Grammar 확인 문제 p.29 A 05)",
+   "type": "parts",
+   "promptEn": "05 다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.\nDo you remember the woman? We met her at the party.\n→ Do you remember the woman [who / which] ______________________?",
+   "parts": [
+    {
+     "kind": "mc",
+     "label": "관계대명사",
+     "choices": [
+      "who",
+      "which"
+     ],
+     "correctIndexes": [
+      1
+     ],
+     "indexBase": 1
+    },
+    {
+     "kind": "fill",
+     "label": "나머지",
+     "accept": [
+      "we met at the party"
+     ],
+     "placeholder": "관계대명사 뒤의 말"
+    }
+   ],
+   "seconds": 70
+  },
+  {
+   "id": "e01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s5",
+   "sectionTitle": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The food that we ordered was delicious.. ((답지 P149R Grammar 확인 문제 p.29 B 01)",
+   "type": "sentence",
+   "promptEn": "01 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n우리가 주문한 음식은 맛있었다. (was / we / that / delicious / ordered)\n→ The food ______________________.",
+   "accept": [
+    "The food that we ordered was delicious.",
+    "The food that we ordered was delicious"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "e02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s5",
+   "sectionTitle": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The picture which I drew is on the wall.. ((답지 P149R Grammar 확인 문제 p.29 B 02)",
+   "type": "sentence",
+   "promptEn": "02 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n내가 그린 그림이 벽에 걸려 있다. (is / I / drew / which / on the wall)\n→ The picture ______________________.",
+   "accept": [
+    "The picture which I drew is on the wall.",
+    "The picture which I drew is on the wall"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "e03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s5",
+   "sectionTitle": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She is the person whom I want to talk to.. ((답지 P149R Grammar 확인 문제 p.29 B 03)",
+   "type": "sentence",
+   "promptEn": "03 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n그녀는 내가 말하고 싶은 사람이다. (whom / is / I / want to / the person / talk to)\n→ She ______________________.",
+   "accept": [
+    "She is the person whom I want to talk to.",
+    "She is the person whom I want to talk to"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "e04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s5",
+   "sectionTitle": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The advice that the teacher gave me was very helpful.. ((답지 P149R Grammar 확인 문제 p.29 B 04)",
+   "type": "sentence",
+   "promptEn": "04 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n선생님이 나에게 주신 그 조언은 매우 도움이 되었다. (me / gave / very / was / helpful / the teacher)\n→ The advice ______________________.",
+   "accept": [
+    "The advice that the teacher gave me was very helpful.",
+    "The advice that the teacher gave me was very helpful"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "e05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s5",
+   "sectionTitle": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Who is the girl that you were waiting for?. ((답지 P149R Grammar 확인 문제 p.29 B 05)",
+   "type": "sentence",
+   "promptEn": "05 다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.\n네가 기다리고 있었던 소녀는 누구니? (that / were / you / is / waiting for / the girl)\n→ Who ______________________?",
+   "accept": [
+    "Who is the girl that you were waiting for?",
+    "Who is the girl that you were waiting for?"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "f01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s6",
+   "sectionTitle": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: This is the phone which[that] I lost yesterday.. ((답지 P149R Grammar 확인 문제 p.29 C 01)",
+   "type": "sentence",
+   "promptEn": "01 다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\nThis is the phone <u>who</u> I lost yesterday.",
+   "accept": [
+    "This is the phone which[that] I lost yesterday.",
+    "This is the phone which[that] I lost yesterday"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "f02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s6",
+   "sectionTitle": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: He read the letter which his friend wrote.. ((답지 P149R Grammar 확인 문제 p.29 C 02)",
+   "type": "sentence",
+   "promptEn": "02 다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\n<u>He which his friend wrote</u> read the letter.",
+   "accept": [
+    "He read the letter which his friend wrote.",
+    "He read the letter which his friend wrote"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "f03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s6",
+   "sectionTitle": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The person who I want to meet is you.. ((답지 P149R Grammar 확인 문제 p.29 C 03)",
+   "type": "sentence",
+   "promptEn": "03 다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\nThe person who <u>I wants</u> to meet is you.",
+   "accept": [
+    "The person who I want to meet is you.",
+    "The person who I want to meet is you"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "f04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s6",
+   "sectionTitle": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Do you like the sweater which he is wearing?. ((답지 P149R Grammar 확인 문제 p.29 C 04)",
+   "type": "sentence",
+   "promptEn": "04 다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\nDo you like the sweater which he is wearing <u>it</u>?",
+   "accept": [
+    "Do you like the sweater which he is wearing?",
+    "Do you like the sweater which he is wearing?"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "f05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s6",
+   "sectionTitle": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She is not the person I wanted to meet.. ((답지 P149R Grammar 확인 문제 p.29 C 05)",
+   "type": "sentence",
+   "promptEn": "05 다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.\nShe is not the person <u>me</u> wanted to meet.",
+   "accept": [
+    "She is not the person I wanted to meet.",
+    "She is not the person I wanted to meet"
+   ],
+   "seconds": 100
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 1번 문법은 목적격보어로 쓰이는 to부정사, 2번 문법은 목적격 관계대명사입니다. 정답은 답지 p.4에 있습니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · to부정사로 고쳐 쓰기",
+   "directionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "다음 밑줄 친 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "itemCount": 5
+  },
+  {
+   "id": "s2",
+   "title": "Section B · to부정사로 문장 완성",
+   "directionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "instructionKo": "다음 괄호 안의 문장을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰세요.",
+   "itemCount": 5
+  },
+  {
+   "id": "s3",
+   "title": "Section C · to부정사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "itemCount": 5
+  },
+  {
+   "id": "s4",
+   "title": "Section A · 목적격 관계대명사 고르기",
+   "directionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오.",
+   "ruleKo": "관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Multi · 한 카드 여러 칸",
+   "instructionKo": "다음 두 문장을 한 문장으로 바꿀 때 괄호 안에서 알맞은 관계대명사를 고르고, 문장을 완성하시오. 관계대명사를 누르고, 뒤에 오는 말을 빈칸에 쓰세요.",
+   "itemCount": 5
+  },
+  {
+   "id": "s5",
+   "title": "Section B · 목적격 관계대명사 어순 배열",
+   "directionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "다음 우리말에 맞도록 괄호 안의 표현들을 순서대로 바르게 배열하여 문장을 완성하시오. 영어 문장 전체를 쓰세요.",
+   "itemCount": 5
+  },
+  {
+   "id": "s6",
+   "title": "Section C · 목적격 관계대명사 바로 고치기",
+   "directionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "다음 문장에서 어법상 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 영어 문장 전체를 쓰세요.",
+   "itemCount": 5
+  }
+ ]
+}

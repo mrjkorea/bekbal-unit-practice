@@ -1,0 +1,592 @@
+{
+ "id": "reading-writing",
+ "title": "Reading 영작하기",
+ "book": "j2-neung",
+ "unit": "u05",
+ "sourcePages": "pp.40-41",
+ "questionCount": 27,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "w01",
+   "label": "01",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Art class was over, but Vashti still sat in her chair. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 01)",
+   "type": "sentence",
+   "promptEn": "01. 다음 우리말에 맞도록 바르게 영작하시오.\n미술 시간이 끝났지만, Vashti는 여전히 의자에 앉아 있었다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Art class was over, but Vashti still sat in her chair.",
+    "Art class was over, but Vashti still sat in her chair"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w02",
+   "label": "02",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Her paper was blank. Her teacher leaned over and looked at it. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 02)",
+   "type": "sentence",
+   "promptEn": "02. 다음 우리말에 맞도록 바르게 영작하시오.\n그녀의 종이는 텅 비어 있었다. 선생님이 몸을 기울여 그것을 들여다봤다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Her paper was blank. Her teacher leaned over and looked at it.",
+    "Her paper was blank. Her teacher leaned over and looked at it"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w03",
+   "label": "03",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"Ah! It is a polar bear in a snowstorm,\" she said. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 03)",
+   "type": "sentence",
+   "promptEn": "03. 다음 우리말에 맞도록 바르게 영작하시오.\n\"아! 그것은 눈보라 속의 북극곰이구나.\" 선생님이 말했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"Ah! It is a polar bear in a snowstorm,\" she said.",
+    "\"Ah! It is a polar bear in a snowstorm,\" she said"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w04",
+   "label": "04",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"That's funny!\" said Vashti. \"I CAN'T draw!\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 04)",
+   "type": "sentence",
+   "promptEn": "04. 다음 우리말에 맞도록 바르게 영작하시오.\n\"재미있네요!\" Vashti가 말했다. \"저는 그림을 못 그려요!\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"That's funny!\" said Vashti. \"I CAN'T draw!\"",
+    "\"That's funny!\" said Vashti. \"I CAN'T draw!\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w05",
+   "label": "05",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Her teacher smiled. \"Just make a mark.\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 05)",
+   "type": "sentence",
+   "promptEn": "05. 다음 우리말에 맞도록 바르게 영작하시오.\n선생님이 미소를 지었다. \"그냥 점 하나만 찍어봐.\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Her teacher smiled. \"Just make a mark.\"",
+    "Her teacher smiled. \"Just make a mark.\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w06",
+   "label": "06",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Vashti picked up a marker and drew a small dot on the paper. \"Here it is!\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 06)",
+   "type": "sentence",
+   "promptEn": "06. 다음 우리말에 맞도록 바르게 영작하시오.\nVashti는 마커를 집어 들고 종이에 작은 점을 하나 그렸다. \"여기 있어요!\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Vashti picked up a marker and drew a small dot on the paper. \"Here it is!\"",
+    "Vashti picked up a marker and drew a small dot on the paper. \"Here it is!\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w07",
+   "label": "07",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Her teacher picked up the paper and looked at it carefully. \"Hmmmm.\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 07)",
+   "type": "sentence",
+   "promptEn": "07. 다음 우리말에 맞도록 바르게 영작하시오.\n선생님은 그 종이를 들어 주의 깊게 보았다. \"흠.\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Her teacher picked up the paper and looked at it carefully. \"Hmmmm.\"",
+    "Her teacher picked up the paper and looked at it carefully. \"Hmmmm.\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w08",
+   "label": "08",
+   "sourceId": 8,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She pushed the paper toward Vashti and asked her to sign it. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 08)",
+   "type": "sentence",
+   "promptEn": "08. 다음 우리말에 맞도록 바르게 영작하시오.\n선생님은 종이를 Vashti 쪽으로 밀면서 그에 서명하라고 요구했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "She pushed the paper toward Vashti and asked her to sign it.",
+    "She pushed the paper toward Vashti and asked her to sign it"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w09",
+   "label": "09",
+   "sourceId": 9,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Vashti thought for a moment. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 09)",
+   "type": "sentence",
+   "promptEn": "09. 다음 우리말에 맞도록 바르게 영작하시오.\nVashti는 잠시 생각했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Vashti thought for a moment.",
+    "Vashti thought for a moment"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"Well, maybe I can't draw, but I CAN sign my name.\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 10)",
+   "type": "sentence",
+   "promptEn": "10. 다음 우리말에 맞도록 바르게 영작하시오.\n\"음, 아마도 저는 그림은 못 그리지만, 제 이름은 쓸 수 있어요.\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"Well, maybe I can't draw, but I CAN sign my name.\"",
+    "\"Well, maybe I can't draw, but I CAN sign my name.\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The next day, Vashti was surprised to see something in a frame on the wall of the art classroom. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 11)",
+   "type": "sentence",
+   "promptEn": "11. 다음 우리말에 맞도록 바르게 영작하시오.\n다음 날, Vashti는 미술 교실 벽의 액자에 담긴 무언가를 보고 깜짝 놀랐다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "The next day, Vashti was surprised to see something in a frame on the wall of the art classroom.",
+    "The next day, Vashti was surprised to see something in a frame on the wall of the art classroom"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: It was her little dot! ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 12)",
+   "type": "sentence",
+   "promptEn": "12. 다음 우리말에 맞도록 바르게 영작하시오.\n그것은 바로 그녀의 작은 점이었다!",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "It was her little dot!",
+    "It was her little dot!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"I can make a better dot than that!\" Vashti said. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 13)",
+   "type": "sentence",
+   "promptEn": "13. 다음 우리말에 맞도록 바르게 영작하시오.\n\"저것보다 더 멋진 점을 만들 수 있어!\" Vashti가 말했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"I can make a better dot than that!\" Vashti said.",
+    "\"I can make a better dot than that!\" Vashti said"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She got a brush and started painting. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 14)",
+   "type": "sentence",
+   "promptEn": "14. 다음 우리말에 맞도록 바르게 영작하시오.\n그녀는 붓을 들고 그림을 그리기 시작했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "She got a brush and started painting.",
+    "She got a brush and started painting"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w15",
+   "label": "15",
+   "sourceId": 15,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: A red dot. A purple dot. A yellow dot. A blue dot. Then she mixed blue and yellow together. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 15)",
+   "type": "sentence",
+   "promptEn": "15. 다음 우리말에 맞도록 바르게 영작하시오.\n빨간 점. 보라색 점. 노란 점. 파란 점. 그리고 파란색과 노란색을 함께 섞었다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "A red dot. A purple dot. A yellow dot. A blue dot. Then she mixed blue and yellow together.",
+    "A red dot. A purple dot. A yellow dot. A blue dot. Then she mixed blue and yellow together"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w16",
+   "label": "16",
+   "sourceId": 16,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: She discovered that she could make a green dot. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 16)",
+   "type": "sentence",
+   "promptEn": "16. 다음 우리말에 맞도록 바르게 영작하시오.\n그녀는 초록색 점을 만들 수 있다는 것을 발견했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "She discovered that she could make a green dot.",
+    "She discovered that she could make a green dot"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w17",
+   "label": "17",
+   "sourceId": 17,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Vashti kept experimenting. She painted lots of little dots in many colors. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 17)",
+   "type": "sentence",
+   "promptEn": "17. 다음 우리말에 맞도록 바르게 영작하시오.\nVashti는 실험하기를 계속했다. 그녀는 여러 가지 색깔로 수많은 작은 점들을 그렸다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Vashti kept experimenting. She painted lots of little dots in many colors.",
+    "Vashti kept experimenting. She painted lots of little dots in many colors"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w18",
+   "label": "18",
+   "sourceId": 18,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"If I can make little dots, I can make big dots, too.\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 18)",
+   "type": "sentence",
+   "promptEn": "18. 다음 우리말에 맞도록 바르게 영작하시오.\n\"작은 점들을 만들 수 있다면, 큰 점들도 만들 수 있어.\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"If I can make little dots, I can make big dots, too.\"",
+    "\"If I can make little dots, I can make big dots, too.\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w19",
+   "label": "19",
+   "sourceId": 19,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: All of the dots that she painted looked beautiful together on the paper. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 19)",
+   "type": "sentence",
+   "promptEn": "19. 다음 우리말에 맞도록 바르게 영작하시오.\n그녀가 그린 점들 모두 종이 위에 어우러져 아름다워 보였다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "All of the dots that she painted looked beautiful together on the paper.",
+    "All of the dots that she painted looked beautiful together on the paper"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w20",
+   "label": "20",
+   "sourceId": 20,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: At the school art show a few weeks later, everyone loved Vashti's paintings. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 20)",
+   "type": "sentence",
+   "promptEn": "20. 다음 우리말에 맞도록 바르게 영작하시오.\n몇 주 뒤 열린 학교 미술 전시회에서, 모두가 Vashti의 그림을 무척 좋아했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "At the school art show a few weeks later, everyone loved Vashti's paintings.",
+    "At the school art show a few weeks later, everyone loved Vashti's paintings"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w21",
+   "label": "21",
+   "sourceId": 21,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: A little boy looked up at her. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 21)",
+   "type": "sentence",
+   "promptEn": "21. 다음 우리말에 맞도록 바르게 영작하시오.\n한 어린 소년이 그녀를 올려다보았다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "A little boy looked up at her.",
+    "A little boy looked up at her"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w22",
+   "label": "22",
+   "sourceId": 22,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"You're a really great artist. I want to paint like you,\" he said. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 22)",
+   "type": "sentence",
+   "promptEn": "22. 다음 우리말에 맞도록 바르게 영작하시오.\n\"당신은 정말 대단한 화가예요. 저도 당신처럼 그림을 그리고 싶어요.\" 그가 말했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"You're a really great artist. I want to paint like you,\" he said.",
+    "\"You're a really great artist. I want to paint like you,\" he said"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w23",
+   "label": "23",
+   "sourceId": 23,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"I bet you can,\" said Vashti. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 23)",
+   "type": "sentence",
+   "promptEn": "23. 다음 우리말에 맞도록 바르게 영작하시오.\n\"넌 틀림없이 할 수 있을 거야.\" Vashti가 말했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"I bet you can,\" said Vashti.",
+    "\"I bet you can,\" said Vashti"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w24",
+   "label": "24",
+   "sourceId": 24,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: \"Me? No, not me. I CAN'T draw!\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 24)",
+   "type": "sentence",
+   "promptEn": "24. 다음 우리말에 맞도록 바르게 영작하시오.\n\"저요? 아뇨, 저는 아니에요. 저는 그림을 못 그려요!\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "\"Me? No, not me. I CAN'T draw!\"",
+    "\"Me? No, not me. I CAN'T draw!\""
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w25",
+   "label": "25",
+   "sourceId": 25,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Vashti smiled. She handed the boy a blank sheet of paper and told him to draw a line. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 25)",
+   "type": "sentence",
+   "promptEn": "25. 다음 우리말에 맞도록 바르게 영작하시오.\nVashti가 미소 지었다. 그녀는 소년에게 빈 종이를 건네 선 하나를 그리라고 말했다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Vashti smiled. She handed the boy a blank sheet of paper and told him to draw a line.",
+    "Vashti smiled. She handed the boy a blank sheet of paper and told him to draw a line"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w26",
+   "label": "26",
+   "sourceId": 26,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: The pencil which the boy held shook as he drew. ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 26)",
+   "type": "sentence",
+   "promptEn": "26. 다음 우리말에 맞도록 바르게 영작하시오.\n소년이 쥔 연필은 선을 그리는 동안 떨렸다.",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "The pencil which the boy held shook as he drew.",
+    "The pencil which the boy held shook as he drew"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "w27",
+   "label": "27",
+   "sourceId": 27,
+   "section": "s1",
+   "sectionTitle": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Vashti looked at the boy's line. And then she said ... \"Sign it.\" ((답지 P151R Reading 순서배열하기·영작하기 pp.38-41 영작 27)",
+   "type": "sentence",
+   "promptEn": "27. 다음 우리말에 맞도록 바르게 영작하시오.\nVashti는 소년의 선을 보았다. 그러고 말했다 … \"사인해.\"",
+   "promptKo": "교재 영작 문제와 같은 한글 문장입니다.",
+   "accept": [
+    "Vashti looked at the boy's line. And then she said ... \"Sign it.\"",
+    "Vashti looked at the boy's line. And then she said ... \"Sign it.\""
+   ],
+   "seconds": 100
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 우리말을 영어 문장으로 씁니다. 문장 전체를 쓰세요. 정답은 답지 p.7에 있습니다.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 영작",
+   "directionKo": "다음 우리말에 맞도록 바르게 영작하시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "다음 우리말에 맞도록 바르게 영작하시오. 영어 문장 전체를 쓰세요.",
+   "itemCount": 27
+  }
+ ]
+}
