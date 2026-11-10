@@ -123,3 +123,10 @@ body[data-page="unit"] main{max-width:960px}
 .chip.soon{background:linear-gradient(#cbd5e1,#94a3b8);box-shadow:0 4px 0 #64748b;cursor:default;color:#334155}
 .gq-sub{grid-column:1/-1;font-size:13px;font-weight:900;color:#64748b;letter-spacing:.03em;margin:12px 0 0;padding-top:12px;border-top:2px dashed #e2e8f0}
 .gq-more{grid-column:1/-1;display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+
+/* ---- Scores on the unit page (Jay 2026-11-10) ---- */
+.chip.qt.ok{background:linear-gradient(#4ade80,#16a34a);box-shadow:0 4px 0 #15803d}
+.chip .cin{font-weight:900;background:#ffffff2e;border-radius:999px;padding:1px 7px;font-size:12px;margin-left:2px}
+.ex .sc{display:inline-block;align-self:flex-start;font-size:13.5px;font-weight:900;color:#14532d;background:#dcfce7;border:1px solid #86efac;border-radius:999px;padding:3px 10px;margin-top:2px}
+.ex.done .sc{background:#bbf7d0}
+.gq-card .chip.qt.ok{color:#fff}

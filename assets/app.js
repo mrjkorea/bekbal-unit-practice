@@ -44,13 +44,68 @@ const FOCUS = [
 function bekDone() { try { return JSON.parse(localStorage.getItem("bek.progress.v1") || "{}"); } catch (e) { return {}; } }
 function bekScore() { try { return JSON.parse(localStorage.getItem("bek.scores.v1") || "{}"); } catch (e) { return {}; } }
 
+/* ---- Scores on the unit page (Jay 2026-11-10): every activity shows the score of its
+   latest finished try. Real rows only, from the shared sign-in backend, one program at a
+   time; nothing is invented when a row is missing. ---- */
+const SCORE_PROGRAMS = ["bekbal-unit", "bekbal-reading", "mse-quicktest", "greenzap", "word-master"];
+const latestScore = [];
+
+function rowScore(row) {
+  const raw = String(row && row.score != null ? row.score : "").trim();
+  let m;
+  const at = Date.parse(String((row && row.date) || "")) || 0;
+  if ((m = raw.match(/^(-?\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)$/)) && +m[2] > 0) {
+    return { program: row.program, item: String(row.item || ""), v: +m[1], max: +m[2], pct: Math.round((100 * +m[1]) / +m[2]), at };
+  }
+  if ((m = raw.match(/^(-?\d+(?:\.\d+)?)\s*%$/))) {
+    return { program: row.program, item: String(row.item || ""), v: null, max: null, pct: Math.round(+m[1]), at };
+  }
+  return null;
+}
+
+function scoreText(s) {
+  if (!s) return "";
+  return s.max != null ? `${s.v} / ${s.max} · ${s.pct}%` : `${s.pct}%`;
+}
+
+function loadScores() {
+  const a = window.MRJ_AUTH || window.MRJSignin;
+  if (!a || typeof a.loadProgressForApp !== "function") return Promise.resolve(false);
+  let who = "";
+  try { who = a.student ? String(a.student() || "") : ""; } catch (e) { who = ""; }
+  if (!who) return Promise.resolve(false);
+  return Promise.all(SCORE_PROGRAMS.map((p) => a.loadProgressForApp(p).catch(() => ({ progress: [] }))))
+    .then((sets) => {
+      sets.forEach((r, i) => {
+        ((r && r.progress) || []).forEach((row) => {
+          const s = rowScore({ program: row.program || SCORE_PROGRAMS[i], item: row.item, score: row.score, date: row.date });
+          if (s) latestScore.push(s);
+        });
+      });
+      return latestScore.length > 0;
+    })
+    .catch(() => false);
+}
+
+function findScore(program, q) {
+  let best = null;
+  for (let i = 0; i < latestScore.length; i++) {
+    const s = latestScore[i];
+    if (program && s.program !== program) continue;
+    if (q.exact != null && s.item !== q.exact) continue;
+    if (q.prefix && s.item.indexOf(q.prefix) !== 0) continue;
+    if (!best || s.at >= best.at) best = s;
+  }
+  return best;
+}
+
 const chipLink = (cls, label, href, title) =>
   `<a class="chip ${cls}" href="${esc(href)}" target="_blank" rel="noopener"${title ? ` title="${esc(title)}"` : ""}>${label}</a>`;
 const qtLabel = (q) => `${q.shape} · ${q.minutes || (q.shape === "TF" ? 5 : 15)}분${q.items ? " · " + q.items + "문항" : ""}`;
 const noVideo = `<span class="chip soon" title="이 문법의 영상이 아직 없습니다">영상 준비 중</span>`;
 const noTest = `<span class="chip soon" title="테스트를 만드는 중입니다">테스트 준비 중</span>`;
 
-function grammarQuick(types) {
+function grammarQuick(types, scoreOf) {
   if (!types || !types.length) return "";
   return `<div class="gq-head"><span class="gq-badge">Quick Test</span>` +
     `<span class="gq-lead">노트 → 영상 → 테스트 순서로 하세요</span>` +
@@ -58,7 +113,12 @@ function grammarQuick(types) {
     `<div class="gq-grid">` + types.map((t) => {
       const chips = [chipLink("gold", "노트 Notes", t.note, t.type + " 설명 노트")];
       chips.push(t.video ? chipLink("purple", "영상 Video", t.video, t.type + " 설명 영상") : noVideo);
-      (t.tests || []).forEach((q) => chips.push(chipLink("qt", "⚡ " + qtLabel(q), q.url, t.type + " · " + q.shape)));
+      (t.tests || []).forEach((q) => {
+        const sc = scoreOf ? scoreOf(q.url) : null;
+        chips.push(chipLink(sc ? "qt ok" : "qt", (sc ? "✓ " : "⚡ ") + qtLabel(q) +
+          (sc ? ` <b class="cin">${esc(scoreText(sc))}</b>` : ""), q.url,
+          t.type + " · " + q.shape + (sc ? " · 최근 점수 " + scoreText(sc) : "")));
+      });
       if (!(t.tests || []).length) chips.push(noTest);
       return `<div class="gq-card"><div class="gq-type">${esc(t.type)}</div>` +
         `<div class="chips">${chips.join("")}</div></div>`;
@@ -70,28 +130,46 @@ async function unit() {
   if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
   const done = bekDone(), scores = bekScore();
+  await loadScores();
+  const scoreOf = (href) => {
+    const h = String(href || "");
+    let m;
+    if ((m = /quicktest\/#\/test\/([a-z0-9-]+)\/([A-Za-z0-9]+)/i.exec(h))) return findScore("mse-quicktest", { exact: m[1] + "-" + m[2] });
+    if ((m = /MRJ-Zap-Grammar-Books\/#\/p\/([^?#]+)/.exec(h))) return findScore("greenzap", { exact: m[1] });
+    if (/word-master\//.test(h)) {
+      const p = (/packsrc=[^&]*\/([A-Za-z0-9_-]+)\.json/.exec(h) || [])[1];
+      return p ? findScore("word-master", { prefix: p + ":" }) : null;
+    }
+    if (/reading\.html\?/.test(h)) return findScore("bekbal-reading", { prefix: b + "_" + u + "_" });
+    return null;
+  };
+  const exScore = (e) => scoreOf(e.href) || findScore("bekbal-unit", { exact: b + "/" + u + "/" + e.id });
   let gmap = null;
   try { const g = await getJSON("data/grammar-focus.json"); gmap = (g && g[b + "/" + u]) || null; } catch (e) { gmap = null; }
 
   const card = (e) => {
     const key = b + "|" + u + "|" + e.id;
-    const isDone = !!done[key];
+    const ext = exScore(e);
+    const isDone = !!done[key] || !!ext;
     const sc = scores[key];
+    const badge = ext ? `<span class="sc">최근 ${esc(scoreText(ext))}</span>`
+      : (sc ? `<span class="sc">점수 ${sc.got} / ${sc.total}</span>` : "");
     if (e.href && /^https:\/\//.test(e.href)) {
-      return `<a class="ex" href="${esc(e.href)}" target="_blank" rel="noopener"><span class="t">${esc(e.title)}</span><span class="m">다른 사이트에서 열립니다</span></a>`;
+      return `<a class="ex${isDone ? " done" : ""}" href="${esc(e.href)}" target="_blank" rel="noopener">` +
+        `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
+        (badge || `<span class="m">다른 사이트에서 열립니다</span>`) + `</a>`;
     }
     if (e.href && /^reading\.html\?b=[a-z0-9-]+&u=u0[1-8]$/.test(e.href)) {
       return `<a class="ex${isDone ? " done" : ""}" href="${esc(e.href)}">` +
         `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
-        `<span class="m">받아쓰기 · 쓰기 · 시험</span></a>`;
+        (badge || `<span class="m">받아쓰기 · 쓰기 · 시험</span>`) + `</a>`;
     }
     if (e.deferred) return `<div class="ex off"><span class="t">${esc(e.title)}</span><span class="m">확인 필요</span></div>`;
     const n = e.questionCount ? ` · ${e.questionCount}문항` : "";
     const hold = e.omittedCount ? ` · 보류 ${e.omittedCount}` : "";
     return `<a class="ex${isDone ? " done" : ""}" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">` +
       `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
-      `<span class="m">${n.replace(" ·", "")}${hold}</span>` +
-      (sc ? `<span class="sc">점수 ${sc.got} / ${sc.total}</span>` : "") + `</a>`;
+      `<span class="m">${n.replace(" ·", "")}${hold}</span>` + badge + `</a>`;
   };
 
   const buckets = { vocab: [], reading: [], grammar: [], book: [] };
@@ -117,7 +195,7 @@ async function unit() {
     if (f.key === "grammar" && list.length) {
       const quickIds = /^(note-|video-|grammar-quicktest-)/;
       const more = gmap ? list.filter((e) => !quickIds.test(e.id)) : list;
-      const quick = grammarQuick(gmap);
+      const quick = grammarQuick(gmap, scoreOf);
       let body = quick;
       if (more.length) {
         body += `<div class="gq-sub">추가 연습 · More practice</div><div class="gq-more">` + more.map(card).join("") + `</div>`;
@@ -612,6 +690,20 @@ async function play() {
       localStorage.setItem("bek.scores.v1", JSON.stringify(sc));
       const SP = window.StudyProgress;
       if (SP && SP.markDone) SP.markDone("bek|" + k);
+      /* Jay 2026-11-10: the score goes into the signed-in record as well as this device,
+         so the unit page can show it in the student's row. */
+      if (window.MRJ_SCORES && typeof window.MRJ_SCORES.post === "function") {
+        window.MRJ_SCORES.post({
+          program: "bekbal-unit",
+          appName: "백발백중 Unit Practice",
+          unitTitle: bk + " " + un,
+          itemId: bk + "/" + un + "/" + exid,
+          itemType: "practice_summary",
+          scoreValue: score,
+          scoreMax: total,
+          scorePct: Math.round(pct * 100)
+        });
+      }
     } catch (e) {}
 
     const mistakes = score < total;
