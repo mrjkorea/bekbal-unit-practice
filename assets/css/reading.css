@@ -22,7 +22,16 @@ main { max-width:820px; margin:18px auto 80px; padding:0 18px; }
 .rf-dots { display:flex; gap:10px; margin:0 0 14px; }
 .rf-dot { width:18px; height:18px; border-radius:50%; background:#dbe4ef; border:2px solid #c7d5e6; }
 .rf-dot.seen { background:#ffe9b8; border-color:#e8b93a; }
+.rf-dot.half { background:#9dcc63; border-color:#5a9a32; }
 .rf-dot.done { background:var(--good); border-color:var(--good); }
+.rf-link { background:none; border:0; padding:0; color:var(--blue); font:inherit; font-weight:800; cursor:pointer; }
+.rf-backline { margin:0 0 8px; }
+.rf-prac { display:flex; justify-content:space-between; align-items:center; gap:12px;
+  padding:14px; margin:0 0 10px; background:var(--soft); border-radius:14px; }
+.rf-prac b { display:block; }
+.rf-prac span { color:#4a5a71; font-weight:700; }
+.rf-prac-score { font-variant-numeric: tabular-nums; margin-bottom:6px; }
+.rf-prac > div:last-child { text-align:right; }
 
 /* the audio block: a big listen button, then 1x-3x-5x and 100-80-50 */
 .rf-audio { display:flex; gap:14px; align-items:center; flex-wrap:wrap; margin:0 0 16px; }
