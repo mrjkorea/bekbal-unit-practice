@@ -201,7 +201,9 @@ async function unit() {
 
   FOCUS.forEach((f) => {
     const list = buckets[f.key];
-    if (f.key === "grammar" && list.length) {
+    /* A unit with no grammar drills of its own still gets its Quick Test chips,
+       because the chip data alone is enough (Jay 2026-11-11: Lesson 05 grammar). */
+    if (f.key === "grammar" && (list.length || (gmap && gmap.length))) {
       const quickIds = /^(note-|video-|grammar-quicktest-)/;
       const more = gmap ? list.filter((e) => !quickIds.test(e.id)) : list;
       const quick = grammarQuick(gmap, scoreOf);
@@ -209,8 +211,9 @@ async function unit() {
       if (more.length) {
         body += `<div class="gq-sub">추가 연습 · More practice</div><div class="gq-more">` + more.map(card).join("") + `</div>`;
       }
+      const cnt = list.length ? countOf(list) : "";
       html += `<section class="focus grammar"><div class="focus-head">${f.title}` +
-        `<span class="cnt">${countOf(list)}</span></div><div class="focus-body single">` + (body || soon) + `</div></section>`;
+        `<span class="cnt">${cnt}</span></div><div class="focus-body single">` + (body || soon) + `</div></section>`;
       return;
     }
     html += `<section class="focus ${f.key}"><div class="focus-head">${f.title}` +

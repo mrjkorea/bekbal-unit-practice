@@ -269,6 +269,34 @@
    ]
   }
  ],
+ "j2-neung/u05": [
+  {
+   "type": "목적관계대명사",
+   "note": "https://mrjkorea.github.io/middle-school/notes/mokjukdaemyeong.pdf",
+   "video": "https://mrj-videos.canadianvegetarian.workers.dev/videos/msenew__143_%EC%84%B8%EA%B0%80%EC%98%81_116%ED%99%94_-_%EA%B4%80%EA%B3%84%EB%8C%80%EB%AA%85%EC%82%AC__%EC%83%9D%EB%9E%B5%ED%95%A0_%EC%88%98_%EC%9E%88%EC%9D%84%EA%B9%8C_%EC%97%86%EC%9D%84%EA%B9%8C__%EB%AA%A9%EC%A0%81%EA%B2%A9_%EB%AA%A9%EC%A0%81%EA%B2%A9%EA%B4%80%EA%B3%84%EB%8C%80%EB%AA%85%EC%82%AC.mp4",
+   "topic": "목적관계대명사",
+   "tests": [
+    {
+     "shape": "T3",
+     "minutes": 15,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t61/T3"
+    },
+    {
+     "shape": "F3",
+     "minutes": 15,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t61/F3"
+    },
+    {
+     "shape": "TF",
+     "minutes": 5,
+     "items": 25,
+     "url": "https://mrjkorea.github.io/MRJ-Zap-Grammar-Books/quicktest/#/test/t61/TF"
+    }
+   ]
+  }
+ ],
  "j2-neung/u07": [
   {
    "type": "사역동사 make have let",
