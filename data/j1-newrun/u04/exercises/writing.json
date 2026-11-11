@@ -1,0 +1,342 @@
+{
+ "id": "writing",
+ "title": "Writing",
+ "book": "j1-newrun",
+ "unit": "u04",
+ "sourcePages": "p.52-53",
+ "questionCount": 17,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1-1",
+   "label": "01-(1)",
+   "sourceId": "01-(1)",
+   "section": "s1",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: feel comfortable. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "<보기> comfortable, exciting, handsome, sweet. The chairs _______. (feel)",
+   "accept": [
+    "feel comfortable",
+    "The chairs feel comfortable"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "1-2",
+   "label": "01-(2)",
+   "sourceId": "01-(2)",
+   "section": "s1",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: tastes sweet. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "<보기> comfortable, exciting, handsome, sweet. The popcorn _______. (taste)",
+   "accept": [
+    "tastes sweet",
+    "The popcorn tastes sweet"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "1-3",
+   "label": "01-(3)",
+   "sourceId": "01-(3)",
+   "section": "s1",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: look handsome. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "<보기> comfortable, exciting, handsome, sweet. The actors _______. (look)",
+   "accept": [
+    "look handsome",
+    "The actors look handsome"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "1-4",
+   "label": "01-(4)",
+   "sourceId": "01-(4)",
+   "section": "s1",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>와 괄호 안의 단어를 활용하여 문장을 완성하시오. (단, 현재시제로 쓸 것)",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: sounds exciting. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "<보기> comfortable, exciting, handsome, sweet. The music _______. (sound)",
+   "accept": [
+    "sounds exciting",
+    "The music sounds exciting"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "2-1",
+   "label": "02-(1)",
+   "sourceId": "02-(1)",
+   "section": "s2",
+   "sectionTitle": "Writing",
+   "directionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: sound sad. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Korean folk songs: sad. Korean folk songs _______. (sound)",
+   "accept": [
+    "sound sad",
+    "Korean folk songs sound sad"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "2-2",
+   "label": "02-(2)",
+   "sourceId": "02-(2)",
+   "section": "s2",
+   "sectionTitle": "Writing",
+   "directionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: tastes spicy. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Bibimbab: spicy. Bibimbab _______. (taste)",
+   "accept": [
+    "tastes spicy",
+    "Bibimbab tastes spicy"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "2-3",
+   "label": "02-(3)",
+   "sourceId": "02-(3)",
+   "section": "s2",
+   "sectionTitle": "Writing",
+   "directionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: looks unique. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Hanok: unique. Hanok _______. (look)",
+   "accept": [
+    "looks unique",
+    "Hanok looks unique"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "2-4",
+   "label": "02-(4)",
+   "sourceId": "02-(4)",
+   "section": "s2",
+   "sectionTitle": "Writing",
+   "directionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "한국 문화에 대해 Kevin이 답한 설문지를 보고, 괄호 안의 단어를 활용하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: looks colorful. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Hanbok: colorful. Hanbok _______. (look)",
+   "accept": [
+    "looks colorful",
+    "Hanbok looks colorful"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "3-1",
+   "label": "03-(1)",
+   "sourceId": "03-(1)",
+   "section": "s3",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: baked. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "<보기> write, give, bake, for, to. Dad (1) _______ a cake for me.",
+   "accept": [
+    "baked"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "3-2",
+   "label": "03-(2)",
+   "sourceId": "03-(2)",
+   "section": "s3",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: for. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Mom cooked a delicious meal (2) _______ me.",
+   "accept": [
+    "for"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "3-3",
+   "label": "03-(3)",
+   "sourceId": "03-(3)",
+   "section": "s3",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: gave. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "My brother, Dave, (3) _______ me a gift.",
+   "accept": [
+    "gave"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "3-4",
+   "label": "03-(4)",
+   "sourceId": "03-(4)",
+   "section": "s3",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: wrote. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "My sister, Jenny, (4) _______ a letter (5) _______ me.",
+   "accept": [
+    "wrote"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "3-5",
+   "label": "03-(5)",
+   "sourceId": "03-(5)",
+   "section": "s3",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, <보기>의 단어를 활용하여 Hannah의 SNS 게시물을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Jenny (4) wrote a letter (5) _______ me.",
+   "accept": [
+    "to"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "4-1",
+   "label": "04-(1)",
+   "sourceId": "04-(1)",
+   "section": "s4",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: for Amy. 나는 Amy에게 샌드위치를 만들어 주었다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "I made a sandwich (1) _______.",
+   "accept": [
+    "for Amy"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "4-2",
+   "label": "04-(2)",
+   "sourceId": "04-(2)",
+   "section": "s4",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to Peter. Amy는 Peter에게 공책을 보여 주었다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Amy showed notebooks (2) _______.",
+   "accept": [
+    "to Peter"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "4-3",
+   "label": "04-(3)",
+   "sourceId": "04-(3)",
+   "section": "s4",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to Susan. Peter는 Susan에게 수학을 가르쳐 주었다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Peter taught math (3) _______.",
+   "accept": [
+    "to Susan"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "4-4",
+   "label": "04-(4)",
+   "sourceId": "04-(4)",
+   "section": "s4",
+   "sectionTitle": "Writing",
+   "directionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "다음 그림을 보고, 친구들이 서로를 위해 한 일에 대한 글을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to Henry. Susan은 Henry에게 우산을 빌려주었다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "Susan lent her umbrella (4) _______.",
+   "accept": [
+    "to Henry"
+   ],
+   "seconds": 40
+  }
+ ]
+}

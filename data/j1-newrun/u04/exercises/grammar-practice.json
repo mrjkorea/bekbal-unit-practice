@@ -1,0 +1,493 @@
+{
+ "id": "grammar-practice",
+ "title": "Grammar Practice",
+ "book": "j1-newrun",
+ "unit": "u04",
+ "sourcePages": "p.49, p.51",
+ "questionCount": 22,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1",
+   "label": "01",
+   "sourceId": "01",
+   "section": "s1",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "감각동사를 찾아 모두 동그라미 하시오.",
+   "ruleKo": "해당하는 것을 모두 고르세요.",
+   "sectionInstructionKo": "감각동사를 찾아 모두 동그라미 하시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 모두 고르기",
+   "explainKo": "정답: look, sound, smell, taste, feel. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "multi",
+   "promptEn": "감각동사를 찾아 모두 동그라미 하시오.",
+   "choices": [
+    "buy",
+    "look",
+    "make",
+    "sound",
+    "eat",
+    "write",
+    "drive",
+    "smell",
+    "cook",
+    "taste",
+    "feel",
+    "play"
+   ],
+   "correctIndexes": [
+    2,
+    4,
+    8,
+    10,
+    11
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "2-1",
+   "label": "02-(1)",
+   "sourceId": "02-(1)",
+   "section": "s2",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: loud. 감각동사 sound 뒤에는 형용사가 온다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "The bell sounds (loud / loudly).",
+   "choices": [
+    "loud",
+    "loudly"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "2-2",
+   "label": "02-(2)",
+   "sourceId": "02-(2)",
+   "section": "s2",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: special. 감각동사 taste 뒤에는 형용사가 온다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "The soup tastes (special / specially).",
+   "choices": [
+    "special",
+    "specially"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "2-3",
+   "label": "02-(3)",
+   "sourceId": "02-(3)",
+   "section": "s2",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: looks like. 「감각동사+like」 뒤에 명사 an angel이 온다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "My mother (looks / looks like) an angel.",
+   "choices": [
+    "looks",
+    "looks like"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "2-4",
+   "label": "02-(4)",
+   "sourceId": "02-(4)",
+   "section": "s2",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 말을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: smells. 형용사 good 앞에는 like를 쓰지 않는다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "That shampoo (smells / smells like) good.",
+   "choices": [
+    "smells",
+    "smells like"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "3-1",
+   "label": "03-(1)",
+   "sourceId": "03-(1)",
+   "section": "s3",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: sounds like. 명사구 a great idea 앞에는 like가 필요하다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "That sounds a great idea.",
+   "accept": [
+    "sounds like"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "3-2",
+   "label": "03-(2)",
+   "sourceId": "03-(2)",
+   "section": "s3",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: bitter. 감각동사 taste 뒤에는 부사 bitterly가 아니라 형용사 bitter가 온다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "The medicine tastes bitterly.",
+   "accept": [
+    "bitter"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "3-3",
+   "label": "03-(3)",
+   "sourceId": "03-(3)",
+   "section": "s3",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: looks. 형용사 cute 앞에는 like를 쓰지 않는다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "My baby sister looks like cute.",
+   "accept": [
+    "looks"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "3-4",
+   "label": "03-(4)",
+   "sourceId": "03-(4)",
+   "section": "s3",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "밑줄 친 부분을 바르게 고쳐 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: feels like. 명사구 a soft blanket 앞에는 like가 필요하다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "The dog's fur feels a soft blanket.",
+   "accept": [
+    "feels like"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "4",
+   "label": "04",
+   "sourceId": "04",
+   "section": "s4",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안의 단어와 감각동사를 활용하여 그림을 묘사하는 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "괄호 안의 단어와 감각동사를 활용하여 그림을 묘사하는 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: sounds terrible. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "His singing _______. (terrible)",
+   "accept": [
+    "sounds terrible",
+    "His singing sounds terrible"
+   ],
+   "seconds": 50
+  },
+  {
+   "id": "5-1",
+   "label": "05-(1)",
+   "sourceId": "05-(1)",
+   "section": "s5",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: for. bake는 직접목적어 뒤에 전치사 for를 쓴다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "I baked a cake (to / for) my parents.",
+   "choices": [
+    "to",
+    "for"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "5-2",
+   "label": "05-(2)",
+   "sourceId": "05-(2)",
+   "section": "s5",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: to. give는 직접목적어 뒤에 전치사 to를 쓴다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "The animal trainer gave a ball (to / for) the dog.",
+   "choices": [
+    "to",
+    "for"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "5-3",
+   "label": "05-(3)",
+   "sourceId": "05-(3)",
+   "section": "s5",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: to. tell은 직접목적어 뒤에 전치사 to를 쓴다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "The teacher told an interesting story (to / for) us.",
+   "choices": [
+    "to",
+    "for"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "5-4",
+   "label": "05-(4)",
+   "sourceId": "05-(4)",
+   "section": "s5",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 어법상 알맞은 것을 고르시오.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: for. buy는 직접목적어 뒤에 전치사 for를 쓴다. (정답과 해설 10쪽)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "Grandma bought a T-shirt (to / for) me.",
+   "choices": [
+    "to",
+    "for"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 45
+  },
+  {
+   "id": "6-1",
+   "label": "06-(1)",
+   "sourceId": "06-(1)",
+   "section": "s6",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: me the salt. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "그는 나에게 소금을 건네주었다. (the salt / me) He passed _______.",
+   "accept": [
+    "me the salt",
+    "He passed me the salt"
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "6-2",
+   "label": "06-(2)",
+   "sourceId": "06-(2)",
+   "section": "s6",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: dinner for me. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "(for / dinner / me) Dad cooked _______.",
+   "accept": [
+    "dinner for me",
+    "Dad cooked dinner for me"
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "6-3",
+   "label": "06-(3)",
+   "sourceId": "06-(3)",
+   "section": "s6",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: brought me a sandwich. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "(me / brought / a sandwich) Mom _______.",
+   "accept": [
+    "brought me a sandwich",
+    "Mom brought me a sandwich"
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "6-4",
+   "label": "06-(4)",
+   "sourceId": "06-(4)",
+   "section": "s6",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "우리말과 일치하도록 괄호 안의 단어를 배열하여 문장을 완성하시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: wrote letters to Mr. Brown. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "(Mr. Brown / letters / to / wrote) We _______.",
+   "accept": [
+    "wrote letters to Mr. Brown",
+    "We wrote letters to Mr. Brown"
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "7-1",
+   "label": "07-(1)",
+   "sourceId": "07-(1)",
+   "section": "s7",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to. lend는 직접목적어 뒤에 전치사 to를 쓴다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "I lent Alex a popular book. = I lent a popular book _______ Alex.",
+   "accept": [
+    "to"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "7-2",
+   "label": "07-(2)",
+   "sourceId": "07-(2)",
+   "section": "s7",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: for. buy는 직접목적어 뒤에 전치사 for를 쓴다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "My aunt bought me a pair of shoes. = My aunt bought a pair of shoes _______ me.",
+   "accept": [
+    "for"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "7-3",
+   "label": "07-(3)",
+   "sourceId": "07-(3)",
+   "section": "s7",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "두 문장의 의미가 같도록 빈칸에 알맞은 단어를 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to. show는 직접목적어 뒤에 전치사 to를 쓴다. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "The student showed the librarian his student ID card. = The student showed his student ID card _______ the librarian.",
+   "accept": [
+    "to"
+   ],
+   "seconds": 40
+  },
+  {
+   "id": "8",
+   "label": "08",
+   "sourceId": "08",
+   "section": "s8",
+   "sectionTitle": "Grammar Practice",
+   "directionKo": "그림을 보고, 두 문장의 의미가 같도록 빈칸에 알맞은 말을 쓰시오.",
+   "ruleKo": "빈칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "그림을 보고, 두 문장의 의미가 같도록 빈칸에 알맞은 말을 쓰시오.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: a cup for her friend. (정답과 해설 10쪽)",
+   "type": "fill",
+   "promptEn": "The girl made _______ = The girl made her friend a cup.",
+   "accept": [
+    "a cup for her friend"
+   ],
+   "seconds": 50
+  }
+ ]
+}

@@ -137,7 +137,7 @@ function grammarQuick(types, scoreOf) {
 
 async function unit() {
   const b = qs.get("b"), u = qs.get("u");
-  if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u)) return (app.textContent = "Bad link");
+  if (!/^[a-z0-9-]+$/.test(b) || !/^u(?:0[1-9]|1[0-6])$/.test(u)) return (app.textContent = "Bad link");
   const c = await getJSON(`data/${b}/${u}/catalog.json`);
   const done = bekDone(), scores = bekScore();
   const scoreOf = (href) => {
@@ -168,7 +168,7 @@ async function unit() {
         `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
         (badge || `<span class="m">다른 사이트에서 열립니다</span>`) + `</a>`;
     }
-    if (e.href && /^reading\.html\?b=[a-z0-9-]+&u=u0[1-8]$/.test(e.href)) {
+    if (e.href && /^reading\.html\?b=[a-z0-9-]+&u=u(?:0[1-9]|1[0-6])(?:&pack=packs\/[A-Za-z0-9_.-]+\.json)?$/.test(e.href)) {
       return `<a class="ex${isDone ? " done" : ""}" href="${esc(e.href)}">` +
         `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
         (badge || `<span class="m">받아쓰기 · 쓰기 · 시험</span>`) + `</a>`;
@@ -605,7 +605,7 @@ async function play() {
   if (qs.get("demo")) path = "data/_demo/exercises/demo-sample.json";
   else {
     const b = qs.get("b"), u = qs.get("u"), e = qs.get("e");
-    if (!/^[a-z0-9-]+$/.test(b) || !/^u0[1-8]$/.test(u) || !/^[A-Za-z0-9_-]+$/.test(e || "")) return (app.textContent = "Bad link");
+    if (!/^[a-z0-9-]+$/.test(b) || !/^u(?:0[1-9]|1[0-6])$/.test(u) || !/^[A-Za-z0-9_-]+$/.test(e || "")) return (app.textContent = "Bad link");
     path = `data/${b}/${u}/exercises/${e}.json`;
   }
   ex = legacyExercise(await getJSON(path));

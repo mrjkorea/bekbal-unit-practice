@@ -1,0 +1,22 @@
+{
+ "book": "j2-neung",
+ "unit": "u09",
+ "label": "뉴런",
+ "status": "ready",
+ "sections": [
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "영어 문장 + 우리말 · 받아쓰기 · 쓰기 · 시험 · 80% 통과",
+   "exercises": [
+    {
+     "id": "wm-j2-newrun_u10_reading01",
+     "title": "Reading Focus · 문장 받아쓰기 · 쓰기 · 시험",
+     "external": false,
+     "href": "reading.html?b=j2-neung&u=u09&pack=packs/j2-newrun_u10_reading01.json"
+    }
+   ]
+  }
+ ]
+}

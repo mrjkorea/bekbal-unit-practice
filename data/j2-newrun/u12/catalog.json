@@ -1,0 +1,32 @@
+{
+ "book": "j2-newrun",
+ "unit": "u12",
+ "label": "Unit 12 접속사",
+ "status": "coming-soon",
+ "sections": [
+  {
+   "key": "A",
+   "title": "A. 본책",
+   "exercises": []
+  },
+  {
+   "key": "B",
+   "title": "B. Workbook",
+   "exercises": []
+  },
+  {
+   "key": "W",
+   "title": "Word focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  },
+  {
+   "key": "G",
+   "title": "Grammar focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  }
+ ]
+}

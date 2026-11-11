@@ -144,6 +144,11 @@
           "unit": "u08",
           "label": "Lesson 08 Technology All Around Us",
           "status": "ready"
+        },
+        {
+          "unit": "u09",
+          "label": "뉴런",
+          "status": "ready"
         }
       ]
     },
@@ -193,6 +198,233 @@
           "unit": "u08",
           "label": "Lesson 08",
           "status": "ready"
+        }
+      ]
+    },
+    {
+      "slug": "j1-newrun",
+      "title": "중1 뉴런",
+      "grade": "중1",
+      "publisher": "EBS",
+      "author": "한국교육방송공사",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Unit 01 현재시제와 be동사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Unit 02 현재시제와 일반동사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Unit 03 과거시제",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u13",
+          "label": "수행평가 42",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Unit 04 감각동사와 수여동사",
+          "status": "ready"
+        },
+        {
+          "unit": "u05",
+          "label": "Unit 05 현재진행시제",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Unit 06 조동사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u14",
+          "label": "수행평가 80",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Unit 07 명사와 대명사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Unit 08 형용사와 부사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u09",
+          "label": "Unit 09 to부정사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u15",
+          "label": "수행평가 118",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u10",
+          "label": "Unit 10 동명사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u11",
+          "label": "Unit 11 전치사와 접속사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u12",
+          "label": "Unit 12 의문사 의문문",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u16",
+          "label": "수행평가 156",
+          "status": "coming-soon"
+        }
+      ]
+    },
+    {
+      "slug": "j2-newrun",
+      "title": "중2 뉴런",
+      "grade": "중2",
+      "publisher": "EBS",
+      "author": "한국교육방송공사",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Unit 01 현재완료시제",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Unit 02 수동태",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Unit 03 조동사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Unit 04 to부정사(1)",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Unit 05 to부정사(2)",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Unit 06 동명사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Unit 07 분사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Unit 08 5형식 문장",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u09",
+          "label": "Unit 09 대명사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u10",
+          "label": "Unit 10 비교",
+          "status": "ready"
+        },
+        {
+          "unit": "u11",
+          "label": "Unit 11 관계대명사",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u12",
+          "label": "Unit 12 접속사",
+          "status": "coming-soon"
+        }
+      ]
+    },
+    {
+      "slug": "j3-newrun",
+      "title": "중3 뉴런",
+      "grade": "중3",
+      "publisher": "EBS",
+      "author": "한국교육방송공사",
+      "units": [
+        {
+          "unit": "u01",
+          "label": "Unit 01",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u02",
+          "label": "Unit 02",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u03",
+          "label": "Unit 03",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u04",
+          "label": "Unit 04",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u05",
+          "label": "Unit 05",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u06",
+          "label": "Unit 06",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u07",
+          "label": "Unit 07",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u08",
+          "label": "Unit 08",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u09",
+          "label": "Unit 09",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u10",
+          "label": "Unit 10",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u11",
+          "label": "Unit 11",
+          "status": "coming-soon"
+        },
+        {
+          "unit": "u12",
+          "label": "Unit 12",
+          "status": "coming-soon"
         }
       ]
     }

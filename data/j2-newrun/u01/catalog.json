@@ -1,0 +1,32 @@
+{
+ "book": "j2-newrun",
+ "unit": "u01",
+ "label": "Unit 01 현재완료시제",
+ "status": "coming-soon",
+ "sections": [
+  {
+   "key": "A",
+   "title": "A. 본책",
+   "exercises": []
+  },
+  {
+   "key": "B",
+   "title": "B. Workbook",
+   "exercises": []
+  },
+  {
+   "key": "W",
+   "title": "Word focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  },
+  {
+   "key": "G",
+   "title": "Grammar focus",
+   "lane": "focus",
+   "note": "Coming soon.",
+   "exercises": []
+  }
+ ]
+}

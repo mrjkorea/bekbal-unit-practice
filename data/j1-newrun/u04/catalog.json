@@ -1,0 +1,60 @@
+{
+ "book": "j1-newrun",
+ "unit": "u04",
+ "label": "Unit 04 감각동사와 수여동사",
+ "status": "ready",
+ "sections": [
+  {
+   "key": "A",
+   "title": "A. 본책",
+   "exercises": [
+    {
+     "id": "reading-questions",
+     "title": "Reading 확인 문제",
+     "questionCount": 6
+    },
+    {
+     "id": "grammar-practice",
+     "title": "Grammar Practice",
+     "questionCount": 22
+    },
+    {
+     "id": "writing",
+     "title": "Writing",
+     "questionCount": 17
+    }
+   ]
+  },
+  {
+   "key": "B",
+   "title": "B. Workbook",
+   "exercises": [
+    {
+     "id": "wb-writing",
+     "title": "Workbook Writing Practice",
+     "questionCount": 30
+    },
+    {
+     "id": "wb-actual",
+     "title": "Workbook Actual Test",
+     "questionCount": 41,
+     "omittedCount": 1
+    }
+   ]
+  },
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "영어 문장 + 우리말 · 받아쓰기 · 쓰기 · 시험 · 80% 통과",
+   "exercises": [
+    {
+     "id": "wm-j1-newrun_u04_reading01",
+     "title": "Reading Focus · 문장 받아쓰기 · 쓰기 · 시험",
+     "external": false,
+     "href": "reading.html?b=j1-newrun&u=u04"
+    }
+   ]
+  }
+ ]
+}

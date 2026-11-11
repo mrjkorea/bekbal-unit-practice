@@ -1,0 +1,22 @@
+{
+ "book": "j2-newrun",
+ "unit": "u10",
+ "label": "Unit 10 비교",
+ "status": "ready",
+ "sections": [
+  {
+   "key": "R",
+   "title": "Reading focus",
+   "lane": "focus",
+   "note": "영어 문장 + 우리말 · 받아쓰기 · 쓰기 · 시험 · 80% 통과",
+   "exercises": [
+    {
+     "id": "wm-j2-newrun_u10_reading01",
+     "title": "Reading Focus · 문장 받아쓰기 · 쓰기 · 시험",
+     "external": false,
+     "href": "reading.html?b=j2-newrun&u=u10"
+    }
+   ]
+  }
+ ]
+}
