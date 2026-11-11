@@ -106,22 +106,20 @@
    "ko": "~을 나타내다, ~을 의미하다"
   }
  ],
- "noPictures": true,
- "startAt": "dictation",
  "uiLang": "ko",
- "note": "Korean middle-school test pack: English and Korean only, no pictures, no Meet or Learn step, starts at Dictation, then Writing and Test.",
- "steps": [
-  "dictation",
-  "writing",
-  "test"
- ],
- "skipSteps": [
-  "meet",
-  "learn",
-  "match"
- ],
  "langs": [
   "en",
   "ko"
- ]
+ ],
+ "voices": [
+  "us_m",
+  "us_f",
+  "uk_m",
+  "uk_f",
+  "grandma",
+  "leo",
+  "grandpa",
+  "robot"
+ ],
+ "note": "Korean middle-school word pack. English and Korean stay. Students start at Meet the Words, then Learn, then spelling. Eight recorded voices."
 }

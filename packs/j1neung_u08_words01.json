@@ -105,10 +105,19 @@
   }
  ],
  "uiLang": "ko",
- "note": "Korean middle-school test pack: English and Korean only, picture step back on, normal Word Master flow, Korean labels and no language picker.",
  "langs": [
   "en",
   "ko"
  ],
- "tts": true
+ "voices": [
+  "us_m",
+  "us_f",
+  "uk_m",
+  "uk_f",
+  "grandma",
+  "leo",
+  "grandpa",
+  "robot"
+ ],
+ "note": "Korean middle-school word pack. English and Korean stay. Students start at Meet the Words, then Learn, then spelling. Eight recorded voices."
 }
