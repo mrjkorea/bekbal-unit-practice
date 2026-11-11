@@ -51,7 +51,7 @@ function check(name, cond, extra) {
   const r = await env.api.post({ program: "bekbal-reading", itemId: "zz_test_note_2", scoreValue: 4, scoreMax: 5, itemType: "reading_focus" });
   check("post is accepted", r.status === "ok", JSON.stringify(r));
   check("one book row", sent.length === 1, "sent " + sent.length);
-  check("book keeps the id_key, not unknown", sent[0].student_email === "zz test", sent[0].student_email);
+  check("book keeps the id_key, not unknown", sent[0].student_email === "zz_test", sent[0].student_email);
   check("one index row", env.noted.length === 1, "noted " + env.noted.length);
   check("same itemId in both stores", env.noted[0].itemId === sent[0].events[0].item_id, env.noted[0].itemId + " vs " + sent[0].events[0].item_id);
   check("same program in both stores", env.noted[0].program === sent[0].events[0].curriculum_program, env.noted[0].program);

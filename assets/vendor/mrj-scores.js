@@ -4,6 +4,11 @@
    Nothing else. No tunnels. No per-app side sheet.
    Safe on file:// (posts use text/plain so Apps Script needs no CORS preflight).
 
+   Client 2026-11-11-identity (Reg/Metrics): identity_method and
+   identity_confidence are derived from how the student was found, not hardcoded.
+   A signed-in student is mrj_signin/high; a name from opts.student is
+   typed_name/medium; the literal "unknown" is none/low. Field names are unchanged.
+
    Client 2026-11-10-course-unit (Reg/Metrics):
    post() now passes courseName -> course_name, assignmentId -> assignment_id,
    unitId -> unit_id, lessonId -> lesson_id. The receiver writes any key that
@@ -29,6 +34,39 @@
     return (n < 10 ? "0" : "") + n;
   }
 
+  /* One identity for one student. The same normalisation the book uses.
+     2026-11-10 mirror of the receiver's identity rule (Code.gs validatePayload_):
+     a space, a Korean character and any character outside ASCII word shape is
+     rejected by receiver 5.1.0 with "invalid student_email". So the id_key that
+     goes in student_email is reduced to [a-z0-9._-]. The name the student sees
+     still comes from student_name (the raw signed-in string). */
+  function idKey(s) {
+    var v = String(s == null ? "" : s).trim().toLowerCase();
+    if (v.indexOf("@") > 0) {
+      /* An email address is not a name: keep it as an email, cleaned. */
+      var parts = v.split("@");
+      var local = parts[0].replace(/[^a-z0-9._-]+/g, "").slice(0, 40) || "student";
+      var domain = (parts[1] || "").replace(/[^a-z0-9.-]+/g, "").slice(0, 60);
+      return (local + "@" + domain).slice(0, 320);
+    }
+    var key = v.replace(/\s+/g, "_").replace(/[^a-z0-9._-]+/g, "").slice(0, 64);
+    /* A pure-Korean name reduces to nothing. "unknown" keeps the row in the
+       book; the name survives in student_name, which has no shape rule. */
+    if (!/^[a-z0-9]/.test(key)) key = "unknown" + key;
+    key = key.replace(/[^a-z0-9._-]+$/g, "");
+    return key || "unknown";
+  }
+
+  function signedIn() {
+    try {
+      return root.MRJ_AUTH && root.MRJ_AUTH.student
+        ? String(root.MRJ_AUTH.student() || "").trim()
+        : "";
+    } catch (e) {
+      return "";
+    }
+  }
+
   function localDate(d) {
     d = d || new Date();
     return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
@@ -44,46 +82,26 @@
     );
   }
 
-  /* Student key the book and the index both use: lower case, spaces collapsed. */
-  function idKey(s) {
-    return String(s == null ? "" : s).trim().toLowerCase().replace(/\s+/g, " ");
+  /* Attempt number for the attempt_index column, from the option or the app's
+     own metadata. Returns undefined (blank cell) when the app gave neither, so
+     a first try is never mistaken for try 0. */
+  function attemptIndex(opts, meta) {
+    var n = opts.attemptIndex != null ? opts.attemptIndex : meta && meta.attempt;
+    var v = Number(n);
+    return n === "" || n == null || !isFinite(v) || v <= 0 ? undefined : Math.floor(v);
   }
 
-  /* Remember the same item in StudentScoreIndex, which is the store the student
-     My scores page and the teacher dashboard read. Without this call a score is
-     in the book and invisible to both pages (Reg/Metrics 2026-11-11). */
-  function remember(opts, itemId, pct, localDateText) {
-    try {
-      if (!root.MRJ_AUTH || typeof root.MRJ_AUTH.noteScore !== "function") return;
-      if (typeof root.MRJ_AUTH.student !== "function") return;
-      if (!String(root.MRJ_AUTH.student() || "").trim()) return;
-      root.MRJ_AUTH.noteScore({
-        program: opts.program,
-        appName: opts.appName,
-        source: opts.source,
-        bookTitle: opts.bookTitle,
-        unitTitle: opts.unitTitle,
-        itemId: itemId,
-        itemType: opts.itemType,
-        scoreValue: opts.scoreValue,
-        scoreMax: opts.scoreMax,
-        scorePct: pct,
-        correctness: opts.correctness,
-        localDate: localDateText,
-      });
-    } catch (e) {}
-  }
-
-  /* One finished item -> one row in ClassroomMetrics, and the same item in
-     StudentScoreIndex. A post with no signed-in student is refused, not written
-     as "unknown" (Reg/Metrics 2026-11-11). */
+  /* One finished item -> one row in ClassroomMetrics. */
   function post(opts) {
     opts = opts || {};
-    var authed = "";
-    try {
-      authed = root.MRJ_AUTH && root.MRJ_AUTH.student ? root.MRJ_AUTH.student() : "";
-    } catch (e) {}
-    var student = String(authed || opts.student || "").trim();
+    var authStudent = signedIn();
+    var student = authStudent || String(opts.student || "").trim();
+    /* "unknown" is the book's word for a post with no student at all. An app that
+       passes that literal (the news quiz did, to keep a signed-out play) is not a
+       sign-in and not a typed name, so it is labelled none/low below while the play
+       is still recorded (Reg/Metrics 2026-11-11). */
+    var anonymous = !authStudent && student.toLowerCase() === "unknown";
+    /* No student, no row: a score must never land as an orphan. */
     if (!student) return Promise.resolve({ status: "skipped", error: "no student" });
     var key = idKey(student);
     var itemId = String(opts.itemId || uid("item"));
@@ -103,8 +121,8 @@
     if (opts.unitTitle && !meta.unitTitle) meta.unitTitle = opts.unitTitle;
 
     var body = {
-      /* The site identity is a bare id_key (no @). Receiver 5.1.0 stores it as is,
-         so the book keeps the real student instead of "unknown". */
+      /* The site identity is a bare id_key (no @). Receiver 5.1.0 stores it as is;
+         "unknown" is only for a post with no student at all. */
       student_email: (student.indexOf("@") > 0 ? student : key).slice(0, 320),
       student_name: student,
       session_id: [opts.program || "mrj", key, localDate(when)].join("-"),
@@ -120,16 +138,34 @@
           unit_id: opts.unitId || "",
           lesson_id: opts.lessonId || "",
           book_title: opts.bookTitle || "",
-          unit_title: opts.unitTitle || "",
+          /* Receiver 5.1.0 keeps only the columns it knows. unit_title has no
+             column, so send it only when the app really set it. */
+          unit_title: opts.unitTitle || undefined,
           item_id: itemId,
           item_type: opts.itemType || "activity",
           score_value: typeof opts.scoreValue === "number" ? opts.scoreValue : "",
           score_max: typeof opts.scoreMax === "number" ? opts.scoreMax : "",
           score_pct: pct,
           correctness: opts.correctness || "",
-          completed: opts.completed !== false,
-          duration_seconds: opts.durationSeconds || "",
+          /* The attempt number has its own column. Apps pass it as
+             opts.attemptIndex, or inside metadata as `attempt`; without this
+             every re-try lands as try 0 in the book (found on Day 5,
+             2026-11-11). */
+          attempt_index: attemptIndex(opts, meta),
+          /* Every post from this client is a finished item, so completed is true unless
+             the app says otherwise. The receiver writes FALSE when the key is absent,
+             which made finished Day 3 tries read as unfinished (WordMaster,
+             2026-11-11). */
+          completed: typeof opts.completed === "boolean" ? opts.completed : true,
+          duration_seconds:
+            typeof opts.durationSeconds === "number" ? opts.durationSeconds : undefined,
           local_date: localDate(when),
+          /* Provenance for the book: how the student was identified. Derived, never
+             hardcoded (Reg/Metrics 2026-11-11). A real sign-in is mrj_signin/high;
+             a name typed by the app or passed in opts.student is typed_name/medium;
+             the literal "unknown" is none/low. Field names are unchanged. */
+          identity_method: authStudent ? "mrj_signin" : anonymous ? "none" : "typed_name",
+          identity_confidence: authStudent ? "high" : anonymous ? "low" : "medium",
           metadata_json: JSON.stringify(meta),
         },
       ],
@@ -146,13 +182,6 @@
           return { status: "sent, not confirmed" };
         });
       })
-      .then(function (result) {
-        /* The book has the row. Put the same item in StudentScoreIndex, so the
-           student My scores page shows it too. noteScore has its own retry
-           queue, so a network miss here is not lost. */
-        remember(opts, itemId, pct, localDate(when));
-        return result;
-      })
       .catch(function (err) {
         // offline: keep it on the device, flush later
         try {
@@ -160,10 +189,25 @@
           q.push(body);
           localStorage.setItem("mrj.score.queue", JSON.stringify(q.slice(-200)));
         } catch (e) {}
-        /* The item is still the student's work: record it on the index side now,
-           which does not depend on this endpoint. */
-        remember(opts, itemId, pct, localDate(when));
         return { status: "queued", error: String(err && err.message) };
+      })
+      .then(function (res) {
+        /* Day 5 and the other page apps keep a local progress copy for the
+           teacher view. Fire it only when the host app provides the hook, so
+           the shared client stays safe everywhere else. */
+        if (root.MRJ_AUTH && typeof root.MRJ_AUTH.noteScore === "function") {
+          try {
+            root.MRJ_AUTH.noteScore({
+              program: opts.program || "mrj",
+              itemId: itemId,
+              scoreValue: typeof opts.scoreValue === "number" ? opts.scoreValue : "",
+              scoreMax: typeof opts.scoreMax === "number" ? opts.scoreMax : "",
+              scorePct: pct,
+              localDate: localDate(when),
+            });
+          } catch (e) {}
+        }
+        return res;
       });
   }
 
@@ -201,6 +245,7 @@
   }
 
   root.MRJ_SCORES = {
+    attemptIndex: attemptIndex,
     ENDPOINT: ENDPOINT,
     SHEET_ID: SHEET_ID,
     SHEET_URL:
