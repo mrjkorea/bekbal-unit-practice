@@ -1,112 +1,23 @@
 {
  "book": "j2-neung",
  "unit": "u05",
- "label": "Lesson 05 We're All Special",
+ "label": "Lesson 05",
  "status": "coming-soon",
  "sections": [
   {
    "key": "A",
    "title": "A. 본책",
-   "exercises": [
-    {
-     "id": "vocab-check",
-     "title": "Vocabulary 확인 문제",
-     "questionCount": 12
-    },
-    {
-     "id": "vocab-practice",
-     "title": "Vocabulary 실전 문제",
-     "questionCount": 7
-    },
-    {
-     "id": "vocab-advanced",
-     "title": "Vocabulary 심화 문제",
-     "questionCount": 15
-    },
-    {
-     "id": "dialog-detail",
-     "title": "Dialog 자세히 보기",
-     "questionCount": 8
-    },
-    {
-     "id": "dialog-complete",
-     "title": "Dialog 완성하기",
-     "questionCount": 71
-    },
-    {
-     "id": "dialog-order",
-     "title": "Dialog 순서배열하기",
-     "questionCount": 8
-    },
-    {
-     "id": "dialog-practice",
-     "title": "Dialog 실전 문제",
-     "questionCount": 13
-    },
-    {
-     "id": "dialog-advanced",
-     "title": "Dialog 심화 문제",
-     "questionCount": 13
-    },
-    {
-     "id": "grammar-check",
-     "title": "Grammar 확인 문제",
-     "questionCount": 30
-    },
-    {
-     "id": "grammar-practice",
-     "title": "Grammar 실전 문제",
-     "questionCount": 14
-    },
-    {
-     "id": "grammar-advanced",
-     "title": "Grammar 심화 문제",
-     "questionCount": 13
-    },
-    {
-     "id": "reading-content",
-     "title": "Reading 내용 확인하기",
-     "questionCount": 23
-    },
-    {
-     "id": "reading-lexgram",
-     "title": "Reading 적절한 어휘·어법 고르기",
-     "questionCount": 27
-    },
-    {
-     "id": "reading-order",
-     "title": "Reading 순서배열하기",
-     "questionCount": 6
-    },
-    {
-     "id": "reading-writing",
-     "title": "Reading 영작하기",
-     "questionCount": 27
-    },
-    {
-     "id": "reading-practice",
-     "title": "Reading 실전 문제",
-     "questionCount": 15
-    },
-    {
-     "id": "reading-advanced",
-     "title": "Reading 심화 문제",
-     "questionCount": 14
-    }
-   ],
-   "note": "17 of 21 ids built so far: plus-practice, writing-finish, mock-100, mock-high still to come."
+   "exercises": []
   },
   {
    "key": "B",
    "title": "B. X-10 워크북",
-   "exercises": [],
-   "note": "Not built yet."
+   "exercises": []
   },
   {
    "key": "C",
    "title": "C. 실전 테스트",
-   "exercises": [],
-   "note": "Not built yet."
+   "exercises": []
   },
   {
    "key": "W",
@@ -118,13 +29,6 @@
   {
    "key": "G",
    "title": "Grammar focus",
-   "lane": "focus",
-   "note": "Coming soon.",
-   "exercises": []
-  },
-  {
-   "key": "R",
-   "title": "Reading focus",
    "lane": "focus",
    "note": "Coming soon.",
    "exercises": []
