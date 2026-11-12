@@ -60,6 +60,13 @@ textarea:focus { outline:none; border-color:var(--blue); box-shadow:0 0 0 4px rg
 .rf-fb.bad { color:var(--bad); }
 .rf-fb .rf-btn { margin-top:10px; }
 
+/* Jay 2026-11-12: show only the part of the sentence that was wrong */
+.rf-fb-line { margin:12px 0 2px; font-size:.95rem; font-weight:800; color:#5b6b82; }
+.rf-fb-bad .rf-answer, .rf-answer { margin:0 0 4px; font-size:1.25rem; font-weight:800; color:#1e2b3d; line-height:1.5; }
+.rf-answer.mine { color:#8a4b00; }
+.rf-miss { background:#ffe08a; color:#7a3b00; border-radius:4px; padding:0 3px;
+  box-shadow:0 0 0 2px #ffe08a; }
+
 /* the score for the five, kept on screen */
 .rf-card { background:#fff; border:2px solid var(--line); border-radius:20px; padding:22px 22px 24px;
   box-shadow:0 10px 30px rgba(18,35,59,.07); }

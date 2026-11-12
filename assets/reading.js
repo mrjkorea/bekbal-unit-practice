@@ -1,7 +1,8 @@
 /* Reading Focus player — sentences only, no pictures.
    Jay 2026-11-11: each practice is its own five sentences, listed separately.
-   A sentence clears only after two correct typings in a row, in that stage.
-   A miss resets that count and brings the sentence back two places later.
+   Jay 2026-11-12: one correct typing clears a sentence. Two in a row frustrated
+   students, so that rule is gone. A miss marks only the words that were wrong
+   and puts the sentence back two places later.
    The eight recorded voices are on screen. The computer voice plays only when
    that recording file is missing. The score for one practice stays, with restart.
    Old score ids stay book_unit_s1, book_unit_s2, so earlier finishes still match. */
@@ -27,7 +28,8 @@
   var voiceId = localStorage.getItem("rf_voice") || "us_m";
 
   var GROUP = 5;                     // five sentences in one practice
-  var NEED = 2;                      // correct typings in a row before a sentence clears
+  var NEED = 1;                      // Jay 2026-11-12: one correct typing clears the sentence.
+                                     // Twice in a row made students frustrated; the rule is gone.
   var STAGES = ["dictation", "writing", "test"];
   var STAGE_LABEL = { dictation: "받아쓰기", writing: "쓰기", test: "시험" };
 
@@ -118,6 +120,56 @@
     var t = norm(typed);
     if (!t) return false;
     return acceptList(card).some(function (a) { return norm(a) === t; });
+  }
+
+  /* Jay 2026-11-12: mark only the words the student got wrong, so she can see
+     exactly where the mistake is instead of comparing two whole sentences.
+     Words are lined up with a longest-common-subsequence over the normalised
+     tokens; a word outside that line is marked. */
+  function words(text) {
+    return String(text || "").trim().split(/\s+/).filter(function (w) { return w; });
+  }
+  function normWord(w) {
+    return String(w).toLowerCase().replace(/[\u2018\u2019]/g, "'").replace(/[^a-z0-9']/g, "");
+  }
+  function matchMarks(a, b) {
+    var A = a.map(normWord), B = b.map(normWord);
+    var n = A.length, m = B.length;
+    var dp = [];
+    for (var i = 0; i <= n; i++) { dp.push(new Array(m + 1).fill(0)); }
+    for (i = 1; i <= n; i++) {
+      for (var j = 1; j <= m; j++) {
+        dp[i][j] = A[i - 1] && A[i - 1] === B[j - 1]
+          ? dp[i - 1][j - 1] + 1
+          : Math.max(dp[i - 1][j], dp[i][j - 1]);
+      }
+    }
+    var inA = new Array(n).fill(false), inB = new Array(m).fill(false);
+    i = n; j = m;
+    while (i > 0 && j > 0) {
+      if (A[i - 1] && A[i - 1] === B[j - 1]) { inA[i - 1] = true; inB[j - 1] = true; i--; j--; }
+      else if (dp[i - 1][j] >= dp[i][j - 1]) { i--; } else { j--; }
+    }
+    return { a: inA, b: inB };
+  }
+  function markedWords(list, good) {
+    return list.map(function (w, i) {
+      return good[i] ? esc(w) : '<mark class="rf-miss">' + esc(w) + "</mark>";
+    }).join(" ");
+  }
+  /* the correct sentence with the words she missed marked, plus her own sentence */
+  function wrongPartHtml(card, typed) {
+    var answer = acceptList(card)[0];
+    var mine = words(typed);
+    var right = words(answer);
+    if (!mine.length) {
+      return '<p class="rf-fb-line">정답</p><p class="rf-answer">' + esc(answer) + "</p>";
+    }
+    var marks = matchMarks(right, mine);
+    return '<p class="rf-fb-line">내가 쓴 문장</p>' +
+      '<p class="rf-answer mine">' + markedWords(mine, marks.b) + "</p>" +
+      '<p class="rf-fb-line">정답 · 노란 부분이 틀린 곳</p>' +
+      '<p class="rf-answer">' + markedWords(right, marks.a) + "</p>";
   }
   function voiceNow() {
     for (var i = 0; i < VOICES.length; i++) if (VOICES[i].id === voiceId) return VOICES[i];
@@ -382,7 +434,7 @@
       if (streak[current.id] >= NEED) {
         if (!spoiled[current.id]) stageRight[stage]++;
         fb.className = "rf-fb good";
-        fb.innerHTML = queue.length ? "두 번 맞혔습니다. 이 문장은 통과입니다." : "두 번 맞혔습니다. " + STAGE_LABEL[stage] + " 끝.";
+        fb.innerHTML = queue.length ? "정답입니다. 이 문장은 통과입니다." : "정답입니다. " + STAGE_LABEL[stage] + " 끝.";
       } else {
         queue.push(current);
         fb.className = "rf-fb good";
@@ -397,7 +449,7 @@
     spoiled[current.id] = true;
     if (missed.indexOf(current.id) < 0) missed.push(current.id);
     fb.className = "rf-fb bad";
-    fb.innerHTML = "정답: " + esc(acceptList(current)[0]);
+    fb.innerHTML = wrongPartHtml(current, typed);
     var b = document.createElement("button");
     b.className = "rf-btn";
     b.textContent = "다음";
@@ -468,7 +520,7 @@
     scoreEl.textContent = "";
     var html = '<div class="rf-card rf-picker">' +
       '<p class="rf-ask">목소리</p>' + voiceBar() +
-      '<p class="rf-sub">한 연습은 문장 다섯 개입니다. 각 문장을 두 번 정확히 써야 통과합니다.</p>';
+      '<p class="rf-sub">한 연습은 문장 다섯 개입니다. 각 문장을 한 번 정확히 쓰면 통과합니다.</p>';
     for (var i = 0; i < sessions.length; i++) {
       var rec = saved && saved[String(i + 1)];
       var score = rec && typeof rec.pct === "number" ? rec.pct + "%" : "아직 기록 없음";
