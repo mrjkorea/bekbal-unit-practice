@@ -105,11 +105,11 @@
       "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: am worried about. (답지 04)",
+      "explainKo": "정답: am worried. I am worried because he is sick. (답지 04)",
       "type": "fill",
       "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n내 친구가 아파서 걱정이 돼.\n→ I ______ because he is sick.",
       "accept": [
-        "am worried about"
+        "am worried"
       ],
       "phraseBlank": true,
       "seconds": 90
