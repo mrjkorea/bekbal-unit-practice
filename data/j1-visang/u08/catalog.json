@@ -12,14 +12,12 @@
     {
      "id": "vocab-check",
      "title": "Vocabulary 확인 문제",
-     "questionCount": 60,
-     "omittedCount": 0
+     "questionCount": 60
     },
     {
      "id": "vocab-practice",
      "title": "Vocabulary 실전 문제",
-     "questionCount": 3,
-     "omittedCount": 4
+     "questionCount": 7
     },
     {
      "id": "vocab-advanced",
@@ -45,14 +43,12 @@
     {
      "id": "dialog-practice",
      "title": "Dialog 실전 문제",
-     "questionCount": 2,
-     "omittedCount": 12
+     "questionCount": 14
     },
     {
      "id": "dialog-advanced",
      "title": "Dialog 심화 문제",
-     "questionCount": 2,
-     "omittedCount": 11
+     "questionCount": 13
     },
     {
      "id": "grammar-check",
@@ -63,14 +59,12 @@
      "id": "grammar-practice",
      "title": "Grammar 실전 문제",
      "questionCount": 14,
-     "omittedCount": 0,
      "reason": "답 번호는 있으나 보기 영어를 OCR로 확정하지 못해 빈 퀴즈로 열지 않습니다."
     },
     {
      "id": "grammar-advanced",
      "title": "Grammar 심화 문제",
-     "questionCount": 12,
-     "omittedCount": 1,
+     "questionCount": 13,
      "reason": "답 번호는 있으나 보기 영어를 OCR로 확정하지 못해 빈 퀴즈로 열지 않습니다."
     },
     {
@@ -81,7 +75,7 @@
     {
      "id": "reading-lexgram",
      "title": "Reading 적절한 어휘·어법 고르기",
-     "questionCount": 4,
+     "questionCount": 22,
      "omittedCount": 18
     },
     {
@@ -97,7 +91,7 @@
     {
      "id": "reading-practice",
      "title": "Reading 실전 문제",
-     "questionCount": 5,
+     "questionCount": 6,
      "omittedCount": 20
     },
     {
@@ -109,8 +103,7 @@
     {
      "id": "plus-practice",
      "title": "Plus 기타 지문 실전 문제",
-     "questionCount": 2,
-     "omittedCount": 4
+     "questionCount": 6
     },
     {
      "id": "writing-finish",
@@ -127,8 +120,7 @@
     {
      "id": "x10-vocab",
      "title": "어휘 확인 문제",
-     "questionCount": 97,
-     "omittedCount": 0
+     "questionCount": 97
     },
     {
      "id": "x10-dialog-cloze",
