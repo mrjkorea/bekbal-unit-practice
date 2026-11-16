@@ -174,11 +174,19 @@ async function unit() {
         (badge || `<span class="m">받아쓰기 · 쓰기 · 시험</span>`) + `</a>`;
     }
     if (e.deferred) return `<div class="ex off"><span class="t">${esc(e.title)}</span><span class="m">확인 필요</span></div>`;
-    const n = e.questionCount ? ` · ${e.questionCount}문항` : "";
-    const hold = e.omittedCount ? ` · 보류 ${e.omittedCount}` : "";
+    /* Jay 2026-11-16: a practice that is shorter than its book page, or has nothing to answer,
+       must say so on its card. Nothing may look like the whole book exercise when it is not. */
+    const shown = Number(e.questionCount) || 0, held = Number(e.omittedCount) || 0;
+    if (!shown) {
+      return `<div class="ex off"><span class="t">${esc(e.title)}</span>` +
+        `<span class="m">다시 만드는 중 · rebuilding${held ? ` (${held}문항)` : ""}</span></div>`;
+    }
+    const label = held
+      ? `<span class="m">${shown}문항 · 빠진 문항 ${held}개 <b class="part">일부만</b></span>`
+      : `<span class="m">${shown}문항</span>`;
     return `<a class="ex${isDone ? " done" : ""}" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}${grp === "x10" ? "&g=x10" : ""}">` +
       `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
-      `<span class="m">${n.replace(" ·", "")}${hold}</span>` + badge + `</a>`;
+      label + badge + `</a>`;
   };
 
   /* Jay 2026-11-16: X-10 is a different printed book, so its questions never sit in the
@@ -624,6 +632,15 @@ async function play() {
   // Cards held for a re-check are never shown to a student: an empty card is worse than none.
   const heldCount = (ex.questions || []).filter((q) => q.deferred).length;
   if (heldCount) ex.questions = ex.questions.filter((q) => !q.deferred);
+  /* Jay 2026-11-16: a practice with nothing left to answer is never opened, even from an old
+     bookmark, because 0/0 tells a student nothing and looks like a broken test. */
+  if (!(ex.questions || []).length) {
+    const back = qs.get("b") && qs.get("u") ? `unit.html?b=${qs.get("b")}&u=${qs.get("u")}` : "index.html";
+    app.innerHTML = `<p class="crumb"><a href="${back}">← 목록</a></p>` +
+      `<h1 class="practice-title">${esc(ex.title || "Practice")}</h1>` +
+      `<p class="banner">이 연습은 지금 다시 만드는 중입니다. 교재 문제를 새로 옮긴 뒤에 열립니다. · This practice is being rebuilt from the book and is closed for now.</p>`;
+    return;
+  }
   /* The X-10 chip appears only on a real X-10 practice (Jay 2026-11-16). */
   const isX10 = qs.get("g") === "x10" || /^x10-/.test(qs.get("e") || "");
   const sourceChip = () => (isX10 ? el("p", "x10-chip", "X-10 워크북 · 별책 문제입니다") : null);

@@ -17,3 +17,19 @@ Data: `data/books.json`; `data/<book>/u0N/catalog.json`; `data/<book>/u0N/exerci
 
 Catalog sections carry `group`: `"book"` (default) or `"x10"`, and the unit page draws them as two separate blocks — ④ 교재 문제 for 본책, ⑤ X-10 워크북 for the X-10 book. `assets/app.js` puts every section marked `"group":"x10"` (or titled X-10) in ⑤, so an X-10 item can never appear in the book list. The 최종점검 mocks (`final-1..3`, `semester`) are printed in the X-10 booklet, so they live in ⑤ as `D. X-10 최종점검 모의고사`, never under 본책. A practice opened from ⑤ carries `&g=x10` and shows the "X-10 워크북" chip; book practices show no X-10 label. No page header says X-10 unless the page is that workbook.
 `data/_demo/` is a labeled DEMO, not book content.
+
+## Never publish half a practice (Jay 2026-11-16)
+
+A practice is the book page or it is nothing. The audit on 2026-11-16 found 405 book questions
+missing across 46 practices because a two-column page scrambled the choices and the item was
+dropped instead of read from the picture, and nothing compared the finished practice with the book.
+
+Rules, for every new unit and every rebuild:
+
+1. Read the printed page picture. The OCR text is a search aid; the 답지 picture is the only key.
+2. No held items, ever. If one item cannot be keyed with certainty, the practice is not published
+   and its card says 다시 만드는 중.
+3. `python3 scripts/audit-practice-completeness.py --fail-on partial` must pass before a push. It
+   fails on any file with an `omitted` entry or with zero questions.
+4. The card states what it holds: `7문항 · 빠진 문항 8개 일부만`, never a quiet grey 보류.
+5. A practice with no questions cannot be opened, from the list or from an old bookmark.
