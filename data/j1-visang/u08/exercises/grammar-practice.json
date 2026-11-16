@@ -4,78 +4,400 @@
   "book": "중1 비상 황종배",
   "unit": "Lesson 08 For a Better Tomorrow",
   "sourcePages": "pp.204-205",
-  "questionCount": 0,
-  "omitted": [
+  "questionCount": 14,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 고르기 8문항, 쓰기 5문항, 두 칸 1문항입니다. 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+  "questions": [
     {
-      "sourceId": "1",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ to see. come은 to부정사의 부사적 용법(~하기 위해, ~하러)을 쓴다. (교재 p.204 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nI came ______ you in Korea.",
+      "choices": [
+        "see",
+        "sees",
+        "seen",
+        "seeing",
+        "to see"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "2",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② that. know 뒤에 완전한 절이 오므로 접속사 that이다. (교재 p.204 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 들어갈 말로 가장 적절한 것은?\nWe all know ______ reading is important.",
+      "choices": [
+        "if",
+        "that",
+        "what",
+        "where",
+        "because"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "3",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체 또는 고친 말을 쓰시오.",
+      "ruleKo": "문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "sectionInstructionKo": "문장 전체 또는 고친 말을 쓰시오. 문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 쓰기",
+      "explainKo": "정답: I am glad to meet her again. 감정의 원인을 나타내는 to부정사이다. (교재 p.204 03)",
+      "type": "sentence",
+      "promptEn": "다음 괄호 안의 단어들을 이용하여 우리말을 바르게 영작하시오.\n나는 그녀를 다시 만나게 되어 기쁘다. (glad, meet)",
+      "accept": [
+        "I am glad to meet her again.",
+        "I am glad to meet her again",
+        "I'm glad to meet her again.",
+        "I'm glad to meet her again"
+      ],
+      "seconds": 100
     },
     {
-      "sourceId": "4",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ that. 두 문장 모두 that절이 목적어로 이어진다. (교재 p.204 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• I know ______ he is telling the truth.\n• I want to buy ______ dress.",
+      "choices": [
+        "how",
+        "what",
+        "that",
+        "this",
+        "its"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "5",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체 또는 고친 말을 쓰시오.",
+      "ruleKo": "문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "sectionInstructionKo": "문장 전체 또는 고친 말을 쓰시오. 문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 쓰기",
+      "explainKo": "정답: Jane woke up early in order to catch the first bus. in order 뒤에 to부정사가 온다. (교재 p.204 05)",
+      "type": "sentence",
+      "promptEn": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nJane woke up early in order catch the first bus.",
+      "accept": [
+        "Jane woke up early in order to catch the first bus.",
+        "Jane woke up early in order to catch the first bus"
+      ],
+      "seconds": 110
     },
     {
-      "sourceId": "6",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ The truth is that he never lied. 여기서 that은 보어절을 이끈다. 나머지는 목적어절이다. (교재 p.204 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+      "choices": [
+        "① He thinks that I am rude.",
+        "② We believe that you can do it.",
+        "③ The truth is that he never lied.",
+        "④ I promise that I will come back.",
+        "⑤ I heard that the concert was amazing."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "7",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "7",
+      "label": "7",
+      "sourceId": 7,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ to tell / to watch. sorry는 감정의 원인, boring은 형용사를 수식하는 to부정사를 쓴다. (교재 p.204 07)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\n• I was sorry ⓐ ______ her the news.\n• The movie was boring ⓑ ______.",
+      "choices": [
+        "ⓐ tell / ⓑ watch",
+        "ⓐ telling / ⓑ watch",
+        "ⓐ to tell / ⓑ watching",
+        "ⓐ telling / ⓑ watching",
+        "ⓐ to tell / ⓑ to watch"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "8",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ that. I heard that she wrote a book. (교재 p.204 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 우리말을 영작할 때 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?\n나는 그녀가 책을 쓰다 들었다.\n→ I heard ⓐ ______ ______ ______ a book.",
+      "choices": [
+        "① a",
+        "② she",
+        "③ book",
+        "④ that",
+        "⑤ wrote"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "9",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체 또는 고친 말을 쓰시오.",
+      "ruleKo": "문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "sectionInstructionKo": "문장 전체 또는 고친 말을 쓰시오. 문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 쓰기",
+      "explainKo": "정답: She practices hard to ride a bike. practice, hard, bike로 7단어, to부정사의 부사적 용법(목적). (교재 p.205 09)",
+      "type": "sentence",
+      "promptEn": "다음 그림을 보고, 조건에 맞게 문장을 완성하시오.\n조건 1. practice, hard, bike를 이용하여 총 7단어로 쓸 것. (필요시 어형을 바꿀 것) 2. to부정사의 부사적 용법을 사용할 것.\n(그림: 한 여학생이 자전거를 타고 있다.)",
+      "accept": [
+        "She practices hard to ride a bike.",
+        "She practices hard to ride a bike"
+      ],
+      "seconds": 110
     },
     {
-      "sourceId": "10",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "10",
+      "label": "10",
+      "sourceId": 10,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ②. I hope that I will make new friends. (교재 p.205 10)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 문장에서 that이 들어갈 위치로 가장 적절한 곳은?\nI (①) hope (②) I (③) will (④) make (⑤) new friends.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "11",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ She studies hard to solve difficult problems. 「~하기 위해」는 to부정사이다. (교재 p.205 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 우리말을 바르게 영작한 것은?\n그녀는 어려운 문제를 풀기 위해 열심히 공부한다.",
+      "choices": [
+        "She studies hard solve difficult problems.",
+        "She studies hard solving difficult problems.",
+        "She studies hard to solve difficult problems.",
+        "She studies hard to solves difficult problems.",
+        "She studies hard to solving difficult problems."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "12",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "12",
+      "label": "12",
+      "sourceId": 12,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② He reported that moved the house. that절에 주어가 없다. He reported that he moved the house.가 맞다. (교재 p.205 12)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 어법상 어색한 것은?",
+      "choices": [
+        "① The news that she is still in Korea surprises me.",
+        "② He reported that moved the house.",
+        "③ I think that it will rain tomorrow.",
+        "④ I know that I will wake up late.",
+        "⑤ The truth is that she told a lie."
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
     },
     {
-      "sourceId": "13",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s2",
+      "sectionTitle": "Section B · 문장",
+      "directionKo": "문장 전체 또는 고친 말을 쓰시오.",
+      "ruleKo": "문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "sectionInstructionKo": "문장 전체 또는 고친 말을 쓰시오. 문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 쓰기",
+      "explainKo": "정답: I ran fast not to miss the flight. to부정사의 부정은 not to이다. (교재 p.205 13)",
+      "type": "sentence",
+      "promptEn": "다음 우리말을 영작하시오. 주어진 단어 ① to ② not ③ ran ④ fast ⑤ miss를 모두 사용하세요.\n나는 비행기를 놓치지 않기 위해 빠르게 달렸다.",
+      "accept": [
+        "I ran fast not to miss the flight.",
+        "I ran fast not to miss the flight"
+      ],
+      "seconds": 110
     },
     {
-      "sourceId": "14",
-      "reason": "Grammar 실전 보기 순서가 OCR에서 확정되지 않음"
+      "id": "14",
+      "label": "14",
+      "sourceId": 14,
+      "section": "s3",
+      "sectionTitle": "Section C · 두 문장",
+      "directionKo": "보기에서 골라 that절로 두 문장을 쓰시오.",
+      "ruleKo": "보기에서 골라 that을 넣은 문장으로 쓰세요.",
+      "sectionInstructionKo": "보기에서 골라 that절로 두 문장을 쓰시오. 보기에서 골라 that을 넣은 문장으로 쓰세요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 두 칸",
+      "explainKo": "정답: (1) that he is smart (2) that he is musical. 보기에서 골라 that절로 쓴다. (교재 p.205 14)",
+      "type": "parts",
+      "promptEn": "다음 보기에서 적절한 말을 골라 빈칸에 알맞은 말을 쓰시오. (that절의 형태로 쓸 것)\n보기: he is smart / he is kind / he is healthy / he is musical\n(1) Sam likes to solve math problems. I think ______.\n(2) Thomas always plays the piano every weekend. I think ______.",
+      "parts": [
+        {
+          "kind": "fill",
+          "label": "(1) I think ___",
+          "placeholder": "(1) that ...",
+          "accept": [
+            "that he is smart"
+          ]
+        },
+        {
+          "kind": "fill",
+          "label": "(2) I think ___",
+          "placeholder": "(2) that ...",
+          "accept": [
+            "that he is musical"
+          ]
+        }
+      ]
     }
   ],
-  "questions": [],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 문장 전체를 쓰시오. 0문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "sections": [
     {
       "id": "s1",
-      "title": "Section A · 확인된 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 8
+    },
+    {
+      "id": "s2",
+      "title": "Section B · 문장",
+      "directionKo": "문장 전체 또는 고친 말을 쓰시오.",
+      "ruleKo": "문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
       "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 0
+      "answerModeTag": "Type · 쓰기",
+      "instructionKo": "문장 전체 또는 고친 말을 쓰시오. 문장 전체를 달라는 문항은 문장으로, 고친 말을 달라는 문항은 그 말만 쓰세요.",
+      "itemCount": 5
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 두 문장",
+      "directionKo": "보기에서 골라 that절로 두 문장을 쓰시오.",
+      "ruleKo": "보기에서 골라 that을 넣은 문장으로 쓰세요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 두 칸",
+      "instructionKo": "보기에서 골라 that절로 두 문장을 쓰시오. 보기에서 골라 that을 넣은 문장으로 쓰세요.",
+      "itemCount": 1
     }
   ]
 }
