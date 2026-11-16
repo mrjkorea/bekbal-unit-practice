@@ -74,8 +74,7 @@
     {
      "id": "reading-lexgram",
      "title": "Reading 적절한 어휘·어법 고르기",
-     "questionCount": 22,
-     "omittedCount": 18
+     "questionCount": 22
     },
     {
      "id": "reading-order",
@@ -159,14 +158,12 @@
     {
      "id": "mock-100",
      "title": "100발 100중 모의고사",
-     "questionCount": 7,
-     "omittedCount": 18
+     "questionCount": 25
     },
     {
      "id": "mock-high",
      "title": "고득점 모의고사",
-     "questionCount": 5,
-     "omittedCount": 20
+     "questionCount": 25
     }
    ]
   },

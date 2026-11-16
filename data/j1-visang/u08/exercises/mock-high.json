@@ -1,214 +1,702 @@
 {
-  "id": "mock-high",
-  "title": "고득점 모의고사",
-  "book": "중1 비상 황종배",
-  "unit": "Lesson 08 For a Better Tomorrow",
-  "sourcePages": "pp.234-237",
-  "questionCount": 5,
-  "omitted": [
+ "id": "mock-high",
+ "title": "고득점 모의고사",
+ "book": "중1 비상 황종배",
+ "unit": "Lesson 08 For a Better Tomorrow",
+ "sourcePages": "pp.234-237",
+ "questionCount": 25,
+ "omitted": [],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 고득점 모의고사 25문항입니다. 고르기는 누르기만 하면 되고, 쓰기는 답만 쓰세요.",
+ "questions": [
+  {
+   "id": "1",
+   "label": "1",
+   "sourceId": 1,
+   "section": "s2",
+   "type": "fill",
+   "answerMode": "words",
+   "phraseBlank": true,
+   "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오.\n우리는 동시에 달리기 시작했다.\n→ We started running ______ ______ ______.",
+   "accept": [
+    "at the same time"
+   ],
+   "explainKo": "정답: at the same time. '동시에'라는 뜻이다. (교재 p.234 01)",
+   "seconds": 90,
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerModeTag": "Type · 쓰기"
+  },
+  {
+   "id": "2",
+   "label": "2",
+   "sourceId": 2,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "다음 단어의 영영풀이가 잘못된 것은?",
+   "choices": [
+    "blind: unable to see",
+    "race: a contest to see who can go fastest",
+    "carefully: without great attention and caution",
+    "snowy: covered with snow or having a lot of snow falling",
+    "stick: a long and thin piece of wood used for a particular purpose"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ without → with. carefully는 '세심한 주의를 기울이며'이다. (교재 p.234 02)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "3",
+   "label": "3",
+   "sourceId": 3,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "다음 빈칸 ⓐ~ⓔ에 들어갈 말로 적절하지 않은 것은?\n• I tied the box with a ⓐ ______.\n• Please ⓑ ______ out the trash.\n• I ⓒ ______ water every morning.\n• He can ⓓ ______ the violin very well.\n• Can you ⓔ ______ my favorite color?",
+   "choices": [
+    "ⓐ: string",
+    "ⓑ: help",
+    "ⓒ: drink",
+    "ⓓ: play",
+    "ⓔ: guess"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② ⓑ에는 take가 들어가야 한다. take out은 '버리다', help out은 '도와주다'이다. (교재 p.234 03)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "4",
+   "label": "4",
+   "sourceId": 4,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[04-05] 다음 대화를 읽고, 물음에 답하시오.\nM: Susan, are you busy?\nW: ⓐ ______, Dad. Why?\nM: Can you buy some milk and eggs at the store?\nW: Okay.\n\n04 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "Not really",
+    "No problem",
+    "Never mind",
+    "Yes, please",
+    "I'm too busy"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "explainKo": "정답: ① Not really. '별로 바쁘지 않아'라는 뜻이다. (교재 p.234 04)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "5",
+   "label": "5",
+   "sourceId": 5,
+   "section": "s2",
+   "type": "sentence",
+   "answerMode": "words",
+   "promptEn": "05 What will Susan buy for her dad? Answer in English.",
+   "accept": [
+    "She will buy some milk and eggs at the store.",
+    "She will buy some milk and eggs at the store",
+    "She will buy some milk and eggs.",
+    "She'll buy some milk and eggs at the store."
+   ],
+   "explainKo": "정답: She will buy some milk and eggs at the store. (교재 p.234 05)",
+   "seconds": 110,
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerModeTag": "Type · 쓰기"
+  },
+  {
+   "id": "6",
+   "label": "6",
+   "sourceId": 6,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[06-08] 다음 대화를 읽고, 물음에 답하시오. (교재 p.234)\nM: ⓐ ______, Lena?\nW: My family and I ①held a small concert at a children's hospital.\nM: A small concert? That's ②great.\nW: My dad ③played the violin, and my mom played the piano. I sang ④much songs. It was the ⑤best day of the year.\n\n06 위 대화의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "What's your plan for this weekend",
+    "What will you do over the weekend",
+    "What did you do over the weekend",
+    "How did you do at the concert",
+    "What are you going to do next weekend"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ 과거의 경험을 묻고 있으므로 What did you do ~?가 맞다. (교재 p.234 06)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "7",
+   "label": "7",
+   "sourceId": 7,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[06-08] 다음 대화를 읽고, 물음에 답하시오. (교재 p.234)\nM: ⓐ ______, Lena?\nW: My family and I ①held a small concert at a children's hospital.\nM: A small concert? That's ②great.\nW: My dad ③played the violin, and my mom played the piano. I sang ④much songs. It was the ⑤best day of the year.\n\n07 위 대화의 밑줄 친 ①~⑤ 중 어법상 적절하지 않은 것은?",
+   "choices": [
+    "① held",
+    "② great",
+    "③ played",
+    "④ much songs",
+    "⑤ best"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ much → a few. 셀 수 있는 복수 명사 songs에는 few를 쓴다. (교재 p.234 07)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "8",
+   "label": "8",
+   "sourceId": 8,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[06-08] 다음 대화를 읽고, 물음에 답하시오. (교재 p.234)\nM: ⓐ ______, Lena?\nW: My family and I ①held a small concert at a children's hospital.\nM: A small concert? That's ②great.\nW: My dad ③played the violin, and my mom played the piano. I sang ④much songs. It was the ⑤best day of the year.\n\n08 위 대화의 내용과 일치하는 것은?",
+   "choices": [
+    "Lena and her family went to the concert.",
+    "Lena's family visited Lena at the hospital.",
+    "Lena's mother played the violin.",
+    "The concert at the hospital was small.",
+    "Lena thought the concert was boring."
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ 병원에서 열린 콘서트는 규모가 작았다. (교재 p.235 08)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "9",
+   "label": "9",
+   "sourceId": 9,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "다음 중 어법상 틀린 것은?",
+   "choices": [
+    "She was happy to help her friend.",
+    "I walk to school so as to get exercise.",
+    "They built a fence to keep the dog in.",
+    "They moved to the city to find better jobs.",
+    "We followed the rules to not get in trouble."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ to not get → not to get. 부정형 to부정사는 not to로 쓴다. (교재 p.235 09)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "다음 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+   "choices": [
+    "I hope <u>that</u> you get better soon.",
+    "She knows <u>that</u> you are not coming.",
+    "I heard <u>that</u> he did well on the test.",
+    "The problem was <u>that</u> I woke up late.",
+    "We did not know <u>that</u> school was closed today."
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ ④는 보어절을 이끄는 접속사 that이고 나머지는 목적어절이다. (교재 p.235 10)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s2",
+   "type": "sentence",
+   "answerMode": "words",
+   "promptEn": "다음 문장을 조건에 맞게 바꿔 영작하시오.\n[조건] 1. 한 문장으로 쓸 것. 2. in order를 포함하되, to부정사를 사용할 것. 3. 총 9단어로 쓸 것.\nShe wrote it down so that she wouldn't forget.",
+   "accept": [
+    "She wrote it down in order not to forget.",
+    "She wrote it down in order not to forget"
+   ],
+   "explainKo": "정답: She wrote it down in order not to forget. (아홉 단어) (교재 p.235 11)",
+   "seconds": 110,
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerModeTag": "Type · 쓰기"
+  },
+  {
+   "id": "12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "다음 중 어법상 옳은 문장의 개수로 적절한 것은?\nⓐ She was enough kind to help others.\nⓑ I came early to not miss her concert.\nⓒ This is an easy question to answer it.\nⓓ Think positively to keep yourself healthy.\nⓔ The news that she left the town surprised everyone.",
+   "choices": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② 2개. ⓓ와 ⓔ만 옳다. (교재 p.235 12)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s2",
+   "type": "fill",
+   "answerMode": "words",
+   "phraseBlank": true,
+   "promptEn": "다음 대화를 읽고 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.\nA: I think that he is a great singer.\nB: I agree, I also think what he sings very well.\nA: I heard that his new song is really popular.\nB: Oh really? I didn't know that!",
+   "accept": [
+    "that"
+   ],
+   "explainKo": "정답: what → that. think의 목적어절은 that이 이끈다. (교재 p.235 13)",
+   "seconds": 90,
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerModeTag": "Type · 쓰기"
+  },
+  {
+   "id": "14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[14-15] 다음 글을 읽고 물음에 답하시오. (교재 p.236)\nI'm blind. I walk with a stick. One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon. In this event, ⓐ ______.\" Everyone talked about it. I also got interested. \"But can I run?\" I was not sure. So I talked about it with my best friend, Junha. He said, \"Don't worry! I'll run with you.\"\n\n14 윗글의 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "two people run as a team",
+    "friends cannot help each other",
+    "they must finish the race alone",
+    "the fastest person wins the race",
+    "two people will compete for a team"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "explainKo": "정답: ① 두 사람이 한 팀으로 달린다는 내용이다. (교재 p.236 14)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "15",
+   "label": "15",
+   "sourceId": 15,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[14-15] 다음 글을 읽고 물음에 답하시오. (교재 p.236)\nI'm blind. I walk with a stick. One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon. In this event, ⓐ ______.\" Everyone talked about it. I also got interested. \"But can I run?\" I was not sure. So I talked about it with my best friend, Junha. He said, \"Don't worry! I'll run with you.\"\n\n15 윗글을 읽고 다음 ⓐ~ⓓ를 순서대로 바르게 배열한 것은?\nⓐ The writer talked to Junha about the marathon.\nⓑ The writer was unsure about running.\nⓒ The homeroom teacher introduced the Friendship Marathon.\nⓓ Junha said, \"Don't worry! I'll run with you.\"",
+   "choices": [
+    "ⓑ - ⓐ - ⓓ - ⓒ",
+    "ⓑ - ⓒ - ⓐ - ⓓ",
+    "ⓒ - ⓐ - ⓓ - ⓑ",
+    "ⓒ - ⓑ - ⓐ - ⓓ",
+    "ⓒ - ⓑ - ⓓ - ⓐ"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ ⓒ-ⓑ-ⓐ-ⓓ. 소개 → 확신 없음 → 상담 → 약속 순서이다. (교재 p.236 15)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "16",
+   "label": "16",
+   "sourceId": 16,
+   "section": "s2",
+   "type": "sentence",
+   "answerMode": "words",
+   "promptEn": "[16-18] 다음 글을 읽고 물음에 답하시오. (교재 p.236)\nOn the day of the marathon, we tied a string around our fingers to feel each other's movement. I listened to him very carefully and ran with him. The wind was blowing through me and it felt great! At the finish line, everyone cheered for us. I was proud of myself.\nBefore the marathon, ⓐ I thought. I couldn't do it. But now I want to try other things. I think that I can try a bike ride next time!\n\n16 밑줄 친 ⓐ의 두 문장을 that을 이용하여 한 문장으로 완성하시오.",
+   "accept": [
+    "I thought that I couldn't do it.",
+    "I thought that I couldn't do it"
+   ],
+   "explainKo": "정답: I thought that I couldn't do it. (교재 p.236 16)",
+   "seconds": 110,
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerModeTag": "Type · 쓰기"
+  },
+  {
+   "id": "17",
+   "label": "17",
+   "sourceId": 17,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[16-18] 다음 글을 읽고 물음에 답하시오. (교재 p.236)\nOn the day of the marathon, we tied a string around our fingers to feel each other's movement. I listened to him very carefully and ran with him. The wind was blowing through me and it felt great! At the finish line, everyone cheered for us. I was proud of myself.\nBefore the marathon, ⓐ I thought. I couldn't do it. But now I want to try other things. I think that I can try a bike ride next time!\n\n17 윗글의 내용을 바르게 이해하지 못한 사람은?",
+   "choices": [
+    "승연: 손가락에 끈을 묶었구나.",
+    "서영: 끈을 묶은 이유는 서로의 움직임을 느끼려고 한 거야.",
+    "정윤: 바람이 스쳤을 때 마라톤 완주를 포기하고 싶었어.",
+    "은지: 결승선에서 모든 사람들이 그들을 응원했어.",
+    "현서: 마라톤 전에 글쓴이는 자신감이 낮았어."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ it felt great은 즐거웠다는 뜻이지 포기하고 싶었다는 뜻이 아니다. (교재 p.236 17)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "18",
+   "label": "18",
+   "sourceId": 18,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[16-18] 다음 글을 읽고 물음에 답하시오. (교재 p.236)\nOn the day of the marathon, we tied a string around our fingers to feel each other's movement. I listened to him very carefully and ran with him. The wind was blowing through me and it felt great! At the finish line, everyone cheered for us. I was proud of myself.\nBefore the marathon, ⓐ I thought. I couldn't do it. But now I want to try other things. I think that I can try a bike ride next time!\n\n18 What is the writer's feeling at the end of the passage?",
+   "choices": [
+    "bored",
+    "upset",
+    "worried",
+    "confident",
+    "disappointed"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ confident. 다음에 자전거 타기에 도전해 보고 싶다고 했다. (교재 p.236 18)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "19",
+   "label": "19",
+   "sourceId": 19,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오. (교재 p.236)\nAndy and I signed ⓐ ______ for Friendship Marathon. I was his guide runner. We ran together every day with a string. I told him, \"Andy, a bike is ⓑ ______. So let's move to the right.\" As a team, we practiced ⓒhard to win the marathon.\n\n19 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+   "choices": [
+    "ⓐ at / ⓑ come",
+    "ⓐ at / ⓑ to come",
+    "ⓐ up / ⓑ coming",
+    "ⓐ up / ⓑ to come",
+    "ⓐ on / ⓑ coming"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ up / coming. sign up for(~에 등록하다), a bike is coming(자전거가 오고 있다). (교재 p.237 19)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "20",
+   "label": "20",
+   "sourceId": 20,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오. (교재 p.236)\nAndy and I signed ⓐ ______ for Friendship Marathon. I was his guide runner. We ran together every day with a string. I told him, \"Andy, a bike is ⓑ ______. So let's move to the right.\" As a team, we practiced ⓒhard to win the marathon.\n\n20 윗글의 밑줄 친 ⓒhard와 쓰임이 같은 것은?",
+   "choices": [
+    "This test is too hard for me.",
+    "The rock is very hard to break.",
+    "It was a hard decision to make.",
+    "She worked hard to finish her project.",
+    "The bread is so hard that I can't eat it."
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ worked hard. ④만 '열심히'라는 부사이고 나머지는 '어려운·단단한'의 형용사이다. (교재 p.237 20)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "21",
+   "label": "21",
+   "sourceId": 21,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[19-21] 다음 글을 읽고, 물음에 답하시오. (교재 p.236)\nAndy and I signed ⓐ ______ for Friendship Marathon. I was his guide runner. We ran together every day with a string. I told him, \"Andy, a bike is ⓑ ______. So let's move to the right.\" As a team, we practiced ⓒhard to win the marathon.\n\n21 What did the writer do for Andy as a guide runner?",
+   "choices": [
+    "He rode a bike with Andy.",
+    "He watched Andy run alone.",
+    "He ran with Andy with a string.",
+    "He moved the bicycle to the right.",
+    "He joined the marathon instead of Andy."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ He ran with Andy with a string. (교재 p.237 21)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "22",
+   "label": "22",
+   "sourceId": 22,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[22-23] 다음 글을 읽고, 물음에 답하시오. (교재 p.237)\nDuring the marathon, I ①ran with Andy and guided him at the same time. It was ②hard, but we didn't ③stop running. At last, We made it to the finish line! We didn't win the (A)race. But I knew that we did our best. Finishing something was not ④difficult for me. But this time ⑤I did it. I was very happy. Andy looked happy, too.\n\n22 윗글의 밑줄 친 ①~⑤ 중 문맥상 어색한 것은?",
+   "choices": [
+    "① ran",
+    "② hard",
+    "③ stop",
+    "④ difficult",
+    "⑤ I did it"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ difficult. 힘들었지만 해냈다는 흐름이므로 easy가 와야 한다. (교재 p.237 22)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "23",
+   "label": "23",
+   "sourceId": 23,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[22-23] 다음 글을 읽고, 물음에 답하시오. (교재 p.237)\nDuring the marathon, I ①ran with Andy and guided him at the same time. It was ②hard, but we didn't ③stop running. At last, We made it to the finish line! We didn't win the (A)race. But I knew that we did our best. Finishing something was not ④difficult for me. But this time ⑤I did it. I was very happy. Andy looked happy, too.\n\n23 윗글의 밑줄 친 (A)race와 바꿔 쓸 수 있는 것은?",
+   "choices": [
+    "club",
+    "contest",
+    "stick",
+    "holiday",
+    "movement"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② contest. race는 '경주·경쟁'이다. (교재 p.237 23)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "24",
+   "label": "24",
+   "sourceId": 24,
+   "section": "s1",
+   "type": "mc",
+   "select": "one",
+   "answerMode": "choice",
+   "promptEn": "[24-25] 다음 글을 읽고 물음에 답하시오. (교재 p.237)\nTrue Friendship in the Marathon\nThere was a special team in Friendship Marathon. Let's meet Andy, a blind runner, and Junha, a guide runner.\nReporter: Who wanted ①to join the marathon first?\nAndy: I did. I got ②interested in the marathon and talked about it with Junha.\nReporter: What did you say, Junha?\nJunha: I said, \"Don't worry. I'll run with you.\"\nReporter: ③How a great friend! Andy, how did you two run together during the marathon?\nAndy: We ④tied a string around our fingers.\nReporter: I see. Junha, how was the marathon?\nJunha: It was hard, but we ⑤made it to the finish line. I was so happy. Andy looked happy, too.\n\n24 윗글의 밑줄 친 ①~⑤ 중 어법상 어색한 것은?",
+   "choices": [
+    "① to join",
+    "② interested",
+    "③ How",
+    "④ tied",
+    "⑤ made"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ How → What. 감탄문은 What a great friend!로 쓴다. (교재 p.237 24)",
+   "seconds": 45,
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기"
+  },
+  {
+   "id": "25",
+   "label": "25",
+   "sourceId": 25,
+   "section": "s3",
+   "type": "parts",
+   "answerMode": "parts",
+   "seconds": 120,
+   "promptEn": "[24-25] 다음 글을 읽고 물음에 답하시오. (교재 p.237)\nTrue Friendship in the Marathon\nThere was a special team in Friendship Marathon. Let's meet Andy, a blind runner, and Junha, a guide runner.\nReporter: Who wanted ①to join the marathon first?\nAndy: I did. I got ②interested in the marathon and talked about it with Junha.\nReporter: What did you say, Junha?\nJunha: I said, \"Don't worry. I'll run with you.\"\nReporter: ③How a great friend! Andy, how did you two run together during the marathon?\nAndy: We ④tied a string around our fingers.\nReporter: I see. Junha, how was the marathon?\nJunha: It was hard, but we ⑤made it to the finish line. I was so happy. Andy looked happy, too.\n\n25 윗글을 읽고, 다음과 같이 요약할 때 빈칸에 들어갈 적절한 말을 쓰시오.\nAndy and Junha joined the Friendship marathon. Andy wanted to join the event so he talked ______ it to Junha. During the marathon, they ______ a string around their fingers. In the end, they ______ it to the finish line and felt happy.",
+   "parts": [
     {
-      "sourceId": "2",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "첫째 칸 · talked ___ it",
+     "placeholder": "첫째 칸",
+     "accept": [
+      "about"
+     ]
     },
     {
-      "sourceId": "3",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "둘째 칸 · they ___ a string",
+     "placeholder": "둘째 칸",
+     "accept": [
+      "tied"
+     ]
     },
     {
-      "sourceId": "4",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "6",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "7",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "8",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "9",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "10",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "12",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "14",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "15",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "17",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "18",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "19",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "20",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "21",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "22",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "23",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "24",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "25",
-      "reason": "고득점 보기 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "셋째 칸 · they ___ it to the finish line",
+     "placeholder": "셋째 칸",
+     "accept": [
+      "made"
+     ]
     }
-  ],
-  "questions": [
-    {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: at the same time. (답지 pp.234-237 01)",
-      "type": "fill",
-      "promptEn": "동시에. 영어 표현을 쓰시오.",
-      "accept": [
-        "at the same time"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    },
-    {
-      "id": "2",
-      "label": "13",
-      "sourceId": 13,
-      "section": "s1",
-      "sectionTitle": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: what → that. (답지 13)",
-      "type": "fill",
-      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nwhat",
-      "accept": [
-        "that"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "3",
-      "label": "5",
-      "sourceId": 5,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: She(Susan) will buy some milk and eggs at the store. (답지 05)",
-      "type": "sentence",
-      "promptEn": "Susan은 가게에서 우유와 달걀을 살 것이다. 문장 전체를 쓰시오.",
-      "accept": [
-        "Susan will buy some milk and eggs at the store.",
-        "She will buy some milk and eggs at the store."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "4",
-      "label": "11",
-      "sourceId": 11,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: She wrote it down in order not to forget. (답지 11)",
-      "type": "sentence",
-      "promptEn": "그녀는 잊지 않으려고 그것을 적었다. 문장 전체를 쓰시오.",
-      "accept": [
-        "She wrote it down in order not to forget."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "5",
-      "label": "16",
-      "sourceId": 16,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I thought that I couldn't do it. (답지 16)",
-      "type": "sentence",
-      "promptEn": "나는 그것을 할 수 없을 거라고 생각했다. 문장 전체를 쓰시오.",
-      "accept": [
-        "I thought that I couldn't do it."
-      ],
-      "seconds": 110
-    }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 2문항 문장 전체를 쓰시오. 3문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
-    {
-      "id": "s1",
-      "title": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 2
-    },
-    {
-      "id": "s2",
-      "title": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 3
-    }
-  ]
+   ],
+   "explainKo": "정답: about / tied / made. (교재 p.237 25)",
+   "sectionTitle": "Section C · 세 칸",
+   "directionKo": "세 빈칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "각 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "세 빈칸에 들어갈 말을 하나씩 쓰시오. 각 칸에 들어갈 말만 쓰세요.",
+   "answerModeTag": "Type · 세 칸"
+  }
+ ],
+ "sections": [
+  {
+   "title": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "id": "s1",
+   "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "itemCount": 19
+  },
+  {
+   "title": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "id": "s2",
+   "instructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "itemCount": 5
+  },
+  {
+   "title": "Section C · 세 칸",
+   "directionKo": "세 빈칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "각 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 세 칸",
+   "id": "s3",
+   "instructionKo": "세 빈칸에 들어갈 말을 하나씩 쓰시오. 각 칸에 들어갈 말만 쓰세요.",
+   "itemCount": 1
+  }
+ ]
 }
