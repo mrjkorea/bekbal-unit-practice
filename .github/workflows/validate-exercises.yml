@@ -1,0 +1,21 @@
+name: validate exercises
+
+# Jay 2026-11-14: an item asked for "to go" and marked the student wrong.
+# Every push that touches data/ runs the key checker, so a broken item shows a
+# red X here before it can reach a student.
+on:
+  push:
+    paths:
+      - "data/**"
+      - "scripts/validate-exercises.py"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/validate-exercises.py
