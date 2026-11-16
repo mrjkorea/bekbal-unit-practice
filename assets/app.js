@@ -736,6 +736,17 @@ async function play() {
     if (!reveal) {
       app.appendChild(el("p", null, `80% 이상이 되어야 통과입니다. 다시 풀어 보세요. 남은 기회 ${MAX_ATTEMPTS - attempts}번.`));
       if (mistakes) {
+        /* Jay 2026-11-14: a failed try must show WHICH questions were wrong, and
+           must not show the answers yet. Numbers only, so the next try is still
+           a real try; answers and explanations come after the last attempt. */
+        const wrongNow = res.filter((r) => !r.ok);
+        const nums = wrongNow.map((r) => r.q.label || r.q.id || "").filter(Boolean);
+        const line = el("p", "wrong-list");
+        line.appendChild(el("b", null, "틀린 문제 번호: "));
+        line.appendChild(document.createTextNode(nums.join(", ")));
+        line.appendChild(el("br"));
+        line.appendChild(el("span", "sub", "정답과 해설은 세 번의 시도가 끝난 뒤에 나옵니다."));
+        app.appendChild(line);
         const box = el("div", "remind");
         box.innerHTML = REMIND;
         app.appendChild(box);
