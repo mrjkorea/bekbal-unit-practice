@@ -108,20 +108,30 @@ def page_text(text, exercise):
 
 
 def check(ex, cat_ex, texts):
-    qs = ex.get("questions") or []
+    qs_all = ex.get("questions") or []
+    # A card marked deferred is drawn by nobody: play.html filters it out and shows a
+    # "held for a book check" banner. It is therefore not a question a student can
+    # answer, and counting it as shown was the same quiet shortage Jay flagged.
+    deferred = [q for q in qs_all if q.get("deferred")]
+    qs = [q for q in qs_all if not q.get("deferred")]
     omitted = [o for o in (ex.get("omitted") or []) if isinstance(o, dict)]
-    shown, held = len(qs), len(omitted)
+    shown, held = len(qs), len(omitted) + len(deferred)
     issues = []
+    if deferred:
+        issues.append(("DEFERRED", f"{len(deferred)} card(s) held for a book check, so a student gets {shown}"))
     if shown == 0:
         issues.append(("EMPTY", f"0 questions, {held} held"))
     elif held:
-        issues.append(("PARTIAL", f"{shown} shown, {held} held, book page has {shown + held}"))
+        detail = f"{shown} shown, {held} held"
+        if deferred:
+            detail += f" ({len(deferred)} of them marked deferred)"
+        issues.append(("PARTIAL", detail + f", book page has {shown + held}"))
     if cat_ex is not None and not any(q.get("type") == "match" for q in qs):
         want = cat_ex.get("questionCount")
         if isinstance(want, int) and want != shown:
-            issues.append(("COUNT", f"catalog says {want}, file has {shown}"))
+            issues.append(("COUNT", f"catalog card says {want} questions, a student is drawn {shown}"))
         if isinstance(cat_ex.get("omittedCount"), int) and cat_ex["omittedCount"] != held:
-            issues.append(("COUNT", f"catalog holds {cat_ex['omittedCount']}, file holds {held}"))
+            issues.append(("COUNT", f"catalog holds {cat_ex['omittedCount']}, a student is not drawn {held}"))
     text = texts.get(book_key_of(ex))
     if text is not None and qs:
         page = page_text(text, ex)
@@ -197,13 +207,15 @@ def main():
                              "shown": shown, "held": held, "group": sec.get("group", "book"),
                              "issues": issues})
 
-    order = {"EMPTY": 0, "MISSING": 1, "PARTIAL": 2, "PROVENANCE": 3, "COUNT": 4}
+    order = {"EMPTY": 0, "MISSING": 1, "PARTIAL": 2, "DEFERRED": 3, "PROVENANCE": 4, "COUNT": 5}
     total = len(rows)
     taught = sum(r["shown"] for r in rows)
     held = sum(r["held"] for r in rows)
     empty = [r for r in rows if any(i[0] == "EMPTY" for i in r["issues"])]
     missing = [r for r in rows if any(i[0] == "MISSING" for i in r["issues"])]
     partial = [r for r in rows if any(i[0] == "PARTIAL" for i in r["issues"])]
+    defr = [r for r in rows if any(i[0] == "DEFERRED" for i in r["issues"])]
+    deferred_cards = sum(int(i[1].split()[0]) for r in defr for i in r["issues"] if i[0] == "DEFERRED")
     prov = [r for r in rows if any(i[0] == "PROVENANCE" for i in r["issues"])]
     count = [r for r in rows if any(i[0] == "COUNT" for i in r["issues"])]
 
@@ -216,11 +228,13 @@ def main():
     L.append(f"- EMPTY (nothing to answer): {len(empty)}")
     L.append(f"- MISSING file: {len(missing)}")
     L.append(f"- PARTIAL (book page has more): {len(partial)}")
+    L.append(f"- DEFERRED (card marked held for a book check, so it is not drawn): "
+             f"{len(defr)} practices, {deferred_cards} cards")
     L.append(f"- PROVENANCE (card text not on the page it claims): {len(prov)}")
     L.append(f"- COUNT (catalog and file disagree): {len(count)}")
     L.append("")
     for label, group in (("EMPTY", empty), ("MISSING", missing), ("PARTIAL", partial),
-                         ("PROVENANCE", prov), ("COUNT", count)):
+                         ("DEFERRED", defr), ("PROVENANCE", prov), ("COUNT", count)):
         if not group:
             continue
         L.append(f"## {label}")

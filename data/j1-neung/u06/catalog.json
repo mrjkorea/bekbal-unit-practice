@@ -22,8 +22,8 @@
     {
      "id": "vocab-advanced",
      "title": "Vocabulary 심화 문제",
-     "questionCount": 18,
-     "omittedCount": 1
+     "questionCount": 16,
+     "omittedCount": 3
     },
     {
      "id": "dialog-detail",
@@ -43,14 +43,14 @@
     {
      "id": "dialog-practice",
      "title": "Dialog 실전 문제",
-     "questionCount": 14,
-     "omittedCount": 1
+     "questionCount": 13,
+     "omittedCount": 2
     },
     {
      "id": "dialog-advanced",
      "title": "Dialog 심화 문제",
-     "questionCount": 13,
-     "omittedCount": 2
+     "questionCount": 12,
+     "omittedCount": 3
     },
     {
      "id": "grammar-check",
@@ -103,12 +103,14 @@
     {
      "id": "plus-practice",
      "title": "Plus 기타 지문 실전 문제",
-     "questionCount": 12
+     "questionCount": 11,
+     "omittedCount": 1
     },
     {
      "id": "writing-finish",
      "title": "서술형 끝내기",
-     "questionCount": 38
+     "questionCount": 37,
+     "omittedCount": 1
     },
     {
      "id": "mock-100",
@@ -173,19 +175,20 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "questionCount": 28,
-     "omittedCount": 3
+     "questionCount": 26,
+     "omittedCount": 5
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "questionCount": 27
+     "questionCount": 26,
+     "omittedCount": 1
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "questionCount": 21,
-     "omittedCount": 4
+     "questionCount": 19,
+     "omittedCount": 6
     }
    ],
    "group": "x10"

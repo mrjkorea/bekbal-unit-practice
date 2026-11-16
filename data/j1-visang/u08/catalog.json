@@ -30,20 +30,17 @@
     {
      "id": "dialog-detail",
      "title": "Dialog 자세히 보기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "dialog-complete",
      "title": "Dialog 완성하기",
-     "questionCount": 88,
-     "omittedCount": 0
+     "questionCount": 88
     },
     {
      "id": "dialog-order",
      "title": "Dialog 순서배열하기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "dialog-practice",
@@ -60,8 +57,7 @@
     {
      "id": "grammar-check",
      "title": "Grammar 확인 문제",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 30
     },
     {
      "id": "grammar-practice",
@@ -82,32 +78,29 @@
     {
      "id": "reading-content",
      "title": "Reading 내용 확인하기",
-     "questionCount": 20,
-     "omittedCount": 0
+     "questionCount": 20
     },
     {
      "id": "reading-lexgram",
      "title": "Reading 적절한 어휘·어법 고르기",
-     "questionCount": 22,
-     "omittedCount": 0
+     "questionCount": 4,
+     "omittedCount": 18
     },
     {
      "id": "reading-order",
      "title": "Reading 순서배열하기",
-     "questionCount": 22,
-     "omittedCount": 0
+     "questionCount": 22
     },
     {
      "id": "reading-writing",
      "title": "Reading 영작하기",
-     "questionCount": 22,
-     "omittedCount": 0
+     "questionCount": 22
     },
     {
      "id": "reading-practice",
      "title": "Reading 실전 문제",
-     "questionCount": 6,
-     "omittedCount": 19
+     "questionCount": 5,
+     "omittedCount": 20
     },
     {
      "id": "reading-advanced",
@@ -118,8 +111,8 @@
     {
      "id": "plus-practice",
      "title": "Plus 기타 지문 실전 문제",
-     "questionCount": 4,
-     "omittedCount": 2
+     "questionCount": 2,
+     "omittedCount": 4
     },
     {
      "id": "writing-finish",
@@ -142,26 +135,22 @@
     {
      "id": "x10-dialog-cloze",
      "title": "대화 빈칸 완성하기",
-     "questionCount": 75,
-     "omittedCount": 0
+     "questionCount": 75
     },
     {
      "id": "x10-dialog-write",
      "title": "대화 영작하기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "x10-grammar",
      "title": "핵심 Grammar 확인 문제",
-     "questionCount": 37,
-     "omittedCount": 0
+     "questionCount": 37
     },
     {
      "id": "x10-reading-sentence",
      "title": "Reading 문장 완성하기",
-     "questionCount": 128,
-     "omittedCount": 0
+     "questionCount": 128
     },
     {
      "id": "x10-reading-cloze",
@@ -172,8 +161,7 @@
     {
      "id": "x10-review",
      "title": "핵심 문장 Review",
-     "questionCount": 24,
-     "omittedCount": 0
+     "questionCount": 24
     }
    ],
    "group": "x10"

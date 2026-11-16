@@ -17,7 +17,8 @@
     {
      "id": "vocab-practice",
      "title": "Vocabulary 실전 문제",
-     "questionCount": 7
+     "questionCount": 5,
+     "omittedCount": 2
     },
     {
      "id": "vocab-advanced",
@@ -32,12 +33,14 @@
     {
      "id": "grammar-practice",
      "title": "Grammar 실전 문제",
-     "questionCount": 14
+     "questionCount": 13,
+     "omittedCount": 1
     },
     {
      "id": "grammar-advanced",
      "title": "Grammar 심화 문제",
-     "questionCount": 14
+     "questionCount": 13,
+     "omittedCount": 1
     },
     {
      "id": "reading-content",
@@ -120,12 +123,14 @@
     {
      "id": "mock-100",
      "title": "100발 100중 모의고사",
-     "questionCount": 27
+     "questionCount": 25,
+     "omittedCount": 2
     },
     {
      "id": "mock-high",
      "title": "고득점 모의고사",
-     "questionCount": 26
+     "questionCount": 24,
+     "omittedCount": 2
     }
    ]
   },
@@ -137,22 +142,26 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "questionCount": 30
+     "questionCount": 27,
+     "omittedCount": 3
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "questionCount": 27
+     "questionCount": 25,
+     "omittedCount": 2
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "questionCount": 26
+     "questionCount": 25,
+     "omittedCount": 1
     },
     {
      "id": "semester",
      "title": "2학기 모의고사",
-     "questionCount": 29
+     "questionCount": 28,
+     "omittedCount": 1
     }
    ]
   },

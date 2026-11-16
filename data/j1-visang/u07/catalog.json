@@ -18,8 +18,8 @@
     {
      "id": "vocab-practice",
      "title": "Vocabulary 실전 문제",
-     "questionCount": 7,
-     "omittedCount": 0
+     "questionCount": 6,
+     "omittedCount": 1
     },
     {
      "id": "vocab-advanced",
@@ -30,38 +30,34 @@
     {
      "id": "dialog-detail",
      "title": "Dialog 자세히 보기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "dialog-complete",
      "title": "Dialog 완성하기",
-     "questionCount": 80,
-     "omittedCount": 0
+     "questionCount": 80
     },
     {
      "id": "dialog-order",
      "title": "Dialog 순서배열하기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "dialog-practice",
      "title": "Dialog 실전 문제",
-     "questionCount": 4,
-     "omittedCount": 10
+     "questionCount": 3,
+     "omittedCount": 11
     },
     {
      "id": "dialog-advanced",
      "title": "Dialog 심화 문제",
-     "questionCount": 5,
-     "omittedCount": 9
+     "questionCount": 3,
+     "omittedCount": 11
     },
     {
      "id": "grammar-check",
      "title": "Grammar 확인 문제",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 30
     },
     {
      "id": "grammar-practice",
@@ -78,32 +74,30 @@
     {
      "id": "reading-content",
      "title": "Reading 내용 확인하기",
-     "questionCount": 20,
-     "omittedCount": 0
+     "questionCount": 19,
+     "omittedCount": 1
     },
     {
      "id": "reading-lexgram",
      "title": "Reading 적절한 어휘·어법 고르기",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 14,
+     "omittedCount": 16
     },
     {
      "id": "reading-order",
      "title": "Reading 순서배열하기",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 30
     },
     {
      "id": "reading-writing",
      "title": "Reading 영작하기",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 30
     },
     {
      "id": "reading-practice",
      "title": "Reading 실전 문제",
-     "questionCount": 2,
-     "omittedCount": 23
+     "questionCount": 1,
+     "omittedCount": 24
     },
     {
      "id": "reading-advanced",
@@ -114,14 +108,14 @@
     {
      "id": "plus-practice",
      "title": "Plus 기타 지문 실전 문제",
-     "questionCount": 3,
-     "omittedCount": 3
+     "questionCount": 2,
+     "omittedCount": 4
     },
     {
      "id": "writing-finish",
      "title": "서술형 끝내기",
-     "questionCount": 14,
-     "omittedCount": 12
+     "questionCount": 13,
+     "omittedCount": 13
     }
    ]
   },
@@ -138,38 +132,32 @@
     {
      "id": "x10-dialog-cloze",
      "title": "대화 빈칸 완성하기",
-     "questionCount": 111,
-     "omittedCount": 0
+     "questionCount": 111
     },
     {
      "id": "x10-dialog-write",
      "title": "대화 영작하기",
-     "questionCount": 10,
-     "omittedCount": 0
+     "questionCount": 10
     },
     {
      "id": "x10-grammar",
      "title": "핵심 Grammar 확인 문제",
-     "questionCount": 36,
-     "omittedCount": 0
+     "questionCount": 36
     },
     {
      "id": "x10-reading-sentence",
      "title": "Reading 문장 완성하기",
-     "questionCount": 30,
-     "omittedCount": 0
+     "questionCount": 30
     },
     {
      "id": "x10-reading-cloze",
      "title": "Reading 빈칸 완성하기",
-     "questionCount": 122,
-     "omittedCount": 0
+     "questionCount": 122
     },
     {
      "id": "x10-review",
      "title": "핵심 문장 Review",
-     "questionCount": 24,
-     "omittedCount": 0
+     "questionCount": 24
     }
    ],
    "group": "x10"
@@ -187,8 +175,8 @@
     {
      "id": "mock-high",
      "title": "고득점 모의고사",
-     "questionCount": 7,
-     "omittedCount": 18
+     "questionCount": 6,
+     "omittedCount": 19
     }
    ]
   },

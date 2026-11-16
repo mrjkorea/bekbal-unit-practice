@@ -21,7 +21,7 @@
     {
      "id": "vocab-advanced",
      "title": "Vocabulary 심화 문제",
-     "questionCount": 14
+     "questionCount": 15
     },
     {
      "id": "dialog-detail",
@@ -41,7 +41,7 @@
     {
      "id": "dialog-practice",
      "title": "Dialog 실전 문제",
-     "questionCount": 13
+     "questionCount": 14
     },
     {
      "id": "dialog-advanced",
@@ -56,12 +56,12 @@
     {
      "id": "grammar-practice",
      "title": "Grammar 실전 문제",
-     "questionCount": 15
+     "questionCount": 17
     },
     {
      "id": "grammar-advanced",
      "title": "Grammar 심화 문제",
-     "questionCount": 13
+     "questionCount": 14
     },
     {
      "id": "reading-content",
@@ -86,7 +86,7 @@
     {
      "id": "reading-practice",
      "title": "Reading 실전 문제",
-     "questionCount": 24
+     "questionCount": 25
     },
     {
      "id": "reading-advanced",
@@ -106,7 +106,7 @@
     {
      "id": "mock-100",
      "title": "100발 100중 모의고사",
-     "questionCount": 24
+     "questionCount": 25
     },
     {
      "id": "mock-high",
@@ -164,17 +164,17 @@
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",
-     "questionCount": 26
+     "questionCount": 29
     },
     {
      "id": "final-2",
      "title": "최종점검 모의고사 2회",
-     "questionCount": 26
+     "questionCount": 27
     },
     {
      "id": "final-3",
      "title": "최종점검 모의고사 3회",
-     "questionCount": 24
+     "questionCount": 26
     }
    ],
    "group": "x10"
