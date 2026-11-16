@@ -154,11 +154,12 @@
      "title": "핵심 문장 Review",
      "questionCount": 24
     }
-   ]
+   ],
+   "group": "x10"
   },
   {
    "key": "C",
-   "title": "C. 실전 테스트",
+   "title": "C. X-10 최종점검 모의고사",
    "exercises": [
     {
      "id": "final-1",
@@ -175,7 +176,8 @@
      "title": "최종점검 모의고사 3회",
      "questionCount": 19
     }
-   ]
+   ],
+   "group": "x10"
   },
   {
    "key": "W",

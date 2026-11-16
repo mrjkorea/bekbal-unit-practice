@@ -175,11 +175,12 @@
      "questionCount": 24,
      "omittedCount": 0
     }
-   ]
+   ],
+   "group": "x10"
   },
   {
    "key": "C",
-   "title": "C. 모의고사",
+   "title": "C. 본책 모의고사",
    "exercises": [
     {
      "id": "mock-100",
@@ -192,7 +193,14 @@
      "title": "고득점 모의고사",
      "questionCount": 5,
      "omittedCount": 20
-    },
+    }
+   ]
+  },
+  {
+   "key": "D",
+   "title": "D. X-10 최종점검 모의고사",
+   "group": "x10",
+   "exercises": [
     {
      "id": "final-1",
      "title": "최종점검 모의고사 1회",

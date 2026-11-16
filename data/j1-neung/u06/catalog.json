@@ -163,11 +163,12 @@
      "questionCount": 24,
      "omittedCount": 1
     }
-   ]
+   ],
+   "group": "x10"
   },
   {
    "key": "C",
-   "title": "C. 모의고사",
+   "title": "C. X-10 최종점검 모의고사",
    "exercises": [
     {
      "id": "final-1",
@@ -186,7 +187,8 @@
      "questionCount": 21,
      "omittedCount": 4
     }
-   ]
+   ],
+   "group": "x10"
   },
   {
    "key": "W",

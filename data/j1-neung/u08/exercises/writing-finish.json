@@ -445,6 +445,26 @@
       "seconds": 60
     },
     {
+      "id": "19-2",
+      "label": "19-2",
+      "sourceId": "19-2",
+      "section": "s1",
+      "sectionTitle": "Section A · 서술형",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "answerMode": "words",
+      "answerModeTag": "Type · 빈칸 말만",
+      "explainKo": "정답: (2) make. doesn’t 뒤에는 동사원형 make를 쓴다. (답지 37쪽)",
+      "type": "fill",
+      "promptEn": "[16-19] 다음 글을 읽고 물음에 답하시오.\nOn her way to school, her neighbor said, “Good morning, Perfect Girl.” ⓐ사람들은 Beatrice를 “완벽한 소녀”라고 불렀다 because she never made mistakes. “Are you ready for tonight’s talent show?” her neighbor asked. Beatrice just smiled. She was a juggling champion. She won the ⓑ ______ every year. ⓒHow wonderful she was!\n\n19 윗글을 읽고, 빈칸에 알맞은 말을 쓰시오.\nPeople (1) called Beatrice “Perfect Girl” because she doesn’t (2) ______ mistakes.\n((2)에 들어갈 말)",
+      "accept": [
+        "make"
+      ],
+      "phraseBlank": false,
+      "seconds": 60
+    },
+    {
       "id": "20",
       "label": "20",
       "sourceId": 20,
@@ -563,26 +583,6 @@
         "Now people no longer call her \"Perfect Girl\""
       ],
       "seconds": 110
-    },
-    {
-      "id": "19-2",
-      "label": "19-2",
-      "sourceId": "19-2",
-      "section": "s1",
-      "sectionTitle": "Section A · 서술형",
-      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: (2) make. doesn’t 뒤에는 동사원형 make를 쓴다. (답지 37쪽)",
-      "type": "fill",
-      "promptEn": "[16-19] 다음 글을 읽고 물음에 답하시오.\nOn her way to school, her neighbor said, “Good morning, Perfect Girl.” ⓐ사람들은 Beatrice를 “완벽한 소녀”라고 불렀다 because she never made mistakes. “Are you ready for tonight’s talent show?” her neighbor asked. Beatrice just smiled. She was a juggling champion. She won the ⓑ ______ every year. ⓒHow wonderful she was!\n\n19 윗글을 읽고, 빈칸에 알맞은 말을 쓰시오.\nPeople (1) called Beatrice “Perfect Girl” because she doesn’t (2) ______ mistakes.\n((2)에 들어갈 말)",
-      "accept": [
-        "make"
-      ],
-      "phraseBlank": false,
-      "seconds": 60
     }
   ]
 }

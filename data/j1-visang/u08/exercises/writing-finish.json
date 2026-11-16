@@ -101,25 +101,6 @@
   ],
   "questions": [
     {
-      "id": "1",
-      "label": "19",
-      "sourceId": 19,
-      "section": "s1",
-      "sectionTitle": "Section A · 확인된 서술",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I thought that I couldn't do it. (답지 서술형 19)",
-      "type": "sentence",
-      "promptEn": "나는 그것을 할 수 없을 거라고 생각했다.",
-      "accept": [
-        "I thought that I couldn't do it."
-      ],
-      "seconds": 110
-    },
-    {
       "id": "2",
       "label": "18",
       "sourceId": 18,
@@ -135,6 +116,25 @@
       "promptEn": "그들은 마라톤에서 우승하기 위해 열심히 연습했다.",
       "accept": [
         "They practiced hard to win the marathon."
+      ],
+      "seconds": 110
+    },
+    {
+      "id": "1",
+      "label": "19",
+      "sourceId": 19,
+      "section": "s1",
+      "sectionTitle": "Section A · 확인된 서술",
+      "directionKo": "문장 전체를 쓰시오.",
+      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+      "answerMode": "sentence",
+      "answerModeTag": "Type · 문장 전체",
+      "explainKo": "정답: I thought that I couldn't do it. (답지 서술형 19)",
+      "type": "sentence",
+      "promptEn": "나는 그것을 할 수 없을 거라고 생각했다.",
+      "accept": [
+        "I thought that I couldn't do it."
       ],
       "seconds": 110
     }

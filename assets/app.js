@@ -156,7 +156,7 @@ async function unit() {
   let gmap = null;
   try { const g = await getJSON("data/grammar-focus.json"); gmap = (g && g[b + "/" + u]) || null; } catch (e) { gmap = null; }
 
-  const card = (e) => {
+  const card = (e, grp) => {
     const key = b + "|" + u + "|" + e.id;
     const ext = exScore(e);
     const isDone = !!done[key] || !!ext;
@@ -176,17 +176,22 @@ async function unit() {
     if (e.deferred) return `<div class="ex off"><span class="t">${esc(e.title)}</span><span class="m">확인 필요</span></div>`;
     const n = e.questionCount ? ` · ${e.questionCount}문항` : "";
     const hold = e.omittedCount ? ` · 보류 ${e.omittedCount}` : "";
-    return `<a class="ex${isDone ? " done" : ""}" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}">` +
+    return `<a class="ex${isDone ? " done" : ""}" href="play.html?b=${b}&u=${u}&e=${encodeURIComponent(e.id)}${grp === "x10" ? "&g=x10" : ""}">` +
       `<span class="t">${isDone ? "✓ " : ""}${esc(e.title)}</span>` +
       `<span class="m">${n.replace(" ·", "")}${hold}</span>` + badge + `</a>`;
   };
 
-  const buckets = { vocab: [], reading: [], grammar: [], book: [] };
+  /* Jay 2026-11-16: X-10 is a different printed book, so its questions never sit in the
+     book group. A section marked "group":"x10" (or titled X-10) goes to its own ⑤ section,
+     and the 최종점검 mocks printed in the X-10 booklet go there too, not with 본책. */
+  const buckets = { vocab: [], reading: [], grammar: [], book: [], x10: [] };
   (c.sections || []).forEach((s) => {
     const key = focusOf(s.title);
     const items = s.exercises || [];
-    if (key === "book") buckets.book.push({ title: s.title || "교재", exercises: items });
-    else items.forEach((e) => buckets[key].push(e));
+    if (key === "book") {
+      const grp = s.group === "x10" || (!s.group && /X-10/i.test(s.title || "")) ? "x10" : "book";
+      buckets[grp].push({ title: s.title || "교재", exercises: items });
+    } else items.forEach((e) => buckets[key].push(e));
   });
 
   const countOf = (list) => {
@@ -209,7 +214,7 @@ async function unit() {
       const quick = grammarQuick(gmap, scoreOf);
       let body = quick;
       if (more.length) {
-        body += `<div class="gq-sub">추가 연습 · More practice</div><div class="gq-more">` + more.map(card).join("") + `</div>`;
+        body += `<div class="gq-sub">추가 연습 · More practice</div><div class="gq-more">` + more.map((e) => card(e)).join("") + `</div>`;
       }
       const cnt = list.length ? countOf(list) : "";
       html += `<section class="focus grammar"><div class="focus-head">${f.title}` +
@@ -218,18 +223,25 @@ async function unit() {
     }
     html += `<section class="focus ${f.key}"><div class="focus-head">${f.title}` +
       `<span class="cnt">${countOf(list)}</span></div><div class="focus-body">` +
-      (list.length ? list.map(card).join("") : soon) + `</div></section>`;
+      (list.length ? list.map((e) => card(e)).join("") : soon) + `</div></section>`;
   });
 
-  const bookItems = buckets.book.reduce((n, s) => n + s.exercises.length, 0);
-  let bookHtml = "";
-  buckets.book.forEach((s) => {
-    if (!s.exercises.length) return;
-    bookHtml += `<div class="focus-sub">${esc(s.title)}</div>` + s.exercises.map(card).join("");
-  });
+  const flat = (list) => list.reduce((a, s) => a.concat(s.exercises), []);
+  const groupHtml = (list, grp) => list.map((s) => s.exercises.length
+    ? `<div class="focus-sub">${esc(s.title)}</div>` + s.exercises.map((e) => card(e, grp)).join("")
+    : "").join("");
+  const bookAll = flat(buckets.book), x10All = flat(buckets.x10);
+
   html += `<section class="focus tests"><div class="focus-head">④ 교재 문제 · Book` +
-    `<span class="cnt">${bookItems ? countOf(buckets.book.reduce((a, s) => a.concat(s.exercises), [])) : "Coming soon"}</span>` +
-    `</div><div class="focus-body">${bookHtml || soon}</div></section>`;
+    `<span class="cnt">${bookAll.length ? countOf(bookAll) : "Coming soon"}</span>` +
+    `</div><div class="focus-body">${groupHtml(buckets.book, "book") || soon}</div></section>`;
+
+  if (x10All.length) {
+    html += `<section class="focus x10"><div class="focus-head">⑤ X-10 워크북 · X-10` +
+      `<span class="cnt">${countOf(x10All)}</span></div><div class="focus-body">` +
+      `<p class="x10-note">본책과 다른 별책입니다. X-10 문제는 이 칸에만 있습니다. · A separate workbook.</p>` +
+      groupHtml(buckets.x10, "x10") + `</div></section>`;
+  }
   app.innerHTML = html;
   /* The page paints at once; the signed-in scores arrive after and redraw it once
      (Jay 2026-11-10: the score must be on the page, not behind a click). */
@@ -612,6 +624,9 @@ async function play() {
   // Cards held for a re-check are never shown to a student: an empty card is worse than none.
   const heldCount = (ex.questions || []).filter((q) => q.deferred).length;
   if (heldCount) ex.questions = ex.questions.filter((q) => !q.deferred);
+  /* The X-10 chip appears only on a real X-10 practice (Jay 2026-11-16). */
+  const isX10 = qs.get("g") === "x10" || /^x10-/.test(qs.get("e") || "");
+  const sourceChip = () => (isX10 ? el("p", "x10-chip", "X-10 워크북 · 별책 문제입니다") : null);
   const key = "bekbal:" + path;
   let attempts = +(sessionStorage.getItem(key) || 0);
   let timer;
@@ -626,6 +641,8 @@ async function play() {
     crumb.innerHTML = `<a href="${back}">← 목록</a>`;
     app.appendChild(crumb);
     app.appendChild(el("h1", "practice-title", ex.title || "Practice"));
+    const chip = sourceChip();
+    if (chip) app.appendChild(chip);
     if (ex.introKo) app.appendChild(el("p", "intro-ko", ex.introKo));
     const row = el("div", "section-intro-row");
     (ex.sections || []).forEach((s) => {
@@ -730,6 +747,8 @@ async function play() {
     const unitName = allMatch ? " 짝" : "";
     app.innerHTML = "";
     app.appendChild(el("h1", "practice-title", ex.title || "Practice"));
+    const chip2 = sourceChip();
+    if (chip2) app.appendChild(chip2);
     const head = el("h2", passed ? "ok" : "bad", `${score} / ${total}${unitName} (${Math.round(pct * 100)}%) — ${passed ? "통과 PASS" : "미통과"}`);
     app.appendChild(head);
     app.appendChild(el("p", "meta", `시도 ${attempts} / ${MAX_ATTEMPTS}`));

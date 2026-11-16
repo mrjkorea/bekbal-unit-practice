@@ -93,6 +93,7 @@ body[data-page="unit"] main{max-width:960px}
 .focus.reading .focus-head{background:linear-gradient(135deg,#0891b2,#0e7490)}
 .focus.grammar .focus-head{background:linear-gradient(135deg,#7c3aed,#5b21b6)}
 .focus.tests .focus-head{background:linear-gradient(135deg,#ea580c,#9a3412)}
+.focus.x10 .focus-head{background:linear-gradient(135deg,#0f766e,#134e4a)}
 .ex{display:flex;flex-direction:column;gap:4px;padding:12px 14px;border-radius:14px;border:2px solid #e2e8f0;background:#fbfdff;text-decoration:none;color:#0f172a;transition:transform .1s,border-color .1s}
 .ex:hover{transform:translateY(-2px);border-color:#94a3b8}
 .ex.done{background:#ecfdf5;border-color:#22c55e}
@@ -108,6 +109,8 @@ body[data-page="unit"] main{max-width:960px}
 .tool.p{background:linear-gradient(#f9a8d4,#db2777)}
 .tool.soon{background:linear-gradient(#cbd5e1,#94a3b8);color:#334155;box-shadow:none}
 .focus-sub{grid-column:1/-1;font-size:12.5px;font-weight:900;color:#64748b;text-transform:uppercase;letter-spacing:.04em;margin-top:2px}
+.x10-note{grid-column:1/-1;margin:0 0 6px;font-size:13px;font-weight:700;color:#0f766e}
+.x10-chip{display:inline-block;margin:.1rem 0 .6rem;padding:.22rem .7rem;border-radius:999px;background:#ccfbf1;border:1.5px solid #0f766e;color:#134e4a;font-weight:800;font-size:.86rem}
 
 /* ---- Grammar Focus: Quick Test block (Jay 2026-11-10). Same buttons and colours as the 중학 영문법 page. ---- */
 .gq-head{grid-column:1/-1;display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-weight:900;color:#4c1d95;font-size:15px;margin:2px 0 4px}
