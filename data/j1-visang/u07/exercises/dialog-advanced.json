@@ -4,60 +4,187 @@
   "book": "중1 비상 황종배",
   "unit": "Lesson 07 Greener, Greater",
   "sourcePages": "pp.140-141",
-  "questionCount": 5,
-  "omitted": [
-    {
-      "sourceId": "1",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "2",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "3",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "4",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "5",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "6",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "8",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "9",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    },
-    {
-      "sourceId": "11",
-      "reason": "심화 보기 번호가 OCR에서 섞여 책 순서를 확정하지 못함"
-    }
-  ],
+  "questionCount": 13,
+  "omitted": [],
+  "sectionsVersion": 2,
+  "introKo": "통과 80%. 고르기 9문항, 빈칸 3문항, 두 칸 쓰기 1문항입니다. 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "questions": [
     {
       "id": "1",
+      "label": "1",
+      "sourceId": 1,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ Maybe next time. 나머지는 모두 제안에 동의하는 말이다. (교재 p.140 01)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 밑줄 친 표현과 바꿔 쓸 수 없는 것은?\nA: How about recycling these plastic bottles?\nB: <u>Sounds great.</u>",
+      "choices": [
+        "I'm in.",
+        "Sure, let's do it.",
+        "Maybe next time.",
+        "That sounds good.",
+        "That's a good idea."
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "sourceId": 2,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ② How do we watch a movie tonight? 나머지는 모두 영화를 보자고 제안하는 말이다. (교재 p.140 02)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 중 문장의 의도가 나머지와 다른 것은?",
+      "choices": [
+        "Let's watch a movie tonight.",
+        "How do we watch a movie tonight?",
+        "How about watching a movie tonight?",
+        "Why don't we watch a movie tonight?",
+        "What do you think about watching a movie tonight?"
+      ],
+      "correctIndexes": [
+        2
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "sourceId": 3,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ Do you have any ideas?에 Why did we make a video ~?는 답이 되지 않는다. (교재 p.140 03)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 짝지어진 대화가 어색한 것은?",
+      "choices": [
+        "A: I'm worried about the sea animals.\nB: Me, too.",
+        "A: You look worried. What's wrong?\nB: Polar bears are losing their homes.",
+        "A: Let's do something about plastic waste.\nB: Sounds good.",
+        "A: I'm worried about the English writing test.\nB: Don't worry too much.",
+        "A: Do you have any ideas?\nB: Why did we make a video with our pictures?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "sourceId": 4,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ ⓒ-ⓐ-ⓑ-ⓓ. Look at the big plastic island → Oh, is this all plastic? → Yes. I'm worried ~ → Me, too. (교재 p.140 04)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 대화의 ⓐ~ⓓ를 순서대로 바르게 배열한 것은?\nⓐ Oh, is this all plastic?\nⓑ Yes. I'm worried about the sea animals.\nⓒ Look at the big plastic island in the ocean.\nⓓ Me, too. They can eat plastic waste and get sick.",
+      "choices": [
+        "ⓐ - ⓑ - ⓓ - ⓒ",
+        "ⓐ - ⓒ - ⓑ - ⓓ",
+        "ⓑ - ⓐ - ⓓ - ⓒ",
+        "ⓒ - ⓐ - ⓑ - ⓓ",
+        "ⓒ - ⓑ - ⓐ - ⓓ"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "sourceId": 5,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④. ③ Let's print and put up posters.와 ④ 사이에서 Well, that is a waste of paper.가 와야 Why don't we post it on the school website?가 자연스럽다. (교재 p.140 05)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 「Well, that is a waste of paper.」\nM: Look! (①) This is the design for our concert poster. (②)\nW: Oh, it's cool. (③) Let's print and put up posters around the school. (④)\nM: (⑤) ⓐWhy don't we post it on the school website?\nW: ⓑ좋은 생각이야.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "sourceId": 6,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ④ How do you post it on the school website? ⓐ는 제안하는 말이라 나머지 네 개와 바꿔 쓸 수 있다. (교재 p.140 06)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "위 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 없는 것은?\nⓐ Why don't we post it on the school website?",
+      "choices": [
+        "How about posting it on the school website?",
+        "Let's post it on the school website.",
+        "Why not post it on the school website?",
+        "How do you post it on the school website?",
+        "What do you think about posting it on the school website?"
+      ],
+      "correctIndexes": [
+        4
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "7",
       "label": "7",
       "sourceId": 7,
-      "section": "s1",
-      "sectionTitle": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: a good idea. (답지 pp.140-141 07)",
+      "explainKo": "정답: a good idea. 「좋은 생각이야」는 That's a good idea.이다. (교재 p.140 07)",
       "type": "fill",
-      "promptEn": "제안에 긍정으로 답하는 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nA: Why don't we make fun recycling boxes?\nB: Sounds like ______.",
+      "promptEn": "위 대화에서 밑줄 친 ⓑ의 우리말에 맞도록 빈칸에 적절한 말을 쓰시오.\nW: ⓑ좋은 생각이야.\n→ That's ______ ______ ______.",
       "accept": [
         "a good idea"
       ],
@@ -65,39 +192,120 @@
       "seconds": 90
     },
     {
-      "id": "2",
+      "id": "8",
+      "label": "8",
+      "sourceId": 8,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ What do you think about throwing ~? ①~④는 모두 제안하는 말이다. (교재 p.141 08)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 없는 것은?\nM: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.\nW: I feel so sad. I really liked his class.\nM: Me, too. ⓐWhy don't we throw a surprise party for him?\nW: Great idea. Let's prepare it together.",
+      "choices": [
+        "Let's throw a surprise party for him.",
+        "Could we throw a surprise party for him?",
+        "How about throwing a surprise party for him?",
+        "What about throwing a surprise party for him?",
+        "What do you think about throwing a surprise party for him?"
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "sourceId": 9,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ⑤ They will tell Mr. Green about the party. 깜짝 파티이므로 그에게 말하지 않는다. (교재 p.141 09)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "위 대화의 내용과 일치하지 않는 것은?\nM: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.\nW: I feel so sad. I really liked his class.\nM: Me, too. Why don't we throw a surprise party for him?\nW: Great idea. Let's prepare it together.",
+      "choices": [
+        "Tomorrow is the day of Mr. Green's last class.",
+        "Mr. Green is from the U.S.",
+        "The two speakers both like Mr. Green's class.",
+        "The woman agrees to have a surprise party.",
+        "They will tell Mr. Green about the party."
+      ],
+      "correctIndexes": [
+        5
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "10",
       "label": "10",
       "sourceId": 10,
-      "section": "s1",
-      "sectionTitle": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: throw a surprise party for. (답지 10)",
+      "explainKo": "정답: throw a surprise party. 네 단어로 쓴다. (교재 p.141 10)",
       "type": "fill",
-      "promptEn": "다음 우리말에 맞도록 빈칸에 들어갈 말을 쓰시오.\n우리는 그를 위해 깜짝 파티를 열 것이다.\n→ We will ______ him.",
+      "promptEn": "위 대화를 읽고, 질문에 대한 답을 대화에서 찾아 빈칸을 완성하시오.\nQ. What will the two people do for Mr. Green?\n→ They will ______ ______ ______ ______ for him.",
       "accept": [
-        "throw a surprise party for"
+        "throw a surprise party"
       ],
       "phraseBlank": true,
       "seconds": 90
     },
     {
-      "id": "3",
+      "id": "11",
+      "label": "11",
+      "sourceId": 11,
+      "section": "s1",
+      "sectionTitle": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "explainKo": "정답: ③ But / so. 앞 문장과 반대이므로 But, 뒤는 결과이므로 so이다. (교재 p.141 11)",
+      "type": "mc",
+      "select": "one",
+      "promptEn": "다음 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?\nM: Seoul is so beautiful at night.\nW: Yeah, it is. ⓐ ______ I'm worried about the birds.\nM: Why?\nW: It is bright all night, ⓑ ______ they cannot sleep well.",
+      "choices": [
+        "ⓐ But / ⓑ or",
+        "ⓐ So / ⓑ or",
+        "ⓐ But / ⓑ so",
+        "ⓐ So / ⓑ but",
+        "ⓐ But / ⓑ and"
+      ],
+      "correctIndexes": [
+        3
+      ],
+      "seconds": 45
+    },
+    {
+      "id": "12",
       "label": "12",
       "sourceId": 12,
-      "section": "s1",
-      "sectionTitle": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "section": "s2",
+      "sectionTitle": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: bright all night. (답지 12)",
+      "explainKo": "정답: bright all night. 세 단어로 쓴다. (교재 p.141 12)",
       "type": "fill",
-      "promptEn": "대화의 빈칸에 들어갈 말을 쓰시오.\nIt is ______, so the birds cannot sleep well.",
+      "promptEn": "위 대화를 읽고, 질문에 대한 답을 대화에서 찾아 빈칸을 완성하시오.\nQ. Why can't birds sleep well?\n→ Because it is ______ ______ ______.",
       "accept": [
         "bright all night"
       ],
@@ -105,72 +313,69 @@
       "seconds": 90
     },
     {
-      "id": "4",
-      "label": "13-1",
-      "sourceId": "13-1",
-      "section": "s2",
-      "sectionTitle": "Section B · 한 단어",
-      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: beautiful. beautiful, bright 중 첫 말. (답지 pp.140-141 13)",
-      "type": "fill",
-      "promptEn": "서울은 밤에 아름다워 보인다. 답지 13의 첫 형용사만 쓰시오.",
-      "accept": [
-        "beautiful"
-      ],
-      "phraseBlank": false,
-      "seconds": 90,
-      "deferred": true,
-      "deferredReason": "교재 p.p.140-141 원문 확인 전 보류 — no stem on the card: only a title, blank numbers or number buttons"
-    },
-    {
-      "id": "5",
-      "label": "13-2",
-      "sourceId": "13-2",
-      "section": "s2",
-      "sectionTitle": "Section B · 한 단어",
-      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: bright. beautiful, bright 중 둘째 말. (답지 pp.140-141 13)",
-      "type": "fill",
-      "promptEn": "불빛이 너무 밝다. 답지 13의 둘째 형용사만 쓰시오.",
-      "accept": [
-        "bright"
-      ],
-      "phraseBlank": false,
-      "seconds": 90,
-      "deferred": true,
-      "deferredReason": "교재 p.p.140-141 원문 확인 전 보류 — no stem on the card: only a title, blank numbers or number buttons"
+      "id": "13",
+      "label": "13",
+      "sourceId": 13,
+      "section": "s3",
+      "sectionTitle": "Section C · 두 칸",
+      "directionKo": "두 빈칸에 들어갈 말을 하나씩 쓰시오.",
+      "ruleKo": "첫 칸과 둘째 칸에 들어갈 말만 쓰세요.",
+      "sectionInstructionKo": "두 빈칸에 들어갈 말을 하나씩 쓰시오. 첫 칸과 둘째 칸에 들어갈 말만 쓰세요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 두 칸",
+      "explainKo": "정답: beautiful / bright. Seoul looks beautiful at night. But the lights are too bright. (교재 p.141 13)",
+      "type": "parts",
+      "promptEn": "위 대화의 내용과 일치하도록 다음 문장의 빈칸에 들어갈 적절한 말을 쓰시오.\nSeoul looks ______ at night. But the woman is worried that the lights are too ______ and birds can't sleep well.",
+      "parts": [
+        {
+          "kind": "fill",
+          "label": "첫째 칸 · Seoul looks ___",
+          "placeholder": "첫째 칸",
+          "accept": [
+            "beautiful"
+          ]
+        },
+        {
+          "kind": "fill",
+          "label": "둘째 칸 · the lights are too ___",
+          "placeholder": "둘째 칸",
+          "accept": [
+            "bright"
+          ]
+        }
+      ]
     }
   ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 3문항 답지의 형용사를 한 칸에 하나씩 쓰시오. 2문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
   "sections": [
     {
       "id": "s1",
-      "title": "Section A · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 3
+      "title": "Section A · 고르기",
+      "directionKo": "알맞은 것을 고르시오.",
+      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "answerMode": "choice",
+      "answerModeTag": "Choose · 고르기",
+      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+      "itemCount": 9
     },
     {
       "id": "s2",
-      "title": "Section B · 한 단어",
-      "directionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+      "title": "Section B · 빈칸",
+      "directionKo": "빈칸에 들어갈 말을 쓰시오.",
+      "ruleKo": "이 칸에 들어갈 말만 쓰세요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "답지의 형용사를 한 칸에 하나씩 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 2
+      "instructionKo": "빈칸에 들어갈 말을 쓰시오. 이 칸에 들어갈 말만 쓰세요.",
+      "itemCount": 3
+    },
+    {
+      "id": "s3",
+      "title": "Section C · 두 칸",
+      "directionKo": "두 빈칸에 들어갈 말을 하나씩 쓰시오.",
+      "ruleKo": "첫 칸과 둘째 칸에 들어갈 말만 쓰세요.",
+      "answerMode": "parts",
+      "answerModeTag": "Type · 두 칸",
+      "instructionKo": "두 빈칸에 들어갈 말을 하나씩 쓰시오. 첫 칸과 둘째 칸에 들어갈 말만 쓰세요.",
+      "itemCount": 1
     }
   ]
 }
