@@ -740,7 +740,12 @@ async function play() {
            must not show the answers yet. Numbers only, so the next try is still
            a real try; answers and explanations come after the last attempt. */
         const wrongNow = res.filter((r) => !r.ok);
-        const nums = wrongNow.map((r) => r.q.label || r.q.id || "").filter(Boolean);
+        const nums = wrongNow.map((r) => r.q.label || r.q.id || "").filter(Boolean)
+          .sort((a, b) => {
+            const na = parseInt(a, 10), nb = parseInt(b, 10);
+            if (!isNaN(na) && !isNaN(nb) && na !== nb) return na - nb;
+            return String(a).localeCompare(String(b));
+          });
         const line = el("p", "wrong-list");
         line.appendChild(el("b", null, "틀린 문제 번호: "));
         line.appendChild(document.createTextNode(nums.join(", ")));
