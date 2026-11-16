@@ -1,187 +1,679 @@
 {
-  "id": "final-1",
-  "title": "최종점검 모의고사 1회",
-  "book": "중1 비상 황종배",
-  "unit": "Lesson 08 For a Better Tomorrow",
-  "sourcePages": "X-10 pp.96-99",
-  "questionCount": 8,
-  "omitted": [
+ "id": "final-1",
+ "title": "최종점검 모의고사 1회",
+ "book": "중1 비상 황종배",
+ "unit": "Lesson 08 For a Better Tomorrow",
+ "sourcePages": "X-10 pp.96-99",
+ "questionCount": 25,
+ "omitted": [],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. X-10 최종점검 1회 25문항입니다. 고르기는 누르기만 하면 되고, 쓰기는 답만 쓰세요.",
+ "questions": [
+  {
+   "id": "1",
+   "label": "1",
+   "sourceId": 1,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오.\nunable to see\n→ b______",
+   "accept": [
+    "blind"
+   ],
+   "explainKo": "정답: blind. (X-10 p.96 01)",
+   "seconds": 100
+  },
+  {
+   "id": "2",
+   "label": "2",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? (대소문자 구분 없음)\n• ______ makes perfect.\n• ______ the piano every morning.",
+   "choices": [
+    "call",
+    "tie",
+    "visit",
+    "save",
+    "practice"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ practice. (X-10 p.96 02)",
+   "seconds": 45
+  },
+  {
+   "id": "3",
+   "label": "3",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\n• She hurt her ______ while playing basketball.\n• My brother went to the ______ because he was sick.\n• I will ______ the book to the library.\n• The dance teacher showed us a new ______.",
+   "choices": [
+    "finger",
+    "try",
+    "return",
+    "hospital",
+    "movement"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② try. 다섯 단어 중 try만 어디에도 들어갈 수 없다. (X-10 p.96 03)",
+   "seconds": 45
+  },
+  {
+   "id": "4",
+   "label": "4",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 도움을 나타내는 표현이 아닌 것은?",
+   "choices": [
+    "Can you help me?",
+    "Will you open the door?",
+    "Can you turn on the light?",
+    "Could you pass me the pen?",
+    "Would you like to join our club?"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ Would you like to join our club? ⑤는 권유의 표현이다. (X-10 p.96 04)",
+   "seconds": 45
+  },
+  {
+   "id": "5",
+   "label": "5",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 대화의 빈칸에 들어갈 말로 적절하지 않은 것은?\nA: Can you call a taxi for me?\nB: ______",
+   "choices": [
+    "Of course.",
+    "Sure, I can.",
+    "I'm afraid I can't.",
+    "I'm sorry, but I can't.",
+    "I'm sorry to hear that."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ 부탁에 대한 거절은 유감을 나타내는 ⑤로 답한다. ③은 감정의 겉표현이 어색하다. (X-10 p.96 05)",
+   "seconds": 45
+  },
+  {
+   "id": "6",
+   "label": "6",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[06-07] 다음 대화를 읽고, 물음에 답하시오.\nM: Did you have a good weekend, Amy?\nW: Yes. I went fishing with my family. How about you, Sam?\nM: I watched a movie with my friends.\nW: No problem.\n\n06 위 대화의 밑줄 친 부분 중 문맥상 어색한 것은?",
+   "choices": [
+    "① Did you have a good weekend",
+    "② I went fishing with my family",
+    "③ How about you, Sam?",
+    "④ I watched a movie with my friends",
+    "⑤ No problem."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ 대답에는 'No problem.'이 아니라 'Sounds great.' 같은 말이 와야 한다. (X-10 p.96 06)",
+   "seconds": 45
+  },
+  {
+   "id": "7",
+   "label": "7",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[06-07] 다음 대화를 읽고, 물음에 답하시오.\nM: Did you have a good weekend, Amy?\nW: Yes. I went fishing with my family. How about you, Sam?\nM: I watched a movie with my friends.\nW: No problem.\n\n07 What is the main idea of the dialog?",
+   "choices": [
+    "Planning a trip",
+    "Learning how to fish",
+    "Recommending a movie",
+    "Talking about the weekend",
+    "Asking a friend to join a hobby"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ Talking about the weekend. (X-10 p.96 07)",
+   "seconds": 45
+  },
+  {
+   "id": "8",
+   "label": "8",
+   "sourceId": 8,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "다음 대화의 빈칸에 공통으로 들어갈 말을 쓰시오.\nA: Why do you want ______ go on a picnic?\nB: I'd like to go on a picnic ______ have fun.\nA: Sounds good!",
+   "accept": [
+    "to"
+   ],
+   "explainKo": "정답: to. want to / to부정사의 부사적 용법. (X-10 p.97 08)",
+   "seconds": 100
+  },
+  {
+   "id": "9",
+   "label": "9",
+   "sourceId": 9,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "sentence",
+   "promptEn": "다음 밑줄 친 우리말을 주어진 단어를 이용하여 바르게 영작하시오.\n나는 영어를 배우기 위해서 미국에 갔다.\n( America, learn, English )",
+   "accept": [
+    "I went to America to learn English.",
+    "I went to America to learn English"
+   ],
+   "explainKo": "정답: I went to America to learn English. (X-10 p.97 09)",
+   "seconds": 120
+  },
+  {
+   "id": "10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 어법상 옳은 것은?",
+   "choices": [
+    "To arrive on time, I get up early.",
+    "I started riding a bike to keeping healthy.",
+    "She is studying hard do her best in the exam.",
+    "I learn English in order as travel all around the world.",
+    "My dad bought some vegetables to cooked special dinner."
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "explainKo": "정답: ① To arrive on time, I get up early. 나머지는 to부정사 뒤에 동사원형이 와야 한다. (X-10 p.97 10)",
+   "seconds": 45
+  },
+  {
+   "id": "11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 어법상 틀린 문장의 개수는?\n• How shocking!\n• She wants try other things.\n• I believe that that is true.\n• You have to work harder succeed.\n• The news that she died surprised everyone.",
+   "choices": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② 2개. 'wants try'와 'harder succeed'가 틀렸다. (X-10 p.97 11)",
+   "seconds": 45
+  },
+  {
+   "id": "12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 우리말을 바르게 영작한 것은?\n그는 여행을 하기 위해 돈을 저축한다.",
+   "choices": [
+    "He saves money order to travel.",
+    "He saves money in order for travel.",
+    "He saves money in order to travel.",
+    "He saves money so order to travel.",
+    "He saves money as order to travel."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ in order to travel. (X-10 p.97 12)",
+   "seconds": 45
+  },
+  {
+   "id": "13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "다음 글을 읽고, 어법상 틀린 두 곳을 찾아 바르게 고쳐 다시 쓰시오.\nMy hobby is to learn many different things. First, learned to swim in the ocean. Second, I can play the piano. In fact, I learned me how to play the piano. I hope to learn different things to improving myself.",
+   "parts": [
     {
-      "sourceId": "rest",
-      "reason": "최종점검 본문 선택지가 두 단 OCR이라 답 번호와 영어 보기를 한 줄로 확정하지 못한 번호는 넣지 않았습니다."
+     "kind": "fill",
+     "label": "(1) 틀린 곳을 고쳐 쓰시오",
+     "placeholder": "(1) 틀린 곳을 고쳐 쓰시오",
+     "accept": [
+      "myself"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "(2) 틀린 곳을 고쳐 쓰시오",
+     "placeholder": "(2) 틀린 곳을 고쳐 쓰시오",
+     "accept": [
+      "improve"
+     ]
     }
-  ],
-  "questions": [
-    {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: blind. (Lesson 08 최종 1회 01)",
-      "type": "fill",
-      "promptEn": "볼 수 없는. b로 시작하는 단어를 쓰시오.",
-      "accept": [
-        "blind"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "2",
-      "label": "9",
-      "sourceId": 9,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: America to learn English. (최종 1회 09)",
-      "type": "fill",
-      "promptEn": "영어를 배우러 미국에. 빈칸에 들어갈 말만 쓰시오.\nHe went to ______.",
-      "accept": [
-        "America to learn English"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    },
-    {
-      "id": "3",
-      "label": "13-1",
-      "sourceId": "13-1",
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: In fact, I learned myself how to play the piano. (최종 1회 13 (1))",
-      "type": "sentence",
-      "promptEn": "(1) 사실 나는 혼자서 피아노 치는 법을 배웠다. 문장 전체를 쓰시오.",
-      "accept": [
-        "In fact, I learned myself how to play the piano."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "4",
-      "label": "13-2",
-      "sourceId": "13-2",
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: hope to learn different things to improve myself. (최종 1회 13 (2))",
-      "type": "sentence",
-      "promptEn": "(2) 나는 나를 발전시키기 위해 다른 것들을 배우기를 바란다.",
-      "accept": [
-        "I hope to learn different things to improve myself."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "5",
-      "label": "17",
-      "sourceId": 17,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: we tied a string around our fingers to feel each other's movement. (최종 1회 17)",
-      "type": "sentence",
-      "promptEn": "우리는 서로의 움직임을 느끼려고 손가락에 끈을 묶었다.",
-      "accept": [
-        "We tied a string around our fingers to feel each other's movement."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "6",
-      "label": "19",
-      "sourceId": 19,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: cheering for them at the finish line. (최종 1회 19)",
-      "type": "fill",
-      "promptEn": "결승선에서 그들을 응원하고 있었다. 빈칸에 들어갈 말만 쓰시오.",
-      "accept": [
-        "cheering for them at the finish line"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    },
-    {
-      "id": "7",
-      "label": "20",
-      "sourceId": 20,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: to won → to win. (최종 1회 20)",
-      "type": "fill",
-      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nto won",
-      "accept": [
-        "to win"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    },
-    {
-      "id": "8",
-      "label": "23",
-      "sourceId": 23,
-      "section": "s1",
-      "sectionTitle": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Finishing. (최종 1회 23)",
-      "type": "fill",
-      "promptEn": "무언가를 끝내는 것. 알맞은 형태만 쓰시오.",
-      "accept": [
-        "Finishing"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 문장 전체를 쓰시오. 8문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
-    {
-      "id": "s1",
-      "title": "Section A · 답지가 문장으로 남은 문항",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 8
-    }
-  ]
+   ],
+   "explainKo": "정답: (1) me → myself (2) improving → improve. (X-10 p.97 13)",
+   "seconds": 140
+  },
+  {
+   "id": "14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[14~16] 다음 글을 읽고, 물음에 답하시오.\nI'm blind. I walk ⓐ ______ a stick. One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon. ⓑ ______ this event, two people run ⓒas a team.\" Everyone ①talked about it. I also got ②interested. \"But ③can I run?\" I was ④sure. So I talked about it with my best friend, Junha. He said, \"Don't ⑤worry! I'll run with you.\"\n\n14 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
+   "choices": [
+    "ⓐ to / ⓑ In",
+    "ⓐ by / ⓑ In",
+    "ⓐ by / ⓑ On",
+    "ⓐ with / ⓑ On",
+    "ⓐ with / ⓑ In"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ with / In. walk with a stick, In this event. (X-10 p.98 14)",
+   "seconds": 45
+  },
+  {
+   "id": "15",
+   "label": "15",
+   "sourceId": 15,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[14~16] 다음 글을 읽고, 물음에 답하시오.\nI'm blind. I walk with a stick. One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon. In this event, two people run ⓒas a team.\" Everyone talked about it. I also got interested.\n\n15 윗글의 밑줄 친 ⓒas와 의미가 같은 것은?",
+   "choices": [
+    "Do it as I told you.",
+    "The box is as heavy as a rock.",
+    "We took a taxi as we were late.",
+    "They arrived as we were leaving.",
+    "She joined the club as a new member."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ as a new member. '~로서'의 as이다. (X-10 p.98 15)",
+   "seconds": 45
+  },
+  {
+   "id": "16",
+   "label": "16",
+   "sourceId": 16,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[14~16] 다음 글을 읽고, 물음에 답하시오.\nI'm blind. I walk with a stick. One day, my homeroom teacher said, \"There will be a school event, Friendship Marathon. In this event, two people run as a team.\" Everyone ①talked about it. I also got ②interested. \"But ③can I run?\" I was ④sure. So I talked about it with my best friend, Junha. He said, \"Don't ⑤worry! I'll run with you.\"\n\n16 윗글의 밑줄 친 ①~⑤ 중 문맥상 어색한 것은?",
+   "choices": [
+    "① talked",
+    "② interested",
+    "③ can I run",
+    "④ sure",
+    "⑤ worry"
+   ],
+   "correctIndexes": [
+    4
+   ],
+   "explainKo": "정답: ④ sure → not sure. (X-10 p.98 16)",
+   "seconds": 45
+  },
+  {
+   "id": "17",
+   "label": "17",
+   "sourceId": 17,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "sentence",
+   "promptEn": "[17~19] 다음 글을 읽고, 물음에 답하시오.\nOn the day of the marathon, 우리는 서로의 움직임을 느끼기 위해 우리 손가락에 끈을 묶었다. I listened to him very carefully and ran with him. The wind was blowing through me and it felt great! At the finish line, everyone cheered for us. I was proud of ③me.\nBefore the marathon, I thought ④that I couldn't do it. But now, I want ⑤to try other things. I think that I can try a bike ride next time!\n\n17 윗글의 밑줄 친 우리말을 조건에 맞게 바르게 영작하시오.\n[조건] 1. tie, feel, each other, movement를 이용할 것. 2. to부정사를 사용하여 목적을 나타낼 것. 3. 과거시제로 쓰되, 총 12단어로 쓸 것.",
+   "accept": [
+    "We tied a string around our fingers to feel each other's movement.",
+    "We tied a string around our fingers to feel each other's movement"
+   ],
+   "explainKo": "정답: We tied a string around our fingers to feel each other's movement. (열두 단어) (X-10 p.98 17)",
+   "seconds": 150
+  },
+  {
+   "id": "18",
+   "label": "18",
+   "sourceId": 18,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[17~19] 다음 글을 읽고, 물음에 답하시오.\nOn the day of the marathon, we tied a string around our fingers to feel each other's movement. I listened to him very carefully and ran with him. The wind was blowing through me and it felt great! At the finish line, everyone cheered for us. I was proud of ③me.\nBefore the marathon, I thought ④that I couldn't do it. But now, I want ⑤to try other things. I think that I can try a bike ride next time!\n\n18 윗글의 밑줄 친 ③~⑤ 중 문맥상 어색한 것은?",
+   "choices": [
+    "③ me",
+    "④ that",
+    "⑤ to try",
+    "어색한 것은 없다"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "explainKo": "정답: ③ me → myself. be proud of oneself. (X-10 p.98 18)",
+   "seconds": 45
+  },
+  {
+   "id": "19",
+   "label": "19",
+   "sourceId": 19,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "sentence",
+   "promptEn": "[17~19] 다음 글을 읽고, 물음에 답하시오.\nAt the finish line, everyone cheered for us. I was proud of myself.\n\n19 윗글을 읽고, 다음 질문에 적절한 대답을 일곱 단어로 완성하시오.\nQ. What were people doing at the finish line?\nPeople were ______ ______ ______ ______ ______ ______.",
+   "accept": [
+    "cheering for them at the finish line",
+    "cheering for them at the finish line"
+   ],
+   "explainKo": "정답: cheering for them at the finish line. (일곱 단어) (X-10 p.98 19)",
+   "seconds": 140
+  },
+  {
+   "id": "20",
+   "label": "20",
+   "sourceId": 20,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "[20~21] 다음 글을 읽고, 물음에 답하시오.\nAndy and I signed up for Friendship Marathon. I was his guide runner. We ran together every day with a string. I told him, \"Andy, a bike is coming. So let's move to the right.\" As a team, we practiced hard to won the marathon.\n\n20 윗글에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+   "accept": [
+    "to win",
+    "to won → to win",
+    "to won->to win"
+   ],
+   "explainKo": "정답: to won → to win. (X-10 p.99 20)",
+   "seconds": 100
+  },
+  {
+   "id": "21",
+   "label": "21",
+   "sourceId": 21,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[20~21] 다음 글을 읽고, 물음에 답하시오.\nAndy and I signed up for Friendship Marathon. I was his guide runner. We ran together every day with a string. I told him, \"Andy, a bike is coming. So let's move to the right.\" As a team, we practiced hard to win the marathon.\n\n21 윗글을 읽고 알 수 없는 것은?",
+   "choices": [
+    "Andy and the writer ran together every day.",
+    "The writer guided Andy while running.",
+    "They wanted to win the marathon.",
+    "Andy and the writer practiced hard for the marathon.",
+    "Andy and the writer won the marathon."
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ 우승했다는 내용은 없다. (X-10 p.99 21)",
+   "seconds": 45
+  },
+  {
+   "id": "22",
+   "label": "22",
+   "sourceId": 22,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nDuring the marathon, I ⓐ______ with Andy and guided him at the same time. It was hard, but we didn't stop ⓑ______. At last, we made it to the finish line! We didn't ⓒ______ the race. But I knew that we did our best.\n(A) ______ something was not easy for me. But this time I did it! I was very ⓓ______. Andy looked ⓔ______ too.\n\n22 윗글의 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?",
+   "choices": [
+    "ⓐ run / ⓑ running / ⓒ won",
+    "ⓐ run / ⓑ to run / ⓒ won",
+    "ⓐ ran / ⓑ running / ⓒ win",
+    "ⓐ ran / ⓑ running / ⓒ won",
+    "ⓐ ran / ⓑ to run / ⓒ win"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ ran / running / win. (X-10 p.99 22)",
+   "seconds": 45
+  },
+  {
+   "id": "23",
+   "label": "23",
+   "sourceId": 23,
+   "section": "s2",
+   "sectionTitle": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "sectionInstructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nⓐ______ something was not easy for me. But this time I did it!\n\n23 윗글의 빈칸 (A)에 적절한 말을 본문에서 찾아 한 단어로 쓰시오. (필요시 어형을 바꿀 것)",
+   "accept": [
+    "Finishing"
+   ],
+   "explainKo": "정답: Finishing. 주어 자리이므로 동명사. (X-10 p.99 23)",
+   "seconds": 100
+  },
+  {
+   "id": "24",
+   "label": "24",
+   "sourceId": 24,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nBut I knew that we did our best. Finishing something was not easy for me. But this time I did it! I was very ⓓ______. Andy looked ⓔ______ too.\n\n24 윗글의 빈칸 ⓓ와 ⓔ에 공통으로 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "tired",
+    "happy",
+    "worried",
+    "exciting",
+    "uninterested"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② happy. (X-10 p.99 24)",
+   "seconds": 45
+  },
+  {
+   "id": "25",
+   "label": "25",
+   "sourceId": 25,
+   "section": "s1",
+   "sectionTitle": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nDuring the marathon, I ran with Andy and guided him at the same time. It was hard, but we didn't stop running. At last, we made it to the finish line! We didn't win the race. But I knew that we did our best. Finishing something was not easy for me. But this time I did it! I was very happy. Andy looked happy, too.\n\n25 According to the passage, which one is true?",
+   "choices": [
+    "They easily finished the race.",
+    "They gave up running in the middle.",
+    "They tried their best in the race.",
+    "They won the marathon.",
+    "Andy ran faster than the writer in the race."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ They tried their best in the race. (X-10 p.99 25)",
+   "seconds": 45
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 고르기",
+   "directionKo": "알맞은 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "itemCount": 17
+  },
+  {
+   "id": "s2",
+   "title": "Section B · 쓰기",
+   "directionKo": "답을 쓰시오.",
+   "ruleKo": "묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 쓰기",
+   "instructionKo": "답을 쓰시오. 묻는 말에 해당하는 말이나 문장만 쓰세요.",
+   "itemCount": 7
+  },
+  {
+   "id": "s3",
+   "title": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "instructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "itemCount": 1
+  }
+ ]
 }

@@ -1,359 +1,735 @@
 {
-  "id": "writing-finish",
-  "title": "서술형 끝내기",
-  "book": "중1 비상 황종배",
-  "unit": "Lesson 07 Greener, Greater",
-  "sourcePages": "pp.168-171",
-  "questionCount": 14,
-  "omitted": [
+ "id": "writing-finish",
+ "title": "서술형 끝내기",
+ "book": "중1 비상 황종배",
+ "unit": "Lesson 07 Greener, Greater",
+ "sourcePages": "pp.168-171",
+ "questionCount": 26,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1",
+   "label": "1",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: made with. (답지 01)",
+   "type": "fill",
+   "promptEn": "이 케이크는 초콜릿과 바닐라로 만들어졌다.\n→ This cake is ______ chocolate and vanilla.",
+   "accept": [
+    "made with"
+   ],
+   "phraseBlank": true,
+   "seconds": 90
+  },
+  {
+   "id": "17",
+   "label": "17",
+   "sourceId": 17,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "17 윗글을 읽고, 다음 질문에 대한 답을 10자 내외의 우리말로 쓰시오.\nQ. Why do people make ducks with plastic?",
+   "accept": [
+    "가볍고 오래 지속되기 때문이다",
+    "가볍고 오래가기 때문이다",
+    "가볍고 오래가기 때문",
+    "가볍고 오래 지속되기 때문"
+   ],
+   "explainKo": "정답 예시: 가볍고 오래 지속되기 때문이다. (교재 p.170 17)",
+   "seconds": 90
+  },
+  {
+   "id": "18",
+   "label": "18",
+   "sourceId": 18,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "[18~19] 다음 글을 읽고, 물음에 답하시오. (교재 p.170)\nLuckily, we could get out of the boxes. The wind was strong, so the waves took us apart. In the ocean, I met a lot of sea animals. ⓐ하지만 그들 중 많은 수가 어려움에 처해 있었어. One time, I met a sea turtle in a fishing net. \"Get me out of this,\" the sea turtle cried. I wanted to help, but I couldn't. I was so sadly.\n\n18 윗글에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
+   "accept": [
+    "sad",
+    "sadly → sad",
+    "sadly->sad"
+   ],
+   "explainKo": "정답: sadly → sad. be동사 뒤에는 형용사가 온다. (교재 p.170 18)",
+   "seconds": 90
+  },
+  {
+   "id": "2",
+   "label": "2",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: storm. (답지 02)",
+   "type": "fill",
+   "promptEn": "This is very bad weather, with strong winds and usually rain, thunder, or snow.\nThis에 해당하는 단어를 쓰시오.",
+   "accept": [
+    "storm"
+   ],
+   "phraseBlank": false,
+   "seconds": 90
+  },
+  {
+   "id": "24",
+   "label": "24",
+   "sourceId": 24,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "type": "fill",
+   "phraseBlank": true,
+   "promptEn": "24 윗글에서 밑줄 친 ⓒthem이 가리키는 것을 찾아 쓰시오.",
+   "accept": [
+    "other duck friends",
+    "(other) duck friends",
+    "my other duck friends"
+   ],
+   "explainKo": "정답: (other) duck friends. 친구인 다른 플라스틱 오리들이다. (교재 p.171 24)",
+   "seconds": 90
+  },
+  {
+   "id": "3",
+   "label": "3-1",
+   "sourceId": "3-1",
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: up. put up. (답지 03 ⓐ)",
+   "type": "fill",
+   "promptEn": "They put ⓐ ______ a new poster.",
+   "accept": [
+    "up"
+   ],
+   "phraseBlank": false,
+   "seconds": 90
+  },
+  {
+   "id": "4",
+   "label": "3-2",
+   "sourceId": "3-2",
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: in. in trouble. (답지 03 ⓑ)",
+   "type": "fill",
+   "promptEn": "I lost my key! I am ⓑ ______ trouble now.",
+   "accept": [
+    "in"
+   ],
+   "phraseBlank": false,
+   "seconds": 90
+  },
+  {
+   "id": "5",
+   "label": "4",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: to throw a party for. (답지 04)",
+   "type": "fill",
+   "promptEn": "우리는 Jessica의 생일을 위해 파티를 열기로 계획했다.\n→ We planned ______ Jessica's birthday.",
+   "accept": [
+    "to throw a party for"
+   ],
+   "phraseBlank": true,
+   "seconds": 90
+  },
+  {
+   "id": "6",
+   "label": "5",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: healthy → sick. (답지 05)",
+   "type": "fill",
+   "promptEn": "틀린 말을 바른 말로만 쓰시오.\nThey can eat plastic waste and get healthy.",
+   "accept": [
+    "sick"
+   ],
+   "phraseBlank": false,
+   "seconds": 90
+  },
+  {
+   "id": "7",
+   "label": "7",
+   "sourceId": 7,
+   "section": "s1",
+   "sectionTitle": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: worried. (답지 07)",
+   "type": "fill",
+   "promptEn": "Yeah, I'm ⓐ ______ about the polar bears.",
+   "accept": [
+    "worried"
+   ],
+   "phraseBlank": false,
+   "seconds": 90
+  },
+  {
+   "id": "10",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: How lonely the dog looks! (답지 11)",
+   "type": "sentence",
+   "promptEn": "그 개는 얼마나 외로워 보이는지! 문장 전체를 쓰시오.",
+   "accept": [
+    "How lonely the dog looks!"
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "sentence",
+   "promptEn": "다음 글에서 어법상 틀린 부분을 찾아 바르게 고쳐 문장을 다시 쓰시오.\nHe wants to learn how to play the guitar because he loves music. His dream is to become a famous musician. So, his father promised buy him a guitar for his birthday.",
+   "accept": [
+    "So, his father promised to buy him a guitar for his birthday.",
+    "So, his father promised to buy him a guitar for his birthday"
+   ],
+   "explainKo": "정답: So, his father promised to buy him a guitar for his birthday. promise to부정사. (교재 p.170 14)",
+   "seconds": 110
+  },
+  {
+   "id": "11",
+   "label": "19",
+   "sourceId": 19,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: But many of them were in trouble. (답지 19)",
+   "type": "sentence",
+   "promptEn": "하지만 그들 중 많은 수가 곤경에 처해 있었다. 문장 전체를 쓰시오.",
+   "accept": [
+    "But many of them were in trouble."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "12",
+   "label": "20",
+   "sourceId": 20,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: I wanted to get out of there. (답지 20)",
+   "type": "sentence",
+   "promptEn": "나는 그곳에서 빠져나가고 싶었다. 문장 전체를 쓰시오.",
+   "accept": [
+    "I wanted to get out of there."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "13",
+   "label": "22",
+   "sourceId": 22,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: It saw a lot of plastic waste. (답지 22)",
+   "type": "sentence",
+   "promptEn": "플라스틱 오리는 거대한 쓰레기 섬에서 무엇을 보았나요? 영어 문장으로 쓰시오.",
+   "accept": [
+    "It saw a lot of plastic waste."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "14",
+   "label": "25",
+   "sourceId": 25,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: It is in a bathtub. (답지 25)",
+   "type": "sentence",
+   "promptEn": "플라스틱 오리는 지금 어디에 있나요? 영어 문장으로 쓰시오.",
+   "accept": [
+    "It is in a bathtub."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "8",
+   "label": "6",
+   "sourceId": 6,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: a surprise party for Mr. Green. (답지 06)",
+   "type": "sentence",
+   "promptEn": "밑줄 친 it이 가리키는 말을 여섯 단어 안팎으로 쓰시오.\nWhy don't we throw a surprise party for him? Let's prepare it together.",
+   "accept": [
+    "a surprise party for Mr. Green"
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "9",
+   "label": "8",
+   "sourceId": 8,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: We need to do something for them. (답지 08)",
+   "type": "sentence",
+   "promptEn": "우리가 그들을 위해 뭔가를 해야 해. 문장 전체를 쓰시오.",
+   "accept": [
+    "We need to do something for them."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "9",
+   "label": "9",
+   "sourceId": 9,
+   "section": "s2",
+   "sectionTitle": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "sentence",
+   "promptEn": "[07-09] 다음 대화를 읽고 물음에 답하시오. (교재 p.168)\nM: What are you drawing, Jessica?\nW: I'm drawing a poster about polar bears.\nM: I see. Oh, the polar bears on the ice look so sad.\nW: Yeah, I'm ⓐ______ about the polar bears. They are losing their homes.\nM: You're right. ⓑ우리가 그들을 위해 뭔가를 해야 해.\nW: Right. They may not have much time.\n\n09 위 대화를 읽고, 다음 질문에 대한 적절한 답을 완전한 영어 문장으로 쓰시오.\nQ. Why is Jessica worried about polar bears?",
+   "accept": [
+    "Because they are losing their homes.",
+    "Because polar bears are losing their homes.",
+    "They are losing their homes."
+   ],
+   "explainKo": "정답: Because they[polar bears] are losing their homes. (교재 p.169 09)",
+   "seconds": 110
+  },
+  {
+   "id": "12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "다음 중 어법상 틀린 문장 두 개를 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. (단어 수는 그대로 유지할 것)\nⓐ I want to speak English well.\nⓑ What polite students are they!\nⓒ She hopes to becomes a doctor someday.",
+   "parts": [
     {
-      "sourceId": "9",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
+     "kind": "fill",
+     "label": "(1) 기호",
+     "placeholder": "(1) 기호",
+     "accept": [
+      "ⓑ",
+      "b",
+      "ⓑ What polite students are they!"
+     ]
     },
     {
-      "sourceId": "10",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "12",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "13",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "14",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "15",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "16",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "17",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "18",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "21",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "23",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
-    },
-    {
-      "sourceId": "24",
-      "reason": "서술형 하위 빈칸이 여러 개이거나 OCR이 문항 줄과 답을 한 줄로 잇지 못함. 확인된 칸만 한 문항으로 실음"
+     "kind": "fill",
+     "label": "(2) 기호",
+     "placeholder": "(2) 기호",
+     "accept": [
+      "ⓒ",
+      "c",
+      "ⓒ She hopes to become a doctor someday."
+     ]
     }
-  ],
-  "questions": [
+   ],
+   "explainKo": "정답: (1) ⓑ What polite students are they! (2) ⓒ She hopes to become a doctor someday. (교재 p.169 12)",
+   "seconds": 120
+  },
+  {
+   "id": "13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "다음 문장의 빈칸에 들어갈 알맞은 말(How 또는 What)을 쓰시오.\n(1) ______ smart she is!\n(2) ______ a lucky boy he is!\n(3) ______ quickly the dog runs!\n(4) ______ cute kittens they are!",
+   "parts": [
     {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: made with. (답지 01)",
-      "type": "fill",
-      "promptEn": "이 케이크는 초콜릿과 바닐라로 만들어졌다.\n→ This cake is ______ chocolate and vanilla.",
-      "accept": [
-        "made with"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
+     "kind": "fill",
+     "label": "(1)",
+     "placeholder": "(1)",
+     "accept": [
+      "How"
+     ]
     },
     {
-      "id": "2",
-      "label": "2",
-      "sourceId": 2,
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: storm. (답지 02)",
-      "type": "fill",
-      "promptEn": "This is very bad weather, with strong winds and usually rain, thunder, or snow.\nThis에 해당하는 단어를 쓰시오.",
-      "accept": [
-        "storm"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
+     "kind": "fill",
+     "label": "(2)",
+     "placeholder": "(2)",
+     "accept": [
+      "What"
+     ]
     },
     {
-      "id": "3",
-      "label": "3-1",
-      "sourceId": "3-1",
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: up. put up. (답지 03 ⓐ)",
-      "type": "fill",
-      "promptEn": "They put ⓐ ______ a new poster.",
-      "accept": [
-        "up"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
+     "kind": "fill",
+     "label": "(3)",
+     "placeholder": "(3)",
+     "accept": [
+      "How"
+     ]
     },
     {
-      "id": "4",
-      "label": "3-2",
-      "sourceId": "3-2",
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: in. in trouble. (답지 03 ⓑ)",
-      "type": "fill",
-      "promptEn": "I lost my key! I am ⓑ ______ trouble now.",
-      "accept": [
-        "in"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "5",
-      "label": "4",
-      "sourceId": 4,
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: to throw a party for. (답지 04)",
-      "type": "fill",
-      "promptEn": "우리는 Jessica의 생일을 위해 파티를 열기로 계획했다.\n→ We planned ______ Jessica's birthday.",
-      "accept": [
-        "to throw a party for"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    },
-    {
-      "id": "6",
-      "label": "5",
-      "sourceId": 5,
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: healthy → sick. (답지 05)",
-      "type": "fill",
-      "promptEn": "틀린 말을 바른 말로만 쓰시오.\nThey can eat plastic waste and get healthy.",
-      "accept": [
-        "sick"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "7",
-      "label": "7",
-      "sourceId": 7,
-      "section": "s1",
-      "sectionTitle": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: worried. (답지 07)",
-      "type": "fill",
-      "promptEn": "Yeah, I'm ⓐ ______ about the polar bears.",
-      "accept": [
-        "worried"
-      ],
-      "phraseBlank": false,
-      "seconds": 90
-    },
-    {
-      "id": "8",
-      "label": "6",
-      "sourceId": 6,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: a surprise party for Mr. Green. (답지 06)",
-      "type": "sentence",
-      "promptEn": "밑줄 친 it이 가리키는 말을 여섯 단어 안팎으로 쓰시오.\nWhy don't we throw a surprise party for him? Let's prepare it together.",
-      "accept": [
-        "a surprise party for Mr. Green"
-      ],
-      "seconds": 110,
-      "deferred": true,
-      "deferredReason": "교재 p.p.168-171 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
-    },
-    {
-      "id": "9",
-      "label": "8",
-      "sourceId": 8,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: We need to do something for them. (답지 08)",
-      "type": "sentence",
-      "promptEn": "우리가 그들을 위해 뭔가를 해야 해. 문장 전체를 쓰시오.",
-      "accept": [
-        "We need to do something for them."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "10",
-      "label": "11",
-      "sourceId": 11,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: How lonely the dog looks! (답지 11)",
-      "type": "sentence",
-      "promptEn": "그 개는 얼마나 외로워 보이는지! 문장 전체를 쓰시오.",
-      "accept": [
-        "How lonely the dog looks!"
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "11",
-      "label": "19",
-      "sourceId": 19,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: But many of them were in trouble. (답지 19)",
-      "type": "sentence",
-      "promptEn": "하지만 그들 중 많은 수가 곤경에 처해 있었다. 문장 전체를 쓰시오.",
-      "accept": [
-        "But many of them were in trouble."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "12",
-      "label": "20",
-      "sourceId": 20,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I wanted to get out of there. (답지 20)",
-      "type": "sentence",
-      "promptEn": "나는 그곳에서 빠져나가고 싶었다. 문장 전체를 쓰시오.",
-      "accept": [
-        "I wanted to get out of there."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "13",
-      "label": "22",
-      "sourceId": 22,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: It saw a lot of plastic waste. (답지 22)",
-      "type": "sentence",
-      "promptEn": "플라스틱 오리는 거대한 쓰레기 섬에서 무엇을 보았나요? 영어 문장으로 쓰시오.",
-      "accept": [
-        "It saw a lot of plastic waste."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "14",
-      "label": "25",
-      "sourceId": 25,
-      "section": "s2",
-      "sectionTitle": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: It is in a bathtub. (답지 25)",
-      "type": "sentence",
-      "promptEn": "플라스틱 오리는 지금 어디에 있나요? 영어 문장으로 쓰시오.",
-      "accept": [
-        "It is in a bathtub."
-      ],
-      "seconds": 110
+     "kind": "fill",
+     "label": "(4)",
+     "placeholder": "(4)",
+     "accept": [
+      "What"
+     ]
     }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 7문항 문장 전체를 쓰시오. 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
+   ],
+   "explainKo": "정답: (1) How (2) What (3) How (4) What. (교재 p.169 13)",
+   "seconds": 120
+  },
+  {
+   "id": "15",
+   "label": "15",
+   "sourceId": 15,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "다음 보기에서 적절한 말을 골라 올바른 형태로 쓰시오.\n보기: buy / visit / learn\n(1) I hope ______ France someday.\n(2) She wants ______ a new dress for the party.\n(3) ______ a second language is not easy.",
+   "parts": [
     {
-      "id": "s1",
-      "title": "Section A · 한 칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 7
+     "kind": "fill",
+     "label": "(1)",
+     "placeholder": "(1)",
+     "accept": [
+      "to visit"
+     ]
     },
     {
-      "id": "s2",
-      "title": "Section B · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 7
+     "kind": "fill",
+     "label": "(2)",
+     "placeholder": "(2)",
+     "accept": [
+      "to buy"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "(3)",
+     "placeholder": "(3)",
+     "accept": [
+      "To learn",
+      "to learn"
+     ]
     }
-  ]
+   ],
+   "explainKo": "정답: (1) to visit (2) to buy (3) To learn. (교재 p.170 15)",
+   "seconds": 120
+  },
+  {
+   "id": "16",
+   "label": "16",
+   "sourceId": 16,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "[16-17] 다음 글을 읽고, 물음에 답하시오. (교재 p.170)\nHi! I am a plastic duck and am a bath toy. But look! I am not in a bathroom. I'm in the middle of the ocean. How did I get here?\nI was from a factory with other ducks. People made us with plastic because it is light and lasts long. People put us in boxes and we went ⓐ______ to sea. But the boxes fell ⓑ______ the ocean ⓒ______ an accident.\n\n16 윗글의 빈칸 ⓐ~ⓒ에 들어갈 적절한 단어를 쓰시오.",
+   "parts": [
+    {
+     "kind": "fill",
+     "label": "ⓐ",
+     "placeholder": "ⓐ",
+     "accept": [
+      "out"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "ⓑ",
+     "placeholder": "ⓑ",
+     "accept": [
+      "into"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "ⓒ",
+     "placeholder": "ⓒ",
+     "accept": [
+      "in"
+     ]
+    }
+   ],
+   "explainKo": "정답: ⓐ out ⓑ into ⓒ in. go out to sea, fall into, in an accident. (교재 p.170 16)",
+   "seconds": 120
+  },
+  {
+   "id": "21",
+   "label": "21",
+   "sourceId": 21,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "[20-22] 다음 글을 읽고 물음에 답하시오. (교재 p.171)\nThen the waves took me to a giant trash island. I saw a lot of plastic waste. (A)난 거기서 빠져나가고 싶었어.\nOne day, a strong storm freed me. ⓐ______ weeks, I finally reached land. There were a lot of people ⓑ______ the beach. Oh, someone picked me up. \"Where am I going now?,\" I thought.\n\n21 윗글의 빈칸 ⓐ~ⓒ에 들어갈 적절한 전치사를 쓰시오. (ⓒ는 picked me ___ 이다.)",
+   "parts": [
+    {
+     "kind": "fill",
+     "label": "ⓐ",
+     "placeholder": "ⓐ",
+     "accept": [
+      "After"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "ⓑ",
+     "placeholder": "ⓑ",
+     "accept": [
+      "at"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "ⓒ",
+     "placeholder": "ⓒ",
+     "accept": [
+      "up"
+     ]
+    }
+   ],
+   "explainKo": "정답: ⓐ After ⓑ at ⓒ up. after weeks, at the beach, pick up. (교재 p.171 21)",
+   "seconds": 120
+  },
+  {
+   "id": "23",
+   "label": "23",
+   "sourceId": 23,
+   "section": "s3",
+   "sectionTitle": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "sectionInstructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "type": "parts",
+   "promptEn": "[23~25] 다음 글을 읽고 물음에 답하시오. (교재 p.171)\nⓐ______ a long journey! I am finally in a bathtub with this boy, Mike. ⓑ______ lucky I am! But sometimes I think about my other duck friends. Are they still in the ocean? I hope to see ⓒthem all someday.\n\n23 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말을 쓰시오.",
+   "parts": [
+    {
+     "kind": "fill",
+     "label": "ⓐ",
+     "placeholder": "ⓐ",
+     "accept": [
+      "What"
+     ]
+    },
+    {
+     "kind": "fill",
+     "label": "ⓑ",
+     "placeholder": "ⓑ",
+     "accept": [
+      "How"
+     ]
+    }
+   ],
+   "explainKo": "정답: ⓐ What ⓑ How. What a long journey! / How lucky I am! (교재 p.171 23)",
+   "seconds": 120
+  },
+  {
+   "id": "10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s4",
+   "sectionTitle": "Section D · 배열",
+   "directionKo": "나오는 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "type": "order",
+   "promptEn": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n그녀는 매일 아침 운동을 하기로 계획했다.\n( planned / she / every / exercise / morning / to )",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "planned"
+    },
+    {
+     "id": "c2",
+     "text": "she"
+    },
+    {
+     "id": "c3",
+     "text": "every"
+    },
+    {
+     "id": "c4",
+     "text": "exercise"
+    },
+    {
+     "id": "c5",
+     "text": "morning"
+    },
+    {
+     "id": "c6",
+     "text": "to"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c1",
+    "c6",
+    "c4",
+    "c3",
+    "c5"
+   ],
+   "explainKo": "정답: She planned to exercise every morning. (교재 p.169 10)",
+   "seconds": 90
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 빈칸에 들어갈 말만 쓰시오. 7문항 문장 전체를 쓰시오. 7문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 한 칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "itemCount": 10
+  },
+  {
+   "id": "s2",
+   "title": "Section B · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "itemCount": 9
+  },
+  {
+   "id": "s3",
+   "title": "Section C · 여러 칸",
+   "directionKo": "각 칸에 들어갈 말을 하나씩 쓰시오.",
+   "ruleKo": "칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 여러 칸",
+   "instructionKo": "각 칸에 들어갈 말을 하나씩 쓰시오. 칸마다 그 칸에 들어갈 말만 쓰세요.",
+   "itemCount": 6
+  },
+  {
+   "id": "s4",
+   "title": "Section D · 배열",
+   "directionKo": "나오는 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "instructionKo": "나오는 순서대로 누르시오. 말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "itemCount": 1
+  }
+ ]
 }

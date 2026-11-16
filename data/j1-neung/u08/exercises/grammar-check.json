@@ -1,346 +1,978 @@
 {
-  "id": "grammar-check",
-  "title": "Grammar 확인 문제",
-  "book": "중1 능률 김기택",
-  "unit": "Lesson 08 Dive into Stories",
-  "sourcePages": "pp.202-203",
-  "questionCount": 10,
-  "omitted": [
+ "id": "grammar-check",
+ "title": "Grammar 확인 문제",
+ "book": "중1 능률 김기택",
+ "unit": "Lesson 08 Dive into Stories",
+ "sourcePages": "pp.202-203",
+ "questionCount": 30,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1",
+   "label": "1",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: What a beautiful view! (교재 p.202 A 01)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "01 [How / What] a beautiful view!",
+   "choices": [
+    "How",
+    "What"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "2",
+   "label": "2",
+   "sourceId": 2,
+   "section": "s1",
+   "sectionTitle": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: How smart she is! (교재 p.202 A 02)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "02 [How / What] smart she is!",
+   "choices": [
+    "How",
+    "What"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "3",
+   "label": "3",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: What an amazing idea! (교재 p.202 A 03)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "03 [How / What] an amazing idea!",
+   "choices": [
+    "How",
+    "What"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "4",
+   "label": "4",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: How fast they run! (교재 p.202 A 04)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "04 [How / What] fast they run!",
+   "choices": [
+    "How",
+    "What"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "5",
+   "label": "5",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: What good students they are! (교재 p.202 A 05)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "05 [How / What] good students they are!",
+   "choices": [
+    "How",
+    "What"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "6",
+   "label": "6",
+   "sourceId": 6,
+   "section": "s2",
+   "sectionTitle": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: What a delicious cake this is! (교재 p.202 B 01)",
+   "type": "sentence",
+   "promptEn": "01 This cake is very delicious! (What 감탄문으로)",
+   "accept": [
+    "What a delicious cake this is!",
+    "What a delicious cake it is!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "7",
+   "label": "7",
+   "sourceId": 7,
+   "section": "s2",
+   "sectionTitle": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: How tall he is! (교재 p.202 B 02)",
+   "type": "sentence",
+   "promptEn": "02 He is so tall! (How 감탄문으로)",
+   "accept": [
+    "How tall he is!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "8",
+   "label": "8",
+   "sourceId": 8,
+   "section": "s2",
+   "sectionTitle": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: What a wonderful day it is! (교재 p.202 B 03)",
+   "type": "sentence",
+   "promptEn": "03 The day is wonderful! (What 감탄문으로)",
+   "accept": [
+    "What a wonderful day it is!",
+    "What a wonderful day!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "9",
+   "label": "9",
+   "sourceId": 9,
+   "section": "s2",
+   "sectionTitle": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: How kind you are! (교재 p.202 B 04)",
+   "type": "sentence",
+   "promptEn": "04 You are very kind! (How 감탄문으로)",
+   "accept": [
+    "How kind you are!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s2",
+   "sectionTitle": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: What beautiful flowers these are! (교재 p.202 B 05)",
+   "type": "sentence",
+   "promptEn": "05 These flowers are beautiful! (What 감탄문으로)",
+   "accept": [
+    "What beautiful flowers these are!",
+    "What beautiful flowers they are!"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s3",
+   "sectionTitle": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: How fun this movie is! (교재 p.202 C 01)",
+   "type": "order",
+   "promptEn": "01 이 영화는 얼마나 재미있는가!",
+   "orderChunks": [
     {
-      "sourceId": "11",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
+     "id": "c1",
+     "text": "movie"
     },
     {
-      "sourceId": "12",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
+     "id": "c2",
+     "text": "How"
     },
     {
-      "sourceId": "13",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
+     "id": "c3",
+     "text": "is"
     },
     {
-      "sourceId": "14",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
+     "id": "c4",
+     "text": "fun"
     },
     {
-      "sourceId": "15",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "16",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "17",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "18",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "19",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "20",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "21",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "22",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "23",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "24",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "25",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "26",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "27",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "28",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "29",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
-    },
-    {
-      "sourceId": "30",
-      "reason": "교재 pp.202-203 원문 확인 전 보류 — 빈 카드였음"
+     "id": "c5",
+     "text": "this"
     }
-  ],
-  "questions": [
+   ],
+   "orderIds": [
+    "c2",
+    "c4",
+    "c5",
+    "c1",
+    "c3"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s3",
+   "sectionTitle": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: What a good start! (교재 p.202 C 02)",
+   "type": "order",
+   "promptEn": "02 좋은 출발이야!",
+   "orderChunks": [
     {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 1)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "1 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
+     "id": "c1",
+     "text": "start"
     },
     {
-      "id": "2",
-      "label": "2",
-      "sourceId": 2,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 2)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "2 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
+     "id": "c2",
+     "text": "What"
     },
     {
-      "id": "3",
-      "label": "3",
-      "sourceId": 3,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 3)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "3 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
+     "id": "c3",
+     "text": "a"
     },
     {
-      "id": "4",
-      "label": "4",
-      "sourceId": 4,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 4)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "4 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "5",
-      "label": "5",
-      "sourceId": 5,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 5)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "5 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "6",
-      "label": "6",
-      "sourceId": 6,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 6)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "6 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "7",
-      "label": "7",
-      "sourceId": 7,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 7)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "7 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "8",
-      "label": "8",
-      "sourceId": 8,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 8)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "8 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "9",
-      "label": "9",
-      "sourceId": 9,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 9)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "9 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
-    },
-    {
-      "id": "10",
-      "label": "10",
-      "sourceId": 10,
-      "section": "s1",
-      "sectionTitle": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: How (답지 p.50 Point1 10)",
-      "type": "mc",
-      "select": "one",
-      "promptEn": "10 How wonderful she was! → (How/What)",
-      "choices": [
-        "How",
-        "What"
-      ],
-      "correctIndexes": [
-        1
-      ],
-      "seconds": 60
+     "id": "c4",
+     "text": "good"
     }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 알맞은 것을 고르시오. 10문항 빈칸에 들어갈 말만 쓰시오. 10문항 문장 전체를 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
+   ],
+   "orderIds": [
+    "c2",
+    "c3",
+    "c4",
+    "c1"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "13",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s3",
+   "sectionTitle": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: How smart you are! (교재 p.202 C 03)",
+   "type": "order",
+   "promptEn": "03 네가 얼마나 똑똑한지!",
+   "orderChunks": [
     {
-      "id": "s1",
-      "title": "Section A · 감탄문 How/What",
-      "directionKo": "알맞은 것을 고르시오.",
-      "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "answerMode": "choice",
-      "answerModeTag": "Choose · 고르기",
-      "instructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "itemCount": 10
+     "id": "c1",
+     "text": "are"
+    },
+    {
+     "id": "c2",
+     "text": "How"
+    },
+    {
+     "id": "c3",
+     "text": "you"
+    },
+    {
+     "id": "c4",
+     "text": "smart"
     }
-  ]
+   ],
+   "orderIds": [
+    "c2",
+    "c4",
+    "c3",
+    "c1"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "14",
+   "label": "14",
+   "sourceId": 14,
+   "section": "s3",
+   "sectionTitle": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: What good friends we are! (교재 p.202 C 04)",
+   "type": "order",
+   "promptEn": "04 우리가 얼마나 좋은 친구들인가!",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "friends"
+    },
+    {
+     "id": "c2",
+     "text": "What"
+    },
+    {
+     "id": "c3",
+     "text": "good"
+    },
+    {
+     "id": "c4",
+     "text": "are"
+    },
+    {
+     "id": "c5",
+     "text": "we"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c3",
+    "c1",
+    "c5",
+    "c4"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "15",
+   "label": "15",
+   "sourceId": 15,
+   "section": "s3",
+   "sectionTitle": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: What a strong bear! (교재 p.202 C 05)",
+   "type": "order",
+   "promptEn": "05 얼마나 강한 곰인가!",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "strong"
+    },
+    {
+     "id": "c2",
+     "text": "bear"
+    },
+    {
+     "id": "c3",
+     "text": "What"
+    },
+    {
+     "id": "c4",
+     "text": "a"
+    }
+   ],
+   "orderIds": [
+    "c3",
+    "c4",
+    "c1",
+    "c2"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "16",
+   "label": "16",
+   "sourceId": 16,
+   "section": "s4",
+   "sectionTitle": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: cold (교재 p.203 A 01)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "01 I want something [cold / coldly] to drink.",
+   "choices": [
+    "cold",
+    "coldly"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "17",
+   "label": "17",
+   "sourceId": 17,
+   "section": "s4",
+   "sectionTitle": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: interesting (교재 p.203 A 02)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "02 Is there anything [interesting / interestingly] to read?",
+   "choices": [
+    "interesting",
+    "interestingly"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "18",
+   "label": "18",
+   "sourceId": 18,
+   "section": "s4",
+   "sectionTitle": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: useful (교재 p.203 A 03)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "03 She found something [use / useful] on the website.",
+   "choices": [
+    "use",
+    "useful"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "19",
+   "label": "19",
+   "sourceId": 19,
+   "section": "s4",
+   "sectionTitle": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: exciting (교재 p.203 A 04)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "04 There's something [exciting / excitingly] about this movie.",
+   "choices": [
+    "exciting",
+    "excitingly"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "20",
+   "label": "20",
+   "sourceId": 20,
+   "section": "s4",
+   "sectionTitle": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "sectionInstructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "explainKo": "정답: beautiful (교재 p.203 A 05)",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "05 She has something [beauty / beautiful] in her hands.",
+   "choices": [
+    "beauty",
+    "beautiful"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "seconds": 60
+  },
+  {
+   "id": "21",
+   "label": "21",
+   "sourceId": 21,
+   "section": "s5",
+   "sectionTitle": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: I want something sweet. (교재 p.203 B 01)",
+   "type": "sentence",
+   "promptEn": "01 I want sweet something.",
+   "accept": [
+    "I want something sweet."
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "22",
+   "label": "22",
+   "sourceId": 22,
+   "section": "s5",
+   "sectionTitle": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: Is there anything interesting to do? (교재 p.203 B 02)",
+   "type": "sentence",
+   "promptEn": "02 Is there interesting anything to do?",
+   "accept": [
+    "Is there anything interesting to do?"
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "23",
+   "label": "23",
+   "sourceId": 23,
+   "section": "s5",
+   "sectionTitle": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: She needs something new to wear. (교재 p.203 B 03)",
+   "type": "sentence",
+   "promptEn": "03 She needs new something to wear.",
+   "accept": [
+    "She needs something new to wear."
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "24",
+   "label": "24",
+   "sourceId": 24,
+   "section": "s5",
+   "sectionTitle": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: He felt something cold in the dark. (교재 p.203 B 04)",
+   "type": "sentence",
+   "promptEn": "04 He felt cold something in the dark.",
+   "accept": [
+    "He felt something cold in the dark."
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "25",
+   "label": "25",
+   "sourceId": 25,
+   "section": "s5",
+   "sectionTitle": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "sectionInstructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "explainKo": "정답: I'd like something delicious for dinner. (교재 p.203 B 05)",
+   "type": "sentence",
+   "promptEn": "05 I'd like delicious something for dinner.",
+   "accept": [
+    "I'd like something delicious for dinner."
+   ],
+   "seconds": 100
+  },
+  {
+   "id": "26",
+   "label": "26",
+   "sourceId": 26,
+   "section": "s6",
+   "sectionTitle": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: I want something delicious to eat. (교재 p.203 C 01)",
+   "type": "order",
+   "promptEn": "01 나는 무언가 맛있는 것을 먹고 싶다.",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "eat"
+    },
+    {
+     "id": "c2",
+     "text": "I"
+    },
+    {
+     "id": "c3",
+     "text": "to"
+    },
+    {
+     "id": "c4",
+     "text": "something"
+    },
+    {
+     "id": "c5",
+     "text": "want"
+    },
+    {
+     "id": "c6",
+     "text": "delicious"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c5",
+    "c4",
+    "c6",
+    "c3",
+    "c1"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "27",
+   "label": "27",
+   "sourceId": 27,
+   "section": "s6",
+   "sectionTitle": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: She heard something strange outside. (교재 p.203 C 02)",
+   "type": "order",
+   "promptEn": "02 그녀는 밖에서 이상한 소리를 들었다.",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "strange"
+    },
+    {
+     "id": "c2",
+     "text": "She"
+    },
+    {
+     "id": "c3",
+     "text": "something"
+    },
+    {
+     "id": "c4",
+     "text": "heard"
+    },
+    {
+     "id": "c5",
+     "text": "outside"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c4",
+    "c3",
+    "c1",
+    "c5"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "28",
+   "label": "28",
+   "sourceId": 28,
+   "section": "s6",
+   "sectionTitle": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: Is there anything interesting in the news. (교재 p.203 C 03)",
+   "type": "order",
+   "promptEn": "03 뉴스에 흥미로운 소식이 있나?",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "the"
+    },
+    {
+     "id": "c2",
+     "text": "Is"
+    },
+    {
+     "id": "c3",
+     "text": "anything"
+    },
+    {
+     "id": "c4",
+     "text": "there"
+    },
+    {
+     "id": "c5",
+     "text": "in"
+    },
+    {
+     "id": "c6",
+     "text": "interesting"
+    },
+    {
+     "id": "c7",
+     "text": "news"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c4",
+    "c3",
+    "c6",
+    "c5",
+    "c1",
+    "c7"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "29",
+   "label": "29",
+   "sourceId": 29,
+   "section": "s6",
+   "sectionTitle": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: I have nothing important to do today. (교재 p.203 C 04)",
+   "type": "order",
+   "promptEn": "04 나는 오늘 해야 할 중요한 일이 없다.",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "I"
+    },
+    {
+     "id": "c2",
+     "text": "nothing"
+    },
+    {
+     "id": "c3",
+     "text": "have"
+    },
+    {
+     "id": "c4",
+     "text": "to"
+    },
+    {
+     "id": "c5",
+     "text": "important"
+    },
+    {
+     "id": "c6",
+     "text": "today"
+    },
+    {
+     "id": "c7",
+     "text": "do"
+    }
+   ],
+   "orderIds": [
+    "c1",
+    "c3",
+    "c2",
+    "c5",
+    "c4",
+    "c7",
+    "c6"
+   ],
+   "seconds": 75
+  },
+  {
+   "id": "30",
+   "label": "30",
+   "sourceId": 30,
+   "section": "s6",
+   "sectionTitle": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "sectionInstructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "explainKo": "정답: She bought something expensive at the store. (교재 p.203 C 05)",
+   "type": "order",
+   "promptEn": "05 그녀는 가게에서 비싼 무언가를 샀다.",
+   "orderChunks": [
+    {
+     "id": "c1",
+     "text": "something"
+    },
+    {
+     "id": "c2",
+     "text": "She"
+    },
+    {
+     "id": "c3",
+     "text": "the"
+    },
+    {
+     "id": "c4",
+     "text": "expensive"
+    },
+    {
+     "id": "c5",
+     "text": "at"
+    },
+    {
+     "id": "c6",
+     "text": "bought"
+    },
+    {
+     "id": "c7",
+     "text": "store"
+    }
+   ],
+   "orderIds": [
+    "c2",
+    "c6",
+    "c1",
+    "c4",
+    "c5",
+    "c3",
+    "c7"
+   ],
+   "seconds": 75
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 감탄문과 something + 형용사 확인 문제 30문항입니다. 고르기는 누르기, 배열은 순서대로 누르기, 영작은 문장 전체를 쓰세요.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 감탄문 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 5
+  },
+  {
+   "id": "s2",
+   "title": "Section B · 감탄문으로 바꾸기",
+   "directionKo": "괄호 안의 지시대로 문장을 바꾸어 쓰시오.",
+   "ruleKo": "문장 전체를 영어로 쓰세요.",
+   "instructionKo": "문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "itemCount": 5
+  },
+  {
+   "id": "s3",
+   "title": "Section C · 감탄문 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "instructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "itemCount": 5
+  },
+  {
+   "id": "s4",
+   "title": "Section D · something + 형용사 고르기",
+   "directionKo": "괄호 안에서 적절한 것을 고르시오.",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "괄호 안에서 적절한 것을 고르시오. 보기 중에서 하나를 누르세요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 5
+  },
+  {
+   "id": "s5",
+   "title": "Section E · something + 형용사 고치기",
+   "directionKo": "어법상 틀린 부분을 찾아 바르게 고쳐 문장 전체를 쓰시오.",
+   "ruleKo": "고친 문장 전체를 영어로 쓰세요.",
+   "instructionKo": "고친 문장 전체를 영어로 쓰세요.",
+   "answerMode": "sentence",
+   "answerModeTag": "Write · 문장 쓰기",
+   "itemCount": 5
+  },
+  {
+   "id": "s6",
+   "title": "Section F · something + 형용사 배열",
+   "directionKo": "우리말에 맞도록 말을 순서대로 누르시오.",
+   "ruleKo": "말을 순서대로 누르세요. 받아쓰기는 하지 않아요.",
+   "instructionKo": "우리말에 맞도록 말을 순서대로 누르세요.",
+   "answerMode": "order",
+   "answerModeTag": "Order · 순서 누르기",
+   "itemCount": 5
+  }
+ ]
 }

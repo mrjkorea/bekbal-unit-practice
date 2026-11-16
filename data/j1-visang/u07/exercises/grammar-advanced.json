@@ -1,134 +1,378 @@
 {
-  "id": "grammar-advanced",
-  "title": "Grammar 심화 문제",
-  "book": "중1 비상 황종배",
-  "unit": "Lesson 07 Greener, Greater",
-  "sourcePages": "pp.148-149",
-  "questionCount": 3,
-  "omitted": [
+ "id": "grammar-advanced",
+ "title": "Grammar 심화 문제",
+ "book": "중1 비상 황종배",
+ "unit": "Lesson 07 Greener, Greater",
+ "sourcePages": "pp.148-149",
+ "questionCount": 13,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1",
+   "label": "1",
+   "sourceId": 1,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: I planned to exercise regularly. (답지 01)",
+   "type": "sentence",
+   "promptEn": "‘하려고 계획하다’를 plan to로 하여 문장 전체를 쓰시오.\n나는 규칙적으로 운동할 계획이다.",
+   "accept": [
+    "I planned to exercise regularly."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "3",
+   "label": "3",
+   "sourceId": 3,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 밑줄 친 ①~⑤ 중 어법상 틀린 것은?\n① How ② a ③ tasty dish ④ you ⑤ make!",
+   "choices": [
+    "① How",
+    "② a",
+    "③ tasty dish",
+    "④ you",
+    "⑤ make"
+   ],
+   "correctIndexes": [
+    1
+   ],
+   "explainKo": "정답: ① How → What. 명사구(a tasty dish)를 강조할 때는 What을 쓴다. (교재 p.148 03)",
+   "seconds": 45
+  },
+  {
+   "id": "4",
+   "label": "4",
+   "sourceId": 4,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+   "choices": [
+    "I planned <u>to buy</u> a new car.",
+    "He decided <u>to take</u> a rest.",
+    "His hope is <u>to learn</u> English.",
+    "I need <u>to know</u> his phone number.",
+    "I want <u>to finish</u> my work early."
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ ③은 보어로 쓰인 to부정사이고 나머지는 목적어이다. (교재 p.148 04)",
+   "seconds": 45
+  },
+  {
+   "id": "5",
+   "label": "5",
+   "sourceId": 5,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 밑줄 친 부분을 바르게 고쳐 쓰지 않은 것은?",
+   "choices": [
+    "How sleepy am I! → I am",
+    "What early they came! → How",
+    "How a busy day it is! → What",
+    "How sweetly the cake tastes! → sweet",
+    "What smart students he is! → are they"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ How a busy day it is! → What a busy day it is! (교재 p.148 05)",
+   "seconds": 45
+  },
+  {
+   "id": "6",
+   "label": "6",
+   "sourceId": 6,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 (A)~(C)의 각 괄호에서 어법에 맞는 것끼리 바르게 짝지어진 것은?\n(A) I decided [marry / to marry] him.\n(B) Bill hopes [being / to be] an actor.\n(C) She likes [to chat / to chats] with her friends.",
+   "choices": [
+    "marry / being / to chat",
+    "marry / to be / to chats",
+    "to marry / to be / to chat",
+    "to marry / to be / to chats",
+    "to marry / being / to chat"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ to marry / to be / to chat. decide와 hope는 to부정사를 목적어로 취한다. (교재 p.148 06)",
+   "seconds": 45
+  },
+  {
+   "id": "8",
+   "label": "8",
+   "sourceId": 8,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[08-09] 다음 중 어법상 틀린 것을 고르시오.\n① She likes to swim in the river.\n② You don't need to worry about it.\n③ To eat healthy food is important.\n④ Jack and I decided to go to Paris next week.\n⑤ To traveling all around the world will be fun.",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "correctIndexes": [
+    5
+   ],
+   "explainKo": "정답: ⑤ To traveling → To travel. 주어로 쓰인 to부정사는 동사원형이 온다. (교재 p.149 08)",
+   "seconds": 45
+  },
+  {
+   "id": "9",
+   "label": "9",
+   "sourceId": 9,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "[08-09] 다음 중 어법상 틀린 것을 고르시오.\n① How expensive this bag is!\n② How small the room looks!\n③ How good he speaks English!\n④ What a beautiful rainbow it is!\n⑤ What an exciting trip it will be!",
+   "choices": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ How good → How well. 동사 speaks를 꾸미는 부사가 필요하다. (교재 p.149 09)",
+   "seconds": 45
+  },
+  {
+   "id": "10",
+   "label": "10",
+   "sourceId": 10,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 (A)~(C)의 각 괄호에서 어법에 맞는 것끼리 바르게 짝지어진 것은?\n(A) [How / What] kind my neighbors are!\n(B) [How / What] fantastic ideas they are!\n(C) How [lucky / luckily] you are to be here!",
+   "choices": [
+    "How / How / luckily",
+    "How / What / lucky",
+    "How / What / luckily",
+    "What / How / luckily",
+    "What / What / lucky"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② How / What / lucky. 형용사 kind는 How, 명사구 fantastic ideas는 What, be동사 뒤에는 형용사 lucky. (교재 p.149 10)",
+   "seconds": 45
+  },
+  {
+   "id": "11",
+   "label": "11",
+   "sourceId": 11,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 짝지어진 두 문장의 전환이 옳지 않은 것은?",
+   "choices": [
+    "She works very hard. → How hard she works!",
+    "He is very tall. → How tall he is!",
+    "The movie was very sad. → What a sad movie it is!",
+    "The cushion feels very soft. → How soft the cushion feels!",
+    "The tests were very easy. → What easy tests they were!"
+   ],
+   "correctIndexes": [
+    3
+   ],
+   "explainKo": "정답: ③ 형용사 sad를 강조할 때는 How sad the movie was!로 써야 한다. (교재 p.149 11)",
+   "seconds": 45
+  },
+  {
+   "id": "12",
+   "label": "12",
+   "sourceId": 12,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "type": "mc",
+   "select": "one",
+   "promptEn": "다음 중 어법상 옳은 문장의 개수로 적절한 것은?\n• How far the restaurant is from here!\n• What cute puppy!\n• He started to take piano lessons.\n• We planned leaving the city tonight.\n• To eat hamburgers are not good for your health.",
+   "choices": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "correctIndexes": [
+    2
+   ],
+   "explainKo": "정답: ② 2개. 첫 문장과 'He started to take piano lessons.'가 옳다. (교재 p.149 12)",
+   "seconds": 45
+  },
+  {
+   "id": "2",
+   "label": "13",
+   "sourceId": 13,
+   "section": "s1",
+   "sectionTitle": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "explainKo": "정답: Her goal is to win the contest. (답지 13)",
+   "type": "sentence",
+   "promptEn": "다음 우리말에 맞도록 문장 전체를 쓰시오.\n그녀의 목표는 대회에서 우승하는 것이다.",
+   "accept": [
+    "Her goal is to win the contest."
+   ],
+   "seconds": 110
+  },
+  {
+   "id": "3",
+   "label": "2",
+   "sourceId": 2,
+   "section": "s2",
+   "sectionTitle": "Section B · 빈칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "explainKo": "정답: a beautiful sky it. (답지 02)",
+   "type": "fill",
+   "promptEn": "How 감탄문을 What 감탄문으로 바꿀 때 빈칸에 들어갈 말을 쓰시오.\nHow beautiful the sky is! = What ______ is!",
+   "accept": [
+    "a beautiful sky it"
+   ],
+   "phraseBlank": true,
+   "seconds": 90
+  },
+  {
+   "id": "7",
+   "label": "7",
+   "sourceId": 7,
+   "section": "s2",
+   "sectionTitle": "Section B · 빈칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "parts",
+   "answerModeTag": "Type · 빈칸 말만",
+   "type": "parts",
+   "seconds": 120,
+   "promptEn": "다음 보기에서 적절한 말을 골라 올바른 형태로 쓰시오.\n보기: become / help / travel\n(1) I want ______ poor people.\n(2) His dream is ______ a musician.\n(3) She hopes ______ around the world.",
+   "parts": [
     {
-      "sourceId": "3",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "(1)",
+     "placeholder": "(1)",
+     "accept": [
+      "to help"
+     ]
     },
     {
-      "sourceId": "4",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "(2)",
+     "placeholder": "(2)",
+     "accept": [
+      "to become"
+     ]
     },
     {
-      "sourceId": "5",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "6",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "7",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "8",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "9",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "10",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "11",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
-    },
-    {
-      "sourceId": "12",
-      "reason": "심화 보기 영어 순서가 OCR에서 확정되지 않음"
+     "kind": "fill",
+     "label": "(3)",
+     "placeholder": "(3)",
+     "accept": [
+      "to travel"
+     ]
     }
-  ],
-  "questions": [
-    {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: I planned to exercise regularly. (답지 01)",
-      "type": "sentence",
-      "promptEn": "‘하려고 계획하다’를 plan to로 하여 문장 전체를 쓰시오.\n나는 규칙적으로 운동할 계획이다.",
-      "accept": [
-        "I planned to exercise regularly."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "2",
-      "label": "13",
-      "sourceId": 13,
-      "section": "s1",
-      "sectionTitle": "Section A · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답: Her goal is to win the contest. (답지 13)",
-      "type": "sentence",
-      "promptEn": "다음 우리말에 맞도록 문장 전체를 쓰시오.\n그녀의 목표는 대회에서 우승하는 것이다.",
-      "accept": [
-        "Her goal is to win the contest."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "3",
-      "label": "2",
-      "sourceId": 2,
-      "section": "s2",
-      "sectionTitle": "Section B · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "sectionInstructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "explainKo": "정답: a beautiful sky it. (답지 02)",
-      "type": "fill",
-      "promptEn": "How 감탄문을 What 감탄문으로 바꿀 때 빈칸에 들어갈 말을 쓰시오.\nHow beautiful the sky is! = What ______ is!",
-      "accept": [
-        "a beautiful sky it"
-      ],
-      "phraseBlank": true,
-      "seconds": 90
-    }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 문장 전체를 쓰시오. 2문항 빈칸에 들어갈 말만 쓰시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
-    {
-      "id": "s1",
-      "title": "Section A · 문장",
-      "directionKo": "문장 전체를 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 2
-    },
-    {
-      "id": "s2",
-      "title": "Section B · 빈칸",
-      "directionKo": "빈칸에 들어갈 말만 쓰시오.",
-      "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "answerMode": "words",
-      "answerModeTag": "Type · 빈칸 말만",
-      "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "itemCount": 1
-    }
-  ]
+   ],
+   "explainKo": "정답: (1) to help (2) to become (3) to travel. (교재 p.148 07)"
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "통과 80%. 문장 전체를 쓰시오. 2문항 빈칸에 들어갈 말만 쓰시오. 1문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Section A · 문장",
+   "directionKo": "문장 전체를 쓰시오.",
+   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 문장 전체",
+   "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "itemCount": 11
+  },
+  {
+   "id": "s2",
+   "title": "Section B · 빈칸",
+   "directionKo": "빈칸에 들어갈 말만 쓰시오.",
+   "ruleKo": "이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "answerMode": "words",
+   "answerModeTag": "Type · 빈칸 말만",
+   "instructionKo": "빈칸에 들어갈 말만 쓰시오. 이 칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
+   "itemCount": 2
+  }
+ ]
 }
