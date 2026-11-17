@@ -318,16 +318,16 @@
       "promptEn": "8 하지만 그 상자들이 사고로 바다에 빠진 거야.\nBut the boxes ______ into the ______ in an ______.",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "ocean"
+        },
+        {
           "id": "c1",
           "text": "accident"
         },
         {
           "id": "c2",
           "text": "fell"
-        },
-        {
-          "id": "c3",
-          "text": "ocean"
         }
       ],
       "orderIds": [
@@ -353,12 +353,12 @@
       "promptEn": "9 다행히도, 우리는 상자들 밖으로 나올 수 있었어.\nLuckily, we ______ ______ out of the ______.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "boxes"
-        },
-        {
           "id": "c2",
           "text": "could"
+        },
+        {
+          "id": "c1",
+          "text": "boxes"
         },
         {
           "id": "c3",
@@ -478,20 +478,20 @@
       "promptEn": "12 하지만 그들 중 많은 이들이 어려움에 빠져 있었어.\nBut ______ of ______ ______ in ______.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "were"
-        },
-        {
           "id": "c2",
           "text": "them"
         },
         {
-          "id": "c3",
-          "text": "many"
-        },
-        {
           "id": "c4",
           "text": "trouble"
+        },
+        {
+          "id": "c1",
+          "text": "were"
+        },
+        {
+          "id": "c3",
+          "text": "many"
         }
       ],
       "orderIds": [
@@ -518,20 +518,12 @@
       "promptEn": "13 한번은, 내가 낚시 그물에 걸린 바다거북을 만났어.\nOne ______, I ______ a ______ ______ in a ______ ______.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "turtle"
-        },
-        {
-          "id": "c2",
-          "text": "time"
-        },
-        {
           "id": "c3",
           "text": "met"
         },
         {
-          "id": "c4",
-          "text": "fishing"
+          "id": "c1",
+          "text": "turtle"
         },
         {
           "id": "c5",
@@ -540,6 +532,14 @@
         {
           "id": "c6",
           "text": "net"
+        },
+        {
+          "id": "c2",
+          "text": "time"
+        },
+        {
+          "id": "c4",
+          "text": "fishing"
         }
       ],
       "orderIds": [
@@ -608,16 +608,16 @@
       "promptEn": "15 나는 도와주고 싶었지만, 할 수 없었어.\nI ______ to ______, but I ______.",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "wanted"
+        },
+        {
           "id": "c1",
           "text": "couldn't"
         },
         {
           "id": "c2",
           "text": "help"
-        },
-        {
-          "id": "c3",
-          "text": "wanted"
         }
       ],
       "orderIds": [
@@ -673,8 +673,8 @@
       "promptEn": "17 그때 파도가 나를 거대한 쓰레기 섬으로 데리고 갔어.\nThen the ______ ______ ______ to a giant ______ ______.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "me"
+          "id": "c5",
+          "text": "took"
         },
         {
           "id": "c2",
@@ -685,12 +685,12 @@
           "text": "island"
         },
         {
-          "id": "c4",
-          "text": "waves"
+          "id": "c1",
+          "text": "me"
         },
         {
-          "id": "c5",
-          "text": "took"
+          "id": "c4",
+          "text": "waves"
         }
       ],
       "orderIds": [
@@ -833,12 +833,12 @@
       "promptEn": "21 몇 주 후에 나는 마침내 육지에 도착했지.\nAfter ______, I finally ______ ______.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "land"
-        },
-        {
           "id": "c2",
           "text": "weeks"
+        },
+        {
+          "id": "c1",
+          "text": "land"
         },
         {
           "id": "c3",
@@ -1087,12 +1087,12 @@
           "text": "friends"
         },
         {
-          "id": "c2",
-          "text": "duck"
-        },
-        {
           "id": "c3",
           "text": "think"
+        },
+        {
+          "id": "c2",
+          "text": "duck"
         }
       ],
       "orderIds": [
@@ -1122,12 +1122,12 @@
           "text": "ocean"
         },
         {
-          "id": "c2",
-          "text": "they"
-        },
-        {
           "id": "c3",
           "text": "are"
+        },
+        {
+          "id": "c2",
+          "text": "they"
         }
       ],
       "orderIds": [
@@ -1153,16 +1153,16 @@
       "promptEn": "30 나는 언젠가 그들 모두를 만나기를 바라.\nI ______ to ______ ______ all someday.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "see"
+          "id": "c3",
+          "text": "hope"
         },
         {
           "id": "c2",
           "text": "them"
         },
         {
-          "id": "c3",
-          "text": "hope"
+          "id": "c1",
+          "text": "see"
         }
       ],
       "orderIds": [

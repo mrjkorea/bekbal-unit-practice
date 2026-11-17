@@ -223,28 +223,28 @@
       "promptEn": "시험에 통과하는 것은 어렵다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "difficult"
-        },
-        {
           "id": "c2",
           "text": "is"
+        },
+        {
+          "id": "c6",
+          "text": "the"
         },
         {
           "id": "c3",
           "text": "pass"
         },
         {
-          "id": "c4",
-          "text": "to"
-        },
-        {
           "id": "c5",
           "text": "test"
         },
         {
-          "id": "c6",
-          "text": "the"
+          "id": "c1",
+          "text": "difficult"
+        },
+        {
+          "id": "c4",
+          "text": "to"
         }
       ],
       "orderIds": [
@@ -273,24 +273,24 @@
       "promptEn": "그의 목표는 에베레스트산을 오르는 것이다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "climb"
+          "id": "c4",
+          "text": "his"
         },
         {
-          "id": "c2",
-          "text": "Everest"
+          "id": "c1",
+          "text": "climb"
         },
         {
           "id": "c3",
           "text": "goal"
         },
         {
-          "id": "c4",
-          "text": "his"
+          "id": "c2",
+          "text": "Everest"
         },
         {
-          "id": "c5",
-          "text": "is"
+          "id": "c8",
+          "text": "to"
         },
         {
           "id": "c6",
@@ -301,8 +301,8 @@
           "text": "the"
         },
         {
-          "id": "c8",
-          "text": "to"
+          "id": "c5",
+          "text": "is"
         }
       ],
       "orderIds": [
@@ -383,8 +383,20 @@
       "promptEn": "그들은 그 제안을 받아들이지 않기로 결정했다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "accept"
+          "id": "c4",
+          "text": "offer"
+        },
+        {
+          "id": "c6",
+          "text": "they"
+        },
+        {
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "to"
         },
         {
           "id": "c2",
@@ -395,20 +407,8 @@
           "text": "not"
         },
         {
-          "id": "c4",
-          "text": "offer"
-        },
-        {
-          "id": "c5",
-          "text": "the"
-        },
-        {
-          "id": "c6",
-          "text": "they"
-        },
-        {
-          "id": "c7",
-          "text": "to"
+          "id": "c1",
+          "text": "accept"
         }
       ],
       "orderIds": [
@@ -498,20 +498,16 @@
       "promptEn": "건강을 유지하는 것은 행복의 시작이다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "happiness"
+          "id": "c4",
+          "text": "is"
+        },
+        {
+          "id": "c7",
+          "text": "to"
         },
         {
           "id": "c2",
           "text": "healthy"
-        },
-        {
-          "id": "c3",
-          "text": "of"
-        },
-        {
-          "id": "c4",
-          "text": "is"
         },
         {
           "id": "c5",
@@ -522,12 +518,16 @@
           "text": "stay"
         },
         {
-          "id": "c7",
-          "text": "to"
-        },
-        {
           "id": "c8",
           "text": "the"
+        },
+        {
+          "id": "c3",
+          "text": "of"
+        },
+        {
+          "id": "c1",
+          "text": "happiness"
         }
       ],
       "orderIds": [
@@ -968,12 +968,8 @@
       "promptEn": "날씨가 정말 화창하구나!",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "day"
-        },
-        {
-          "id": "c2",
-          "text": "it"
+          "id": "c6",
+          "text": "sunny"
         },
         {
           "id": "c3",
@@ -984,12 +980,16 @@
           "text": "is"
         },
         {
-          "id": "c5",
-          "text": "a"
+          "id": "c2",
+          "text": "it"
         },
         {
-          "id": "c6",
-          "text": "sunny"
+          "id": "c1",
+          "text": "day"
+        },
+        {
+          "id": "c5",
+          "text": "a"
         }
       ],
       "orderIds": [
@@ -1153,20 +1153,8 @@
       "promptEn": "이것은 정말 흥미로운 책이구나!",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "book"
-        },
-        {
-          "id": "c2",
-          "text": "what"
-        },
-        {
           "id": "c3",
           "text": "this"
-        },
-        {
-          "id": "c4",
-          "text": "an"
         },
         {
           "id": "c5",
@@ -1175,6 +1163,18 @@
         {
           "id": "c6",
           "text": "interesting"
+        },
+        {
+          "id": "c1",
+          "text": "book"
+        },
+        {
+          "id": "c4",
+          "text": "an"
+        },
+        {
+          "id": "c2",
+          "text": "what"
         }
       ],
       "orderIds": [
@@ -1203,6 +1203,18 @@
       "promptEn": "이것은 정말 아름다운 그림이구나!",
       "orderChunks": [
         {
+          "id": "c5",
+          "text": "is"
+        },
+        {
+          "id": "c4",
+          "text": "a"
+        },
+        {
+          "id": "c6",
+          "text": "beautiful"
+        },
+        {
           "id": "c1",
           "text": "painting"
         },
@@ -1213,18 +1225,6 @@
         {
           "id": "c3",
           "text": "this"
-        },
-        {
-          "id": "c4",
-          "text": "a"
-        },
-        {
-          "id": "c5",
-          "text": "is"
-        },
-        {
-          "id": "c6",
-          "text": "beautiful"
         }
       ],
       "orderIds": [

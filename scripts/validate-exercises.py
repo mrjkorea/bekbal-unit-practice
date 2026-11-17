@@ -129,6 +129,36 @@ def word_len(s):
     return len([w for w in str(s).split() if any(ch.isalnum() for ch in w)])
 
 
+def check_order_bank(q):
+    """Jay 2026-11-17: an order card is not a question when the chips already
+    sit in a clickable order. Clicking the bank left to right (or right to left)
+    then scores without reading the sentence, so the order must not run one way.
+    0.0 = chips in answer order, 1.0 = chips in reverse answer order."""
+    chunks = q.get("orderChunks") or []
+    ids = q.get("orderIds") or []
+    if len(chunks) < 3 or len(ids) < 3:
+        return []
+    pos = {c["id"]: i for i, c in enumerate(chunks)}
+    seq = [pos[i] for i in ids if i in pos]
+    if len(seq) < 3:
+        return []
+    steps = len(seq) - 1
+    up = sum(1 for a, b in zip(seq, seq[1:]) if b > a)
+    down = steps - up
+    texts = [str(c.get("text", "")).lower() for c in chunks]
+    if up == steps:
+        return ["word chips are already in answer order"]
+    if down == steps:
+        return ["word chips are in reverse answer order"]
+    if up >= 0.8 * steps:
+        return [f"word chips nearly in answer order ({up}/{steps} steps)"]
+    if down >= 0.8 * steps:
+        return [f"word chips nearly reverse answer order ({down}/{steps} steps)"]
+    if texts == sorted(texts) or (len(set(map(len, texts))) > 1 and texts == sorted(texts, key=len)):
+        return ["word chips are sorted, so the order reads as a pattern"]
+    return []
+
+
 def check_word_count(q):
     """Jay 2026-11-17: a prompt may not demand a word count that no stored
     answer meets, because then a correct sentence of that length is marked wrong.
@@ -157,6 +187,7 @@ def main():
             total += 1
             probs = check_item(q)
             probs += check_word_count(q)
+            probs += check_order_bank(q)
             rel = os.path.relpath(f, ROOT)
             if probs and allowed(rel, q.get("id")):
                 probs = []

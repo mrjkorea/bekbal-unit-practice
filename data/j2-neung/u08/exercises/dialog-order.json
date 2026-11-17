@@ -27,20 +27,20 @@
           "text": "They are chairs with special sensors. They can check your health while you are sitting."
         },
         {
-          "id": "s2",
-          "text": "I'm surprised that a chair can do so many things."
-        },
-        {
           "id": "s3",
           "text": "No, I haven't. What are they?"
+        },
+        {
+          "id": "s5",
+          "text": "Look at this chair! It looks comfortable."
         },
         {
           "id": "s4",
           "text": "It's a smart chair. Have you heard about smart chairs?"
         },
         {
-          "id": "s5",
-          "text": "Look at this chair! It looks comfortable."
+          "id": "s2",
+          "text": "I'm surprised that a chair can do so many things."
         }
       ],
       "orderIds": [

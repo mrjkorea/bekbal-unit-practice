@@ -16,20 +16,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  Playing VR games is OK, too. Let's go play VR games together."
+          "id": "d",
+          "text": "ⓓ  I like face painting more. What about you?"
         },
         {
-          "id": "b",
-          "text": "ⓑ  We can do face painting or play VR games. Which do you like more?"
+          "id": "a",
+          "text": "ⓐ  Playing VR games is OK, too. Let's go play VR games together."
         },
         {
           "id": "c",
           "text": "ⓒ  I want to play VR games. I don't want to wash my face again."
         },
         {
-          "id": "d",
-          "text": "ⓓ  I like face painting more. What about you?"
+          "id": "b",
+          "text": "ⓑ  We can do face painting or play VR games. Which do you like more?"
         }
       ],
       "orderIds": [
@@ -56,8 +56,8 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  I like tteokbokki much better. I like spicy food."
+          "id": "d",
+          "text": "ⓓ  Then, let's order tteokbokki. It looks delicious."
         },
         {
           "id": "b",
@@ -68,8 +68,8 @@
           "text": "ⓒ  They have tteokbokki and gimbap here. Which of the two do you like better?"
         },
         {
-          "id": "d",
-          "text": "ⓓ  Then, let's order tteokbokki. It looks delicious."
+          "id": "a",
+          "text": "ⓐ  I like tteokbokki much better. I like spicy food."
         }
       ],
       "orderIds": [
@@ -96,20 +96,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  I like the T-shirt better."
+          "id": "d",
+          "text": "ⓓ  Let's get a souvenir."
         },
         {
-          "id": "b",
-          "text": "ⓑ  There is a nice picture of the festival on it."
+          "id": "a",
+          "text": "ⓐ  I like the T-shirt better."
         },
         {
           "id": "c",
           "text": "ⓒ  Which do you like better, the T-shirt or the cap?"
         },
         {
-          "id": "d",
-          "text": "ⓓ  Let's get a souvenir."
+          "id": "b",
+          "text": "ⓑ  There is a nice picture of the festival on it."
         },
         {
           "id": "e",
@@ -141,24 +141,24 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  Well, yellow is my favorite color."
-        },
-        {
-          "id": "b",
-          "text": "ⓑ  Which do you like more, the red flowers or the yellow flowers?"
-        },
-        {
-          "id": "c",
-          "text": "ⓒ  I like the yellow flowers more."
-        },
-        {
           "id": "d",
           "text": "ⓓ  Why do you like them more?"
         },
         {
           "id": "e",
           "text": "ⓔ  Look! There are lots of pretty flowers here."
+        },
+        {
+          "id": "a",
+          "text": "ⓐ  Well, yellow is my favorite color."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  I like the yellow flowers more."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Which do you like more, the red flowers or the yellow flowers?"
         }
       ],
       "orderIds": [
@@ -190,36 +190,36 @@
           "text": "ⓐ  Yeah. Let's do something together until then."
         },
         {
-          "id": "b",
-          "text": "ⓑ  I guess we can ride bikes or go for a boat ride. Which do you like more?"
-        },
-        {
-          "id": "c",
-          "text": "ⓒ  Then, let's go for a boat ride."
-        },
-        {
-          "id": "d",
-          "text": "ⓓ  Going for a boat ride. I think it'll be more fun."
-        },
-        {
           "id": "e",
           "text": "ⓔ  Don't forget Korea."
-        },
-        {
-          "id": "f",
-          "text": "ⓕ  Of course, Korea, too. So, the fireworks start at 7 p.m. Right?"
         },
         {
           "id": "g",
           "text": "ⓖ  Hey, Emma. Are you here to see the fireworks, too?"
         },
         {
-          "id": "h",
-          "text": "ⓗ  Yes. I hear China, Italy, and the USA are participating this year."
-        },
-        {
           "id": "i",
           "text": "ⓘ  Hi, Jihan. What a surprise!"
+        },
+        {
+          "id": "f",
+          "text": "ⓕ  Of course, Korea, too. So, the fireworks start at 7 p.m. Right?"
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Then, let's go for a boat ride."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  I guess we can ride bikes or go for a boat ride. Which do you like more?"
+        },
+        {
+          "id": "d",
+          "text": "ⓓ  Going for a boat ride. I think it'll be more fun."
+        },
+        {
+          "id": "h",
+          "text": "ⓗ  Yes. I hear China, Italy, and the USA are participating this year."
         }
       ],
       "orderIds": [
@@ -255,20 +255,20 @@
           "text": "ⓐ  This year, we invited Mr. Kumar, a world-famous Indian chef."
         },
         {
-          "id": "b",
-          "text": "ⓑ  Every year, we invite great chefs from around the world."
-        },
-        {
-          "id": "c",
-          "text": "ⓒ  Do you like Indian food? Then, don't miss his cooking class."
-        },
-        {
           "id": "d",
           "text": "ⓓ  Welcome to the ABC World Food Festival!"
         },
         {
           "id": "e",
           "text": "ⓔ  You can also get his recipe book for free."
+        },
+        {
+          "id": "c",
+          "text": "ⓒ  Do you like Indian food? Then, don't miss his cooking class."
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Every year, we invite great chefs from around the world."
         }
       ],
       "orderIds": [
@@ -296,20 +296,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  No. I'll be home. I like studying at home more than at the library."
+          "id": "d",
+          "text": "ⓓ  I'm sorry, but I can't. I have an exam on Monday."
         },
         {
           "id": "b",
           "text": "ⓑ  So, you're going to be in the library all weekend?"
         },
         {
-          "id": "c",
-          "text": "ⓒ  Let's go to the movies this weekend."
+          "id": "a",
+          "text": "ⓐ  No. I'll be home. I like studying at home more than at the library."
         },
         {
-          "id": "d",
-          "text": "ⓓ  I'm sorry, but I can't. I have an exam on Monday."
+          "id": "c",
+          "text": "ⓒ  Let's go to the movies this weekend."
         }
       ],
       "orderIds": [
@@ -336,12 +336,16 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "a",
-          "text": "ⓐ  It's too big. I think it'll be heavy, too."
+          "id": "e",
+          "text": "ⓔ  I'm looking for a gift for my grandmother."
         },
         {
           "id": "b",
           "text": "ⓑ  Really? Then, I'll take it."
+        },
+        {
+          "id": "a",
+          "text": "ⓐ  It's too big. I think it'll be heavy, too."
         },
         {
           "id": "c",
@@ -350,10 +354,6 @@
         {
           "id": "d",
           "text": "ⓓ  Not at all. It's big but very light. It's perfect for older women."
-        },
-        {
-          "id": "e",
-          "text": "ⓔ  I'm looking for a gift for my grandmother."
         }
       ],
       "orderIds": [
@@ -385,12 +385,12 @@
           "text": "ⓐ  OK. Let's order pizza or pasta."
         },
         {
-          "id": "b",
-          "text": "ⓑ  Alice, I'm hungry. Let's have lunch."
-        },
-        {
           "id": "c",
           "text": "ⓒ  Which do you like more?"
+        },
+        {
+          "id": "b",
+          "text": "ⓑ  Alice, I'm hungry. Let's have lunch."
         }
       ],
       "orderIds": [

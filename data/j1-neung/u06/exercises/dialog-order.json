@@ -24,6 +24,14 @@
       "label": "1",
       "orderChunks": [
         {
+          "id": "a",
+          "text": "What is tuho?"
+        },
+        {
+          "id": "e",
+          "text": "It looks fun! Let's play it."
+        },
+        {
           "id": "b",
           "text": "Sure! Oh, look over there. Why are people throwing sticks into a pot?"
         },
@@ -32,16 +40,8 @@
           "text": "They are playing tuho."
         },
         {
-          "id": "a",
-          "text": "What is tuho?"
-        },
-        {
           "id": "f",
           "text": "It's a traditional Korean game. You throw sticks into a pot. Then you get points."
-        },
-        {
-          "id": "e",
-          "text": "It looks fun! Let's play it."
         }
       ],
       "orderIds": [
@@ -69,28 +69,28 @@
       "label": "2",
       "orderChunks": [
         {
-          "id": "g",
-          "text": "I can hear it too. Oh, people are playing nongak."
-        },
-        {
-          "id": "d",
-          "text": "What is nongak?"
+          "id": "e",
+          "text": "Their clothes look nice too."
         },
         {
           "id": "c",
           "text": "It is traditional Korean music. The performers play many different instruments."
         },
         {
-          "id": "e",
-          "text": "Their clothes look nice too."
+          "id": "g",
+          "text": "I can hear it too. Oh, people are playing nongak."
+        },
+        {
+          "id": "b",
+          "text": "That sounds great!"
         },
         {
           "id": "f",
           "text": "Yeah. They even dance and play at the same time. Why don't we go and watch them?"
         },
         {
-          "id": "b",
-          "text": "That sounds great!"
+          "id": "d",
+          "text": "What is nongak?"
         }
       ],
       "orderIds": [
@@ -119,32 +119,32 @@
       "label": "3",
       "orderChunks": [
         {
-          "id": "c",
-          "text": "Why are those people throwing sticks in the air?"
-        },
-        {
           "id": "b",
           "text": "They are playing yunnori."
-        },
-        {
-          "id": "a",
-          "text": "What is yunnori?"
-        },
-        {
-          "id": "d",
-          "text": "It is a traditional Korean board game."
-        },
-        {
-          "id": "g",
-          "text": "I want to try it, but I don't know the rules."
         },
         {
           "id": "e",
           "text": "It's simple. You just throw four sticks, and they decide your moves. Why don't we play the game?"
         },
         {
+          "id": "g",
+          "text": "I want to try it, but I don't know the rules."
+        },
+        {
+          "id": "c",
+          "text": "Why are those people throwing sticks in the air?"
+        },
+        {
+          "id": "d",
+          "text": "It is a traditional Korean board game."
+        },
+        {
           "id": "f",
           "text": "Okay. That sounds fun!"
+        },
+        {
+          "id": "a",
+          "text": "What is yunnori?"
         }
       ],
       "orderIds": [
@@ -174,20 +174,20 @@
       "label": "4",
       "orderChunks": [
         {
-          "id": "b",
-          "text": "What is this instrument?"
-        },
-        {
           "id": "c",
           "text": "It is a janggu. It's a traditional Korean instrument."
         },
         {
-          "id": "d",
-          "text": "I see. Why don't we play it together?"
-        },
-        {
           "id": "a",
           "text": "Sure."
+        },
+        {
+          "id": "b",
+          "text": "What is this instrument?"
+        },
+        {
+          "id": "d",
+          "text": "I see. Why don't we play it together?"
         }
       ],
       "orderIds": [
@@ -218,6 +218,10 @@
           "text": "Hey, Tate. That man is wearing a unique hat. What is it?"
         },
         {
+          "id": "d",
+          "text": "Right. And it's light and cool. Why don't we try on a gat?"
+        },
+        {
           "id": "a",
           "text": "It is a gat. It's a traditional Korean hat."
         },
@@ -226,20 +230,16 @@
           "text": "I see. It looks nice."
         },
         {
+          "id": "e",
+          "text": "There's a hanbok shop over there. Let's go."
+        },
+        {
           "id": "f",
           "text": "Yes. In the past, men wore a gat when they went out."
         },
         {
-          "id": "d",
-          "text": "Right. And it's light and cool. Why don't we try on a gat?"
-        },
-        {
           "id": "g",
           "text": "Sure. Where can we do that?"
-        },
-        {
-          "id": "e",
-          "text": "There's a hanbok shop over there. Let's go."
         }
       ],
       "orderIds": [
@@ -269,20 +269,20 @@
       "label": "6",
       "orderChunks": [
         {
-          "id": "c",
-          "text": "I want to introduce neolttwigi to you."
-        },
-        {
-          "id": "b",
-          "text": "What is neolttwigi?"
-        },
-        {
           "id": "d",
           "text": "It is a traditional Korean game. Players stand on a board and jump high."
         },
         {
           "id": "e",
           "text": "I see. Why don't we play it together?"
+        },
+        {
+          "id": "b",
+          "text": "What is neolttwigi?"
+        },
+        {
+          "id": "c",
+          "text": "I want to introduce neolttwigi to you."
         },
         {
           "id": "a",
@@ -314,40 +314,40 @@
       "label": "7",
       "orderChunks": [
         {
-          "id": "g",
-          "text": "Hi, Yejun! How was your trip to Andong?"
-        },
-        {
-          "id": "d",
-          "text": "It was great! I watched a Hahoe talchum performance."
-        },
-        {
-          "id": "f",
-          "text": "What is Hahoe talchum?"
-        },
-        {
-          "id": "b",
-          "text": "It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music."
-        },
-        {
           "id": "a",
           "text": "Sounds interesting! What else did you do?"
-        },
-        {
-          "id": "i",
-          "text": "I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious."
         },
         {
           "id": "h",
           "text": "Wow, I really want to try it."
         },
         {
+          "id": "c",
+          "text": "I'd love to!"
+        },
+        {
+          "id": "b",
+          "text": "It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music."
+        },
+        {
+          "id": "f",
+          "text": "What is Hahoe talchum?"
+        },
+        {
+          "id": "i",
+          "text": "I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious."
+        },
+        {
           "id": "e",
           "text": "Why don't we eat jjimdak together sometime?"
         },
         {
-          "id": "c",
-          "text": "I'd love to!"
+          "id": "g",
+          "text": "Hi, Yejun! How was your trip to Andong?"
+        },
+        {
+          "id": "d",
+          "text": "It was great! I watched a Hahoe talchum performance."
         }
       ],
       "orderIds": [
@@ -379,12 +379,16 @@
       "label": "8",
       "orderChunks": [
         {
-          "id": "f",
-          "text": "Mom, what are you reading?"
+          "id": "b",
+          "text": "What is Jungnogwon?"
         },
         {
-          "id": "d",
-          "text": "I'm reading a book about beautiful places in Korea."
+          "id": "g",
+          "text": "It looks wonderful! Why don't we go there this Sunday?"
+        },
+        {
+          "id": "f",
+          "text": "Mom, what are you reading?"
         },
         {
           "id": "a",
@@ -395,16 +399,12 @@
           "text": "Jungnogwon looks so amazing!"
         },
         {
-          "id": "b",
-          "text": "What is Jungnogwon?"
+          "id": "d",
+          "text": "I'm reading a book about beautiful places in Korea."
         },
         {
           "id": "e",
           "text": "It is a bamboo forest in Damyang."
-        },
-        {
-          "id": "g",
-          "text": "It looks wonderful! Why don't we go there this Sunday?"
         },
         {
           "id": "h",

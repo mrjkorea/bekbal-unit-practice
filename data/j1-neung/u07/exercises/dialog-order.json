@@ -63,24 +63,24 @@
       "promptEn": "2 다음 문장을 순서대로 누르시오.\nLook at this poster.\nIt's shocking. It looks like someone drank most of Earth's water.\nYes. People waste too much water. What can we do to save water?\nWe can do a lot of things. For example, we can take quick showers.\nThat sounds good.",
       "orderChunks": [
         {
-          "id": "s1",
-          "text": "Look at this poster."
+          "id": "s4",
+          "text": "We can do a lot of things. For example, we can take quick showers."
         },
         {
           "id": "s2",
           "text": "It's shocking. It looks like someone drank most of Earth's water."
         },
         {
-          "id": "s3",
-          "text": "Yes. People waste too much water. What can we do to save water?"
-        },
-        {
-          "id": "s4",
-          "text": "We can do a lot of things. For example, we can take quick showers."
+          "id": "s1",
+          "text": "Look at this poster."
         },
         {
           "id": "s5",
           "text": "That sounds good."
+        },
+        {
+          "id": "s3",
+          "text": "Yes. People waste too much water. What can we do to save water?"
         }
       ],
       "orderIds": [

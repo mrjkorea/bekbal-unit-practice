@@ -23,20 +23,8 @@
       "promptEn": "1 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "day"
-        },
-        {
-          "id": "c2",
-          "text": "other"
-        },
-        {
-          "id": "c3",
-          "text": "any"
-        },
-        {
-          "id": "c4",
-          "text": "like"
+          "id": "c8",
+          "text": "For"
         },
         {
           "id": "c5",
@@ -51,8 +39,20 @@
           "text": "Beatrice"
         },
         {
-          "id": "c8",
-          "text": "For"
+          "id": "c2",
+          "text": "other"
+        },
+        {
+          "id": "c3",
+          "text": "any"
+        },
+        {
+          "id": "c4",
+          "text": "like"
+        },
+        {
+          "id": "c1",
+          "text": "day"
         }
       ],
       "orderIds": [
@@ -83,52 +83,48 @@
       "promptEn": "2 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "sandwich"
-        },
-        {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "made"
+          "id": "c7",
+          "text": "her"
         },
         {
           "id": "c4",
           "text": "she"
         },
         {
-          "id": "c5",
-          "text": "Then"
-        },
-        {
-          "id": "c6",
-          "text": "feet"
-        },
-        {
-          "id": "c7",
-          "text": "her"
+          "id": "c2",
+          "text": "a"
         },
         {
           "id": "c8",
           "text": "of"
         },
         {
-          "id": "c9",
-          "text": "both"
-        },
-        {
           "id": "c10",
           "text": "on"
+        },
+        {
+          "id": "c15",
+          "text": "wore"
         },
         {
           "id": "c11",
           "text": "socks"
         },
         {
+          "id": "c3",
+          "text": "made"
+        },
+        {
+          "id": "c5",
+          "text": "Then"
+        },
+        {
           "id": "c12",
           "text": "white"
+        },
+        {
+          "id": "c6",
+          "text": "feet"
         },
         {
           "id": "c13",
@@ -139,8 +135,12 @@
           "text": "the"
         },
         {
-          "id": "c15",
-          "text": "wore"
+          "id": "c1",
+          "text": "sandwich"
+        },
+        {
+          "id": "c9",
+          "text": "both"
         },
         {
           "id": "c16",
@@ -187,52 +187,52 @@
           "text": "bread"
         },
         {
-          "id": "c2",
-          "text": "of"
-        },
-        {
-          "id": "c3",
-          "text": "piece"
-        },
-        {
-          "id": "c4",
-          "text": "each"
-        },
-        {
           "id": "c5",
           "text": "on"
-        },
-        {
-          "id": "c6",
-          "text": "butter"
-        },
-        {
-          "id": "c7",
-          "text": "peanut"
-        },
-        {
-          "id": "c8",
-          "text": "of"
-        },
-        {
-          "id": "c9",
-          "text": "amount"
-        },
-        {
-          "id": "c10",
-          "text": "same"
-        },
-        {
-          "id": "c11",
-          "text": "the"
         },
         {
           "id": "c12",
           "text": "exactly"
         },
         {
+          "id": "c11",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "peanut"
+        },
+        {
+          "id": "c4",
+          "text": "each"
+        },
+        {
+          "id": "c2",
+          "text": "of"
+        },
+        {
+          "id": "c10",
+          "text": "same"
+        },
+        {
+          "id": "c9",
+          "text": "amount"
+        },
+        {
+          "id": "c8",
+          "text": "of"
+        },
+        {
           "id": "c13",
           "text": "put"
+        },
+        {
+          "id": "c3",
+          "text": "piece"
+        },
+        {
+          "id": "c6",
+          "text": "butter"
         },
         {
           "id": "c14",
@@ -273,48 +273,48 @@
       "promptEn": "4 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Girl"
-        },
-        {
-          "id": "c2",
-          "text": "Perfect"
-        },
-        {
-          "id": "c3",
-          "text": "morning"
-        },
-        {
-          "id": "c4",
-          "text": "Good"
-        },
-        {
           "id": "c5",
           "text": "said"
-        },
-        {
-          "id": "c6",
-          "text": "neighbor"
-        },
-        {
-          "id": "c7",
-          "text": "her"
-        },
-        {
-          "id": "c8",
-          "text": "school"
         },
         {
           "id": "c9",
           "text": "to"
         },
         {
-          "id": "c10",
-          "text": "way"
+          "id": "c7",
+          "text": "her"
+        },
+        {
+          "id": "c3",
+          "text": "morning"
         },
         {
           "id": "c11",
           "text": "her"
+        },
+        {
+          "id": "c6",
+          "text": "neighbor"
+        },
+        {
+          "id": "c2",
+          "text": "Perfect"
+        },
+        {
+          "id": "c4",
+          "text": "Good"
+        },
+        {
+          "id": "c1",
+          "text": "Girl"
+        },
+        {
+          "id": "c10",
+          "text": "way"
+        },
+        {
+          "id": "c8",
+          "text": "school"
         },
         {
           "id": "c12",
@@ -353,8 +353,28 @@
       "promptEn": "5 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "Girl"
+        },
+        {
+          "id": "c4",
+          "text": "she"
+        },
+        {
+          "id": "c9",
+          "text": "called"
+        },
+        {
           "id": "c1",
           "text": "mistakes"
+        },
+        {
+          "id": "c5",
+          "text": "because"
+        },
+        {
+          "id": "c7",
+          "text": "Perfect"
         },
         {
           "id": "c2",
@@ -365,28 +385,8 @@
           "text": "never"
         },
         {
-          "id": "c4",
-          "text": "she"
-        },
-        {
-          "id": "c5",
-          "text": "because"
-        },
-        {
-          "id": "c6",
-          "text": "Girl"
-        },
-        {
-          "id": "c7",
-          "text": "Perfect"
-        },
-        {
           "id": "c8",
           "text": "Beatrice"
-        },
-        {
-          "id": "c9",
-          "text": "called"
         },
         {
           "id": "c10",
@@ -423,28 +423,36 @@
       "promptEn": "6 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "asked"
+          "id": "c9",
+          "text": "you"
+        },
+        {
+          "id": "c10",
+          "text": "Are"
+        },
+        {
+          "id": "c6",
+          "text": "tonight's"
         },
         {
           "id": "c2",
           "text": "neighbor"
         },
         {
-          "id": "c3",
-          "text": "her"
-        },
-        {
           "id": "c4",
           "text": "show"
+        },
+        {
+          "id": "c1",
+          "text": "asked"
         },
         {
           "id": "c5",
           "text": "talent"
         },
         {
-          "id": "c6",
-          "text": "tonight's"
+          "id": "c3",
+          "text": "her"
         },
         {
           "id": "c7",
@@ -453,14 +461,6 @@
         {
           "id": "c8",
           "text": "ready"
-        },
-        {
-          "id": "c9",
-          "text": "you"
-        },
-        {
-          "id": "c10",
-          "text": "Are"
         }
       ],
       "orderIds": [
@@ -493,36 +493,36 @@
       "promptEn": "7 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "champion"
-        },
-        {
-          "id": "c2",
-          "text": "juggling"
-        },
-        {
-          "id": "c3",
-          "text": "a"
-        },
-        {
-          "id": "c4",
-          "text": "was"
-        },
-        {
           "id": "c5",
           "text": "She"
-        },
-        {
-          "id": "c6",
-          "text": "smiled"
         },
         {
           "id": "c7",
           "text": "just"
         },
         {
+          "id": "c6",
+          "text": "smiled"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
           "id": "c8",
           "text": "Beatrice"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c2",
+          "text": "juggling"
+        },
+        {
+          "id": "c1",
+          "text": "champion"
         }
       ],
       "orderIds": [
@@ -553,28 +553,12 @@
       "promptEn": "8 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "was"
-        },
-        {
-          "id": "c2",
-          "text": "she"
-        },
-        {
           "id": "c3",
           "text": "wonderful"
         },
         {
-          "id": "c4",
-          "text": "How"
-        },
-        {
-          "id": "c5",
-          "text": "year"
-        },
-        {
-          "id": "c6",
-          "text": "every"
+          "id": "c11",
+          "text": "She"
         },
         {
           "id": "c7",
@@ -589,12 +573,28 @@
           "text": "the"
         },
         {
-          "id": "c10",
-          "text": "won"
+          "id": "c4",
+          "text": "How"
         },
         {
-          "id": "c11",
-          "text": "She"
+          "id": "c1",
+          "text": "was"
+        },
+        {
+          "id": "c6",
+          "text": "every"
+        },
+        {
+          "id": "c2",
+          "text": "she"
+        },
+        {
+          "id": "c5",
+          "text": "year"
+        },
+        {
+          "id": "c10",
+          "text": "won"
         }
       ],
       "orderIds": [
@@ -628,14 +628,6 @@
       "promptEn": "9 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "class"
-        },
-        {
-          "id": "c2",
-          "text": "cooking"
-        },
-        {
           "id": "c3",
           "text": "a"
         },
@@ -644,16 +636,24 @@
           "text": "had"
         },
         {
-          "id": "c5",
-          "text": "Beatrice"
+          "id": "c2",
+          "text": "cooking"
+        },
+        {
+          "id": "c7",
+          "text": "At"
+        },
+        {
+          "id": "c1",
+          "text": "class"
         },
         {
           "id": "c6",
           "text": "school"
         },
         {
-          "id": "c7",
-          "text": "At"
+          "id": "c5",
+          "text": "Beatrice"
         }
       ],
       "orderIds": [
@@ -683,56 +683,56 @@
       "promptEn": "10 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "refrigerator"
-        },
-        {
-          "id": "c2",
-          "text": "the"
-        },
-        {
-          "id": "c3",
-          "text": "of"
+          "id": "c10",
+          "text": "cake"
         },
         {
           "id": "c4",
           "text": "out"
         },
         {
-          "id": "c5",
-          "text": "eggs"
+          "id": "c3",
+          "text": "of"
         },
         {
           "id": "c6",
           "text": "some"
         },
         {
-          "id": "c7",
-          "text": "took"
-        },
-        {
           "id": "c8",
           "text": "carefully"
-        },
-        {
-          "id": "c9",
-          "text": "she"
-        },
-        {
-          "id": "c10",
-          "text": "cake"
         },
         {
           "id": "c11",
           "text": "a"
         },
         {
-          "id": "c12",
-          "text": "make"
+          "id": "c7",
+          "text": "took"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "eggs"
         },
         {
           "id": "c13",
           "text": "To"
+        },
+        {
+          "id": "c9",
+          "text": "she"
+        },
+        {
+          "id": "c12",
+          "text": "make"
+        },
+        {
+          "id": "c1",
+          "text": "refrigerator"
         }
       ],
       "orderIds": [
@@ -772,8 +772,16 @@
           "text": "slippery"
         },
         {
+          "id": "c7",
+          "text": "turned"
+        },
+        {
           "id": "c2",
           "text": "something"
+        },
+        {
+          "id": "c6",
+          "text": "around"
         },
         {
           "id": "c3",
@@ -784,24 +792,16 @@
           "text": "stepped"
         },
         {
-          "id": "c5",
-          "text": "she"
-        },
-        {
-          "id": "c6",
-          "text": "around"
-        },
-        {
-          "id": "c7",
-          "text": "turned"
-        },
-        {
           "id": "c8",
           "text": "she"
         },
         {
           "id": "c9",
           "text": "When"
+        },
+        {
+          "id": "c5",
+          "text": "she"
         }
       ],
       "orderIds": [
@@ -833,18 +833,6 @@
       "promptEn": "12 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "didn't"
-        },
-        {
-          "id": "c2",
-          "text": "she"
-        },
-        {
-          "id": "c3",
-          "text": "But"
-        },
-        {
           "id": "c4",
           "text": "fall"
         },
@@ -857,12 +845,24 @@
           "text": "about"
         },
         {
+          "id": "c2",
+          "text": "she"
+        },
+        {
           "id": "c7",
           "text": "was"
         },
         {
           "id": "c8",
           "text": "She"
+        },
+        {
+          "id": "c3",
+          "text": "But"
+        },
+        {
+          "id": "c1",
+          "text": "didn't"
         }
       ],
       "orderIds": [
@@ -893,44 +893,44 @@
       "promptEn": "13 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "mistake"
-        },
-        {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "made"
-        },
-        {
-          "id": "c4",
-          "text": "almost"
-        },
-        {
-          "id": "c5",
-          "text": "She"
-        },
-        {
-          "id": "c6",
-          "text": "thought"
-        },
-        {
           "id": "c7",
           "text": "she"
-        },
-        {
-          "id": "c8",
-          "text": "close"
         },
         {
           "id": "c9",
           "text": "was"
         },
         {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c5",
+          "text": "She"
+        },
+        {
+          "id": "c4",
+          "text": "almost"
+        },
+        {
+          "id": "c1",
+          "text": "mistake"
+        },
+        {
           "id": "c10",
           "text": "That"
+        },
+        {
+          "id": "c8",
+          "text": "close"
+        },
+        {
+          "id": "c3",
+          "text": "made"
+        },
+        {
+          "id": "c6",
+          "text": "thought"
         }
       ],
       "orderIds": [
@@ -963,24 +963,12 @@
       "promptEn": "14 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "nervous"
-        },
-        {
-          "id": "c2",
-          "text": "feel"
-        },
-        {
           "id": "c3",
           "text": "to"
         },
         {
-          "id": "c4",
-          "text": "began"
-        },
-        {
-          "id": "c5",
-          "text": "she"
+          "id": "c2",
+          "text": "feel"
         },
         {
           "id": "c6",
@@ -989,6 +977,18 @@
         {
           "id": "c7",
           "text": "of"
+        },
+        {
+          "id": "c4",
+          "text": "began"
+        },
+        {
+          "id": "c1",
+          "text": "nervous"
+        },
+        {
+          "id": "c5",
+          "text": "she"
         },
         {
           "id": "c8",
@@ -1113,52 +1113,52 @@
       "promptEn": "16 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "Beatrice"
+        },
+        {
           "id": "c1",
           "text": "stomach"
-        },
-        {
-          "id": "c2",
-          "text": "her"
-        },
-        {
-          "id": "c3",
-          "text": "in"
-        },
-        {
-          "id": "c4",
-          "text": "butterflies"
         },
         {
           "id": "c5",
           "text": "had"
         },
         {
-          "id": "c6",
-          "text": "Beatrice"
-        },
-        {
-          "id": "c7",
-          "text": "Girl"
-        },
-        {
-          "id": "c8",
-          "text": "Perfect"
-        },
-        {
-          "id": "c9",
-          "text": "That's"
+          "id": "c4",
+          "text": "butterflies"
         },
         {
           "id": "c10",
           "text": "Look"
         },
         {
-          "id": "c11",
-          "text": "said"
+          "id": "c7",
+          "text": "Girl"
         },
         {
           "id": "c12",
           "text": "They"
+        },
+        {
+          "id": "c2",
+          "text": "her"
+        },
+        {
+          "id": "c8",
+          "text": "Perfect"
+        },
+        {
+          "id": "c11",
+          "text": "said"
+        },
+        {
+          "id": "c3",
+          "text": "in"
+        },
+        {
+          "id": "c9",
+          "text": "That's"
         }
       ],
       "orderIds": [
@@ -1193,36 +1193,36 @@
       "promptEn": "17 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "thought"
+          "id": "c4",
+          "text": "I'm"
         },
         {
-          "id": "c2",
-          "text": "she"
+          "id": "c8",
+          "text": "Will"
         },
         {
           "id": "c3",
           "text": "worried"
         },
         {
-          "id": "c4",
-          "text": "I'm"
-        },
-        {
           "id": "c5",
           "text": "up"
+        },
+        {
+          "id": "c2",
+          "text": "she"
         },
         {
           "id": "c6",
           "text": "mess"
         },
         {
-          "id": "c7",
-          "text": "I"
+          "id": "c1",
+          "text": "thought"
         },
         {
-          "id": "c8",
-          "text": "Will"
+          "id": "c7",
+          "text": "I"
         }
       ],
       "orderIds": [
@@ -1253,40 +1253,20 @@
       "promptEn": "18 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "shaker"
-        },
-        {
           "id": "c2",
           "text": "salt"
         },
         {
-          "id": "c3",
-          "text": "a"
-        },
-        {
-          "id": "c4",
-          "text": "added"
-        },
-        {
-          "id": "c5",
-          "text": "she"
+          "id": "c9",
+          "text": "into"
         },
         {
           "id": "c6",
           "text": "Next"
         },
         {
-          "id": "c7",
-          "text": "air"
-        },
-        {
-          "id": "c8",
-          "text": "the"
-        },
-        {
-          "id": "c9",
-          "text": "into"
+          "id": "c13",
+          "text": "Beatrice"
         },
         {
           "id": "c10",
@@ -1297,12 +1277,32 @@
           "text": "an"
         },
         {
+          "id": "c5",
+          "text": "she"
+        },
+        {
           "id": "c12",
           "text": "threw"
         },
         {
-          "id": "c13",
-          "text": "Beatrice"
+          "id": "c7",
+          "text": "air"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "added"
+        },
+        {
+          "id": "c8",
+          "text": "the"
+        },
+        {
+          "id": "c1",
+          "text": "shaker"
         }
       ],
       "orderIds": [
@@ -1338,12 +1338,32 @@
       "promptEn": "19 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "start"
+          "id": "c8",
+          "text": "added"
         },
         {
           "id": "c2",
           "text": "good"
+        },
+        {
+          "id": "c7",
+          "text": "a"
+        },
+        {
+          "id": "c1",
+          "text": "start"
+        },
+        {
+          "id": "c5",
+          "text": "balloon"
+        },
+        {
+          "id": "c9",
+          "text": "she"
+        },
+        {
+          "id": "c10",
+          "text": "Finally"
         },
         {
           "id": "c3",
@@ -1354,28 +1374,8 @@
           "text": "What"
         },
         {
-          "id": "c5",
-          "text": "balloon"
-        },
-        {
           "id": "c6",
           "text": "water"
-        },
-        {
-          "id": "c7",
-          "text": "a"
-        },
-        {
-          "id": "c8",
-          "text": "added"
-        },
-        {
-          "id": "c9",
-          "text": "she"
-        },
-        {
-          "id": "c10",
-          "text": "Finally"
         }
       ],
       "orderIds": [
@@ -1408,20 +1408,12 @@
       "promptEn": "20 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "oh"
+          "id": "c8",
+          "text": "But"
         },
         {
           "id": "c2",
           "text": "Uh"
-        },
-        {
-          "id": "c3",
-          "text": "strange"
-        },
-        {
-          "id": "c4",
-          "text": "something"
         },
         {
           "id": "c5",
@@ -1432,12 +1424,20 @@
           "text": "she"
         },
         {
+          "id": "c1",
+          "text": "oh"
+        },
+        {
           "id": "c7",
           "text": "then"
         },
         {
-          "id": "c8",
-          "text": "But"
+          "id": "c3",
+          "text": "strange"
+        },
+        {
+          "id": "c4",
+          "text": "something"
         }
       ],
       "orderIds": [
@@ -1468,20 +1468,16 @@
       "promptEn": "21 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "pepper"
-        },
-        {
           "id": "c2",
           "text": "of"
         },
         {
-          "id": "c3",
-          "text": "full"
+          "id": "c11",
+          "text": "nose"
         },
         {
-          "id": "c4",
-          "text": "was"
+          "id": "c10",
+          "text": "started"
         },
         {
           "id": "c5",
@@ -1492,6 +1488,14 @@
           "text": "salt"
         },
         {
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c12",
+          "text": "Beatrice's"
+        },
+        {
           "id": "c7",
           "text": "The"
         },
@@ -1500,20 +1504,16 @@
           "text": "itch"
         },
         {
-          "id": "c9",
-          "text": "to"
+          "id": "c1",
+          "text": "pepper"
         },
         {
-          "id": "c10",
-          "text": "started"
+          "id": "c3",
+          "text": "full"
         },
         {
-          "id": "c11",
-          "text": "nose"
-        },
-        {
-          "id": "c12",
-          "text": "Beatrice's"
+          "id": "c4",
+          "text": "was"
         }
       ],
       "orderIds": [
@@ -1548,32 +1548,40 @@
       "promptEn": "22 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "floor"
-        },
-        {
-          "id": "c2",
-          "text": "the"
+          "id": "c12",
+          "text": "ACHOO"
         },
         {
           "id": "c3",
           "text": "to"
         },
         {
-          "id": "c4",
-          "text": "fell"
+          "id": "c11",
+          "text": "Beatrice"
         },
         {
-          "id": "c5",
-          "text": "it"
+          "id": "c10",
+          "text": "missed"
+        },
+        {
+          "id": "c7",
+          "text": "balloon"
         },
         {
           "id": "c6",
           "text": "and"
         },
         {
-          "id": "c7",
-          "text": "balloon"
+          "id": "c1",
+          "text": "floor"
+        },
+        {
+          "id": "c4",
+          "text": "fell"
+        },
+        {
+          "id": "c2",
+          "text": "the"
         },
         {
           "id": "c8",
@@ -1584,16 +1592,8 @@
           "text": "the"
         },
         {
-          "id": "c10",
-          "text": "missed"
-        },
-        {
-          "id": "c11",
-          "text": "Beatrice"
-        },
-        {
-          "id": "c12",
-          "text": "ACHOO"
+          "id": "c5",
+          "text": "it"
         }
       ],
       "orderIds": [
@@ -1628,24 +1628,24 @@
       "promptEn": "23 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "head"
-        },
-        {
-          "id": "c2",
-          "text": "her"
-        },
-        {
-          "id": "c3",
-          "text": "of"
-        },
-        {
           "id": "c4",
           "text": "top"
         },
         {
+          "id": "c9",
+          "text": "OOPS"
+        },
+        {
+          "id": "c1",
+          "text": "head"
+        },
+        {
           "id": "c5",
           "text": "on"
+        },
+        {
+          "id": "c8",
+          "text": "The"
         },
         {
           "id": "c6",
@@ -1656,16 +1656,16 @@
           "text": "egg"
         },
         {
-          "id": "c8",
-          "text": "The"
-        },
-        {
-          "id": "c9",
-          "text": "OOPS"
-        },
-        {
           "id": "c10",
           "text": "Then"
+        },
+        {
+          "id": "c2",
+          "text": "her"
+        },
+        {
+          "id": "c3",
+          "text": "of"
         }
       ],
       "orderIds": [
@@ -1698,24 +1698,8 @@
       "promptEn": "24 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "surprise"
-        },
-        {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "What"
-        },
-        {
-          "id": "c4",
-          "text": "mistake"
-        },
-        {
-          "id": "c5",
-          "text": "a"
+          "id": "c10",
+          "text": "first"
         },
         {
           "id": "c6",
@@ -1726,24 +1710,40 @@
           "text": "Beatrice"
         },
         {
-          "id": "c8",
-          "text": "ever"
-        },
-        {
-          "id": "c9",
-          "text": "time"
-        },
-        {
-          "id": "c10",
-          "text": "first"
+          "id": "c12",
+          "text": "For"
         },
         {
           "id": "c11",
           "text": "the"
         },
         {
-          "id": "c12",
-          "text": "For"
+          "id": "c1",
+          "text": "surprise"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c4",
+          "text": "mistake"
+        },
+        {
+          "id": "c3",
+          "text": "What"
+        },
+        {
+          "id": "c8",
+          "text": "ever"
+        },
+        {
+          "id": "c9",
+          "text": "time"
         }
       ],
       "orderIds": [
@@ -1778,12 +1778,28 @@
       "promptEn": "25 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "do"
+        },
+        {
+          "id": "c9",
+          "text": "What"
+        },
+        {
+          "id": "c5",
+          "text": "Cry"
+        },
+        {
           "id": "c1",
           "text": "stage"
         },
         {
           "id": "c2",
           "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "thought"
         },
         {
           "id": "c3",
@@ -1794,32 +1810,16 @@
           "text": "Run"
         },
         {
-          "id": "c5",
-          "text": "Cry"
-        },
-        {
-          "id": "c6",
-          "text": "do"
-        },
-        {
-          "id": "c7",
-          "text": "I"
-        },
-        {
           "id": "c8",
           "text": "should"
         },
         {
-          "id": "c9",
-          "text": "What"
-        },
-        {
-          "id": "c10",
-          "text": "thought"
-        },
-        {
           "id": "c11",
           "text": "She"
+        },
+        {
+          "id": "c7",
+          "text": "I"
         }
       ],
       "orderIds": [
@@ -1853,52 +1853,52 @@
       "promptEn": "26 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "other"
-        },
-        {
-          "id": "c2",
-          "text": "each"
-        },
-        {
-          "id": "c3",
-          "text": "at"
-        },
-        {
-          "id": "c4",
-          "text": "looked"
-        },
-        {
-          "id": "c5",
-          "text": "people"
-        },
-        {
-          "id": "c6",
-          "text": "The"
-        },
-        {
-          "id": "c7",
-          "text": "loudly"
+          "id": "c12",
+          "text": "Suddenly"
         },
         {
           "id": "c8",
           "text": "laugh"
         },
         {
-          "id": "c9",
-          "text": "to"
+          "id": "c5",
+          "text": "people"
+        },
+        {
+          "id": "c1",
+          "text": "other"
+        },
+        {
+          "id": "c3",
+          "text": "at"
+        },
+        {
+          "id": "c6",
+          "text": "The"
+        },
+        {
+          "id": "c4",
+          "text": "looked"
         },
         {
           "id": "c10",
           "text": "began"
         },
         {
-          "id": "c11",
-          "text": "she"
+          "id": "c2",
+          "text": "each"
         },
         {
-          "id": "c12",
-          "text": "Suddenly"
+          "id": "c9",
+          "text": "to"
+        },
+        {
+          "id": "c7",
+          "text": "loudly"
+        },
+        {
+          "id": "c11",
+          "text": "she"
         }
       ],
       "orderIds": [
@@ -1933,28 +1933,28 @@
       "promptEn": "27 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "together"
-        },
-        {
-          "id": "c2",
-          "text": "laugh"
-        },
-        {
-          "id": "c3",
-          "text": "to"
-        },
-        {
-          "id": "c4",
-          "text": "started"
-        },
-        {
           "id": "c5",
           "text": "everyone"
         },
         {
           "id": "c6",
           "text": "Then"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "laugh"
+        },
+        {
+          "id": "c4",
+          "text": "started"
+        },
+        {
+          "id": "c1",
+          "text": "together"
         }
       ],
       "orderIds": [
@@ -1983,56 +1983,52 @@
       "promptEn": "28 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "smile"
-        },
-        {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "with"
-        },
-        {
-          "id": "c4",
-          "text": "up"
+          "id": "c13",
+          "text": "had"
         },
         {
           "id": "c5",
           "text": "woke"
         },
         {
-          "id": "c6",
-          "text": "she"
-        },
-        {
-          "id": "c7",
-          "text": "morning"
-        },
-        {
-          "id": "c8",
-          "text": "next"
-        },
-        {
-          "id": "c9",
-          "text": "The"
-        },
-        {
-          "id": "c10",
-          "text": "sleep"
-        },
-        {
-          "id": "c11",
-          "text": "deep"
+          "id": "c16",
+          "text": "That"
         },
         {
           "id": "c12",
           "text": "a"
         },
         {
-          "id": "c13",
-          "text": "had"
+          "id": "c11",
+          "text": "deep"
+        },
+        {
+          "id": "c10",
+          "text": "sleep"
+        },
+        {
+          "id": "c8",
+          "text": "next"
+        },
+        {
+          "id": "c4",
+          "text": "up"
+        },
+        {
+          "id": "c7",
+          "text": "morning"
+        },
+        {
+          "id": "c6",
+          "text": "she"
+        },
+        {
+          "id": "c9",
+          "text": "The"
+        },
+        {
+          "id": "c1",
+          "text": "smile"
         },
         {
           "id": "c14",
@@ -2043,8 +2039,12 @@
           "text": "night"
         },
         {
-          "id": "c16",
-          "text": "That"
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "with"
         }
       ],
       "orderIds": [
@@ -2188,32 +2188,32 @@
       "promptEn": "30 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Beatrice"
+          "id": "c7",
+          "text": "Perfect"
+        },
+        {
+          "id": "c13",
+          "text": "Now"
+        },
+        {
+          "id": "c10",
+          "text": "longer"
+        },
+        {
+          "id": "c12",
+          "text": "people"
         },
         {
           "id": "c2",
           "text": "her"
         },
         {
-          "id": "c3",
-          "text": "call"
-        },
-        {
-          "id": "c4",
-          "text": "just"
-        },
-        {
-          "id": "c5",
-          "text": "They"
+          "id": "c1",
+          "text": "Beatrice"
         },
         {
           "id": "c6",
           "text": "Girl"
-        },
-        {
-          "id": "c7",
-          "text": "Perfect"
         },
         {
           "id": "c8",
@@ -2224,20 +2224,20 @@
           "text": "call"
         },
         {
-          "id": "c10",
-          "text": "longer"
+          "id": "c3",
+          "text": "call"
+        },
+        {
+          "id": "c5",
+          "text": "They"
         },
         {
           "id": "c11",
           "text": "no"
         },
         {
-          "id": "c12",
-          "text": "people"
-        },
-        {
-          "id": "c13",
-          "text": "Now"
+          "id": "c4",
+          "text": "just"
         }
       ],
       "orderIds": [

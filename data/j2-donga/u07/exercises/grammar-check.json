@@ -624,12 +624,12 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "hero"
-        },
-        {
           "id": "c1",
           "text": "their"
+        },
+        {
+          "id": "c0",
+          "text": "hero"
         },
         {
           "id": "c2",
@@ -664,12 +664,12 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "Thunder"
-        },
-        {
           "id": "c1",
           "text": "horse"
+        },
+        {
+          "id": "c0",
+          "text": "Thunder"
         },
         {
           "id": "c2",
@@ -744,16 +744,16 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "mayor"
+          "id": "c2",
+          "text": "the"
         },
         {
           "id": "c1",
           "text": "Mr. Jones"
         },
         {
-          "id": "c2",
-          "text": "the"
+          "id": "c0",
+          "text": "mayor"
         }
       ],
       "orderIds": [

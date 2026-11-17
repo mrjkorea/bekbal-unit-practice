@@ -23,16 +23,16 @@
       "promptEn": "1 단어를 나오는 순서대로 누르시오.\n오늘의 수업: AI란 무엇인가?",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "What"
+        },
+        {
           "id": "c1",
           "text": "AI"
         },
         {
           "id": "c2",
           "text": "is"
-        },
-        {
-          "id": "c3",
-          "text": "What"
         }
       ],
       "orderIds": [
@@ -58,44 +58,44 @@
       "promptEn": "2 (1) 단어를 나오는 순서대로 누르시오.\n(1) AI 챗봇에게 말을 걸어 보고, 몇 가지 질문을 하세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "questions"
-        },
-        {
-          "id": "c2",
-          "text": "some"
-        },
-        {
-          "id": "c3",
-          "text": "it"
-        },
-        {
-          "id": "c4",
-          "text": "ask"
-        },
-        {
-          "id": "c5",
-          "text": "and"
-        },
-        {
-          "id": "c6",
-          "text": "chatbot"
+          "id": "c9",
+          "text": "to"
         },
         {
           "id": "c7",
           "text": "AI"
         },
         {
-          "id": "c8",
-          "text": "an"
-        },
-        {
-          "id": "c9",
-          "text": "to"
+          "id": "c4",
+          "text": "ask"
         },
         {
           "id": "c10",
           "text": "Talk"
+        },
+        {
+          "id": "c2",
+          "text": "some"
+        },
+        {
+          "id": "c5",
+          "text": "and"
+        },
+        {
+          "id": "c8",
+          "text": "an"
+        },
+        {
+          "id": "c6",
+          "text": "chatbot"
+        },
+        {
+          "id": "c1",
+          "text": "questions"
+        },
+        {
+          "id": "c3",
+          "text": "it"
         }
       ],
       "orderIds": [
@@ -178,10 +178,6 @@
       "promptEn": "3 단어를 나오는 순서대로 누르시오.\n사용자: 안녕. 만나서 반가워!",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "you"
-        },
-        {
           "id": "c2",
           "text": "meet"
         },
@@ -190,12 +186,16 @@
           "text": "to"
         },
         {
-          "id": "c4",
-          "text": "nice"
+          "id": "c1",
+          "text": "you"
         },
         {
           "id": "c5",
           "text": "Hi"
+        },
+        {
+          "id": "c4",
+          "text": "nice"
         }
       ],
       "orderIds": [
@@ -223,28 +223,28 @@
       "promptEn": "4 (1) 단어를 나오는 순서대로 누르시오.\nANNIE: 안녕하세요! 저도 만나서 반가워요!",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "too"
-        },
-        {
-          "id": "c2",
-          "text": "you"
-        },
-        {
-          "id": "c3",
-          "text": "meet"
+          "id": "c6",
+          "text": "Hello"
         },
         {
           "id": "c4",
           "text": "to"
         },
         {
-          "id": "c5",
-          "text": "Nice"
+          "id": "c2",
+          "text": "you"
         },
         {
-          "id": "c6",
-          "text": "Hello"
+          "id": "c1",
+          "text": "too"
+        },
+        {
+          "id": "c3",
+          "text": "meet"
+        },
+        {
+          "id": "c5",
+          "text": "Nice"
         }
       ],
       "orderIds": [
@@ -273,10 +273,6 @@
       "promptEn": "4 (2) 단어를 나오는 순서대로 누르시오.\n저는 당신의 AI 친구 ANNIE입니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "ANNIE"
-        },
-        {
           "id": "c2",
           "text": "friend"
         },
@@ -285,12 +281,16 @@
           "text": "AI"
         },
         {
-          "id": "c4",
-          "text": "your"
-        },
-        {
           "id": "c5",
           "text": "I'm"
+        },
+        {
+          "id": "c1",
+          "text": "ANNIE"
+        },
+        {
+          "id": "c4",
+          "text": "your"
         }
       ],
       "orderIds": [
@@ -322,32 +322,32 @@
           "text": "have"
         },
         {
-          "id": "c2",
-          "text": "you"
-        },
-        {
-          "id": "c3",
-          "text": "that"
-        },
-        {
-          "id": "c4",
-          "text": "questions"
-        },
-        {
-          "id": "c5",
-          "text": "ANY"
-        },
-        {
           "id": "c6",
           "text": "answer"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        },
+        {
+          "id": "c2",
+          "text": "you"
         },
         {
           "id": "c7",
           "text": "can"
         },
         {
-          "id": "c8",
-          "text": "I"
+          "id": "c4",
+          "text": "questions"
+        },
+        {
+          "id": "c3",
+          "text": "that"
+        },
+        {
+          "id": "c5",
+          "text": "ANY"
         }
       ],
       "orderIds": [
@@ -378,8 +378,12 @@
       "promptEn": "5 (2) 단어를 나오는 순서대로 누르시오.\n무엇을 도와드릴까요?",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "you"
+          "id": "c4",
+          "text": "can"
+        },
+        {
+          "id": "c5",
+          "text": "How"
         },
         {
           "id": "c2",
@@ -390,12 +394,8 @@
           "text": "I"
         },
         {
-          "id": "c4",
-          "text": "can"
-        },
-        {
-          "id": "c5",
-          "text": "How"
+          "id": "c1",
+          "text": "you"
         }
       ],
       "orderIds": [
@@ -427,32 +427,32 @@
           "text": "AI"
         },
         {
-          "id": "c2",
-          "text": "about"
-        },
-        {
-          "id": "c3",
-          "text": "questions"
-        },
-        {
-          "id": "c4",
-          "text": "some"
-        },
-        {
-          "id": "c5",
-          "text": "you"
+          "id": "c7",
+          "text": "I"
         },
         {
           "id": "c6",
           "text": "ask"
         },
         {
-          "id": "c7",
-          "text": "I"
+          "id": "c4",
+          "text": "some"
         },
         {
           "id": "c8",
           "text": "Can"
+        },
+        {
+          "id": "c3",
+          "text": "questions"
+        },
+        {
+          "id": "c5",
+          "text": "you"
+        },
+        {
+          "id": "c2",
+          "text": "about"
         }
       ],
       "orderIds": [
@@ -483,16 +483,12 @@
       "promptEn": "7 (1) 단어를 나오는 순서대로 누르시오.\nANNIE: 물론이죠! 당신의 질문에 기꺼이 답변해 드리겠습니다!",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "questions"
+          "id": "c6",
+          "text": "be"
         },
         {
           "id": "c2",
           "text": "your"
-        },
-        {
-          "id": "c3",
-          "text": "answer"
         },
         {
           "id": "c4",
@@ -503,16 +499,20 @@
           "text": "happy"
         },
         {
-          "id": "c6",
-          "text": "be"
+          "id": "c8",
+          "text": "Sure"
         },
         {
           "id": "c7",
           "text": "I'd"
         },
         {
-          "id": "c8",
-          "text": "Sure"
+          "id": "c1",
+          "text": "questions"
+        },
+        {
+          "id": "c3",
+          "text": "answer"
         }
       ],
       "orderIds": [
@@ -598,16 +598,8 @@
       "promptEn": "8 (1) 단어를 나오는 순서대로 누르시오.\nANNIE: AI는 '인공지능'을 의미합니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Intelligence"
-        },
-        {
           "id": "c2",
           "text": "Artificial"
-        },
-        {
-          "id": "c3",
-          "text": "for"
         },
         {
           "id": "c4",
@@ -616,6 +608,14 @@
         {
           "id": "c5",
           "text": "AI"
+        },
+        {
+          "id": "c3",
+          "text": "for"
+        },
+        {
+          "id": "c1",
+          "text": "Intelligence"
         }
       ],
       "orderIds": [
@@ -643,32 +643,32 @@
       "promptEn": "8 (2) 단어를 나오는 순서대로 누르시오.\n그것은 일종의 컴퓨터 시스템입니다.",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "is"
+        },
+        {
           "id": "c1",
           "text": "system"
+        },
+        {
+          "id": "c7",
+          "text": "It"
         },
         {
           "id": "c2",
           "text": "computer"
         },
         {
-          "id": "c3",
-          "text": "of"
-        },
-        {
           "id": "c4",
           "text": "kind"
         },
         {
+          "id": "c3",
+          "text": "of"
+        },
+        {
           "id": "c5",
           "text": "a"
-        },
-        {
-          "id": "c6",
-          "text": "is"
-        },
-        {
-          "id": "c7",
-          "text": "It"
         }
       ],
       "orderIds": [
@@ -698,52 +698,52 @@
       "promptEn": "9 단어를 나오는 순서대로 누르시오.\nAI는 언어를 이해할 수 있고, 경험을 통해 학습할 수 있으며, 인간처럼 결정을 내릴 수 있습니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "humans"
+          "id": "c11",
+          "text": "can"
         },
         {
-          "id": "c2",
-          "text": "like"
+          "id": "c1",
+          "text": "humans"
         },
         {
           "id": "c3",
           "text": "decisions"
         },
         {
-          "id": "c4",
-          "text": "make"
-        },
-        {
-          "id": "c5",
-          "text": "and"
-        },
-        {
-          "id": "c6",
-          "text": "experiences"
-        },
-        {
-          "id": "c7",
-          "text": "from"
-        },
-        {
           "id": "c8",
           "text": "learn"
         },
         {
-          "id": "c9",
-          "text": "language"
+          "id": "c2",
+          "text": "like"
         },
         {
           "id": "c10",
           "text": "understand"
         },
         {
-          "id": "c11",
-          "text": "can"
+          "id": "c7",
+          "text": "from"
+        },
+        {
+          "id": "c9",
+          "text": "language"
         },
         {
           "id": "c12",
           "text": "AI"
+        },
+        {
+          "id": "c4",
+          "text": "make"
+        },
+        {
+          "id": "c6",
+          "text": "experiences"
+        },
+        {
+          "id": "c5",
+          "text": "and"
         }
       ],
       "orderIds": [
@@ -782,28 +782,28 @@
           "text": "explanation"
         },
         {
-          "id": "c2",
-          "text": "your"
-        },
-        {
-          "id": "c3",
-          "text": "understand"
-        },
-        {
-          "id": "c4",
-          "text": "to"
-        },
-        {
-          "id": "c5",
-          "text": "hard"
+          "id": "c7",
+          "text": "It"
         },
         {
           "id": "c6",
           "text": "is"
         },
         {
-          "id": "c7",
-          "text": "It"
+          "id": "c2",
+          "text": "your"
+        },
+        {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c3",
+          "text": "understand"
+        },
+        {
+          "id": "c5",
+          "text": "hard"
         }
       ],
       "orderIds": [
@@ -833,8 +833,16 @@
       "promptEn": "10 (2) 단어를 나오는 순서대로 누르시오.\n나에게 예시를 들어 줄 수 있니?",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "example"
+          "id": "c5",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "Can"
+        },
+        {
+          "id": "c4",
+          "text": "give"
         },
         {
           "id": "c2",
@@ -845,16 +853,8 @@
           "text": "me"
         },
         {
-          "id": "c4",
-          "text": "give"
-        },
-        {
-          "id": "c5",
-          "text": "you"
-        },
-        {
-          "id": "c6",
-          "text": "Can"
+          "id": "c1",
+          "text": "example"
         }
       ],
       "orderIds": [
@@ -883,18 +883,6 @@
       "promptEn": "11 단어를 나오는 순서대로 누르시오.\nANNIE: 물론이죠! 당신이 새 반려견이 생겨서 반려견에게 앉고 기다리는 방법을 가르쳐 주고 싶다고 상상해 보세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "stay"
-        },
-        {
-          "id": "c2",
-          "text": "and"
-        },
-        {
-          "id": "c3",
-          "text": "sit"
-        },
-        {
           "id": "c4",
           "text": "to"
         },
@@ -903,64 +891,76 @@
           "text": "how"
         },
         {
-          "id": "c6",
-          "text": "it"
-        },
-        {
-          "id": "c7",
-          "text": "teach"
-        },
-        {
-          "id": "c8",
-          "text": "to"
-        },
-        {
           "id": "c9",
           "text": "want"
         },
         {
-          "id": "c10",
-          "text": "you"
-        },
-        {
-          "id": "c11",
-          "text": "and"
-        },
-        {
-          "id": "c12",
-          "text": "dog"
-        },
-        {
-          "id": "c13",
-          "text": "pet"
-        },
-        {
-          "id": "c14",
-          "text": "new"
-        },
-        {
-          "id": "c15",
-          "text": "a"
-        },
-        {
-          "id": "c16",
-          "text": "have"
+          "id": "c1",
+          "text": "stay"
         },
         {
           "id": "c17",
           "text": "you"
         },
         {
+          "id": "c3",
+          "text": "sit"
+        },
+        {
+          "id": "c12",
+          "text": "dog"
+        },
+        {
+          "id": "c14",
+          "text": "new"
+        },
+        {
+          "id": "c20",
+          "text": "Sure"
+        },
+        {
+          "id": "c11",
+          "text": "and"
+        },
+        {
+          "id": "c16",
+          "text": "have"
+        },
+        {
           "id": "c18",
           "text": "that"
+        },
+        {
+          "id": "c6",
+          "text": "it"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "and"
         },
         {
           "id": "c19",
           "text": "Imagine"
         },
         {
-          "id": "c20",
-          "text": "Sure"
+          "id": "c13",
+          "text": "pet"
+        },
+        {
+          "id": "c10",
+          "text": "you"
+        },
+        {
+          "id": "c15",
+          "text": "a"
+        },
+        {
+          "id": "c7",
+          "text": "teach"
         }
       ],
       "orderIds": [
@@ -1003,10 +1003,6 @@
       "promptEn": "12 단어를 나오는 순서대로 누르시오.\n당신의 개는 정보와 경험으로부터 배울 것입니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "experiences"
-        },
-        {
           "id": "c2",
           "text": "and"
         },
@@ -1015,24 +1011,28 @@
           "text": "information"
         },
         {
-          "id": "c4",
-          "text": "from"
+          "id": "c8",
+          "text": "Your"
         },
         {
-          "id": "c5",
-          "text": "learn"
-        },
-        {
-          "id": "c6",
-          "text": "will"
+          "id": "c1",
+          "text": "experiences"
         },
         {
           "id": "c7",
           "text": "dog"
         },
         {
-          "id": "c8",
-          "text": "Your"
+          "id": "c5",
+          "text": "learn"
+        },
+        {
+          "id": "c4",
+          "text": "from"
+        },
+        {
+          "id": "c6",
+          "text": "will"
         }
       ],
       "orderIds": [
@@ -1063,16 +1063,16 @@
       "promptEn": "13 (1) 단어를 나오는 순서대로 누르시오.\nAI도 비슷하죠.",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "AI"
+        },
+        {
           "id": "c1",
           "text": "similar"
         },
         {
           "id": "c2",
           "text": "is"
-        },
-        {
-          "id": "c3",
-          "text": "AI"
         }
       ],
       "orderIds": [
@@ -1098,8 +1098,20 @@
       "promptEn": "13 (2) 단어를 나오는 순서대로 누르시오.\n하지만 AI에게는 간식을 줄 필요가 없습니다!",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "have"
+        },
+        {
+          "id": "c9",
+          "text": "But"
+        },
+        {
           "id": "c1",
           "text": "snack"
+        },
+        {
+          "id": "c5",
+          "text": "to"
         },
         {
           "id": "c2",
@@ -1110,28 +1122,16 @@
           "text": "AI"
         },
         {
-          "id": "c4",
-          "text": "give"
-        },
-        {
-          "id": "c5",
-          "text": "to"
-        },
-        {
-          "id": "c6",
-          "text": "have"
-        },
-        {
           "id": "c7",
           "text": "don't"
         },
         {
-          "id": "c8",
-          "text": "you"
+          "id": "c4",
+          "text": "give"
         },
         {
-          "id": "c9",
-          "text": "But"
+          "id": "c8",
+          "text": "you"
         }
       ],
       "orderIds": [
@@ -1163,10 +1163,6 @@
       "promptEn": "14 (1) 단어를 나오는 순서대로 누르시오.\n사용자: AI는 일상생활에서 어떻게 사용되니?",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "life"
-        },
-        {
           "id": "c2",
           "text": "everyday"
         },
@@ -1175,20 +1171,24 @@
           "text": "in"
         },
         {
-          "id": "c4",
-          "text": "used"
-        },
-        {
           "id": "c5",
           "text": "AI"
+        },
+        {
+          "id": "c7",
+          "text": "How"
         },
         {
           "id": "c6",
           "text": "is"
         },
         {
-          "id": "c7",
-          "text": "How"
+          "id": "c4",
+          "text": "used"
+        },
+        {
+          "id": "c1",
+          "text": "life"
         }
       ],
       "orderIds": [
@@ -1218,28 +1218,28 @@
       "promptEn": "14 (2) 단어를 나오는 순서대로 누르시오.\nANNIE: AI는 다양한 상황에서 사용됩니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "situations"
+          "id": "c4",
+          "text": "used"
         },
         {
           "id": "c2",
           "text": "many"
         },
         {
-          "id": "c3",
-          "text": "in"
+          "id": "c1",
+          "text": "situations"
         },
         {
-          "id": "c4",
-          "text": "used"
+          "id": "c6",
+          "text": "AI"
         },
         {
           "id": "c5",
           "text": "is"
         },
         {
-          "id": "c6",
-          "text": "AI"
+          "id": "c3",
+          "text": "in"
         }
       ],
       "orderIds": [
@@ -1268,18 +1268,6 @@
       "promptEn": "15 단어를 나오는 순서대로 누르시오.\n예를 들어, AI 기술은 당신이 좋아할 수도 있는 새로운 영상을 추천할 수 있습니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "like"
-        },
-        {
-          "id": "c2",
-          "text": "may"
-        },
-        {
-          "id": "c3",
-          "text": "you"
-        },
-        {
           "id": "c4",
           "text": "that"
         },
@@ -1288,28 +1276,40 @@
           "text": "videos"
         },
         {
-          "id": "c6",
-          "text": "new"
+          "id": "c8",
+          "text": "can"
+        },
+        {
+          "id": "c11",
+          "text": "example"
         },
         {
           "id": "c7",
           "text": "recommend"
         },
         {
-          "id": "c8",
-          "text": "can"
+          "id": "c3",
+          "text": "you"
         },
         {
-          "id": "c9",
-          "text": "technology"
+          "id": "c1",
+          "text": "like"
         },
         {
           "id": "c10",
           "text": "AI"
         },
         {
-          "id": "c11",
-          "text": "example"
+          "id": "c9",
+          "text": "technology"
+        },
+        {
+          "id": "c2",
+          "text": "may"
+        },
+        {
+          "id": "c6",
+          "text": "new"
         },
         {
           "id": "c12",
@@ -1348,10 +1348,6 @@
       "promptEn": "16 (1) 단어를 나오는 순서대로 누르시오.\n그것은 당신이 어떤 영상들을 이미 시청했는지 학습합니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "watched"
-        },
-        {
           "id": "c2",
           "text": "already"
         },
@@ -1360,24 +1356,28 @@
           "text": "have"
         },
         {
-          "id": "c4",
-          "text": "you"
-        },
-        {
-          "id": "c5",
-          "text": "videos"
-        },
-        {
-          "id": "c6",
-          "text": "which"
-        },
-        {
           "id": "c7",
           "text": "studies"
         },
         {
           "id": "c8",
           "text": "It"
+        },
+        {
+          "id": "c1",
+          "text": "watched"
+        },
+        {
+          "id": "c4",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "which"
+        },
+        {
+          "id": "c5",
+          "text": "videos"
         }
       ],
       "orderIds": [
@@ -1408,18 +1408,6 @@
       "promptEn": "16 (2) 단어를 나오는 순서대로 누르시오.\n그런 다음 그것은 무엇을 추천할지 결정합니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "recommend"
-        },
-        {
-          "id": "c2",
-          "text": "to"
-        },
-        {
-          "id": "c3",
-          "text": "what"
-        },
-        {
           "id": "c4",
           "text": "decides"
         },
@@ -1428,8 +1416,20 @@
           "text": "it"
         },
         {
+          "id": "c3",
+          "text": "what"
+        },
+        {
+          "id": "c2",
+          "text": "to"
+        },
+        {
           "id": "c6",
           "text": "Then"
+        },
+        {
+          "id": "c1",
+          "text": "recommend"
         }
       ],
       "orderIds": [
@@ -1462,12 +1462,8 @@
           "text": "smartphone"
         },
         {
-          "id": "c2",
-          "text": "your"
-        },
-        {
-          "id": "c3",
-          "text": "unlock"
+          "id": "c9",
+          "text": "can"
         },
         {
           "id": "c4",
@@ -1478,20 +1474,24 @@
           "text": "face"
         },
         {
+          "id": "c2",
+          "text": "your"
+        },
+        {
           "id": "c6",
           "text": "your"
         },
         {
-          "id": "c7",
-          "text": "recognize"
+          "id": "c3",
+          "text": "unlock"
         },
         {
           "id": "c8",
           "text": "also"
         },
         {
-          "id": "c9",
-          "text": "can"
+          "id": "c7",
+          "text": "recognize"
         },
         {
           "id": "c10",
@@ -1532,12 +1532,12 @@
           "text": "like"
         },
         {
-          "id": "c2",
-          "text": "looks"
+          "id": "c7",
+          "text": "It"
         },
         {
-          "id": "c3",
-          "text": "face"
+          "id": "c6",
+          "text": "learns"
         },
         {
           "id": "c4",
@@ -1548,12 +1548,12 @@
           "text": "what"
         },
         {
-          "id": "c6",
-          "text": "learns"
+          "id": "c2",
+          "text": "looks"
         },
         {
-          "id": "c7",
-          "text": "It"
+          "id": "c3",
+          "text": "face"
         }
       ],
       "orderIds": [
@@ -1583,28 +1583,20 @@
       "promptEn": "18 단어를 나오는 순서대로 누르시오.\n시간이 지나면서, 당신이 머리 모양을 바꾸거나 마스크를 착용하더라도, 그것은 당신을 더 잘 인식할 수 있게 됩니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "mask"
+          "id": "c17",
+          "text": "time"
         },
         {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "wear"
-        },
-        {
-          "id": "c4",
-          "text": "or"
+          "id": "c13",
+          "text": "at"
         },
         {
           "id": "c5",
           "text": "hair"
         },
         {
-          "id": "c6",
-          "text": "your"
+          "id": "c2",
+          "text": "a"
         },
         {
           "id": "c7",
@@ -1615,44 +1607,52 @@
           "text": "you"
         },
         {
-          "id": "c9",
-          "text": "if"
-        },
-        {
-          "id": "c10",
-          "text": "even"
-        },
-        {
           "id": "c11",
           "text": "you"
-        },
-        {
-          "id": "c12",
-          "text": "recognizing"
-        },
-        {
-          "id": "c13",
-          "text": "at"
-        },
-        {
-          "id": "c14",
-          "text": "better"
         },
         {
           "id": "c15",
           "text": "gets"
         },
         {
-          "id": "c16",
-          "text": "it"
+          "id": "c4",
+          "text": "or"
         },
         {
-          "id": "c17",
-          "text": "time"
+          "id": "c9",
+          "text": "if"
         },
         {
           "id": "c18",
           "text": "Over"
+        },
+        {
+          "id": "c16",
+          "text": "it"
+        },
+        {
+          "id": "c14",
+          "text": "better"
+        },
+        {
+          "id": "c1",
+          "text": "mask"
+        },
+        {
+          "id": "c12",
+          "text": "recognizing"
+        },
+        {
+          "id": "c6",
+          "text": "your"
+        },
+        {
+          "id": "c3",
+          "text": "wear"
+        },
+        {
+          "id": "c10",
+          "text": "even"
         }
       ],
       "orderIds": [
@@ -1693,64 +1693,64 @@
       "promptEn": "19 단어를 나오는 순서대로 누르시오.\n사용자: 여기 내 마지막 질문이 있어. 내가 AI를 사용할 때 무엇을 주의해야 할까?",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "AI"
-        },
-        {
-          "id": "c2",
-          "text": "use"
-        },
-        {
-          "id": "c3",
-          "text": "I"
-        },
-        {
-          "id": "c4",
-          "text": "when"
-        },
-        {
-          "id": "c5",
-          "text": "about"
-        },
-        {
-          "id": "c6",
-          "text": "careful"
-        },
-        {
-          "id": "c7",
-          "text": "be"
-        },
-        {
-          "id": "c8",
-          "text": "I"
-        },
-        {
-          "id": "c9",
-          "text": "should"
-        },
-        {
-          "id": "c10",
-          "text": "What"
-        },
-        {
           "id": "c11",
           "text": "question"
         },
         {
-          "id": "c12",
-          "text": "last"
-        },
-        {
-          "id": "c13",
-          "text": "my"
+          "id": "c1",
+          "text": "AI"
         },
         {
           "id": "c14",
           "text": "is"
         },
         {
+          "id": "c10",
+          "text": "What"
+        },
+        {
+          "id": "c13",
+          "text": "my"
+        },
+        {
+          "id": "c6",
+          "text": "careful"
+        },
+        {
+          "id": "c12",
+          "text": "last"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        },
+        {
+          "id": "c3",
+          "text": "I"
+        },
+        {
           "id": "c15",
           "text": "Here"
+        },
+        {
+          "id": "c7",
+          "text": "be"
+        },
+        {
+          "id": "c4",
+          "text": "when"
+        },
+        {
+          "id": "c9",
+          "text": "should"
+        },
+        {
+          "id": "c5",
+          "text": "about"
+        },
+        {
+          "id": "c2",
+          "text": "use"
         }
       ],
       "orderIds": [
@@ -1788,8 +1788,8 @@
       "promptEn": "20 단어를 나오는 순서대로 누르시오.\nANNIE: 당신은 다음 사항들을 명심해야 합니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "mind"
+          "id": "c5",
+          "text": "the"
         },
         {
           "id": "c2",
@@ -1800,24 +1800,24 @@
           "text": "things"
         },
         {
-          "id": "c4",
-          "text": "following"
-        },
-        {
-          "id": "c5",
-          "text": "the"
-        },
-        {
-          "id": "c6",
-          "text": "keep"
-        },
-        {
           "id": "c7",
           "text": "should"
         },
         {
           "id": "c8",
           "text": "You"
+        },
+        {
+          "id": "c4",
+          "text": "following"
+        },
+        {
+          "id": "c6",
+          "text": "keep"
+        },
+        {
+          "id": "c1",
+          "text": "mind"
         }
       ],
       "orderIds": [
@@ -1848,72 +1848,72 @@
       "promptEn": "21 단어를 나오는 순서대로 누르시오.\n1. 정확성: AI가 항상 정확한 것은 아니므로, 당신은 항상 그것이 제공하는 정보를 주의 깊게 확인해야 합니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "provides"
-        },
-        {
-          "id": "c2",
-          "text": "it"
-        },
-        {
           "id": "c3",
           "text": "that"
         },
         {
-          "id": "c4",
-          "text": "information"
-        },
-        {
-          "id": "c5",
-          "text": "the"
-        },
-        {
-          "id": "c6",
-          "text": "check"
+          "id": "c17",
+          "text": "Accuracy"
         },
         {
           "id": "c7",
           "text": "carefully"
         },
         {
+          "id": "c12",
+          "text": "correct"
+        },
+        {
+          "id": "c6",
+          "text": "check"
+        },
+        {
           "id": "c8",
           "text": "always"
         },
         {
-          "id": "c9",
-          "text": "should"
+          "id": "c2",
+          "text": "it"
         },
         {
-          "id": "c10",
-          "text": "you"
-        },
-        {
-          "id": "c11",
-          "text": "so"
-        },
-        {
-          "id": "c12",
-          "text": "correct"
+          "id": "c4",
+          "text": "information"
         },
         {
           "id": "c13",
           "text": "always"
         },
         {
-          "id": "c14",
-          "text": "not"
+          "id": "c1",
+          "text": "provides"
         },
         {
-          "id": "c15",
-          "text": "is"
+          "id": "c5",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "you"
         },
         {
           "id": "c16",
           "text": "AI"
         },
         {
-          "id": "c17",
-          "text": "Accuracy"
+          "id": "c14",
+          "text": "not"
+        },
+        {
+          "id": "c9",
+          "text": "should"
+        },
+        {
+          "id": "c11",
+          "text": "so"
+        },
+        {
+          "id": "c15",
+          "text": "is"
         }
       ],
       "orderIds": [
@@ -1953,52 +1953,52 @@
       "promptEn": "22 단어를 나오는 순서대로 누르시오.\n2. 독창성: 정보가 정확하더라도, 그것을 무턱대고 베끼지 마세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "it"
-        },
-        {
-          "id": "c2",
-          "text": "copy"
+          "id": "c12",
+          "text": "Originality"
         },
         {
           "id": "c3",
           "text": "blindly"
         },
         {
-          "id": "c4",
-          "text": "not"
+          "id": "c8",
+          "text": "information"
         },
         {
           "id": "c5",
           "text": "do"
         },
         {
-          "id": "c6",
-          "text": "correct"
-        },
-        {
-          "id": "c7",
-          "text": "is"
-        },
-        {
-          "id": "c8",
-          "text": "information"
-        },
-        {
           "id": "c9",
           "text": "the"
-        },
-        {
-          "id": "c10",
-          "text": "if"
         },
         {
           "id": "c11",
           "text": "Even"
         },
         {
-          "id": "c12",
-          "text": "Originality"
+          "id": "c7",
+          "text": "is"
+        },
+        {
+          "id": "c6",
+          "text": "correct"
+        },
+        {
+          "id": "c2",
+          "text": "copy"
+        },
+        {
+          "id": "c4",
+          "text": "not"
+        },
+        {
+          "id": "c10",
+          "text": "if"
+        },
+        {
+          "id": "c1",
+          "text": "it"
         }
       ],
       "orderIds": [
@@ -2033,38 +2033,6 @@
       "promptEn": "23 단어를 나오는 순서대로 누르시오.\n그것을 확실히 이해하고, 그런 다음 당신 자신의 말로 그것을 작성하세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "words"
-        },
-        {
-          "id": "c2",
-          "text": "own"
-        },
-        {
-          "id": "c3",
-          "text": "your"
-        },
-        {
-          "id": "c4",
-          "text": "in"
-        },
-        {
-          "id": "c5",
-          "text": "it"
-        },
-        {
-          "id": "c6",
-          "text": "write"
-        },
-        {
-          "id": "c7",
-          "text": "then"
-        },
-        {
-          "id": "c8",
-          "text": "and"
-        },
-        {
           "id": "c9",
           "text": "it"
         },
@@ -2073,16 +2041,48 @@
           "text": "understand"
         },
         {
+          "id": "c7",
+          "text": "then"
+        },
+        {
           "id": "c11",
           "text": "you"
+        },
+        {
+          "id": "c13",
+          "text": "Make"
+        },
+        {
+          "id": "c5",
+          "text": "it"
+        },
+        {
+          "id": "c8",
+          "text": "and"
+        },
+        {
+          "id": "c6",
+          "text": "write"
+        },
+        {
+          "id": "c2",
+          "text": "own"
+        },
+        {
+          "id": "c1",
+          "text": "words"
+        },
+        {
+          "id": "c4",
+          "text": "in"
         },
         {
           "id": "c12",
           "text": "sure"
         },
         {
-          "id": "c13",
-          "text": "Make"
+          "id": "c3",
+          "text": "your"
         }
       ],
       "orderIds": [
@@ -2122,48 +2122,48 @@
           "text": "AI"
         },
         {
+          "id": "c7",
+          "text": "to"
+        },
+        {
           "id": "c2",
           "text": "with"
-        },
-        {
-          "id": "c3",
-          "text": "information"
-        },
-        {
-          "id": "c4",
-          "text": "personal"
         },
         {
           "id": "c5",
           "text": "your"
         },
         {
-          "id": "c6",
-          "text": "share"
-        },
-        {
-          "id": "c7",
-          "text": "to"
+          "id": "c3",
+          "text": "information"
         },
         {
           "id": "c8",
           "text": "safe"
         },
         {
-          "id": "c9",
-          "text": "not"
+          "id": "c12",
+          "text": "Privacy"
+        },
+        {
+          "id": "c6",
+          "text": "share"
+        },
+        {
+          "id": "c4",
+          "text": "personal"
         },
         {
           "id": "c10",
           "text": "is"
         },
         {
-          "id": "c11",
-          "text": "It"
+          "id": "c9",
+          "text": "not"
         },
         {
-          "id": "c12",
-          "text": "Privacy"
+          "id": "c11",
+          "text": "It"
         }
       ],
       "orderIds": [
@@ -2198,48 +2198,52 @@
       "promptEn": "25 (1) 단어를 나오는 순서대로 누르시오.\n이러한 점을 주의한다면, 당신은 AI를 안전하고 현명하게 사용할 수 있습니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "wisely"
-        },
-        {
-          "id": "c2",
-          "text": "and"
-        },
-        {
-          "id": "c3",
-          "text": "safely"
-        },
-        {
-          "id": "c4",
-          "text": "AI"
-        },
-        {
           "id": "c5",
           "text": "use"
-        },
-        {
-          "id": "c6",
-          "text": "can"
         },
         {
           "id": "c7",
           "text": "you"
         },
         {
-          "id": "c8",
-          "text": "things"
+          "id": "c3",
+          "text": "safely"
         },
         {
-          "id": "c9",
-          "text": "these"
+          "id": "c11",
+          "text": "careful"
         },
         {
           "id": "c10",
           "text": "about"
         },
         {
-          "id": "c11",
-          "text": "careful"
+          "id": "c4",
+          "text": "AI"
+        },
+        {
+          "id": "c1",
+          "text": "wisely"
+        },
+        {
+          "id": "c14",
+          "text": "If"
+        },
+        {
+          "id": "c6",
+          "text": "can"
+        },
+        {
+          "id": "c8",
+          "text": "things"
+        },
+        {
+          "id": "c2",
+          "text": "and"
+        },
+        {
+          "id": "c9",
+          "text": "these"
         },
         {
           "id": "c12",
@@ -2248,10 +2252,6 @@
         {
           "id": "c13",
           "text": "you"
-        },
-        {
-          "id": "c14",
-          "text": "If"
         }
       ],
       "orderIds": [
@@ -2288,16 +2288,16 @@
       "promptEn": "25 (2) 단어를 나오는 순서대로 누르시오.\n사용자: 알겠어. 고마워!",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "Got"
+        },
+        {
           "id": "c1",
           "text": "thanks"
         },
         {
           "id": "c2",
           "text": "it"
-        },
-        {
-          "id": "c3",
-          "text": "Got"
         }
       ],
       "orderIds": [
@@ -2323,40 +2323,24 @@
       "promptEn": "26 (1) 단어를 나오는 순서대로 누르시오.\nANNIE: 천만에요! 앞으로 도움이 필요하면, 편하게 물어보세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "ask"
+          "id": "c6",
+          "text": "the"
         },
         {
           "id": "c2",
           "text": "to"
         },
         {
-          "id": "c3",
-          "text": "free"
-        },
-        {
           "id": "c4",
           "text": "feel"
         },
         {
-          "id": "c5",
-          "text": "future"
-        },
-        {
-          "id": "c6",
-          "text": "the"
-        },
-        {
-          "id": "c7",
-          "text": "in"
+          "id": "c3",
+          "text": "free"
         },
         {
           "id": "c8",
           "text": "help"
-        },
-        {
-          "id": "c9",
-          "text": "need"
         },
         {
           "id": "c10",
@@ -2367,12 +2351,28 @@
           "text": "If"
         },
         {
-          "id": "c12",
-          "text": "welcome"
+          "id": "c7",
+          "text": "in"
+        },
+        {
+          "id": "c1",
+          "text": "ask"
+        },
+        {
+          "id": "c5",
+          "text": "future"
         },
         {
           "id": "c13",
           "text": "You're"
+        },
+        {
+          "id": "c9",
+          "text": "need"
+        },
+        {
+          "id": "c12",
+          "text": "welcome"
         }
       ],
       "orderIds": [
@@ -2416,12 +2416,12 @@
           "text": "great"
         },
         {
-          "id": "c3",
-          "text": "a"
-        },
-        {
           "id": "c4",
           "text": "Have"
+        },
+        {
+          "id": "c3",
+          "text": "a"
         }
       ],
       "orderIds": [

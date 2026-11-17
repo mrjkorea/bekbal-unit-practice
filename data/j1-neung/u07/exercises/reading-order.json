@@ -23,16 +23,8 @@
       "promptEn": "1 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "problem"
-        },
-        {
           "id": "c2",
           "text": "big"
-        },
-        {
-          "id": "c3",
-          "text": "a"
         },
         {
           "id": "c4",
@@ -41,6 +33,14 @@
         {
           "id": "c5",
           "text": "Pollution"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c1",
+          "text": "problem"
         }
       ],
       "orderIds": [
@@ -68,40 +68,40 @@
       "promptEn": "2 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "environment"
-        },
-        {
-          "id": "c2",
-          "text": "the"
-        },
-        {
           "id": "c3",
           "text": "protect"
         },
         {
-          "id": "c4",
-          "text": "to"
+          "id": "c1",
+          "text": "environment"
         },
         {
           "id": "c5",
           "text": "working"
         },
         {
-          "id": "c6",
-          "text": "are"
-        },
-        {
-          "id": "c7",
-          "text": "superheroes"
+          "id": "c9",
+          "text": "Luckily"
         },
         {
           "id": "c8",
           "text": "three"
         },
         {
-          "id": "c9",
-          "text": "Luckily"
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c7",
+          "text": "superheroes"
+        },
+        {
+          "id": "c6",
+          "text": "are"
+        },
+        {
+          "id": "c2",
+          "text": "the"
         }
       ],
       "orderIds": [
@@ -133,6 +133,30 @@
       "promptEn": "3 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c4",
+          "text": "Will"
+        },
+        {
+          "id": "c7",
+          "text": "the"
+        },
+        {
+          "id": "c5",
+          "text": "clean"
+        },
+        {
+          "id": "c11",
+          "text": "They"
+        },
+        {
+          "id": "c3",
+          "text": "you"
+        },
+        {
+          "id": "c8",
+          "text": "make"
+        },
+        {
           "id": "c1",
           "text": "them"
         },
@@ -141,40 +165,16 @@
           "text": "join"
         },
         {
-          "id": "c3",
-          "text": "you"
-        },
-        {
-          "id": "c4",
-          "text": "Will"
-        },
-        {
-          "id": "c5",
-          "text": "clean"
-        },
-        {
-          "id": "c6",
-          "text": "world"
-        },
-        {
-          "id": "c7",
-          "text": "the"
-        },
-        {
-          "id": "c8",
-          "text": "make"
+          "id": "c10",
+          "text": "want"
         },
         {
           "id": "c9",
           "text": "to"
         },
         {
-          "id": "c10",
-          "text": "want"
-        },
-        {
-          "id": "c11",
-          "text": "They"
+          "id": "c6",
+          "text": "world"
         }
       ],
       "orderIds": [
@@ -212,16 +212,16 @@
           "text": "Wizard"
         },
         {
-          "id": "c2",
-          "text": "Recycle"
+          "id": "c4",
+          "text": "Hi"
         },
         {
           "id": "c3",
           "text": "I'm"
         },
         {
-          "id": "c4",
-          "text": "Hi"
+          "id": "c2",
+          "text": "Recycle"
         }
       ],
       "orderIds": [
@@ -248,44 +248,44 @@
       "promptEn": "5 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "them"
-        },
-        {
-          "id": "c2",
-          "text": "save"
-        },
-        {
-          "id": "c3",
-          "text": "can"
-        },
-        {
-          "id": "c4",
-          "text": "recycling"
-        },
-        {
-          "id": "c5",
-          "text": "But"
-        },
-        {
-          "id": "c6",
-          "text": "resources"
+          "id": "c8",
+          "text": "too"
         },
         {
           "id": "c7",
           "text": "many"
         },
         {
-          "id": "c8",
-          "text": "too"
+          "id": "c6",
+          "text": "resources"
+        },
+        {
+          "id": "c1",
+          "text": "them"
+        },
+        {
+          "id": "c10",
+          "text": "People"
+        },
+        {
+          "id": "c2",
+          "text": "save"
+        },
+        {
+          "id": "c4",
+          "text": "recycling"
         },
         {
           "id": "c9",
           "text": "waste"
         },
         {
-          "id": "c10",
-          "text": "People"
+          "id": "c5",
+          "text": "But"
+        },
+        {
+          "id": "c3",
+          "text": "can"
         }
       ],
       "orderIds": [
@@ -318,80 +318,80 @@
       "promptEn": "6 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "water"
-        },
-        {
-          "id": "c2",
-          "text": "of"
-        },
-        {
-          "id": "c3",
-          "text": "liters"
+          "id": "c7",
+          "text": "trees"
         },
         {
           "id": "c4",
           "text": "000"
         },
         {
-          "id": "c5",
-          "text": "29"
+          "id": "c8",
+          "text": "19"
         },
         {
           "id": "c6",
           "text": "and"
         },
         {
-          "id": "c7",
-          "text": "trees"
+          "id": "c17",
+          "text": "recycling"
         },
         {
-          "id": "c8",
-          "text": "19"
-        },
-        {
-          "id": "c9",
-          "text": "about"
-        },
-        {
-          "id": "c10",
-          "text": "save"
-        },
-        {
-          "id": "c11",
-          "text": "can"
+          "id": "c3",
+          "text": "liters"
         },
         {
           "id": "c12",
           "text": "paper"
         },
         {
+          "id": "c5",
+          "text": "29"
+        },
+        {
           "id": "c13",
           "text": "of"
         },
         {
-          "id": "c14",
-          "text": "kilograms"
-        },
-        {
-          "id": "c15",
-          "text": "000"
+          "id": "c2",
+          "text": "of"
         },
         {
           "id": "c16",
           "text": "1"
         },
         {
-          "id": "c17",
-          "text": "recycling"
+          "id": "c15",
+          "text": "000"
+        },
+        {
+          "id": "c11",
+          "text": "can"
+        },
+        {
+          "id": "c19",
+          "text": "For"
         },
         {
           "id": "c18",
           "text": "example"
         },
         {
-          "id": "c19",
-          "text": "For"
+          "id": "c14",
+          "text": "kilograms"
+        },
+        {
+          "id": "c1",
+          "text": "water"
+        },
+        {
+          "id": "c10",
+          "text": "save"
+        },
+        {
+          "id": "c9",
+          "text": "about"
         }
       ],
       "orderIds": [
@@ -433,60 +433,60 @@
       "promptEn": "7 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "properly"
-        },
-        {
-          "id": "c2",
-          "text": "recycle"
-        },
-        {
-          "id": "c3",
-          "text": "should"
-        },
-        {
-          "id": "c4",
-          "text": "you"
-        },
-        {
-          "id": "c5",
-          "text": "Then"
+          "id": "c14",
+          "text": "Do"
         },
         {
           "id": "c6",
           "text": "recycling"
         },
         {
-          "id": "c7",
-          "text": "at"
+          "id": "c13",
+          "text": "you"
         },
         {
-          "id": "c8",
-          "text": "wizard"
-        },
-        {
-          "id": "c9",
-          "text": "a"
-        },
-        {
-          "id": "c10",
-          "text": "be"
-        },
-        {
-          "id": "c11",
-          "text": "to"
+          "id": "c1",
+          "text": "properly"
         },
         {
           "id": "c12",
           "text": "want"
         },
         {
-          "id": "c13",
+          "id": "c10",
+          "text": "be"
+        },
+        {
+          "id": "c2",
+          "text": "recycle"
+        },
+        {
+          "id": "c9",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "wizard"
+        },
+        {
+          "id": "c7",
+          "text": "at"
+        },
+        {
+          "id": "c5",
+          "text": "Then"
+        },
+        {
+          "id": "c11",
+          "text": "to"
+        },
+        {
+          "id": "c4",
           "text": "you"
         },
         {
-          "id": "c14",
-          "text": "Do"
+          "id": "c3",
+          "text": "should"
         }
       ],
       "orderIds": [
@@ -523,24 +523,28 @@
       "promptEn": "8 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "bins"
+          "id": "c10",
+          "text": "plastic"
+        },
+        {
+          "id": "c5",
+          "text": "glass"
         },
         {
           "id": "c2",
           "text": "correct"
         },
         {
+          "id": "c8",
+          "text": "food"
+        },
+        {
           "id": "c3",
           "text": "the"
         },
         {
-          "id": "c4",
-          "text": "in"
-        },
-        {
-          "id": "c5",
-          "text": "glass"
+          "id": "c11",
+          "text": "Put"
         },
         {
           "id": "c6",
@@ -551,20 +555,16 @@
           "text": "waste"
         },
         {
-          "id": "c8",
-          "text": "food"
+          "id": "c4",
+          "text": "in"
         },
         {
           "id": "c9",
           "text": "paper"
         },
         {
-          "id": "c10",
-          "text": "plastic"
-        },
-        {
-          "id": "c11",
-          "text": "Put"
+          "id": "c1",
+          "text": "bins"
         }
       ],
       "orderIds": [
@@ -598,8 +598,64 @@
       "promptEn": "9 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c12",
+          "text": "Draw"
+        },
+        {
           "id": "c1",
           "text": "bin"
+        },
+        {
+          "id": "c17",
+          "text": "Look"
+        },
+        {
+          "id": "c11",
+          "text": "a"
+        },
+        {
+          "id": "c5",
+          "text": "waste"
+        },
+        {
+          "id": "c9",
+          "text": "from"
+        },
+        {
+          "id": "c7",
+          "text": "piece"
+        },
+        {
+          "id": "c14",
+          "text": "waste"
+        },
+        {
+          "id": "c10",
+          "text": "line"
+        },
+        {
+          "id": "c13",
+          "text": "below"
+        },
+        {
+          "id": "c16",
+          "text": "at"
+        },
+        {
+          "id": "c6",
+          "text": "of"
+        },
+        {
+          "id": "c8",
+          "text": "each"
+        },
+        {
+          "id": "c15",
+          "text": "the"
         },
         {
           "id": "c2",
@@ -608,62 +664,6 @@
         {
           "id": "c3",
           "text": "the"
-        },
-        {
-          "id": "c4",
-          "text": "to"
-        },
-        {
-          "id": "c5",
-          "text": "waste"
-        },
-        {
-          "id": "c6",
-          "text": "of"
-        },
-        {
-          "id": "c7",
-          "text": "piece"
-        },
-        {
-          "id": "c8",
-          "text": "each"
-        },
-        {
-          "id": "c9",
-          "text": "from"
-        },
-        {
-          "id": "c10",
-          "text": "line"
-        },
-        {
-          "id": "c11",
-          "text": "a"
-        },
-        {
-          "id": "c12",
-          "text": "Draw"
-        },
-        {
-          "id": "c13",
-          "text": "below"
-        },
-        {
-          "id": "c14",
-          "text": "waste"
-        },
-        {
-          "id": "c15",
-          "text": "the"
-        },
-        {
-          "id": "c16",
-          "text": "at"
-        },
-        {
-          "id": "c17",
-          "text": "Look"
         }
       ],
       "orderIds": [
@@ -737,12 +737,12 @@
           "text": "Clever"
         },
         {
-          "id": "c2",
-          "text": "Fashion"
-        },
-        {
           "id": "c3",
           "text": "I'm"
+        },
+        {
+          "id": "c2",
+          "text": "Fashion"
         }
       ],
       "orderIds": [
@@ -768,56 +768,56 @@
       "promptEn": "12 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c11",
+          "text": "away"
+        },
+        {
           "id": "c1",
           "text": "environment"
-        },
-        {
-          "id": "c2",
-          "text": "the"
-        },
-        {
-          "id": "c3",
-          "text": "hurt"
-        },
-        {
-          "id": "c4",
-          "text": "and"
-        },
-        {
-          "id": "c5",
-          "text": "waste"
         },
         {
           "id": "c6",
           "text": "become"
         },
         {
-          "id": "c7",
-          "text": "They"
+          "id": "c3",
+          "text": "hurt"
         },
         {
           "id": "c8",
           "text": "often"
         },
         {
-          "id": "c9",
-          "text": "too"
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c13",
+          "text": "People"
         },
         {
           "id": "c10",
           "text": "clothes"
         },
         {
-          "id": "c11",
-          "text": "away"
+          "id": "c5",
+          "text": "waste"
+        },
+        {
+          "id": "c7",
+          "text": "They"
         },
         {
           "id": "c12",
           "text": "throw"
         },
         {
-          "id": "c13",
-          "text": "People"
+          "id": "c9",
+          "text": "too"
+        },
+        {
+          "id": "c4",
+          "text": "and"
         }
       ],
       "orderIds": [
@@ -853,56 +853,56 @@
       "promptEn": "13 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "down"
-        },
-        {
-          "id": "c2",
-          "text": "break"
-        },
-        {
-          "id": "c3",
-          "text": "to"
-        },
-        {
-          "id": "c4",
-          "text": "years"
-        },
-        {
-          "id": "c5",
-          "text": "200"
-        },
-        {
           "id": "c6",
           "text": "over"
-        },
-        {
-          "id": "c7",
-          "text": "take"
         },
         {
           "id": "c8",
           "text": "clothes"
         },
         {
-          "id": "c9",
-          "text": "some"
+          "id": "c1",
+          "text": "down"
+        },
+        {
+          "id": "c4",
+          "text": "years"
         },
         {
           "id": "c10",
           "text": "that"
         },
         {
-          "id": "c11",
-          "text": "know"
+          "id": "c5",
+          "text": "200"
+        },
+        {
+          "id": "c7",
+          "text": "take"
+        },
+        {
+          "id": "c13",
+          "text": "Did"
         },
         {
           "id": "c12",
           "text": "you"
         },
         {
-          "id": "c13",
-          "text": "Did"
+          "id": "c9",
+          "text": "some"
+        },
+        {
+          "id": "c3",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "break"
+        },
+        {
+          "id": "c11",
+          "text": "know"
         }
       ],
       "orderIds": [
@@ -938,16 +938,8 @@
       "promptEn": "14 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "time"
-        },
-        {
-          "id": "c2",
-          "text": "long"
-        },
-        {
-          "id": "c3",
-          "text": "a"
+          "id": "c9",
+          "text": "many"
         },
         {
           "id": "c4",
@@ -958,32 +950,40 @@
           "text": "clothes"
         },
         {
-          "id": "c6",
-          "text": "your"
-        },
-        {
-          "id": "c7",
-          "text": "Wear"
-        },
-        {
-          "id": "c8",
-          "text": "clothes"
-        },
-        {
-          "id": "c9",
-          "text": "many"
+          "id": "c12",
+          "text": "Don't"
         },
         {
           "id": "c10",
           "text": "too"
         },
         {
+          "id": "c7",
+          "text": "Wear"
+        },
+        {
+          "id": "c2",
+          "text": "long"
+        },
+        {
+          "id": "c3",
+          "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "clothes"
+        },
+        {
           "id": "c11",
           "text": "buy"
         },
         {
-          "id": "c12",
-          "text": "Don't"
+          "id": "c6",
+          "text": "your"
+        },
+        {
+          "id": "c1",
+          "text": "time"
         }
       ],
       "orderIds": [
@@ -1018,44 +1018,44 @@
       "promptEn": "15 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "clothes"
+          "id": "c3",
+          "text": "your"
         },
         {
           "id": "c2",
           "text": "old"
         },
         {
-          "id": "c3",
-          "text": "your"
-        },
-        {
           "id": "c4",
           "text": "from"
-        },
-        {
-          "id": "c5",
-          "text": "items"
-        },
-        {
-          "id": "c6",
-          "text": "new"
         },
         {
           "id": "c7",
           "text": "create"
         },
         {
-          "id": "c8",
-          "text": "also"
+          "id": "c1",
+          "text": "clothes"
         },
         {
-          "id": "c9",
-          "text": "can"
+          "id": "c5",
+          "text": "items"
         },
         {
           "id": "c10",
           "text": "You"
+        },
+        {
+          "id": "c8",
+          "text": "also"
+        },
+        {
+          "id": "c6",
+          "text": "new"
+        },
+        {
+          "id": "c9",
+          "text": "can"
         }
       ],
       "orderIds": [
@@ -1088,20 +1088,20 @@
       "promptEn": "16 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "useful"
+          "id": "c4",
+          "text": "make"
         },
         {
-          "id": "c2",
-          "text": "clothes"
+          "id": "c1",
+          "text": "useful"
         },
         {
           "id": "c3",
           "text": "old"
         },
         {
-          "id": "c4",
-          "text": "make"
+          "id": "c2",
+          "text": "clothes"
         },
         {
           "id": "c5",
@@ -1133,56 +1133,56 @@
       "promptEn": "17 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "clothes"
-        },
-        {
-          "id": "c2",
-          "text": "old"
-        },
-        {
-          "id": "c3",
-          "text": "these"
+          "id": "c13",
+          "text": "There"
         },
         {
           "id": "c4",
           "text": "with"
         },
         {
-          "id": "c5",
-          "text": "make"
-        },
-        {
-          "id": "c6",
-          "text": "you"
-        },
-        {
-          "id": "c7",
-          "text": "can"
-        },
-        {
-          "id": "c8",
-          "text": "What"
-        },
-        {
-          "id": "c9",
-          "text": "below"
-        },
-        {
-          "id": "c10",
-          "text": "items"
-        },
-        {
           "id": "c11",
           "text": "some"
+        },
+        {
+          "id": "c1",
+          "text": "clothes"
         },
         {
           "id": "c12",
           "text": "are"
         },
         {
-          "id": "c13",
-          "text": "There"
+          "id": "c7",
+          "text": "can"
+        },
+        {
+          "id": "c5",
+          "text": "make"
+        },
+        {
+          "id": "c2",
+          "text": "old"
+        },
+        {
+          "id": "c8",
+          "text": "What"
+        },
+        {
+          "id": "c3",
+          "text": "these"
+        },
+        {
+          "id": "c6",
+          "text": "you"
+        },
+        {
+          "id": "c10",
+          "text": "items"
+        },
+        {
+          "id": "c9",
+          "text": "below"
         }
       ],
       "orderIds": [
@@ -1218,40 +1218,40 @@
       "promptEn": "18 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "items"
-        },
-        {
-          "id": "c2",
-          "text": "new"
-        },
-        {
-          "id": "c3",
-          "text": "correct"
-        },
-        {
-          "id": "c4",
-          "text": "the"
-        },
-        {
-          "id": "c5",
-          "text": "with"
+          "id": "c7",
+          "text": "old"
         },
         {
           "id": "c6",
           "text": "clothes"
         },
         {
-          "id": "c7",
-          "text": "old"
+          "id": "c5",
+          "text": "with"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c2",
+          "text": "new"
         },
         {
           "id": "c8",
           "text": "the"
         },
         {
+          "id": "c3",
+          "text": "correct"
+        },
+        {
           "id": "c9",
           "text": "Match"
+        },
+        {
+          "id": "c1",
+          "text": "items"
         }
       ],
       "orderIds": [
@@ -1283,6 +1283,18 @@
       "promptEn": "19 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
+          "id": "c3",
+          "text": "at"
+        },
+        {
+          "id": "c7",
+          "text": "you"
+        },
+        {
+          "id": "c6",
+          "text": "can"
+        },
+        {
           "id": "c1",
           "text": "too"
         },
@@ -1291,8 +1303,8 @@
           "text": "fashion"
         },
         {
-          "id": "c3",
-          "text": "at"
+          "id": "c8",
+          "text": "Now"
         },
         {
           "id": "c4",
@@ -1301,18 +1313,6 @@
         {
           "id": "c5",
           "text": "be"
-        },
-        {
-          "id": "c6",
-          "text": "can"
-        },
-        {
-          "id": "c7",
-          "text": "you"
-        },
-        {
-          "id": "c8",
-          "text": "Now"
         }
       ],
       "orderIds": [
@@ -1343,20 +1343,20 @@
       "promptEn": "20 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Saver"
+          "id": "c4",
+          "text": "Hi"
         },
         {
-          "id": "c2",
-          "text": "Water"
+          "id": "c1",
+          "text": "Saver"
         },
         {
           "id": "c3",
           "text": "I'm"
         },
         {
-          "id": "c4",
-          "text": "Hi"
+          "id": "c2",
+          "text": "Water"
         }
       ],
       "orderIds": [
@@ -1387,12 +1387,8 @@
           "text": "it"
         },
         {
-          "id": "c2",
-          "text": "without"
-        },
-        {
-          "id": "c3",
-          "text": "live"
+          "id": "c8",
+          "text": "is"
         },
         {
           "id": "c4",
@@ -1403,20 +1399,24 @@
           "text": "We"
         },
         {
-          "id": "c6",
-          "text": "important"
-        },
-        {
           "id": "c7",
           "text": "very"
         },
         {
-          "id": "c8",
-          "text": "is"
+          "id": "c2",
+          "text": "without"
+        },
+        {
+          "id": "c3",
+          "text": "live"
         },
         {
           "id": "c9",
           "text": "Water"
+        },
+        {
+          "id": "c6",
+          "text": "important"
         }
       ],
       "orderIds": [
@@ -1448,48 +1448,48 @@
       "promptEn": "22 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "sad"
-        },
-        {
-          "id": "c2",
-          "text": "me"
-        },
-        {
-          "id": "c3",
-          "text": "makes"
-        },
-        {
           "id": "c4",
           "text": "It"
         },
         {
-          "id": "c5",
-          "text": "water"
-        },
-        {
-          "id": "c6",
-          "text": "of"
+          "id": "c11",
+          "text": "But"
         },
         {
           "id": "c7",
           "text": "lot"
         },
         {
-          "id": "c8",
-          "text": "a"
+          "id": "c6",
+          "text": "of"
         },
         {
-          "id": "c9",
-          "text": "waste"
+          "id": "c5",
+          "text": "water"
+        },
+        {
+          "id": "c1",
+          "text": "sad"
         },
         {
           "id": "c10",
           "text": "people"
         },
         {
-          "id": "c11",
-          "text": "But"
+          "id": "c3",
+          "text": "makes"
+        },
+        {
+          "id": "c2",
+          "text": "me"
+        },
+        {
+          "id": "c9",
+          "text": "waste"
+        },
+        {
+          "id": "c8",
+          "text": "a"
         }
       ],
       "orderIds": [
@@ -1523,20 +1523,20 @@
       "promptEn": "23 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "water"
-        },
-        {
           "id": "c2",
           "text": "save"
         },
         {
-          "id": "c3",
-          "text": "we"
-        },
-        {
           "id": "c4",
           "text": "can"
+        },
+        {
+          "id": "c1",
+          "text": "water"
+        },
+        {
+          "id": "c3",
+          "text": "we"
         },
         {
           "id": "c5",
@@ -1568,20 +1568,8 @@
       "promptEn": "24 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "teeth"
-        },
-        {
-          "id": "c2",
-          "text": "your"
-        },
-        {
-          "id": "c3",
-          "text": "brush"
-        },
-        {
-          "id": "c4",
-          "text": "you"
+          "id": "c7",
+          "text": "the"
         },
         {
           "id": "c5",
@@ -1592,20 +1580,12 @@
           "text": "tap"
         },
         {
-          "id": "c7",
-          "text": "the"
-        },
-        {
-          "id": "c8",
-          "text": "off"
-        },
-        {
           "id": "c9",
           "text": "Turn"
         },
         {
-          "id": "c10",
-          "text": "showers"
+          "id": "c4",
+          "text": "you"
         },
         {
           "id": "c11",
@@ -1614,6 +1594,26 @@
         {
           "id": "c12",
           "text": "Take"
+        },
+        {
+          "id": "c2",
+          "text": "your"
+        },
+        {
+          "id": "c3",
+          "text": "brush"
+        },
+        {
+          "id": "c8",
+          "text": "off"
+        },
+        {
+          "id": "c10",
+          "text": "showers"
+        },
+        {
+          "id": "c1",
+          "text": "teeth"
         }
       ],
       "orderIds": [
@@ -1648,28 +1648,12 @@
       "promptEn": "25 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "completely"
-        },
-        {
-          "id": "c2",
-          "text": "tap"
-        },
-        {
-          "id": "c3",
-          "text": "the"
-        },
-        {
-          "id": "c4",
-          "text": "off"
-        },
-        {
           "id": "c5",
           "text": "turn"
         },
         {
-          "id": "c6",
-          "text": "you"
+          "id": "c1",
+          "text": "completely"
         },
         {
           "id": "c7",
@@ -1678,6 +1662,22 @@
         {
           "id": "c8",
           "text": "sure"
+        },
+        {
+          "id": "c6",
+          "text": "you"
+        },
+        {
+          "id": "c4",
+          "text": "off"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c2",
+          "text": "tap"
         },
         {
           "id": "c9",
@@ -1722,6 +1722,26 @@
           "text": "not"
         },
         {
+          "id": "c13",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "to"
+        },
+        {
+          "id": "c9",
+          "text": "are"
+        },
+        {
+          "id": "c6",
+          "text": "save"
+        },
+        {
+          "id": "c4",
+          "text": "and"
+        },
+        {
           "id": "c2",
           "text": "are"
         },
@@ -1730,28 +1750,24 @@
           "text": "which"
         },
         {
-          "id": "c4",
-          "text": "and"
+          "id": "c14",
+          "text": "at"
         },
         {
-          "id": "c5",
-          "text": "water"
-        },
-        {
-          "id": "c6",
-          "text": "save"
-        },
-        {
-          "id": "c7",
-          "text": "to"
+          "id": "c15",
+          "text": "Look"
         },
         {
           "id": "c8",
           "text": "ways"
         },
         {
-          "id": "c9",
-          "text": "are"
+          "id": "c12",
+          "text": "pictures"
+        },
+        {
+          "id": "c5",
+          "text": "water"
         },
         {
           "id": "c10",
@@ -1760,22 +1776,6 @@
         {
           "id": "c11",
           "text": "below"
-        },
-        {
-          "id": "c12",
-          "text": "pictures"
-        },
-        {
-          "id": "c13",
-          "text": "the"
-        },
-        {
-          "id": "c14",
-          "text": "at"
-        },
-        {
-          "id": "c15",
-          "text": "Look"
         }
       ],
       "orderIds": [
@@ -1813,36 +1813,36 @@
       "promptEn": "27 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "picture"
+          "id": "c7",
+          "text": "an"
         },
         {
-          "id": "c2",
-          "text": "each"
+          "id": "c1",
+          "text": "picture"
         },
         {
           "id": "c3",
           "text": "on"
         },
         {
-          "id": "c4",
-          "text": "X"
-        },
-        {
           "id": "c5",
           "text": "or"
         },
         {
-          "id": "c6",
-          "text": "O"
-        },
-        {
-          "id": "c7",
-          "text": "an"
+          "id": "c4",
+          "text": "X"
         },
         {
           "id": "c8",
           "text": "Write"
+        },
+        {
+          "id": "c2",
+          "text": "each"
+        },
+        {
+          "id": "c6",
+          "text": "O"
         }
       ],
       "orderIds": [
@@ -1873,16 +1873,8 @@
       "promptEn": "28 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "answers"
-        },
-        {
-          "id": "c2",
-          "text": "right"
-        },
-        {
-          "id": "c3",
-          "text": "the"
+          "id": "c8",
+          "text": "I'm"
         },
         {
           "id": "c4",
@@ -1893,16 +1885,24 @@
           "text": "you"
         },
         {
-          "id": "c6",
-          "text": "that"
+          "id": "c1",
+          "text": "answers"
+        },
+        {
+          "id": "c3",
+          "text": "the"
         },
         {
           "id": "c7",
           "text": "sure"
         },
         {
-          "id": "c8",
-          "text": "I'm"
+          "id": "c6",
+          "text": "that"
+        },
+        {
+          "id": "c2",
+          "text": "right"
         }
       ],
       "orderIds": [
@@ -1933,16 +1933,8 @@
       "promptEn": "29 보기를 순서대로 누르세요.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "water"
-        },
-        {
-          "id": "c2",
-          "text": "saving"
-        },
-        {
-          "id": "c3",
-          "text": "at"
+          "id": "c6",
+          "text": "You"
         },
         {
           "id": "c4",
@@ -1953,8 +1945,16 @@
           "text": "are"
         },
         {
-          "id": "c6",
-          "text": "You"
+          "id": "c2",
+          "text": "saving"
+        },
+        {
+          "id": "c1",
+          "text": "water"
+        },
+        {
+          "id": "c3",
+          "text": "at"
         }
       ],
       "orderIds": [

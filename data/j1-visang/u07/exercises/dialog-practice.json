@@ -133,20 +133,20 @@
       "promptEn": "위 대화의 밑줄 친 난 바다 동물들이 걱정돼.의 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n(about / animals / I'm / sea / worried)",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "about"
-        },
-        {
-          "id": "c2",
-          "text": "animals"
+          "id": "c4",
+          "text": "sea"
         },
         {
           "id": "c3",
           "text": "I'm"
         },
         {
-          "id": "c4",
-          "text": "sea"
+          "id": "c2",
+          "text": "animals"
+        },
+        {
+          "id": "c1",
+          "text": "about"
         },
         {
           "id": "c5",

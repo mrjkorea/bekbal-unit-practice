@@ -487,12 +487,12 @@
       "promptEn": "[16-22] 다음 글을 읽고 물음에 답하시오.\n\n<u>ⓐ다음 날, 저는 공원에 갈 준비를 했습니다.</u> <u>ⓑI decided borrow a bike instead of take a bus.</u> My city has ______. Anyone who has an app can borrow a bike easily.\n(A) This makes the bike's lock open. (B) First, you choose a bike that you want to use. (C) Then you scan the QR code on the bike.\nBefore I rode to the park, I checked the bike carefully. Sometimes, the bikes are not in good condition. This time, everything looked fine, so I headed for the park. When <u>ⓓI got there</u>, I returned the bike to a station in the park. Using the bike was really easy. Also, I was happy to help the environment.\n\n19 윗글의 밑줄 친 (A)~(C)를 순서대로 바르게 배열하시오.",
       "orderChunks": [
         {
-          "id": "A",
-          "text": "(A) This makes the bike's lock open."
-        },
-        {
           "id": "B",
           "text": "(B) First, you choose a bike that you want to use."
+        },
+        {
+          "id": "A",
+          "text": "(A) This makes the bike's lock open."
         },
         {
           "id": "C",

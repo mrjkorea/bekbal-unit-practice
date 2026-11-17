@@ -145,28 +145,28 @@
       "answerModeTag": "Choose · 순서 누르기",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "fun"
-        },
-        {
           "id": "c1",
           "text": "People"
         },
         {
-          "id": "c2",
-          "text": "are"
+          "id": "c5",
+          "text": "here."
         },
         {
           "id": "c3",
           "text": "activities"
         },
         {
-          "id": "c4",
-          "text": "enjoying"
+          "id": "c0",
+          "text": "fun"
         },
         {
-          "id": "c5",
-          "text": "here."
+          "id": "c2",
+          "text": "are"
+        },
+        {
+          "id": "c4",
+          "text": "enjoying"
         }
       ],
       "orderIds": [
@@ -1664,12 +1664,12 @@
           "text": "very"
         },
         {
-          "id": "c1",
-          "text": "It's"
-        },
-        {
           "id": "c2",
           "text": "scientific."
+        },
+        {
+          "id": "c1",
+          "text": "It's"
         }
       ],
       "orderIds": [

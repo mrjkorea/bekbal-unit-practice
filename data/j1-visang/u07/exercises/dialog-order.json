@@ -27,16 +27,16 @@
           "text": "Me, too. They can eat plastic waste and get sick."
         },
         {
-          "id": "s3",
-          "text": "Yes. I'm worried about the sea animals."
-        },
-        {
           "id": "s2",
           "text": "Oh, is this all plastic?"
         },
         {
           "id": "s1",
           "text": "Look at the big plastic island in the ocean."
+        },
+        {
+          "id": "s3",
+          "text": "Yes. I'm worried about the sea animals."
         }
       ],
       "orderIds": [
@@ -63,20 +63,20 @@
       "promptEn": "2 다음 대화를 순서대로 누르시오.\n02 Everyday Communication 1-A2",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Yeah, it is always hard for me."
-        },
-        {
-          "id": "s3",
-          "text": "Oh, I see. Speaking in front of people is not easy."
+          "id": "s1",
+          "text": "You look worried. What's wrong?"
         },
         {
           "id": "s2",
           "text": "I'm worried about the English speaking test."
         },
         {
-          "id": "s1",
-          "text": "You look worried. What's wrong?"
+          "id": "s4",
+          "text": "Yeah, it is always hard for me."
+        },
+        {
+          "id": "s3",
+          "text": "Oh, I see. Speaking in front of people is not easy."
         }
       ],
       "orderIds": [
@@ -103,16 +103,16 @@
       "promptEn": "3 다음 대화를 순서대로 누르시오.\n03 Everyday Communication 1-A3",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "It is bright all night, so they cannot sleep well."
+          "id": "s2",
+          "text": "Yeah, it is. But I'm worried about the birds."
         },
         {
           "id": "s3",
           "text": "Why?"
         },
         {
-          "id": "s2",
-          "text": "Yeah, it is. But I'm worried about the birds."
+          "id": "s4",
+          "text": "It is bright all night, so they cannot sleep well."
         },
         {
           "id": "s1",
@@ -143,8 +143,16 @@
       "promptEn": "4 다음 대화를 순서대로 누르시오.\n04 Everyday Communication 1-C1",
       "orderChunks": [
         {
-          "id": "s6",
-          "text": "Right. They may not have much time."
+          "id": "s3",
+          "text": "I see. Oh, the polar bears on the ice look so sad."
+        },
+        {
+          "id": "s1",
+          "text": "What are you drawing, Jessica?"
+        },
+        {
+          "id": "s2",
+          "text": "I'm drawing a poster about polar bears."
         },
         {
           "id": "s5",
@@ -155,16 +163,8 @@
           "text": "Yeah, I'm worried about the polar bears. They are losing their homes."
         },
         {
-          "id": "s3",
-          "text": "I see. Oh, the polar bears on the ice look so sad."
-        },
-        {
-          "id": "s2",
-          "text": "I'm drawing a poster about polar bears."
-        },
-        {
-          "id": "s1",
-          "text": "What are you drawing, Jessica?"
+          "id": "s6",
+          "text": "Right. They may not have much time."
         }
       ],
       "orderIds": [
@@ -197,16 +197,16 @@
           "text": "That's a good idea."
         },
         {
+          "id": "s1",
+          "text": "Look! This is the design for our concert poster."
+        },
+        {
           "id": "s3",
           "text": "Well, that is a waste of paper. Why don't we post it on the school website?"
         },
         {
           "id": "s2",
           "text": "Oh, it's cool. Let's print and put up posters around the school."
-        },
-        {
-          "id": "s1",
-          "text": "Look! This is the design for our concert poster."
         }
       ],
       "orderIds": [
@@ -241,12 +241,12 @@
           "text": "Me, too. Why don't we throw a surprise party for him?"
         },
         {
-          "id": "s2",
-          "text": "I feel so sad. I really liked his class."
-        },
-        {
           "id": "s1",
           "text": "Tomorrow is Mr. Green's last day at school. He will go back to the U.S."
+        },
+        {
+          "id": "s2",
+          "text": "I feel so sad. I really liked his class."
         }
       ],
       "orderIds": [
@@ -273,10 +273,6 @@
       "promptEn": "7 다음 대화를 순서대로 누르시오.\n07 Everyday Communication 2-A3",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Sounds like a great idea."
-        },
-        {
           "id": "s3",
           "text": "Why don't we make fun recycling boxes and put them in our classroom?"
         },
@@ -287,6 +283,10 @@
         {
           "id": "s1",
           "text": "Oh, there is too much plastic waste in our classroom."
+        },
+        {
+          "id": "s4",
+          "text": "Sounds like a great idea."
         }
       ],
       "orderIds": [
@@ -313,12 +313,8 @@
       "promptEn": "8 다음 대화를 순서대로 누르시오.\n08 Everyday Communication 2-C1",
       "orderChunks": [
         {
-          "id": "s5",
-          "text": "That's a good idea."
-        },
-        {
-          "id": "s4",
-          "text": "Why don't we make a short video about reusing old clothes together?"
+          "id": "s1",
+          "text": "Your bag is pretty, Jessica."
         },
         {
           "id": "s3",
@@ -329,8 +325,12 @@
           "text": "Thank you, Toby. I made it with my old jeans. It's my Earth Day project."
         },
         {
-          "id": "s1",
-          "text": "Your bag is pretty, Jessica."
+          "id": "s5",
+          "text": "That's a good idea."
+        },
+        {
+          "id": "s4",
+          "text": "Why don't we make a short video about reusing old clothes together?"
         }
       ],
       "orderIds": [
@@ -358,20 +358,20 @@
       "promptEn": "9 다음 대화를 순서대로 누르시오.\n09 Wrap Up 1",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Yes, it is. I'm worried about the sea animals."
-        },
-        {
-          "id": "s3",
-          "text": "It's a big problem."
-        },
-        {
           "id": "s2",
           "text": "Yeah. There is a lot of trash."
         },
         {
           "id": "s1",
           "text": "Look at all the trash on the beach."
+        },
+        {
+          "id": "s4",
+          "text": "Yes, it is. I'm worried about the sea animals."
+        },
+        {
+          "id": "s3",
+          "text": "It's a big problem."
         }
       ],
       "orderIds": [
@@ -402,12 +402,12 @@
           "text": "That's a good idea. She will love it."
         },
         {
-          "id": "s3",
-          "text": "Well, why don't we make a video with our family pictures?"
-        },
-        {
           "id": "s2",
           "text": "Sounds good. Do you have any ideas?"
+        },
+        {
+          "id": "s3",
+          "text": "Well, why don't we make a video with our family pictures?"
         },
         {
           "id": "s1",

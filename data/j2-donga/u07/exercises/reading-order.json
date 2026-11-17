@@ -89,8 +89,12 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "from"
+          "id": "c6",
+          "text": "to"
+        },
+        {
+          "id": "c5",
+          "text": "festival"
         },
         {
           "id": "c1",
@@ -101,24 +105,20 @@
           "text": "19."
         },
         {
-          "id": "c3",
-          "text": "takes"
-        },
-        {
           "id": "c4",
           "text": "This"
         },
         {
-          "id": "c5",
-          "text": "festival"
-        },
-        {
-          "id": "c6",
-          "text": "to"
-        },
-        {
           "id": "c7",
           "text": "March 15"
+        },
+        {
+          "id": "c3",
+          "text": "takes"
+        },
+        {
+          "id": "c0",
+          "text": "from"
         }
       ],
       "orderIds": [
@@ -1971,12 +1971,8 @@
           "text": "it"
         },
         {
-          "id": "c1",
-          "text": "but"
-        },
-        {
-          "id": "c2",
-          "text": "Not"
+          "id": "c5",
+          "text": "doesn't"
         },
         {
           "id": "c3",
@@ -1987,8 +1983,12 @@
           "text": "really,"
         },
         {
-          "id": "c5",
-          "text": "doesn't"
+          "id": "c1",
+          "text": "but"
+        },
+        {
+          "id": "c2",
+          "text": "Not"
         }
       ],
       "orderIds": [

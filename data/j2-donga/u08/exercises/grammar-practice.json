@@ -118,24 +118,24 @@
    "answerMode": "order",
    "orderChunks": [
     {
-     "id": "c0",
-     "text": "strange"
-    },
-    {
      "id": "c1",
      "text": "in"
+    },
+    {
+     "id": "c0",
+     "text": "strange"
     },
     {
      "id": "c2",
      "text": "his"
     },
     {
-     "id": "c3",
-     "text": "something"
-    },
-    {
      "id": "c4",
      "text": "words"
+    },
+    {
+     "id": "c3",
+     "text": "something"
     }
    ],
    "orderIds": [

@@ -503,20 +503,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "his feet"
-        },
-        {
           "id": "c1",
           "text": "under"
         },
         {
-          "id": "c2",
-          "text": "moving"
+          "id": "c0",
+          "text": "his feet"
         },
         {
           "id": "c3",
           "text": "felt"
+        },
+        {
+          "id": "c2",
+          "text": "moving"
         },
         {
           "id": "c4",
@@ -786,16 +786,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "danger"
+        },
+        {
           "id": "c0",
           "text": "of"
         },
         {
-          "id": "c1",
-          "text": "us"
+          "id": "c5",
+          "text": "all"
         },
         {
-          "id": "c2",
-          "text": "you"
+          "id": "c1",
+          "text": "us"
         },
         {
           "id": "c3",
@@ -806,12 +810,8 @@
           "text": "in"
         },
         {
-          "id": "c5",
-          "text": "all"
-        },
-        {
-          "id": "c6",
-          "text": "danger"
+          "id": "c2",
+          "text": "you"
         }
       ],
       "orderIds": [

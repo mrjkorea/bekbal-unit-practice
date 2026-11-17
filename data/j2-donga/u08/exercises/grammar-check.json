@@ -729,16 +729,8 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "team"
-        },
-        {
           "id": "c1",
           "text": "our"
-        },
-        {
-          "id": "c2",
-          "text": "for"
         },
         {
           "id": "c3",
@@ -749,8 +741,16 @@
           "text": "someone"
         },
         {
+          "id": "c2",
+          "text": "for"
+        },
+        {
           "id": "c5",
           "text": "basketball"
+        },
+        {
+          "id": "c0",
+          "text": "team"
         }
       ],
       "orderIds": [
@@ -864,10 +864,6 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "students"
-        },
-        {
           "id": "c1",
           "text": "everything"
         },
@@ -878,6 +874,10 @@
         {
           "id": "c3",
           "text": "to"
+        },
+        {
+          "id": "c0",
+          "text": "students"
         },
         {
           "id": "c4",

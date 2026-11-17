@@ -230,6 +230,10 @@
           "text": "a"
         },
         {
+          "id": "c7",
+          "text": "one"
+        },
+        {
           "id": "c2",
           "text": "looked"
         },
@@ -238,7 +242,7 @@
           "text": "new"
         },
         {
-          "id": "c4",
+          "id": "c8",
           "text": "as"
         },
         {
@@ -246,16 +250,12 @@
           "text": "It"
         },
         {
+          "id": "c4",
+          "text": "as"
+        },
+        {
           "id": "c6",
           "text": "good"
-        },
-        {
-          "id": "c7",
-          "text": "one"
-        },
-        {
-          "id": "c8",
-          "text": "as"
         }
       ],
       "orderIds": [

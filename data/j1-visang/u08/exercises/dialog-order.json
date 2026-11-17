@@ -23,16 +23,16 @@
       "promptEn": "1 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Sure."
-        },
-        {
           "id": "s3",
           "text": "Yes, I did. Can you look for my phone with me?"
         },
         {
           "id": "s2",
           "text": "Did you bring it home from school?"
+        },
+        {
+          "id": "s4",
+          "text": "Sure."
         },
         {
           "id": "s1",
@@ -63,20 +63,20 @@
       "promptEn": "2 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Sure."
-        },
-        {
-          "id": "s3",
-          "text": "Then can you return a book for me?"
+          "id": "s1",
+          "text": "Where are you going, Joan?"
         },
         {
           "id": "s2",
           "text": "I'm going to the library."
         },
         {
-          "id": "s1",
-          "text": "Where are you going, Joan?"
+          "id": "s4",
+          "text": "Sure."
+        },
+        {
+          "id": "s3",
+          "text": "Then can you return a book for me?"
         }
       ],
       "orderIds": [
@@ -103,20 +103,20 @@
       "promptEn": "3 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Okay."
-        },
-        {
           "id": "s3",
           "text": "Can you buy some milk and eggs at the store?"
+        },
+        {
+          "id": "s1",
+          "text": "Susan, are you busy?"
         },
         {
           "id": "s2",
           "text": "Not really, Dad. Why?"
         },
         {
-          "id": "s1",
-          "text": "Susan, are you busy?"
+          "id": "s4",
+          "text": "Okay."
         }
       ],
       "orderIds": [
@@ -143,24 +143,24 @@
       "promptEn": "4 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s5",
-          "text": "Oh, great! Thank you."
+          "id": "s2",
+          "text": "Sure, Dylan. What is it?"
         },
         {
           "id": "s4",
           "text": "Yes, of course. I can bring some clothes, too."
         },
         {
-          "id": "s3",
-          "text": "Our club is going to send clothes and food to help others. Do you want to join us?"
-        },
-        {
-          "id": "s2",
-          "text": "Sure, Dylan. What is it?"
+          "id": "s5",
+          "text": "Oh, great! Thank you."
         },
         {
           "id": "s1",
           "text": "Can you help me, Lena?"
+        },
+        {
+          "id": "s3",
+          "text": "Our club is going to send clothes and food to help others. Do you want to join us?"
         }
       ],
       "orderIds": [
@@ -188,16 +188,16 @@
       "promptEn": "5 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "Yes, I did. It was great."
-        },
-        {
           "id": "s3",
           "text": "Did you like the movie?"
         },
         {
           "id": "s2",
           "text": "I watched a movie called Black. It's about a blind girl and her teacher."
+        },
+        {
+          "id": "s4",
+          "text": "Yes, I did. It was great."
         },
         {
           "id": "s1",
@@ -228,16 +228,16 @@
       "promptEn": "6 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "They couldn't use smartphones well. So I taught them."
-        },
-        {
           "id": "s3",
           "text": "What did you do?"
         },
         {
           "id": "s2",
           "text": "Good. I went to a nursing home and helped out."
+        },
+        {
+          "id": "s4",
+          "text": "They couldn't use smartphones well. So I taught them."
         },
         {
           "id": "s1",
@@ -268,20 +268,20 @@
       "promptEn": "7 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
-          "id": "s4",
-          "text": "We went to the beach. The snowy beach was so beautiful."
-        },
-        {
           "id": "s3",
           "text": "Sounds great. What did you do there?"
         },
         {
-          "id": "s2",
-          "text": "Yes. I visited my uncle in Sokcho."
-        },
-        {
           "id": "s1",
           "text": "Did you have a good holiday?"
+        },
+        {
+          "id": "s4",
+          "text": "We went to the beach. The snowy beach was so beautiful."
+        },
+        {
+          "id": "s2",
+          "text": "Yes. I visited my uncle in Sokcho."
         }
       ],
       "orderIds": [
@@ -308,16 +308,16 @@
       "promptEn": "8 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
+          "id": "s2",
+          "text": "My family and I held a small concert at a children's hospital."
+        },
+        {
           "id": "s4",
           "text": "My dad played the violin, and my mom played the piano. I sang a few songs. It was the best day of the year."
         },
         {
           "id": "s3",
           "text": "A small concert? That's great."
-        },
-        {
-          "id": "s2",
-          "text": "My family and I held a small concert at a children's hospital."
         },
         {
           "id": "s1",
@@ -348,6 +348,10 @@
       "promptEn": "9 다음 대화를 순서대로 누르시오.",
       "orderChunks": [
         {
+          "id": "s1",
+          "text": "Jim, can you come and help me?"
+        },
+        {
           "id": "s4",
           "text": "Sure. No problem."
         },
@@ -358,10 +362,6 @@
         {
           "id": "s2",
           "text": "Yes, Mom. What can I do for you?"
-        },
-        {
-          "id": "s1",
-          "text": "Jim, can you come and help me?"
         }
       ],
       "orderIds": [
@@ -392,16 +392,16 @@
           "text": "Sounds fun."
         },
         {
-          "id": "s3",
-          "text": "I watched a movie with my friends."
+          "id": "s1",
+          "text": "Did you have a good weekend, Amy?"
         },
         {
           "id": "s2",
           "text": "Yes. I went fishing with my family. How about you, Sam?"
         },
         {
-          "id": "s1",
-          "text": "Did you have a good weekend, Amy?"
+          "id": "s3",
+          "text": "I watched a movie with my friends."
         }
       ],
       "orderIds": [

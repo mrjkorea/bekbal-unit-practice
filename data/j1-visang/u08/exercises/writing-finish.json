@@ -288,24 +288,12 @@
    "promptEn": "다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하시오.\n그녀는 그녀의 개를 산책시키기 위해 공원에 갔다.\n( she / dog / the / park / went / to / walk / her / to )",
    "orderChunks": [
     {
-     "id": "c1",
-     "text": "she"
-    },
-    {
-     "id": "c2",
-     "text": "dog"
-    },
-    {
-     "id": "c3",
-     "text": "the"
-    },
-    {
-     "id": "c4",
-     "text": "park"
-    },
-    {
      "id": "c5",
      "text": "went"
+    },
+    {
+     "id": "c1",
+     "text": "she"
     },
     {
      "id": "c6",
@@ -316,12 +304,24 @@
      "text": "walk"
     },
     {
+     "id": "c9",
+     "text": "to"
+    },
+    {
+     "id": "c2",
+     "text": "dog"
+    },
+    {
+     "id": "c4",
+     "text": "park"
+    },
+    {
      "id": "c8",
      "text": "her"
     },
     {
-     "id": "c9",
-     "text": "to"
+     "id": "c3",
+     "text": "the"
     }
    ],
    "orderIds": [

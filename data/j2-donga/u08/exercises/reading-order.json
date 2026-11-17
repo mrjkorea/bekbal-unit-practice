@@ -754,8 +754,8 @@
       "label": "10",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "safe,"
+          "id": "c3",
+          "text": "instructions.\""
         },
         {
           "id": "c1",
@@ -766,24 +766,24 @@
           "text": "must"
         },
         {
-          "id": "c3",
-          "text": "instructions.\""
+          "id": "c6",
+          "text": "stay"
         },
         {
-          "id": "c4",
-          "text": "his"
+          "id": "c0",
+          "text": "safe,"
         },
         {
           "id": "c5",
           "text": "you"
         },
         {
-          "id": "c6",
-          "text": "stay"
-        },
-        {
           "id": "c7",
           "text": "\"To"
+        },
+        {
+          "id": "c4",
+          "text": "his"
         }
       ],
       "orderIds": [
@@ -1739,20 +1739,8 @@
           "text": "walk"
         },
         {
-          "id": "c2",
-          "text": "began"
-        },
-        {
           "id": "c3",
           "text": "path."
-        },
-        {
-          "id": "c4",
-          "text": "the"
-        },
-        {
-          "id": "c5",
-          "text": "all"
         },
         {
           "id": "c6",
@@ -1761,6 +1749,18 @@
         {
           "id": "c7",
           "text": "They"
+        },
+        {
+          "id": "c5",
+          "text": "all"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c2",
+          "text": "began"
         }
       ],
       "orderIds": [
@@ -1931,24 +1931,24 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "whispered"
-        },
-        {
-          "id": "c1",
-          "text": "Eckels."
-        },
-        {
-          "id": "c2",
-          "text": "\"It,\""
-        },
-        {
           "id": "c3",
           "text": "\"It...\""
         },
         {
           "id": "c4",
           "text": "\"Sh!\""
+        },
+        {
+          "id": "c0",
+          "text": "whispered"
+        },
+        {
+          "id": "c2",
+          "text": "\"It,\""
+        },
+        {
+          "id": "c1",
+          "text": "Eckels."
         }
       ],
       "orderIds": [

@@ -660,20 +660,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "creative"
-        },
-        {
           "id": "c1",
           "text": "in"
         },
         {
-          "id": "c2",
-          "text": "something"
+          "id": "c0",
+          "text": "creative"
         },
         {
           "id": "c3",
           "text": "the meeting"
+        },
+        {
+          "id": "c2",
+          "text": "something"
         }
       ],
       "orderIds": [
@@ -700,16 +700,16 @@
       "answerMode": "order",
       "orderChunks": [
         {
+          "id": "c2",
+          "text": "anything"
+        },
+        {
           "id": "c0",
           "text": "in"
         },
         {
           "id": "c1",
           "text": "helpful"
-        },
-        {
-          "id": "c2",
-          "text": "anything"
         },
         {
           "id": "c3",
@@ -740,20 +740,20 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "outside"
-        },
-        {
           "id": "c1",
           "text": "strange"
         },
         {
-          "id": "c2",
-          "text": "something"
-        },
-        {
           "id": "c3",
           "text": "the window"
+        },
+        {
+          "id": "c0",
+          "text": "outside"
+        },
+        {
+          "id": "c2",
+          "text": "something"
         }
       ],
       "orderIds": [
@@ -780,14 +780,6 @@
       "answerMode": "order",
       "orderChunks": [
         {
-          "id": "c0",
-          "text": "wrong"
-        },
-        {
-          "id": "c1",
-          "text": "computer"
-        },
-        {
           "id": "c2",
           "text": "something"
         },
@@ -798,6 +790,14 @@
         {
           "id": "c4",
           "text": "with"
+        },
+        {
+          "id": "c1",
+          "text": "computer"
+        },
+        {
+          "id": "c0",
+          "text": "wrong"
         }
       ],
       "orderIds": [

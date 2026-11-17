@@ -23,32 +23,32 @@
       "promptEn": "1 나는 시각 장애인이야. 나는 지팡이를 이용해서 걸어.",
       "orderChunks": [
         {
+          "id": "c5",
+          "text": "I"
+        },
+        {
           "id": "c1",
           "text": "stick"
         },
         {
-          "id": "c2",
-          "text": "a"
-        },
-        {
-          "id": "c3",
-          "text": "with"
-        },
-        {
-          "id": "c4",
-          "text": "walk"
-        },
-        {
-          "id": "c5",
-          "text": "I"
+          "id": "c7",
+          "text": "I'm"
         },
         {
           "id": "c6",
           "text": "blind"
         },
         {
-          "id": "c7",
-          "text": "I'm"
+          "id": "c4",
+          "text": "walk"
+        },
+        {
+          "id": "c3",
+          "text": "with"
+        },
+        {
+          "id": "c2",
+          "text": "a"
         }
       ],
       "orderIds": [
@@ -78,8 +78,12 @@
       "promptEn": "2 어느 날, 나의 담임 선생님이 말씀하셨어. ‘우정 마라톤’이라는 학교 행사가 있을 거야.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Marathon"
+          "id": "c10",
+          "text": "teacher"
+        },
+        {
+          "id": "c7",
+          "text": "will"
         },
         {
           "id": "c2",
@@ -90,48 +94,44 @@
           "text": "event"
         },
         {
-          "id": "c4",
-          "text": "school"
-        },
-        {
-          "id": "c5",
-          "text": "a"
-        },
-        {
-          "id": "c6",
-          "text": "be"
-        },
-        {
-          "id": "c7",
-          "text": "will"
-        },
-        {
-          "id": "c8",
-          "text": "There"
-        },
-        {
-          "id": "c9",
-          "text": "said"
-        },
-        {
-          "id": "c10",
-          "text": "teacher"
-        },
-        {
-          "id": "c11",
-          "text": "homeroom"
-        },
-        {
-          "id": "c12",
-          "text": "my"
+          "id": "c14",
+          "text": "One"
         },
         {
           "id": "c13",
           "text": "day"
         },
         {
-          "id": "c14",
-          "text": "One"
+          "id": "c4",
+          "text": "school"
+        },
+        {
+          "id": "c9",
+          "text": "said"
+        },
+        {
+          "id": "c12",
+          "text": "my"
+        },
+        {
+          "id": "c11",
+          "text": "homeroom"
+        },
+        {
+          "id": "c8",
+          "text": "There"
+        },
+        {
+          "id": "c1",
+          "text": "Marathon"
+        },
+        {
+          "id": "c6",
+          "text": "be"
+        },
+        {
+          "id": "c5",
+          "text": "a"
         }
       ],
       "orderIds": [
@@ -168,28 +168,8 @@
       "promptEn": "3 이 행사에서는 두 사람이 한 팀으로 달려.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "team"
-        },
-        {
-          "id": "c2",
-          "text": "a"
-        },
-        {
           "id": "c3",
           "text": "as"
-        },
-        {
-          "id": "c4",
-          "text": "run"
-        },
-        {
-          "id": "c5",
-          "text": "people"
-        },
-        {
-          "id": "c6",
-          "text": "two"
         },
         {
           "id": "c7",
@@ -200,8 +180,28 @@
           "text": "this"
         },
         {
+          "id": "c4",
+          "text": "run"
+        },
+        {
+          "id": "c6",
+          "text": "two"
+        },
+        {
           "id": "c9",
           "text": "In"
+        },
+        {
+          "id": "c1",
+          "text": "team"
+        },
+        {
+          "id": "c2",
+          "text": "a"
+        },
+        {
+          "id": "c5",
+          "text": "people"
         }
       ],
       "orderIds": [
@@ -233,36 +233,36 @@
       "promptEn": "4 모든 사람들이 그것에 대해 이야기했어. 나도 관심이 생겼어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "interested"
-        },
-        {
-          "id": "c2",
-          "text": "got"
-        },
-        {
-          "id": "c3",
-          "text": "also"
-        },
-        {
-          "id": "c4",
-          "text": "I"
-        },
-        {
           "id": "c5",
           "text": "it"
-        },
-        {
-          "id": "c6",
-          "text": "about"
         },
         {
           "id": "c7",
           "text": "talked"
         },
         {
+          "id": "c3",
+          "text": "also"
+        },
+        {
+          "id": "c2",
+          "text": "got"
+        },
+        {
+          "id": "c1",
+          "text": "interested"
+        },
+        {
           "id": "c8",
           "text": "Everyone"
+        },
+        {
+          "id": "c6",
+          "text": "about"
+        },
+        {
+          "id": "c4",
+          "text": "I"
         }
       ],
       "orderIds": [
@@ -293,76 +293,76 @@
       "promptEn": "5 하지만 내가 달릴 수 있을까? 나는 확신할 수 없었어. 그래서 나는 가장 친한 친구 준하와 그것에 대해 이야기했어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "Junha"
-        },
-        {
-          "id": "c2",
-          "text": "friend"
-        },
-        {
-          "id": "c3",
-          "text": "best"
-        },
-        {
-          "id": "c4",
-          "text": "my"
-        },
-        {
-          "id": "c5",
-          "text": "with"
-        },
-        {
-          "id": "c6",
-          "text": "it"
-        },
-        {
-          "id": "c7",
-          "text": "about"
-        },
-        {
-          "id": "c8",
-          "text": "talked"
+          "id": "c14",
+          "text": "I"
         },
         {
           "id": "c9",
           "text": "I"
         },
         {
+          "id": "c4",
+          "text": "my"
+        },
+        {
+          "id": "c2",
+          "text": "friend"
+        },
+        {
           "id": "c10",
           "text": "So"
-        },
-        {
-          "id": "c11",
-          "text": "sure"
-        },
-        {
-          "id": "c12",
-          "text": "not"
-        },
-        {
-          "id": "c13",
-          "text": "was"
-        },
-        {
-          "id": "c14",
-          "text": "I"
-        },
-        {
-          "id": "c15",
-          "text": "run"
         },
         {
           "id": "c16",
           "text": "I"
         },
         {
+          "id": "c18",
+          "text": "But"
+        },
+        {
+          "id": "c7",
+          "text": "about"
+        },
+        {
+          "id": "c11",
+          "text": "sure"
+        },
+        {
+          "id": "c13",
+          "text": "was"
+        },
+        {
           "id": "c17",
           "text": "can"
         },
         {
-          "id": "c18",
-          "text": "But"
+          "id": "c15",
+          "text": "run"
+        },
+        {
+          "id": "c1",
+          "text": "Junha"
+        },
+        {
+          "id": "c6",
+          "text": "it"
+        },
+        {
+          "id": "c8",
+          "text": "talked"
+        },
+        {
+          "id": "c3",
+          "text": "best"
+        },
+        {
+          "id": "c5",
+          "text": "with"
+        },
+        {
+          "id": "c12",
+          "text": "not"
         }
       ],
       "orderIds": [
@@ -403,36 +403,36 @@
       "promptEn": "6 그가 말했어. “걱정하지 마! 내가 너와 함께 달릴게.”",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "you"
+          "id": "c5",
+          "text": "worry"
         },
         {
-          "id": "c2",
-          "text": "with"
-        },
-        {
-          "id": "c3",
-          "text": "run"
+          "id": "c8",
+          "text": "He"
         },
         {
           "id": "c4",
           "text": "I'll"
         },
         {
-          "id": "c5",
-          "text": "worry"
+          "id": "c3",
+          "text": "run"
         },
         {
           "id": "c6",
           "text": "Don't"
         },
         {
+          "id": "c1",
+          "text": "you"
+        },
+        {
           "id": "c7",
           "text": "said"
         },
         {
-          "id": "c8",
-          "text": "He"
+          "id": "c2",
+          "text": "with"
         }
       ],
       "orderIds": [
@@ -463,76 +463,76 @@
       "promptEn": "7 마라톤 당일에, 우리는 서로의 움직임을 느끼기 위해 손가락에 끈을 묶었어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "movement"
+          "id": "c10",
+          "text": "a"
         },
         {
-          "id": "c2",
-          "text": "other's"
-        },
-        {
-          "id": "c3",
-          "text": "each"
-        },
-        {
-          "id": "c4",
-          "text": "feel"
-        },
-        {
-          "id": "c5",
-          "text": "to"
-        },
-        {
-          "id": "c6",
-          "text": "fingers"
-        },
-        {
-          "id": "c7",
-          "text": "our"
+          "id": "c18",
+          "text": "On"
         },
         {
           "id": "c8",
           "text": "around"
         },
         {
-          "id": "c9",
-          "text": "string"
-        },
-        {
-          "id": "c10",
-          "text": "a"
-        },
-        {
-          "id": "c11",
-          "text": "tied"
-        },
-        {
-          "id": "c12",
-          "text": "we"
-        },
-        {
-          "id": "c13",
-          "text": "marathon"
-        },
-        {
-          "id": "c14",
-          "text": "the"
+          "id": "c6",
+          "text": "fingers"
         },
         {
           "id": "c15",
           "text": "of"
         },
         {
+          "id": "c13",
+          "text": "marathon"
+        },
+        {
+          "id": "c11",
+          "text": "tied"
+        },
+        {
+          "id": "c5",
+          "text": "to"
+        },
+        {
+          "id": "c4",
+          "text": "feel"
+        },
+        {
+          "id": "c14",
+          "text": "the"
+        },
+        {
+          "id": "c1",
+          "text": "movement"
+        },
+        {
+          "id": "c7",
+          "text": "our"
+        },
+        {
+          "id": "c2",
+          "text": "other's"
+        },
+        {
           "id": "c16",
           "text": "day"
+        },
+        {
+          "id": "c9",
+          "text": "string"
         },
         {
           "id": "c17",
           "text": "the"
         },
         {
-          "id": "c18",
-          "text": "On"
+          "id": "c12",
+          "text": "we"
+        },
+        {
+          "id": "c3",
+          "text": "each"
         }
       ],
       "orderIds": [
@@ -573,44 +573,44 @@
       "promptEn": "8 나는 그의 말을 매우 주의 깊게 들으며 그와 함께 달렸어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "him"
-        },
-        {
           "id": "c2",
           "text": "with"
         },
         {
-          "id": "c3",
-          "text": "ran"
-        },
-        {
-          "id": "c4",
-          "text": "and"
-        },
-        {
-          "id": "c5",
-          "text": "carefully"
-        },
-        {
-          "id": "c6",
-          "text": "very"
-        },
-        {
-          "id": "c7",
+          "id": "c1",
           "text": "him"
-        },
-        {
-          "id": "c8",
-          "text": "to"
         },
         {
           "id": "c9",
           "text": "listened"
         },
         {
+          "id": "c7",
+          "text": "him"
+        },
+        {
+          "id": "c4",
+          "text": "and"
+        },
+        {
+          "id": "c8",
+          "text": "to"
+        },
+        {
+          "id": "c3",
+          "text": "ran"
+        },
+        {
           "id": "c10",
           "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "very"
+        },
+        {
+          "id": "c5",
+          "text": "carefully"
         }
       ],
       "orderIds": [
@@ -643,6 +643,26 @@
       "promptEn": "9 바람이 내게 불어오고 그 느낌이 정말 좋았어.",
       "orderChunks": [
         {
+          "id": "c6",
+          "text": "through"
+        },
+        {
+          "id": "c3",
+          "text": "it"
+        },
+        {
+          "id": "c5",
+          "text": "me"
+        },
+        {
+          "id": "c9",
+          "text": "wind"
+        },
+        {
+          "id": "c8",
+          "text": "was"
+        },
+        {
           "id": "c1",
           "text": "great"
         },
@@ -651,32 +671,12 @@
           "text": "felt"
         },
         {
-          "id": "c3",
-          "text": "it"
-        },
-        {
-          "id": "c4",
-          "text": "and"
-        },
-        {
-          "id": "c5",
-          "text": "me"
-        },
-        {
-          "id": "c6",
-          "text": "through"
-        },
-        {
           "id": "c7",
           "text": "blowing"
         },
         {
-          "id": "c8",
-          "text": "was"
-        },
-        {
-          "id": "c9",
-          "text": "wind"
+          "id": "c4",
+          "text": "and"
         },
         {
           "id": "c10",
@@ -713,56 +713,56 @@
       "promptEn": "10 결승선에서 모든 사람들이 우리를 응원했어. 나는 나 자신이 자랑스러웠어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "myself"
-        },
-        {
           "id": "c2",
           "text": "of"
-        },
-        {
-          "id": "c3",
-          "text": "proud"
-        },
-        {
-          "id": "c4",
-          "text": "was"
-        },
-        {
-          "id": "c5",
-          "text": "I"
-        },
-        {
-          "id": "c6",
-          "text": "us"
-        },
-        {
-          "id": "c7",
-          "text": "for"
-        },
-        {
-          "id": "c8",
-          "text": "cheered"
-        },
-        {
-          "id": "c9",
-          "text": "everyone"
         },
         {
           "id": "c10",
           "text": "line"
         },
         {
-          "id": "c11",
-          "text": "finish"
+          "id": "c13",
+          "text": "At"
         },
         {
           "id": "c12",
           "text": "the"
         },
         {
-          "id": "c13",
-          "text": "At"
+          "id": "c1",
+          "text": "myself"
+        },
+        {
+          "id": "c5",
+          "text": "I"
+        },
+        {
+          "id": "c8",
+          "text": "cheered"
+        },
+        {
+          "id": "c11",
+          "text": "finish"
+        },
+        {
+          "id": "c3",
+          "text": "proud"
+        },
+        {
+          "id": "c7",
+          "text": "for"
+        },
+        {
+          "id": "c6",
+          "text": "us"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
+          "id": "c9",
+          "text": "everyone"
         }
       ],
       "orderIds": [
@@ -798,8 +798,16 @@
       "promptEn": "11 마라톤 전에는 나는 그것을 할 수 없을 거라고 생각했어.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "it"
+          "id": "c6",
+          "text": "thought"
+        },
+        {
+          "id": "c8",
+          "text": "marathon"
+        },
+        {
+          "id": "c7",
+          "text": "I"
         },
         {
           "id": "c2",
@@ -810,32 +818,24 @@
           "text": "couldn't"
         },
         {
-          "id": "c4",
-          "text": "I"
-        },
-        {
           "id": "c5",
           "text": "that"
         },
         {
-          "id": "c6",
-          "text": "thought"
-        },
-        {
-          "id": "c7",
+          "id": "c4",
           "text": "I"
         },
         {
-          "id": "c8",
-          "text": "marathon"
-        },
-        {
-          "id": "c9",
-          "text": "the"
+          "id": "c1",
+          "text": "it"
         },
         {
           "id": "c10",
           "text": "Before"
+        },
+        {
+          "id": "c9",
+          "text": "the"
         }
       ],
       "orderIds": [
@@ -868,8 +868,52 @@
       "promptEn": "12 하지만 지금 나는 다른 것들을 시도하고 싶다. 다음에는 자전거 타기를 해볼 수 있다고 생각한다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "time"
+          "id": "c13",
+          "text": "other"
+        },
+        {
+          "id": "c4",
+          "text": "bike"
+        },
+        {
+          "id": "c6",
+          "text": "try"
+        },
+        {
+          "id": "c14",
+          "text": "try"
+        },
+        {
+          "id": "c16",
+          "text": "want"
+        },
+        {
+          "id": "c5",
+          "text": "a"
+        },
+        {
+          "id": "c7",
+          "text": "can"
+        },
+        {
+          "id": "c17",
+          "text": "I"
+        },
+        {
+          "id": "c15",
+          "text": "to"
+        },
+        {
+          "id": "c18",
+          "text": "now"
+        },
+        {
+          "id": "c8",
+          "text": "I"
+        },
+        {
+          "id": "c11",
+          "text": "I"
         },
         {
           "id": "c2",
@@ -880,64 +924,20 @@
           "text": "ride"
         },
         {
-          "id": "c4",
-          "text": "bike"
-        },
-        {
-          "id": "c5",
-          "text": "a"
-        },
-        {
-          "id": "c6",
-          "text": "try"
-        },
-        {
-          "id": "c7",
-          "text": "can"
-        },
-        {
-          "id": "c8",
-          "text": "I"
-        },
-        {
-          "id": "c9",
-          "text": "that"
-        },
-        {
-          "id": "c10",
-          "text": "think"
-        },
-        {
-          "id": "c11",
-          "text": "I"
+          "id": "c1",
+          "text": "time"
         },
         {
           "id": "c12",
           "text": "things"
         },
         {
-          "id": "c13",
-          "text": "other"
+          "id": "c10",
+          "text": "think"
         },
         {
-          "id": "c14",
-          "text": "try"
-        },
-        {
-          "id": "c15",
-          "text": "to"
-        },
-        {
-          "id": "c16",
-          "text": "want"
-        },
-        {
-          "id": "c17",
-          "text": "I"
-        },
-        {
-          "id": "c18",
-          "text": "now"
+          "id": "c9",
+          "text": "that"
         },
         {
           "id": "c19",
@@ -983,52 +983,52 @@
       "promptEn": "13 Andy와 나는 우정 마라톤에 등록했다. 나는 그의 가이드 러너였다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "runner"
-        },
-        {
-          "id": "c2",
-          "text": "guide"
-        },
-        {
-          "id": "c3",
-          "text": "his"
-        },
-        {
-          "id": "c4",
-          "text": "was"
+          "id": "c8",
+          "text": "for"
         },
         {
           "id": "c5",
           "text": "I"
         },
         {
-          "id": "c6",
-          "text": "Marathon"
-        },
-        {
-          "id": "c7",
-          "text": "Friendship"
-        },
-        {
-          "id": "c8",
-          "text": "for"
-        },
-        {
-          "id": "c9",
-          "text": "up"
-        },
-        {
-          "id": "c10",
-          "text": "signed"
+          "id": "c2",
+          "text": "guide"
         },
         {
           "id": "c11",
           "text": "I"
         },
         {
+          "id": "c7",
+          "text": "Friendship"
+        },
+        {
+          "id": "c3",
+          "text": "his"
+        },
+        {
+          "id": "c9",
+          "text": "up"
+        },
+        {
+          "id": "c4",
+          "text": "was"
+        },
+        {
           "id": "c12",
           "text": "and"
+        },
+        {
+          "id": "c6",
+          "text": "Marathon"
+        },
+        {
+          "id": "c10",
+          "text": "signed"
+        },
+        {
+          "id": "c1",
+          "text": "runner"
         },
         {
           "id": "c13",
@@ -1068,6 +1068,18 @@
       "promptEn": "14 우리는 끈을 가지고 매일 함께 달렸다.",
       "orderChunks": [
         {
+          "id": "c7",
+          "text": "ran"
+        },
+        {
+          "id": "c5",
+          "text": "every"
+        },
+        {
+          "id": "c4",
+          "text": "day"
+        },
+        {
           "id": "c1",
           "text": "string"
         },
@@ -1080,20 +1092,8 @@
           "text": "with"
         },
         {
-          "id": "c4",
-          "text": "day"
-        },
-        {
-          "id": "c5",
-          "text": "every"
-        },
-        {
           "id": "c6",
           "text": "together"
-        },
-        {
-          "id": "c7",
-          "text": "ran"
         },
         {
           "id": "c8",
@@ -1128,12 +1128,32 @@
       "promptEn": "15 나는 그에게 말했다. “Andy, 자전거가 오고 있어. 그러니 오른쪽으로 움직이자.”",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "right"
+          "id": "c13",
+          "text": "told"
+        },
+        {
+          "id": "c14",
+          "text": "I"
         },
         {
           "id": "c2",
           "text": "the"
+        },
+        {
+          "id": "c12",
+          "text": "him"
+        },
+        {
+          "id": "c9",
+          "text": "bike"
+        },
+        {
+          "id": "c1",
+          "text": "right"
+        },
+        {
+          "id": "c7",
+          "text": "coming"
         },
         {
           "id": "c3",
@@ -1144,6 +1164,10 @@
           "text": "move"
         },
         {
+          "id": "c11",
+          "text": "Andy"
+        },
+        {
           "id": "c5",
           "text": "let's"
         },
@@ -1152,36 +1176,12 @@
           "text": "So"
         },
         {
-          "id": "c7",
-          "text": "coming"
-        },
-        {
           "id": "c8",
           "text": "is"
         },
         {
-          "id": "c9",
-          "text": "bike"
-        },
-        {
           "id": "c10",
           "text": "a"
-        },
-        {
-          "id": "c11",
-          "text": "Andy"
-        },
-        {
-          "id": "c12",
-          "text": "him"
-        },
-        {
-          "id": "c13",
-          "text": "told"
-        },
-        {
-          "id": "c14",
-          "text": "I"
         }
       ],
       "orderIds": [
@@ -1218,44 +1218,44 @@
       "promptEn": "16 팀으로서 우리는 마라톤에서 우승하기 위해 열심히 연습했다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "marathon"
-        },
-        {
-          "id": "c2",
-          "text": "the"
+          "id": "c6",
+          "text": "practiced"
         },
         {
           "id": "c3",
           "text": "win"
         },
         {
-          "id": "c4",
-          "text": "to"
+          "id": "c9",
+          "text": "a"
         },
         {
           "id": "c5",
           "text": "hard"
         },
         {
-          "id": "c6",
-          "text": "practiced"
+          "id": "c1",
+          "text": "marathon"
         },
         {
-          "id": "c7",
-          "text": "we"
+          "id": "c4",
+          "text": "to"
+        },
+        {
+          "id": "c2",
+          "text": "the"
+        },
+        {
+          "id": "c10",
+          "text": "As"
         },
         {
           "id": "c8",
           "text": "team"
         },
         {
-          "id": "c9",
-          "text": "a"
-        },
-        {
-          "id": "c10",
-          "text": "As"
+          "id": "c7",
+          "text": "we"
         }
       ],
       "orderIds": [
@@ -1288,60 +1288,60 @@
       "promptEn": "17 마라톤 동안 나는 Andy와 달리며 동시에 그를 안내했다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "time"
-        },
-        {
           "id": "c2",
           "text": "same"
-        },
-        {
-          "id": "c3",
-          "text": "the"
         },
         {
           "id": "c4",
           "text": "at"
         },
         {
-          "id": "c5",
-          "text": "him"
-        },
-        {
-          "id": "c6",
-          "text": "guided"
-        },
-        {
-          "id": "c7",
-          "text": "and"
-        },
-        {
-          "id": "c8",
-          "text": "Andy"
-        },
-        {
           "id": "c9",
           "text": "with"
-        },
-        {
-          "id": "c10",
-          "text": "ran"
-        },
-        {
-          "id": "c11",
-          "text": "I"
-        },
-        {
-          "id": "c12",
-          "text": "marathon"
         },
         {
           "id": "c13",
           "text": "the"
         },
         {
+          "id": "c6",
+          "text": "guided"
+        },
+        {
+          "id": "c12",
+          "text": "marathon"
+        },
+        {
+          "id": "c11",
+          "text": "I"
+        },
+        {
+          "id": "c10",
+          "text": "ran"
+        },
+        {
+          "id": "c8",
+          "text": "Andy"
+        },
+        {
+          "id": "c3",
+          "text": "the"
+        },
+        {
+          "id": "c7",
+          "text": "and"
+        },
+        {
           "id": "c14",
           "text": "During"
+        },
+        {
+          "id": "c1",
+          "text": "time"
+        },
+        {
+          "id": "c5",
+          "text": "him"
         }
       ],
       "orderIds": [
@@ -1378,22 +1378,6 @@
       "promptEn": "18 힘들었지만 우리는 달리기를 멈추지 않았다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "running"
-        },
-        {
-          "id": "c2",
-          "text": "stop"
-        },
-        {
-          "id": "c3",
-          "text": "didn't"
-        },
-        {
-          "id": "c4",
-          "text": "we"
-        },
-        {
           "id": "c5",
           "text": "but"
         },
@@ -1402,8 +1386,24 @@
           "text": "hard"
         },
         {
+          "id": "c2",
+          "text": "stop"
+        },
+        {
+          "id": "c4",
+          "text": "we"
+        },
+        {
           "id": "c7",
           "text": "was"
+        },
+        {
+          "id": "c3",
+          "text": "didn't"
+        },
+        {
+          "id": "c1",
+          "text": "running"
         },
         {
           "id": "c8",
@@ -1438,12 +1438,16 @@
       "promptEn": "19 마침내 우리는 결승선에 도착했다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "line"
-        },
-        {
           "id": "c2",
           "text": "finish"
+        },
+        {
+          "id": "c6",
+          "text": "made"
+        },
+        {
+          "id": "c5",
+          "text": "it"
         },
         {
           "id": "c3",
@@ -1454,24 +1458,20 @@
           "text": "to"
         },
         {
-          "id": "c5",
-          "text": "it"
-        },
-        {
-          "id": "c6",
-          "text": "made"
+          "id": "c1",
+          "text": "line"
         },
         {
           "id": "c7",
           "text": "we"
         },
         {
-          "id": "c8",
-          "text": "last"
-        },
-        {
           "id": "c9",
           "text": "At"
+        },
+        {
+          "id": "c8",
+          "text": "last"
         }
       ],
       "orderIds": [
@@ -1503,8 +1503,16 @@
       "promptEn": "20 우리는 경주에서 이기지 못했다. 하지만 최선을 다했다는 것을 알았다.",
       "orderChunks": [
         {
+          "id": "c4",
+          "text": "we"
+        },
+        {
           "id": "c1",
           "text": "best"
+        },
+        {
+          "id": "c10",
+          "text": "the"
         },
         {
           "id": "c2",
@@ -1515,12 +1523,28 @@
           "text": "did"
         },
         {
-          "id": "c4",
-          "text": "we"
+          "id": "c8",
+          "text": "But"
         },
         {
           "id": "c5",
           "text": "that"
+        },
+        {
+          "id": "c11",
+          "text": "win"
+        },
+        {
+          "id": "c13",
+          "text": "We"
+        },
+        {
+          "id": "c12",
+          "text": "didn't"
+        },
+        {
+          "id": "c9",
+          "text": "race"
         },
         {
           "id": "c6",
@@ -1529,30 +1553,6 @@
         {
           "id": "c7",
           "text": "I"
-        },
-        {
-          "id": "c8",
-          "text": "But"
-        },
-        {
-          "id": "c9",
-          "text": "race"
-        },
-        {
-          "id": "c10",
-          "text": "the"
-        },
-        {
-          "id": "c11",
-          "text": "win"
-        },
-        {
-          "id": "c12",
-          "text": "didn't"
-        },
-        {
-          "id": "c13",
-          "text": "We"
         }
       ],
       "orderIds": [
@@ -1588,12 +1588,32 @@
       "promptEn": "21 무언가를 끝내는 것은 나에게 쉽지 않았다. 하지만 이번에는 해냈다.",
       "orderChunks": [
         {
+          "id": "c8",
+          "text": "for"
+        },
+        {
+          "id": "c9",
+          "text": "easy"
+        },
+        {
+          "id": "c13",
+          "text": "Finishing"
+        },
+        {
+          "id": "c6",
+          "text": "But"
+        },
+        {
+          "id": "c5",
+          "text": "this"
+        },
+        {
           "id": "c1",
           "text": "it"
         },
         {
-          "id": "c2",
-          "text": "did"
+          "id": "c7",
+          "text": "me"
         },
         {
           "id": "c3",
@@ -1604,40 +1624,20 @@
           "text": "time"
         },
         {
-          "id": "c5",
-          "text": "this"
-        },
-        {
-          "id": "c6",
-          "text": "But"
-        },
-        {
-          "id": "c7",
-          "text": "me"
-        },
-        {
-          "id": "c8",
-          "text": "for"
-        },
-        {
-          "id": "c9",
-          "text": "easy"
+          "id": "c12",
+          "text": "something"
         },
         {
           "id": "c10",
           "text": "not"
         },
         {
+          "id": "c2",
+          "text": "did"
+        },
+        {
           "id": "c11",
           "text": "was"
-        },
-        {
-          "id": "c12",
-          "text": "something"
-        },
-        {
-          "id": "c13",
-          "text": "Finishing"
         }
       ],
       "orderIds": [
@@ -1673,6 +1673,14 @@
       "promptEn": "22 나는 매우 기뻤다. Andy도 기뻐 보였다.",
       "orderChunks": [
         {
+          "id": "c8",
+          "text": "I"
+        },
+        {
+          "id": "c5",
+          "text": "happy"
+        },
+        {
           "id": "c1",
           "text": "too"
         },
@@ -1681,28 +1689,20 @@
           "text": "happy"
         },
         {
-          "id": "c3",
-          "text": "looked"
+          "id": "c6",
+          "text": "very"
         },
         {
           "id": "c4",
           "text": "Andy"
         },
         {
-          "id": "c5",
-          "text": "happy"
-        },
-        {
-          "id": "c6",
-          "text": "very"
+          "id": "c3",
+          "text": "looked"
         },
         {
           "id": "c7",
           "text": "was"
-        },
-        {
-          "id": "c8",
-          "text": "I"
         }
       ],
       "orderIds": [

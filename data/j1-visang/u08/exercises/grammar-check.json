@@ -123,32 +123,32 @@
       "promptEn": "나는 그 소식을 듣고 놀랐다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "surprised"
-        },
-        {
-          "id": "c2",
-          "text": "to"
+          "id": "c7",
+          "text": "was"
         },
         {
           "id": "c3",
           "text": "hear"
         },
         {
-          "id": "c4",
-          "text": "I"
+          "id": "c2",
+          "text": "to"
         },
         {
           "id": "c5",
           "text": "the"
         },
         {
-          "id": "c6",
-          "text": "news"
+          "id": "c1",
+          "text": "surprised"
         },
         {
-          "id": "c7",
-          "text": "was"
+          "id": "c4",
+          "text": "I"
+        },
+        {
+          "id": "c6",
+          "text": "news"
         }
       ],
       "orderIds": [
@@ -347,32 +347,32 @@
           "text": "the"
         },
         {
+          "id": "c4",
+          "text": "to"
+        },
+        {
           "id": "c2",
           "text": "compass"
+        },
+        {
+          "id": "c8",
+          "text": "use"
         },
         {
           "id": "c3",
           "text": "find"
         },
         {
-          "id": "c4",
-          "text": "to"
+          "id": "c6",
+          "text": "the"
         },
         {
           "id": "c5",
           "text": "they"
         },
         {
-          "id": "c6",
-          "text": "the"
-        },
-        {
           "id": "c7",
           "text": "way"
-        },
-        {
-          "id": "c8",
-          "text": "use"
         }
       ],
       "orderIds": [
@@ -788,36 +788,36 @@
       "promptEn": "(a / bought / that / heard / house / they / new / we)",
       "orderChunks": [
         {
+          "id": "c7",
+          "text": "new"
+        },
+        {
           "id": "c1",
           "text": "a"
+        },
+        {
+          "id": "c8",
+          "text": "we"
         },
         {
           "id": "c2",
           "text": "bought"
         },
         {
-          "id": "c3",
-          "text": "that"
+          "id": "c5",
+          "text": "house"
         },
         {
           "id": "c4",
           "text": "heard"
         },
         {
-          "id": "c5",
-          "text": "house"
-        },
-        {
           "id": "c6",
           "text": "they"
         },
         {
-          "id": "c7",
-          "text": "new"
-        },
-        {
-          "id": "c8",
-          "text": "we"
+          "id": "c3",
+          "text": "that"
         }
       ],
       "orderIds": [

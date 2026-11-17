@@ -918,11 +918,23 @@
       "promptEn": "14 Put the words in order.\n다음 날, 저는 공원에 갈 준비를 했습니다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "go"
+          "id": "c5",
+          "text": "got"
         },
         {
           "id": "c2",
+          "text": "to"
+        },
+        {
+          "id": "c7",
+          "text": "I"
+        },
+        {
+          "id": "c4",
+          "text": "the"
+        },
+        {
+          "id": "c8",
           "text": "to"
         },
         {
@@ -930,28 +942,8 @@
           "text": "park."
         },
         {
-          "id": "c4",
-          "text": "the"
-        },
-        {
-          "id": "c5",
-          "text": "got"
-        },
-        {
           "id": "c6",
           "text": "next"
-        },
-        {
-          "id": "c7",
-          "text": "I"
-        },
-        {
-          "id": "c8",
-          "text": "to"
-        },
-        {
-          "id": "c9",
-          "text": "ready"
         },
         {
           "id": "c10",
@@ -960,6 +952,14 @@
         {
           "id": "c11",
           "text": "The"
+        },
+        {
+          "id": "c1",
+          "text": "go"
+        },
+        {
+          "id": "c9",
+          "text": "ready"
         }
       ],
       "orderIds": [

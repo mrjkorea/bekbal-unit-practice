@@ -572,24 +572,24 @@
           "text": "day"
         },
         {
-          "id": "c2",
-          "text": "it"
+          "id": "c5",
+          "text": "a"
         },
         {
-          "id": "c3",
-          "text": "what"
+          "id": "c2",
+          "text": "it"
         },
         {
           "id": "c4",
           "text": "is"
         },
         {
-          "id": "c5",
-          "text": "a"
-        },
-        {
           "id": "c6",
           "text": "beautiful"
+        },
+        {
+          "id": "c3",
+          "text": "what"
         }
       ],
       "orderIds": [
@@ -708,20 +708,20 @@
       "promptEn": "보기: fast / how / runs / she",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "fast"
+          "id": "c4",
+          "text": "she"
         },
         {
-          "id": "c2",
-          "text": "how"
+          "id": "c1",
+          "text": "fast"
         },
         {
           "id": "c3",
           "text": "runs"
         },
         {
-          "id": "c4",
-          "text": "she"
+          "id": "c2",
+          "text": "how"
         }
       ],
       "orderIds": [
@@ -748,28 +748,28 @@
       "promptEn": "보기: book / what / this / a / is / touching",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "book"
-        },
-        {
-          "id": "c2",
-          "text": "what"
-        },
-        {
-          "id": "c3",
-          "text": "this"
-        },
-        {
-          "id": "c4",
-          "text": "a"
+          "id": "c6",
+          "text": "touching"
         },
         {
           "id": "c5",
           "text": "is"
         },
         {
-          "id": "c6",
-          "text": "touching"
+          "id": "c2",
+          "text": "what"
+        },
+        {
+          "id": "c4",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "this"
+        },
+        {
+          "id": "c1",
+          "text": "book"
         }
       ],
       "orderIds": [

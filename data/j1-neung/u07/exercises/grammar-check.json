@@ -58,16 +58,16 @@
    "promptEn": "02 그 농담은 나를 행복하게 한다. (The joke …)",
    "orderChunks": [
     {
-     "id": "c1",
-     "text": "me"
-    },
-    {
      "id": "c2",
      "text": "makes"
     },
     {
      "id": "c3",
      "text": "happy"
+    },
+    {
+     "id": "c1",
+     "text": "me"
     }
    ],
    "orderIds": [
@@ -398,12 +398,12 @@
    "promptEn": "01 그녀는 피곤하다고 말했다. (She …)",
    "orderChunks": [
     {
-     "id": "c1",
-     "text": "she"
-    },
-    {
      "id": "c2",
      "text": "was"
+    },
+    {
+     "id": "c5",
+     "text": "that"
     },
     {
      "id": "c3",
@@ -414,8 +414,8 @@
      "text": "tired"
     },
     {
-     "id": "c5",
-     "text": "that"
+     "id": "c1",
+     "text": "she"
     }
    ],
    "orderIds": [

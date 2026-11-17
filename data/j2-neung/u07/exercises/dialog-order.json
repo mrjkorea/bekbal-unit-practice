@@ -74,24 +74,24 @@
       "seconds": 75,
       "orderChunks": [
         {
-          "id": "s1",
-          "text": "Yes, there are. Which do you prefer?"
-        },
-        {
           "id": "s2",
           "text": "I like that one, too. I'll get it then. Thank you!"
+        },
+        {
+          "id": "s5",
+          "text": "Hmm... I'm not sure. Can you recommend one?"
         },
         {
           "id": "s3",
           "text": "I need a smartphone case. But there are so many cases here!"
         },
         {
-          "id": "s4",
-          "text": "Sure! I think the one with the cloud pattern would look great on your phone."
+          "id": "s1",
+          "text": "Yes, there are. Which do you prefer?"
         },
         {
-          "id": "s5",
-          "text": "Hmm... I'm not sure. Can you recommend one?"
+          "id": "s4",
+          "text": "Sure! I think the one with the cloud pattern would look great on your phone."
         }
       ],
       "orderIds": [

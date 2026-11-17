@@ -50,6 +50,10 @@
       "promptEn": "Tap the lines in the order of the dialog.\n\n1. No, I haven't. What are they?\n2. Look at this chair! It looks comfortable.\n3. They are chairs with special sensors. They can check your health while you are sitting.\n4. I'm surprised that a chair can do so many things.\n5. It's a smart chair. Have you heard about smart chairs?",
       "orderChunks": [
         {
+          "id": "s4",
+          "text": "I'm surprised that a chair can do so many things."
+        },
+        {
           "id": "s1",
           "text": "No, I haven't. What are they?"
         },
@@ -58,16 +62,12 @@
           "text": "Look at this chair! It looks comfortable."
         },
         {
-          "id": "s3",
-          "text": "They are chairs with special sensors. They can check your health while you are sitting."
-        },
-        {
-          "id": "s4",
-          "text": "I'm surprised that a chair can do so many things."
-        },
-        {
           "id": "s5",
           "text": "It's a smart chair. Have you heard about smart chairs?"
+        },
+        {
+          "id": "s3",
+          "text": "They are chairs with special sensors. They can check your health while you are sitting."
         }
       ],
       "orderIds": [

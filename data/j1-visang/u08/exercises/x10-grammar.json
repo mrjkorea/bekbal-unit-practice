@@ -903,32 +903,32 @@
       "promptEn": "나는 그것이 곰이라고 생각한다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "a"
-        },
-        {
-          "id": "c2",
-          "text": "bear"
-        },
-        {
-          "id": "c3",
-          "text": "I"
-        },
-        {
           "id": "c4",
           "text": "is"
+        },
+        {
+          "id": "c7",
+          "text": "think"
         },
         {
           "id": "c5",
           "text": "it"
         },
         {
+          "id": "c2",
+          "text": "bear"
+        },
+        {
           "id": "c6",
           "text": "that"
         },
         {
-          "id": "c7",
-          "text": "think"
+          "id": "c1",
+          "text": "a"
+        },
+        {
+          "id": "c3",
+          "text": "I"
         }
       ],
       "orderIds": [
@@ -1128,24 +1128,8 @@
       "promptEn": "나의 소망은 우리가 이 문제를 해결할 수 있다는 것이다.",
       "orderChunks": [
         {
-          "id": "c1",
-          "text": "can"
-        },
-        {
-          "id": "c2",
-          "text": "hope"
-        },
-        {
           "id": "c3",
           "text": "my"
-        },
-        {
-          "id": "c4",
-          "text": "is"
-        },
-        {
-          "id": "c5",
-          "text": "solve"
         },
         {
           "id": "c6",
@@ -1156,12 +1140,28 @@
           "text": "this"
         },
         {
-          "id": "c8",
-          "text": "problem"
-        },
-        {
           "id": "c9",
           "text": "we"
+        },
+        {
+          "id": "c2",
+          "text": "hope"
+        },
+        {
+          "id": "c4",
+          "text": "is"
+        },
+        {
+          "id": "c5",
+          "text": "solve"
+        },
+        {
+          "id": "c1",
+          "text": "can"
+        },
+        {
+          "id": "c8",
+          "text": "problem"
         }
       ],
       "orderIds": [
