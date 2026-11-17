@@ -93,7 +93,20 @@
       var ids = response.order || [];
       var want = item.orderIds || [];
       if (!want.length || ids.length !== want.length) return false;
-      for (var i = 0; i < want.length; i++) if (ids[i] !== want[i]) return false;
+      /* Jay 2026-11-17: a sentence with a repeated word ("I am a plastic duck
+         and I am a bath toy") shows two chips with the same word. The student
+         cannot tell the two "I" chips apart, so the order is judged by the
+         WORDS that ended up in the tray, not by which copy of the chip they
+         happened to press. Comparing chip ids marked a word-perfect answer
+         wrong. */
+      var orderText = {};
+      (item.orderChunks || []).forEach(function (c) {
+        orderText[c.id] = String(c.text == null ? "" : c.text).replace(/\s+/g, " ").trim();
+      });
+      for (var i = 0; i < want.length; i++) {
+        if (!ids[i] || orderText[ids[i]] == null) return false;
+        if (orderText[ids[i]] !== orderText[want[i]]) return false;
+      }
       return true;
     }
     if (item.type === "ox") {
