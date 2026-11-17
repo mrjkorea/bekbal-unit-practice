@@ -1628,6 +1628,23 @@ const L08_CLOZE = [
   [3, "In this event, two people run as a team.", ["run", "as", "team"]],
   [4, "Everyone talked about it. I also got interested.", ["talked", "about", "got", "interested"]],
   [5, "\"But can I run?\" I was not sure. So I talked about it with my best friend, Junha.", ["can", "run", "was", "sure", "talked", "about", "best"]],
+  [6, "He said, \"Don't worry! I'll run with you.\"", ["said", "worry", "run", "with"]],
+  [7, "On the day of the marathon, we tied a string around our fingers to feel each other's movement.", ["On", "tied", "string", "around", "fingers", "feel", "movement"]],
+  [8, "I listened to him very carefully and ran with him.", ["listened", "very", "carefully", "ran"]],
+  [9, "The wind was blowing through me and it felt great!", ["wind", "was", "blowing", "through", "felt", "great"]],
+  [10, "At the finish line, everyone cheered for us. I was proud of myself.", ["finish", "cheered", "was", "proud"]],
+  [11, "Before the marathon, I thought that I couldn't do it.", ["Before", "thought", "couldn't", "do"]],
+  [12, "But now, I want to try other things. I think that I can try a bike ride next time.", ["now", "want", "try", "think", "can", "try", "ride", "next", "time"]],
+  [13, "Andy and I signed up for Friendship Marathon. I was his guide runner.", ["signed", "up", "for", "was", "guide", "runner"]],
+  [14, "We ran together every day with a string.", ["ran", "together", "every", "day", "string"]],
+  [15, "I told him, \"Andy, a bike is coming. So let's move to the right.\"", ["told", "is", "coming", "let's", "move", "right"]],
+  [16, "As a team, we practiced hard to win the marathon.", ["As", "a", "team", "practiced", "hard", "win"]],
+  [17, "During the marathon, I ran with Andy and guided him at the same time.", ["During", "ran", "guided", "at", "the", "same", "time"]],
+  [18, "It was hard, but we didn't stop running.", ["was", "hard", "didn't", "stop", "running"]],
+  [19, "At last, we made it to the finish line.", ["last", "made", "it", "finish", "line"]],
+  [20, "We didn't win the race. But I knew that we did our best.", ["didn't", "win", "race", "did", "our", "best"]],
+  [21, "Finishing something was not easy for me. But this time I did it!", ["Finishing", "was", "easy", "this", "time", "did"]],
+  [22, "I was very happy. Andy looked happy, too.", ["was", "very", "happy", "looked", "happy"]],
 ];
 
 build("u08", "x10-reading-sentence", "Reading 문장 완성하기", "X-10 pp.52-53", (ex) => {
@@ -1638,7 +1655,6 @@ build("u08", "x10-reading-sentence", "Reading 문장 완성하기", "X-10 pp.52-
 build("u08", "x10-reading-cloze", "Reading 빈칸 완성하기", "X-10 pp.54-55", (ex) => {
   ex.section("Section A · 한 칸", "이 칸에 들어갈 말만 쓰시오.", FILL.ruleKo, "words", FILL.answerModeTag);
   L08_CLOZE.forEach((row) => ex.splitWords(row[0], "빈칸 " + row[0], row[1], row[2], "X-10 Reading 빈칸"));
-  ex.omit("06-22", "빈칸 완성 06-22 단어열은 문장 완성하기와 겹치고 OCR 줄이 끊어 문장 완성 분할 문항으로 대신함");
 });
 
 build("u08", "x10-review", "핵심 문장 Review", "X-10 pp.56-57", (ex) => {
