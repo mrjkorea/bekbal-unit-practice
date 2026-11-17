@@ -137,3 +137,22 @@ body[data-page="unit"] main{max-width:960px}
 .ex.done .sc{background:#bbf7d0}
 .gq-card .chip.qt.ok{color:#fff}
 .ex .part{display:inline-block;margin-left:4px;padding:1px 7px;border-radius:999px;background:#fef3c7;border:1px solid #d97706;color:#7c2d12;font-size:11.5px;font-weight:900}
+
+/* ---- My scores on the front page (Jay 2026-11-17) ---- */
+.myscores{margin:28px 0 10px}
+.ms-h{font-size:1.15rem;margin:0 0 4px}
+.ms-who{font-size:.86rem;color:#4b5b51;margin:0 0 12px;font-weight:700}
+.ms-empty{font-size:.95rem;color:#33473b;background:#f6faf7;border:1.5px dashed #cfe0d4;border-radius:14px;padding:12px 14px;margin:0}
+.ms-empty .sub{font-size:.82rem;color:#5a6b60;font-weight:400}
+.ms-list{display:flex;flex-direction:column;gap:8px}
+.ms-row{display:grid;grid-template-columns:1fr auto auto;column-gap:12px;row-gap:1px;align-items:center;padding:10px 14px;border-radius:14px;background:#fff;border:1.5px solid #d7e3da;text-decoration:none;color:#142418}
+.ms-row:hover{border-color:#1f9a55;background:#f8fdf9}
+.ms-t{grid-column:1;grid-row:1;font-weight:800;font-size:.98rem}
+.ms-b{grid-column:1;grid-row:2;font-size:.8rem;color:#5a6b60}
+.ms-v{grid-column:2;grid-row:1 / span 2;font-weight:900;color:#157a42;white-space:nowrap;font-size:.98rem}
+.ms-d{grid-column:3;grid-row:1 / span 2;font-size:.78rem;color:#6b7a70;white-space:nowrap;text-align:right}
+@media(max-width:520px){.ms-d{display:none}}
+.ms-local{margin-top:12px;background:#fffbeb;border:1.5px solid #fcd34d;border-radius:14px;padding:12px 14px}
+.ms-local p{margin:0 0 6px;font-size:.92rem;color:#4a3a10;font-weight:700}
+.ms-local p.sub{font-size:.8rem;font-weight:400;color:#6b5a2a}
+.ms-local .btn{margin-top:4px;min-height:44px;font-size:.95rem}

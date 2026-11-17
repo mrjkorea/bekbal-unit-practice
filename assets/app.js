@@ -19,7 +19,162 @@ function el(tag, cls, text) {
 async function index() {
   const { books } = await getJSON("data/books.json");
   app.innerHTML = `<h1>교재 선택</h1><div class="grid">${books.map((b) => `<a class="card" href="book.html?b=${b.slug}"><h3>${esc(b.title)}</h3>${esc(b.grade)} · ${esc(b.publisher)} · ${esc(b.author)}</a>`).join("")}</div>
+  <div id="myscores" class="myscores"></div>
   <h2>Demo</h2><a class="card" href="play.html?demo=1"><span class="tag demo">DEMO</span> 플레이어 시험용 샘플 (교재 문제 아님)</a>`;
+  myScores(books);
+}
+
+/* Jay 2026-11-17: the front page must show the student's own grades, and the name at the
+   top right must open them, the same as every other program. Rows come from the shared
+   sign-in record only; a practice with no row shows nothing rather than an invented score. */
+let authWait = null;
+function authWhenReady() {
+  if (authWait) return authWait;
+  authWait = new Promise((resolve) => {
+    const auth = () => window.MRJ_AUTH || window.MRJSignin || null;
+    const named = () => {
+      const a = auth();
+      try { return a && a.student ? String(a.student() || "") : ""; } catch (e) { return ""; }
+    };
+    let done = false;
+    const finish = () => { if (!done) { done = true; resolve(auth()); } };
+    const check = () => { if (named()) finish(); };
+    document.addEventListener("mrj-auth-ready", check);
+    const t0 = Date.now();
+    const iv = setInterval(() => {
+      check();
+      if (done || Date.now() - t0 > 10000) { clearInterval(iv); finish(); }
+    }, 250);
+  });
+  return authWait;
+}
+
+const TITLE_CACHE = {};
+async function practiceTitles(bk, u) {
+  const key = bk + "/" + u;
+  if (TITLE_CACHE[key]) return TITLE_CACHE[key];
+  const map = {};
+  try {
+    const c = await getJSON(`data/${bk}/${u}/catalog.json`);
+    (c.sections || []).forEach((s) => (s.exercises || []).forEach((e) => { map[e.id] = e.title || e.id; }));
+    map.__label = c.label || u;
+  } catch (e) {}
+  TITLE_CACHE[key] = map;
+  return map;
+}
+
+function scoreDate(at) {
+  if (!at) return "";
+  const d = new Date(at);
+  if (isNaN(d.getTime())) return "";
+  return `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, "0")}.${String(d.getDate()).padStart(2, "0")}`;
+}
+
+async function myScores(books) {
+  const host = document.getElementById("myscores");
+  if (!host) return;
+  const a = await authWhenReady();
+  let who = "";
+  try { who = a && a.student ? String(a.student() || "") : ""; } catch (e) {}
+  if (!who) { host.innerHTML = ""; return; }
+  latestScore.length = 0;
+  await loadScores();
+  const bookOf = (slug) => books.find((b) => b.slug === slug) || {};
+  const unitLabel = (bk, u) => {
+    const b = bookOf(bk);
+    const unit = (b.units || []).find((y) => y.unit === u);
+    return `${b.title || bk} · ${(unit && unit.label) || u}`;
+  };
+  const latest = (rows) => {
+    const m = new Map();
+    rows.forEach((s) => { const p = m.get(s.item); if (!p || s.at >= p.at) m.set(s.item, s); });
+    return [...m.values()].sort((x, y) => y.at - x.at);
+  };
+  const ur = latest(latestScore.filter((s) => s.program === "bekbal-unit"));
+  const rr = latest(latestScore.filter((s) => s.program === "bekbal-reading"));
+  const head = `<h2 class="ms-h">내 점수 · My scores</h2>`;
+  if (!ur.length && !rr.length) {
+    host.innerHTML = head + `<p class="ms-empty">${esc(who)} · 아직 저장된 점수가 없습니다. 연습을 마치면 이곳에 나옵니다.` +
+      `<br><span class="sub">Finish a practice and its score appears here.</span></p>`;
+    offerLocalScores(host, books);
+    return;
+  }
+  let html = head + `<p class="ms-who">${esc(who)} · 연습 ${ur.length + rr.length}개에 점수가 있습니다.</p><div class="ms-list">`;
+  for (const s of ur) {
+    const parts = String(s.item).split("/");
+    const bk = parts[0], u = parts[1], ex = parts.slice(2).join("/");
+    const titles = await practiceTitles(bk, u);
+    html += `<a class="ms-row" href="play.html?b=${encodeURIComponent(bk)}&u=${encodeURIComponent(u)}&e=${encodeURIComponent(ex)}">` +
+      `<span class="ms-t">${esc(titles[ex] || ex)}</span><span class="ms-b">${esc(unitLabel(bk, u))}</span>` +
+      `<b class="ms-v">${esc(scoreText(s))}</b><span class="ms-d">${esc(scoreDate(s.at))}</span></a>`;
+  }
+  for (const s of rr) {
+    const m = /^(.+)_(u[0-9]+)_(.+)$/.exec(String(s.item));
+    const bk = m ? m[1] : "", u = m ? m[2] : "", tag = m ? m[3] : String(s.item);
+    html += `<a class="ms-row" href="reading.html?b=${encodeURIComponent(bk)}&u=${encodeURIComponent(u)}">` +
+      `<span class="ms-t">Reading Focus · ${esc(tag)}</span><span class="ms-b">${esc(bk ? unitLabel(bk, u) : "")}</span>` +
+      `<b class="ms-v">${esc(scoreText(s))}</b><span class="ms-d">${esc(scoreDate(s.at))}</span></a>`;
+  }
+  host.innerHTML = html + `</div>`;
+  offerLocalScores(host, books);
+}
+
+/* Jay 2026-11-17: scores done on this device before the site kept a server copy were
+   only in this browser. The row was never sent, so the student may offer it now himself:
+   nothing is posted until he presses the button, and only into his own sign-in. */
+function localUnsynced() {
+  const have = {};
+  latestScore.forEach((s) => { if (s.program === "bekbal-unit") have[s.item] = true; });
+  const sc = bekScore();
+  const out = [];
+  Object.keys(sc).forEach((k) => {
+    const v = sc[k] || {};
+    const parts = String(k).split("|");
+    if (parts.length < 3 || !v.total || Number(v.total) <= 0) return;
+    const item = parts[0] + "/" + parts[1] + "/" + parts.slice(2).join("/");
+    if (have[item]) return;
+    out.push({ key: k, item, got: Number(v.got) || 0, total: Number(v.total), at: Number(v.at) || 0 });
+  });
+  return out;
+}
+
+function offerLocalScores(host, books) {
+  const pending = localUnsynced();
+  if (!pending.length) return;
+  const box = el("div", "ms-local");
+  box.appendChild(el("p", null, `이 기기에만 있는 점수 ${pending.length}개가 있습니다. 그 점수는 선생님 기록에 없습니다.`));
+  box.appendChild(el("p", "sub", "Scores saved only in this browser. Send them to your record?"));
+  const btn = el("button", "btn btn-primary", `내 기록으로 보내기 (${pending.length})`);
+  btn.onclick = async () => {
+    btn.disabled = true;
+    btn.textContent = "보내는 중…";
+    try {
+      if (window.MRJ_SCORES && typeof window.MRJ_SCORES.post === "function") {
+        await Promise.all(pending.map((p) => window.MRJ_SCORES.post({
+          program: "bekbal-unit",
+          appName: "백발백중 Unit Practice",
+          unitTitle: p.item.split("/").slice(0, 2).join(" "),
+          itemId: p.item,
+          itemType: "practice_summary",
+          scoreValue: p.got,
+          scoreMax: p.total,
+          scorePct: Math.round((100 * p.got) / p.total),
+          when: p.at || undefined
+        })));
+      }
+      box.innerHTML = "";
+      box.appendChild(el("p", "ok", `보냈습니다 (${pending.length}개). 이제 위 목록과 선생님 기록에 나옵니다.`));
+      latestScore.length = 0;
+      await loadScores();
+      myScores(books);
+    } catch (e) {
+      btn.disabled = false;
+      btn.textContent = "다시 보내기";
+      box.appendChild(el("p", "bad", "보내지 못했습니다. 다시 눌러 주세요."));
+    }
+  };
+  box.appendChild(btn);
+  host.appendChild(box);
 }
 async function book() {
   const { books } = await getJSON("data/books.json");
