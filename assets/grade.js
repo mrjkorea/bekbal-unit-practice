@@ -9,6 +9,7 @@
   function norm(s) {
     return String(s == null ? "" : s)
       .trim()
+      .replace(/^[A-Za-z]{1,12}\s*:\s*/, "")
       .toLowerCase()
       .replace(/[’‘]/g, "'")
       .replace(/\s+/g, " ")
