@@ -4,13 +4,8 @@
  "book": "중1 능률 김기택",
  "unit": "Lesson 06 Amazing Korea",
  "sourcePages": "70-71",
- "questionCount": 18,
- "omitted": [
-  {
-   "sourceId": 8,
-   "reason": "p.065 08번 선택지 짝(brave/light)이 OCR에서 ①–⑤로 갈라지지 않음. 답지 p.179는 brave / light."
-  }
- ],
+ "questionCount": 19,
+ "omitted": [],
  "questions": [
   {
    "sourceId": 1,
@@ -188,6 +183,33 @@
    "select": "one"
   },
   {
+   "id": "8",
+   "label": "08",
+   "sourceId": 8,
+   "group": "08",
+   "section": "s8",
+   "sectionTitle": "Section H · 영영풀이에 맞는 단어 짝",
+   "sectionInstructionKo": "What is the correct word for each definition? ⓐ와 ⓑ에 들어갈 단어의 짝을 고르세요. 번호는 쓰지 않아요.",
+   "directionKo": "What is the correct word for each definition?",
+   "ruleKo": "ⓐ와 ⓑ에 들어갈 단어의 짝을 고르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "promptEn": "08 What is the correct word for each definition?\n(ⓐ): not afraid of difficult things\n(ⓑ): not heavy; easy to lift or carry",
+   "explainKo": "답지 p.69 정답 08 brave / light. brave는 '어려운 것을 두려워하지 않는', light는 '무겁지 않은, 들어 올리기 쉬운'이라는 뜻이다.",
+   "type": "mc",
+   "select": "one",
+   "choices": [
+    "ⓐ different - ⓑ special",
+    "ⓐ simple - ⓑ special",
+    "ⓐ different - ⓑ light",
+    "ⓐ brave - ⓑ light",
+    "ⓐ brave - ⓑ cool"
+   ],
+   "correctIndexes": [
+    4
+   ]
+  },
+  {
    "sourceId": 9,
    "group": "09",
    "explainKo": "정답: ③ sick. 답지 p.179 09 ③, feel sick.",
@@ -265,33 +287,6 @@
    ],
    "correctIndexes": [
     5
-   ],
-   "select": "one"
-  },
-  {
-   "sourceId": 13,
-   "group": "13",
-   "explainKo": "정답: ② go. 답지 p.179 13: go well with, go out.",
-   "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• Apples ______ well with peanut butter.\n• We will ______ out for dinner tonight.",
-   "type": "mc",
-   "answerMode": "choice",
-   "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
-   "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
-   "id": "13",
-   "section": "s6",
-   "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
-   "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
-   "answerModeTag": "Choose · 고르기",
-   "label": "13",
-   "choices": [
-    "make",
-    "go",
-    "have",
-    "come",
-    "do"
-   ],
-   "correctIndexes": [
-    2
    ],
    "select": "one"
   },
@@ -376,6 +371,33 @@
    ],
    "correctIndexes": [
     4
+   ],
+   "select": "one"
+  },
+  {
+   "sourceId": 13,
+   "group": "13",
+   "explainKo": "정답: ② go. 답지 p.179 13: go well with, go out.",
+   "promptEn": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?\n• Apples ______ well with peanut butter.\n• We will ______ out for dinner tonight.",
+   "type": "mc",
+   "answerMode": "choice",
+   "directionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "ruleKo": "하나를 누르세요. 번호는 쓰지 않아요.",
+   "id": "13",
+   "section": "s6",
+   "sectionTitle": "Section F · 다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "sectionInstructionKo": "다음 빈칸에 들어갈 말로 가장 적절한 것은? 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerModeTag": "Choose · 고르기",
+   "label": "13",
+   "choices": [
+    "make",
+    "go",
+    "have",
+    "come",
+    "do"
+   ],
+   "correctIndexes": [
+    2
    ],
    "select": "one"
   },
@@ -536,6 +558,16 @@
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
    "itemCount": 2
+  },
+  {
+   "id": "s8",
+   "title": "Section H · 영영풀이에 맞는 단어 짝",
+   "directionKo": "What is the correct word for each definition?",
+   "ruleKo": "ⓐ와 ⓑ에 들어갈 단어의 짝을 고르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "What is the correct word for each definition? ⓐ와 ⓑ에 들어갈 단어의 짝을 고르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 1
   },
   {
    "id": "s6",
