@@ -623,11 +623,15 @@
    "sectionInstructionKo": "알맞은 것을 고르시오. 문장 전체를 영어로 쓰세요.",
    "answerMode": "sentence",
    "answerModeTag": "Write · 문장 쓰기",
-   "explainKo": "정답: Also, make sure that you turn off the tap completely. (답지 24쪽)",
+   "explainKo": "정답: Also, make sure that you turn off the tap completely. (답지 24쪽) 빈칸만 쓰면 9단어이므로 Also 없이 쓴 답도 맞게 본다.",
    "type": "sentence",
    "promptEn": "[20-25] 다음 글을 읽고, 물음에 답하시오.\nHi! I’m Water Saver!\nWater is very important. (1) We can’t live without ⓐit. (2) But people waste ⓑa lot of water. (3) How can we save water? (4) ⓒ ______ quick showers. ⓓ ______ off the water while you brush your teeth. (5) ⓔ또한, 여러분이 수도꼭지를 완전히 잠갔는지 확인하세요.\nLook at the pictures below. Which are ways to save water and which are not? Write an O or X on each picture.\nI’m sure that you got the right answers. You are amazing at saving water!\n\n25 윗글의 밑줄 친 우리말 ⓔ를 [조건]에 맞게 영작하시오. (서술형)\n조건 1. 주어진 단어들을 모두 사용할 것.\n조건 2. 필요시 어형을 바꿀 수 있음.\n조건 3. 총 9단어로 쓸 것.\n\nAlso, ______ .\ntap  complete  turn  make  that  sure",
    "accept": [
-    "Also, make sure that you turn off the tap completely."
+    "Also, make sure that you turn off the tap completely.",
+    "make sure that you turn off the tap completely",
+    "make sure that you turn off the tap completely.",
+    "Make sure that you turn off the tap completely.",
+    "Make sure that you turn off the tap completely"
    ],
    "seconds": 110
   }
