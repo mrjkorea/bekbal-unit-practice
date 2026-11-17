@@ -103,7 +103,7 @@ async function myScores(books) {
   for (const s of ur) {
     const parts = String(s.item).split("/");
     const bk = parts[0], u = parts[1], ex = parts.slice(2).join("/");
-    const titles = await practiceTitles(bk, u);
+    const titles = bookOf(bk) && bookOf(bk).units ? await practiceTitles(bk, u) : {};
     html += `<a class="ms-row" href="play.html?b=${encodeURIComponent(bk)}&u=${encodeURIComponent(u)}&e=${encodeURIComponent(ex)}">` +
       `<span class="ms-t">${esc(titles[ex] || ex)}</span><span class="ms-b">${esc(unitLabel(bk, u))}</span>` +
       `<b class="ms-v">${esc(scoreText(s))}</b><span class="ms-d">${esc(scoreDate(s.at))}</span></a>`;
@@ -125,6 +125,8 @@ async function myScores(books) {
 function localUnsynced() {
   const have = {};
   latestScore.forEach((s) => { if (s.program === "bekbal-unit") have[s.item] = true; });
+  let sent = {};
+  try { sent = JSON.parse(localStorage.getItem("bek.sent.v1") || "{}"); } catch (e) { sent = {}; }
   const sc = bekScore();
   const out = [];
   Object.keys(sc).forEach((k) => {
@@ -132,7 +134,7 @@ function localUnsynced() {
     const parts = String(k).split("|");
     if (parts.length < 3 || !v.total || Number(v.total) <= 0) return;
     const item = parts[0] + "/" + parts[1] + "/" + parts.slice(2).join("/");
-    if (have[item]) return;
+    if (have[item] || sent[item]) return;
     out.push({ key: k, item, got: Number(v.got) || 0, total: Number(v.total), at: Number(v.at) || 0 });
   });
   return out;
@@ -164,6 +166,11 @@ function offerLocalScores(host, books) {
       }
       box.innerHTML = "";
       box.appendChild(el("p", "ok", `보냈습니다 (${pending.length}개). 이제 위 목록과 선생님 기록에 나옵니다.`));
+      try {
+        const sent = JSON.parse(localStorage.getItem("bek.sent.v1") || "{}");
+        pending.forEach((p) => { sent[p.item] = 1; });
+        localStorage.setItem("bek.sent.v1", JSON.stringify(sent));
+      } catch (e) {}
       latestScore.length = 0;
       await loadScores();
       myScores(books);
