@@ -4,13 +4,8 @@
  "book": "중1 능률 김기택",
  "unit": "Lesson 06 Amazing Korea",
  "sourcePages": "80-81",
- "questionCount": 14,
- "omitted": [
-  {
-   "sourceId": "03",
-   "reason": "p.180 정답란이 O이고 이어질 대화의 선택지 배열이 OCR로 깨져, 해설이 선지 번호를 명시하지 않음"
-  }
- ],
+ "questionCount": 15,
+ "omitted": [],
  "questions": [
   {
    "id": "dp-01",
@@ -66,6 +61,33 @@
    ],
    "correctIndexes": [
     5
+   ]
+  },
+  {
+   "id": "dp-03",
+   "label": "03",
+   "sourceId": "03",
+   "group": "03",
+   "section": "s13",
+   "sectionTitle": "대화 순서 배열",
+   "sectionInstructionKo": "다음 주어진 말에 이어질 대화의 순서를 바르게 배열한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "directionKo": "다음 주어진 말에 이어질 대화의 순서를 바르게 배열한 것은?",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "promptEn": "03 다음 주어진 말에 이어질 대화의 순서를 바르게 배열한 것은?\nA: I want to introduce neolttwigi to you.\nⓐ It is a traditional Korean game. Players stand on a board and jump high.\nⓑ That's a great idea.\nⓒ What is neolttwigi?\nⓓ I see. Why don't we play it together?",
+   "explainKo": "답지 pp.80~81 정답 03 ④. 해설: 앞말에 이어 'neolttwigi가 무엇이니?'(ⓒ) → 설명(ⓐ) → '같이 해 볼래?'(ⓓ) → '좋은 생각이야'(ⓑ) 순서다.",
+   "type": "mc",
+   "select": "one",
+   "choices": [
+    "ⓐ - ⓑ - ⓒ - ⓓ",
+    "ⓐ - ⓓ - ⓒ - ⓑ",
+    "ⓑ - ⓓ - ⓐ - ⓒ",
+    "ⓒ - ⓐ - ⓓ - ⓑ",
+    "ⓒ - ⓓ - ⓐ - ⓑ"
+   ],
+   "correctIndexes": [
+    4
    ]
   },
   {
@@ -424,6 +446,16 @@
    "directionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
    "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "instructionKo": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "itemCount": 1
+  },
+  {
+   "id": "s13",
+   "title": "대화 순서 배열",
+   "directionKo": "다음 주어진 말에 이어질 대화의 순서를 바르게 배열한 것은?",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "다음 주어진 말에 이어질 대화의 순서를 바르게 배열한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
    "itemCount": 1
