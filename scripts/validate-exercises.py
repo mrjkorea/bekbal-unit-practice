@@ -10,7 +10,9 @@ Checks, per item:
   1. a choice item's key index points outside its choices, or it has < 2 choices,
   2. a one-to-three-word answer repeats the word before or after its own blank,
      or doubles a word inside itself ("to to", "the the"),
-  3. a short answer needs a blank and the item has none.
+  3. a short answer needs a blank and the item has none,
+  4. a prompt that asks for 총 N단어 has no accepted answer of exactly N words,
+     so a correct sentence of the stated length is marked wrong.
 
 Run before every push:
   python3 scripts/validate_exercises.py
@@ -123,6 +125,28 @@ def allowed(rel, qid):
     return (rel.replace(os.sep, "/"), str(qid)) in ALLOW
 
 
+def word_len(s):
+    return len([w for w in str(s).split() if any(ch.isalnum() for ch in w)])
+
+
+def check_word_count(q):
+    """Jay 2026-11-17: a prompt may not demand a word count that no stored
+    answer meets, because then a correct sentence of that length is marked wrong.
+    A prompt that gives one count per blank (예: (1)은 8단어, (2)는 9단어) needs
+    only one of those counts to land, since each card answers one blank."""
+    prompt = q.get("promptEn") or ""
+    need = [int(n) for n in re.findall(r"총\s*(\d+)\s*단어", prompt)]
+    if not need:
+        return []
+    accept = [a for a in (q.get("accept") or []) if isinstance(a, str)]
+    if not accept:
+        return []
+    got = [word_len(a) for a in accept]
+    if any(n in got for n in need):
+        return []
+    return [f"word count: prompt says {need} words, accepted answers have {got}"]
+
+
 def main():
     as_json = "--json" in sys.argv
     bad = []
@@ -132,6 +156,7 @@ def main():
         for q in d.get("questions") or []:
             total += 1
             probs = check_item(q)
+            probs += check_word_count(q)
             rel = os.path.relpath(f, ROOT)
             if probs and allowed(rel, q.get("id")):
                 probs = []
