@@ -137,11 +137,11 @@
       "answerMode": "choice",
       "select": "one",
       "choices": [
-        "Have you ever been to Europe?",
-        "I have never seen a shooting star.",
-        "She has eaten Mexican food before.",
-        "We have visited Jeju-do many times.",
-        "He has gone to Japan to meet his uncle."
+        "Have you ever <u>been</u> to Europe?",
+        "I have never <u>seen</u> a shooting star.",
+        "She has <u>eaten</u> Mexican food before.",
+        "We have <u>visited</u> Jeju-do many times.",
+        "He has <u>gone</u> to Japan to meet his uncle."
       ],
       "correctIndexes": [
         5
@@ -153,9 +153,7 @@
       "sectionTitle": "Section F · 다음 밑줄 친 현재완료의 쓰임이 나머지와 다른 것은?",
       "sectionInstructionKo": "다음 밑줄 친 현재완료의 쓰임이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "6",
-      "deferred": true,
-      "deferredReason": "교재 p.100-103 원문 확인 전 보류 — asks about an underlined word, but the card marks no word"
+      "label": "6"
     },
     {
       "sourceId": 7,
@@ -389,7 +387,7 @@
       "sourceId": 15,
       "group": "15",
       "explainKo": "-thing으로 끝나는 부정대명사는 「부정대명사+형용사」의 어순으로 쓰이므로 형용사 unthinkable 앞인 ③에 들어가야 한다.",
-      "promptEn": "[13-15] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moving under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? (A) You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\n윗글의 밑줄 친 (B)의 우리말을 다음과 같이 영작할 때, something이 들어갈 위치로 가장 알맞은 곳은?",
+      "promptEn": "[13-15] 다음 글을 읽고, 물음에 답하시오.\n\nInside the time machine, there were two other travelers. Eckels sat down and closed his eyes. He felt the machine moving under his feet. After only a few minutes, the machine stopped.\n\n\"We've just arrived in the jungle of 60 million years ago,\" Travis explained. \"Do you see the path over there? (A) You must not leave it at any time. Do not touch anything. You might kill something by accident. (B) 변화가 미래에 상상할 수 없는 일을 일으킬 수 있습니다.\"\n\nA little ① change ② here can cause ③ unthinkable ④ in the future ⑤.\n\n윗글의 밑줄 친 (B)의 우리말을 다음과 같이 영작할 때, something이 들어갈 위치로 가장 알맞은 곳은?",
       "type": "mc",
       "answerMode": "choice",
       "select": "one",
@@ -410,9 +408,7 @@
       "sectionTitle": "Section O · 윗글의 밑줄 친 (B)의 우리말을 다음과 같이 영작할 때, somethi…",
       "sectionInstructionKo": "윗글의 밑줄 친 (B)의 우리말을 다음과 같이 영작할 때, something이 들어갈 위치로 가장 알맞은 곳은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerModeTag": "Choose · 고르기",
-      "label": "15",
-      "deferred": true,
-      "deferredReason": "교재 p.100-103 원문 확인 전 보류 — position ①②③④⑤ is in the choices but not in the passage"
+      "label": "15"
     },
     {
       "sourceId": 16,
