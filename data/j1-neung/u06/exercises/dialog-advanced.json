@@ -4,17 +4,8 @@
  "book": "중1 능률 김기택",
  "unit": "Lesson 06 Amazing Korea",
  "sourcePages": "82-83",
- "questionCount": 13,
- "omitted": [
-  {
-   "sourceId": "05",
-   "reason": "p.180 정답란이 '0. 2. O'로 깨졌고, 해설은 제안에 수락하는 표현이 와야 한다고만 하여 선지 번호를 확정할 수 없음"
-  },
-  {
-   "sourceId": "11",
-   "reason": "p.180 정답란이 O이고 해설 'introduce: (톰 소개하다'가 깨져 적절하지 않은 뜻을 번호로 지정하지 않음"
-  }
- ],
+ "questionCount": 15,
+ "omitted": [],
  "questions": [
   {
    "id": "da-01",
@@ -167,6 +158,35 @@
    "focusBlank": "3"
   },
   {
+   "id": "da-05",
+   "label": "05",
+   "sourceId": "05",
+   "group": "05",
+   "section": "a11",
+   "sectionTitle": "(D)에 들어갈 수 있는 말 모두",
+   "sectionInstructionKo": "위 대화의 빈칸 (D)에 들어갈 수 있는 말을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+   "directionKo": "위 대화의 빈칸 (D)에 들어갈 수 있는 말을 모두 고르면?",
+   "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 모두 고르기",
+   "promptEn": "05 위 대화의 빈칸 (D)에 들어갈 수 있는 말을 모두 고르면?\nG: Hi, Yejun! (A) ______ was your trip to Andong?\nB: It was great! I watched a Hahoe talchum performance.\nG: (B) ______ is Hahoe talchum?\nB: It is a traditional Korean dance drama. The dancers wear masks and dance to exciting music.\nG: Sounds interesting! (C) ______ else did you do?\nB: I ate jjimdak. Andong is famous for jjimdak! It is a chicken dish, and it's delicious.\nG: Wow, I really want to try it.\nB: Why don't we eat jjimdak together sometime?\nG: (D) ______",
+   "explainKo": "답지 pp.82~83 정답 05 ①, ②, ④. 해설 05: 제안을 수락하는 표현은 I'd love to., OK I'll do that!, That sounds good.이고 ③은 제안을 거절하는 말, ⑤는 동의하지 않는다는 말이다.",
+   "type": "mc",
+   "select": "multi",
+   "choices": [
+    "I'd love to!",
+    "OK, I'll do that!",
+    "I don't think it's great.",
+    "That sounds good.",
+    "I don't agree."
+   ],
+   "correctIndexes": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
    "id": "da-06",
    "label": "06",
    "sourceId": "06",
@@ -293,6 +313,33 @@
    "phraseBlank": true
   },
   {
+   "id": "da-11",
+   "label": "11",
+   "sourceId": "11",
+   "group": "11",
+   "section": "a12",
+   "sectionTitle": "①~⑤ 뜻이 아닌 것",
+   "sectionInstructionKo": "위 대화의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "directionKo": "위 대화의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
+   "promptEn": "11 위 대화의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?\nA: I want to ①<u>introduce</u> neolttwigi to you.\nB: (A) ______ is neolttwigi?\nA: It is a ②<u>traditional</u> Korean game. Players ③<u>stand on</u> a ④<u>board</u> and jump ⑤<u>high</u>.\nB: I see. (B) 우리 함께 그것을 해볼래?\nA: That's a great idea.",
+   "explainKo": "답지 pp.82~83 정답 11 ①. 해설: introduce는 '소개하다'라는 뜻이므로 '시작하다'는 적절하지 않다.",
+   "type": "mc",
+   "select": "one",
+   "choices": [
+    "시작하다",
+    "전통적인",
+    "~위에 서 있다",
+    "판",
+    "높이"
+   ],
+   "correctIndexes": [
+    1
+   ]
+  },
+  {
    "id": "da-12",
    "label": "12",
    "sourceId": "12",
@@ -375,6 +422,16 @@
    "itemCount": 3
   },
   {
+   "id": "a11",
+   "title": "(D)에 들어갈 수 있는 말 모두",
+   "directionKo": "위 대화의 빈칸 (D)에 들어갈 수 있는 말을 모두 고르면?",
+   "ruleKo": "해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "위 대화의 빈칸 (D)에 들어갈 수 있는 말을 모두 고르면? 해당하는 것을 모두 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 모두 고르기",
+   "itemCount": 1
+  },
+  {
    "id": "a4",
    "title": "대답할 수 없는 질문",
    "directionKo": "위 대화를 읽고, 대답할 수 없는 질문은?",
@@ -422,6 +479,16 @@
    "instructionKo": "위 대화를 읽고, 다음 질문에 대한 답을 완성하시오. 빈칸에 들어갈 말만 쓰세요. 앞뒤에 이미 있는 말은 다시 쓰지 않아요.",
    "answerMode": "words",
    "answerModeTag": "Type · 빈칸 말만",
+   "itemCount": 1
+  },
+  {
+   "id": "a12",
+   "title": "①~⑤ 뜻이 아닌 것",
+   "directionKo": "위 대화의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은?",
+   "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "instructionKo": "위 대화의 밑줄 친 ①~⑤의 의미가 적절하지 않은 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
+   "answerMode": "choice",
+   "answerModeTag": "Choose · 고르기",
    "itemCount": 1
   },
   {
