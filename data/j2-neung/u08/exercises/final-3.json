@@ -21,7 +21,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "1",
+      "label": "01",
       "choices": [
         "inside : outside",
         "wise : wisely",
@@ -49,7 +49,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "2",
+      "label": "02",
       "choices": [
         "blindly: without thinking carefully",
         "accuracy: how correct something is",
@@ -77,7 +77,7 @@
       "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "3",
+      "label": "03",
       "accept": [
         "copy"
       ],
@@ -93,7 +93,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "id": "Q04",
-      "label": "4",
+      "label": "04",
       "sourceId": 4,
       "group": "Q04",
       "explainKo": "정답: ④. harder → easier. 드론이 농부를 도우므로 일이 더 어려워지는 것이 아니라 더 쉬워진다. (답지 p.77 최종점검 모의고사 3회 04)",
@@ -121,7 +121,7 @@
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
       "id": "Q05",
-      "label": "5",
+      "label": "05",
       "sourceId": 5,
       "group": "Q05",
       "explainKo": "정답: ③. what inside it is → what is inside it. 간접의문문은 의문사 + 주어 + 동사이다. (답지 p.77 최종점검 모의고사 3회 05)",
@@ -154,7 +154,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "6",
+      "label": "06",
       "choices": [
         "What is a smart refrigerator?",
         "How does the smart refrigerator work?",
@@ -182,7 +182,7 @@
       "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "7",
+      "label": "07",
       "accept": [
         "aware of"
       ],
@@ -203,7 +203,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "8",
+      "label": "08",
       "choices": [
         "The girl knows about 3D printers.",
         "The boy has never seen a 3D printer before.",
@@ -231,7 +231,7 @@
       "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "9",
+      "label": "09",
       "accept": [
         "solve → to solve",
         "solve -> to solve",

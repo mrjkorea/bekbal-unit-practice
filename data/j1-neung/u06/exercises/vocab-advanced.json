@@ -415,7 +415,7 @@
    "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
    "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
    "answerModeTag": "Choose · 고르기",
-   "label": "14 (1)",
+   "label": "14 ⓐ",
    "choices": [
     "clothes",
     "having a sale",
@@ -441,7 +441,7 @@
    "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
    "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
    "answerModeTag": "Choose · 고르기",
-   "label": "14 (2)",
+   "label": "14 ⓑ",
    "choices": [
     "clothes",
     "having a sale",
@@ -467,7 +467,7 @@
    "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
    "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
    "answerModeTag": "Choose · 고르기",
-   "label": "14 (3)",
+   "label": "14 ⓒ",
    "choices": [
     "clothes",
     "having a sale",
@@ -493,7 +493,7 @@
    "sectionTitle": "Section G · 보기에서 빈칸에 들어갈 말을 고르시오.",
    "sectionInstructionKo": "보기에서 빈칸에 들어갈 말을 고르시오. 보기를 누르세요. 단어를 타이핑하지 않아요.",
    "answerModeTag": "Choose · 고르기",
-   "label": "14 (4)",
+   "label": "14 ⓓ",
    "choices": [
     "clothes",
     "having a sale",
@@ -589,5 +589,6 @@
    "answerModeTag": "Choose · 고르기",
    "itemCount": 7
   }
- ]
+ ],
+ "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

@@ -228,7 +228,7 @@
       "sectionTitle": "Section I · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-1-wrong",
-      "label": "10 (1)",
+      "label": "10-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -251,7 +251,7 @@
       "sectionTitle": "Section I · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-1-fix",
-      "label": "10 (2)",
+      "label": "10-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -276,7 +276,7 @@
       "sectionTitle": "Section I · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-2-wrong",
-      "label": "11 (1)",
+      "label": "11-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -299,7 +299,7 @@
       "sectionTitle": "Section I · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-2-fix",
-      "label": "11 (2)",
+      "label": "11-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -731,7 +731,7 @@
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
       "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "21 (1)"
+      "label": "21-1"
     },
     {
       "sourceId": 21,
@@ -753,7 +753,7 @@
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
       "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "21 (2)"
+      "label": "21-2"
     },
     {
       "sourceId": 21,
@@ -775,7 +775,7 @@
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
       "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "21 (3)"
+      "label": "21-3"
     },
     {
       "sourceId": 22,
@@ -840,7 +840,7 @@
       "sectionTitle": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, … · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-ca",
-      "label": "29 (1)",
+      "label": "29-ⓐ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -863,7 +863,7 @@
       "sectionTitle": "Section W · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것 두 개를 찾아 기호를 쓰고, … · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-ce",
-      "label": "29 (2)",
+      "label": "29-ⓔ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -886,7 +886,7 @@
       "sectionTitle": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "24-n1",
-      "label": "30 (1)",
+      "label": "30-(1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -909,7 +909,7 @@
       "sectionTitle": "Section X · 윗글에서 밑줄 친 a small dead butterfly가 현재에 일으…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "24-n2",
-      "label": "30 (2)",
+      "label": "30-(2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -1278,5 +1278,6 @@
       "answerModeTag": "Choose · 보기에서 고르기",
       "itemCount": 1
     }
-  ]
+  ],
+  "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

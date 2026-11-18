@@ -230,7 +230,7 @@
    "sectionTitle": "Section K · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "10-1-wrong",
-   "label": "12 (1)",
+   "label": "12-틀린 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -253,7 +253,7 @@
    "sectionTitle": "Section K · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "10-1-fix",
-   "label": "12 (2)",
+   "label": "12-고친 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -276,7 +276,7 @@
    "sectionTitle": "Section K · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "10-2-wrong",
-   "label": "13 (1)",
+   "label": "13-틀린 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -299,7 +299,7 @@
    "sectionTitle": "Section K · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "10-2-fix",
-   "label": "13 (2)",
+   "label": "13-고친 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -430,7 +430,7 @@
    "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
    "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
    "answerModeTag": "Choose · 기호 + 고친 문장",
-   "label": "15 (1)"
+   "label": "15-1"
   },
   {
    "sourceId": 15,
@@ -470,7 +470,7 @@
    "sectionTitle": "Section P · [15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 …",
    "sectionInstructionKo": "[15] 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
    "answerModeTag": "Choose · 기호 + 고친 문장",
-   "label": "15 (2)"
+   "label": "15-2"
   },
   {
    "sourceId": 16,
@@ -962,5 +962,6 @@
    "answerModeTag": "Type · 빈칸 말만",
    "itemCount": 1
   }
- ]
+ ],
+ "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

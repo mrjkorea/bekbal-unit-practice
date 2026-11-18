@@ -287,7 +287,7 @@
    "sectionTitle": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "11-wrong",
-   "label": "12 (1)",
+   "label": "12-틀린 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -309,7 +309,7 @@
    "sectionTitle": "Section K · 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "11-fix",
-   "label": "12 (2)",
+   "label": "12-고친 말",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -926,5 +926,6 @@
    "answerModeTag": "Choose · 고르기",
    "itemCount": 1
   }
- ]
+ ],
+ "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

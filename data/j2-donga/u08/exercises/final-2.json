@@ -191,7 +191,7 @@
       "sectionTitle": "Section H · 표시된 빈칸 하나만 쓰기",
       "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "8-ca",
-      "label": "08 (1)",
+      "label": "8-ⓐ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -214,7 +214,7 @@
       "sectionTitle": "Section H · 표시된 빈칸 하나만 쓰기",
       "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "8-cb",
-      "label": "08 (2)",
+      "label": "8-ⓑ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -556,7 +556,7 @@
       "sectionTitle": "Section U · 표시된 빈칸 하나만 쓰기",
       "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "21-ca",
-      "label": "21 (1)",
+      "label": "21-ⓐ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -579,7 +579,7 @@
       "sectionTitle": "Section U · 표시된 빈칸 하나만 쓰기",
       "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "21-cb",
-      "label": "21 (2)",
+      "label": "21-ⓑ",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -957,5 +957,6 @@
       "answerModeTag": "Choose · 고르기",
       "itemCount": 1
     }
-  ]
+  ],
+  "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

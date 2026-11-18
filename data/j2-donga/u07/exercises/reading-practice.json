@@ -479,7 +479,7 @@
       "sectionTitle": "Section Q · 윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
       "sectionInstructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "17 (1)",
+      "label": "17-1",
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 씁니다."
     },
@@ -501,7 +501,7 @@
       "sectionTitle": "Section Q · 윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오.",
       "sectionInstructionKo": "윗글의 밑줄 친 (D)의 우리말에 맞도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "17 (2)",
+      "label": "17-2",
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 씁니다."
     },
@@ -550,7 +550,7 @@
       "sectionTitle": "Section S · 윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
       "sectionInstructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19 (1)",
+      "label": "19-1",
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 씁니다."
     },
@@ -572,7 +572,7 @@
       "sectionTitle": "Section S · 윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오.",
       "sectionInstructionKo": "윗글의 내용을 한 문장으로 요약할 때 빈칸에 알맞은 말을 찾아 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "19 (2)",
+      "label": "19-2",
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 씁니다."
     },
@@ -648,7 +648,7 @@
       "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
       "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "22 (1)",
+      "label": "22-1",
       "focusBlank": "1",
       "promptKo": "이 문항은 (1) 빈칸만 씁니다."
     },
@@ -670,7 +670,7 @@
       "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
       "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "22 (2)",
+      "label": "22-2",
       "focusBlank": "2",
       "promptKo": "이 문항은 (2) 빈칸만 씁니다."
     },
@@ -692,7 +692,7 @@
       "sectionTitle": "Section V · 윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오.",
       "sectionInstructionKo": "윗글의 내용과 일치하도록 빈칸에 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "22 (3)",
+      "label": "22-3",
       "focusBlank": "3",
       "promptKo": "이 문항은 (3) 빈칸만 씁니다."
     },
@@ -1024,5 +1024,6 @@
       "answerModeTag": "Choose · 고르기",
       "itemCount": 1
     }
-  ]
+  ],
+  "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

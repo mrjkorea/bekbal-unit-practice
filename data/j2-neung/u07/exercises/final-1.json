@@ -21,7 +21,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "1",
+      "label": "01",
       "choices": [
         "rental : rent",
         "decide : decision",
@@ -49,7 +49,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "2",
+      "label": "02",
       "choices": [
         "Milk is good ______ your bones.",
         "The ship is heading ______ the island.",
@@ -77,7 +77,7 @@
       "sectionInstructionKo": "서술형. 빈칸에 들어갈 말만 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
       "answerMode": "words",
       "answerModeTag": "Type · 빈칸 말만",
-      "label": "3",
+      "label": "03",
       "accept": [
         "lock"
       ],
@@ -100,7 +100,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "4",
+      "label": "04",
       "choices": [
         "Do you want to buy a diary?",
         "How much is this blue diary?",
@@ -128,7 +128,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "5",
+      "label": "05",
       "choices": [
         "①",
         "②",
@@ -156,7 +156,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "6",
+      "label": "06",
       "choices": [
         "수아: Ginny는 오늘 물건을 팔기 위해 도매시장에서 컵을 사 왔어.",
         "진솔: 소년은 작은 컵을 사고 싶었지만 Ginny가 큰 컵만 가지고 있었어.",
@@ -184,7 +184,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "7",
+      "label": "07",
       "choices": [
         "a boy's favorite hobby",
         "how to make a glass cup",
@@ -283,7 +283,7 @@
       "sectionInstructionKo": "객관식. 보기를 누르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "label": "9",
+      "label": "09",
       "choices": [
         "cheaper than",
         "not as cheap as",

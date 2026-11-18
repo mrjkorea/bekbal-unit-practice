@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "1",
-      "label": "①A-01",
+      "label": "A-01",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -33,7 +33,7 @@
     },
     {
       "id": "2",
-      "label": "①A-02",
+      "label": "A-02",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -57,7 +57,7 @@
     },
     {
       "id": "3",
-      "label": "①A-03",
+      "label": "A-03",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -81,10 +81,10 @@
     },
     {
       "id": "4",
-      "label": "②A-01",
+      "label": "B-01",
       "sourceId": 1,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -108,10 +108,10 @@
     },
     {
       "id": "5",
-      "label": "②A-02",
+      "label": "B-02",
       "sourceId": 2,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -135,10 +135,10 @@
     },
     {
       "id": "6",
-      "label": "②A-03",
+      "label": "B-03",
       "sourceId": 3,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -155,10 +155,10 @@
     },
     {
       "id": "7",
-      "label": "②A-04",
+      "label": "B-04",
       "sourceId": 4,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -182,10 +182,10 @@
     },
     {
       "id": "8",
-      "label": "②A-05",
+      "label": "B-05",
       "sourceId": 5,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -202,10 +202,10 @@
     },
     {
       "id": "9",
-      "label": "②A-06",
+      "label": "B-06",
       "sourceId": 6,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -229,10 +229,10 @@
     },
     {
       "id": "10",
-      "label": "②A-07",
+      "label": "B-07",
       "sourceId": 7,
       "section": "s2",
-      "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
+      "sectionTitle": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "sectionInstructionKo": "알맞은 것을 고르거나 쓰시오.",
@@ -263,7 +263,7 @@
     },
     {
       "id": "s2",
-      "title": "Section A · Plus 기타 지문 실전 문제",
+      "title": "Section B · Plus 기타 지문 실전 문제",
       "directionKo": "알맞은 것을 고르거나 쓰시오.",
       "ruleKo": "고르기는 보기를 누르고, 쓰기는 빈칸의 말만 쓰세요.",
       "answerMode": "choice",
@@ -271,5 +271,6 @@
       "instructionKo": "알맞은 것을 고르거나 쓰시오.",
       "itemCount": 7
     }
-  ]
+  ],
+  "labelsLocked": "printed page prints two blocks, no letters"
 }

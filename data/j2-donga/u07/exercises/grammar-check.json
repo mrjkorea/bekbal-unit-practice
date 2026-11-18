@@ -818,7 +818,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "26-wrong",
-      "label": "26 (1)",
+      "label": "26-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -840,7 +840,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "26-fix",
-      "label": "26 (2)",
+      "label": "26-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -862,7 +862,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "27-wrong",
-      "label": "27 (1)",
+      "label": "27-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -884,7 +884,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "27-fix",
-      "label": "27 (2)",
+      "label": "27-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -906,7 +906,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "28-wrong",
-      "label": "28 (1)",
+      "label": "28-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -928,7 +928,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "28-fix",
-      "label": "28 (2)",
+      "label": "28-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -950,7 +950,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "29-wrong",
-      "label": "29 (1)",
+      "label": "29-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -972,7 +972,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "29-fix",
-      "label": "29 (2)",
+      "label": "29-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -994,7 +994,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "30-wrong",
-      "label": "30 (1)",
+      "label": "30-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -1016,7 +1016,7 @@
       "sectionTitle": "Section F · 2 call A B C. 다음 문장에서 어법상 틀린 곳을 찾아 바르게 고…",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "30-fix",
-      "label": "30 (2)",
+      "label": "30-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -1094,5 +1094,6 @@
       "answerModeTag": "Type · 빈칸 말만",
       "itemCount": 10
     }
-  ]
+  ],
+  "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }

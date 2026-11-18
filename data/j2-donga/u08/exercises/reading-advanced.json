@@ -114,7 +114,7 @@
       "sectionTitle": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "5-wrong",
-      "label": "05 (1)",
+      "label": "5-틀린 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -136,7 +136,7 @@
       "sectionTitle": "Section E · 윗글을 읽고, 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "5-fix",
-      "label": "05 (2)",
+      "label": "5-고친 말",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -267,7 +267,7 @@
       "sectionTitle": "Section I · 윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-n1",
-      "label": "09 (1)",
+      "label": "9-(1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -290,7 +290,7 @@
       "sectionTitle": "Section I · 윗글을 읽고, 다음 질문에 대한 답을 우리말로 쓰시오.",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "9-n2",
-      "label": "09 (2)",
+      "label": "9-(2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -970,5 +970,6 @@
       "answerModeTag": "Choose · 고르기",
       "itemCount": 1
     }
-  ]
+  ],
+  "labelsLocked": "labels keep the markers the page prints (틀린 말/고친 말, ⓐ, 15-1), as read from the page"
 }
