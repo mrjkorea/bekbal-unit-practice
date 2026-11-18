@@ -808,9 +808,27 @@ async function play() {
   const sourceChip = () => (isX10 ? el("p", "x10-chip", "X-10 워크북 · 별책 문제입니다") : null);
   const key = "bekbal:" + path;
   let attempts = +(sessionStorage.getItem(key) || 0);
+  /* Jay 2026-11-18: a try that scores 51-79% re-asks only the questions that were
+     wrong; a try at 50% or less starts the whole test again. The list of missed
+     ids lives with the attempt count in this tab. */
+  const readRetry = () => {
+    try { return JSON.parse(sessionStorage.getItem(key + ":only") || "null"); } catch (e) { return null; }
+  };
+  const writeRetry = (ids) => {
+    try {
+      if (ids && ids.length) sessionStorage.setItem(key + ":only", JSON.stringify(ids));
+      else sessionStorage.removeItem(key + ":only");
+    } catch (e) {}
+  };
   let timer;
+  let pool = null;
 
-  const start = () => {
+  const start = (onlyIds) => {
+    const all = ex.questions || [];
+    pool = (onlyIds && onlyIds.length)
+      ? all.filter((q) => onlyIds.indexOf(String(q.id)) >= 0)
+      : all.slice();
+    const onlyMode = pool.length > 0 && pool.length < all.length;
     const mins = Math.max(1, Math.round(timeFor(ex) / 60));
     app.innerHTML = "";
     if (ex.demo) app.appendChild(el("p", "banner", "DEMO — 실제 교재 문제가 아닙니다 (사이트 테스트용)"));
@@ -822,23 +840,27 @@ async function play() {
     app.appendChild(el("h1", "practice-title", ex.title || "Practice"));
     const chip = sourceChip();
     if (chip) app.appendChild(chip);
+    if (onlyMode) {
+      app.appendChild(el("p", "banner", `틀린 ${pool.length}문항만 다시 풉니다. (50%를 넘겼으므로 처음부터 풀지 않습니다.) · Retrying only the ${pool.length} questions you missed.`));
+    }
     if (ex.introKo) app.appendChild(el("p", "intro-ko", ex.introKo));
     const row = el("div", "section-intro-row");
-    (ex.sections || []).forEach((s) => {
+    const liveSecs = new Set(pool.map((q) => q.section));
+    (ex.sections || []).filter((s) => liveSecs.has(s.id)).forEach((s) => {
       const cell = el("div", "section-intro-cell");
       cell.appendChild(el("span", "section-intro-title", s.title || s.id));
       if (s.answerModeTag) cell.appendChild(el("span", "mode-chip", s.answerModeTag));
       row.appendChild(cell);
     });
     if ((ex.sections || []).length) app.appendChild(row);
-    app.appendChild(el("p", "meta", `시도 ${attempts + 1} / ${MAX_ATTEMPTS} · 통과 기준 80% · 제한 약 ${mins}분 · 소리 없음`));
+    app.appendChild(el("p", "meta", `시도 ${attempts + 1} / ${MAX_ATTEMPTS}` + (onlyMode ? ` · 틀린 ${pool.length}문항` : "") + ` · 통과 기준 80% · 제한 약 ${mins}분 · 소리 없음`));
     const timerBar = el("div", "timer-bar", "");
     timerBar.id = "t";
     app.appendChild(timerBar);
     const form = document.createElement("form");
     form.id = "f";
     let last = null;
-    (ex.questions || []).forEach((item) => {
+    pool.forEach((item) => {
       if (item.section && item.section !== last) {
         last = item.section;
         const sec = (ex.sections || []).find((s) => s.id === item.section);
@@ -881,7 +903,8 @@ async function play() {
     const cards = [...document.querySelectorAll(".q-card")];
     let got = 0;
     let total = 0;
-    const res = (ex.questions || []).map((q, i) => {
+    const shown = pool && pool.length ? pool : (ex.questions || []);
+    const res = shown.map((q, i) => {
       const resp = readResponse(q, cards[i]);
       const unit = G.scoreUnits(q, resp);
       got += unit.got;
@@ -921,6 +944,10 @@ async function play() {
       }
     } catch (e) {}
 
+    const missed = res.filter((r) => !r.ok).map((r) => String(r.q.id));
+    /* the next try is decided by this try's score, not by the one before it */
+    const nextOnly = (!passed && attempts < MAX_ATTEMPTS && pct > 0.5) ? missed : null;
+    writeRetry(nextOnly);
     const mistakes = score < total;
     const allMatch = (ex.questions || []).length > 0 && (ex.questions || []).every((q) => q.type === "match");
     const unitName = allMatch ? " 짝" : "";
@@ -933,6 +960,11 @@ async function play() {
     app.appendChild(el("p", "meta", `시도 ${attempts} / ${MAX_ATTEMPTS}`));
     if (!reveal) {
       app.appendChild(el("p", null, `80% 이상이 되어야 통과입니다. 다시 풀어 보세요. 남은 기회 ${MAX_ATTEMPTS - attempts}번.`));
+      if (nextOnly && nextOnly.length) {
+        app.appendChild(el("p", "meta", `다음 시도는 틀린 ${nextOnly.length}문항만 풉니다. · Next try asks only those ${nextOnly.length} questions.`));
+      } else {
+        app.appendChild(el("p", "meta", "다음 시도는 처음부터 다시 풉니다. · Next try is the whole test again."));
+      }
       if (mistakes) {
         /* Jay 2026-11-14: a failed try must show WHICH questions were wrong, and
            must not show the answers yet. Numbers only, so the next try is still
@@ -967,9 +999,10 @@ async function play() {
         box.innerHTML = REMIND;
         app.appendChild(box);
       }
-      const retry = el("button", "btn btn-primary", "다시 풀기 Retry");
+      const retry = el("button", "btn btn-primary",
+        (nextOnly && nextOnly.length) ? `틀린 ${nextOnly.length}문항만 다시 풀기 · Retry those only` : "다시 풀기 Retry");
       retry.id = "r";
-      retry.onclick = start;
+      retry.onclick = () => start(nextOnly && nextOnly.length ? nextOnly : null);
       app.appendChild(retry);
     } else {
       const wrong = res.filter((r) => !r.ok);
@@ -993,6 +1026,7 @@ async function play() {
         });
       }
       sessionStorage.removeItem(key);
+      sessionStorage.removeItem(key + ":only");
       const again = el("p", "crumb");
       const back = qs.get("b") && qs.get("u") ? `unit.html?b=${qs.get("b")}&u=${qs.get("u")}` : "index.html";
       again.innerHTML = `<a href="${back}">← 목록으로</a>`;
@@ -1000,7 +1034,8 @@ async function play() {
     }
     scrollTo(0, 0);
   };
-  start();
+  const pending = readRetry();
+  start(pending && pending.length ? pending : null);
 }
 
 ({ index, book, unit, play })[document.body.dataset.page]().catch((e) => { app.textContent = "Error: " + e.message; });

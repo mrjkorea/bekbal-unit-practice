@@ -48,6 +48,19 @@ Question:
 """
 
 
+BATCH_INSTRUCTION = """You are checking Korean middle-school English test items.
+For each numbered item below, read the question and its options and answer it as
+a careful teacher would, by English grammar, not by guessing what a book says.
+
+Reply with one line per item, in the order given, nothing else:
+<item id>|<option number>|<reason of at most 10 words>
+
+If an item cannot be answered from what is given, put 0 as the option number.
+Never skip an item and never answer two items on one line.
+
+"""
+
+
 def ask(prompt, tries=2):
     for attempt in range(tries):
         with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as pf:
@@ -75,6 +88,29 @@ def ask(prompt, tries=2):
     return -1, "no parseable answer"
 
 
+def ask_raw(prompt, tries=2):
+    for attempt in range(tries):
+        with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as pf:
+            pf.write(prompt)
+            pfile = pf.name
+        ofile = pfile + ".out"
+        try:
+            subprocess.run([sys.executable, GROK, "-f", pfile, "-o", ofile],
+                           check=True, timeout=300, capture_output=True)
+            text = open(ofile, encoding="utf-8").read()
+        except Exception:
+            text = ""
+        finally:
+            for p in (pfile, ofile):
+                try:
+                    os.unlink(p)
+                except OSError:
+                    pass
+        if text.strip():
+            return text
+    return ""
+
+
 def items(all_choice):
     out = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data", "*", "*", "exercises", "*.json"))):
@@ -99,6 +135,26 @@ def items(all_choice):
     return out
 
 
+def batch(its):
+    lines = [BATCH_INSTRUCTION]
+    for k, it in enumerate(its, 1):
+        lines.append("ITEM %d (id=%d)" % (k, k))
+        lines.append(it["stem"].strip())
+        for n, c in enumerate(it["choices"], 1):
+            lines.append("  %d. %s" % (n, str(c)))
+        lines.append("")
+    reply = ask_raw("\n".join(lines))
+    for k, it in enumerate(its, 1):
+        m = re.search(r"^\s*%d\s*\|\s*(\d{1,2})\s*\|\s*(.*)$" % k, reply, re.M)
+        if m:
+            it["says"] = int(m.group(1))
+            it["why"] = m.group(2).strip()[:90]
+        else:
+            it["says"] = -1
+            it["why"] = "no line for this item"
+    return its
+
+
 def one(it):
     lines = [INSTRUCTION, it["stem"].strip(), "", "Options:"]
     for n, c in enumerate(it["choices"], 1):
@@ -117,6 +173,7 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--jobs", type=int, default=6)
     ap.add_argument("--out", default="/tmp/solve-check.json")
+    ap.add_argument("--batch", type=int, default=5)
     a = ap.parse_args()
 
     work = items(a.all_choice)
@@ -124,12 +181,13 @@ def main():
         work = work[:a.limit]
     print("items to answer: %d" % len(work), flush=True)
 
+    batches = [work[i:i + a.batch] for i in range(0, len(work), a.batch)]
     done = []
     with ThreadPoolExecutor(max_workers=a.jobs) as pool:
-        for i, it in enumerate(pool.map(one, work), 1):
-            done.append(it)
-            if i % 25 == 0:
-                print("  answered %d/%d" % (i, len(work)), flush=True)
+        for got in pool.map(batch, batches):
+            done.extend(got)
+            if len(done) % 50 < a.batch:
+                print("  answered %d/%d" % (len(done), len(work)), flush=True)
 
     agree = [it for it in done if it["says"] == it["key"]]
     disagree = [it for it in done if it["says"] not in (it["key"], 0, -1)]
