@@ -523,7 +523,7 @@
    "sectionTitle": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "16-wrong",
-   "label": "20-틀린 말",
+   "label": "20 (1)",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -545,7 +545,7 @@
    "sectionTitle": "Section Q · 윗글의 밑줄 친 ⓐ에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "16-fix",
-   "label": "20-고친 말",
+   "label": "20 (2)",
    "type": "fill",
    "answerMode": "words",
    "accept": [

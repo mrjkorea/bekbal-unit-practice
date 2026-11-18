@@ -9,7 +9,7 @@
  "questions": [
   {
    "id": "sA-01",
-   "label": "01–05",
+   "label": "A-01–05",
    "sourceId": 1,
    "section": "sA",
    "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
@@ -63,7 +63,7 @@
   },
   {
    "id": "sA-06",
-   "label": "06–10",
+   "label": "A-06–10",
    "sourceId": 6,
    "section": "sA",
    "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
@@ -117,7 +117,7 @@
   },
   {
    "id": "sA-11",
-   "label": "11–15",
+   "label": "A-11–15",
    "sourceId": 11,
    "section": "sA",
    "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
@@ -171,7 +171,7 @@
   },
   {
    "id": "sA-16",
-   "label": "16–20",
+   "label": "A-16–20",
    "sourceId": 16,
    "section": "sA",
    "sectionTitle": "Section A · A 다음 영어를 우리말로 쓰시오.",
@@ -225,7 +225,7 @@
   },
   {
    "id": "sB-01",
-   "label": "01–05",
+   "label": "B-01–05",
    "sourceId": 1,
    "section": "sB",
    "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
@@ -279,7 +279,7 @@
   },
   {
    "id": "sB-06",
-   "label": "06–10",
+   "label": "B-06–10",
    "sourceId": 6,
    "section": "sB",
    "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
@@ -333,7 +333,7 @@
   },
   {
    "id": "sB-11",
-   "label": "11–15",
+   "label": "B-11–15",
    "sourceId": 11,
    "section": "sB",
    "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
@@ -387,7 +387,7 @@
   },
   {
    "id": "sB-16",
-   "label": "16–20",
+   "label": "B-16–20",
    "sourceId": 16,
    "section": "sB",
    "sectionTitle": "Section B · B 다음 우리말을 영어로 쓰시오.",
@@ -441,7 +441,7 @@
   },
   {
    "id": "sC-01",
-   "label": "01–05",
+   "label": "C-01–05",
    "sourceId": 1,
    "section": "sC",
    "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
@@ -495,7 +495,7 @@
   },
   {
    "id": "sC-06",
-   "label": "06–10",
+   "label": "C-06–10",
    "sourceId": 6,
    "section": "sC",
    "sectionTitle": "Section C · C 다음 영어 표현을 우리말로 쓰시오.",
@@ -549,7 +549,7 @@
   },
   {
    "id": "sD-01",
-   "label": "01–05",
+   "label": "D-01–05",
    "sourceId": 1,
    "section": "sD",
    "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
@@ -603,7 +603,7 @@
   },
   {
    "id": "sD-06",
-   "label": "06–10",
+   "label": "D-06–10",
    "sourceId": 6,
    "section": "sD",
    "sectionTitle": "Section D · D 다음 우리말 표현을 영어로 쓰시오.",
@@ -657,7 +657,7 @@
   },
   {
    "id": "E-01",
-   "label": "01",
+   "label": "E-01",
    "sourceId": 1,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -692,7 +692,7 @@
   },
   {
    "id": "E-02",
-   "label": "02",
+   "label": "E-02",
    "sourceId": 2,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -727,7 +727,7 @@
   },
   {
    "id": "E-03",
-   "label": "03",
+   "label": "E-03",
    "sourceId": 3,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -762,7 +762,7 @@
   },
   {
    "id": "E-04",
-   "label": "04",
+   "label": "E-04",
    "sourceId": 4,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -797,7 +797,7 @@
   },
   {
    "id": "E-05",
-   "label": "05",
+   "label": "E-05",
    "sourceId": 5,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -832,7 +832,7 @@
   },
   {
    "id": "E-06",
-   "label": "06",
+   "label": "E-06",
    "sourceId": 6,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -867,7 +867,7 @@
   },
   {
    "id": "E-07",
-   "label": "07",
+   "label": "E-07",
    "sourceId": 7,
    "section": "sE",
    "sectionTitle": "Section E · E 다음 문장의 빈칸에 들어갈 적절한 단어를 보기에서 골라 쓰시오.",
@@ -902,7 +902,7 @@
   },
   {
    "id": "F-01",
-   "label": "01",
+   "label": "F-01",
    "sourceId": 1,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -925,7 +925,7 @@
   },
   {
    "id": "F-02",
-   "label": "02",
+   "label": "F-02",
    "sourceId": 2,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -948,7 +948,7 @@
   },
   {
    "id": "F-03",
-   "label": "03",
+   "label": "F-03",
    "sourceId": 3,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -971,7 +971,7 @@
   },
   {
    "id": "F-04",
-   "label": "04",
+   "label": "F-04",
    "sourceId": 4,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -994,7 +994,7 @@
   },
   {
    "id": "F-05",
-   "label": "05",
+   "label": "F-05",
    "sourceId": 5,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1017,7 +1017,7 @@
   },
   {
    "id": "F-06",
-   "label": "06",
+   "label": "F-06",
    "sourceId": 6,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1040,7 +1040,7 @@
   },
   {
    "id": "F-07",
-   "label": "07",
+   "label": "F-07",
    "sourceId": 7,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1063,7 +1063,7 @@
   },
   {
    "id": "F-08",
-   "label": "08",
+   "label": "F-08",
    "sourceId": 8,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1086,7 +1086,7 @@
   },
   {
    "id": "F-09",
-   "label": "09",
+   "label": "F-09",
    "sourceId": 9,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1109,7 +1109,7 @@
   },
   {
    "id": "F-10",
-   "label": "10",
+   "label": "F-10",
    "sourceId": 10,
    "section": "sF",
    "sectionTitle": "Section F · F 다음 영영풀이에 해당하는 단어를 쓰시오.",
@@ -1132,7 +1132,7 @@
   },
   {
    "id": "PA-01",
-   "label": "01",
+   "label": "G-01",
    "sourceId": 1,
    "section": "sPA",
    "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
@@ -1155,7 +1155,7 @@
   },
   {
    "id": "PA-02",
-   "label": "02",
+   "label": "G-02",
    "sourceId": 2,
    "section": "sPA",
    "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
@@ -1178,7 +1178,7 @@
   },
   {
    "id": "PA-03",
-   "label": "03",
+   "label": "G-03",
    "sourceId": 3,
    "section": "sPA",
    "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
@@ -1208,7 +1208,7 @@
    "answerMode": "words",
    "answerModeTag": "Type · 빈칸 말만",
    "id": "PA-04",
-   "label": "04",
+   "label": "G-04",
    "sourceId": 4,
    "explainKo": "정답: correct 또는 right. repair : fix는 유의어이고, accurate의 유의어로 본책 p.183에 correct = right가 있다. X-10 답지는 이 스캔에 없어서 correct와 right를 모두 받는다.",
    "type": "fill",
@@ -1222,7 +1222,7 @@
   },
   {
    "id": "PA-05",
-   "label": "05",
+   "label": "G-05",
    "sourceId": 5,
    "section": "sPA",
    "sectionTitle": "Section G · Words Plus+ A 두 단어의 관계가 같도록 빈칸에 알맞은 단어를 쓰시오.",
@@ -1245,7 +1245,7 @@
   },
   {
    "id": "PB-01",
-   "label": "01",
+   "label": "H-01",
    "sourceId": 1,
    "section": "sPB",
    "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
@@ -1268,7 +1268,7 @@
   },
   {
    "id": "PB-02",
-   "label": "02",
+   "label": "H-02",
    "sourceId": 2,
    "section": "sPB",
    "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
@@ -1298,7 +1298,7 @@
    "answerMode": "words",
    "answerModeTag": "Type · 빈칸 말만",
    "id": "PB-03",
-   "label": "03",
+   "label": "H-03",
    "sourceId": 3,
    "explainKo": "정답: give, offer 또는 supply. provide의 유의어로 본책 p.183에 give, offer, supply가 함께 있다. X-10 답지는 이 스캔에 없어서 셋을 모두 받는다.",
    "type": "fill",
@@ -1313,7 +1313,7 @@
   },
   {
    "id": "PB-04",
-   "label": "04",
+   "label": "H-04",
    "sourceId": 4,
    "section": "sPB",
    "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",
@@ -1336,7 +1336,7 @@
   },
   {
    "id": "PB-05",
-   "label": "05",
+   "label": "H-05",
    "sourceId": 5,
    "section": "sPB",
    "sectionTitle": "Section H · Words Plus+ B 주어진 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.",

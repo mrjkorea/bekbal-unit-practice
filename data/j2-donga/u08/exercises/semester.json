@@ -505,7 +505,7 @@
    "sectionTitle": "Section P · 표시된 빈칸 하나만 쓰기",
    "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "17-ca",
-   "label": "19-ⓐ",
+   "label": "19 (1)",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -528,7 +528,7 @@
    "sectionTitle": "Section P · 표시된 빈칸 하나만 쓰기",
    "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 두 단어 이상인 칸도 그 칸의 말만 쓰세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "17-cb",
-   "label": "19-ⓑ",
+   "label": "19 (2)",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -680,7 +680,7 @@
    "sectionTitle": "Section U · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "23-pick",
-   "label": "25-번호",
+   "label": "25 (1)",
    "type": "mc",
    "answerMode": "choice",
    "select": "one",
@@ -709,7 +709,7 @@
    "sectionTitle": "Section U · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "23-fix",
-   "label": "25-고친",
+   "label": "25 (2)",
    "type": "fill",
    "answerMode": "words",
    "accept": [

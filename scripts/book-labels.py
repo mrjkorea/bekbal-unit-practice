@@ -155,9 +155,16 @@ def main():
     files = sorted(glob.glob(PATTERN, recursive=True))
     if only:
         files = [f for f in files if any(o in f.replace(os.sep, "/") for o in only)]
+    locked = []
     for path in files:
         raw = open(path, encoding="utf-8").read()
         data = json.loads(raw)
+        # a practice whose labels were read off the page by hand and cannot be
+        # derived from the file (two card groups share one printed letter, one
+        # printed item gives two answers) says so and is left alone.
+        if data.get("labelsLocked"):
+            locked.append((os.path.relpath(path, ROOT), data.get("labelsLocked")))
+            continue
         plan = plan_practice(data.get("questions") or [])
         if not plan:
             continue
@@ -187,6 +194,10 @@ def main():
         out = json.dumps(data, ensure_ascii=False, indent=indent)
         open(path, "w", encoding="utf-8").write(out + ("\n" if raw.endswith("\n") else ""))
     print("labels changed: %d cards in %d practices" % (changed_cards, changed_practices))
+    if locked:
+        print("locked (labels read off the page, left as they are): %d practices" % len(locked))
+        for rel, why in locked:
+            print("  %-58s %s" % (rel, why))
     for rel, n, dup, head, tail in sample:
         print("  %-58s %3d cards | dup left %d | %s ... %s" % (rel, n, dup, head, tail))
     if not write:

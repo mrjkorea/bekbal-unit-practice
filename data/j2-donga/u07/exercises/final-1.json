@@ -86,7 +86,7 @@
    "sectionTitle": "Section C · 다음 빈칸에 들어갈 적절한 말을 보기에서 골라 쓰시오.",
    "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
    "answerModeTag": "Choose · 보기에서 고르기",
-   "label": "3-1"
+   "label": "03 (1)"
   },
   {
    "sourceId": 3,
@@ -113,7 +113,7 @@
    "sectionTitle": "Section C · 다음 빈칸에 들어갈 적절한 말을 보기에서 골라 쓰시오.",
    "sectionInstructionKo": "다음 빈칸에 들어갈 적절한 말을 보기에서 골라 쓰시오. 보기에서 이 빈칸에 들어갈 말을 하나 누르세요. 쉼표로 이어서 쓰지 않아요.",
    "answerModeTag": "Choose · 보기에서 고르기",
-   "label": "3-2"
+   "label": "03 (2)"
   },
   {
    "sourceId": 4,
@@ -404,7 +404,7 @@
    "sectionTitle": "Section L · 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장…",
    "sectionInstructionKo": "다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
    "answerModeTag": "Choose · 기호 + 고친 문장",
-   "label": "12-1"
+   "label": "12 (1)"
   },
   {
    "sourceId": 12,
@@ -446,7 +446,7 @@
    "sectionTitle": "Section L · 다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장…",
    "sectionInstructionKo": "다음 중 어법상 틀린 문장을 두 개 찾아 기호를 쓰고, 바르게 고쳐 문장을 다시 쓰시오. 틀린 문장의 기호를 누르고, 그 문장을 고친 문장 전체를 쓰세요.",
    "answerModeTag": "Choose · 기호 + 고친 문장",
-   "label": "12-2"
+   "label": "12 (2)"
   },
   {
    "sourceId": 13,
@@ -541,7 +541,7 @@
    "sectionTitle": "Section P · 윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오.",
    "sectionInstructionKo": "윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
    "answerModeTag": "Type · 빈칸 말만",
-   "label": "16-1"
+   "label": "16 (1)"
   },
   {
    "sourceId": 16,
@@ -563,7 +563,7 @@
    "sectionTitle": "Section P · 윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오.",
    "sectionInstructionKo": "윗글의 내용과 일치하도록 대화의 빈칸에 들어갈 알맞은 말을 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 두 단어 이상이어도 문장 전체는 쓰지 않아요.",
    "answerModeTag": "Type · 빈칸 말만",
-   "label": "16-2"
+   "label": "16 (2)"
   },
   {
    "sourceId": 17,
@@ -720,7 +720,7 @@
    "sectionTitle": "Section T · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
    "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
    "answerModeTag": "Type · 빈칸 말만",
-   "label": "22-1"
+   "label": "22 (1)"
   },
   {
    "sourceId": 22,
@@ -742,7 +742,7 @@
    "sectionTitle": "Section T · 윗글을 읽고, 다음 질문에 대한 답을 완성하시오.",
    "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 완성하시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
    "answerModeTag": "Type · 빈칸 말만",
-   "label": "22-2"
+   "label": "22 (2)"
   },
   {
    "sourceId": 23,
@@ -752,7 +752,7 @@
    "sectionTitle": "Section U · 표시된 빈칸 하나만 쓰기",
    "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "23-ca",
-   "label": "23-ⓐ",
+   "label": "23 (1)",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -775,7 +775,7 @@
    "sectionTitle": "Section U · 표시된 빈칸 하나만 쓰기",
    "sectionInstructionKo": "각 카드에 표시된 빈칸 하나만 쓰시오. 다른 번호는 지금 쓰지 않아요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "23-cb",
-   "label": "23-ⓑ",
+   "label": "23 (2)",
    "type": "fill",
    "answerMode": "words",
    "accept": [

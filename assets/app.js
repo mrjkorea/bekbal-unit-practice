@@ -938,11 +938,24 @@ async function play() {
            must not show the answers yet. Numbers only, so the next try is still
            a real try; answers and explanations come after the last attempt. */
         const wrongNow = res.filter((r) => !r.ok);
+        /* Jay 2026-11-18: the numbers in this list are the book's numbers, so they
+           read in book order: ① pass first, then the page letter, then the item. */
+        const labelKey = (s) => {
+          const m = String(s).match(/^\s*([\u2460-\u2465])?([A-H])?-(\d{1,3})([a-z])?/);
+          if (!m) {
+            const n = parseInt(s, 10);
+            return [isNaN(n) ? 99 : 0, "", isNaN(n) ? 9999 : n, String(s)];
+          }
+          return [m[1] ? "\u2460\u2461\u2462\u2463\u2464\u2465".indexOf(m[1]) : -1,
+                  m[2] || "", parseInt(m[3], 10), m[4] || ""];
+        };
         const nums = wrongNow.map((r) => r.q.label || r.q.id || "").filter(Boolean)
           .sort((a, b) => {
-            const na = parseInt(a, 10), nb = parseInt(b, 10);
-            if (!isNaN(na) && !isNaN(nb) && na !== nb) return na - nb;
-            return String(a).localeCompare(String(b));
+            const ka = labelKey(a), kb = labelKey(b);
+            for (let i = 0; i < 3; i += 1) {
+              if (ka[i] !== kb[i]) return ka[i] < kb[i] ? -1 : 1;
+            }
+            return String(ka[3]).localeCompare(String(kb[3]));
           });
         const line = el("p", "wrong-list");
         line.appendChild(el("b", null, "틀린 문제 번호: "));

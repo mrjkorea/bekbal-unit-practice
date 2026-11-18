@@ -145,7 +145,7 @@
    "sectionTitle": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "6-wrong",
-   "label": "6-틀린 말",
+   "label": "06 (1)",
    "type": "fill",
    "answerMode": "words",
    "accept": [
@@ -169,7 +169,7 @@
    "sectionTitle": "Section F · 다음 대화 내용과 일치하지 않는 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
    "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
    "id": "6-fix",
-   "label": "6-고친 말",
+   "label": "06 (2)",
    "type": "fill",
    "answerMode": "words",
    "accept": [

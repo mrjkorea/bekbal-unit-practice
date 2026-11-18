@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "1",
-      "label": "1",
+      "label": "A-01",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -33,7 +33,7 @@
     },
     {
       "id": "2",
-      "label": "2",
+      "label": "A-02",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -57,7 +57,7 @@
     },
     {
       "id": "3",
-      "label": "3",
+      "label": "A-03",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -81,7 +81,7 @@
     },
     {
       "id": "4",
-      "label": "4",
+      "label": "A-04",
       "sourceId": 4,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -105,7 +105,7 @@
     },
     {
       "id": "5",
-      "label": "5",
+      "label": "A-05",
       "sourceId": 5,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -129,7 +129,7 @@
     },
     {
       "id": "6",
-      "label": "6",
+      "label": "A-06",
       "sourceId": 6,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -153,7 +153,7 @@
     },
     {
       "id": "7",
-      "label": "7",
+      "label": "A-07",
       "sourceId": 7,
       "section": "s1",
       "sectionTitle": "Section A · T/F",
@@ -177,7 +177,7 @@
     },
     {
       "id": "8",
-      "label": "B1",
+      "label": "B-01",
       "sourceId": "B1",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -197,7 +197,7 @@
     },
     {
       "id": "9",
-      "label": "B2",
+      "label": "B-02",
       "sourceId": "B2",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -214,7 +214,7 @@
     },
     {
       "id": "10",
-      "label": "B3",
+      "label": "B-03",
       "sourceId": "B3",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -234,7 +234,7 @@
     },
     {
       "id": "11",
-      "label": "B4",
+      "label": "B-04",
       "sourceId": "B4",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -251,7 +251,7 @@
     },
     {
       "id": "12",
-      "label": "B5",
+      "label": "B-05",
       "sourceId": "B5",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -271,7 +271,7 @@
     },
     {
       "id": "13",
-      "label": "B6",
+      "label": "B-06",
       "sourceId": "B6",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -288,7 +288,7 @@
     },
     {
       "id": "14",
-      "label": "B7",
+      "label": "B-07",
       "sourceId": "B7",
       "section": "s2",
       "sectionTitle": "Section B · O/X",
@@ -305,7 +305,7 @@
     },
     {
       "id": "15",
-      "label": "C1",
+      "label": "C-01",
       "sourceId": "C1",
       "section": "s3",
       "sectionTitle": "Section C · 형태",
@@ -324,7 +324,7 @@
     },
     {
       "id": "16",
-      "label": "C2",
+      "label": "C-02",
       "sourceId": "C2",
       "section": "s3",
       "sectionTitle": "Section C · 형태",
@@ -343,7 +343,7 @@
     },
     {
       "id": "17",
-      "label": "C3",
+      "label": "C-03",
       "sourceId": "C3",
       "section": "s3",
       "sectionTitle": "Section C · 형태",
@@ -362,7 +362,7 @@
     },
     {
       "id": "18",
-      "label": "C4",
+      "label": "C-04",
       "sourceId": "C4",
       "section": "s3",
       "sectionTitle": "Section C · 형태",
@@ -381,7 +381,7 @@
     },
     {
       "id": "19",
-      "label": "C5",
+      "label": "C-05",
       "sourceId": "C5",
       "section": "s3",
       "sectionTitle": "Section C · 형태",
@@ -400,7 +400,7 @@
     },
     {
       "id": "20",
-      "label": "D1",
+      "label": "D-01",
       "sourceId": "D1",
       "section": "s4",
       "sectionTitle": "Section D · 고친 문장",
@@ -419,7 +419,7 @@
     },
     {
       "id": "21",
-      "label": "D2",
+      "label": "D-02",
       "sourceId": "D2",
       "section": "s4",
       "sectionTitle": "Section D · 고친 문장",
@@ -438,7 +438,7 @@
     },
     {
       "id": "22",
-      "label": "D3",
+      "label": "D-03",
       "sourceId": "D3",
       "section": "s4",
       "sectionTitle": "Section D · 고친 문장",
@@ -457,7 +457,7 @@
     },
     {
       "id": "23",
-      "label": "D4",
+      "label": "D-04",
       "sourceId": "D4",
       "section": "s4",
       "sectionTitle": "Section D · 고친 문장",
@@ -476,7 +476,7 @@
     },
     {
       "id": "24",
-      "label": "D5",
+      "label": "D-05",
       "sourceId": "D5",
       "section": "s4",
       "sectionTitle": "Section D · 고친 문장",
@@ -537,5 +537,6 @@
       "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
       "itemCount": 5
     }
-  ]
+  ],
+  "labelsLocked": "printed page pp.56-57: A, B, C, D each restart at 01"
 }

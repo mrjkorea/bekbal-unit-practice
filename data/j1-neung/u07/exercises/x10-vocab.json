@@ -9,7 +9,7 @@
  "questions": [
   {
    "id": "s1-b1",
-   "label": "1–5",
+   "label": "A-01–05",
    "sourceId": 1,
    "section": "s1",
    "sectionTitle": "Section A · 영어↔우리말",
@@ -62,7 +62,7 @@
   },
   {
    "id": "s1-b2",
-   "label": "6–10",
+   "label": "A-06–10",
    "sourceId": 6,
    "section": "s1",
    "sectionTitle": "Section A · 영어↔우리말",
@@ -115,7 +115,7 @@
   },
   {
    "id": "s1-b3",
-   "label": "11–15",
+   "label": "A-11–15",
    "sourceId": 11,
    "section": "s1",
    "sectionTitle": "Section A · 영어↔우리말",
@@ -168,7 +168,7 @@
   },
   {
    "id": "s1-b4",
-   "label": "16–20",
+   "label": "A-16–20",
    "sourceId": 16,
    "section": "s1",
    "sectionTitle": "Section A · 영어↔우리말",
@@ -221,7 +221,7 @@
   },
   {
    "id": "s2-b1",
-   "label": "1–5",
+   "label": "B-01–05",
    "sourceId": 1,
    "section": "s2",
    "sectionTitle": "Section B · 우리말↔영어",
@@ -274,7 +274,7 @@
   },
   {
    "id": "s2-b2",
-   "label": "6–10",
+   "label": "B-06–10",
    "sourceId": 6,
    "section": "s2",
    "sectionTitle": "Section B · 우리말↔영어",
@@ -327,7 +327,7 @@
   },
   {
    "id": "s2-b3",
-   "label": "11–15",
+   "label": "B-11–15",
    "sourceId": 11,
    "section": "s2",
    "sectionTitle": "Section B · 우리말↔영어",
@@ -380,7 +380,7 @@
   },
   {
    "id": "s2-b4",
-   "label": "16–20",
+   "label": "B-16–20",
    "sourceId": 16,
    "section": "s2",
    "sectionTitle": "Section B · 우리말↔영어",
@@ -433,7 +433,7 @@
   },
   {
    "id": "s3-b1",
-   "label": "1–5",
+   "label": "C-01–05",
    "sourceId": 1,
    "section": "s3",
    "sectionTitle": "Section C · 표현",
@@ -486,7 +486,7 @@
   },
   {
    "id": "s3-b2",
-   "label": "6–10",
+   "label": "C-06–10",
    "sourceId": 6,
    "section": "s3",
    "sectionTitle": "Section C · 표현",
@@ -539,7 +539,7 @@
   },
   {
    "id": "s4-b1",
-   "label": "1–5",
+   "label": "D-01–05",
    "sourceId": 1,
    "section": "s4",
    "sectionTitle": "Section D · 표현",
@@ -592,7 +592,7 @@
   },
   {
    "id": "s4-b2",
-   "label": "6–9",
+   "label": "D-06–09",
    "sourceId": 6,
    "section": "s4",
    "sectionTitle": "Section D · 표현",

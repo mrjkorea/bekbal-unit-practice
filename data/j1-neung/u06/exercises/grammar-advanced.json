@@ -303,7 +303,7 @@
   },
   {
    "id": "ga-12-1b",
-   "label": "12-1-fix",
+   "label": "12 (1)",
    "sourceId": "12-1-fix",
    "group": "12",
    "section": "h10",
@@ -325,7 +325,7 @@
   },
   {
    "id": "ga-12-1a",
-   "label": "12-1-wrong",
+   "label": "12 (2)",
    "sourceId": "12-1-wrong",
    "group": "12",
    "section": "h10",
@@ -347,7 +347,7 @@
   },
   {
    "id": "ga-12-2b",
-   "label": "12-2-fix",
+   "label": "12 (3)",
    "sourceId": "12-2-fix",
    "group": "12",
    "section": "h10",
@@ -369,7 +369,7 @@
   },
   {
    "id": "ga-12-2a",
-   "label": "12-2-wrong",
+   "label": "12 (4)",
    "sourceId": "12-2-wrong",
    "group": "12",
    "section": "h10",
@@ -419,7 +419,7 @@
   },
   {
    "id": "ga-14-1",
-   "label": "14-1",
+   "label": "14 (1)",
    "sourceId": "14-1",
    "group": "14",
    "section": "h11",
@@ -441,7 +441,7 @@
   },
   {
    "id": "ga-14-2",
-   "label": "14-2",
+   "label": "14 (2)",
    "sourceId": "14-2",
    "group": "14",
    "section": "h11",
@@ -463,7 +463,7 @@
   },
   {
    "id": "ga-14-3",
-   "label": "14-3",
+   "label": "14 (3)",
    "sourceId": "14-3",
    "group": "14",
    "section": "h11",

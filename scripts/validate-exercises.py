@@ -177,12 +177,59 @@ def check_word_count(q):
     return [f"word count: prompt says {need} words, accepted answers have {got}"]
 
 
+def check_label_shape(q):
+    """Jay 2026-11-17: the number a student sees has to be the book's number.
+    A label must be there, must be unique inside its practice (checked in
+    main), and its letter must be the letter its own section prints."""
+    label = str(q.get("label") or "").strip()
+    if not label:
+        return ["no label, so the student cannot find the item in the book"]
+    m = re.match(r"\s*([\u2460-\u2465])?([A-H])-(\d{1,3})", label)
+    if not m:
+        return []
+    title = str(q.get("sectionTitle") or "")
+    tm = re.match(r"\s*Section\s+([A-H])\b", title)
+    if tm and tm.group(1) != m.group(2):
+        return ["label letter %s is not the letter the section prints (%s)"
+                % (m.group(2), tm.group(1))]
+    return []
+
+
+def check_practice(d):
+    """file-level label problems: (question, message) list"""
+    questions = d.get("questions") or []
+    sections = d.get("sections") or []
+    out = []
+    sec_ids = {s.get("id") for s in sections} if sections else None
+    seen = {}
+    for q in questions:
+        label = str(q.get("label") or "").strip()
+        if label:
+            seen.setdefault(label, []).append(q)
+        for msg in check_label_shape(q):
+            out.append((q, msg))
+        if sec_ids is not None and q.get("section") not in sec_ids:
+            out.append((q, "card sits in section %r, which the practice does not declare"
+                        % q.get("section")))
+    for label, cards in seen.items():
+        if len(cards) < 2:
+            continue
+        for q in cards:
+            out.append((q, "label %s is used by %d cards in this practice, so the "
+                        "student cannot tell them apart" % (label, len(cards))))
+    return out
+
+
 def main():
     as_json = "--json" in sys.argv
     bad = []
     total = 0
     for f in sorted(glob.glob(PATTERN)):
         d = json.load(open(f, encoding="utf-8"))
+        rel = os.path.relpath(f, ROOT)
+        for q, msg in check_practice(d):
+            bad.append({"file": rel, "id": q.get("id"), "label": q.get("label"),
+                        "problems": [msg], "prompt": (q.get("promptEn") or "")[-200:]})
         for q in d.get("questions") or []:
             total += 1
             probs = check_item(q)

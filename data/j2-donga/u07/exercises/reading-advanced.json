@@ -101,7 +101,7 @@
       "sectionTitle": "Section D · 윗글의 밑줄 친 (c)에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "4-wrong",
-      "label": "4-틀린 말",
+      "label": "04 (1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -123,7 +123,7 @@
       "sectionTitle": "Section D · 윗글의 밑줄 친 (c)에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "4-fix",
-      "label": "4-고친 말",
+      "label": "04 (2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -266,7 +266,7 @@
       "sectionTitle": "Section J · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "10-b",
-      "label": "10-(b)",
+      "label": "10 (1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -288,7 +288,7 @@
       "sectionTitle": "Section J · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "10-cc",
-      "label": "10-ⓒ",
+      "label": "10 (2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -621,7 +621,7 @@
       "sectionTitle": "Section W · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-1-wrong",
-      "label": "23-틀린 말",
+      "label": "23 (1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -644,7 +644,7 @@
       "sectionTitle": "Section W · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-1-fix",
-      "label": "23-고친 말",
+      "label": "23 (2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -667,7 +667,7 @@
       "sectionTitle": "Section W · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-2-wrong",
-      "label": "24-틀린 말",
+      "label": "24 (1)",
       "type": "fill",
       "answerMode": "words",
       "accept": [
@@ -690,7 +690,7 @@
       "sectionTitle": "Section W · 한 칸씩",
       "sectionInstructionKo": "카드마다 한 가지만 하세요. 카드에 적힌 것만 하세요. 고르기는 누르고, 쓰기는 그 칸의 말만 쓰세요.",
       "id": "23-2-fix",
-      "label": "24-고친 말",
+      "label": "24 (2)",
       "type": "fill",
       "answerMode": "words",
       "accept": [

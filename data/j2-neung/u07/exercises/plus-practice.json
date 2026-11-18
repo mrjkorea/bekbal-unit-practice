@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "1",
-      "label": "1",
+      "label": "①A-01",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -33,7 +33,7 @@
     },
     {
       "id": "2",
-      "label": "2",
+      "label": "①A-02",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -57,7 +57,7 @@
     },
     {
       "id": "3",
-      "label": "3",
+      "label": "①A-03",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · Plus 기타 지문",
@@ -81,7 +81,7 @@
     },
     {
       "id": "4",
-      "label": "1",
+      "label": "②A-01",
       "sourceId": 1,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -108,7 +108,7 @@
     },
     {
       "id": "5",
-      "label": "2",
+      "label": "②A-02",
       "sourceId": 2,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -135,7 +135,7 @@
     },
     {
       "id": "6",
-      "label": "3",
+      "label": "②A-03",
       "sourceId": 3,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -155,7 +155,7 @@
     },
     {
       "id": "7",
-      "label": "4",
+      "label": "②A-04",
       "sourceId": 4,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -182,7 +182,7 @@
     },
     {
       "id": "8",
-      "label": "5",
+      "label": "②A-05",
       "sourceId": 5,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -202,7 +202,7 @@
     },
     {
       "id": "9",
-      "label": "6",
+      "label": "②A-06",
       "sourceId": 6,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",
@@ -229,7 +229,7 @@
     },
     {
       "id": "10",
-      "label": "7",
+      "label": "②A-07",
       "sourceId": 7,
       "section": "s2",
       "sectionTitle": "Section A · Plus 기타 지문 실전 문제",

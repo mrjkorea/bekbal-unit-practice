@@ -9,7 +9,7 @@
  "questions": [
   {
    "id": "s1-b1",
-   "label": "1–5",
+   "label": "A-01–05",
    "sourceId": 1,
    "section": "s1",
    "sectionTitle": "Section A · 영어→우리말",
@@ -63,7 +63,7 @@
   },
   {
    "id": "s1-b2",
-   "label": "6–10",
+   "label": "A-06–10",
    "sourceId": 6,
    "section": "s1",
    "sectionTitle": "Section A · 영어→우리말",
@@ -117,7 +117,7 @@
   },
   {
    "id": "s1-b3",
-   "label": "11–15",
+   "label": "A-11–15",
    "sourceId": 11,
    "section": "s1",
    "sectionTitle": "Section A · 영어→우리말",
@@ -171,7 +171,7 @@
   },
   {
    "id": "s1-b4",
-   "label": "16–20",
+   "label": "A-16–20",
    "sourceId": 16,
    "section": "s1",
    "sectionTitle": "Section A · 영어→우리말",
@@ -225,7 +225,7 @@
   },
   {
    "id": "s2-b1",
-   "label": "1–5",
+   "label": "B-01–05",
    "sourceId": 1,
    "section": "s2",
    "sectionTitle": "Section B · 우리말→영어",
@@ -279,7 +279,7 @@
   },
   {
    "id": "s2-b2",
-   "label": "6–10",
+   "label": "B-06–10",
    "sourceId": 6,
    "section": "s2",
    "sectionTitle": "Section B · 우리말→영어",
@@ -333,7 +333,7 @@
   },
   {
    "id": "s2-b3",
-   "label": "11–15",
+   "label": "B-11–15",
    "sourceId": 11,
    "section": "s2",
    "sectionTitle": "Section B · 우리말→영어",
@@ -387,7 +387,7 @@
   },
   {
    "id": "s2-b4",
-   "label": "16–20",
+   "label": "B-16–20",
    "sourceId": 16,
    "section": "s2",
    "sectionTitle": "Section B · 우리말→영어",
@@ -441,7 +441,7 @@
   },
   {
    "id": "s3-b1",
-   "label": "1–5",
+   "label": "C-01–05",
    "sourceId": 1,
    "section": "s3",
    "sectionTitle": "Section C · 표현 영어→우리말",
@@ -495,7 +495,7 @@
   },
   {
    "id": "s3-b2",
-   "label": "6–10",
+   "label": "C-06–10",
    "sourceId": 6,
    "section": "s3",
    "sectionTitle": "Section C · 표현 영어→우리말",
@@ -549,7 +549,7 @@
   },
   {
    "id": "s4-b1",
-   "label": "1–5",
+   "label": "D-01–05",
    "sourceId": 1,
    "section": "s4",
    "sectionTitle": "Section D · 표현 우리말→영어",
@@ -603,7 +603,7 @@
   },
   {
    "id": "s4-b2",
-   "label": "6–10",
+   "label": "D-06–10",
    "sourceId": 6,
    "section": "s4",
    "sectionTitle": "Section D · 표현 우리말→영어",
@@ -657,7 +657,7 @@
   },
   {
    "id": "E-01",
-   "label": "01",
+   "label": "E-01",
    "sourceId": 1,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -680,7 +680,7 @@
   },
   {
    "id": "E-02",
-   "label": "02",
+   "label": "E-02",
    "sourceId": 2,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -703,7 +703,7 @@
   },
   {
    "id": "E-03",
-   "label": "03",
+   "label": "E-03",
    "sourceId": 3,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -726,7 +726,7 @@
   },
   {
    "id": "E-04",
-   "label": "04",
+   "label": "E-04",
    "sourceId": 4,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -749,7 +749,7 @@
   },
   {
    "id": "E-05",
-   "label": "05",
+   "label": "E-05",
    "sourceId": 5,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -772,7 +772,7 @@
   },
   {
    "id": "E-06",
-   "label": "06",
+   "label": "E-06",
    "sourceId": 6,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -795,7 +795,7 @@
   },
   {
    "id": "E-07",
-   "label": "07",
+   "label": "E-07",
    "sourceId": 7,
    "section": "s5",
    "sectionTitle": "Section E · 보기에서 고르기",
@@ -818,7 +818,7 @@
   },
   {
    "id": "F-01",
-   "label": "01",
+   "label": "F-01",
    "sourceId": 1,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -843,7 +843,7 @@
   },
   {
    "id": "F-02",
-   "label": "02",
+   "label": "F-02",
    "sourceId": 2,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -868,7 +868,7 @@
   },
   {
    "id": "F-03",
-   "label": "03",
+   "label": "F-03",
    "sourceId": 3,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -893,7 +893,7 @@
   },
   {
    "id": "F-04",
-   "label": "04",
+   "label": "F-04",
    "sourceId": 4,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -918,7 +918,7 @@
   },
   {
    "id": "F-05",
-   "label": "05",
+   "label": "F-05",
    "sourceId": 5,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -943,7 +943,7 @@
   },
   {
    "id": "F-06",
-   "label": "06",
+   "label": "F-06",
    "sourceId": 6,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -968,7 +968,7 @@
   },
   {
    "id": "F-07",
-   "label": "07",
+   "label": "F-07",
    "sourceId": 7,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -993,7 +993,7 @@
   },
   {
    "id": "F-08",
-   "label": "08",
+   "label": "F-08",
    "sourceId": 8,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -1018,7 +1018,7 @@
   },
   {
    "id": "F-09",
-   "label": "09",
+   "label": "F-09",
    "sourceId": 9,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -1043,7 +1043,7 @@
   },
   {
    "id": "F-10",
-   "label": "10",
+   "label": "F-10",
    "sourceId": 10,
    "section": "s6",
    "sectionTitle": "Section F · 영영풀이",
@@ -1068,7 +1068,7 @@
   },
   {
    "id": "PA-01",
-   "label": "01",
+   "label": "G-01",
    "sourceId": 1,
    "section": "s7",
    "sectionTitle": "Section G · Words Plus 관계",
@@ -1098,7 +1098,7 @@
    "answerMode": "words",
    "answerModeTag": "Type · 빈칸 말만",
    "id": "PA-02",
-   "label": "02",
+   "label": "G-02",
    "sourceId": 2,
    "explainKo": "정답: lock 또는 unlock. ______ : key = lend : borrow는 반의어 관계이다. 본책 p.125 함께 외우기 반의어에 lock, key, unlock이 함께 있다. X-10 답지는 이 스캔에 없어서 lock과 unlock을 모두 받는다.",
    "type": "fill",
@@ -1112,7 +1112,7 @@
   },
   {
    "id": "PA-03",
-   "label": "03",
+   "label": "G-03",
    "sourceId": 3,
    "section": "s7",
    "sectionTitle": "Section G · Words Plus 관계",
@@ -1135,7 +1135,7 @@
   },
   {
    "id": "PA-04",
-   "label": "04",
+   "label": "G-04",
    "sourceId": 4,
    "section": "s7",
    "sectionTitle": "Section G · Words Plus 관계",
@@ -1158,7 +1158,7 @@
   },
   {
    "id": "PA-05",
-   "label": "05",
+   "label": "G-05",
    "sourceId": 5,
    "section": "s7",
    "sectionTitle": "Section G · Words Plus 관계",
@@ -1181,7 +1181,7 @@
   },
   {
    "id": "PB-01",
-   "label": "01",
+   "label": "H-01",
    "sourceId": 1,
    "section": "s8",
    "sectionTitle": "Section H · Words Plus 형태",
@@ -1204,7 +1204,7 @@
   },
   {
    "id": "PB-02",
-   "label": "02",
+   "label": "H-02",
    "sourceId": 2,
    "section": "s8",
    "sectionTitle": "Section H · Words Plus 형태",
@@ -1227,7 +1227,7 @@
   },
   {
    "id": "PB-03",
-   "label": "03",
+   "label": "H-03",
    "sourceId": 3,
    "section": "s8",
    "sectionTitle": "Section H · Words Plus 형태",
@@ -1250,7 +1250,7 @@
   },
   {
    "id": "PB-04",
-   "label": "04",
+   "label": "H-04",
    "sourceId": 4,
    "section": "s8",
    "sectionTitle": "Section H · Words Plus 형태",
@@ -1273,7 +1273,7 @@
   },
   {
    "id": "PB-05",
-   "label": "05",
+   "label": "H-05",
    "sourceId": 5,
    "section": "s8",
    "sectionTitle": "Section H · Words Plus 형태",

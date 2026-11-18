@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "RC-01-1",
-      "label": "01",
+      "label": "01 (1)",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -34,7 +34,7 @@
     },
     {
       "id": "RC-01-2",
-      "label": "01",
+      "label": "01 (2)",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -58,7 +58,7 @@
     },
     {
       "id": "RC-01-3",
-      "label": "01",
+      "label": "01 (3)",
       "sourceId": 1,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -81,7 +81,7 @@
     },
     {
       "id": "RC-02-1",
-      "label": "02",
+      "label": "02 (1)",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -104,7 +104,7 @@
     },
     {
       "id": "RC-02-2",
-      "label": "02",
+      "label": "02 (2)",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -127,7 +127,7 @@
     },
     {
       "id": "RC-02-3",
-      "label": "02",
+      "label": "02 (3)",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -150,7 +150,7 @@
     },
     {
       "id": "RC-02-4",
-      "label": "02",
+      "label": "02 (4)",
       "sourceId": 2,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -173,7 +173,7 @@
     },
     {
       "id": "RC-03-1",
-      "label": "03",
+      "label": "03 (1)",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -197,7 +197,7 @@
     },
     {
       "id": "RC-03-2",
-      "label": "03",
+      "label": "03 (2)",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -220,7 +220,7 @@
     },
     {
       "id": "RC-03-3",
-      "label": "03",
+      "label": "03 (3)",
       "sourceId": 3,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -243,7 +243,7 @@
     },
     {
       "id": "RC-04-1",
-      "label": "04",
+      "label": "04 (1)",
       "sourceId": 4,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -267,7 +267,7 @@
     },
     {
       "id": "RC-04-2",
-      "label": "04",
+      "label": "04 (2)",
       "sourceId": 4,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -290,7 +290,7 @@
     },
     {
       "id": "RC-05-1",
-      "label": "05",
+      "label": "05 (1)",
       "sourceId": 5,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -314,7 +314,7 @@
     },
     {
       "id": "RC-05-2",
-      "label": "05",
+      "label": "05 (2)",
       "sourceId": 5,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -337,7 +337,7 @@
     },
     {
       "id": "RC-05-3",
-      "label": "05",
+      "label": "05 (3)",
       "sourceId": 5,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -360,7 +360,7 @@
     },
     {
       "id": "RC-06-1",
-      "label": "06",
+      "label": "06 (1)",
       "sourceId": 6,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -383,7 +383,7 @@
     },
     {
       "id": "RC-06-2",
-      "label": "06",
+      "label": "06 (2)",
       "sourceId": 6,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -406,7 +406,7 @@
     },
     {
       "id": "RC-06-3",
-      "label": "06",
+      "label": "06 (3)",
       "sourceId": 6,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -430,7 +430,7 @@
     },
     {
       "id": "RC-06-4",
-      "label": "06",
+      "label": "06 (4)",
       "sourceId": 6,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -453,7 +453,7 @@
     },
     {
       "id": "RC-07-1",
-      "label": "07",
+      "label": "07 (1)",
       "sourceId": 7,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -477,7 +477,7 @@
     },
     {
       "id": "RC-07-2",
-      "label": "07",
+      "label": "07 (2)",
       "sourceId": 7,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -501,7 +501,7 @@
     },
     {
       "id": "RC-07-3",
-      "label": "07",
+      "label": "07 (3)",
       "sourceId": 7,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -524,7 +524,7 @@
     },
     {
       "id": "RC-07-4",
-      "label": "07",
+      "label": "07 (4)",
       "sourceId": 7,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -547,7 +547,7 @@
     },
     {
       "id": "RC-08-1",
-      "label": "08",
+      "label": "08 (1)",
       "sourceId": 8,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -570,7 +570,7 @@
     },
     {
       "id": "RC-08-2",
-      "label": "08",
+      "label": "08 (2)",
       "sourceId": 8,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -593,7 +593,7 @@
     },
     {
       "id": "RC-08-3",
-      "label": "08",
+      "label": "08 (3)",
       "sourceId": 8,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -616,7 +616,7 @@
     },
     {
       "id": "RC-09-1",
-      "label": "09",
+      "label": "09 (1)",
       "sourceId": 9,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -639,7 +639,7 @@
     },
     {
       "id": "RC-09-2",
-      "label": "09",
+      "label": "09 (2)",
       "sourceId": 9,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -662,7 +662,7 @@
     },
     {
       "id": "RC-09-3",
-      "label": "09",
+      "label": "09 (3)",
       "sourceId": 9,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -685,7 +685,7 @@
     },
     {
       "id": "RC-10-1",
-      "label": "10",
+      "label": "10 (1)",
       "sourceId": 10,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -708,7 +708,7 @@
     },
     {
       "id": "RC-10-2",
-      "label": "10",
+      "label": "10 (2)",
       "sourceId": 10,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -732,7 +732,7 @@
     },
     {
       "id": "RC-10-3",
-      "label": "10",
+      "label": "10 (3)",
       "sourceId": 10,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -756,7 +756,7 @@
     },
     {
       "id": "RC-11-1",
-      "label": "11",
+      "label": "11 (1)",
       "sourceId": 11,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -779,7 +779,7 @@
     },
     {
       "id": "RC-11-2",
-      "label": "11",
+      "label": "11 (2)",
       "sourceId": 11,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -802,7 +802,7 @@
     },
     {
       "id": "RC-11-3",
-      "label": "11",
+      "label": "11 (3)",
       "sourceId": 11,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -825,7 +825,7 @@
     },
     {
       "id": "RC-12-1",
-      "label": "12",
+      "label": "12 (1)",
       "sourceId": 12,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -848,7 +848,7 @@
     },
     {
       "id": "RC-12-2",
-      "label": "12",
+      "label": "12 (2)",
       "sourceId": 12,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -871,7 +871,7 @@
     },
     {
       "id": "RC-12-3",
-      "label": "12",
+      "label": "12 (3)",
       "sourceId": 12,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -894,7 +894,7 @@
     },
     {
       "id": "RC-12-4",
-      "label": "12",
+      "label": "12 (4)",
       "sourceId": 12,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -917,7 +917,7 @@
     },
     {
       "id": "RC-13-1",
-      "label": "13",
+      "label": "13 (1)",
       "sourceId": 13,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -941,7 +941,7 @@
     },
     {
       "id": "RC-13-2",
-      "label": "13",
+      "label": "13 (2)",
       "sourceId": 13,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -964,7 +964,7 @@
     },
     {
       "id": "RC-13-3",
-      "label": "13",
+      "label": "13 (3)",
       "sourceId": 13,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -987,7 +987,7 @@
     },
     {
       "id": "RC-13-4",
-      "label": "13",
+      "label": "13 (4)",
       "sourceId": 13,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "RC-14-1",
-      "label": "14",
+      "label": "14 (1)",
       "sourceId": 14,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1033,7 +1033,7 @@
     },
     {
       "id": "RC-14-2",
-      "label": "14",
+      "label": "14 (2)",
       "sourceId": 14,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "RC-14-3",
-      "label": "14",
+      "label": "14 (3)",
       "sourceId": 14,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1079,7 +1079,7 @@
     },
     {
       "id": "RC-14-4",
-      "label": "14",
+      "label": "14 (4)",
       "sourceId": 14,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "RC-15-1",
-      "label": "15",
+      "label": "15 (1)",
       "sourceId": 15,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "RC-15-2",
-      "label": "15",
+      "label": "15 (2)",
       "sourceId": 15,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "RC-15-3",
-      "label": "15",
+      "label": "15 (3)",
       "sourceId": 15,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1172,7 +1172,7 @@
     },
     {
       "id": "RC-15-4",
-      "label": "15",
+      "label": "15 (4)",
       "sourceId": 15,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "RC-16-1",
-      "label": "16",
+      "label": "16 (1)",
       "sourceId": 16,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1218,7 +1218,7 @@
     },
     {
       "id": "RC-16-2",
-      "label": "16",
+      "label": "16 (2)",
       "sourceId": 16,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1241,7 +1241,7 @@
     },
     {
       "id": "RC-16-3",
-      "label": "16",
+      "label": "16 (3)",
       "sourceId": 16,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "RC-17-1",
-      "label": "17",
+      "label": "17 (1)",
       "sourceId": 17,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1287,7 +1287,7 @@
     },
     {
       "id": "RC-17-2",
-      "label": "17",
+      "label": "17 (2)",
       "sourceId": 17,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1311,7 +1311,7 @@
     },
     {
       "id": "RC-17-3",
-      "label": "17",
+      "label": "17 (3)",
       "sourceId": 17,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "RC-17-4",
-      "label": "17",
+      "label": "17 (4)",
       "sourceId": 17,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "RC-18-1",
-      "label": "18",
+      "label": "18 (1)",
       "sourceId": 18,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "RC-18-2",
-      "label": "18",
+      "label": "18 (2)",
       "sourceId": 18,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1404,7 +1404,7 @@
     },
     {
       "id": "RC-18-3",
-      "label": "18",
+      "label": "18 (3)",
       "sourceId": 18,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1427,7 +1427,7 @@
     },
     {
       "id": "RC-19-1",
-      "label": "19",
+      "label": "19 (1)",
       "sourceId": 19,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "RC-19-2",
-      "label": "19",
+      "label": "19 (2)",
       "sourceId": 19,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1473,7 +1473,7 @@
     },
     {
       "id": "RC-19-3",
-      "label": "19",
+      "label": "19 (3)",
       "sourceId": 19,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1496,7 +1496,7 @@
     },
     {
       "id": "RC-19-4",
-      "label": "19",
+      "label": "19 (4)",
       "sourceId": 19,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1519,7 +1519,7 @@
     },
     {
       "id": "RC-20-1",
-      "label": "20",
+      "label": "20 (1)",
       "sourceId": 20,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "RC-20-2",
-      "label": "20",
+      "label": "20 (2)",
       "sourceId": 20,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "RC-20-3",
-      "label": "20",
+      "label": "20 (3)",
       "sourceId": 20,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1588,7 +1588,7 @@
     },
     {
       "id": "RC-21-1",
-      "label": "21",
+      "label": "21 (1)",
       "sourceId": 21,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1611,7 +1611,7 @@
     },
     {
       "id": "RC-21-2",
-      "label": "21",
+      "label": "21 (2)",
       "sourceId": 21,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1634,7 +1634,7 @@
     },
     {
       "id": "RC-21-3",
-      "label": "21",
+      "label": "21 (3)",
       "sourceId": 21,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "RC-22-1",
-      "label": "22",
+      "label": "22 (1)",
       "sourceId": 22,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1680,7 +1680,7 @@
     },
     {
       "id": "RC-22-2",
-      "label": "22",
+      "label": "22 (2)",
       "sourceId": 22,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1703,7 +1703,7 @@
     },
     {
       "id": "RC-22-3",
-      "label": "22",
+      "label": "22 (3)",
       "sourceId": 22,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1726,7 +1726,7 @@
     },
     {
       "id": "RC-23-1",
-      "label": "23",
+      "label": "23 (1)",
       "sourceId": 23,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": "RC-23-2",
-      "label": "23",
+      "label": "23 (2)",
       "sourceId": 23,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1772,7 +1772,7 @@
     },
     {
       "id": "RC-23-3",
-      "label": "23",
+      "label": "23 (3)",
       "sourceId": 23,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1795,7 +1795,7 @@
     },
     {
       "id": "RC-23-4",
-      "label": "23",
+      "label": "23 (4)",
       "sourceId": 23,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1818,7 +1818,7 @@
     },
     {
       "id": "RC-24-1",
-      "label": "24",
+      "label": "24 (1)",
       "sourceId": 24,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1841,7 +1841,7 @@
     },
     {
       "id": "RC-24-2",
-      "label": "24",
+      "label": "24 (2)",
       "sourceId": 24,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "RC-25-1",
-      "label": "25",
+      "label": "25 (1)",
       "sourceId": 25,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "RC-25-2",
-      "label": "25",
+      "label": "25 (2)",
       "sourceId": 25,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1910,7 +1910,7 @@
     },
     {
       "id": "RC-25-3",
-      "label": "25",
+      "label": "25 (3)",
       "sourceId": 25,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1933,7 +1933,7 @@
     },
     {
       "id": "RC-25-4",
-      "label": "25",
+      "label": "25 (4)",
       "sourceId": 25,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1956,7 +1956,7 @@
     },
     {
       "id": "RC-26-1",
-      "label": "26",
+      "label": "26 (1)",
       "sourceId": 26,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "RC-26-2",
-      "label": "26",
+      "label": "26 (2)",
       "sourceId": 26,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2002,7 +2002,7 @@
     },
     {
       "id": "RC-26-3",
-      "label": "26",
+      "label": "26 (3)",
       "sourceId": 26,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2025,7 +2025,7 @@
     },
     {
       "id": "RC-26-4",
-      "label": "26",
+      "label": "26 (4)",
       "sourceId": 26,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2048,7 +2048,7 @@
     },
     {
       "id": "RC-27-1",
-      "label": "27",
+      "label": "27 (1)",
       "sourceId": 27,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2071,7 +2071,7 @@
     },
     {
       "id": "RC-27-2",
-      "label": "27",
+      "label": "27 (2)",
       "sourceId": 27,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2094,7 +2094,7 @@
     },
     {
       "id": "RC-27-3",
-      "label": "27",
+      "label": "27 (3)",
       "sourceId": 27,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2117,7 +2117,7 @@
     },
     {
       "id": "RC-27-4",
-      "label": "27",
+      "label": "27 (4)",
       "sourceId": 27,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2140,7 +2140,7 @@
     },
     {
       "id": "RC-28-1",
-      "label": "28",
+      "label": "28 (1)",
       "sourceId": 28,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2164,7 +2164,7 @@
     },
     {
       "id": "RC-28-2",
-      "label": "28",
+      "label": "28 (2)",
       "sourceId": 28,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "RC-28-3",
-      "label": "28",
+      "label": "28 (3)",
       "sourceId": 28,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2210,7 +2210,7 @@
     },
     {
       "id": "RC-28-4",
-      "label": "28",
+      "label": "28 (4)",
       "sourceId": 28,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2233,7 +2233,7 @@
     },
     {
       "id": "RC-29-1",
-      "label": "29",
+      "label": "29 (1)",
       "sourceId": 29,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2257,7 +2257,7 @@
     },
     {
       "id": "RC-29-2",
-      "label": "29",
+      "label": "29 (2)",
       "sourceId": 29,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2281,7 +2281,7 @@
     },
     {
       "id": "RC-29-3",
-      "label": "29",
+      "label": "29 (3)",
       "sourceId": 29,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": "RC-29-4",
-      "label": "29",
+      "label": "29 (4)",
       "sourceId": 29,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2327,7 +2327,7 @@
     },
     {
       "id": "RC-30-1",
-      "label": "30",
+      "label": "30 (1)",
       "sourceId": 30,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2351,7 +2351,7 @@
     },
     {
       "id": "RC-30-2",
-      "label": "30",
+      "label": "30 (2)",
       "sourceId": 30,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": "RC-30-3",
-      "label": "30",
+      "label": "30 (3)",
       "sourceId": 30,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "RC-30-4",
-      "label": "30",
+      "label": "30 (4)",
       "sourceId": 30,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2420,7 +2420,7 @@
     },
     {
       "id": "RC-31-1",
-      "label": "31",
+      "label": "31 (1)",
       "sourceId": 31,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2444,7 +2444,7 @@
     },
     {
       "id": "RC-31-2",
-      "label": "31",
+      "label": "31 (2)",
       "sourceId": 31,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2468,7 +2468,7 @@
     },
     {
       "id": "RC-31-3",
-      "label": "31",
+      "label": "31 (3)",
       "sourceId": 31,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2491,7 +2491,7 @@
     },
     {
       "id": "RC-31-4",
-      "label": "31",
+      "label": "31 (4)",
       "sourceId": 31,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "RC-32-1",
-      "label": "32",
+      "label": "32 (1)",
       "sourceId": 32,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "RC-32-2",
-      "label": "32",
+      "label": "32 (2)",
       "sourceId": 32,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2561,7 +2561,7 @@
     },
     {
       "id": "RC-32-3",
-      "label": "32",
+      "label": "32 (3)",
       "sourceId": 32,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2584,7 +2584,7 @@
     },
     {
       "id": "RC-32-4",
-      "label": "32",
+      "label": "32 (4)",
       "sourceId": 32,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2607,7 +2607,7 @@
     },
     {
       "id": "RC-33-1",
-      "label": "33",
+      "label": "33 (1)",
       "sourceId": 33,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": "RC-33-2",
-      "label": "33",
+      "label": "33 (2)",
       "sourceId": 33,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2654,7 +2654,7 @@
     },
     {
       "id": "RC-34-1",
-      "label": "34",
+      "label": "34 (1)",
       "sourceId": 34,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2677,7 +2677,7 @@
     },
     {
       "id": "RC-34-2",
-      "label": "34",
+      "label": "34 (2)",
       "sourceId": 34,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2701,7 +2701,7 @@
     },
     {
       "id": "RC-34-3",
-      "label": "34",
+      "label": "34 (3)",
       "sourceId": 34,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2724,7 +2724,7 @@
     },
     {
       "id": "RC-34-4",
-      "label": "34",
+      "label": "34 (4)",
       "sourceId": 34,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2747,7 +2747,7 @@
     },
     {
       "id": "RC-34-5",
-      "label": "34",
+      "label": "34 (5)",
       "sourceId": 34,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2770,7 +2770,7 @@
     },
     {
       "id": "RC-35-1",
-      "label": "35",
+      "label": "35 (1)",
       "sourceId": 35,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
@@ -2794,7 +2794,7 @@
     },
     {
       "id": "RC-35-2",
-      "label": "35",
+      "label": "35 (2)",
       "sourceId": 35,
       "section": "s1",
       "sectionTitle": "Section A · Reading 빈칸",
