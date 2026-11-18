@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "1",
-      "label": "01",
+      "label": "①A-01",
       "sourceId": "01",
       "section": "s1",
       "sectionTitle": "Section A · make/let/have 고르기",
@@ -33,7 +33,7 @@
     },
     {
       "id": "2",
-      "label": "02",
+      "label": "①A-02",
       "sourceId": "02",
       "section": "s1",
       "sectionTitle": "Section A · make/let/have 고르기",
@@ -57,7 +57,7 @@
     },
     {
       "id": "3",
-      "label": "03",
+      "label": "①A-03",
       "sourceId": "03",
       "section": "s1",
       "sectionTitle": "Section A · make/let/have 고르기",
@@ -81,7 +81,7 @@
     },
     {
       "id": "4",
-      "label": "04",
+      "label": "①A-04",
       "sourceId": "04",
       "section": "s1",
       "sectionTitle": "Section A · make/let/have 고르기",
@@ -105,7 +105,7 @@
     },
     {
       "id": "5",
-      "label": "05",
+      "label": "①A-05",
       "sourceId": "05",
       "section": "s1",
       "sectionTitle": "Section A · make/let/have 고르기",
@@ -129,7 +129,7 @@
     },
     {
       "id": "6",
-      "label": "01",
+      "label": "①B-01",
       "sourceId": "01",
       "section": "s2",
       "sectionTitle": "Section B · make/let/have 빈칸",
@@ -149,7 +149,7 @@
     },
     {
       "id": "7",
-      "label": "02",
+      "label": "①B-02",
       "sourceId": "02",
       "section": "s2",
       "sectionTitle": "Section B · make/let/have 빈칸",
@@ -169,7 +169,7 @@
     },
     {
       "id": "8",
-      "label": "03",
+      "label": "①B-03",
       "sourceId": "03",
       "section": "s2",
       "sectionTitle": "Section B · make/let/have 빈칸",
@@ -190,7 +190,7 @@
     },
     {
       "id": "9",
-      "label": "04",
+      "label": "①B-04",
       "sourceId": "04",
       "section": "s2",
       "sectionTitle": "Section B · make/let/have 빈칸",
@@ -210,7 +210,7 @@
     },
     {
       "id": "10",
-      "label": "05",
+      "label": "①B-05",
       "sourceId": "05",
       "section": "s2",
       "sectionTitle": "Section B · make/let/have 빈칸",
@@ -230,7 +230,7 @@
     },
     {
       "id": "11",
-      "label": "01",
+      "label": "①C-01",
       "sourceId": "01",
       "section": "s3",
       "sectionTitle": "Section C · make/let/have 다시 쓰기",
@@ -249,7 +249,7 @@
     },
     {
       "id": "12",
-      "label": "02",
+      "label": "①C-02",
       "sourceId": "02",
       "section": "s3",
       "sectionTitle": "Section C · make/let/have 다시 쓰기",
@@ -268,7 +268,7 @@
     },
     {
       "id": "13",
-      "label": "03",
+      "label": "①C-03",
       "sourceId": "03",
       "section": "s3",
       "sectionTitle": "Section C · make/let/have 다시 쓰기",
@@ -287,7 +287,7 @@
     },
     {
       "id": "14",
-      "label": "04",
+      "label": "①C-04",
       "sourceId": "04",
       "section": "s3",
       "sectionTitle": "Section C · make/let/have 다시 쓰기",
@@ -307,7 +307,7 @@
     },
     {
       "id": "15",
-      "label": "05",
+      "label": "①C-05",
       "sourceId": "05",
       "section": "s3",
       "sectionTitle": "Section C · make/let/have 다시 쓰기",
@@ -326,7 +326,7 @@
     },
     {
       "id": "16",
-      "label": "01",
+      "label": "②A-01",
       "sourceId": "01",
       "section": "s4",
       "sectionTitle": "Section A · as…as 고르기",
@@ -350,7 +350,7 @@
     },
     {
       "id": "17",
-      "label": "02",
+      "label": "②A-02",
       "sourceId": "02",
       "section": "s4",
       "sectionTitle": "Section A · as…as 고르기",
@@ -374,7 +374,7 @@
     },
     {
       "id": "18",
-      "label": "03",
+      "label": "②A-03",
       "sourceId": "03",
       "section": "s4",
       "sectionTitle": "Section A · as…as 고르기",
@@ -398,7 +398,7 @@
     },
     {
       "id": "19",
-      "label": "04",
+      "label": "②A-04",
       "sourceId": "04",
       "section": "s4",
       "sectionTitle": "Section A · as…as 고르기",
@@ -422,7 +422,7 @@
     },
     {
       "id": "20",
-      "label": "05",
+      "label": "②A-05",
       "sourceId": "05",
       "section": "s4",
       "sectionTitle": "Section A · as…as 고르기",
@@ -446,7 +446,7 @@
     },
     {
       "id": "21",
-      "label": "01",
+      "label": "②B-01",
       "sourceId": "01",
       "section": "s5",
       "sectionTitle": "Section B · as…as 한 문장",
@@ -467,7 +467,7 @@
     },
     {
       "id": "22",
-      "label": "02",
+      "label": "②B-02",
       "sourceId": "02",
       "section": "s5",
       "sectionTitle": "Section B · as…as 한 문장",
@@ -487,7 +487,7 @@
     },
     {
       "id": "23",
-      "label": "03",
+      "label": "②B-03",
       "sourceId": "03",
       "section": "s5",
       "sectionTitle": "Section B · as…as 한 문장",
@@ -507,7 +507,7 @@
     },
     {
       "id": "24",
-      "label": "04",
+      "label": "②B-04",
       "sourceId": "04",
       "section": "s5",
       "sectionTitle": "Section B · as…as 한 문장",
@@ -527,7 +527,7 @@
     },
     {
       "id": "25",
-      "label": "05",
+      "label": "②B-05",
       "sourceId": "05",
       "section": "s5",
       "sectionTitle": "Section B · as…as 한 문장",
@@ -548,7 +548,7 @@
     },
     {
       "id": "26",
-      "label": "01",
+      "label": "②C-01",
       "sourceId": "01",
       "section": "s6",
       "sectionTitle": "Section C · as…as 다시 쓰기",
@@ -567,7 +567,7 @@
     },
     {
       "id": "27",
-      "label": "02",
+      "label": "②C-02",
       "sourceId": "02",
       "section": "s6",
       "sectionTitle": "Section C · as…as 다시 쓰기",
@@ -586,7 +586,7 @@
     },
     {
       "id": "28",
-      "label": "03",
+      "label": "②C-03",
       "sourceId": "03",
       "section": "s6",
       "sectionTitle": "Section C · as…as 다시 쓰기",
@@ -606,7 +606,7 @@
     },
     {
       "id": "29",
-      "label": "04",
+      "label": "②C-04",
       "sourceId": "04",
       "section": "s6",
       "sectionTitle": "Section C · as…as 다시 쓰기",
@@ -626,7 +626,7 @@
     },
     {
       "id": "30",
-      "label": "05",
+      "label": "②C-05",
       "sourceId": "05",
       "section": "s6",
       "sectionTitle": "Section C · as…as 다시 쓰기",
