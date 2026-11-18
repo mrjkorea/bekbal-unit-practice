@@ -114,7 +114,9 @@ def check(ex, cat_ex, texts):
     # answer, and counting it as shown was the same quiet shortage Jay flagged.
     deferred = [q for q in qs_all if q.get("deferred")]
     qs = [q for q in qs_all if not q.get("deferred")]
-    omitted = [o for o in (ex.get("omitted") or []) if isinstance(o, dict)]
+    # a missing item written as a sentence counts too: a practice that left one out
+    # is short whether or not the note has page/item fields.
+    omitted = [o for o in (ex.get("omitted") or []) if o]
     shown, held = len(qs), len(omitted) + len(deferred)
     issues = []
     if deferred:

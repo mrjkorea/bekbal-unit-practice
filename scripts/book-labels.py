@@ -148,6 +148,7 @@ def plan_practice(questions):
 
 
 def main():
+    check = "--check" in sys.argv
     write = "--write" in sys.argv
     changed_cards = changed_practices = 0
     sample = []
@@ -202,6 +203,8 @@ def main():
         print("  %-58s %3d cards | dup left %d | %s ... %s" % (rel, n, dup, head, tail))
     if not write:
         print("report only; add --write to apply")
+    if check and changed_cards:
+        return 1
     return 0
 
 
