@@ -58,6 +58,25 @@ def parse_label(label):
     return None, None
 
 
+def part_labels(questions, sections):
+    """One printed item split into several cards: the book prints the blanks as
+    (1), (2) ... inside that item, so the card carries the same item number and
+    the blank marker from its own id (12-3 -> the third blank of item 12)."""
+    out = {}
+    for key, idxs in sections:
+        groups = {}
+        for i in idxs:
+            groups.setdefault(parse_label(questions[i].get("label"))[0], []).append(i)
+        for num, group in groups.items():
+            if num is None or len(group) < 2:
+                continue
+            for pos, i in enumerate(group):
+                m = re.search(r"-(\d+)$", str(questions[i].get("id") or ""))
+                blank = int(m.group(1)) if m else pos + 1
+                out[i] = "%02d (%d)" % (num, blank)
+    return out
+
+
 def plan_practice(questions):
     """Return {question index: new label} for one practice."""
     sections = []
@@ -71,7 +90,7 @@ def plan_practice(questions):
         title = questions[idxs[0]].get("sectionTitle") or ""
         letters.append(section_letter(title))
     if any(l is None for l in letters):
-        return {}
+        return part_labels(questions, sections)
     # a letter that comes back means the page started a second point
     seen, point_of, cycle = {}, {}, None
     for pos, letter in enumerate(letters):
@@ -94,7 +113,7 @@ def plan_practice(questions):
         if where != q.get("section"):
             cross = True
     if not cross:
-        return {}
+        return part_labels(questions, sections)
 
     out = {}
     for pos, (key, idxs) in enumerate(sections):
