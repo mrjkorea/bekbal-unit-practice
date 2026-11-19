@@ -152,7 +152,7 @@
    "select": "multi",
    "promptEn": "[06-07] 다음 대화를 읽고, 물음에 답하시오.\nM: Your bag is pretty, Jessica.\nW: Thank you, Toby. I made it with my old jeans. It's my Earth Day project.\nM: That's cool. I want to do something on Earth Day.\nW: Why don't we make a short video about reusing old clothes together?\nM: ______\n\n06 위 대화의 빈칸에 들어갈 말로 적절한 것을 모두 고르면?",
    "choices": [
-    "like that idea.",
+    "I like that idea.",
     "That's surprising.",
     "I'm afraid of it.",
     "That's a good idea.",
@@ -162,7 +162,7 @@
     1,
     4
    ],
-   "explainKo": "정답: ①, ④. 제안에 동의하는 말이다. (X-10 p.92 06)",
+   "explainKo": "정답: ①④. 영상 제작을 제안하는 말에 대한 응답으로 ‘I like that idea.’와 ‘That’s a good idea.’가 알맞다. ② That’s surprising. ③ I’m afraid of it.은 흐름에 맞지 않는다. (X-10 p.92 06)",
    "seconds": 60
   },
   {
