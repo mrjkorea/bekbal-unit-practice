@@ -119,7 +119,7 @@
       "sectionInstructionKo": "대화를 읽고 물음에 답하시오. 보기 중에서 하나를 누르세요. 직접 쓰는 문항은 답을 입력해요.",
       "answerMode": "mixed",
       "answerModeTag": "Read · 고르기와 쓰기",
-      "explainKo": "① ‘권유’에 대한 대답으로 책을 빌려 보라는 말에 ‘It’s too long.’이라 답한 흐름이다. (답지 31쪽)",
+      "explainKo": "정답: ⑤ Why don’t you borrow it? 책을 읽어 보라는 권유에 ‘Okay. I’ll try reading it.’으로 답하므로 빌려 보라는 말이 알맞다. (답지 31쪽)",
       "type": "mc",
       "select": "one",
       "promptEn": "[03-05] 다음 대화를 읽고, 물음에 답하시오.\nB: Sofia, what are you reading?\nG: I’m reading The Hobbit.\nB: Can you tell me about it?\nG: It’s a ⓐ______ novel. It is about adventures in a magical world.\nB: It sounds interesting. ⓑ나는 그 이야기가 궁금해.\nG: ⓒ______ You’ll like it.\nB: Okay. I’ll try reading it.\n\n05 위 대화의 빈칸 ⓒ에 들어갈 말로 가장 적절한 것은?",
@@ -131,7 +131,7 @@
         "Why don’t you borrow it?"
       ],
       "correctIndexes": [
-        1
+        5
       ],
       "seconds": 60
     },

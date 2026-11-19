@@ -222,7 +222,7 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: ③. 「It's my Earth Day project.」에 대한 반응으로 That's cool.이 오고, 이어서 ④ I want to do something on Earth Day.가 자연스럽다. (교재 p.139 08)",
+      "explainKo": "정답: ④ 「That’s cool.」은 Jessica의 Earth Day 프로젝트 설명에 대한 반응이므로, 이어지는 M의 말(④) 앞이 알맞다. (답지 확인)",
       "type": "mc",
       "select": "one",
       "promptEn": "다음 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 「That's cool.」\nM: Your bag is pretty, Jessica.\nW: ① Thank you, Toby. ② I made it with my old jeans. ③ It's my Earth Day project.\nM: ④ I want to do something on Earth Day.\nW: ⑤ Why don't we making a short video about reusing old clothes together?\nM: ⓐ ______",
@@ -234,7 +234,7 @@
         "⑤"
       ],
       "correctIndexes": [
-        3
+        4
       ],
       "seconds": 45
     },

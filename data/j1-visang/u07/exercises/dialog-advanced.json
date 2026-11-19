@@ -128,7 +128,7 @@
       "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "answerMode": "choice",
       "answerModeTag": "Choose · 고르기",
-      "explainKo": "정답: ④. ③ Let's print and put up posters.와 ④ 사이에서 Well, that is a waste of paper.가 와야 Why don't we post it on the school website?가 자연스럽다. (교재 p.140 05)",
+      "explainKo": "정답: ⑤ 「Well, that is a waste of paper.」는 종이를 낭비한다는 말이므로, 포스터를 인쇄하자는 말(③) 다음에 와서 이어지는 M의 제안 앞(⑤)이 알맞다. (답지 확인)",
       "type": "mc",
       "select": "one",
       "promptEn": "다음 대화의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 「Well, that is a waste of paper.」\nM: Look! (①) This is the design for our concert poster. (②)\nW: Oh, it's cool. (③) Let's print and put up posters around the school. (④)\nM: (⑤) ⓐWhy don't we post it on the school website?\nW: ⓑ좋은 생각이야.",
@@ -140,7 +140,7 @@
         "⑤"
       ],
       "correctIndexes": [
-        4
+        5
       ],
       "seconds": 45
     },

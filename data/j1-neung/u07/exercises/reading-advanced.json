@@ -45,7 +45,7 @@
    "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
-   "explainKo": "③ protecting / made — ⓒ는 목적격 보어로 형용사 clean이 오므로 make. (답지 25쪽)",
+   "explainKo": "정답: ⑤ to protect / to make. are working to protect는 목적을 나타내는 to부정사, want to make는 want의 목적어로 쓰인 to부정사이다. (답지 25쪽)",
    "type": "mc",
    "select": "one",
    "promptEn": "[01-03] 다음 글을 읽고, 물음에 답하시오.\nⓐ ______ is a big problem. Luckily, three superheroes are working ⓑ(protect) the environment. They want ⓒ(make) the world clean. ⓓ ______ you join them?\n\n02 윗글의 괄호 ⓑ와 ⓒ에 들어갈 말이 적절한 형태로 바르게 짝지어진 것은?",
@@ -57,7 +57,7 @@
     "to protect / to make"
    ],
    "correctIndexes": [
-    3
+    5
    ],
    "seconds": 60
   },
@@ -72,7 +72,7 @@
    "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
-   "explainKo": "④ Have you join them? — 답지 확인: Have. (답지 25쪽)",
+   "explainKo": "정답: ③ Will. ‘너도 함께할래?’는 Will you join them?으로 쓴다. Have/Are/Were/Does는 뒤의 동사원형 join과 함께 쓰일 수 없다. (답지 25쪽)",
    "type": "mc",
    "select": "one",
    "promptEn": "[01-03] 다음 글을 읽고, 물음에 답하시오.\nⓐ ______ is a big problem. Luckily, three superheroes are working ⓑ(protect) the environment. They want ⓒ(make) the world clean. ⓓ ______ you join them?\n\n03 윗글의 빈칸 ⓓ에 들어갈 말로 가장 적절한 것은?",
@@ -84,7 +84,7 @@
     "Does"
    ],
    "correctIndexes": [
-    4
+    3
    ],
    "seconds": 60
   },

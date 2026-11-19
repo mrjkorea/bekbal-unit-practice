@@ -124,9 +124,9 @@
    "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
-   "promptEn": "A: You look ______. What's the matter?\nB: I lost my bag.",
+   "promptEn": "다음 빈칸에 들어갈 말로 적절하지 않은 것은?\nA: You look ______. What's the matter?\nB: I lost my bag.",
    "promptKo": "",
-   "explainKo": "p.182 해설: 감각동사 look 다음에는 형용사가 와서 '~하게 보이다'라는 의미가 되므로 동사 또는 명사로 쓰이는 worry는 적절하지 않다. (worry → worried) ① 슬픈 ② 안절부절못하는 ③ 걱정, 걱정하다 ④ 불편한 ⑤ 끔찍한. 정답은 ③.",
+   "explainKo": "정답: ③ 감각동사 look 뒤에는 형용사가 와야 하므로 명사·동사인 worry는 적절하지 않다. (worry → worried) ①sad ②nervous ④uncomfortable ⑤terrible은 모두 형용사이다. (답지 pp.90-91 05)",
    "type": "mc",
    "select": "one",
    "choices": [
@@ -403,7 +403,7 @@
    "answerModeTag": "Choose · 고르기",
    "promptEn": "13 다음 중 밑줄 친 부분이 옳은 문장의 개수로 옳은 것은?\n• I like my school <u>because of</u> my friends.\n• I can't play outside <u>so</u> I have to study.\n• Jenny is happy <u>because</u> she got a new toy.\n• I couldn't sleep well <u>because</u> the loud noise.\n• It was sunny <u>because</u> we went to the beach.\n• It was very cold this morning, <u>so</u> I put on a coat.\n• There are a lot of cars on the street <u>because of</u> it's a holiday.",
    "promptKo": "",
-   "explainKo": "p.182 정답 칸 13 ④(4개), 해설 13: so→because, Jenny 문장, because→because of, because→so, 오늘 아침 so 문장, 휴일이라서 차가 많다 — 옳은 문장이 4개다.",
+   "explainKo": "정답: ④ 3개. 옳은 문장은 ‘I like my school because of my friends.’, ‘Jenny is happy because she got a new toy.’, ‘It was very cold this morning, so I put on a coat.’ 세 개이다. so→because, because→because of, because→so, because of의 of 삭제가 필요한 문장은 틀린 문장이다. (답지 pp.90-91 13)",
    "type": "mc",
    "select": "one",
    "choices": [

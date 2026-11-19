@@ -362,7 +362,7 @@
       "section": "s14",
       "sectionTitle": "Section N · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
       "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
-      "label": "14"
+      "label": "14 (1)"
     },
     {
       "id": "m14-2",
@@ -384,7 +384,7 @@
       "section": "s14",
       "sectionTitle": "Section N · 다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오.",
       "sectionInstructionKo": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고쳐 쓰시오. 이 빈칸에 들어갈 말만 쓰세요. 다른 빈칸이나 문장 전체는 쓰지 않아요.",
-      "label": "15"
+      "label": "14 (2)"
     },
     {
       "id": "m15",
@@ -411,7 +411,7 @@
       "section": "s15",
       "sectionTitle": "Section O · 다음 중 빈칸에 들어갈 말이 나머지와 다른 것은?",
       "sectionInstructionKo": "다음 중 빈칸에 들어갈 말이 나머지와 다른 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "16"
+      "label": "15"
     },
     {
       "id": "m16-1",
@@ -432,7 +432,7 @@
       "section": "s16",
       "sectionTitle": "Section P · 다음 보기와 같이 문장을 바꿔 쓰시오.",
       "sectionInstructionKo": "다음 보기와 같이 문장을 바꿔 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "label": "17"
+      "label": "16 (1)"
     },
     {
       "id": "m16-2",
@@ -453,7 +453,7 @@
       "section": "s16",
       "sectionTitle": "Section P · 다음 보기와 같이 문장을 바꿔 쓰시오.",
       "sectionInstructionKo": "다음 보기와 같이 문장을 바꿔 쓰시오. 영어 문장 전체를 쓰세요. 빈칸 말만 쓰지 말고, 단어 순서는 답 그대로 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "label": "18"
+      "label": "16 (2)"
     },
     {
       "id": "m17",
@@ -480,7 +480,7 @@
       "section": "s17",
       "sectionTitle": "Section Q · 윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은?",
       "sectionInstructionKo": "윗글의 빈칸 ⓐ와 ⓑ에 들어갈 말이 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "19"
+      "label": "17"
     },
     {
       "id": "m18",
@@ -500,7 +500,7 @@
       "section": "s18",
       "sectionTitle": "Section R · 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.",
       "sectionInstructionKo": "윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 영어 단어나 표현만 쓰세요. 문장 전체를 만들지 않아요.",
-      "label": "20"
+      "label": "18"
     },
     {
       "id": "m19",
@@ -527,7 +527,7 @@
       "section": "s19",
       "sectionTitle": "Section S · 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은?",
       "sectionInstructionKo": "윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "21"
+      "label": "19"
     },
     {
       "id": "m20",
@@ -554,7 +554,7 @@
       "section": "s20",
       "sectionTitle": "Section T · 윗글의 빈칸 (A)에 들어갈 말로 가장 적절한 것은?",
       "sectionInstructionKo": "윗글의 빈칸 (A)에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "22"
+      "label": "20"
     },
     {
       "id": "m21",
@@ -581,7 +581,7 @@
       "section": "s21",
       "sectionTitle": "Section U · 윗글을 읽고, 다음 질문에 대한 답으로 가장 적절한 것은?",
       "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답으로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "23"
+      "label": "21"
     },
     {
       "id": "m22",
@@ -608,7 +608,7 @@
       "section": "s22",
       "sectionTitle": "Section V · 윗글의 빈칸 ⓐ~ⓒ에 들어갈 말로 바르게 짝지어진 것은?",
       "sectionInstructionKo": "윗글의 빈칸 ⓐ~ⓒ에 들어갈 말로 바르게 짝지어진 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "24"
+      "label": "22"
     },
     {
       "id": "m23",
@@ -635,7 +635,7 @@
       "section": "s23",
       "sectionTitle": "Section W · 윗글의 빈칸 (A)에 들어갈 말로 가장 적절한 것은?",
       "sectionInstructionKo": "윗글의 빈칸 (A)에 들어갈 말로 가장 적절한 것은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "25"
+      "label": "23"
     },
     {
       "id": "m24",
@@ -653,16 +653,16 @@
         "⑤"
       ],
       "correctIndexes": [
-        2
+        3
       ],
       "directionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
       "ruleKo": "보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
       "promptEn": "[22-25] 다음 글을 읽고, 물음에 답하시오.\n\nReporter: You all really love Hangeul! How did you start learning it?\n\nPueng: I'm a big fan of K-pop songs. Because I wanted to sing Korean songs, I started ⓐ ______ Hangeul. (①) Now I can sing many K-pop songs!\nAnna: I was interested in ⓑ ______ Hangeul in my designs. (②) I can make unique patterns for clothes with Hangeul.\nWilliam: I wanted ⓒ ______ the science of Hangeul to my students. (③) Some letters (A) ______ the shape of the mouth and tongue for their sounds. (④) King Sejong made it that way. It's very scientific. (⑤)\n\n[24] 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nSo I studied the shapes of Hangeul.",
-      "explainKo": "p.187 '그래서 나는 한글의 모양을 공부하였습니다.'는 디자인에 한글을 쓰고 싶었다는 내용과 독특한 무늬를 만들 수 있다는 내용 사이인 ②가 자연스럽다.",
+      "explainKo": "정답: ③ 「So I studied the shapes of Hangeul.」은 Anna가 디자인에 한글을 쓰는 데 관심을 가진 뒤(②) 한글의 모양을 공부했다는 뜻이므로 ③ 자리에 온다. (교재 p.115 24)",
       "section": "s24",
       "sectionTitle": "Section X · 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?",
       "sectionInstructionKo": "윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은? 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
-      "label": "26"
+      "label": "24"
     },
     {
       "id": "m25",
@@ -683,7 +683,7 @@
       "section": "s25",
       "sectionTitle": "Section Y · 윗글을 읽고, 다음 질문에 대한 답을 조건에 맞게 완성하시오.",
       "sectionInstructionKo": "윗글을 읽고, 다음 질문에 대한 답을 조건에 맞게 완성하시오. 빈칸에 들어갈 말만 쓰세요. 문장 전체는 쓰지 않아요.",
-      "label": "27"
+      "label": "25"
     }
   ],
   "introKo": "이 연습은 다음 짝지어진 두 단어의 관계가 보기와 같은 것은? 1문항, 다음 우리말에 맞도록 빈칸에 들어갈 적절한 말을 쓰시오. 1문항, 다음 밑줄 친 부분의 뜻풀이가 바르지 않은 것은? 1문항, 다음 중 의미가 나머지와 다른 것은? 1문항 외으로 되어 있어요. 각 섹션 맨 위의 안내를 읽고, '빈칸 말만'이면 빈칸에 들어갈 말만, '문장 전체'면 문장 전체를 쓰세요. 고르기는 누르기만 하면 됩니다.",
