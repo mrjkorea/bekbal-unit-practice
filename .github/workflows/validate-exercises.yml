@@ -15,6 +15,7 @@ on:
       - "scripts/lint-style-contrast.py"
       - "scripts/check-word-counts.py"
       - "scripts/check-catalog-counts.py"
+      - "scripts/check-order-answers.py"
       - "scripts/book-labels.py"
       - "assets/**"
   workflow_dispatch:
@@ -34,6 +35,8 @@ jobs:
       - run: python3 scripts/lint-style-contrast.py
       # a stated word count must be reachable by an accepted answer
       - run: python3 scripts/check-word-counts.py
+      # an order card's own words must read in the order its explanation gives
+      - run: python3 scripts/check-order-answers.py
       # a practice card must state what the practice really holds
       - run: python3 scripts/check-catalog-counts.py
       # a number that does not come from the page fails the push
