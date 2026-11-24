@@ -20,11 +20,67 @@
   function tight(s) {
     return norm(s).replace(/\s+/g, "");
   }
+  /* Hangul answer tolerance.
+     Jay 2026-11-24: a 중1 student wrote "서각장애인 여자와 그녀의 선생님에 대한
+     영화야" for "시각 장애인 소녀와 그녀의 선생님에 관한 영화였다" and was marked
+     wrong. The key holds a MODEL sentence, so comparing it letter for letter
+     punishes a right answer written in other words — the exact failure a student
+     sees as "the website is wrong". A 우리말 answer is graded on the words it
+     carries: most of the model's content words must be there, one typo allowed. */
+  var HANGUL = /[\uAC00-\uD7A3]/;
+  var TRAIL_PARTICLE = /(의|에|에서|에게|을|를|이|가|은|는|와|과|도|만|로|으로)$/;
+  var NEGATION = /(아니|아닌|않|못|없|말고)/;
+
+  function koFlat(s) {
+    return norm(s).replace(/~/g, " ").replace(/[^\uAC00-\uD7A3a-z0-9]/g, "");
+  }
+  function editAtMost1(a, b) {
+    if (a === b) return true;
+    if (Math.abs(a.length - b.length) > 1) return false;
+    var i = 0;
+    while (i < a.length && i < b.length && a.charAt(i) === b.charAt(i)) i++;
+    if (a.length === b.length) return a.slice(i + 1) === b.slice(i + 1);
+    if (a.length > b.length) return a.slice(i + 1) === b.slice(i);
+    return a.slice(i) === b.slice(i + 1);
+  }
+  function koHit(word, flat) {
+    if (flat.indexOf(word) >= 0) return true;
+    for (var i = 0; i < flat.length; i++) {
+      for (var len = Math.max(2, word.length - 1); len <= word.length + 1; len++) {
+        var seg = flat.substr(i, len);
+        if (seg.length >= 2 && editAtMost1(word, seg)) return true;
+      }
+    }
+    return false;
+  }
+  function koMatch(value, expected) {
+    var flat = koFlat(value);
+    var want = koFlat(expected);
+    if (!flat || !want) return false;
+    /* Only a MODEL SENTENCE is graded this way. A short key ("소리", "부사",
+       "죽은, 사망한") is one word the student either knows or does not, and
+       fuzzy matching there marks a wrong word right. 12 characters is the
+       shortest 우리말 answer that is a sentence rather than a label. */
+    if (want.length < 12) return false;
+    var words = String(expected)
+      .split(/\s+/)
+      .map(function (w) { return koFlat(w).replace(TRAIL_PARTICLE, ""); })
+      .filter(function (w) { return w.length >= 2; });
+    if (!words.length) return flat.indexOf(want) >= 0;
+    var hits = 0;
+    for (var i = 0; i < words.length; i++) if (koHit(words[i], flat)) hits++;
+    if (hits / words.length < 0.75) return false;
+    /* "…에 관한 영화가 아니었다" carries every word of the model answer and says
+       the opposite. A no the model answer does not have is a miss. */
+    if (NEGATION.test(flat) && !NEGATION.test(want)) return false;
+    return flat.length >= want.length * 0.5;
+  }
   function matchAccept(value, accept) {
     if (value == null || String(value).trim() === "") return false;
     var list = accept || [];
     for (var i = 0; i < list.length; i++) {
       if (norm(list[i]) === norm(value) || tight(list[i]) === tight(value)) return true;
+      if (HANGUL.test(list[i]) && koMatch(value, list[i])) return true;
     }
     return false;
   }

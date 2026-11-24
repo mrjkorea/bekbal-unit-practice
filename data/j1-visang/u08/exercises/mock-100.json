@@ -373,14 +373,14 @@
    "choices": [
     "ⓐ, ⓓ",
     "ⓐ, ⓑ, ⓒ",
-    "ⓑ, ⓓ",
+    "ⓐ, ⓑ, ⓓ",
     "ⓑ, ⓒ, ⓔ",
-    "ⓓ, ⓔ"
+    "ⓑ, ⓓ, ⓔ"
    ],
    "correctIndexes": [
     5
    ],
-   "explainKo": "정답: ⑤ ⓓ, ⓔ. ⓐ는 for going, ⓒ는 if[whether]로 고쳐야 한다. (교재 p.231 12)",
+   "explainKo": "정답: ⑤ ⓑ, ⓓ, ⓔ. ⓐ는 for going, ⓒ는 if[whether]로 고쳐야 한다. (교재 p.231 12)",
    "seconds": 45,
    "sectionTitle": "Section A · 고르기",
    "directionKo": "알맞은 것을 고르시오.",
