@@ -45,7 +45,7 @@
    "select": "one",
    "answerMode": "choice",
    "seconds": 45,
-   "promptEn": "[01-03] 다음 글을 읽고 물음에 답하시오.\n(A)\nThere was a special team in Friendship Marathon. Let's meet Andy, a blind runner, and Junha, a guide runner.\nReporter: Who wanted to ⓐjoin the marathon first?\nAndy: I did. I ⓑgot interested in the marathon and talked about it with Junha.\nReporter: What did you say, Junha?\nJunha: I said, \"Don't worry. I'll run with you.\"\nReporter: What a great friend! Andy, how did you two run together during the marathon?\nAndy: We tied a string around our fingers.\nReporter: I see. Junha, how was the marathon?\nJunha: It was ⓓhard, but we ⓔmade it to the finish line. I was so happy. Andy looked happy, too.\n\n02 윗글의 밑줄 친 ⓐ~ⓔ의 의미가 바르게 짝지어지지 않은 것은?",
+   "promptEn": "[01-03] 다음 글을 읽고 물음에 답하시오.\n(A)\nThere was a special team in Friendship Marathon. Let's meet Andy, a blind runner, and Junha, a guide runner.\nReporter: Who wanted to ⓐjoin the marathon first?\nAndy: I did. I ⓑgot interested in the marathon and talked about it with Junha.\nReporter: What did you say, Junha?\nJunha: I said, \"Don't worry. I'll run with you.\"\nReporter: What a great friend! Andy, how did you two ⓒrun together during the marathon?\nAndy: We tied a string around our fingers.\nReporter: I see. Junha, how was the marathon?\nJunha: It was ⓓhard, but we ⓔmade it to the finish line. I was so happy. Andy looked happy, too.\n\n02 윗글의 밑줄 친 ⓐ~ⓔ의 의미가 바르게 짝지어지지 않은 것은?",
    "choices": [
     "ⓐ: 참여하다",
     "ⓑ: ~에 관심을 갖다",

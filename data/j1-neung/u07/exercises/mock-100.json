@@ -615,10 +615,10 @@
    "sectionInstructionKo": "알맞은 것을 고르시오. 보기 중에서 하나를 누르세요. 번호는 쓰지 않아요.",
    "answerMode": "choice",
    "answerModeTag": "Choose · 고르기",
-   "explainKo": "⑤ any → one. (답지 27쪽)",
+   "explainKo": "정답: ④ any → one. at one time(한 번에)이 문맥에 맞다. (교재 p.175 25)",
    "type": "mc",
    "select": "one",
-   "promptEn": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n(A)여러분은 음식 쓰레기가 큰 문제라는 것을 알고 있나요? This is ⓑbecause people buy a lot of food and don’t eat it ⓒall. I think that we should do something about it. First, we should ⓓshare food with others. Second, we should not buy too much food at ⓔany time. We can make a big difference together. Let’s make Earth ⓕbetter!\n\n25 윗글의 밑줄 친 ⓐ~ⓕ 중 문맥상 단어의 쓰임이 적절하지 않은 것은?",
+   "promptEn": "[24-25] 다음 글을 읽고, 물음에 답하시오.\n(A)여러분은 음식 쓰레기가 큰 문제라는 것을 알고 있나요? This is ⓐbecause people buy a lot of food and don’t eat it ⓑall. I think that we should do something about it. First, we should ⓒshare food with others. Second, we should not buy too much food at ⓓany time. We can make a big difference together. Let’s make Earth ⓔbetter!\n\n25 윗글의 밑줄 친 ⓐ~ⓔ 중 문맥상 단어의 쓰임이 적절하지 않은 것은?",
    "choices": [
     "ⓐ",
     "ⓑ",
@@ -627,7 +627,7 @@
     "ⓔ"
    ],
    "correctIndexes": [
-    5
+    4
    ],
    "seconds": 60
   }
