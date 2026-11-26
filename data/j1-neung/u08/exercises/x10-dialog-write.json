@@ -14,15 +14,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Excuse me. I'd like to check out this book. (답지 X-10 대화 영작 1)",
    "type": "sentence",
-   "promptEn": "1 → Excuse me. I'd like to check out this book.",
+   "promptEn": "1 → Excuse me. I'd like to check out this book.\n시작: Excuse me. I'd …",
    "accept": [
-    "B: Excuse me. I'd like to check out this book."
+    "B: Excuse me. I'd like to check out this book.",
+    "Excuse me. I'd like to check out this book."
    ],
    "seconds": 110
   },
@@ -33,15 +34,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: W: Sure. Can you show your library card to me, please? (답지 X-10 대화 영작 1)",
    "type": "sentence",
-   "promptEn": "1 → Sure. Can you show your library card to me, please?",
+   "promptEn": "1 → Sure. Can you show your library card to me, please?\n시작: Sure. Can you …",
    "accept": [
-    "W: Sure. Can you show your library card to me, please?"
+    "W: Sure. Can you show your library card to me, please?",
+    "Sure. Can you show your library card to me, please?"
    ],
    "seconds": 110
   },
@@ -52,15 +54,20 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Here you are. (X-10 대화 영작 1 · 대화 빈칸 완성하기 p.46)",
    "type": "sentence",
-   "promptEn": "1 → Here you are.",
+   "promptEn": "1 → Here you are.\n시작: Here you …",
    "accept": [
-    "B: Here you are."
+    "B: Here you are.",
+    "Here you are.",
+    "here you go.",
+    "Here you go.",
+    "here it is.",
+    "Here it is."
    ],
    "seconds": 110
   },
@@ -71,15 +78,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: W: Thank you. Please return the book by next week. (답지 X-10 대화 영작 1)",
    "type": "sentence",
-   "promptEn": "1 → Thank you. Please return the book by next week.",
+   "promptEn": "1 → Thank you. Please return the book by next week.\n시작: Thank you. Please …",
    "accept": [
-    "W: Thank you. Please return the book by next week."
+    "W: Thank you. Please return the book by next week.",
+    "Thank you. Please return the book by next week."
    ],
    "seconds": 110
   },
@@ -90,15 +98,22 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Okay. Thank you. (X-10 대화 영작 1 · 대화 빈칸 완성하기 p.46)",
    "type": "sentence",
-   "promptEn": "1 → Okay. Thank you.",
+   "promptEn": "1 → Okay. Thank you.\n시작: Okay. Thank …",
    "accept": [
-    "B: Okay. Thank you."
+    "B: Okay. Thank you.",
+    "Okay. Thank you.",
+    "ok. thanks.",
+    "Ok. thanks.",
+    "okay, thanks.",
+    "Okay, thanks.",
+    "thanks.",
+    "Thanks."
    ],
    "seconds": 110
   },
@@ -109,15 +124,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Hello. I'm looking for an interesting book. Can you help me, please? (답지 X-10 대화 영작 2)",
    "type": "sentence",
-   "promptEn": "2 → Hello. I'm looking for an interesting book. Can you help me, please?",
+   "promptEn": "2 → Hello. I'm looking for an interesting book. Can you help me, please?\n시작: Hello. I'm looking …",
    "accept": [
-    "G: Hello. I'm looking for an interesting book. Can you help me, please?"
+    "G: Hello. I'm looking for an interesting book. Can you help me, please?",
+    "Hello. I'm looking for an interesting book. Can you help me, please?"
    ],
    "seconds": 110
   },
@@ -128,15 +144,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: Of course. What do you want to read about? (답지 X-10 대화 영작 2)",
    "type": "sentence",
-   "promptEn": "2 → Of course. What do you want to read about?",
+   "promptEn": "2 → Of course. What do you want to read about?\n시작: Of course. What …",
    "accept": [
-    "M: Of course. What do you want to read about?"
+    "M: Of course. What do you want to read about?",
+    "Of course. What do you want to read about?"
    ],
    "seconds": 110
   },
@@ -147,15 +164,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Well, I'm curious about space. (답지 X-10 대화 영작 2)",
    "type": "sentence",
-   "promptEn": "2 → Well, I'm curious about space.",
+   "promptEn": "2 → Well, I'm curious about space.\n시작: Well, I'm curious …",
    "accept": [
-    "G: Well, I'm curious about space."
+    "G: Well, I'm curious about space.",
+    "Well, I'm curious about space."
    ],
    "seconds": 110
   },
@@ -166,15 +184,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: Then what about this book, Look into Space? It's about the planets. (답지 X-10 대화 영작 2)",
    "type": "sentence",
-   "promptEn": "2 → Then what about this book, Look into Space? It's about the planets.",
+   "promptEn": "2 → Then what about this book, Look into Space? It's about the planets.\n시작: Then what about …",
    "accept": [
-    "M: Then what about this book, Look into Space? It's about the planets."
+    "M: Then what about this book, Look into Space? It's about the planets.",
+    "Then what about this book, Look into Space? It's about the planets."
    ],
    "seconds": 110
   },
@@ -185,15 +204,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: It sounds very interesting. Thank you. (답지 X-10 대화 영작 2)",
    "type": "sentence",
-   "promptEn": "2 → It sounds very interesting. Thank you.",
+   "promptEn": "2 → It sounds very interesting. Thank you.\n시작: It sounds very …",
    "accept": [
-    "G: It sounds very interesting. Thank you."
+    "G: It sounds very interesting. Thank you.",
+    "It sounds very interesting. Thank you."
    ],
    "seconds": 110
   },
@@ -204,15 +224,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Sofia, what are you reading? (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → Sofia, what are you reading?",
+   "promptEn": "3 → Sofia, what are you reading?\n시작: Sofia, what are …",
    "accept": [
-    "B: Sofia, what are you reading?"
+    "B: Sofia, what are you reading?",
+    "Sofia, what are you reading?"
    ],
    "seconds": 110
   },
@@ -223,15 +244,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: I'm reading The Hobbit. (X-10 대화 영작 3 · 대화 빈칸 완성하기 p.46)",
    "type": "sentence",
-   "promptEn": "3 → I'm reading The Hobbit.",
+   "promptEn": "3 → I'm reading The Hobbit.\n시작: I'm reading The …",
    "accept": [
-    "G: I'm reading The Hobbit."
+    "G: I'm reading The Hobbit.",
+    "I'm reading The Hobbit."
    ],
    "seconds": 110
   },
@@ -242,15 +264,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Can you tell me about it? (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → Can you tell me about it?",
+   "promptEn": "3 → Can you tell me about it?\n시작: Can you tell …",
    "accept": [
-    "B: Can you tell me about it?"
+    "B: Can you tell me about it?",
+    "Can you tell me about it?"
    ],
    "seconds": 110
   },
@@ -261,15 +284,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: It's a fantasy novel. It is about adventures in a magical world. (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → It's a fantasy novel. It is about adventures in a magical world.",
+   "promptEn": "3 → It's a fantasy novel. It is about adventures in a magical world.\n시작: It's a fantasy …",
    "accept": [
-    "G: It's a fantasy novel. It is about adventures in a magical world."
+    "G: It's a fantasy novel. It is about adventures in a magical world.",
+    "It's a fantasy novel. It is about adventures in a magical world."
    ],
    "seconds": 110
   },
@@ -280,15 +304,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: It sounds interesting. I'm curious about the story. (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → It sounds interesting. I'm curious about the story.",
+   "promptEn": "3 → It sounds interesting. I'm curious about the story.\n시작: It sounds interesting …",
    "accept": [
-    "B: It sounds interesting. I'm curious about the story."
+    "B: It sounds interesting. I'm curious about the story.",
+    "It sounds interesting. I'm curious about the story."
    ],
    "seconds": 110
   },
@@ -299,15 +324,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Why don't you borrow it? You'll like it. (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → Why don't you borrow it? You'll like it.",
+   "promptEn": "3 → Why don't you borrow it? You'll like it.\n시작: Why don't you …",
    "accept": [
-    "G: Why don't you borrow it? You'll like it."
+    "G: Why don't you borrow it? You'll like it.",
+    "Why don't you borrow it? You'll like it."
    ],
    "seconds": 110
   },
@@ -318,15 +344,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Okay. I'll try reading it. (답지 X-10 대화 영작 3)",
    "type": "sentence",
-   "promptEn": "3 → Okay. I'll try reading it.",
+   "promptEn": "3 → Okay. I'll try reading it.\n시작: Okay. I'll try …",
    "accept": [
-    "B: Okay. I'll try reading it."
+    "B: Okay. I'll try reading it.",
+    "Okay. I'll try reading it."
    ],
    "seconds": 110
   },
@@ -337,15 +364,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: What are you reading? (X-10 대화 영작 4 · 대화 빈칸 완성하기 p.46)",
    "type": "sentence",
-   "promptEn": "4 → What are you reading?",
+   "promptEn": "4 → What are you reading?\n시작: What are you …",
    "accept": [
-    "A: What are you reading?"
+    "A: What are you reading?",
+    "What are you reading?"
    ],
    "seconds": 110
   },
@@ -356,15 +384,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: I'm reading the book Eragon. (답지 X-10 대화 영작 4)",
    "type": "sentence",
-   "promptEn": "4 → I'm reading the book Eragon.",
+   "promptEn": "4 → I'm reading the book Eragon.\n시작: I'm reading the …",
    "accept": [
-    "B: I'm reading the book Eragon."
+    "B: I'm reading the book Eragon.",
+    "I'm reading the book Eragon."
    ],
    "seconds": 110
   },
@@ -375,15 +404,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: Can you tell me about it? (답지 X-10 대화 영작 4)",
    "type": "sentence",
-   "promptEn": "4 → Can you tell me about it?",
+   "promptEn": "4 → Can you tell me about it?\n시작: Can you tell …",
    "accept": [
-    "A: Can you tell me about it?"
+    "A: Can you tell me about it?",
+    "Can you tell me about it?"
    ],
    "seconds": 110
   },
@@ -394,15 +424,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: It's a fantasy novel. The story is about dragons. (답지 X-10 대화 영작 4)",
    "type": "sentence",
-   "promptEn": "4 → It's a fantasy novel. The story is about dragons.",
+   "promptEn": "4 → It's a fantasy novel. The story is about dragons.\n시작: It's a fantasy …",
    "accept": [
-    "B: It's a fantasy novel. The story is about dragons."
+    "B: It's a fantasy novel. The story is about dragons.",
+    "It's a fantasy novel. The story is about dragons."
    ],
    "seconds": 110
   },
@@ -413,15 +444,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: It sounds interesting. I'm curious about it. (답지 X-10 대화 영작 4)",
    "type": "sentence",
-   "promptEn": "4 → It sounds interesting. I'm curious about it.",
+   "promptEn": "4 → It sounds interesting. I'm curious about it.\n시작: It sounds interesting …",
    "accept": [
-    "A: It sounds interesting. I'm curious about it."
+    "A: It sounds interesting. I'm curious about it.",
+    "It sounds interesting. I'm curious about it."
    ],
    "seconds": 110
   },
@@ -432,15 +464,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Excuse me. I'm trying to choose a book. Can you help me? (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → Excuse me. I'm trying to choose a book. Can you help me?",
+   "promptEn": "5 → Excuse me. I'm trying to choose a book. Can you help me?\n시작: Excuse me. I'm …",
    "accept": [
-    "G: Excuse me. I'm trying to choose a book. Can you help me?"
+    "G: Excuse me. I'm trying to choose a book. Can you help me?",
+    "Excuse me. I'm trying to choose a book. Can you help me?"
    ],
    "seconds": 110
   },
@@ -451,15 +484,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: Sure. What kind of book are you looking for? (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → Sure. What kind of book are you looking for?",
+   "promptEn": "5 → Sure. What kind of book are you looking for?\n시작: Sure. What kind …",
    "accept": [
-    "M: Sure. What kind of book are you looking for?"
+    "M: Sure. What kind of book are you looking for?",
+    "Sure. What kind of book are you looking for?"
    ],
    "seconds": 110
   },
@@ -470,15 +504,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Well, I want to read about animals. (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → Well, I want to read about animals.",
+   "promptEn": "5 → Well, I want to read about animals.\n시작: Well, I want …",
    "accept": [
-    "G: Well, I want to read about animals."
+    "G: Well, I want to read about animals.",
+    "Well, I want to read about animals."
    ],
    "seconds": 110
   },
@@ -489,15 +524,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: Okay. Books about animals are on this shelf. What kind of animals are you interested in? (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → Okay. Books about animals are on this shelf. What kind of animals are you interested in?",
+   "promptEn": "5 → Okay. Books about animals are on this shelf. What kind of animals are you interested in?\n시작: Okay. Books about …",
    "accept": [
-    "M: Okay. Books about animals are on this shelf. What kind of animals are you interested in?"
+    "M: Okay. Books about animals are on this shelf. What kind of animals are you interested in?",
+    "Okay. Books about animals are on this shelf. What kind of animals are you interested in?"
    ],
    "seconds": 110
   },
@@ -508,15 +544,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: I'm curious about sea life. (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → I'm curious about sea life.",
+   "promptEn": "5 → I'm curious about sea life.\n시작: I'm curious about …",
    "accept": [
-    "G: I'm curious about sea life."
+    "G: I'm curious about sea life.",
+    "I'm curious about sea life."
    ],
    "seconds": 110
   },
@@ -527,15 +564,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: Then what about this book, The Blue Planet? It's about animals in the deep sea. (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → Then what about this book, The Blue Planet? It's about animals in the deep sea.",
+   "promptEn": "5 → Then what about this book, The Blue Planet? It's about animals in the deep sea.\n시작: Then what about …",
    "accept": [
-    "M: Then what about this book, The Blue Planet? It's about animals in the deep sea."
+    "M: Then what about this book, The Blue Planet? It's about animals in the deep sea.",
+    "Then what about this book, The Blue Planet? It's about animals in the deep sea."
    ],
    "seconds": 110
   },
@@ -546,15 +584,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: That sounds perfect. Thank you. (답지 X-10 대화 영작 5)",
    "type": "sentence",
-   "promptEn": "5 → That sounds perfect. Thank you.",
+   "promptEn": "5 → That sounds perfect. Thank you.\n시작: That sounds perfect …",
    "accept": [
-    "G: That sounds perfect. Thank you."
+    "G: That sounds perfect. Thank you.",
+    "That sounds perfect. Thank you."
    ],
    "seconds": 110
   },
@@ -565,15 +604,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: M: You're welcome. (X-10 대화 영작 5 · 대화 빈칸 완성하기 p.47)",
    "type": "sentence",
-   "promptEn": "5 → You're welcome.",
+   "promptEn": "5 → You're welcome.\n시작: You're …",
    "accept": [
-    "M: You're welcome."
+    "M: You're welcome.",
+    "You're welcome."
    ],
    "seconds": 110
   },
@@ -584,15 +624,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: I'm trying to choose a book. Can you help me? (답지 X-10 대화 영작 6)",
    "type": "sentence",
-   "promptEn": "6 → I'm trying to choose a book. Can you help me?",
+   "promptEn": "6 → I'm trying to choose a book. Can you help me?\n시작: I'm trying to …",
    "accept": [
-    "A: I'm trying to choose a book. Can you help me?"
+    "A: I'm trying to choose a book. Can you help me?",
+    "I'm trying to choose a book. Can you help me?"
    ],
    "seconds": 110
   },
@@ -603,15 +644,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Of course. What about The Wizard of Oz? (답지 X-10 대화 영작 6)",
    "type": "sentence",
-   "promptEn": "6 → Of course. What about The Wizard of Oz?",
+   "promptEn": "6 → Of course. What about The Wizard of Oz?\n시작: Of course. What …",
    "accept": [
-    "B: Of course. What about The Wizard of Oz?"
+    "B: Of course. What about The Wizard of Oz?",
+    "Of course. What about The Wizard of Oz?"
    ],
    "seconds": 110
   },
@@ -622,15 +664,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: Hmm... Can you tell me about it? (답지 X-10 대화 영작 6)",
    "type": "sentence",
-   "promptEn": "6 → Hmm... Can you tell me about it?",
+   "promptEn": "6 → Hmm... Can you tell me about it?\n시작: Hmm... Can you …",
    "accept": [
-    "A: Hmm... Can you tell me about it?"
+    "A: Hmm... Can you tell me about it?",
+    "Hmm... Can you tell me about it?"
    ],
    "seconds": 110
   },
@@ -641,15 +684,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Sure. It's about the adventures of a young girl. (답지 X-10 대화 영작 6)",
    "type": "sentence",
-   "promptEn": "6 → Sure. It's about the adventures of a young girl.",
+   "promptEn": "6 → Sure. It's about the adventures of a young girl.\n시작: Sure. It's about …",
    "accept": [
-    "B: Sure. It's about the adventures of a young girl."
+    "B: Sure. It's about the adventures of a young girl.",
+    "Sure. It's about the adventures of a young girl."
    ],
    "seconds": 110
   },
@@ -660,15 +704,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: I'd like to read it. I'm curious about adventures. (답지 X-10 대화 영작 6)",
    "type": "sentence",
-   "promptEn": "6 → I'd like to read it. I'm curious about adventures.",
+   "promptEn": "6 → I'd like to read it. I'm curious about adventures.\n시작: I'd like to …",
    "accept": [
-    "A: I'd like to read it. I'm curious about adventures."
+    "A: I'd like to read it. I'm curious about adventures.",
+    "I'd like to read it. I'm curious about adventures."
    ],
    "seconds": 110
   },
@@ -679,15 +724,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: You'll like it. (X-10 대화 영작 6 · 대화 빈칸 완성하기 p.47)",
    "type": "sentence",
-   "promptEn": "6 → You'll like it.",
+   "promptEn": "6 → You'll like it.\n시작: You'll like …",
    "accept": [
-    "B: You'll like it."
+    "B: You'll like it.",
+    "You'll like it."
    ],
    "seconds": 110
   },
@@ -698,15 +744,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Hi, everyone! Welcome to our channel! I'm Tony. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → Hi, everyone! Welcome to our channel! I'm Tony.",
+   "promptEn": "7 → Hi, everyone! Welcome to our channel! I'm Tony.\n시작: Hi, everyone! Welcome …",
    "accept": [
-    "B: Hi, everyone! Welcome to our channel! I'm Tony."
+    "B: Hi, everyone! Welcome to our channel! I'm Tony.",
+    "Hi, everyone! Welcome to our channel! I'm Tony."
    ],
    "seconds": 110
   },
@@ -717,15 +764,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: And I'm Ivy. Today, we're going to talk about a good book. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → And I'm Ivy. Today, we're going to talk about a good book.",
+   "promptEn": "7 → And I'm Ivy. Today, we're going to talk about a good book.\n시작: And I'm Ivy …",
    "accept": [
-    "G: And I'm Ivy. Today, we're going to talk about a good book."
+    "G: And I'm Ivy. Today, we're going to talk about a good book.",
+    "And I'm Ivy. Today, we're going to talk about a good book."
    ],
    "seconds": 110
   },
@@ -736,15 +784,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Right. The book is Charlotte's Web by E. B. White. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → Right. The book is Charlotte's Web by E. B. White.",
+   "promptEn": "7 → Right. The book is Charlotte's Web by E. B. White.\n시작: Right. The book …",
    "accept": [
-    "B: Right. The book is Charlotte's Web by E. B. White."
+    "B: Right. The book is Charlotte's Web by E. B. White.",
+    "Right. The book is Charlotte's Web by E. B. White."
    ],
    "seconds": 110
   },
@@ -755,15 +804,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: Can you tell our viewers about the story? (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → Can you tell our viewers about the story?",
+   "promptEn": "7 → Can you tell our viewers about the story?\n시작: Can you tell …",
    "accept": [
-    "G: Can you tell our viewers about the story?"
+    "G: Can you tell our viewers about the story?",
+    "Can you tell our viewers about the story?"
    ],
    "seconds": 110
   },
@@ -774,15 +824,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends.",
+   "promptEn": "7 → Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends.\n시작: Sure. It's about …",
    "accept": [
-    "B: Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends."
+    "B: Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends.",
+    "Sure. It's about Charlotte, a wise spider and Wilbur, a little pig. Charlotte saves Wilbur from danger, and they become close friends."
    ],
    "seconds": 110
   },
@@ -793,15 +844,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: We can learn about true friendship from this story. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → We can learn about true friendship from this story.",
+   "promptEn": "7 → We can learn about true friendship from this story.\n시작: We can learn …",
    "accept": [
-    "G: We can learn about true friendship from this story."
+    "G: We can learn about true friendship from this story.",
+    "We can learn about true friendship from this story."
    ],
    "seconds": 110
   },
@@ -812,15 +864,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Yes. Also, there is a movie version of the story. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → Yes. Also, there is a movie version of the story.",
+   "promptEn": "7 → Yes. Also, there is a movie version of the story.\n시작: Yes. Also, there …",
    "accept": [
-    "B: Yes. Also, there is a movie version of the story."
+    "B: Yes. Also, there is a movie version of the story.",
+    "Yes. Also, there is a movie version of the story."
    ],
    "seconds": 110
   },
@@ -831,15 +884,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: G: How did you like the movie? I'm curious about your opinion. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → How did you like the movie? I'm curious about your opinion.",
+   "promptEn": "7 → How did you like the movie? I'm curious about your opinion.\n시작: How did you …",
    "accept": [
-    "G: How did you like the movie? I'm curious about your opinion."
+    "G: How did you like the movie? I'm curious about your opinion.",
+    "How did you like the movie? I'm curious about your opinion."
    ],
    "seconds": 110
   },
@@ -850,15 +904,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: I loved it. I think our viewers will enjoy both the book and the movie. (답지 X-10 대화 영작 7)",
    "type": "sentence",
-   "promptEn": "7 → I loved it. I think our viewers will enjoy both the book and the movie.",
+   "promptEn": "7 → I loved it. I think our viewers will enjoy both the book and the movie.\n시작: I loved it …",
    "accept": [
-    "B: I loved it. I think our viewers will enjoy both the book and the movie."
+    "B: I loved it. I think our viewers will enjoy both the book and the movie.",
+    "I loved it. I think our viewers will enjoy both the book and the movie."
    ],
    "seconds": 110
   },
@@ -869,15 +924,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: Which story did you choose? (답지 X-10 대화 영작 8)",
    "type": "sentence",
-   "promptEn": "8 → Which story did you choose?",
+   "promptEn": "8 → Which story did you choose?\n시작: Which story did …",
    "accept": [
-    "A: Which story did you choose?"
+    "A: Which story did you choose?",
+    "Which story did you choose?"
    ],
    "seconds": 110
   },
@@ -888,15 +944,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: I chose Inside Out. (X-10 대화 영작 8 · 대화 빈칸 완성하기 p.47)",
    "type": "sentence",
-   "promptEn": "8 → I chose Inside Out.",
+   "promptEn": "8 → I chose Inside Out.\n시작: I chose Inside …",
    "accept": [
-    "B: I chose Inside Out."
+    "B: I chose Inside Out.",
+    "I chose Inside Out."
    ],
    "seconds": 110
   },
@@ -907,15 +964,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: Can you explain the lesson of the story to me? (답지 X-10 대화 영작 8)",
    "type": "sentence",
-   "promptEn": "8 → Can you explain the lesson of the story to me?",
+   "promptEn": "8 → Can you explain the lesson of the story to me?\n시작: Can you explain …",
    "accept": [
-    "A: Can you explain the lesson of the story to me?"
+    "A: Can you explain the lesson of the story to me?",
+    "Can you explain the lesson of the story to me?"
    ],
    "seconds": 110
   },
@@ -926,15 +984,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Sure. The lesson is that emotions aren't good or bad. (답지 X-10 대화 영작 8)",
    "type": "sentence",
-   "promptEn": "8 → Sure. The lesson is that emotions aren't good or bad.",
+   "promptEn": "8 → Sure. The lesson is that emotions aren't good or bad.\n시작: Sure. The lesson …",
    "accept": [
-    "B: Sure. The lesson is that emotions aren't good or bad."
+    "B: Sure. The lesson is that emotions aren't good or bad.",
+    "Sure. The lesson is that emotions aren't good or bad."
    ],
    "seconds": 110
   },
@@ -945,15 +1004,16 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: A: Do you like the lesson? I'm curious about your opinion. (답지 X-10 대화 영작 8)",
    "type": "sentence",
-   "promptEn": "8 → Do you like the lesson? I'm curious about your opinion.",
+   "promptEn": "8 → Do you like the lesson? I'm curious about your opinion.\n시작: Do you like …",
    "accept": [
-    "A: Do you like the lesson? I'm curious about your opinion."
+    "A: Do you like the lesson? I'm curious about your opinion.",
+    "Do you like the lesson? I'm curious about your opinion."
    ],
    "seconds": 110
   },
@@ -964,31 +1024,33 @@
    "section": "s1",
    "sectionTitle": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-   "sectionInstructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
    "answerModeTag": "Type · 문장 전체",
    "explainKo": "정답: B: Yes, I like it. I learned that all emotions are important. (답지 X-10 대화 영작 8)",
    "type": "sentence",
-   "promptEn": "8 → Yes, I like it. I learned that all emotions are important.",
+   "promptEn": "8 → Yes, I like it. I learned that all emotions are important.\n시작: Yes, I like …",
    "accept": [
-    "B: Yes, I like it. I learned that all emotions are important."
+    "B: Yes, I like it. I learned that all emotions are important.",
+    "Yes, I like it. I learned that all emotions are important."
    ],
    "seconds": 110
   }
  ],
  "sectionsVersion": 2,
- "introKo": "통과 80%. 문장 전체를 쓰시오. 51문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
+ "introKo": "이 연습은 교재 문장을 정확히 옮겨 쓰는 연습입니다. 카드에 영어 문장이 그대로 나오니, 보고 그대로 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 되고, 대소문자와 마침표는 채점에 영향이 없습니다. 시간 제한이 없고, 몇 번이든 다시 풀 수 있습니다. · Copy each printed line exactly; this unit has no Korean cue in the book pages we hold.",
  "sections": [
   {
    "id": "s1",
    "title": "Section A · 대화 영작",
    "directionKo": "문장 전체를 쓰시오.",
-   "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "answerMode": "sentence",
-   "answerModeTag": "Type · 문장 전체",
-   "instructionKo": "문장 전체를 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "문장 전체를 쓰시오. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
    "itemCount": 51
   }
- ]
+ ],
+ "practiceMode": true
 }

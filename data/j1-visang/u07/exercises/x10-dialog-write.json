@@ -1,225 +1,1001 @@
 {
-  "id": "x10-dialog-write",
-  "title": "대화 영작하기",
-  "book": "중1 비상 황종배",
-  "unit": "Lesson 07 Greener, Greater",
-  "sourcePages": "X-10 pp.34-35",
-  "questionCount": 10,
-  "omitted": [],
-  "questions": [
-    {
-      "id": "1",
-      "label": "1",
-      "sourceId": 1,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 1번 대화.",
-      "type": "sentence",
-      "promptEn": "1 여자: 바다에 있는 큰 플라스틱 섬을 봐. 남자: 오, 이게 모두 플라스틱이야? 여자: 응. 난 바다 동물들이 걱정돼. 남자: 나도. 그들이 플라스틱 쓰레기를 먹고 병에 걸릴 수 있어.",
-      "accept": [
-        "W: Look at the big plastic island in the ocean.\nM: Oh, is this all plastic?\nW: Yes. I'm worried about the sea animals.\nM: Me, too. They can eat plastic waste and get sick.",
-        "W: Look at the big plastic island in the ocean. M: Oh, is this all plastic? W: Yes. I'm worried about the sea animals. M: Me, too. They can eat plastic waste and get sick."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "2",
-      "label": "2",
-      "sourceId": 2,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 2번 대화.",
-      "type": "sentence",
-      "promptEn": "2 남자: 너 걱정돼 보여. 무슨 일이야? 여자: 영어 말하기 시험이 걱정돼. 남자: 아, 그렇구나. 사람들 앞에서 말하는 것은 쉽지 않지. 여자: 응, 나한테는 항상 어려워.",
-      "accept": [
-        "M: You look worried. What's wrong?\nW: I'm worried about the English speaking test.\nM: Oh, I see. Speaking in front of people is not easy.\nW: Yeah, it is always hard for me.",
-        "M: You look worried. What's wrong? W: I'm worried about the English speaking test. M: Oh, I see. Speaking in front of people is not easy. W: Yeah, it is always hard for me."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "3",
-      "label": "3",
-      "sourceId": 3,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 3번 대화.",
-      "type": "sentence",
-      "promptEn": "3 남자: 서울은 밤에 정말 아름다워. 여자: 응, 그래. 하지만 난 새들이 걱정돼. 남자: 왜? 여자: 밤새도록 밝아서 새들이 잠을 잘 수가 없어.",
-      "accept": [
-        "M: Seoul is so beautiful at night.\nW: Yeah, it is. But I'm worried about the birds.\nM: Why?\nW: It is bright all night, so they cannot sleep well.",
-        "M: Seoul is so beautiful at night. W: Yeah, it is. But I'm worried about the birds. M: Why? W: It is bright all night, so they cannot sleep well."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "4",
-      "label": "4",
-      "sourceId": 4,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 4번 대화.",
-      "type": "sentence",
-      "promptEn": "4 남자: Jessica, 뭘 그리고 있어? 여자: 북극곰에 대한 포스터를 그리고 있어. 남자: 얼음 위의 북극곰들이 너무 슬퍼 보여. 여자: 그들은 집을 잃어가고 있어. 남자: 우리가 그들을 위해 뭔가를 해야 해. 여자: 그들에게 시간이 별로 없을지도 몰라.",
-      "accept": [
-        "M: What are you drawing, Jessica?\nW: I'm drawing a poster about polar bears.\nM: I see. Oh, the polar bears on the ice look so sad.\nW: Yeah, I'm worried about the polar bears. They are losing their homes.\nM: You're right. We need to do something for them.\nW: Right. They may not have much time.",
-        "M: What are you drawing, Jessica? W: I'm drawing a poster about polar bears. M: I see. Oh, the polar bears on the ice look so sad. W: Yeah, I'm worried about the polar bears. They are losing their homes. M: You're right. We need to do something for them. W: Right. They may not have much time."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "5",
-      "label": "5",
-      "sourceId": 5,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 5번 대화.",
-      "type": "sentence",
-      "promptEn": "5 남자: 이게 우리 콘서트 포스터 디자인이야. 여자: 멋지다. 인쇄해서 학교 주변에 붙이자. 남자: 그건 종이 낭비야. 학교 웹사이트에 게시하는 게 어때? 여자: 좋은 생각이야.",
-      "accept": [
-        "M: Look! This is the design for our concert poster.\nW: Oh, it's cool. Let's print and put up posters around the school.\nM: Well, that is a waste of paper. Why don't we post it on the school website?\nW: That's a good idea.",
-        "M: Look! This is the design for our concert poster. W: Oh, it's cool. Let's print and put up posters around the school. M: Well, that is a waste of paper. Why don't we post it on the school website? W: That's a good idea."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "6",
-      "label": "6",
-      "sourceId": 6,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 6번 대화.",
-      "type": "sentence",
-      "promptEn": "6 남자: 내일은 Green 선생님의 학교 마지막 날이야. 미국으로 돌아가실 거야. 여자: 너무 슬퍼. 그 분의 수업을 정말 좋아했어. 남자: 깜짝 파티를 열면 어떨까? 여자: 함께 준비하자.",
-      "accept": [
-        "M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.\nW: I feel so sad. I really liked his class.\nM: Me, too. Why don't we throw a surprise party for him?\nW: Great idea. Let's prepare it together.",
-        "M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S. W: I feel so sad. I really liked his class. M: Me, too. Why don't we throw a surprise party for him? W: Great idea. Let's prepare it together."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "7",
-      "label": "7",
-      "sourceId": 7,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 7번 대화.",
-      "type": "sentence",
-      "promptEn": "7 남자: 교실에 플라스틱 쓰레기가 너무 많아. 여자: 더 많이 재활용해야 해. 남자: 재미있는 재활용 상자를 만들어 교실에 놓자. 여자: 좋은 생각 같아.",
-      "accept": [
-        "M: Oh, there is too much plastic waste in our classroom.\nW: Yeah.... We need to recycle more. Do you have any ideas?\nM: Why don't we make fun recycling boxes and put them in our classroom?\nW: Sounds like a great idea.",
-        "M: Oh, there is too much plastic waste in our classroom. W: Yeah.... We need to recycle more. Do you have any ideas? M: Why don't we make fun recycling boxes and put them in our classroom? W: Sounds like a great idea."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "8",
-      "label": "8",
-      "sourceId": 8,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 8번 대화.",
-      "type": "sentence",
-      "promptEn": "8 남자: Jessica, 네 가방 예쁘다. 여자: 오래된 청바지로 만들었어. 지구의 날 프로젝트야. 남자: 나도 지구의 날에 뭔가 하고 싶어. 여자: 오래된 옷을 재사용하는 짧은 동영상을 함께 만들자.",
-      "accept": [
-        "M: Your bag is pretty, Jessica.\nW: Thank you, Toby. I made it with my old jeans. It's my Earth Day project.\nM: That's cool. I want to do something on Earth Day.\nW: Why don't we make a short video about reusing old clothes together?\nM: That's a good idea.",
-        "M: Your bag is pretty, Jessica. W: Thank you, Toby. I made it with my old jeans. It's my Earth Day project. M: That's cool. I want to do something on Earth Day. W: Why don't we make a short video about reusing old clothes together? M: That's a good idea."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "9",
-      "label": "9",
-      "sourceId": 9,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 9번 대화.",
-      "type": "sentence",
-      "promptEn": "9 남자: 해변의 쓰레기를 봐. 여자: 쓰레기가 많아. 남자: 큰 문제야. 여자: 바다 동물들이 걱정돼.",
-      "accept": [
-        "M: Look at all the trash on the beach.\nW: Yeah. There is a lot of trash.\nM: It's a big problem.\nW: Yes, it is. I'm worried about the sea animals.",
-        "M: Look at all the trash on the beach. W: Yeah. There is a lot of trash. M: It's a big problem. W: Yes, it is. I'm worried about the sea animals."
-      ],
-      "seconds": 110
-    },
-    {
-      "id": "10",
-      "label": "10",
-      "sourceId": 10,
-      "section": "s1",
-      "sectionTitle": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "sectionInstructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "explainKo": "정답은 X-10 대화 영작하기 10번 대화.",
-      "type": "sentence",
-      "promptEn": "10 여자: 이번 주 금요일이 엄마 생신이야. 특별한 선물을 드리고 싶어. 남자: 좋은 생각이 있니? 여자: 가족 사진으로 비디오를 만들자. 남자: 엄마가 좋아하실 거야.",
-      "accept": [
-        "W: This Friday is Mom's birthday. I want to give her a special present.\nM: Sounds good. Do you have any ideas?\nW: Well, why don't we make a video with our family pictures?\nM: That's a good idea. She will love it.",
-        "W: This Friday is Mom's birthday. I want to give her a special present. M: Sounds good. Do you have any ideas? W: Well, why don't we make a video with our family pictures? M: That's a good idea. She will love it."
-      ],
-      "seconds": 110
-    }
-  ],
-  "sectionsVersion": 2,
-  "introKo": "통과 80%. 다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 10문항 고르기는 누르기만 하면 됩니다. 빈칸은 그 칸의 말만 쓰세요.",
-  "sections": [
-    {
-      "id": "s1",
-      "title": "Section A · 대화 전체",
-      "directionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오.",
-      "ruleKo": "영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "answerMode": "sentence",
-      "answerModeTag": "Type · 문장 전체",
-      "instructionKo": "다음 대화를 영어 문장으로 쓰시오. 화자 표시 W:/M:를 포함해 쓰시오. 영어 문장 전체를 쓰세요. 끝 마침표는 있어도 되고 없어도 됩니다.",
-      "itemCount": 10
-    }
-  ]
+ "id": "x10-dialog-write",
+ "title": "대화 영작하기",
+ "book": "중1 비상 황종배",
+ "unit": "Lesson 07 Greener, Greater",
+ "sourcePages": "X-10 pp.34-35",
+ "questionCount": 43,
+ "omitted": [],
+ "questions": [
+  {
+   "id": "1-1",
+   "label": "1-1",
+   "sourceId": "1",
+   "section": "d1",
+   "sectionTitle": "1번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 바다에 있는 큰 플라스틱 섬을 봐.\n시작: Look at the …",
+   "accept": [
+    "W: Look at the big plastic island in the ocean.",
+    "Look at the big plastic island in the ocean."
+   ],
+   "explainKo": "정답: W: Look at the big plastic island in the ocean.",
+   "seconds": 28
+  },
+  {
+   "id": "1-2",
+   "label": "1-2",
+   "sourceId": "1",
+   "section": "d1",
+   "sectionTitle": "1번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 오, 이게 모두 플라스틱이야?\n시작: Oh, is this …",
+   "accept": [
+    "M: Oh, is this all plastic?",
+    "Oh, is this all plastic?"
+   ],
+   "explainKo": "정답: M: Oh, is this all plastic?",
+   "seconds": 28
+  },
+  {
+   "id": "1-3",
+   "label": "1-3",
+   "sourceId": "1",
+   "section": "d1",
+   "sectionTitle": "1번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 응. 난 바다 동물들이 걱정돼.\n시작: Yes. I'm worried …",
+   "accept": [
+    "W: Yes. I'm worried about the sea animals.",
+    "Yes. I'm worried about the sea animals."
+   ],
+   "explainKo": "정답: W: Yes. I'm worried about the sea animals.",
+   "seconds": 28
+  },
+  {
+   "id": "1-4",
+   "label": "1-4",
+   "sourceId": "1",
+   "section": "d1",
+   "sectionTitle": "1번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 나도. 그들이 플라스틱 쓰레기를 먹고 병에 걸릴 수 있어.\n시작: Me, too. They …",
+   "accept": [
+    "M: Me, too. They can eat plastic waste and get sick.",
+    "Me, too. They can eat plastic waste and get sick."
+   ],
+   "explainKo": "정답: M: Me, too. They can eat plastic waste and get sick.",
+   "seconds": 28
+  },
+  {
+   "id": "2-1",
+   "label": "2-1",
+   "sourceId": "2",
+   "section": "d2",
+   "sectionTitle": "2번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 너 걱정돼 보여. 무슨 일이야?\n시작: You look worried …",
+   "accept": [
+    "M: You look worried. What's wrong?",
+    "You look worried. What's wrong?"
+   ],
+   "explainKo": "정답: M: You look worried. What's wrong?",
+   "seconds": 28
+  },
+  {
+   "id": "2-2",
+   "label": "2-2",
+   "sourceId": "2",
+   "section": "d2",
+   "sectionTitle": "2번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 영어 말하기 시험이 걱정돼.\n시작: I'm worried about …",
+   "accept": [
+    "W: I'm worried about the English speaking test.",
+    "I'm worried about the English speaking test."
+   ],
+   "explainKo": "정답: W: I'm worried about the English speaking test.",
+   "seconds": 28
+  },
+  {
+   "id": "2-3",
+   "label": "2-3",
+   "sourceId": "2",
+   "section": "d2",
+   "sectionTitle": "2번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 아, 그렇구나. 사람들 앞에서 말하는 것은 쉽지 않지.\n시작: Oh, I see …",
+   "accept": [
+    "M: Oh, I see. Speaking in front of people is not easy.",
+    "Oh, I see. Speaking in front of people is not easy."
+   ],
+   "explainKo": "정답: M: Oh, I see. Speaking in front of people is not easy.",
+   "seconds": 28
+  },
+  {
+   "id": "2-4",
+   "label": "2-4",
+   "sourceId": "2",
+   "section": "d2",
+   "sectionTitle": "2번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 응, 나한테는 항상 어려워.\n시작: Yeah, it is …",
+   "accept": [
+    "W: Yeah, it is always hard for me.",
+    "Yeah, it is always hard for me."
+   ],
+   "explainKo": "정답: W: Yeah, it is always hard for me.",
+   "seconds": 28
+  },
+  {
+   "id": "3-1",
+   "label": "3-1",
+   "sourceId": "3",
+   "section": "d3",
+   "sectionTitle": "3번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 서울은 밤에 정말 아름다워.\n시작: Seoul is so …",
+   "accept": [
+    "M: Seoul is so beautiful at night.",
+    "Seoul is so beautiful at night."
+   ],
+   "explainKo": "정답: M: Seoul is so beautiful at night.",
+   "seconds": 28
+  },
+  {
+   "id": "3-2",
+   "label": "3-2",
+   "sourceId": "3",
+   "section": "d3",
+   "sectionTitle": "3번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 응, 그래. 하지만 난 새들이 걱정돼.\n시작: Yeah, it is …",
+   "accept": [
+    "W: Yeah, it is. But I'm worried about the birds.",
+    "Yeah, it is. But I'm worried about the birds."
+   ],
+   "explainKo": "정답: W: Yeah, it is. But I'm worried about the birds.",
+   "seconds": 28
+  },
+  {
+   "id": "3-3",
+   "label": "3-3",
+   "sourceId": "3",
+   "section": "d3",
+   "sectionTitle": "3번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 왜?",
+   "accept": [
+    "M: Why?",
+    "Why?",
+    "for what?",
+    "For what?",
+    "why",
+    "Why",
+    "why?"
+   ],
+   "explainKo": "정답: M: Why?",
+   "seconds": 28
+  },
+  {
+   "id": "3-4",
+   "label": "3-4",
+   "sourceId": "3",
+   "section": "d3",
+   "sectionTitle": "3번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 밤새도록 밝아서 새들이 잠을 잘 수가 없어.\n시작: It is bright …",
+   "accept": [
+    "W: It is bright all night, so they cannot sleep well.",
+    "It is bright all night, so they cannot sleep well."
+   ],
+   "explainKo": "정답: W: It is bright all night, so they cannot sleep well.",
+   "seconds": 28
+  },
+  {
+   "id": "4-1",
+   "label": "4-1",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: Jessica, 뭘 그리고 있어?\n시작: What are you …",
+   "accept": [
+    "M: What are you drawing, Jessica?",
+    "What are you drawing, Jessica?"
+   ],
+   "explainKo": "정답: M: What are you drawing, Jessica?",
+   "seconds": 25
+  },
+  {
+   "id": "4-2",
+   "label": "4-2",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 북극곰에 대한 포스터를 그리고 있어.\n시작: I'm drawing a …",
+   "accept": [
+    "W: I'm drawing a poster about polar bears.",
+    "I'm drawing a poster about polar bears."
+   ],
+   "explainKo": "정답: W: I'm drawing a poster about polar bears.",
+   "seconds": 25
+  },
+  {
+   "id": "4-3",
+   "label": "4-3",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 얼음 위의 북극곰들이 너무 슬퍼 보여.\n시작: I see. Oh …",
+   "accept": [
+    "M: I see. Oh, the polar bears on the ice look so sad.",
+    "I see. Oh, the polar bears on the ice look so sad."
+   ],
+   "explainKo": "정답: M: I see. Oh, the polar bears on the ice look so sad.",
+   "seconds": 25
+  },
+  {
+   "id": "4-4",
+   "label": "4-4",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 그들은 집을 잃어가고 있어.\n시작: Yeah, I'm worried …",
+   "accept": [
+    "W: Yeah, I'm worried about the polar bears. They are losing their homes.",
+    "Yeah, I'm worried about the polar bears. They are losing their homes."
+   ],
+   "explainKo": "정답: W: Yeah, I'm worried about the polar bears. They are losing their homes.",
+   "seconds": 25
+  },
+  {
+   "id": "4-5",
+   "label": "4-5",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 우리가 그들을 위해 뭔가를 해야 해.\n시작: You're right. We …",
+   "accept": [
+    "M: You're right. We need to do something for them.",
+    "You're right. We need to do something for them."
+   ],
+   "explainKo": "정답: M: You're right. We need to do something for them.",
+   "seconds": 25
+  },
+  {
+   "id": "4-6",
+   "label": "4-6",
+   "sourceId": "4",
+   "section": "d4",
+   "sectionTitle": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 그들에게 시간이 별로 없을지도 몰라.\n시작: Right. They may …",
+   "accept": [
+    "W: Right. They may not have much time.",
+    "Right. They may not have much time."
+   ],
+   "explainKo": "정답: W: Right. They may not have much time.",
+   "seconds": 25
+  },
+  {
+   "id": "5-1",
+   "label": "5-1",
+   "sourceId": "5",
+   "section": "d5",
+   "sectionTitle": "5번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 이게 우리 콘서트 포스터 디자인이야.\n시작: Look! This is …",
+   "accept": [
+    "M: Look! This is the design for our concert poster.",
+    "Look! This is the design for our concert poster."
+   ],
+   "explainKo": "정답: M: Look! This is the design for our concert poster.",
+   "seconds": 28
+  },
+  {
+   "id": "5-2",
+   "label": "5-2",
+   "sourceId": "5",
+   "section": "d5",
+   "sectionTitle": "5번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 멋지다. 인쇄해서 학교 주변에 붙이자.\n시작: Oh, it's cool …",
+   "accept": [
+    "W: Oh, it's cool. Let's print and put up posters around the school.",
+    "Oh, it's cool. Let's print and put up posters around the school."
+   ],
+   "explainKo": "정답: W: Oh, it's cool. Let's print and put up posters around the school.",
+   "seconds": 28
+  },
+  {
+   "id": "5-3",
+   "label": "5-3",
+   "sourceId": "5",
+   "section": "d5",
+   "sectionTitle": "5번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 그건 종이 낭비야. 학교 웹사이트에 게시하는 게 어때?\n시작: Well, that is …",
+   "accept": [
+    "M: Well, that is a waste of paper. Why don't we post it on the school website?",
+    "Well, that is a waste of paper. Why don't we post it on the school website?"
+   ],
+   "explainKo": "정답: M: Well, that is a waste of paper. Why don't we post it on the school website?",
+   "seconds": 28
+  },
+  {
+   "id": "5-4",
+   "label": "5-4",
+   "sourceId": "5",
+   "section": "d5",
+   "sectionTitle": "5번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 좋은 생각이야.\n시작: That's a good …",
+   "accept": [
+    "W: That's a good idea.",
+    "That's a good idea.",
+    "that's a great idea.",
+    "That's a great idea.",
+    "good idea.",
+    "Good idea.",
+    "that sounds good.",
+    "That sounds good.",
+    "that's a nice idea.",
+    "That's a nice idea.",
+    "great idea.",
+    "Great idea."
+   ],
+   "explainKo": "정답: W: That's a good idea.",
+   "seconds": 28
+  },
+  {
+   "id": "6-1",
+   "label": "6-1",
+   "sourceId": "6",
+   "section": "d6",
+   "sectionTitle": "6번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 내일은 Green 선생님의 학교 마지막 날이야. 미국으로 돌아가실 거야.\n시작: Tomorrow is Mr …",
+   "accept": [
+    "M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.",
+    "Tomorrow is Mr. Green's last day at school. He will go back to the U.S."
+   ],
+   "explainKo": "정답: M: Tomorrow is Mr. Green's last day at school. He will go back to the U.S.",
+   "seconds": 28
+  },
+  {
+   "id": "6-2",
+   "label": "6-2",
+   "sourceId": "6",
+   "section": "d6",
+   "sectionTitle": "6번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 너무 슬퍼. 그 분의 수업을 정말 좋아했어.\n시작: I feel so …",
+   "accept": [
+    "W: I feel so sad. I really liked his class.",
+    "I feel so sad. I really liked his class."
+   ],
+   "explainKo": "정답: W: I feel so sad. I really liked his class.",
+   "seconds": 28
+  },
+  {
+   "id": "6-3",
+   "label": "6-3",
+   "sourceId": "6",
+   "section": "d6",
+   "sectionTitle": "6번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 깜짝 파티를 열면 어떨까?\n시작: Me, too. Why …",
+   "accept": [
+    "M: Me, too. Why don't we throw a surprise party for him?",
+    "Me, too. Why don't we throw a surprise party for him?"
+   ],
+   "explainKo": "정답: M: Me, too. Why don't we throw a surprise party for him?",
+   "seconds": 28
+  },
+  {
+   "id": "6-4",
+   "label": "6-4",
+   "sourceId": "6",
+   "section": "d6",
+   "sectionTitle": "6번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 함께 준비하자.\n시작: Great idea. Let's …",
+   "accept": [
+    "W: Great idea. Let's prepare it together.",
+    "Great idea. Let's prepare it together."
+   ],
+   "explainKo": "정답: W: Great idea. Let's prepare it together.",
+   "seconds": 28
+  },
+  {
+   "id": "7-1",
+   "label": "7-1",
+   "sourceId": "7",
+   "section": "d7",
+   "sectionTitle": "7번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 교실에 플라스틱 쓰레기가 너무 많아.\n시작: Oh, there is …",
+   "accept": [
+    "M: Oh, there is too much plastic waste in our classroom.",
+    "Oh, there is too much plastic waste in our classroom."
+   ],
+   "explainKo": "정답: M: Oh, there is too much plastic waste in our classroom.",
+   "seconds": 28
+  },
+  {
+   "id": "7-2",
+   "label": "7-2",
+   "sourceId": "7",
+   "section": "d7",
+   "sectionTitle": "7번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 더 많이 재활용해야 해.\n시작: Yeah.... We need …",
+   "accept": [
+    "W: Yeah.... We need to recycle more. Do you have any ideas?",
+    "Yeah.... We need to recycle more. Do you have any ideas?"
+   ],
+   "explainKo": "정답: W: Yeah.... We need to recycle more. Do you have any ideas?",
+   "seconds": 28
+  },
+  {
+   "id": "7-3",
+   "label": "7-3",
+   "sourceId": "7",
+   "section": "d7",
+   "sectionTitle": "7번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 재미있는 재활용 상자를 만들어 교실에 놓자.\n시작: Why don't we …",
+   "accept": [
+    "M: Why don't we make fun recycling boxes and put them in our classroom?",
+    "Why don't we make fun recycling boxes and put them in our classroom?"
+   ],
+   "explainKo": "정답: M: Why don't we make fun recycling boxes and put them in our classroom?",
+   "seconds": 28
+  },
+  {
+   "id": "7-4",
+   "label": "7-4",
+   "sourceId": "7",
+   "section": "d7",
+   "sectionTitle": "7번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 좋은 생각 같아.\n시작: Sounds like a …",
+   "accept": [
+    "W: Sounds like a great idea.",
+    "Sounds like a great idea."
+   ],
+   "explainKo": "정답: W: Sounds like a great idea.",
+   "seconds": 28
+  },
+  {
+   "id": "8-1",
+   "label": "8-1",
+   "sourceId": "8",
+   "section": "d8",
+   "sectionTitle": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: Jessica, 네 가방 예쁘다.\n시작: Your bag is …",
+   "accept": [
+    "M: Your bag is pretty, Jessica.",
+    "Your bag is pretty, Jessica."
+   ],
+   "explainKo": "정답: M: Your bag is pretty, Jessica.",
+   "seconds": 25
+  },
+  {
+   "id": "8-2",
+   "label": "8-2",
+   "sourceId": "8",
+   "section": "d8",
+   "sectionTitle": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 오래된 청바지로 만들었어. 지구의 날 프로젝트야.\n시작: Thank you, Toby …",
+   "accept": [
+    "W: Thank you, Toby. I made it with my old jeans. It's my Earth Day project.",
+    "Thank you, Toby. I made it with my old jeans. It's my Earth Day project."
+   ],
+   "explainKo": "정답: W: Thank you, Toby. I made it with my old jeans. It's my Earth Day project.",
+   "seconds": 25
+  },
+  {
+   "id": "8-3",
+   "label": "8-3",
+   "sourceId": "8",
+   "section": "d8",
+   "sectionTitle": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 나도 지구의 날에 뭔가 하고 싶어.\n시작: That's cool. I …",
+   "accept": [
+    "M: That's cool. I want to do something on Earth Day.",
+    "That's cool. I want to do something on Earth Day."
+   ],
+   "explainKo": "정답: M: That's cool. I want to do something on Earth Day.",
+   "seconds": 25
+  },
+  {
+   "id": "8-4",
+   "label": "8-4",
+   "sourceId": "8",
+   "section": "d8",
+   "sectionTitle": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 오래된 옷을 재사용하는 짧은 동영상을 함께 만들자.\n시작: Why don't we …",
+   "accept": [
+    "W: Why don't we make a short video about reusing old clothes together?",
+    "Why don't we make a short video about reusing old clothes together?"
+   ],
+   "explainKo": "정답: W: Why don't we make a short video about reusing old clothes together?",
+   "seconds": 25
+  },
+  {
+   "id": "8-5",
+   "label": "8-5",
+   "sourceId": "8",
+   "section": "d8",
+   "sectionTitle": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: (앞사람의 제안에 답한다)\n시작: That's a good …",
+   "accept": [
+    "M: That's a good idea.",
+    "That's a good idea.",
+    "that's a great idea.",
+    "That's a great idea.",
+    "good idea.",
+    "Good idea.",
+    "that sounds good.",
+    "That sounds good.",
+    "that's a nice idea.",
+    "That's a nice idea.",
+    "great idea.",
+    "Great idea."
+   ],
+   "explainKo": "정답: M: That's a good idea.",
+   "seconds": 25
+  },
+  {
+   "id": "9-1",
+   "label": "9-1",
+   "sourceId": "9",
+   "section": "d9",
+   "sectionTitle": "9번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 해변의 쓰레기를 봐.\n시작: Look at all …",
+   "accept": [
+    "M: Look at all the trash on the beach.",
+    "Look at all the trash on the beach."
+   ],
+   "explainKo": "정답: M: Look at all the trash on the beach.",
+   "seconds": 28
+  },
+  {
+   "id": "9-2",
+   "label": "9-2",
+   "sourceId": "9",
+   "section": "d9",
+   "sectionTitle": "9번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 쓰레기가 많아.\n시작: Yeah. There is …",
+   "accept": [
+    "W: Yeah. There is a lot of trash.",
+    "Yeah. There is a lot of trash."
+   ],
+   "explainKo": "정답: W: Yeah. There is a lot of trash.",
+   "seconds": 28
+  },
+  {
+   "id": "9-3",
+   "label": "9-3",
+   "sourceId": "9",
+   "section": "d9",
+   "sectionTitle": "9번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 큰 문제야.\n시작: It's a big …",
+   "accept": [
+    "M: It's a big problem.",
+    "It's a big problem."
+   ],
+   "explainKo": "정답: M: It's a big problem.",
+   "seconds": 28
+  },
+  {
+   "id": "9-4",
+   "label": "9-4",
+   "sourceId": "9",
+   "section": "d9",
+   "sectionTitle": "9번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 바다 동물들이 걱정돼.\n시작: Yes, it is …",
+   "accept": [
+    "W: Yes, it is. I'm worried about the sea animals.",
+    "Yes, it is. I'm worried about the sea animals."
+   ],
+   "explainKo": "정답: W: Yes, it is. I'm worried about the sea animals.",
+   "seconds": 28
+  },
+  {
+   "id": "10-1",
+   "label": "10-1",
+   "sourceId": "10",
+   "section": "d10",
+   "sectionTitle": "10번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 이번 주 금요일이 엄마 생신이야. 특별한 선물을 드리고 싶어.\n시작: This Friday is …",
+   "accept": [
+    "W: This Friday is Mom's birthday. I want to give her a special present.",
+    "This Friday is Mom's birthday. I want to give her a special present."
+   ],
+   "explainKo": "정답: W: This Friday is Mom's birthday. I want to give her a special present.",
+   "seconds": 28
+  },
+  {
+   "id": "10-2",
+   "label": "10-2",
+   "sourceId": "10",
+   "section": "d10",
+   "sectionTitle": "10번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 좋은 생각이 있니?\n시작: Sounds good. Do …",
+   "accept": [
+    "M: Sounds good. Do you have any ideas?",
+    "Sounds good. Do you have any ideas?"
+   ],
+   "explainKo": "정답: M: Sounds good. Do you have any ideas?",
+   "seconds": 28
+  },
+  {
+   "id": "10-3",
+   "label": "10-3",
+   "sourceId": "10",
+   "section": "d10",
+   "sectionTitle": "10번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "여자: 가족 사진으로 비디오를 만들자.\n시작: Well, why don't …",
+   "accept": [
+    "W: Well, why don't we make a video with our family pictures?",
+    "Well, why don't we make a video with our family pictures?"
+   ],
+   "explainKo": "정답: W: Well, why don't we make a video with our family pictures?",
+   "seconds": 28
+  },
+  {
+   "id": "10-4",
+   "label": "10-4",
+   "sourceId": "10",
+   "section": "d10",
+   "sectionTitle": "10번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "sectionInstructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "type": "sentence",
+   "promptEn": "남자: 엄마가 좋아하실 거야.\n시작: That's a good …",
+   "accept": [
+    "M: That's a good idea. She will love it.",
+    "That's a good idea. She will love it."
+   ],
+   "explainKo": "정답: M: That's a good idea. She will love it.",
+   "seconds": 28
+  }
+ ],
+ "sectionsVersion": 2,
+ "introKo": "한 줄씩 쓰는 연습입니다. 카드마다 우리말이 있고, 시작하는 말도 적혀 있습니다. 그 말에 이어서 영어 문장을 완성하세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 채점에 영향이 없고, I'm과 I am, can't와 cannot은 같은 것으로 봅니다. 시간 제한이 없고, 몇 번이든 다시 풀 수 있습니다. · Write one line at a time. The opening words are given; finish the sentence.",
+ "sections": [
+  {
+   "id": "d1",
+   "title": "1번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d2",
+   "title": "2번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d3",
+   "title": "3번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d4",
+   "title": "4번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 6
+  },
+  {
+   "id": "d5",
+   "title": "5번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d6",
+   "title": "6번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d7",
+   "title": "7번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d8",
+   "title": "8번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 5
+  },
+  {
+   "id": "d9",
+   "title": "9번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  },
+  {
+   "id": "d10",
+   "title": "10번 대화 · 한 줄씩",
+   "directionKo": "우리말에 맞게 한 줄씩 쓰세요.",
+   "ruleKo": "말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "answerMode": "sentence",
+   "answerModeTag": "Type · 한 줄",
+   "instructionKo": "우리말에 맞게 한 줄씩 쓰세요. 말하는 사람(M·W)은 쓰지 않아도 됩니다. 대소문자와 마침표는 상관없습니다. I'm=I am, can't=cannot처럼 같은 말은 모두 맞게 채점됩니다.",
+   "itemCount": 4
+  }
+ ],
+ "practiceMode": true
 }

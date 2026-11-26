@@ -6,11 +6,39 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   "use strict";
 
+  /* Jay 2026-11-25: a student who wrote "I am" for the book's "I'm", or "cannot"
+     for "can't", was marked wrong for a difference that is not an English mistake.
+     Both spellings are the same sentence, so both are compared as one. */
+  var CONTRACTIONS = [
+    ["won't", "will not"], ["can't", "cannot"], ["cannot", "can not"], ["shan't", "shall not"],
+    ["don't", "do not"], ["doesn't", "does not"], ["didn't", "did not"],
+    ["isn't", "is not"], ["aren't", "are not"], ["wasn't", "was not"], ["weren't", "were not"],
+    ["haven't", "have not"], ["hasn't", "has not"], ["hadn't", "had not"],
+    ["couldn't", "could not"], ["shouldn't", "should not"], ["wouldn't", "would not"],
+    ["mustn't", "must not"], ["i'm", "i am"], ["i'll", "i will"], ["i've", "i have"], ["i'd", "i would"],
+    ["you're", "you are"], ["you'll", "you will"], ["you've", "you have"], ["you'd", "you would"],
+    ["he's", "he is"], ["she's", "she is"], ["it's", "it is"], ["it'll", "it will"],
+    ["we're", "we are"], ["we'll", "we will"], ["we've", "we have"],
+    ["they're", "they are"], ["they'll", "they will"], ["they've", "they have"],
+    ["that's", "that is"], ["there's", "there is"], ["what's", "what is"],
+    ["who's", "who is"], ["let's", "let us"], ["here's", "here is"]
+  ];
+  function expandContractions(s) {
+    var out = " " + String(s == null ? "" : s).toLowerCase() + " ";
+    for (var i = 0; i < CONTRACTIONS.length; i++) {
+      var a = CONTRACTIONS[i][0], b = CONTRACTIONS[i][1];
+      out = out.split(" " + a + " ").join(" " + b + " ");
+      out = out.split(" " + a + ",").join(" " + b + ",");
+      out = out.split(" " + a + ".").join(" " + b + ".");
+      out = out.split(" " + a + "?").join(" " + b + "?");
+      out = out.split(" " + a + "!").join(" " + b + "!");
+    }
+    return out.trim();
+  }
   function norm(s) {
-    return String(s == null ? "" : s)
+    return expandContractions(String(s == null ? "" : s)
       .trim()
-      .replace(/^[A-Za-z]{1,12}\s*:\s*/, "")
-      .toLowerCase()
+      .replace(/^[A-Za-z]{1,12}\s*[:)]\s*/, ""))
       .replace(/[’‘]/g, "'")
       .replace(/\s+/g, " ")
       .replace(/\s*([,;:/])\s*/g, "$1")

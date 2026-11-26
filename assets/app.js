@@ -791,6 +791,10 @@ async function play() {
     path = `data/${b}/${u}/exercises/${e}.json`;
   }
   ex = legacyExercise(await getJSON(path));
+  /* Jay 2026-11-25: 대화 영작 is a drill, not a test. practiceMode turns off the
+     pass gate, the clock and the try limit, and shows the model line at once, so a
+     student practises instead of failing the same wall three times. */
+  const practice = !!ex.practiceMode;
   // Cards held for a re-check are never shown to a student: an empty card is worse than none.
   const heldCount = (ex.questions || []).filter((q) => q.deferred).length;
   if (heldCount) ex.questions = ex.questions.filter((q) => !q.deferred);
@@ -853,7 +857,9 @@ async function play() {
       row.appendChild(cell);
     });
     if ((ex.sections || []).length) app.appendChild(row);
-    app.appendChild(el("p", "meta", `시도 ${attempts + 1} / ${MAX_ATTEMPTS}` + (onlyMode ? ` · 틀린 ${pool.length}문항` : "") + ` · 통과 기준 80% · 제한 약 ${mins}분 · 소리 없음`));
+    app.appendChild(el("p", "meta", practice
+      ? `${pool.length}문항 · 연습 모드 · 시간 제한 없음 · 몇 번이든 다시 풀 수 있습니다`
+      : `시도 ${attempts + 1} / ${MAX_ATTEMPTS}` + (onlyMode ? ` · 틀린 ${pool.length}문항` : "") + ` · 통과 기준 80% · 제한 약 ${mins}분 · 소리 없음`));
     const timerBar = el("div", "timer-bar", "");
     timerBar.id = "t";
     app.appendChild(timerBar);
@@ -889,8 +895,13 @@ async function play() {
       if (left-- <= 0) { clearInterval(timer); grade(); }
     };
     clearInterval(timer);
-    timer = setInterval(tick, 1000);
-    tick();
+    if (practice) {
+      const bar = $("#t");
+      if (bar) bar.remove();
+    } else {
+      timer = setInterval(tick, 1000);
+      tick();
+    }
     form.onsubmit = (ev) => { ev.preventDefault(); clearInterval(timer); grade(); };
     const hash = location.hash.replace(/^#/, "");
     if (hash) {
@@ -915,8 +926,8 @@ async function play() {
     sessionStorage.setItem(key, attempts);
     const score = got;
     const pct = total ? score / total : 0;
-    const passed = pct >= PASS;
-    const reveal = passed || attempts >= MAX_ATTEMPTS;
+    const passed = practice ? true : pct >= PASS;
+    const reveal = practice ? true : (passed || attempts >= MAX_ATTEMPTS);
     try {
       const bk = qs.get("b"), un = qs.get("u"), exid = qs.get("e") || "";
       const k = bk + "|" + un + "|" + exid;
@@ -955,9 +966,13 @@ async function play() {
     app.appendChild(el("h1", "practice-title", ex.title || "Practice"));
     const chip2 = sourceChip();
     if (chip2) app.appendChild(chip2);
-    const head = el("h2", passed ? "ok" : "bad", `${score} / ${total}${unitName} (${Math.round(pct * 100)}%) — ${passed ? "통과 PASS" : "미통과"}`);
+    const head = practice
+      ? el("h2", pct >= 0.8 ? "ok" : "bad", `${score} / ${total}${unitName} (${Math.round(pct * 100)}%) — 연습`)
+      : el("h2", passed ? "ok" : "bad", `${score} / ${total}${unitName} (${Math.round(pct * 100)}%) — ${passed ? "통과 PASS" : "미통과"}`);
     app.appendChild(head);
-    app.appendChild(el("p", "meta", `시도 ${attempts} / ${MAX_ATTEMPTS}`));
+    app.appendChild(el("p", "meta", practice
+      ? `틀린 줄은 아래에 정답과 함께 있습니다. 이 점수는 기록됩니다. · Marks are shown below; the score is saved.`
+      : `시도 ${attempts} / ${MAX_ATTEMPTS}`));
     if (!reveal) {
       app.appendChild(el("p", null, `80% 이상이 되어야 통과입니다. 다시 풀어 보세요. 남은 기회 ${MAX_ATTEMPTS - attempts}번.`));
       if (nextOnly && nextOnly.length) {
@@ -1000,7 +1015,8 @@ async function play() {
         app.appendChild(box);
       }
       const retry = el("button", "btn btn-primary",
-        (nextOnly && nextOnly.length) ? `틀린 ${nextOnly.length}문항만 다시 풀기 · Retry those only` : "다시 풀기 Retry");
+        practice ? "처음부터 다시 연습하기 · Practise again"
+          : (nextOnly && nextOnly.length) ? `틀린 ${nextOnly.length}문항만 다시 풀기 · Retry those only` : "다시 풀기 Retry");
       retry.id = "r";
       retry.onclick = () => start(nextOnly && nextOnly.length ? nextOnly : null);
       app.appendChild(retry);

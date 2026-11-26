@@ -33,6 +33,7 @@ run "stated word counts"            python3 scripts/check-word-counts.py
 run "letter-set options and key"    python3 scripts/check-choice-sets.py
 run "marks a question asks about"   python3 scripts/check-mark-ranges.py
 run "Korean answer grading"         node scripts/test-korean-grading.mjs
+run "every 대화 영작 practice"    node scripts/test-dialog-lines.mjs
 
 if [ "$fast" != "--fast" ]; then
   run "practice completeness"       python3 scripts/audit-practice-completeness.py
