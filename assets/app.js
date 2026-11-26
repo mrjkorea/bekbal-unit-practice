@@ -1043,6 +1043,13 @@ async function play() {
       }
       sessionStorage.removeItem(key);
       sessionStorage.removeItem(key + ":only");
+      if (practice) {
+        /* a drill is never finished: offer the same lines again, right here */
+        const once = el("button", "btn btn-primary", "같은 대화 다시 연습하기 · Practise these again");
+        once.id = "again";
+        once.onclick = () => start(null);
+        app.appendChild(once);
+      }
       const again = el("p", "crumb");
       const back = qs.get("b") && qs.get("u") ? `unit.html?b=${qs.get("b")}&u=${qs.get("u")}` : "index.html";
       again.innerHTML = `<a href="${back}">← 목록으로</a>`;
